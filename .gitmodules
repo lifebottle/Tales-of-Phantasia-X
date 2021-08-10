@@ -1,0 +1,3 @@
+[submodule "pakcomposer"]
+	path = pakcomposer
+	url = https://github.com/lifebottle/pakcomposer.git
