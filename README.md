@@ -1,5 +1,71 @@
 # Tales-of-Phantasia-X
-An attempt to localize Tales of Phantasia X
+Tales of Phantasia X English Translation
+
+<img width="480" height="272" alt="image" src="https://github.com/user-attachments/assets/ab140158-20b1-45fc-8f32-b877cb3aafec" />
+
+- **Project Managers**
+  - mziab
+  - Pegi
+
+- **Project Coordinator**
+  - Dragonbleapiece
+
+- **Lead Programmer**
+  - mziab
+
+- **Programmers**
+  - Ethanol
+  - Julian
+
+- **Main Translator**
+  - Goodguy3
+
+- **Translators**
+  - Mine
+  - SymphoniaLauren
+  - Pegi
+  - mziab
+
+- **Lead Editors**
+  - mziab
+  - Dragonbleapiece
+
+- **Editors**
+  - Kevan
+  - gatordski
+  - yoh
+  - Khayyaam
+  - FlamePurge
+
+- **Graphic Artists**
+  - Amarant
+  - FlamePurge
+  - WilliamTBOG
+
+- **Lead Localization QA**
+  - Dragonbleapiece
+
+- **Lead Functional QA**
+  - DobleC
+
+- **QA Testers**
+  - flynnforthewin
+  - Nanika
+  - getterdrill
+  - Torasouls
+  - Flamepurge
+  - dotaxis
+  - ryuza
+  - Trixarian
+  - Negi
+  - bobwhite
+  - edgarfigaro
+  - gatordski
+  - Explorer
+
+- **Original PSX Script and Translated Assets**
+  - Phantasian Productions
+
 
 ## Discord
 Join us at https://discord.gg/2KtGVNxPvD  
