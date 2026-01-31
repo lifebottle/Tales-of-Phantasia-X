@@ -27,8 +27,8 @@ Tales of Phantasia X English Translation
   - mziab
 
 - **Lead Editors**
-  - mziab
   - Dragonbleapiece
+  - mziab
 
 - **Editors**
   - Kevan
@@ -53,7 +53,7 @@ Tales of Phantasia X English Translation
   - Nanika
   - getterdrill
   - Torasouls
-  - Flamepurge
+  - FlamePurge
   - dotaxis
   - ryuza
   - Trixarian
@@ -62,6 +62,9 @@ Tales of Phantasia X English Translation
   - edgarfigaro
   - gatordski
   - Explorer
+
+- **Translation Feature Consultation**
+  - FlamePurge
 
 - **Original PSX Script and Translated Assets**
   - Phantasian Productions
