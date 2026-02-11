@@ -49,6 +49,7 @@ Tales of Phantasia X English Translation
   - DobleC
 
 - **QA Testers**
+  - Kevan
   - flynnforthewin
   - Nanika
   - getterdrill
