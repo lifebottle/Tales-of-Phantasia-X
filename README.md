@@ -41,7 +41,10 @@ Tales of Phantasia X English Translation
   - Amarant
   - FlamePurge
   - WilliamTBOG
-
+    
+- **Pre-production Information Gathering**
+  - Kevan
+  
 - **Lead Localization QA**
   - Dragonbleapiece
 
