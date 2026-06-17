@@ -1,0 +1,1990 @@
+アルヴァニスタの都{END},Capital of Alvanista{END}
+アルヴァニスタ港{END},Alvanista Harbor{END}
+アルヴァニスタ港{END},Alvanista Harbor{END}
+"『入らないでくれよ』
+<pause>
+『俺は人見知りが激しいんだ』{END}","“Please don't barge in!”
+<pause>
+“I'll have a nervous breakdown.”{END}"
+『外出中』{END},“I'm out.”{END}
+"<Cless>
+「誰も居ないのかな？」{END}","<Cless>:<nl>
+ It's quiet...{END}"
+"<Cless>
+「犬がいるみたいだ・・・」{END}","<Cless>:<nl>
+ A dog...?{END}"
+"<Cless>
+「猫がいるみたいだ・・・」{END}","<Cless>:<nl>
+ A cat...?{END}"
+『ただいま休業中』{END},"“Sorry, We're Closed.
+Please Come Again.”{END}"
+"<audio_1A16>アルヴァニスタ兵
+「街の警備は万全だ！」{END}","<audio_1A16>Alvanista Soldier:<nl>
+I assure you our city is perfectly safe!{END}"
+"<audio_1A17>ロンドリーネ
+「頼もしいね〜♪
+　ご苦労さん！」{END}","<audio_1A17>Rondoline:<nl>
+Ooh, how dependable~♪<nl>
+Keep up the good work!{END}"
+"<audio_1A18>アルヴァニスタ兵
+「大変だ、何者かが城の中に
+　紛れ込んだ！」{END}","<audio_1A18>Alvanista Soldier:<nl>
+Raise the alarm! Something's infiltrated the castle!{END}"
+"<audio_1A19>アルヴァニスタ兵
+「また、ノラ猫とか、どこかの
+　宿なしか〜」
+<pause>
+<audio_1A1A>アルヴァニスタ兵
+「気を引き締めろ！忘れたか、
+　そういう緩みがエクリプスの連
+　中を侵入させてしまったのを」{END}","<audio_1A19>Alvanista Soldier:<nl>
+Eh, it's probably a stray cat or some
+vagabond again...
+<pause>
+<audio_1A1A>Alvanista Soldier:<nl>
+Get serious! Carefree attitudes like yours
+are how those Eclipse people got in, or
+have you forgotten!?{END}"
+"<audio_1A1B>ロンドリーネ
+「エクリプス・・・？」{END}","<audio_1A1B>Rondoline:<nl>
+Eclipse...?{END}"
+"<audio_1A1C>アルヴァニスタ兵
+「しかし、警備は万全だぞ！」
+<pause>
+<audio_1A1D>アルヴァニスタ兵
+「万全に万全を期せ！」{END}","<audio_1A1C>Alvanista Soldier:<nl>
+B-But our security is perfect!
+<pause>
+<audio_1A1D>Alvanista Soldier:<nl>
+Then be perfectly prepared!{END}"
+"<audio_1A1E>ロンドリーネ
+「ね、そのエクリプスって何の
+　こと？」{END}","<audio_1A1E>Rondoline:<nl>
+Hey, what was that about the Eclipse?{END}"
+"<audio_1A1F>アルヴァニスタ兵
+「ん？なんだ？私もよくは知
+　らないが・・・」
+<pause>
+<audio_1A20>アルヴァニスタ兵
+「暗殺を稼業にしている組織だと
+　聞いたな。一族だとも言ってた
+　人がいたかな」{END}","<audio_1A1F>Alvanista Soldier:<nl>
+Hm? What? I don't really know, but...
+<pause>
+<audio_1A20>Alvanista Soldier:<nl>
+I've heard rumors that they're an organization of assassins. Some people even think they're a clan or something like that.{END}"
+"<audio_1A21>アルヴァニスタ兵
+「１５年前に先代の国王陛下が
+　お命を落とされたのも、連中に
+　狙われたかららしい」
+<pause>
+<audio_1A22>アルヴァニスタ兵
+「２００年前にミッドガルズ国王
+　が殺されたのも、やっぱりそい
+　つらのせいだって言われてる」
+<pause>
+<audio_1A23><Cless>
+「まさか、ロディのお父さんが、
+　その一族の人・・・」{END}","<audio_1A21>Alvanista Soldier:<nl>
+They say that 15 years ago when the
+previous king lost his life, that it was
+them that planned the whole thing!
+<pause>
+<audio_1A22>Alvanista Soldier:<nl>
+They even say that they were the ones who
+killed the King of Midgard some 200 years back, too!
+<pause>
+<audio_1A23><Cless>:<nl>
+No way... So Rody's father was part of that clan?{END}"
+"<audio_1A24><Arche>
+「でもさ、ロディのお父さんって
+　『老いぼれヴィクトル』とか言
+　われてなかったっけ？」{END}","<audio_1A24><Arche>:<nl>
+But wait, didn't they call Rody's dad
+“that senile old fool Victor” or something?{END}"
+"<audio_1A25><Klarth>
+「それは表向きの顔で、実は暗殺
+　が目的で城にもぐりこんでたっ
+　てところか」{END}","<audio_1A25><Klarth>:<nl>
+Perhaps that was just a ruse, a facade he put on to infiltrate the castle?{END}"
+"<audio_1A26>ロンドリーネ
+「ははっ・・・もう私には何が
+　真実か全然わかんないよ」
+<pause>
+<audio_1A27>ロンドリーネ
+「でも・・・そっか・・・父さん
+　はミッドガルズの刺客に追われ
+　ていたんだもんね・・・」
+<pause>
+<audio_1A28>ロンドリーネ
+「ミッドガルズ国王の暗殺にかか
+　わってるっていう話が本当かも
+　しれないよね」
+<pause>
+<audio_1A29>ロンドリーネ
+「あっ、ミッドガルズで大きな
+　仕事をしたってそのことかな」
+<pause>
+<audio_1A2A>ロンドリーネ
+「そう考えても、話がつながっち
+　ゃうよ」
+<pause>
+<audio_1A2B>ロンドリーネ
+「・・・本当にあの父さんが・・
+　・そんなことを・・・」{END}","<audio_1A26>Rondoline:<nl>
+Haha... At this point, I have no clue
+what the truth is anymore!
+<pause>
+<audio_1A27>Rondoline:<nl>
+But... Yeah... Father was being pursued by
+assassins from Midgard, after all.
+<pause>
+<audio_1A28>Rondoline:<nl>
+It's possible he was involved in the
+assassination of the King...
+<pause>
+<audio_1A29>Rondoline:<nl>
+Aah, maybe that's what he meant when he told me about his “important job” in Midgard...
+<pause>
+<audio_1A2A>Rondoline:<nl>
+When I think about it like that, it makes perfect sense...
+<pause>
+<audio_1A2B>Rondoline:<nl>
+Could Father really have done
+something like that...?{END}"
+"<audio_1A2C><Mint>
+「お話を聞いていると、お父様は
+　ロディさんをとても大切になさ
+　っていたように思えます」
+<pause>
+<audio_1A2D><Mint>
+「本当のことを話さなかったのは、
+　お父様には何か考えがあっての
+　ことではないでしょうか」
+<pause>
+<audio_1A2E>ロンドリーネ
+「・・・父さんの考えって・・・
+　もう、聞けないよね・・・」
+<pause>
+<audio_1A2F><Mint>
+「・・・ロディさん」{END}","<audio_1A2C><Mint>:<nl>
+When I hear you talk about him,
+it's clear that you were very important to him, Miss Rody.
+<pause>
+<audio_1A2D><Mint>:<nl>
+I'm certain he must have had a very
+good reason for not telling you what really happened.
+<pause>
+<audio_1A2E>Rondoline:<nl>
+Father's reasons...<nl>
+...He never told me...
+<pause>
+<audio_1A2F><Mint>:<nl>
+Miss Rody...{END}"
+"<audio_1A30>ロンドリーネ
+「大丈夫だよ、
+　ちょっと驚いただけ」
+<pause>
+<audio_1A31>ロンドリーネ
+「でも・・・いろいろ裏切られた
+　気分かな」{END}","<audio_1A30>Rondoline:<nl>
+I'm fine!<nl>
+I was just a little surprised, is all!
+<pause>
+<audio_1A31>Rondoline:<nl>
+Still... I can't help but feel so betrayed.{END}"
+"<audio_1A32>ロンドリーネ
+「立派な人、英雄だと思っていた
+　のに正反対に暗殺者だったなん
+　て・・・あの父さんが・・・」
+<pause>
+<audio_1A33>ロンドリーネ
+「実の両親に捨てられて、育ての
+　親にまで捨てられた感じ・・・
+　なんか寂しい・・・」{END}","<audio_1A32>Rondoline:<nl>
+I thought he was a hero, a great man...<nl>
+Now I learn he was the opposite, that my father was an assassin...
+<pause>
+<audio_1A33>Rondoline:<nl>
+I was abandoned by my real parents, and now it's like the father I thought I knew has abandoned me too...<nl>
+I feel so alone.{END}"
+"<audio_1A34>ロンドリーネ
+「・・・ううん、くやしい
+　私はなんなんだろうってさ」
+<pause>
+<audio_1A35><Arche>
+「・・・ロディは本当にお父さん
+　のこと、好きだったんだね」{END}","<audio_1A34>Rondoline:<nl>
+...Ughh. This is so annoying!<nl>
+I don't even know myself anymore...
+<pause>
+<audio_1A35><Arche>:<nl>
+...Well, you loved your father a lot, right?{END}"
+"<audio_1A36>ロンドリーネ
+「え？
+　・・・そう、なのかな？」
+<pause>
+<audio_1A37><Arche>
+「だから、ダオスと戦う時、お父
+　さんの剣を持ってこうと思った
+　んじゃないの？」
+<pause>
+<audio_1A38>ロンドリーネ
+「あれは父さんの大切にしてたも
+　のがそばにあったら、力強いな
+　と思って・・・」
+<pause>
+<audio_1A39><Arche>
+「ほら、やっぱりね」{END}","<audio_1A36>Rondoline:<nl>
+Huh?<nl>
+...You really think so?
+<pause>
+<audio_1A37><Arche>:<nl>
+Isn't that the reason you wanted to bring his sword with you for when you fight Dhaos?
+<pause>
+<audio_1A38>Rondoline:<nl>
+I thought that if I had something he held dear by my side, it would give me strength...
+<pause>
+<audio_1A39><Arche>:<nl>
+Well see? There ya go!{END}"
+"<audio_1A3A><Arche>
+「それにさ、嘘つかれてショック
+　ってことはさ、好きだったって
+　ことなんだよ」
+<pause>
+<audio_1A3B><Mint>
+「そうですね・・・だから、
+　その嘘だって・・・」{END}","<audio_1A3A><Arche>:<nl>
+And you know what? Being so shocked
+over a lie just means you care a lot!
+<pause>
+<audio_1A3B><Mint>:<nl>
+That's right. Furthermore, that “lie” he told you...{END}"
+"<audio_1A3C><Mint>
+「ロディさんのためを思っての
+　ことだと思います」
+<pause>
+<audio_1A3D><Mint>
+「真実を知れば、ロディさんが
+　悲しく思うから・・・」
+<pause>
+<audio_1A3E><Mint>
+「幼少のロディさんでは耐えられ
+　ないかもしれないと考えたので
+　はないでしょうか・・・」
+<pause>
+<audio_1A3F>ロンドリーネ
+「たとえ、
+　そうだとしても・・・」
+<pause>
+<audio_1A40>ロンドリーネ
+「父さんから聞いた話とは全然
+　違うんだ・・・」{END}","<audio_1A3C><Mint>:<nl>
+I firmly believe he was thinking only of what was best for you.
+<pause>
+<audio_1A3D><Mint>:<nl>
+If he told you the truth, it might have
+upset you back then.
+<pause>
+<audio_1A3E><Mint>:<nl>
+It's possible that he was concerned that
+you were too young to be able to handle learning something like that about him.
+<pause>
+<audio_1A3F>Rondoline:<nl>
+Even if that were the case...
+<pause>
+<audio_1A40>Rondoline:<nl>
+It's completely different from what Father had told me.{END}"
+"<audio_1A41><Mint>
+「私にはお父様の気持ちがわかる
+　ような気がします」
+<pause>
+<audio_1A42><Mint>
+「大切な、本当に大切な人だから
+　こそ伝えなかった」
+<pause>
+<audio_1A43><Mint>
+「いえ、伝えられなかったのでは
+　ないでしょうか」
+<pause>
+<audio_1A44><Mint>
+「きっと・・・
+　お父様はロディさんをとても
+　大切に思っていたと思います」{END}","<audio_1A41><Mint>:<nl>
+I think I understand how your father felt.
+<pause>
+<audio_1A42><Mint>:<nl>
+It's because you were truly so precious
+to him that he didn't tell you.
+<pause>
+<audio_1A43><Mint>:<nl>
+No, it's not that he didn't tell you,
+he simply couldn't.
+<pause>
+<audio_1A44><Mint>:<nl>
+Truly, I believe your father cared
+for you with all his heart, Miss Rody.{END}"
+"<audio_1A45><Arche>
+「どうしたの、<Mint>
+。　赤くなって〜。<Cless>、
+　<Mint>に何したの？」{END}","<audio_1A45><Arche>:<nl>
+<Mint>? What's wrong! You've turned red as a beet! <Cless>, what did you do to <Mint>?{END}"
+"<audio_1A46><Cless>
+「え？ぼ、僕は何も・・・」{END}","<audio_1A46><Cless>:<nl>
+Wha? I-I didn't do anything...!{END}"
+"<audio_1A47>ロンドリーネ
+「・・・大切に、か・・・そうな
+　のかな・・・」{END}","<audio_1A47>Rondoline:<nl>
+Precious, huh? Maybe you're right...{END}"
+"<audio_1A48>ロンドリーネ
+（私は本当のこと知らなくて
+　よかったの？父さん・・・）{END}","<audio_1A48>Rondoline<nl>
+(Was I better off not knowing the truth? Father...){END}"
+"司会
+「あきらめるかい？」{END}","Announcer:<nl>
+ Not feeling up to this, huh?
+ Calling it quits?{END}"
+"司会
+「そうか、残念だな、また挑戦し
+　てくれ！！」{END}","Announcer:<nl>
+ Oh, I'm sorry to hear that.
+ Come back and give it another
+ try sometime!{END}"
+"司会
+「ちょっと待ってくれよ」{END}","Announcer:<nl>
+ Hold on a minute.
+ The kid's still running his last lap.{END}"
+"司会
+「数えられないくらい行われてい
+　るアルヴァニスタ記念レース大
+　会〜！！」
+<pause>
+司会
+「さあ、君もレースですばらしい
+　賞品をもらおう！」<wait>{END}","Announcer:<nl>
+ Welcome to the Alvanistan
+ commemorative race!!!
+<pause>
+Announcer:<nl>
+ Terrific prizes await those quick on
+ their feet!<wait>{END}"
+"<unk1>司会
+第<num5_C000508A>回アルヴァニスタ記念レース大会〜！！」
+<pause>
+司会
+さあ、君もレースですばらしい賞品をもらおう！」<wait>{END}","<unk1>Announcer:<nl>
+ Welcome to Alvanistan
+ commemorative race #<num5_C000508A>!!!
+<pause>
+Announcer:<nl>
+ Terrific prizes await those quick on
+ their feet!<wait>{END}"
+"司会
+「君も挑戦してみないか？」
+<pause>
+司会
+「この町で一番速い少年と競争し
+　て勝ったら、すばらしい賞品を
+　プレゼントしよう！」<wait>{END}","Announcer:<nl>
+ Think you've got what it takes to
+ challenge the fastest boy in town?
+<pause>
+Announcer:<nl>
+ Outrun him, and a fantastic prize
+ of your choice is yours for the
+ taking!<wait>{END}"
+"司会
+「挑戦するかい？」{END}","Announcer:<nl>
+ Well, how about it?
+ Would you like to try?{END}"
+"マッハ少年
+「もうやりたくないよぉ、だって
+　お兄ちゃん速すぎるもん」
+<pause>
+司会
+「だってさ」
+<pause>
+司会
+「これで君はこの町で一番速いこ
+　とが証明された」
+<pause>
+司会
+「おめでとう！！」{END}","Mach Kid:<nl>
+ No, I don't want to! You should try
+ racing cheetahs or something, man.
+ I hate to admit it, but you're way
+ too fast for me.
+<pause>
+Announcer:<nl>
+ Well, there you have it, folks!
+ Mach Kid has forfeited this race!
+<pause>
+Announcer:<nl>
+ How does it feel to be the new
+ king of speed in town!?
+<pause>
+Announcer:<nl>
+ I'm utterly amazed!!!
+ I give you my sincerest
+ congratulations!{END}"
+"司会
+「よし、では説明を聞くかい？」{END}","Announcer:<nl>
+ Well, then!
+ Would you like a quick rundown of
+ the basics on this race?{END}"
+"<color_0000>司会
+「それでは、位置について！」{END}","Announcer:<nl>
+ Now!
+ To the starting line!{END}"
+"司会
+「それは残念だな」{END}","Announcer:<nl>
+ Oh, what a shame...{END}"
+"司会
+「フライング、やり直しだな」<wait>{END}","Announcer:<nl>
+ No false starts!
+ Back to the starting line.<wait>{END}"
+"マッハ少年
+「もういいよ、兄ちゃん速すぎる
+　よ・・・」{END}","Mach Kid:<nl>
+ I'm spent, man.
+ If I try to go as fast as you, my
+ legs will fall off...{END}"
+"マッハ少年
+「よっ、一勝負する？」{END}","Mach Kid:<nl>
+ Take your best shot, man!
+ I dare ya!{END}"
+"マッハ少年
+「くやし〜、負けたー！！」{END}","Mach Kid:<nl>
+ Weak!
+ I LOST!!{END}"
+"マッハ少年
+「へへっ、もう一勝負する？」{END}","Mach Kid:<nl>
+ Heheh, go ahead and try again!
+ I'll go even faster next time!{END}"
+"マッハ少年
+「どうした、あきらめるか？」{END}","Mach Kid:<nl>
+ What's wrong, man?
+ Out of breath? HA-haa!{END}"
+"お姉さん
+「あなたも参加してみない？」
+<pause>
+{END}","Young Woman:<nl>
+ Wouldn't you like to take a stab at
+ the records?
+<pause>
+{END}"
+"<unk1>お姉さん
+<laptime>が今のＣＯＵＲＳＥＲＥＣＯＲＤ」
+<pause>
+{END}","<unk1>Young Woman:<nl>
+ The fastest anyone's managed to
+ complete the course was in <num5_C0005138>.<num5_C000513A><num5_C000513C>
+ seconds.
+<pause>
+{END}"
+"<unk1>お姉さん
+そしてＦＡＳＴＥＳＴ　ＬＡＰは<laptime>よ」{END}","<unk1>Young Woman:<nl>
+ The best time for a single lap
+ currently stands at <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds.{END}"
+"お姉さん
+「がんばって！！」{END}","Young Woman:<nl>
+ Good luck!{END}"
+"町の人
+「君、速いね〜」{END}","Citizen:<nl>
+ Dang, bro!
+ You were like greased lightning out
+ there!{END}"
+"町の人
+「あの子、すごく足速いよ」
+<pause>
+町の人
+「勝てる人いるのかな？」{END}","Citizen:<nl>
+ That kid runs wicked fast.
+<pause>
+Citizen:<nl>
+ Can anyone possibly beat him?{END}"
+"町の人
+「君、速いね〜」{END}","Citizen:<nl>
+ Dang, bro!
+ You were like greased lightning out
+ there!{END}"
+"町の人
+「あの子、すごく足速いよ」
+<pause>
+町の人
+「勝てる人いるのかな？」{END}","Citizen:<nl>
+ That kid runs wicked fast.
+<pause>
+Citizen:<nl>
+ Can anyone possibly beat him?{END}"
+"町の人
+「あの子、すごく足速いよ」
+<pause>
+町の人
+「勝てる人いるのかな？」{END}","Citizen:<nl>
+ That kid runs wicked fast.
+<pause>
+Citizen:<nl>
+ Can anyone possibly beat him?{END}"
+"女の子
+「今、レースゲームやってるの」
+<pause>
+女の子
+「勝つとすごい・・・」
+<pause>
+女の子
+「か、どうかわかんないけど、ア
+　イテムがもらえるんだって」{END}","Girl:<nl>
+ If you win the race against that
+ kid, you'll get an incredible...umm...
+<pause>
+Girl:<nl>
+ Well, I don't know what exactly,
+ but it's some kind of item.
+ You'll just have to win to find out!{END}"
+"町の人
+「王子様にダオスの手先がとりつ
+　いていたんだってさ」
+<pause>
+町の人
+「でも助かったみたいで、良かっ
+　たよ」{END}","Citizen:<nl>
+ One of Dhaos' minions had turned
+ our prince into a pawn.
+<pause>
+Citizen:<nl>
+ Thank goodness someone saved
+ him!{END}"
+"町の人
+「レアード王子はみんなのアイド
+　ルなんだ」
+<pause>
+町の人
+「人格、武勇、魔術、容姿、すべ
+　て申し分なし！」
+<pause>
+町の人
+「でも、最近姿を見せてくれなく
+　て少し寂しいよ」{END}","Citizen:<nl>
+ Prince Laird is everyone's idol.
+<pause>
+Citizen:<nl>
+ Charisma, courage, magic,
+ looks--the guy's got it all!
+<pause>
+Citizen:<nl>
+ But he hasn't been seen recently,
+ and it's been a little lonely without
+ him.{END}"
+"子供
+「行け、行けぇ！！！」{END}","Child:<nl>
+ Go, go!!!{END}"
+"子供
+「な〜んかおもしろいこと、ない
+　かなぁ・・・」{END}","Child:<nl>
+ There's nothing fun to do...
+<pause>
+Child:<nl>
+ Sure, I could race that other kid,
+ but he always beats me by the
+ time I get halfway through the
+ course!{END}"
+"町の人
+「酒場に行けば冒険者がいつも集
+　まっているよ」
+<pause>
+町の人
+「モーリア坑道探索が目当てなの
+　さ」{END}","Citizen:<nl>
+ The pub's a hot spot for adventurers seeking an expedition in
+ the Moria Mine.
+<pause>
+Citizen:<nl>
+ Most likely because that's more or
+ less the only place where they can
+ get an entry permit.{END}"
+"兵士
+「ようこそ、アルヴァニスタへ」
+<pause>
+兵士
+「ここでは多くのエルフが重要職
+　に就いているんだ」
+<pause>
+兵士
+「他の国では、職に就くことさえ
+　難しいけどね」
+<pause>
+兵士
+「魔術をこの国の文化に最大限に
+　取り入れていこうというのが、
+　国王の方針なんだよ」{END}","Soldier:<nl>
+ Welcome to Alvanista.
+<pause>
+Soldier:<nl>
+ Many elves have important jobs
+ here.
+<pause>
+Soldier:<nl>
+ This place is a sort of haven for
+ them, since it's so difficult for
+ them to find work in other
+ countries.
+<pause>
+Soldier:<nl>
+ The King is doing this because he
+ wants to completely integrate
+ magic into our country's society.
+ He's very progressive.{END}"
+"<Cless>
+「何やってるんですか？」
+<pause>
+町の人
+「空の人を呼んでるんだ」
+<pause>
+<Cless>
+「空の人？」
+<pause>
+町の人
+「そう、あの空の彼方には僕らと
+　は違った高貴な種族の人達がい
+　るんだ」
+<pause>
+町の人
+「まさに神にも匹敵する人達さ」{END}","<Cless>:<nl>
+ Um, what are you guys doing?
+<pause>
+Citizen:<nl>
+ We're calling the sky people.
+<pause>
+<Cless>:<nl>
+ “Sky people”?
+<pause>
+Citizen:<nl>
+ Yeah.
+ There's a highly developed race of
+ people who are different from us
+ on the other side of the sky.
+<pause>
+Citizen:<nl>
+ They must rival the gods.{END}"
+"町の人
+「来れ！わが友！！」{END}","Citizen:<nl>
+ Come, my aerial friends!{END}"
+"町の人
+「つき合いでやってるんだけど、
+　私何やってるんだろ？」{END}","Citizen:<nl>
+ I've memorized all their mantras,
+ prayers, evocations, and
+ invocations, but...
+<pause>
+Citizen:<nl>
+ ...what the HECK is this all about?
+ I never bothered to ask...{END}"
+"兵士
+「王国の宮廷魔術師はルーングロ
+　ムという方です」
+<pause>
+兵士
+「あの方は王宮の人でありながら
+　私達にも気さくに話しかけて下
+　さいます」{END}","Soldier:<nl>
+ Lundgrom is this kingdom's Court
+ Mage.
+<pause>
+Soldier:<nl>
+ Despite his noble rank, he's happy
+ to strike up sincere conversations
+ even with us common soldiers.{END}"
+"船長
+「仕事したくな〜い」{END}","Captain:<nl>
+ With the way the world is
+ nowadays, I'm in no mood to go
+ sailing the seas.{END}"
+"船長
+「やあ、あんたらか」
+<pause>
+船長
+「ベネツィアへ行くのか？」<wait>{END}","Captain:<nl>
+ Well, well, if it isn't you guys.
+<pause>
+Captain:<nl>
+ Looking for a ride to Venezia?<wait>{END}"
+"船長
+「料金は運賃、食費、保険料を含
+　めて一人<num5_C000514E>ガルド、全員
+　で<num5_C0005150>ガルドになるぜ」
+<pause>
+船長
+「行くかい？」{END}","Captain:<nl>
+ Fare including shipping, food, and
+ insurance is <num5_C000514E> gald per person.
+<pause>
+Captain:<nl>
+ That puts the total for all
+ of you at <num5_C0005150> gald.
+ Still coming with us?{END}"
+"船長
+「お金がなきゃ、どうしようもな
+　いよ」{END}","Captain:<nl>
+ No money, no ride.
+ That's just the way the world
+ works.{END}"
+"船長
+「では、出港〜」{END}","Captain:<nl>
+ All right, set sail!{END}"
+"船長
+「それじゃ」{END}","Captain:<nl>
+ Whatever, then.{END}"
+"船乗り
+「ダオスの軍勢がミッドガルズを
+　しつこく攻撃していたけれど」
+<pause>
+船乗り
+「いったいあの国に何があったっ
+　ていうんだろう？」{END}","Sailor:<nl>
+ Dhaos' army attacked Midgard
+ persistently.
+<pause>
+Sailor:<nl>
+ What in the world did he want
+ from that country?{END}"
+"船乗り
+「ダオスの軍勢がミッドガルズを
+　しつこく攻撃しているらしい」
+<pause>
+船乗り
+「いったいあの国に何があるって
+　いうんだろう？」{END}","Sailor:<nl>
+ Seems Dhaos' army is attacking
+ Midgard relentlessly, but...
+<pause>
+Sailor:<nl>
+ Why is he so hell-bent on
+ destroying that country?{END}"
+"船乗り
+「ダオスの軍勢とミッドガルズの
+　戦争もようやく終ったね」
+<pause>
+船乗り
+「やっぱり平和が一番だよ」{END}","Sailor:<nl>
+ I'm glad to hear the war between
+ Dhaos' forces and Midgard is over.
+<pause>
+Sailor:<nl>
+ Finally, the world can relax a little.{END}"
+"船乗り
+「軍事大国っていうのも考えもの
+　だよね」
+<pause>
+船乗り
+「ミッドガルズのことさ」
+<pause>
+船乗り
+「ダオスの率いる軍勢と今もいざ
+　こざを起こしているだろ？」
+<pause>
+船乗り
+「アルヴァニスタは平和でいいよ
+　なぁ」{END}","Sailor:<nl>
+ They're thought of as a military
+ superpower, aren't they?
+<pause>
+Sailor:<nl>
+ Midgard, that is.
+<pause>
+Sailor:<nl>
+ What kind of army does Dhaos lead
+ if he can wreak such havoc on a
+ country like that?
+<pause>
+Sailor:<nl>
+ Let's just hope it stays far away
+ from here...{END}"
+"男の人
+「海、我がふるさと！！」
+<pause>
+男の人
+「広く美しく、まさに人類の母な
+　り！！」
+<pause>
+男の人
+「海を大切にしよう！！」{END}","Man:<nl>
+ The sea is my home!!!
+<pause>
+Man:<nl>
+ Vast and beautiful, it is definitely
+ the mother of humanity!!!
+<pause>
+Man:<nl>
+ Let us treasure the sea!!{END}"
+"女の子
+「私、今お妃候補修行中なの」
+<pause>
+女の子
+「いつかはタマノコシにのって
+　みせるわ！！」
+<pause>
+女の子
+「ああ〜私の王子様はいずこ〜」{END}","Girl:<nl>
+ I've just begun learning the tricks
+ to becoming a princess candidate.
+<pause>
+Girl:<nl>
+ I'm gonna master them all and
+ easily marry into royalty someday!
+<pause>
+Girl:<nl>
+ Where, oh where, is my prince?{END}"
+"男の人
+「暑い夏、青春の夏！！」
+<pause>
+男の人
+「夏はいいよね」{END}","Man:<nl>
+ Ahh, summer, the time of youth!
+<pause>
+Man:<nl>
+ Summer is good.{END}"
+"女の人
+「こんないい天気の日は海にでも
+　行って泳ぎたいわ」{END}","Woman:<nl>
+ I just want to go for a swim at
+ the beach on nice days like this.{END}"
+"男の人
+「忍者の里って知ってる？」
+<pause>
+男の人
+「トレントの森のどこかに入口が
+　あるっていう話だよ」{END}","Man:<nl>
+ Ever heard of the Ninja Village?
+<pause>
+Man:<nl>
+ An adventurer told me
+ the entrance to it is hidden away
+ somewhere in Treant Forest.{END}"
+"男の人
+「忍者の里って知ってる？」
+<pause>
+男の人
+「トレントの森のどこかに入口が
+　あるっていう話だよ」{END}","Man:<nl>
+ Ever heard of the Ninja Village?
+<pause>
+Man:<nl>
+ An adventurer at the pub told me
+ the entrance to it is hidden away
+ somewhere in Treant Forest.{END}"
+"おばあさん
+「精霊様は住んでいる地域を守る
+　だけでなく・・・」
+<pause>
+おばあさん
+「魔術の伝承書も守っているとい
+　うことじゃ」{END}","Old Lady:<nl>
+ I heard tell that not only do the
+ spirits protect their dwelling
+ places...
+<pause>
+Old Lady:<nl>
+ They also watch over legendary
+ books of magic.{END}"
+"町の人
+「精霊<var_D600>はその昔、超古代文
+　明トールの人々によって捕らえ
+　られたと言われています」
+<pause>
+町の人
+「精霊をも拘束してしまうほどの
+　文明だったとは・・・」{END}","Citizen:<nl>
+ I remember hearing that the spirit,
+ Aska, was captured by the people
+ of the ancient civilization of Thor
+ long ago.
+<pause>
+Citizen:<nl>
+ I can't even begin to imagine what
+ kind of technology could restrain
+ an otherworldly being like that...{END}"
+"男の人
+「世界一周旅行ができないか頼ん
+　でいるところです」<wait>{END}","Man:<nl>
+ I'm trying to find out why I can't
+ go on a trip around the world, but
+ this swabbie refuses to help me.<wait>{END}"
+"男の人
+「頼むから旅行させてくれよ」{END}","Man:<nl>
+ Let me travel!
+ I'm begging you!{END}"
+"船乗り
+「ダオスもいなくなったことだし
+　世界一周もいいかなぁ・・・」{END}","Sailor:<nl>
+ Well, now that Dhaos is gone,
+ maybe it's not such a bad idea to
+ let him go on that trip ...{END}"
+"船乗り
+「こいつ今の世界事情がどんなも
+　のか全くわかってねぇんだよ」<wait>{END}","Sailor:<nl>
+ Sigh...<nl>
+ This guy's completely oblivious to
+ the state of the world right now.<wait>{END}"
+"船乗り
+「無理だって！！」{END}","Sailor:<nl>
+ How many times do I
+ have to tell you!?
+ We can't go anywhere!!{END}"
+"船乗り
+「これは貨物船だよ」
+<pause>
+船乗り
+「ベルアダム周辺に開発物資を運
+　ぶのが仕事なんだ」{END}","Sailor:<nl>
+ This is a freighter.
+<pause>
+Sailor:<nl>
+ We're currently loading goods
+ designated for the outskirts of
+ Belladam.{END}"
+"船長
+「これはベルアダム行きの貨物船
+　だ」
+<pause>
+船長
+「片道しか乗せられないぞ」
+<pause>
+船長
+「料金は片道運賃、食費、保険料
+　を含めて一人<num5_C000514E>ガルド」
+<pause>
+船長
+「全員で<num5_C0005150>ガルドになるが
+　いいか？」{END}","Captain:<nl>
+ This freighter's just about to
+ depart for Belladam.
+<pause>
+Captain:<nl>
+ If you want to hitch a ride with us,
+ that's fine, but just know that it's
+ pretty much a one-way trip.
+<pause>
+Captain:<nl>
+ The instant we finish unloading the
+ cargo, we'll be going back to
+ Alvanista.
+<pause>
+Captain:<nl>
+ That out of the way, the fare,
+ including food and insurance, is
+ <num5_C000514E> gald per person.
+<pause>
+Captain:<nl>
+ That'll be <num5_C0005150> gald in total.
+ Hopping aboard?{END}"
+"船長
+「そうか」{END}","Captain:<nl>
+ I see.{END}"
+"船長
+「お金がなくちゃいけないな」{END}","Captain:<nl>
+ You don't have the money.{END}"
+"船長
+「では、出港〜！」{END}","Captain:<nl>
+ Then, let's set sail!{END}"
+"船乗り
+「アルヴァニスタの食料事情がか
+　んばしくないんだって・・・」
+<pause>
+船乗り
+「ユークリッド方面から米を輸入
+　してこいだってさ・・・」<wait>{END}","Sailor:<nl>
+ The food shortage in this country
+ just keeps getting worse.
+<pause>
+Sailor:<nl>
+ It looks like we might have to start
+ importing rice from the Euclid
+ region, of all places...<wait>{END}"
+"船乗り
+「米の輸入は見合わせた方がいい
+　のではないかと・・・」{END}","Sailor:<nl>
+ Hmm... I think we should wait just
+ a little longer to see if the situation
+ improves before taking such
+ measures...{END}"
+"身なりの良い男
+「アルヴァニスタの食料事情は、
+　かんばしくありません」
+<pause>
+身なりの良い男
+「だから、ユークリッド方面から
+　食料を輸入できないかと交渉し
+　ているところです」<wait>{END}","Dandy:<nl>
+ This country is suffering from a
+ food shortage.
+<pause>
+Dandy:<nl>
+ I'm trying to convince the shippers
+ here to bring some back from
+ Euclid.<wait>{END}"
+"<unk1>身なりの良い男
+おや、君の持っている<item_7300>を売ってくれないか？」
+<pause>
+身なりの良い男
+<0Evar004651640009C000C0>ガルドで買い取らせて下さい」
+<pause>
+<speed_0000><color_0002><item_7300>を売りますか？<color_0000>{END}","<unk1>Dandy:<nl>
+ Oh, is there any way I can possibly
+ persuade you into selling all that
+ rice you're carrying?
+<pause>
+Dandy:<nl>
+ Please!
+ I'm willing to take it off your
+ hands for <0Evar004651640009C000C0> gald.
+<pause>
+<speed_0000><color_0002>Sell your rice to him?<color_0000>{END}"
+"身なりの良い男
+「ありがとう」{END}","Dandy:<nl>
+ I really appreciate this.{END}"
+"身なりの良い男
+「そうですか、残念です・・・」{END}","Dandy:<nl>
+ I understand.
+ It must be very important to you...{END}"
+"身なりの良い男
+「陛下の御命令なのだ・・・」
+<pause>
+身なりの良い男
+「何とかしてくれないか？」{END}","Dandy:<nl>
+ His Majesty wills it...
+<pause>
+Dandy:<nl>
+ Can't something be done?{END}"
+"船乗り
+「ひとつおもしろい話を聞かせて
+　やろう」
+<pause>
+船乗り
+「海賊アイフリードって知ってる
+　か？」
+<pause>
+船乗り
+「奴が処刑された後、ミッドガル
+　ズの軍がアジトに乗り込んだん
+　だが・・・」
+<pause>
+船乗り
+「そこには奴が略奪した金品が何
+　ひとつなかったんだ」{END}","Sailor:<nl>
+ I'll tell you an interesting story.
+<pause>
+Sailor:<nl>
+ You know that pirate, Aifread?
+<pause>
+Sailor:<nl>
+ After he was executed, Midgard's
+ army raided his hideout, but they
+ came out empty-handed!{END}"
+"船乗り
+「よし、おもしろい話を聞かせて
+　やろう」
+<pause>
+船乗り
+「海賊アイフリードの噂話なんだ
+　けどな・・・」
+<pause>
+船乗り
+「奴が略奪した金品は、世界中に
+　点在する無人島なんかに隠した
+　とかいう話なんだ」{END}","Sailor:<nl>
+ Lots of interesting stories going
+ around about Aifread, the pirate...
+<pause>
+Sailor:<nl>
+ It seems he hid all of his booty on
+ deserted islands and other obscure
+ places scattered all over the world.
+<pause>
+Sailor:<nl>
+ Clever guy, if true.{END}"
+"おじさん
+「噂で聞いたんだけど、海賊アイ
+　フリードの子息が生きているら
+　しいね」
+<pause>
+おじさん
+「どこにいるかって聞かれると、
+　困るんだけどね」{END}","Old Man:<nl>
+ The son of Aifread is alive!
+ I know this because I'm psychic.
+<pause>
+Old Man:<nl>
+ My powers also tell me that if
+ word of this got out, it might spell
+ trouble for him.{END}"
+"おじいさん
+「北というのは死を暗示する縁起
+　の悪い方向じゃ」
+<pause>
+おじいさん
+「覚えといた方がええじゃ」{END}","Old Man:<nl>
+ Take heed...
+<pause>
+Old Man:<nl>
+ Northerly travel goes hand in hand
+ with death.{END}"
+"<audio_0B10><Cless>
+「どうもお世話になりました」
+<pause>
+<audio_0B11><Klarth>
+「世話になったな、船長」
+<pause>
+<audio_0B12>船長
+「いや、なに、こんな時代だ」
+<pause>
+<audio_0B13>船長
+「人間助け合って生きなきゃいけ
+　ねぇと思ってな」
+<pause>
+<audio_0B14><Klarth>
+「人情にあつい方で良かったよ」
+<pause>
+<audio_0B15>船長
+「ふっ、それじゃあ元気でな」
+<pause>
+<audio_0B16><Arche>
+「ありがと、船長さん<heart>」<wait>{END}","<audio_0B10><Cless>:<nl>
+ Thanks a lot for the ride, sir.
+<pause>
+<audio_0B11><Klarth>:<nl>
+ Yeah, even with all the trouble
+ along the way, this does us a lot of
+ good, Captain.
+<pause>
+<audio_0B12>Captain:<nl>
+ Don't mention it.
+ With you guys on board, it was
+ nothing at all.
+<pause>
+<audio_0B13>Captain:<nl>
+ People have got to watch out for
+ one another, I say.
+<pause>
+<audio_0B14><Klarth>:<nl>
+ A sentiment everyone the world
+ over should have drilled into their
+ heads, for sure.
+<pause>
+<audio_0B15>Captain:<nl>
+ Heh.
+ Well, take care of yourselves.
+<pause>
+<audio_0B16><Arche>:<nl>
+ You too, Mr. Captain <heart><wait>{END}"
+"<audio_0B17><Mint>
+「ありがとうございます」{END}","<audio_0B17><Mint>:<nl>
+ I would also like to express my
+ gratitude.{END}"
+"<audio_0B18><Cless>
+「それじゃあ、早速アルヴァニス
+　タ城に行こう」
+<pause>
+<audio_0B19><Cless>
+「早く王子を助けないと・・・」
+<pause>
+<audio_0B1A><Klarth>
+「まあ待て」
+<pause>
+<audio_0B1B><Klarth>
+「そのことで私に考えがある」
+<pause>
+<audio_0B1C><Klarth>
+「<color_0002>宿<color_0000>についたら、これからのこと
+　について話をしよう」{END}","<audio_0B18><Cless>:<nl>
+ Well, we've got no time to waste.
+ Let's hurry to the castle.
+<pause>
+<audio_0B19><Cless>:<nl>
+ Things are going to go from bad to
+ worse if we don't save the prince
+ as soon as possible...
+<pause>
+<audio_0B1A><Klarth>:<nl>
+ Hold your horses.
+<pause>
+<audio_0B1B><Klarth>:<nl>
+ I've been thinking pretty hard
+ about that.
+<pause>
+<audio_0B1C><Klarth>:<nl>
+ Rushing into a heavily guarded
+ castle without a plan would be
+ reckless. Let's head on over to the
+ <color_0002>inn<color_0000> and put one together.{END}"
+"
+<speed_0002>　　ヴァルハラ平原を舞台に
+　　　　大陸最大の戦いが
+　　ついに始まろうとしていた<wait>{END}","
+The largest war on the continent
+had finally begun, taking place
+<speed_0002> on the Valhalla Plains.<wait>{END}"
+"<Cless>
+「邪魔だなぁ・・・」{END}","<Cless>:<nl>
+ It's in the way...{END}"
+"<Cless>
+「なんだ、この邪魔なカニは！」{END}","<Cless>:<nl>
+ Dear Mr. Crab: Please move out of
+ the way.{END}"
+"<Cless>
+「なっ、なんでこいつだけ・・・」{END}","<Cless>:<nl>
+ We don't have time for this...{END}"
+"<Cless>
+「あのぉ、どいてくれませんかぁ」{END}","<Cless>:<nl>
+ Why are you doing this?
+ What did we ever do to you?{END}"
+"<Cless>
+「どいてほしいんですけど・・・」{END}","<Cless>:<nl>
+ If only you were a little larger...{END}"
+"<Cless>
+「どいていただけないでしょうか」{END}","<Cless>:<nl>
+ I...would flip you on your back...{END}"
+"<Cless>
+「どいてくれないのぉ？」{END}","<Cless>:<nl>
+ Then I'd find your weak point...{END}"
+"<Cless>
+「待つしかないのかなぁ・・・」{END}","<Cless>:<nl>
+ And strike it for massive damage!{END}"
+"<Cless>
+「時間ないんだよねぇ・・・」{END}","<Cless>:<nl>
+ It'd be just like the ninja battles in
+ those ancient history books I read!{END}"
+"<Cless>
+「どうしてくれよう・・・」{END}","<Cless>:<nl>
+ You're not even listening to me, are
+ you?{END}"
+"<Cless>
+「しかたない帰ろ・・・」{END}","<Cless>:<nl>
+ Fine, then I'll just leave.
+ See how you like that.{END}"
+"<color_0000>司会
+「レースのルールは簡単だ」
+<pause>
+司会
+「君とマッハ少年、どちらが速く
+　この町を三周するか」
+<pause>
+司会
+「ただ、これだけ・・・」
+<pause>
+司会
+「途中でやめたい時は俺に話しか
+　けてくれ」
+<pause>
+司会
+「この町から出たり家の中に入っ
+　たりしても失格になるぞ」
+<pause>
+司会
+「コースの説明も聞くかい？」{END}","<color_0000>Announcer:<nl>
+ The rules are simple.
+<pause>
+Announcer:<nl>
+ It's you versus the Mach Kid; who
+ can run three laps around town
+ fastest?
+<pause>
+Announcer:<nl>
+ That's pretty much all there is to it.
+<pause>
+Announcer:<nl>
+ If you want to stop the race
+ midway, just talk to me.
+<pause>
+Announcer:<nl>
+ If you enter a building or leave the
+ city, you'll be automatically
+ disqualified.
+<pause>
+Announcer:<nl>
+ Would you like an explanation and
+ walk-through of the course?<wait>{END}"
+"司会
+「ではコースの説明だ」<wait>{END}","Announcer:<nl>
+ All right, then...<wait>{END}"
+"司会
+「彼女がコースを歩くから覚えて
+　くれ」
+<pause>
+お姉さん
+「ではコースの説明をしますね」
+<pause>
+お姉さん
+「まずここ、東の広場がスタート
+　とゴールになります」
+<pause>
+お姉さん
+「広場のゴールラインにタッチす
+　ればＯＫです」{END}","Announcer:<nl>
+ Direct your attention to her.
+<pause>
+Young Woman:<nl>
+ First, I'll explain the starting and
+ finish lines.
+<pause>
+Young Woman:<nl>
+ The starting line and finish line is
+ right here, in the eastern plaza.
+<pause>
+Young Woman:<nl>
+ You will need to step on the finish
+ line to start your next lap.
+<pause>
+Young Woman:<nl>
+ Now, I will walk you through the
+ course.{END}"
+"お姉さん
+「スタートしたらこの町のメイン
+　ストリートに出ます」{END}","Young Woman:<nl>
+ When you start, come over here to
+ reach the city's main street.{END}"
+"お姉さん
+「メインストリートから中央広場
+　に出たら、広場の北側を通って
+　下さい」{END}","Young Woman:<nl>
+ When you reach over here, the
+ central plaza, go along the north
+ side, stay behind the trees, and get
+ back onto the main street.{END}"
+"お姉さん
+「またメインストリートを走り抜
+　け、行き止まりで北に向かいま
+　す」{END}","Young Woman:<nl>
+ As you get off the main street, go
+ north and around the bend.{END}"
+"お姉さん
+「それから南の通りに出て、そこ
+　を走り抜けます」{END}","Young Woman:<nl>
+ From here, go out onto the south
+ street, and run this way.{END}"
+"お姉さん
+「通りを抜けたらまた中央広場に
+　出ます」
+<pause>
+お姉さん
+「広場は南側を通って下さい」{END}","Young Woman:<nl>
+ After following that path, you'll
+ return to the central plaza.
+<pause>
+Young Woman:<nl>
+ Stay behind the trees as you pass
+ through the south side of the
+ plaza, please.{END}"
+"お姉さん
+「メインストリートを抜け、東の
+　広場に戻ってゴールです」{END}","Young Woman:<nl>
+ Go across the main street and
+ return to the eastern plaza where
+ the finish line is.{END}"
+"お姉さん
+「ちょっとでもコースを外れると
+　ゴールしても失格になります」<wait>{END}","Young Woman:<nl>
+ If you deviate from the course,
+ you'll be disqualified even if you
+ reach the finish line.<wait>{END}"
+<color_0002>もう一回説明を聞きますか？{END},<color_0002>Hear the explanation again?{END}
+ＬＡＰ<num5_C0005142>：計測不能{END},Lap <num5_C0005142>: Time unavailable{END}
+ＬＡＰ<num5_C0005142>：計測不能{END},Lap <num5_C0005142>: Time unavailable{END}
+ＬＡＰ<num5_C0005142>：<laptime>{END},Lap <num5_C0005142>: <num5_C0005138>.<num5_C000513A><num5_C000513C>{END}
+ＬＡＰ<num5_C0005142>：計測不能{END},Lap <num5_C0005142>: Time unavailable{END}
+ＬＡＰ<num5_C0005142>：計測不能{END},Lap <num5_C0005142>: Time unavailable{END}
+ＬＡＰ<num5_C0005142>：<laptime>{END},Lap <num5_C0005142>: <num5_C0005138>.<num5_C000513A><num5_C000513C>{END}
+ＧＯＡＬ！（ＬＡＰ<num5_C0005142>：計測不能）{END}," Finished!
+(Lap <num5_C0005142>: Time unavailable){END}"
+ＧＯＡＬ！（ＬＡＰ<num5_C0005142>：<laptime>）{END},Finished! (Lap <num5_C0005142>: <num5_C0005138>.<num5_C000513A><num5_C000513C>){END}
+"司会
+「おめでとう、君の勝ちだ！！」
+<pause>
+{END}","Announcer:<nl>
+ Congratulations!
+ You finished first!
+<pause>
+{END}"
+"<unk1>司会
+ＴＩＭＥは<num5_C0005134>時間<num5_C0005136>分<laptime>」
+<pause>
+{END}","<unk1>Announcer:<nl>
+ It took you <num5_C0005134> hour(s), <num5_C0005136>
+ minute(s) and <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds to
+ reach the finish line.
+<pause>
+Announcer:<nl>
+ Please, please don't take a nap in
+ the middle of the course next time!
+<pause>
+{END}"
+"<unk1>司会
+ＴＩＭＥは<num5_C0005136>分<laptime>」
+<pause>
+{END}","<unk1>Announcer:<nl>
+ It took you <num5_C0005136> minute(s) and <num5_C0005138>.<num5_C000513A><num5_C000513C>
+ seconds to reach the finish line.
+<pause>
+{END}"
+"<unk1>司会
+ＴＩＭＥは<laptime>」
+<pause>
+{END}","<unk1>Announcer:<nl>
+ It took you <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds to reach
+ the finish line.
+<pause>
+{END}"
+"司会
+「このＴＩＭＥはＣＯＵＲＳＥ　
+　ＲＥＣＯＲＤだ！」
+<pause>
+{END}","Announcer:<nl>
+ That's a new course record!
+ Well done!
+<pause>
+{END}"
+"司会
+「このＴＩＭＥはＣＯＵＲＳＥ　
+　ＴＩＥ　ＲＥＣＯＲＤだ！」
+<pause>
+{END}","Announcer:<nl>
+ You've tied the course record!
+ Mighty impressive!
+<pause>
+{END}"
+"司会
+「それと、君が出した<laptime>
+　というＴＩＭＥは、これまでの
+　ＦＡＳＴＥＳＴ　ＬＡＰだ」
+<pause>
+{END}","Announcer:<nl>
+ In addition, one of your laps
+ clocked in at <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds, which
+ is a new record!
+<pause>
+{END}"
+"司会
+「賞品を贈ろう」
+<pause>
+司会
+「何がいいかな？」<wait>{END}","Announcer:<nl>
+ Now, for your well-earned prize.
+<pause>
+Announcer:<nl>
+ Pick whichever one you like.<wait>{END}"
+"<color_0002><speed_0000>１。<item_4B00>
+２。<item_8101>
+３。<item_1500>
+４。<item_1300><color_0000><speed_FFFF>{END}","<color_0002><speed_0000>1. <item_4B00><nl>
+2. Rock Breaker<nl>
+3. <item_1500><nl>
+4. <item_1300><color_0000><speed_FFFF>{END}"
+"<color_0002><speed_0000>１。<item_4800>
+２。<item_4D00>
+３。<item_0100>
+４。<item_0200><color_0000><speed_FFFF>{END}","<color_0002><speed_0000>1. <item_4800><nl>
+2. <item_4D00><nl>
+3. <item_0100><nl>
+4. <item_0200><color_0000><speed_FFFF>{END}"
+"司会
+「そうか、欲のない人だ」{END}","Announcer:<nl>
+ I see you're the type that doesn't
+ ask for much.{END}"
+<color_0002><num3_C00050FA>を手に入れました。<color_0000>{END},<color_0002>Acquired <a/an><num3_C00050FA>.<color_0000>{END}
+"司会
+「残念だったね」
+<pause>
+{END}","Announcer:<nl>
+ You finished second!
+ That's too bad.
+<pause>
+{END}"
+"<unk1>司会
+ＴＩＭＥは<num5_C0005134>時間<num5_C0005136>分<laptime>」
+<pause>
+{END}","<unk1>Announcer:<nl>
+ It took you <num5_C0005134> hour(s), <num5_C0005136>
+ minute(s) and <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds to
+ reach the finish line.
+<pause>
+Announcer:<nl>
+ Please, please don't take a nap in
+ the middle of the course next time!
+<pause>
+{END}"
+"<unk1>司会
+ＴＩＭＥは<num5_C0005136>分<laptime>」
+<pause>
+{END}","<unk1>Announcer:<nl>
+ It took you <num5_C0005136> minute(s) and <num5_C0005138>.<num5_C000513A><num5_C000513C>
+ seconds to reach the finish line.
+<pause>
+{END}"
+"<unk1>司会
+ＴＩＭＥは<laptime>」
+<pause>
+{END}","<unk1>Announcer:<nl>
+ It took you <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds to reach
+ the finish line.
+<pause>
+{END}"
+"司会
+「だが、君が出した<laptime>と
+　いうＴＩＭＥは、これまでの
+　ＦＡＳＴＥＳＴ　ＬＡＰだ」
+<pause>
+{END}","Announcer:<nl>
+ But hey!
+ Don't let the loss get you down!
+ One of your laps clocked in at
+ <num5_C0005138>.<num5_C000513A><num5_C000513C>, which is a new record!
+<pause>
+{END}"
+"司会
+「また挑戦してくれよな」{END}","Announcer:<nl>
+ Well, see you next time!{END}"
+"<Klarth>
+「たまには私が走ろう」
+<pause>
+<Cless>
+「大丈夫ですか？」
+<pause>
+<Klarth>
+「ああ、心配するな」
+<pause>
+<Cless>
+「それじゃあ、お願いします」{END}","<Klarth>:<nl>
+ I think you should let *me* try it
+ this time.
+<pause>
+<Cless>:<nl>
+ No offense, but can your body
+ really handle it?
+<pause>
+<Klarth>:<nl>
+ Hmph, old age and cunning will
+ triumph over youth and speed
+ every time.
+<pause>
+<Cless>:<nl>
+ Well, if you say so.
+ (But don't blame me if
+ you break a hip...){END}"
+"<Chester>
+「オレが走るぜ」
+<pause>
+<Cless>
+「がんばれよ」{END}","<Chester>:<nl>
+ I'm gonna do this.
+ Just sit back and relax!
+<pause>
+<Cless>:<nl>
+ Don't underestimate him!{END}"
+"<Mint>
+「がんばって下さいね」
+<pause>
+<Cless>
+「うん、がんばるよ」{END}","<Mint>:<nl>
+ Be careful.
+ Don't try too hard!
+<pause>
+<Cless>:<nl>
+ Yeah, don't worry.{END}"
+"<Arche>
+「<Cless>がんばってね<heart>」
+<pause>
+<Cless>
+「ああ、まかせてよ」{END}","<Arche>:<nl>
+ Run like you've never run before,
+ <Cless>! <heart>
+<pause>
+<Cless>:<nl>
+ Leave it to me!{END}"
+"<Klarth>
+「つまらん・・・」
+<pause>
+<Cless>
+「・・・・・・」{END}","<Klarth>:<nl>
+ Sigh...
+<pause>
+<Cless>:<nl>
+ ......{END}"
+エラー<wait>{END}, Error<wait>{END}
+"司会
+「これは副賞です」
+<pause>
+<color_0002><item_9201>を手に入れました。{END}","Announcer:<nl>
+ Here's a little bonus to sweeten
+ things!
+<pause>
+<color_0002>Acquired the <item_9201>.{END}"
+"司会
+「マッハ少年に勝利したあなたを
+　称える意味で『マッハ青年』の
+　称号を与えよう」
+<pause>
+<Cless>
+「やったぜ」<wait>{END}","Announcer:<nl>
+ In honor of your defeat of Mach
+ Kid, we bestow upon you the title
+ of “Mach Boy”!
+<pause>
+<Cless>:<nl>
+ Woohoo!<wait>{END}"
+<color_0002><Cless>は『<var_9001>』の称号を得ました。<color_0000>{END},"<color_0002><Cless> has earned the title
+“Mach Boy.”<color_0000>{END}"
+"司会
+「マッハ少年に勝利したあなたを
+　称える意味で『マッハ青年』の
+　称号を・・・」
+<pause>
+<Chester>
+「・・・おい、もっとカッコいい
+　呼び名をくれよ」
+<pause>
+司会
+「えっ、あっ、そうかい？」
+<pause>
+<Chester>
+「何か、俺にふさわしいイカした
+　呼び名が欲しいんだよ」
+<pause>
+司会
+「えーと・・・」
+<pause>
+<Chester>
+「今の俺の走りっぷりを見てさ、
+　何かあるだろう、ほら！」
+<pause>
+司会
+「そうだなぁ・・・」
+<pause>
+司会
+「マッハ少年に勝利したあなたを
+　称える意味で『激・マッハ野郎』
+　の称号を与えよう！」
+<pause>
+<Chester>
+「・・・・・・」
+<pause>
+<Chester>
+「カッコ悪りぃ・・・」<wait>{END}","Announcer:<nl>
+ In honor of your defeat of Mach
+ Kid, we bestow upon you the title
+ of “Mach Boy”...
+<pause>
+<Chester>:<nl>
+ ...Say what? Is this a joke, man?
+ That's not cool enough for me!
+<pause>
+Announcer:<nl>
+ Wh-What?
+<pause>
+<Chester>:<nl>
+ What do you mean, “what”?
+ All I'm asking for is something that
+ jibes with my style.
+<pause>
+Announcer:<nl>
+ Ummm...
+<pause>
+<Chester>:<nl>
+ C'mon, you saw me! I was kickin'
+ ass and takin' names! Can't you
+ come up with SOMETHING that
+ sounds, you know, badass!?
+<pause>
+Announcer:<nl>
+ Riiight...“badass”...<nl>
+ Very well...
+<pause>
+Announcer:<nl>
+ In honor of your defeat of Mach
+ Kid, we bestow upon you the title
+ of “Super Mach Bastard”!
+<pause>
+<Chester>:<nl>
+ Sigh...
+<pause>
+<Chester>:<nl>
+ That's what you would call a
+ dumbass, not a badass...<wait>{END}"
+<color_0002><Chester>は『<var_CD01>』の称号を得ました。<color_0000>{END},"<color_0002><Chester> has earned the title
+“<var_CD01>.”<color_0000>{END}"
+"司会
+「マッハ少年に勝利したあなたを
+　称える意味で「マッハ中年」の
+　称号を・・・」
+<pause>
+{END}","Announcer:<nl>
+ In honor of your defeat of Mach
+ Kid, we bestow upon you the title
+ of “Mach Daddy”...
+<pause>
+{END}"
+"<Klarth>
+「いらん！」
+<pause>
+{END}","<Klarth>:<nl>
+ Oh HELL NO!
+<pause>
+{END}"
+"司会
+「えっ、いや、しかし・・・」
+<pause>
+<Klarth>
+「断じて、いらん！」
+<pause>
+{END}","Announcer:<nl>
+ Um, well, but I--
+<pause>
+<Klarth>:<nl>
+ Forget it! I'd sooner do the hundred
+ yard dash over searing hot coals
+ barefoot before agreeing to let
+ ANYONE call me that!
+<pause>
+{END}"
+"司会
+「わ、わかりました・・・」
+<pause>
+{END}","Announcer:<nl>
+ Th-The sight of that is something I
+ could do without...
+<pause>
+{END}"
+<color_0002><Klarth>は『マッハちゅうねん』の称号を辞退しました。<color_0000>{END},"<color_0002><Klarth> adamantly refused the
+title “Mach Daddy.”<color_0000>{END}"
+"町の人
+「コースレコードに興味があるん
+　だ」
+<pause>
+{END}","Citizen:<nl>
+ Wow, I'm stunned!
+ You tore up the previous course
+ record something good!
+<pause>
+{END}"
+"町の人
+「３９秒００を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+<color_0002><item_6801>を手に入れました。<wait><color_0000>{END}","Citizen:<nl>
+ I clocked your finish within 39.00
+ seconds! Here's a reward.
+<pause>
+<color_0002>Acquired a <item_6801>.<wait><color_0000>{END}"
+"町の人
+「３９秒２５を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked your finish within 39.25
+ seconds! Here's a reward.
+<pause>
+{END}"
+<color_0002><item_6B01>を手に入れました。<wait><color_0000>{END},<color_0002>Acquired a bunch of <item_6B01>s.<wait><color_0000>{END}
+"町の人
+「３９秒５０を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked your finish within 39.50
+ seconds! Here's a reward.
+<pause>
+{END}"
+<color_0002><item_7701>を手に入れました。<wait><color_0000>{END},<color_0002>Acquired <item_7701>.<wait><color_0000>{END}
+"町の人
+「３９秒７５を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked your finish within 39.75
+ seconds! Here's a reward.
+<pause>
+{END}"
+<color_0002><item_7401>を手に入れました。<wait><color_0000>{END},<color_0002>Acquired a <item_7401>.<wait><color_0000>{END}
+"町の人
+「４０秒００を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked your finish within 40.00
+ seconds! Here's a reward.
+<pause>
+{END}"
+<color_0002><item_9300>を手に入れました。<wait><color_0000>{END},<color_0002>Acquired <item_9300>.<wait><color_0000>{END}
+<color_0002><item_A000>を手に入れました。<wait><color_0000>{END},<color_0002>Acquired a <item_A000>.<wait><color_0000>{END}
+"町の人
+「４０秒５０を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked your finish within 40.50
+ seconds! Here's a reward.
+<pause>
+{END}"
+<color_0002><item_7B01>を手に入れました。<wait><color_0000>{END},<color_0002>Acquired a <item_7B01>.<wait><color_0000>{END}
+"町の人
+「４１秒００を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked your finish within 41.00
+ seconds! Here's a reward.
+<pause>
+{END}"
+<color_0002><item_4800>と<item_4D00>を手に入れました。<wait><color_0000>{END},<color_0002>Acquired some <item_4800> and a <item_4D00>.<wait><color_0000>{END}
+"町の人
+「４１秒５０を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked your finish within 41.50
+ seconds! Here's a reward.
+<pause>
+{END}"
+<color_0002><item_0200>を手に入れました。<wait><color_0000>{END},<color_0002>Acquired <item_0200>.<wait><color_0000>{END}
+"町の人
+「４２秒００を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked your finish within 42.00
+ seconds! Here's a reward.
+<pause>
+{END}"
+<color_0002><item_A400>を手に入れました。<wait><color_0000>{END},<color_0002>Acquired a <item_A400>.<wait><color_0000>{END}
+"町の人
+「でも、もう速さの限界領域まで
+　きているみたいだね」{END}","Citizen:<nl>
+ ...Sorry bro, I never thought anyone
+ could be so fast. I'm clean out of
+ rewards. You'll just have to accept
+ my admiration!{END}"
+"町の人
+「記録更新めざして頑張ってね」{END}","Citizen:<nl>
+ Keep it up and you'll smash that
+ record to pieces!{END}"
+"町の人
+「最速ラップに興味があるんだ」
+<pause>
+{END}","Citizen:<nl>
+ Whoa, that was a pretty sweet lap
+ time you had there.
+<pause>
+{END}"
+"町の人
+「１２秒９０を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+<color_0002><item_7D00>をたっぷり手に入れました。<wait><color_0000>{END}","Citizen:<nl>
+ I clocked it within 12.90 seconds!
+ Here's a reward.
+<pause>
+<color_0002>Acquired a bunch of <item_7D00>s.<wait><color_0000>{END}"
+"町の人
+「１３秒００を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked it within 13.00 seconds!
+ Here's a reward.
+<pause>
+{END}"
+<color_0002>食材詰め合わせを手に入れました。<wait><color_0000>{END},"<color_0002>Acquired an assortment of cooking
+ingredients.<wait><color_0000>{END}"
+"町の人
+「１３秒１０を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked it within 13.10 seconds!
+ Here's a reward.
+<pause>
+{END}"
+<color_0002><item_7C00>をたっぷり手に入れました。<wait><color_0000>{END},<color_0002>Acquired a bunch of <item_7C00>s.<wait><color_0000>{END}
+"町の人
+「１３秒２０を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked it within 13.20 seconds!
+ Here's a reward.
+<pause>
+{END}"
+<color_0002><item_7B00>をたっぷり手に入れました。<wait><color_0000>{END},<color_0002>Acquired a bunch of <item_7B00>s.<wait><color_0000>{END}
+"町の人
+「１３秒３０を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked it within 13.30 seconds!
+ Here's a reward.
+<pause>
+{END}"
+<color_0002><item_7A00>をたっぷり手に入れました。<wait><color_0000>{END},<color_0002>Acquired a bunch of <item_7A00>s.<wait><color_0000>{END}
+"町の人
+「１３秒４０を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked it within 13.40 seconds!
+ Here's a reward.
+<pause>
+{END}"
+<color_0002>赤い薬草セットを手に入れました。<wait><color_0000>{END},<color_0002>Acquired a set of red herbs.<wait><color_0000>{END}
+"町の人
+「１３秒５０を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked it within 13.50 seconds!
+ Here's a reward.
+<pause>
+{END}"
+<color_0002>薬草セットを手に入れました。<wait><color_0000>{END},<color_0002>Acquired a set of herbs.<wait><color_0000>{END}
+"町の人
+「１３秒７５を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked it within 13.75 seconds!
+ Here's a reward.
+<pause>
+{END}"
+<color_0002>食材セットを手に入れました。<wait><color_0000>{END},<color_0002>Acquired a set of food.<wait><color_0000>{END}
+"町の人
+「１４秒００を切ったようだね。
+　君にはこれをあげよう」
+<pause>
+{END}","Citizen:<nl>
+ I clocked it within 14.00 seconds!
+ Here's a reward.
+<pause>
+{END}"
+<color_0002>グミをたっぷり手に入れました。<wait><color_0000>{END},<color_0002>Acquired a bunch of gels.<wait><color_0000>{END}
+"町の人
+「でも、もう速さの限界領域まで
+　きているみたいだね」{END}","Citizen:<nl>
+ ...Sorry, but I didn't prepare for
+ someone so awesomely fast.{END}"
+"町の人
+「記録更新めざして頑張ってね」{END}","Citizen:<nl>
+ Keep it up and you'll smash that
+ record to pieces!{END}"
+"船乗り
+「タチの悪いカニは相手にしない
+　方がいいよ」
+<pause>
+船乗り
+「まあ、待つしかないね」{END}","Sailor:<nl>
+ You'd best not go up against that
+ evil crab.
+<pause>
+Sailor:<nl>
+ Many a good man has fallen victim
+ to its nefarious devices.{END}"
+"<audio_1A16>アルヴァニスタ兵
+「街の警備は万全だ！」{END}","<audio_1A16>Alvanista Soldier:<nl>
+I assure you our city is perfectly safe!{END}"

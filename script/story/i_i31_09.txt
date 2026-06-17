@@ -1,0 +1,726 @@
+Euclidean Academy of Science{END}
+
+Uncle Olson's House{END}
+
+Uncle Olson's House{END}
+
+<Cless>:<nl>
+ Let's look inside the stove...{END}
+
+<Cless>:<nl>
+ OW OW OW!!{END}
+
+<audio_1136>Harrison:<nl>
+ So, you can summon Volt now, I
+ take it?
+<pause>
+<audio_1137><Klarth>:<nl>
+ Indeed.
+ Now let's call him out...{END}
+
+<audio_1138><Klarth>:<nl>
+ Volt, I want you to help us.
+<pause>
+<audio_1139><Klarth>:<nl>
+ I wish you to infuse these flying
+ machines with your power.
+<pause>
+<audio_113A>Volt:<nl>
+ <volt4><volt2><volt3><volt1><volt3><volt4><volt4><volt1><volt3><volt2><volt3><volt4><volt1><wait>{END}
+
+<unk1><audio_113B><Cless>:<nl>
+ Is this going to work?
+<pause>
+<audio_113C><Klarth>:<nl>
+ I-I sure hope so...
+<pause>
+<audio_113D><Klarth>:<nl>
+ <Arche>, stick your broom
+ between the Rheairds.
+<pause>
+<audio_113E><Arche>:<nl>
+ 'Kay.{END}
+
+<audio_113F>Stanley:<nl>
+ That should've done the trick.{END}
+
+<audio_1140>Stanley:<nl>
+ This will soon be of use to you.
+<pause>
+<audio_1141><Klarth>:<nl>
+ A...capsule?
+<pause>
+<audio_1142>Stanley:<nl>
+ Pay close attention.
+ I am only going to demonstrate
+ this once.{END}
+
+<audio_1143><Chester>:<nl>
+ It can suck up the Rheairds!?
+<pause>
+<audio_1144><Mint>:<nl>
+ What kind of capsule can do such a
+ thing?
+<pause>
+<audio_1145>Stanley:<nl>
+ This tool is not any mere capsule.
+ It is called a Wing Pack.
+<pause>
+<audio_1146>Stanley:<nl>
+ It compresses the Rheairds down
+ to an ultra-compact state and then
+ stores them, allowing you to carry
+ them anywhere.
+<pause>
+<audio_1147>Stanley:<nl>
+ Take it.<wait>{END}
+
+<color_0002>Acquired a <item_4000>.<color_0000>
+<pause>
+<audio_1148><Cless>:<nl>
+ Thank you.
+<pause>
+<audio_1149>Harrison:<nl>
+ Now, let us use these devices to
+ reach Alvanista with all due haste.
+<pause>
+<audio_114A>Harrison:<nl>
+ I must report to His Majesty about
+ you immediately.<wait>{END}
+
+<audio_114B>Stanley:<nl>
+ In that case, you should take a
+ <item_4000> for yourself. Here.
+<pause>
+<audio_114C>Harrison:<nl>
+ Thanks.<wait>{END}
+
+<audio_114D>Harrison:<nl>
+ Then I shall be leaving by myself.
+ Please follow me as soon as
+ possible, everyone.{END}
+
+<audio_114E>Stanley:<nl>
+ Now I will explain the Rheairds and
+ their functions.
+<pause>
+<audio_114F>Stanley:<nl>
+ They are compact flying machines
+ which have been equipped with the
+ latest balancers and control units.
+<pause>
+<audio_1150>Stanley:<nl>
+ All the pilot has to do is press the
+ button to start the engine.
+<pause>
+<audio_1151>Stanley:<nl>
+ Next, I'll explain how to operate
+ them. It's simple, so it should be
+ easy to remember.<wait>{END}
+
+<audio_1152>Stanley:<nl>
+ First, <var_0102> will initiate take-off.
+ However, it's dangerous to do this
+ in populated areas, so wait until
+ you've left the city.
+<pause>
+<audio_1153>Stanley:<nl>
+ Once you're airborne, <var_0102> moves the
+ Rheairds forward.
+<pause>
+<audio_1154>Stanley:<nl>
+ <var_0802> left and right allows you to
+ steer, while up and down allows
+ you to change altitude.
+<pause>
+<audio_1155>Stanley:<nl>
+ If you wish to make small, precise
+ movements, you can strafe by
+ holding <var_0302> and pressing the
+ direction you desire.
+<pause>
+<audio_1156>Stanley:<nl>
+ Finally, when you're all set to make
+ a landing, press <var_0202> to initiate it.
+<pause>
+<audio_1157>Stanley:<nl>
+ As the Rheairds expend little
+ energy after takeoff, you can land
+ them safely in cities if you wish.
+<pause>
+<audio_1158>Stanley:<nl>
+ Don't even try to land in rocky,
+ uneven terrain or bodies of water.
+<pause>
+<audio_1159>Stanley:<nl>
+ You can use the aircraft's shadow
+ as a guide for your landing spot if
+ need be.
+<pause>
+<audio_115A>Stanley:<nl>
+ And that is all there is to it.
+ Simple like I said, yes?
+ Or do you need me to
+ explain it again?{END}
+
+<audio_115B><Mint>:<nl>
+ We are really very grateful to you
+ for sharing your expertise.
+<pause>
+<audio_115C>Stanley:<nl>
+ If they somehow break down,
+ bring them back.
+<pause>
+<audio_115D>Stanley:<nl>
+ But what could possibly go wrong
+ with MY inventions, hmm?
+<pause>
+<audio_115E><Cless>:<nl>
+ I guess that's all, then.
+ Time to blast off to <color_0002>Alvanista<color_0000>!!{END}
+
+<unk1>Olson<audio_06E8>:<nl>
+ You must be exhausted.<wait>{END}
+
+Olson<audio_06E9>:<nl>
+ Why don't you get some shuteye?
+<pause>
+<color_0002>Rest?<color_0000>{END}
+
+Olson:<nl>
+ Don't be shy, now.
+ You've had a long day,
+ so please rest.
+<pause>
+<color_0002>Rest?<color_0000>{END}
+
+Olson:<nl>
+ If you insist.
+ Just don't wear yourself
+ out, you hear?{END}
+
+Joanne:<nl>
+ Cheer up, <Cless>.
+ It'll be okay.
+ We'll take care of you.{END}
+
+Guard:<nl>
+ This is the federal research center.
+<pause>
+Guard:<nl>
+ Whatever you witness in this
+ place, stays in this place.
+ You got that?{END}
+
+Guard:<nl>
+ I've been informed of the situation.
+<pause>
+Guard:<nl>
+ You are authorized to enter.{END}
+
+Guard:<nl>
+ Unauthorized personnel are
+ forbidden beyond this point.{END}
+
+Guard:<nl>
+ I wanna fly too...{END}
+
+Guard:<nl>
+ I understand the situation.
+<pause>
+Guard:<nl>
+ You have authorization to enter.{END}
+
+Guard:<nl>
+ No one may proceed except
+ authorized personnel.{END}
+
+Woman:<nl>
+ Need some coffee?{END}
+
+Researcher:<nl>
+ All of us researchers here
+ are on the payroll.
+<pause>
+Researcher:<nl>
+ I guess that makes each and every
+ one of us public employees.{END}
+
+Researcher:<nl>
+ I'm researching the smallest
+ unit of matter.
+<pause>
+Researcher:<nl>
+ Just how far can something
+ be broken down?{END}
+
+Researcher:<nl>
+ Hmm...<nl>
+ So the devices in the cave may
+ have been created by the
+ ancients...
+<pause>
+Researcher:<nl>
+ Could it be that it's the ruins of an
+ ancient civilization, like Thor...?
+<pause>
+Researcher:<nl>
+ Huh!? Oh, sorry.
+ I was deep in thought.
+<pause>
+Researcher:<nl>
+ I was talking about that cave
+ southwest of Miguel; the cave Volt
+ apparently lived in.{END}
+
+Researcher:<nl>
+ Thor's civilization is
+ fascinating to me.
+ I'd study it in a heartbeat
+ if given the opportunity.{END}
+
+Researcher:<nl>
+ We've picked up where Midgard
+ left off with their magitechnology research.
+<pause>
+Researcher:<nl>
+ Huh? Why?
+ I thought it was old news by now...
+<pause>
+Researcher:<nl>
+ Well, whatever.
+ Dhaos blew the kingdom of
+ Midgard to smithereens.
+<pause>
+Researcher:<nl>
+ All that's left is a gargantuan pile
+ of rubble. Even its magnificent
+ bridges were annihilated.{END}
+
+Researcher:<nl>
+ I'm researching light.
+<pause>
+Researcher:<nl>
+ I'm trying to figure out just what
+ kind of substance it is.
+<pause>
+Researcher:<nl>
+ Not only that, but how fast it
+ travels.{END}
+
+Researcher:<nl>
+ We accidentally discovered
+ magnetic force while studying
+ electricity.
+<pause>
+Researcher:<nl>
+ The Rheairds fly by repelling that
+ magnetic force and the planet's
+ geomagnetism.
+<pause>
+Researcher:<nl>
+ Our recent research indicates that
+ the brooms used by some magic
+ users fly the same way.{END}
+
+Researcher:<nl>
+ We used to study oil-powered
+ engines here, but...
+<pause>
+Researcher:<nl>
+ Since the lab's in a basement, the
+ fumes took a while to escape...
+<pause>
+Researcher:<nl>
+ Eventually, nobody could take them
+ anymore, so we gave up on it.
+<pause>
+Researcher:<nl>
+ It really taught us just how nasty
+ polluting the air is.{END}
+
+Researcher:<nl>
+ I'm trying to find a way to record
+ sound via magnetism.{END}
+
+Stanley:<nl>
+ Next up, I expect we'll develop a
+ Rheaird that can seat many more
+ passengers.
+<pause>
+Stanley:<nl>
+ We plan for not ten, not fifty, not
+ even a hundred...but a thousand of
+ them!
+<pause>
+Stanley:<nl>
+ With me in charge, we'll
+ be able to complete it
+ sooner rather than later.
+ Look forward to it.{END}
+
+Stanley:<nl>
+ Have you found Volt, the Spirit of
+ Lightning, yet?{END}
+
+Harrison:<nl>
+ It's said that the Spirit of Lightning,
+ Volt, is in the <color_0002>cave southwest of
+ Miguel<color_0000>.
+<pause>
+Harrison:<nl>
+ Please get there as fast as you
+ can.
+<pause>
+Harrison:<nl>
+ We don't have much time.{END}
+
+Woman:<nl>
+ This is a bedroom.
+<pause>
+Woman:<nl>
+ But it's scarcely utilized since
+ all-nighters tend to come with the
+ territory in this line of work...{END}
+
+<audio_06D9><Cless>:<nl>
+ Hey!
+ Uncle Olson!
+<pause>
+<audio_06DA><Cless>:<nl>
+ Are you home!?{END}
+
+<audio_06DB><Cless><'s/'> Uncle, Olson:<nl>
+ <Cless>!{END}
+
+<audio_06DC><Cless>:<nl>
+ Uncle Olson, and Aunt Joanne.
+ It's good to see you two again.<wait>{END}
+
+<unk1><audio_06DD>Olson:<nl>
+ You seem to be doing well,
+ <Cless>.<wait>{END}
+
+<audio_06DE>Olson:<nl>
+ However, I've gotten word
+ that Totus was attacked.
+ Is this true?{END}
+
+<audio_06DF><Cless>:<nl>
+ It's true.
+<pause>
+<audio_06E0><Cless>:<nl>
+ Mom and Dad...they were...
+<pause>
+<audio_06E1>Olson:<nl>
+ So the rumor was true after all...
+<pause>
+<audio_06E2><Cless>:<nl>
+ Yeah...<wait>{END}
+
+<unk1>Joanne:<nl>
+ Plea<audio_06E3>se don't lose heart, <Cless>...<wait>{END}
+
+Joann<audio_06E4>e:<nl>
+ You can stay at our house for now.
+<pause>
+<audio_06E5><Cless>:<nl>
+ I don't want to be a burden.
+<pause>
+<audio_06E6>Olson:<nl>
+ Perish the thought.
+ You're facing some hard times.
+ We're here for you.
+<pause>
+<audio_06E7><Cless>:<nl>
+ Thank you very much.{END}
+
+
+<speed_0002> That night...{END}
+
+<audio_06EA><Cless>:<nl>
+ Uncle Olson, what's going on!?
+<pause>
+<audio_06EB>Olson:<nl>
+ ......
+<pause>
+<audio_06EC>Olson:<nl>
+ I'm sorry...<nl>
+ I didn't want to do this...
+<pause>
+<audio_06ED>Olson:<nl>
+ But if I had lied to them...
+<pause>
+<audio_06EE>Olson:<nl>
+ They would have seen through it,
+ and Euclid would have suffered the
+ same fate as Totus...
+<pause>
+<audio_06EF>Olson:<nl>
+ Forgive me...
+<pause>
+<audio_06F0>???:<nl>
+ You're coming with us.
+ Keep your mouth shut and
+ move quickly.{END}
+
+<audio_06F1><Cless>:<nl>
+ Ugh<speed_0010>...{END}
+
+???:<nl>
+ <audio_06F2>What are you doing!?
+ MOVE!!{END}
+
+Olson<audio_06F3>:<nl>
+ Forgive me, <Cless><speed_0010>...{END}
+
+<audio_1104>Harrison:<nl>
+ I'm an emissary from the
+ Kingdom of Alvanista.
+ We'd like to meet with Sir Stanley.
+<pause>
+<audio_1105>Guard 1:<nl>
+ I'm sorry, but only authorized
+ personnel are allowed beyond this
+ point.
+<pause>
+<audio_1106>Harrison:<nl>
+ It's important business, though.
+ Won't you let us through?
+<pause>
+<audio_1107>Guard 1:<nl>
+ I'm sorry, sir, but regulation clearly
+ states that only authorized
+ personnel are allowed beyond this
+ point.
+<pause>
+<audio_1108>Harrison:<nl>
+ Then it seems I'll just have to fill
+ out the necessary paperwork in
+ Alvanista's name later...
+<pause>
+<audio_1109>Harrison:<nl>
+ Can't you allow a special case just
+ this once?
+<pause>
+<audio_110A>Guard 1:<nl>
+ I'm sorry sir, but--
+<pause>
+<audio_110B>Harrison:<nl>
+ Don't tell me you're unaware of
+ the menace that Dhaos poses to
+ the human race!
+<pause>
+<audio_110C>Harrison:<nl>
+ These people may be able to do
+ something about that, but they'll
+ need Sir Stanley's assistance first.<wait>{END}
+
+<audio_110D>Guard 1:<nl>
+ (He's being a bit difficult.
+ What do you think?)
+<pause>
+<audio_110E>Guard 2:<nl>
+ (He looks serious.
+ I don't think we should
+ take his claim lightly.)
+<pause>
+<audio_110F>Guard 2:<nl>
+ (Besides, he also said he'd have the
+ paperwork filled out later,
+ anyway...)<wait>{END}
+
+<audio_1110>Guard 1:<nl>
+ Sir, we have reached a decision.
+<pause>
+<audio_1111>Guard 1:<nl>
+ You may pass.
+<pause>
+<audio_1112>Harrison:<nl>
+ Thank you.{END}
+
+<audio_1113><Klarth>:<nl>
+ Who's this?
+<pause>
+<audio_1114>Harrison:<nl>
+ He is Stanley, the lead researcher
+ of this establishment.
+<pause>
+<audio_1115>Harrison:<nl>
+ His primary field of study is flying
+ machines.
+<pause>
+<audio_1116><Cless>:<nl>
+ Flying machines!?
+<pause>
+<audio_1117>Stanley:<nl>
+ Let me explain.
+<pause>
+<audio_1118>Stanley:<nl>
+ Take a look behind you.{END}
+
+<audio_1119>Stanley:<nl>
+ These are manned flying machines
+ that operate on magic power.
+<pause>
+<audio_111A>Stanley:<nl>
+ They're called “Rheairds.”{END}
+
+<audio_111B>Stanley:<nl>
+ Though they're still officially in
+ development, we've already been
+ making practical use of them.
+<pause>
+<audio_111C>Stanley:<nl>
+ If it will facilitate your excursion
+ to suppress Dhaos, I'll turn them
+ over complimentarily.
+<pause>
+<audio_111D>Stanley:<nl>
+ Harrison says they're necessary to
+ reach Alvanista, however...
+<pause>
+<audio_111E>Stanley:<nl>
+ They currently do not have
+ sufficient power for sustained
+ flight over such prolonged
+ distances.<wait>{END}
+
+<audio_111F>Harrison:<nl>
+ Aren't you the world's foremost
+ authority on manned flight?
+<pause>
+<audio_1120>Harrison:<nl>
+ You must know of some method to
+ raise their output!
+<pause>
+<audio_1121>Stanley:<nl>
+ Hmph... As if I wouldn't.
+ There's a slight problem, however...<wait>{END}
+
+<audio_1122><Klarth>:<nl>
+ Well?
+ You might want to tell
+ us what it is already!
+<pause>
+<audio_1123>Stanley:<nl>
+ Ahem... To put it in layman's terms
+ so you'll understand, Rheairds
+ convert magical energy into kinetic
+ energy for propulsion.
+<pause>
+<audio_1124>Stanley:<nl>
+ So, if we were to borrow power
+ from Volt, the Spirit of Lightning,
+ we could further boost the
+ Rheairds' output.
+<pause>
+<audio_1125>Stanley:<nl>
+ However, this will require a
+ summoner, and not even I know of
+ any around here...<wait>{END}
+
+<audio_1126><Klarth>:<nl>
+ There's one right under your nose.
+ Me.
+<pause>
+<audio_1127>Stanley:<nl>
+ Mmmph...
+<pause>
+<audio_1128><Arche>:<nl>
+ Hey, do you think that power could
+ make my broom broom be all
+ ZOOM! ZOOM! like that, too?
+<pause>
+<audio_1129>Stanley:<nl>
+ Magic brooms are not my forte.
+ However...
+<pause>
+<audio_112A>Stanley:<nl>
+ ...my intuition tells me that one
+ infused with Volt's magic power
+ would have improved flight
+ capabilities.
+<pause>
+<audio_112B><Chester>:<nl>
+ What the hell...<nl>
+ This stuff doesn't
+ make any sense...<wait>{END}
+
+<audio_112C><Cless>:<nl>
+ Well, let's hurry then.
+<pause>
+<audio_112D>Stanley:<nl>
+ I do not remember saying I was
+ finished. A ring is necessary to
+ make a pact with a spirit, is it not?
+<pause>
+<audio_112E>Stanley:<nl>
+ Here. Take this one and go.
+<pause>
+<audio_112F><Klarth>:<nl>
+ Why are you in possession of a
+ pact ring?
+<pause>
+<audio_1130>Stanley:<nl>
+ I found it while I was part of
+ Alvanista's Moria Mine survey team
+ and held onto it for my research.
+<pause>
+<audio_1131><Klarth>:<nl>
+ I don't suppose we'll have to listen
+ to more of your lectures in
+ exchange, yeah?
+<pause>
+<audio_1132>Stanley:<nl>
+ Mmm. I don't have any sentimental
+ attachment to it. It's outlived its
+ purpose and is just scrap jewelry
+ as far as I'm concerned.<wait>{END}
+
+<color_0002>Acquired the <item_5F01>.<color_0000>
+<pause>
+<audio_1133>Stanley:<nl>
+ This is just hearsay, but Volt
+ supposedly exists in a <color_0002>cave
+ southwest of Miguel<color_0000>.
+<pause>
+<audio_1134>Stanley:<nl>
+ Unidentified equipment has been
+ discovered lying around there,
+ which may originate from an
+ ancient civilization.
+<pause>
+<audio_1135><Cless>:<nl>
+ We'll be sure to investigate it.
+ Let's go!{END}
+
+Olson<audio_06F4>:<nl>
+ What?
+<pause>
+<audio_06F5>Olson:<nl>
+ Do you still have some other
+ business with me?<wait>{END}
+
+???:<nl>
+ <audio_06F6>......
+<pause>
+Olson<audio_06F7>:<nl>
+ ......{END}
+
+Olson<audio_06F8>:<nl>
+ N-No way...
+<pause>
+???:<nl>
+ <audio_06F9>Nothing personal...<wait>{END}
+
+Olson<audio_06FA>:<nl>
+ S-Stop!
+ Please, don't!{END}
+
+<Cless>:<nl>
+ A bloodstain...
+<pause>
+<Cless>:<nl>
+ Uncle Olson...{END}
+

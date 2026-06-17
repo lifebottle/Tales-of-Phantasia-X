@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_843">
+        <source>I wouldn't doubt that the elves
+have the means to fix the rings.</source>
+        <target state="translated">I wouldn't doubt that the elves
+have the means to fix the rings.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_844">
+        <source>We still gotta ask them first.</source>
+        <target state="translated">We still gotta ask them first.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_845">
+        <source>Let's return to Alvanista, then.</source>
+        <target state="translated">Let's return to Alvanista, then.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_846">
+        <source>Yes. A permit will be
+necessary to enter Ymir Forest.</source>
+        <target state="translated">Yes. A permit will be
+necessary to enter Ymir Forest.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

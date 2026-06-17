@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_950">
+        <source>So, the unicorn embodies
+clerical artes, you say...</source>
+        <target state="translated">So, the unicorn embodies
+clerical artes, you say...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_951">
+        <source>Correct. Its power may amplify
+my own enough to save Yggdrasill.</source>
+        <target state="translated">Correct. Its power may amplify
+my own enough to save Yggdrasill.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_952">
+        <source>I dunno any other way, so that settles that.</source>
+        <target state="translated">I dunno any other way, so that settles that.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_953">
+        <source>Okay! Let's try to find &lt;Mint&gt;'s unicorn!</source>
+        <target state="translated">Okay! Let's try to find &lt;Mint&gt;'s unicorn!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

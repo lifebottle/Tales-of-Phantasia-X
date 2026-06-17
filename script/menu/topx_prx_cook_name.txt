@@ -1,0 +1,52 @@
+????????????{END}
+
+Hamburger{END}
+
+Rice Ball{END}
+
+Cabbage Roll{END}
+
+Chawanmushi{END}
+
+Sushi{END}
+
+Cheeseburger{END}
+
+French Toast{END}
+
+Sandwich{END}
+
+Spaghetti{END}
+
+Tenderloin{END}
+
+Fruit Juice{END}
+
+Sashimi{END}
+
+Potato Stew{END}
+
+Steak{END}
+
+Pescatore{END}
+
+Gratin{END}
+
+Meat Stew{END}
+
+Seafood Stew{END}
+
+Beef Stew{END}
+
+Fruit Parfait{END}
+
+Curry{END}
+
+Fruit Cocktail{END}
+
+Salad{END}
+
+Hayashi Rice{END}
+
+Miso Stew{END}
+

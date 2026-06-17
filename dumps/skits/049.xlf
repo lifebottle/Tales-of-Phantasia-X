@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_134">
+        <source>You did that on purpose, huh!?</source>
+        <target state="translated">You did that on purpose, huh!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_135">
+        <source>Did what?</source>
+        <target state="translated">Did what?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_136">
+        <source>Don't play dumb! The floor switches!</source>
+        <target state="translated">Don't play dumb! The floor switches!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_137">
+        <source>Ohhhh. I didn't mean to
+do anything funny, I swear.</source>
+        <target state="translated">Ohhhh. I didn't mean to
+do anything funny, I swear.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_138">
+        <source>Then why were you walking
+around like a drunken ostrich!?</source>
+        <target state="translated">Then why were you walking
+around like a drunken ostrich!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_139">
+        <source>Well, my legs are just so weak flying my broom
+all the time that my balance is off, aaand--</source>
+        <target state="translated">Well, my legs are just so weak flying my broom
+all the time that my balance is off, aaand--</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_140">
+        <source>...y-you believe me, right?&lt;heart&gt;</source>
+        <target state="translated">...y-you believe me, right?&lt;heart&gt;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_141">
+        <source>&lt;wait_C0&gt;Not at all.</source>
+        <target state="translated">&lt;wait_C0&gt;Not at all.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

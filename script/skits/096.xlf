@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_445">
+        <source>Could that &lt;Arche&gt; girl...still be okay?</source>
+        <target state="translated">Could that &lt;Arche&gt; girl...still be okay?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_446">
+        <source>If she went into the valley all alone, who knows...</source>
+        <target state="translated">If she went into the valley all alone, who knows...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_447">
+        <source>It's not the safest of places.</source>
+        <target state="translated">It's not the safest of places.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_448">
+        <source>If she's there, we need to be quick
+before something awful happens.</source>
+        <target state="translated">If she's there, we need to be quick
+before something awful happens.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_449">
+        <source>Mmm, yes. At least we got
+that pact ring for free out of this...</source>
+        <target state="translated">Mmm, yes. At least we got
+that pact ring for free out of this...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_450">
+        <source>...Ahem, now's not the time
+for such crass sentiments.</source>
+        <target state="translated">...Ahem, now's not the time
+for such crass sentiments.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_128">
+        <source>So, about the deeper level of Moria
+Mine that was recently discovered...</source>
+        <target state="translated">So, about the deeper level of Moria
+Mine that was recently discovered...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_129">
+        <source>The dwarven ruins, right?</source>
+        <target state="translated">The dwarven ruins, right?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_130">
+        <source>Yeah. I wonder what lies hidden down there.</source>
+        <target state="translated">Yeah. I wonder what lies hidden down there.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_131">
+        <source>More spirits or pact rings, maybe?</source>
+        <target state="translated">More spirits or pact rings, maybe?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_132">
+        <source>I wouldn't be surprised.</source>
+        <target state="translated">I wouldn't be surprised.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_133">
+        <source>Well, what are we waiting for? Let's go mining!</source>
+        <target state="translated">Well, what are we waiting for? Let's go mining!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

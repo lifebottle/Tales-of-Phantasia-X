@@ -1,0 +1,457 @@
+Tool Shop “Calendar”{END}
+
+Pharmacy “Houttuynia”{END}
+
+Equipment Shop “Lime”{END}
+
+Pharmacist
+ Welcome to Houttuynia.
+ What can I do for you?{END}
+
+Pharmacist
+ Thanks!
+<pause>
+Pharmacist
+ For being one our best customers, I
+ want to show you my appreciation
+ with this ticket.
+<pause>
+Pharmacist
+ It'll let you into popstar Yomi's next
+ concert, which will be held down-
+ stairs in the Adventurer's Guild!{END}
+
+Pharmacist
+ Thanks!{END}
+
+Pharmacist
+ Thanks!{END}
+
+Citizen
+ Let me tell you about <color_0002>Trade<color_0000> goods.
+<pause>
+Citizen
+ They're special items that have
+ varying amounts of consumer
+ demand across the globe.
+<pause>
+Citizen
+ So, if one good doesn't fetch a
+ good price in one place...
+<pause>
+Citizen
+ You might be able to make a mint
+ off of it in another.{END}
+
+Clerk
+ Come on in!{END}
+
+Clerk
+ Thanks!{END}
+
+Citizen
+ At last, my dream is being realized.
+<pause>
+Citizen
+ The war has ended, and
+ peace has been restored.
+ I couldn't feel more relieved
+ for my family's future.{END}
+
+Citizen
+ It's my dream that my family of
+ four live happily ever after.
+<pause>
+Citizen
+ But what would we do if this town
+ gets caught up in the war, as
+ well...?{END}
+
+Housewife
+ Mmmm!
+ Tastes divine...
+<pause>
+Housewife
+ Cooking always sends me to
+ seventh heaven<heart>{END}
+
+Boy
+ Hiii-yah!
+ I'm the hero!{END}
+
+Girl
+ And I'm the hero's trusty mage
+ sidekick!<note>
+<pause>
+Girl
+ Let us go, my hero!
+ We'll show those monsters!<heart>{END}
+
+Old Man
+ The news that Dhaos finally
+ disappeared calms my heart.{END}
+
+Old Man
+ Just to be on the safe side, we
+ might need to leave this town...{END}
+
+Citizen
+ I'm worried about my son.
+ He's gone to Midgard, and is now
+ tangled up in the war...{END}
+
+Citizen
+ Though the war's over in Midgard,
+ my father still hasn't so much as
+ written a letter...
+<pause>
+Citizen
+ I fear the worst...{END}
+
+Citizen
+ The war has caused my grandma
+ and grandpa a lot of grief and
+ anxiety.
+<pause>
+Citizen
+ I wonder what they'd do if it
+ spreads to Alvanista?{END}
+
+Clerk
+ Welcome to Lime, armor
+ department.
+<pause>
+Clerk
+ We've got what you're looking for!{END}
+
+Clerk
+ Thank you.{END}
+
+Clerk
+ Welcome to Lime, weapon
+ department.
+<pause>
+Clerk
+ We have a great selection!{END}
+
+Clerk
+ Thank you.{END}
+
+<Cless>
+ Hey, a bush baby...{END}
+
+Elwyn
+ I really can't shake this feeling that
+ things'll be messy when Dad gets
+ here...
+<pause>
+<Cless>
+ No, I'm sure he'll understand.
+<pause>
+Elwyn
+ That would be great, but knowing
+ him, I'm not that hopeful...{END}
+
+Elwyn
+ Keep this a secret from my dad.{END}
+
+<unk1><Mint>
+ Good luck, Nancy.
+<pause>
+Nancy
+ Thank you, <Mint>.{END}
+
+<Cless>
+ Whoa... Elwyn and Nancy?
+ Is that you?<wait>{END}
+
+Elwyn
+ Hey! <Cless>!
+<pause>
+Nancy
+ It's so nice to see you again.
+<pause>
+<Cless>
+ So you really did choose to elope.
+<pause>
+Elwyn
+ Yeah...
+<pause>
+Elwyn
+ But I don't regret it in the slightest!
+<pause>
+Elwyn
+ I say, as long as I get to be with
+ her, where I go doesn't matter.
+<pause>
+Nancy
+ It seems we'll be stuck in this city
+ for a while, though...
+<pause>
+Nancy
+ We were planning to go to Midgard,
+ but that place is far too unstable
+ right now.
+<pause>
+Elwyn
+ Please don't tell my old man where
+ we are.{END}
+
+Elwyn
+ Thanks...
+<pause>
+Elwyn
+ Thank you so much.{END}
+
+Nancy
+ How can we ever express our
+ gratitude?
+<pause>
+Nancy
+ You've helped us get so far.
+ We'll never forget your kindness.{END}
+
+Dog Owner
+ Dogs are truly man's best friend,
+ but maybe I went a little
+ overboard here.{END}
+
+Woman
+ As soon as you finish walking the
+ last one, it's already time to start
+ walking the first again.
+<pause>
+Woman
+ It's as exhausting as it sounds.
+ And don't get me started
+ on the cleanup! Yuck!{END}
+
+Citizen
+ The best-tasting miso stew is
+ always made in an earthenware
+ pot!{END}
+
+Citizen
+ I heard this from my grandma, so
+ take it with a grain of salt, but...
+<pause>
+Citizen
+ Northwest of Midgard, and west of
+ the Valhalla Plains, exists a forest
+ where a horned white horse lives.
+<pause>
+Citizen
+ Apparently, it will only reveal itself
+ to pure maidens.{END}
+
+Soldier
+ I work at the castle.
+<pause>
+Soldier
+ I can't stop thinking of Emily, the
+ castle's newest maid.
+<pause>
+Soldier
+ Umm...
+ Don't mind me; just
+ talking to myself...{END}
+
+<Cless>
+ Let's take a look in the stove.{END}
+
+<Cless>
+ Okay, that was stupid...{END}
+
+Elwyn
+ We've decided to get married!!
+<pause>
+Elwyn
+ So leave us alone and go back
+ home!!
+<pause>
+Doug
+ Stop being such a stubborn brat!
+<pause>
+Doug
+ You will be coming back home to
+ Venezia RIGHT NOW!!
+<pause>
+<color_0002>Help Elwyn and Nancy?<color_0000>{END}
+
+<Klarth>
+ I don't think this is any of our
+ business anymore.{END}
+
+<Cless>
+ N-now, settle down, you two...
+<pause>
+Doug
+ This has nothing to do with you!
+<pause>
+Doug
+ Mind your own damn business!
+<pause>
+<Mint>
+ Please tell us why you're so
+ prejudiced against Nancy!{END}
+
+Doug
+ ......<wait>{END}
+
+Doug
+ I am not!
+<pause>
+<Mint>
+ Then why are you doing this?
+<pause>
+Doug
+ Because I don't want to send Elwyn
+ off to live a life of misery.
+<pause>
+Doug
+ I went through so much hardship
+ to get the company where it is
+ now...
+<pause>
+Doug
+ And...
+<pause>
+<Cless>
+ And?
+<pause>
+Doug
+ It was because of my neglect that
+ my wife died when Elwyn was a
+ boy.
+<pause>
+Doug
+ Surely she resents me for what
+ I've done...<wait>{END}
+
+Elwyn
+ Dad...
+<pause>
+Doug
+ I just want to make that sacrifice
+ worth something.
+<pause>
+Elwyn
+ Dad, I don't think Mom ever held a
+ grudge against you.
+<pause>
+Elwyn
+ When I was little...
+<pause>
+Elwyn
+ She said that you were a
+ wonderful person.{END}
+
+Elwyn
+ Dad!
+<pause>
+Doug
+ As we speak, I'm sure there's
+ plenty of work piling up back at
+ the company.
+<pause>
+Doug
+ Why don't you help with it?
+<pause>
+Doug
+ ...Along with Nancy.
+<pause>
+Elwyn
+ Dad!?
+<pause>
+Nancy
+ Doug...{END}
+
+<Mint>
+ Thank goodness, it's all over...
+<pause>
+<Klarth>
+ Well, well. Remember what I said
+ about true love and all that? That
+ couple's your example. This'll teach
+ you to doubt your elders!
+<pause>
+<Cless>
+ Wow, I had no idea this relationship
+ stuff would be that intense.
+<pause>
+<Mint>
+ Oh my!
+ What a powerful learning
+ experience...{END}
+
+<Cless>
+ Elwyn, if you don't mind, I wanted
+ to talk to you about something...
+<pause>
+Elwyn
+ What about?
+<pause>
+<Cless>
+ We recently visited your father.
+ He sounded very distraught about
+ your disappearance.
+<pause>
+Elwyn
+ ......
+<pause>
+<Cless>
+ Would you be willing to make one
+ last trip back to Venezia to calm
+ him down?
+<pause>
+Elwyn
+ ......
+<pause>
+<Cless>
+ I guess that's a no...
+<pause>
+Elwyn
+ We didn't do anything wrong, so
+ the apology's not ours to make.
+ If he's serious about settling
+ this, he should come to US.
+<pause>
+<Cless>
+ So, you're at least willing to make
+ up with him?
+<pause>
+Elwyn
+ It's just that I think it's sad that a
+ parent and child can break off
+ their relationship with just one
+ fight.
+<pause>
+Elwyn
+ So, if he wants to discuss it, I
+ won't refuse.
+<pause>
+<Cless>
+ Okay, so you're absolutely okay
+ with us telling him where you are?
+<pause>
+Elwyn
+ Yeah, on the condition he's willing
+ to forgive us.{END}
+
+<Cless>
+ What a nice-looking cape!
+<pause>
+The traveler's companion:
+<center>“<item_5101>!”<endalign>
+<right>PRICE: 100 gald<endalign>{END}
+
+<Cless>
+ What a nice-looking cape!
+<pause>
+The night's companion:
+<center>“<item_5201>!”<endalign>
+<right>PRICE: 2000 gald<endalign>
+<pause>
+<Cless>
+ The “night's companion,” huh...?{END}
+

@@ -1,0 +1,149 @@
+氷の洞窟{END},Ice Cave{END}
+"<Cless>
+「これは・・・」
+<pause>
+<Cless>
+「呪文書だ！！」<wait>{END}","<Cless>:<nl>
+ This...
+<pause>
+<Cless>:<nl>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_C100>を覚えました。<color_0000>{END},<color_0002><Arche> learned <var_C100>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな・・・」
+<pause>
+<Cless>
+「戻しておこう・・・」{END}","<Cless>:<nl>
+ But I don't have any use for it...
+<pause>
+<Cless>:<nl>
+ I'll put it back...{END}"
+"<Cless>
+「凍っていて動かせない」{END}","<Cless>:<nl>
+ It's frozen to the ground...{END}"
+"<color_0002>レバーがあります。
+切り替えますか？<color_0000>{END}",<color_0002>Press the button?<color_0000>{END}
+"<Cless>
+「あち！！」
+<pause>
+<Cless>
+「あっち〜」{END}","<Cless>:<nl>
+ Ouch!!!
+<pause>
+<Cless>:<nl>
+ That's cold!{END}"
+"<Cless>
+「凍りついていて動かせない」{END}","<Cless>:<nl>
+ It's iced over and won't budge.{END}"
+"<Cless>
+「こんな所に穴が開いてる」
+<pause>
+<Cless>
+「狭くて入れないな・・・」
+<pause>
+<Cless>
+「中から風が吹いてくるみたいだ
+　な・・・」{END}","<Cless>:<nl>
+ I wonder what this hole's for.
+<pause>
+<Cless>:<nl>
+ There's no way I'll be able to fit
+ through, but...
+<pause>
+<Cless>:<nl>
+ ...what's with the strong draft
+ coming from it?{END}"
+"<Cless>
+「あれ？」
+<pause>
+<Cless>
+「レバーが動かないや・・・」{END}","<Cless>:<nl>
+ Huh?
+<pause>
+<Cless>:<nl>
+ The button won't budge...{END}"
+"<Cless>
+「あれ？」
+<pause>
+<Cless>
+「レバーが動かないや・・・」{END}","<Cless>:<nl>
+ Huh?
+<pause>
+<Cless>:<nl>
+ The button won't budge...{END}"
+"？？？
+「我が名はフェンビースト」<wait>{END}","???:<nl>
+ I am called Fenrir Beast.<wait>{END}"
+"フェンビースト
+「氷の洞窟は不可侵の聖域！」<wait>{END}","Fenrir Beast:<nl>
+ This cave of ice is sacrosanct holy
+ ground!<wait>{END}"
+"フェンビースト
+「我が御神刀にはフェンリル様の
+　魂が封印されているのだ！」<wait>{END}","Fenrir Beast:<nl>
+ Lord Fenrir's soul rests here, sealed
+ within the core of my sacred blade!<wait>{END}"
+"フェンビースト
+「渡すわけにはいかぬ！！」<wait>{END}","Fenrir Beast:<nl>
+ You shall not have it!!<wait>{END}"
+"<audio_118F>フェンビースト
+「ふっ、貴様らのような人間に、
+　命を預ける・・・」
+<pause>
+<audio_1190>フェンビースト
+「それもよかろう・・・」
+<pause>
+<audio_1191>フェンビースト
+「さあ、受け取るがよい・・・」
+<pause>
+<audio_1192>フェンビースト
+「氷の剣を！！」{END}","<audio_118F>Fenrir Beast:<nl>
+ Hmph...<nl>
+ So be it...
+<pause>
+<audio_1190>Fenrir Beast:<nl>
+ My life is henceforth in your
+ hands...
+<pause>
+<audio_1191>Fenrir Beast:<nl>
+ Now, wield it...
+<pause>
+<audio_1192>Fenrir Beast:<nl>
+ ...the Blade of Frost!!{END}"
+<color_0002><item_BB00>を手に入れました。<color_0000>{END},<color_0002>Acquired the <item_BB00>.<color_0000>{END}
+"<audio_1193><Cless>
+「な、何だ？」
+<pause>
+<audio_1194><Cless>
+「頭に直接、声が・・・」{END}","<audio_1193><Cless>:<nl>
+ Wh-What?
+<pause>
+<audio_1194><Cless>:<nl>
+ I hear a voice in my head...{END}"
+"<audio_1195>フェンビースト
+『ふふふふ、なかなかの実力の持
+　ち主だ・・・』
+<pause>
+<audio_1196>フェンビースト
+『そなたなら、この技を使いこな
+　せるであろう・・・』
+<pause>
+<audio_1197>フェンビースト
+『さあ、受け取れぃ！！』{END}","<audio_1195>Fenrir Beast:<nl>
+ “Hmhmhmhm, the power you
+ possess is quite impressive...”
+<pause>
+<audio_1196>Fenrir Beast:<nl>
+ “I have no doubt that you have the
+ capacity to master this arte...”
+<pause>
+<audio_1197>Fenrir Beast:<nl>
+ “Now, accept it!!!”{END}"
+"<audio_1198><Cless>
+「あ、頭に何かが注ぎこまれてい
+　るようだ・・・」<wait>{END}","<audio_1198><Cless>:<nl>
+ It feels as if something is rushing
+ into my head...<wait>{END}"
+<color_0002><Cless>は<var_8B00>を覚えました。<color_0000>{END},"<color_0002><Cless> learned
+<var_8B00>.<color_0000>{END}"

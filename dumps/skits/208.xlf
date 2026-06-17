@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1051">
+        <source>I must say, Chelsea's improved
+greatly since she began her piano lessons.</source>
+        <target state="translated">I must say, Chelsea's improved
+greatly since she began her piano lessons.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1052">
+        <source>Oh yeah. Her playing was
+rugburn for the eardrums at first.</source>
+        <target state="translated">Oh yeah. Her playing was
+rugburn for the eardrums at first.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1053">
+        <source>Her effort was quite literally rewarded.</source>
+        <target state="translated">Her effort was quite literally rewarded.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1054">
+        <source>You know, didn't Sakuraba play that in the past?</source>
+        <target state="translated">You know, didn't Sakuraba play that in the past?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1055">
+        <source>Yeah, I recognized it too. It must've
+gone down in history as a famous piece.</source>
+        <target state="translated">Yeah, I recognized it too. It must've
+gone down in history as a famous piece.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

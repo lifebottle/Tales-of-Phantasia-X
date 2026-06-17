@@ -1,0 +1,235 @@
+<Klarth>
+「おいおい、我々には時間がない
+　んだぞ」
+<pause>
+<Klarth>
+「こんな所で道草食ってないで、
+　早く精霊の森へ行こう」{END}
+
+ハーメルの町{END}
+
+<audio_0A12><Klarth>
+「町が<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0A13><Mint>
+「ひどい<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0A14><Klarth>
+「生存者はいないのか？」
+<pause>
+<audio_0A15><Cless>
+「・・・・・・」{END}
+
+<audio_0A16><Cless>
+「大丈夫か！？」{END}
+
+<audio_0A17>少女
+「あ、私は<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0A18>少女
+「何ともありません」
+<pause>
+<audio_0A19><Klarth>
+「いったいこの町に何が起こった
+　んだ！？」
+<pause>
+<audio_0A1A>少女
+「デミテルが<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0A1B><Klarth>
+「えっ？」
+<pause>
+<audio_0A1C>少女
+「この町を襲った魔術師です」
+<pause>
+<audio_0A1D>少女
+「私の・・・」
+<pause>
+<audio_0A1E>少女
+「パパとママも殺されて<speed_0010>・・・」{END}
+
+<audio_0A1F><Cless>
+「仇討ちなら僕が力になる！」<wait>{END}
+
+<audio_0A20>少女
+「えっ？」<wait>{END}
+
+<audio_0A21><Klarth>
+「おいおい、私達には時間がない
+　んだぞ！」{END}
+
+<audio_0A22><Mint>
+「で、でも、見過ごすなんてでき
+　ません」
+<pause>
+<audio_0A23><Klarth>
+「おいおい、<Mint>まで！」
+<pause>
+<audio_0A24><Cless>
+「急がなければいけない時なのは
+　わかっているけど僕は・・・」{END}
+
+<audio_0A25><Klarth>
+「二人とも、どうしたんだ？」
+<pause>
+<audio_0A26><Klarth>
+「なんだか様子が変だぞ」<wait>{END}
+
+<audio_0A27><Cless>
+「・・・・・・」{END}
+
+<audio_0A28><Cless>
+「いえ、何でもありません」
+<pause>
+<audio_0A29><Cless>
+「ただ、放っておけないんです」{END}
+
+<unk1><audio_0A2A><Mint>
+私も、<Cless>さんと同じ気持ちです」
+<pause>
+<audio_0A2B><Mint>
+彼女の力になりたい・・・」{END}
+
+<audio_0A2C><Klarth>
+「ふむ・・・」
+<pause>
+<audio_0A2D><Klarth>
+「まあ二人がそこまで言うなら、
+　私も反対はしないがな」<wait>{END}
+
+<audio_0A2E><Klarth>
+「それなら、その魔術師の話を詳
+　しく聞かせてくれないか」
+<pause>
+<audio_0A2F><Klarth>
+「相手が魔術師なら魔術に関する
+　情報が手に入るかもしれないか
+　らな」<wait>{END}
+
+<audio_0A30>少女
+「デミテルの居場所ははっきりと
+　わかっていませんが・・・」
+<pause>
+<audio_0A31>少女
+「北の方へ去って行ったのを見ま
+　した」
+<pause>
+<audio_0A32><Klarth>
+「なるほど・・・」
+<pause>
+<audio_0A33><Klarth>
+「それならベネツィア方向に捜し
+　ていけば見つかる可能性が高い
+　わけか・・・」
+<pause>
+<audio_0A34>少女
+「あの<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0A35>少女
+「何とお礼を言えばいいか」
+<pause>
+<audio_0A36>少女
+「本当にありがとうございます」
+<pause>
+<audio_0A37>少女
+「申し遅れましたが、私の名前は
+　リア＝スカーレットです」
+<pause>
+<audio_0A38><Mint>
+「私は<Mint>」
+<pause>
+<audio_0A39><Mint>
+「<Rhea>さん、どうぞよろしく」<wait>{END}
+
+<unk1><audio_0A3A><Mint>
+彼は<Cless>さん、
+こちらが<Klarth>さん」
+<pause>
+{END}
+
+<audio_0A3B><Rhea>
+「はい、こちらこそ、よろしくお
+　願いします」{END}
+
+町の人
+「人が少ないのは、みんな神様に
+　お祈りするために教会に行って
+　るからだよ」{END}
+
+女の子
+「神様ってえらいの？」
+<pause>
+女の子
+「だってみんな毎日教会に行って
+　お祈りしてるんだもん」{END}
+
+料理人
+「フレンチトースト
+　作ってるかい？」{END}
+
+料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}
+
+料理人
+「この料理を伝授しよう！」<wait>{END}
+
+<color_0002>フレンチトーストを料理できるよう
+になりました。<color_0000>{END}
+
+料理人
+「おお、なんということだ！」{END}
+
+<Cless>
+「<Arche>？」{END}
+
+<Klarth>
+「おい、どうしたんだ？」
+<pause>
+<Klarth>
+「我々には時間がないんだぞ？」{END}
+
+<Mint>
+「<Klarth>さん・・・」
+<pause>
+<Klarth>
+「あ・・・」
+<pause>
+<Arche>
+「リア<speed_0010>・・・<speed_00FF>」{END}
+
+<Arche>
+「ねえ、みんな<speed_0010>・・・、<speed_00FF>ちょっと
+　だけ時間いいかな？」{END}
+
+<Arche>
+「リア、遅くなってゴメンね」{END}
+
+<Mint>
+「<Arche>さん・・・」{END}
+
+<Arche>
+「じゃあ・・・、いこッ！」
+<pause>
+<Cless>
+「・・・ああ！」{END}
+
+<color_0002><Arche>は
+『<var_AF01>』の
+称号を得ました。<color_0000>{END}
+
+『リア＝スカーレット
+　　　　　　　　　ここに眠る』
+と書いてある。{END}
+
+<Arche>
+「リア・・・」{END}
+

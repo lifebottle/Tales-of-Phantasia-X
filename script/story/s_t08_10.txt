@@ -1,0 +1,244 @@
+<Klarth>:<nl>
+ I see Sylph's request is so
+ important that we're going in the
+ completely wrong direction.
+<pause>
+<Klarth>:<nl>
+ The enthusiasm is truly admirable,
+ but unless we turn around, we're
+ not going to the Forest of Spirits.{END}
+
+Town of Harmel{END}
+
+<audio_0A12><Klarth>:<nl>
+ The whole town's<speed_0010>...<nl>
+<pause>
+<speed_FFFF><audio_0A13><Mint>:<nl>
+ Oh my goodness, this is horrible<speed_0010>...<nl>
+<pause>
+<speed_FFFF><audio_0A14><Klarth>:<nl>
+ Are there any survivors!?
+<pause>
+<audio_0A15><Cless>:<nl>
+ ......{END}
+
+<audio_0A16><Cless>:<nl>
+ Are you okay!?{END}
+
+<audio_0A17>Girl:<nl>
+ Um, I'm<speed_0010>...<nl>
+<pause>
+<speed_FFFF><audio_0A18>Girl:<nl>
+ I'm fine.
+<pause>
+<audio_0A19><Klarth>:<nl>
+ What the hell happened to this
+ town!?
+<pause>
+<audio_0A1A>Girl:<nl>
+ Demeter<speed_0010>...<nl>
+<pause>
+<speed_FFFF><audio_0A1B><Klarth>:<nl>
+ Huh?
+<pause>
+<audio_0A1C>Girl:<nl>
+ The mage... He did this.
+<pause>
+<audio_0A1D>Girl:<nl>
+ He...<nl>
+<pause>
+<audio_0A1E>Girl:<nl>
+ He killed Mama and Papa<speed_0010>...{END}
+
+<audio_0A1F><Cless>:<nl>
+ If you want revenge, I'll help you!<wait>{END}
+
+<audio_0A20>Girl:<nl>
+ Huh?<wait>{END}
+
+<audio_0A21><Klarth>:<nl>
+ Yes, this is horrific, but
+ unfortunately, we have higher
+ priorities right now!{END}
+
+<audio_0A22><Mint>:<nl>
+ Th-That's true, but we just can't
+ leave it like this.
+<pause>
+<audio_0A23><Klarth>:<nl>
+ Oh, come on, not you too!
+<pause>
+<audio_0A24><Cless>:<nl>
+ I know we're in a big hurry, but--{END}
+
+<audio_0A25><Klarth>:<nl>
+ For the love of...<nl>
+ What's gotten into you
+ two all of a sudden?
+<pause>
+<audio_0A26><Klarth>:<nl>
+ I think you're taking this a little too
+ personally.<wait>{END}
+
+<audio_0A27><Cless>:<nl>
+ ...{END}
+
+<audio_0A28><Cless>:<nl>
+ No, that's not it.
+<pause>
+<audio_0A29><Cless>:<nl>
+ It's just that I can't let this go!{END}
+
+<unk1><audio_0A2A><Mint>:<nl>
+ I feel the same way he does.
+<pause>
+<audio_0A2B><Mint>:<nl>
+ I want to help this poor little girl...{END}
+
+<audio_0A2C><Klarth>:<nl>
+ Hmph...<nl>
+<pause>
+<audio_0A2D><Klarth>:<nl>
+ Great. Well, since both of you seem
+ to have Chronic Hero Syndrome, I
+ guess I have no choice but to play
+ along.<wait>{END}
+
+<audio_0A2E><Klarth>:<nl>
+ So, young lady, can you tell us what
+ you know about this “Demeter”?
+<pause>
+<audio_0A2F><Klarth>:<nl>
+ If he's really a mage, this detour
+ might actually be beneficial to us in
+ the end.<wait>{END}
+
+<audio_0A30>Girl:<nl>
+ I don't know where he is, but...<nl>
+<pause>
+<audio_0A31>Girl:<nl>
+ I saw him take the northern exit
+ of town.
+<pause>
+<audio_0A32><Klarth>:<nl>
+ I see...<nl>
+<pause>
+<audio_0A33><Klarth>:<nl>
+ Then we'll likely find him or
+ something about him between here
+ and Venezia.
+<pause>
+<audio_0A34>Girl:<nl>
+ Um<speed_0010>...<nl>
+<pause>
+<speed_FFFF><audio_0A35>Girl:<nl>
+ I should thank you all.
+<pause>
+<audio_0A36>Girl:<nl>
+ Thank you so much.
+<pause>
+<audio_0A37>Girl:<nl>
+ I know it's a little late
+ for introductions, but my
+ name is <Rhea> Scarlet.
+ Please, just <Rhea> will do.
+<pause>
+<audio_0A38><Mint>:<nl>
+ I'm <Mint>.
+<pause>
+<audio_0A39><Mint>:<nl>
+ I am happy to meet you, <Rhea>.<wait>{END}
+
+<unk1><audio_0A3A><Mint>:<nl>
+ He's <Cless>.
+ This is <Klarth>.
+<pause>
+{END}
+
+<audio_0A3B><Rhea>:<nl>
+ I'm very happy to meet you, too.{END}
+
+Man:<nl>
+ The streets are quiet right now
+ since everyone went to church to
+ pray to God.{END}
+
+Girl:<nl>
+ God must be really great, huh?
+<pause>
+Girl:<nl>
+ 'Cause everyone goes to church to
+ pray every day.
+<pause>
+Girl:<nl>
+ Hmm... I wish people prayed to
+ *me* every day...{END}
+
+Chef:<nl>
+ Have you made French Toast?{END}
+
+Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef:<nl>
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for French Toast.<color_0000>{END}
+
+Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}
+
+<Cless>:<nl>
+<Arche>?{END}
+
+<Klarth>:<nl>
+Hey, what's wrong?
+<pause>
+<Klarth>:<nl>
+Hey, we don't have much time.{END}
+
+<Mint>:<nl>
+<Klarth>...<nl>
+<pause>
+<Klarth>:<nl>
+Oh...<nl>
+<pause>
+<Arche>:<nl>
+Rhea<speed_0010>...<speed_00FF>{END}
+
+<Arche>:<nl>
+Hey, guys<speed_0010>... <speed_00FF>Can't we spare
+just a moment?{END}
+
+<Arche>:<nl>
+Rhea, sorry we took so long.{END}
+
+<Mint>:<nl>
+<Arche>...{END}
+
+<Arche>:<nl>
+Okay, well...let's go!
+<pause>
+<Cless>:<nl>
+...O-Okay!{END}
+
+<color_0002><Arche> has earned the title
+“<var_AF01>.”<color_0000>{END}
+
+It reads:<nl>
+Here lies<nl>
+Rhea Scarlet.{END}
+
+<Arche>:<nl>
+Rhea...{END}
+

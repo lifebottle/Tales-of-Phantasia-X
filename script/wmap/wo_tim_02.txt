@@ -1,0 +1,62 @@
+Double K.O.{END}
+
+Draw{END}
+
+Bishop{END}
+
+Cat's Eye{END}
+
+Veggie{END}
+
+Crystal Rod{END}
+
+Endurance{END}
+
+Angel's Blessing{END}
+
+Water's Edge{END}
+
+Sea-Through{END}
+
+Malaga Sea{END}
+
+Waterfront{END}
+
+Sailor{END}
+
+Sailor{END}
+
+Lime{END}
+
+Lime{END}
+
+Calendar{END}
+
+Pig-Out{END}
+
+Garlic{END}
+
+Tenderloin{END}
+
+Sirloin{END}
+
+Lil' Nymph{END}
+
+Grocery Store{END}
+
+Pharmacy{END}
+
+Tool Shop{END}
+
+Spirit{END}
+
+Spirit{END}
+
+Buster{END}
+
+Slayer IV{END}
+
+Ninja{END}
+
+Houttuynia{END}
+

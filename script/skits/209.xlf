@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1056">
+        <source>Didn't we hear that piano tune in the past?</source>
+        <target state="translated">Didn't we hear that piano tune in the past?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1057">
+        <source>Yeah, I figured it'd be long forgotten by now.</source>
+        <target state="translated">Yeah, I figured it'd be long forgotten by now.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1058">
+        <source>Wait, what? You knew that Sakuraba guy?</source>
+        <target state="translated">Wait, what? You knew that Sakuraba guy?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1059">
+        <source>Yup, met him in the past.</source>
+        <target state="translated">Yup, met him in the past.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1060">
+        <source>“The past” again! Lucky you...</source>
+        <target state="translated">“The past” again! Lucky you...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1061">
+        <source>Is there something wrong?</source>
+        <target state="translated">Is there something wrong?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1062">
+        <source>You just heard that
+tune for the first time, right?</source>
+        <target state="translated">You just heard that
+tune for the first time, right?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1063">
+        <source>W-well yeah.</source>
+        <target state="translated">W-Well yeah.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1064">
+        <source>Trust me, then: You're the lucky one.</source>
+        <target state="translated">Trust me, then: You're the lucky one.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1065">
+        <source>Really?</source>
+        <target state="translated">Really?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1037">
+        <source>No matter where we go, it's
+sand as far as the eye can see...</source>
+        <target state="translated">No matter where we go, it's
+sand as far as the eye can see...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1038">
+        <source>He just has to be around here somewhere.</source>
+        <target state="translated">He just has to be around here somewhere.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1039">
+        <source>Let's stop wandering aimlessly and
+find a town. We need to gather information.</source>
+        <target state="translated">Let's stop wandering aimlessly and
+find a town. We need to gather information.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1040">
+        <source>Well, what are we waiting for!? Shade, shade!</source>
+        <target state="translated">Well, what are we waiting for!? Shade, shade!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1041">
+        <source>It's sizzling... Agh...</source>
+        <target state="translated">It's sizzling... Agh...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

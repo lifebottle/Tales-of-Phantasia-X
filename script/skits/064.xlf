@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_218">
+        <source>Agh... I have never eaten
+such spicy cuisine before.</source>
+        <target state="translated">Agh... I have never eaten
+such spicy cuisine before.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_219">
+        <source>Guess there's a first time for everything.</source>
+        <target state="translated">Guess there's a first time for everything.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_220">
+        <source>C-certainly. Umm, would
+you tell me the name of it again?</source>
+        <target state="translated">C-Certainly. Umm, would
+you tell me the name of it again?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_221">
+        <source>The spiciness makes it
+almost as hot as Madam Curie, so--</source>
+        <target state="translated">The spiciness makes it
+almost as hot as Madam Curie, so--</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_222">
+        <source>H-huh?</source>
+        <target state="translated">H-Huh?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_223">
+        <source>Curry's spicy, and Curie's hot. Get it?</source>
+        <target state="translated">Curry's spicy, and Curie's hot. Get it?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

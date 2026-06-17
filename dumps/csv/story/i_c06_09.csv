@@ -1,0 +1,2244 @@
+"<Cless>
+「危なかった・・・」
+<pause>
+<Klarth>
+「衛兵が十分離れてから移動
+　した方がいいな」{END}","<Cless>:<nl>
+ That was a close call...
+<pause>
+<Klarth>:<nl>
+ Let's try this again, but this time make sure we keep our distance from the guards.{END}"
+"国王
+「吉報を待っておりますぞ」{END}","King:<nl>
+ I shall await fortuitous news.{END}"
+"国王
+「いつでも頼ってきてくれ」{END}","King:<nl>
+ If there's anything you need, do
+ not hesitate to ask.{END}"
+"王妃
+「あなた達の行き先に、いつでも
+　幸福の女神が微笑んでくれるよ
+　う祈っています」{END}","Queen:<nl>
+ I pray that the Goddess of Felicity
+ may smile upon you wherever you
+ may go.{END}"
+"衛兵
+「お気をつけて」{END}","Guard:<nl>
+ Take care.{END}"
+"衛兵
+「がんばって下さい」{END}","Guard:<nl>
+ Get out there and kick some ass!{END}"
+"衛兵
+「アルヴァニスタ城へようこそ」{END}","Guard:<nl>
+ Welcome to Alvanista Castle.{END}"
+"衛兵
+「陛下の御前でそそうのないよう
+　にしてくれ」{END}","Guard:<nl>
+ Please behave in front of His
+ Highness.{END}"
+"メイド
+「私は国王陛下にお仕えしている
+　メイドです」
+<pause>
+メイド
+「ほこり、落とさないでね」{END}","Maid:<nl>
+ I am the maid assigned to His
+ Majesty.
+<pause>
+Maid:<nl>
+ Even in such a lowly position, one
+ must never lose one's pride!{END}"
+"メイド
+「王子様が、元に戻られて本当に
+　よかった・・・」{END}","Maid:<nl>
+ I'm so relieved that the
+ prince is back to normal.
+ I wondered why he suddenly
+ became so cold one day...{END}"
+"男の人
+「エルフ族は大陸中に散った仲間
+　を水鏡ユミルの森に呼び集めた
+　といいます」
+<pause>
+男の人
+「彼らなりの理由があったという
+　話ですが・・・」{END}","Man:<nl>
+ All the elves spread about the
+ middle continent unified and took
+ residence in Ymir Forest.
+<pause>
+Man:<nl>
+ I can't seem to remember the
+ reason why, though...{END}"
+"メイド
+「エルフと人間が恋をしたら不幸
+　よ」
+<pause>
+メイド
+「かつてあったエルフ族の大移住
+　の時には・・・」
+<pause>
+メイド
+「むりやり引き裂かれたカップル
+　がたくさんあるって話なの」{END}","Maid:<nl>
+ During the Great Elven Migration,
+ human and elf couples were forced
+ to break up against their will...
+<pause>
+Maid:<nl>
+ They must have been devastated.
+ Even now, I'm sure many of the
+ poor things are struggling to put it
+ behind them.{END}"
+"男の人
+「ミッドガルズでは、何十年も前
+　から魔術に代わる『新たな力』
+　を研究しています」
+<pause>
+男の人
+「ソーサリーテクノロジィ、また
+　の名を魔科学・・・」
+<pause>
+男の人
+「人間が魔術を操るための技術、
+　という話ですが・・・」{END}","Man:<nl>
+ Some people in Midgard have been
+ studying a “new kind of power.”
+ They say it's going to replace
+ magic several years from now.
+<pause>
+Man:<nl>
+ Magitechnology, I believe it was.
+ It's supposedly a science that
+ allows humans to manipulate magic,
+ but it sounds kinda sketchy.{END}"
+"兵士
+「水鏡ユミルの森は大きな湖の上
+　に樹木が生い茂っているんだっ
+　てさ」
+<pause>
+兵士
+「一度見てみたいものだ」{END}","Guard:<nl>
+ I've heard the lake in Ymir Forest
+ is swimming with trees--literally.
+ Lots of them in growing tall right
+ in the water.
+<pause>
+Guard:<nl>
+ It sounds kind of surreal.
+ I hope I get posted there someday
+ so I can see it for myself.{END}"
+"魔術師
+「エルフはアルヴァニスタがミッ
+　ドガルズと友好同盟を結んでい
+　ることに反対しています」
+<pause>
+魔術師
+「けれど、その理由が今ひとつ理
+　解できないんですよ」
+<pause>
+魔術師
+「どうしてでしょう？」{END}","Mage:<nl>
+ The elves of this country are
+ firmly opposed to forming an
+ alliance with Midgard in the war.
+<pause>
+Mage:<nl>
+ Aargh!
+ I just can't understand why!
+<pause>
+Mage:<nl>
+ What's wrong with assisting
+ Midgard, our ally!?{END}"
+"メイド
+「戦争、戦争って言ってもうちら
+　には関係ないよね」
+<pause>
+メイド
+「でも、平和すぎるってのも退屈
+　だわ」{END}","Maid:<nl>
+ War, war, war...<nl>
+ That's all everyone talks about, but
+ I'm not interested in it.
+<pause>
+Maid:<nl>
+ I suppose it'd be pretty boring if it
+ was too peaceful, though.{END}"
+"男の人
+「エルフは人間が魔術を使えるよ
+　うになるのを恐れているんじゃ
+　ないかな？」
+<pause>
+男の人
+「数は人間の方が多い訳だし」{END}","Man:<nl>
+ Are the elves just uneasy because
+ we humans are starting to use
+ some form of magic?
+<pause>
+Man:<nl>
+ It'd make sense, since there are a
+ lot more of us than there are of
+ them.{END}"
+"見張り
+「見張りも楽じゃないね」
+<pause>
+見張り
+「えっ、精霊の話？」
+<pause>
+見張り
+「僕が知ってるわけないじゃん」
+<pause>
+見張り
+「魔術研究所の人に聞いてよ」
+<pause>
+見張り
+「あ、待て」
+<pause>
+見張り
+「こんな昔話をどこかで聞いたこ
+　とがある」
+<pause>
+見張り
+「昔、今のような魔物がいなかっ
+　た時代」
+<pause>
+見張り
+「ある悪い人々が世界中に毒をま
+　こうとしていた」
+<pause>
+見張り
+「その毒で世界を支配しようとし
+　ていたんだ」
+<pause>
+見張り
+「月の精霊様はそれを阻止しよう
+　と地上に降りてきた」
+<pause>
+見張り
+「でも月の光が力の源である精霊
+　様は月のない夜にその悪い人々
+　に捕まってしまった」
+<pause>
+見張り
+「その悪い人々っていうのがどこ
+　かの国の王様達だったんだ」
+<pause>
+見張り
+「・・・・・・」
+<pause>
+<Cless>
+「それで？」
+<pause>
+見張り
+「続きは覚えてないんだ」
+<pause>
+見張り
+「ごめんな」{END}","Sentry:<nl>
+ A sentry's job is harder than it
+ looks.
+<pause>
+<Cless>:<nl>
+ Excuse me, but do you know
+ anything about spirits?
+<pause>
+Sentry:<nl>
+ Uh...<nl>
+ Why are you asking someone like
+ me? Why not try one of the
+ researchers--
+<pause>
+Sentry:<nl>
+ Wait, hold on a second!
+<pause>
+Sentry:<nl>
+ I remember hearing an old folk
+ tale about a spirit some time ago.
+ That's right, it was called
+ “Tale of the Spirit”!
+<pause>
+Sentry:<nl>
+ Once upon time, before monsters
+ came into being...
+<pause>
+Sentry:<nl>
+ ...a few villains took it upon
+ themselves to spread a poison
+ throughout the world.
+<pause>
+Sentry:<nl>
+ They had a belief that it would
+ enable them reign over the entire
+ planet.
+<pause>
+Sentry:<nl>
+ The Spirit of the Moon saw their
+ efforts, and descended to the
+ surface in order to stop them.
+<pause>
+Sentry:<nl>
+ These villains were cunning,
+ however, and anticipated her
+ action.
+<pause>
+Sentry:<nl>
+ They knew her power was drawn
+ from moonlight, so they waited
+ until the night of a new moon and
+ captured her.
+<pause>
+Sentry:<nl>
+ These villains were said to be the
+ kings of the land, and, uh...
+<pause>
+Sentry:<nl>
+ ......
+<pause>
+<Cless>:<nl>
+ Okay, and...?
+<pause>
+Sentry:<nl>
+ Sorry, I forgot the rest of it...{END}"
+"元・石取り名人
+「君とはすでに勝負がついている
+　はずだ」{END}","Original Subtraction Guru:<nl>
+ Look, I admitted defeat, okay?
+ No need to stone a dead horse.{END}"
+"石取り名人
+「もう一度勝負だ！」
+<pause>
+{END}","Subtraction Guru:<nl>
+ Let's try this one more time!
+<pause>
+{END}"
+"石取り名人
+「そこの君、一つゲームをやらな
+　いか？」
+<pause>
+石取り名人
+「君が勝ったら何かプレゼントし
+　よう」<wait>{END}","Subtraction Guru:<nl>
+ You there--would you like to play
+ a little game?
+<pause>
+Subtraction Guru:<nl>
+ I'll give you a prize...IF you can
+ manage to defeat me, that is!<wait>{END}"
+<color_0002>勝負しますか？<color_0000>{END},<color_0002>Challenge him?<color_0000>{END}
+"石取り名人
+「君の挑戦を待っているよ」{END}","Subtraction Guru:<nl>
+ I await your challenge!{END}"
+"石取り名人
+「説明を聞くかい？」{END}","Subtraction Guru:<nl>
+ Need an explanation of the rules?{END}"
+"石取り名人
+「私と石取りゲームをやるのだ」
+<pause>
+石取り名人
+「石取りゲームとは一山の石から
+　順に石を取り・・・」
+<pause>
+石取り名人
+「最後に取った者が負けになる、
+　というものだ」
+<pause>
+石取り名人
+「一回に取れる石の数は最大３コ
+　で、パスはできない」
+<pause>
+石取り名人
+「あと時間制限があって、時間が
+　来ると今選んでいる数を強制的
+　に取らされることになる」
+<pause>
+石取り名人
+「途中でやめたい時は数を選ぶ時
+　にキャンセルしてくれ」<wait>{END}","Subtraction Guru:<nl>
+ This is what I call the
+ Subtraction Game.
+ It's a glorious battle of
+ wits between you and I!
+<pause>
+Subtraction Guru:<nl>
+ The premise is simple: Just take
+ some rocks from the draw pile on
+ your turn.
+<pause>
+Subtraction Guru:<nl>
+ The player who picks up the
+ last one is the loser!
+ And no, you can't just
+ take all but one of them...
+<pause>
+Subtraction Guru:<nl>
+ You may only take one, two,
+ or three of them at a time.
+ No more, no less!
+<pause>
+Subtraction Guru:<nl>
+ Also, you only have a limited
+ amount of time to do this.
+ If you can't decide in time, you'll
+ have to take one by default.
+<pause>
+Subtraction Guru:<nl>
+ If you want to quit, just select
+ Cancel on your turn.<wait>{END}"
+"石取り名人
+「それじゃ位置について」{END}","Subtraction Guru:<nl>
+ Okay, get in position!{END}"
+"石取り名人
+「このツボの中には<num5_C0005110>コの石
+　が入ってる」
+<pause>
+石取り名人
+「先にやりますかな？」{END}","Subtraction Guru:<nl>
+ There are <num5_C0005110> rocks in this pot.
+<pause>
+Subtraction Guru:<nl>
+ Would you like to go first?{END}"
+"石取り名人
+「では、勝負」<wait>{END}","Subtraction Guru:<nl>
+ Okay, let's go!<wait>{END}"
+"石取り名人
+「やめますか、またの挑戦を待っ
+　ていますよ」{END}","Subtraction Guru:<nl>
+ Giving up, huh?
+ I'll be awaiting your next challenge!{END}"
+"石取り名人
+「むぅ・・・」
+<pause>
+石取り名人
+「わ、私の完敗です」
+<pause>
+石取り名人
+「では約束どおり、アイテムをあ
+　げよう」<wait>{END}","Subtraction Guru:<nl>
+ Meh...<nl>
+ You've rocked my world.
+ I admit defeat.
+<pause>
+Subtraction Guru:<nl>
+ I'm a man of my word.
+ Here, take your prize.<wait>{END}"
+"<color_0002><item_6901>を手に入れました。<color_0000>
+<pause>
+石取り名人
+「それから、君に名人の称号を
+　贈ろう」
+<pause>
+元・石取り名人
+「今日から君が石取り名人だ」<wait>{END}","<color_0002>Acquired a Spirit Ring.<color_0000>
+<pause>
+Subtraction Guru:<nl>
+ Also, I guess I no longer have any
+ right to carry this title...
+<pause>
+Original Subtraction Guru:<nl>
+ I bow down to you, Subtraction
+ Guru.<wait>{END}"
+<color_0002><Cless>は『<var_8D01>』の称号を得ました。<color_0000>{END},"<color_0002><Cless> has earned the title
+“Subtraction Guru.”<color_0000>{END}"
+"石取り名人
+「むぅ・・・」
+<pause>
+石取り名人
+「私の負けのようですな」
+<pause>
+石取り名人
+「では約束どおり、アイテムをあ
+　げよう」<wait>{END}","Subtraction Guru:<nl>
+ Meh...<nl>
+ I can't believe I lost.
+<pause>
+Subtraction Guru:<nl>
+ I guess I'll have to uphold
+ my end of the bargain.
+ Here's your prize.<wait>{END}"
+"<color_0002><item_7C00>を手に入れました。<color_0000>
+<pause>
+石取り名人
+「むぅ、もう一回勝負しないか？」{END}","<color_0002>Acquired a <item_7C00>.<color_0000>
+<pause>
+Subtraction Guru:<nl>
+ Meh...<nl>
+ You know, I want a rematch.
+ What do you say?{END}"
+"石取り名人
+「残念、あなたの負けだ」
+<pause>
+石取り名人
+「またの挑戦を待っているよ」{END}","Subtraction Guru:<nl>
+ Sorry friend, but you lose.
+<pause>
+Subtraction Guru:<nl>
+ I await your next challenge!{END}"
+"新鋭の音楽家
+「やっぱり城のＢＧＭは新しい時
+　代に合ったものでなくてはいけ
+　ないよ」
+<pause>
+新鋭の音楽家
+「そう考えたらやっぱりこうなる
+　な」{END}","Novice Musician:<nl>
+ I think the music in the castle must
+ suit the new age!
+<pause>
+Novice Musician:<nl>
+ Which makes me think of
+ something like this...{END}"
+"熟練の音楽家
+「やはり、城の楽曲は荘厳かつ繊
+　細でなくてはならない」
+<pause>
+熟練の音楽家
+「そう考えると、こうなるであろ
+　う」{END}","Adept Musician:<nl>
+ I think the castle music needs to be
+ delicate and solemn.
+<pause>
+Adept Musician:<nl>
+ Something like this...{END}"
+"ハリソン
+「我が国のトール調査隊の話では
+　町の中には幻を映す装置があっ
+　たそうです」
+<pause>
+ハリソン
+「これも魔物の仕業でしょうか？」{END}","Harrison:<nl>
+ The investigation team we recently
+ sent to Thor found curious
+ equipment scattered about that
+ projected illusions.
+<pause>
+Harrison:<nl>
+ Could this possibly be the
+ handiwork of monsters, as well?{END}"
+"ルーングロム
+「この世界にいつからか、常に闇
+　に閉ざされた空間がある」
+<pause>
+ルーングロム
+「そこに町が一つあるんだ」
+<pause>
+ルーングロム
+「行ってみれば何か手がかりがつ
+　かめるかもしれないな」{END}","Lundgrom:<nl>
+ There is an anomalous region in the
+ world that is enveloped in a
+ constant darkness.
+<pause>
+Lundgrom:<nl>
+ Of particular interest, I've heard of
+ a town there being affected.
+<pause>
+Lundgrom:<nl>
+ Why don't you take a look?
+ The locals may know something.{END}"
+"ルーングロム
+「超古代と呼ばれる数千年の昔、
+　大陸は三つの大国によって覇権
+　が争われていた」
+<pause>
+ルーングロム
+「その三国というのがオーディー
+　ンとフェンリル、そしてトール」
+<pause>
+ルーングロム
+「突然の隕石落下によってトール
+　が崩壊した後・・・」
+<pause>
+ルーングロム
+「泥沼化した戦争にニ国の滅亡と
+　いう形で終止符をうった謎の男
+　達がいた」
+<pause>
+ルーングロム
+「その男達が使っていた、といわ
+　れる三種の武具が、世界のどこ
+　かに存在するらしい」
+<pause>
+ルーングロム
+「その三種の武具は融合させるこ
+　とで、時間を操る魔剣へと変化
+　するらしいんだ」
+<pause>
+ルーングロム
+「詳しいことは<color_0002>魔術研究室<color_0000>で聞い
+　てくれ」
+<pause>
+ルーングロム
+「期待しているよ」
+<pause>
+ルーングロム
+「もう君達しか頼る者がいないん
+　だ」{END}","Lundgrom:<nl>
+ Millennia ago, during the so-called
+ Age of Antiquity, the three worldly
+ superpowers fought for authority
+ over the planet's mainland.
+<pause>
+Lundgrom:<nl>
+ Those three superpowers were
+ Odin, Fenrir, and Thor.
+<pause>
+Lundgrom:<nl>
+ At one point, an asteroid impacted
+ and destroyed Thor.
+<pause>
+Lundgrom:<nl>
+ Afterward, mysterious men arose
+ and put an end to the now
+ deadlocked war by destroying the
+ two remaining nations.
+<pause>
+Lundgrom:<nl>
+ The triad of armaments the men
+ employed, collectively known as the
+ Tria, allegedly still exist somewhere
+ in the world.
+<pause>
+Lundgrom:<nl>
+ It seems that, when fused
+ together, they will become a magic
+ sword capable of manipulating
+ time.
+<pause>
+Lundgrom:<nl>
+ If you want to know anything
+ more specific, I suggest you inquire
+ at the <color_0002>Magic Research Lab<color_0000>.
+<pause>
+Lundgrom:<nl>
+ I am expecting great things from
+ you.
+<pause>
+Lundgrom:<nl>
+ You are now the only ones this
+ world can rely on.{END}"
+"兵士
+「収集品の中に、五信条の神像と
+　いう五体の像があるという話を
+　聞いたんだけど・・・」
+<pause>
+兵士
+「『ごしんじょうのしんぞう』だ
+　なんて、まるで早口言葉だよね」{END}","Soldier:<nl>
+ I heard that there was a set of
+ five collectibles known as the
+ “Principled Pentagon of
+ Providence”...
+<pause>
+Soldier:<nl>
+ Heh, try saying that three times
+ fast.{END}"
+"剣士
+「フレイランドには巨大な火山が
+　あるんだ」
+<pause>
+剣士
+「私も調査に行ったことがあるの
+　だが、今でも溶岩が地上に噴き
+　出してるよ」{END}","Swordsman:<nl>
+ A massive volcano stands tall in
+ Freyland. I went to check it out
+ with some other surveyors a while
+ ago.
+<pause>
+Swordsman:<nl>
+ We encountered a huge, flowing
+ lake of lava, as though the volcano
+ itself was enraged at our intrusion.
+<pause>
+Swordsman:<nl>
+ There was no way around it, so we
+ turned back.
+<pause>
+Swordsman:<nl>
+ A survey team that went out there
+ recently reported the same thing.{END}"
+"女の人
+「フリーズキールには巨大な教会
+　があるそうよ」
+<pause>
+女の人
+「何でも超古代文明の時代のもの
+　だったとか」{END}","Woman:<nl>
+ There's some gossip going around
+ about a huge, old church in
+ Freezekiel.
+<pause>
+Woman:<nl>
+ So old, in fact, that available
+ evidence dates it back to the Age
+ of Antiquity.{END}"
+"メイド
+「王室公認の紅茶はいかが？」{END}","Maid:<nl>
+ Would you like to try our royal
+ family's favored black tea?{END}"
+"エミリ
+「私はエミリ」
+<pause>
+エミリ
+「夢見る少女・・・」
+<pause>
+エミリ
+「ああ、先輩・・・」<wait>{END}","Emily:<nl>
+ I'm Emily...the dreaming girl...
+<pause>
+Emily:<nl>
+ Ohh...<nl>
+ My dear superior...<wait>{END}"
+"エミリ
+「二人で、笑いながら草原を走り
+　たい・・・」{END}","Emily:<nl>
+ I want to laugh with you as we
+ run across a grassy meadow...{END}"
+"エミリ
+「私の作った料理を食べてもらい
+　たい・・・」{END}","Emily:<nl>
+ I want you to eat the food I make
+ for you...{END}"
+"エミリ
+「私の髪を優しくなでて『好きだ
+　よ』って言ってほしい・・・」{END}","Emily:<nl>
+ I want you to caress my hair and
+ say “I love you!”...{END}"
+"エミリ
+「先輩と一緒に、愛に満ちた本を
+　作りたい・・・」{END}","Emily:<nl>
+ I want the two of us to write a
+ book filled with our love...{END}"
+"エミリ
+「先輩のほっぺを指でぷにぷにし
+　たい・・・」{END}","Emily:<nl>
+ I want to poke at your cute cheek
+ with my pinky...{END}"
+"エミリ
+「あんなことやこんなこと、いろ
+　いろしたい・・・」{END}","Emily:<nl>
+ I want to do this and that with
+ you, and then some more of the
+ other stuff...{END}"
+"メイド
+「絶対よね、絶対！」{END}","Maid:<nl>
+ Oh, of course!
+ Of course he is!{END}"
+"メイド
+「エミリの好きな人が誰なのかを
+　話してるの」{END}","Maid:<nl>
+ We're trying to figure out just who
+ exactly Emily's got the hots for.{END}"
+"司書
+「ここは図書室です」{END}","Librarian:<nl>
+ This is the library.{END}"
+"メイド
+「やっぱ、先輩に間違いないよ！」{END}","Maid:<nl>
+ I bet it's her superior!{END}"
+"メイド
+「案外、王女様だったりして」
+<pause>
+メイド
+「冗談よ、冗談！」{END}","Maid:<nl>
+ Suddenly, it turned out to be the
+ princess!
+<pause>
+Maid:<nl>
+ I kid, I kid!{END}"
+"剣士
+「前にミッドガルズにいたんだ」
+<pause>
+剣士
+「ダオスの攻撃から何とか逃れて
+　きてね」<wait>{END}","Swordsman:<nl>
+ I came here from Midgard recently.
+<pause>
+Swordsman:<nl>
+ Just barely missed Dhaos' assault.<wait>{END}"
+"剣士
+「奥義といえど使い所がわからな
+　ければ役にはたたないよ」{END}","Swordsman:<nl>
+ Just knowing arcane artes isn't
+ enough. You've got to figure out
+ how to use them efficiently.{END}"
+"剣士
+「君は剣士のようだね」
+<pause>
+剣士
+「この奥義書、買わないか？」
+<pause>
+剣士
+「１８０００ガルドでいいよ」
+<pause>
+<color_0002>買いますか？<color_0000>{END}","Swordsman:<nl>
+ You're a swordsman, huh?
+<pause>
+Swordsman:<nl>
+ Well, what do you think
+ of this arcane arte book?
+ You want it?
+<pause>
+Swordsman:<nl>
+ You can have it for 18000 gald!
+<pause>
+<color_0002>Buy it for 18000 gald?<color_0000>{END}"
+"剣士
+「いつでも買いに来てくれ」{END}","Swordsman:<nl>
+ Come back if you change your
+ mind!{END}"
+"剣士
+「金が足りないよ」{END}","Swordsman:<nl>
+ Not enough cash!{END}"
+"<color_0002><Cless>は<var_9B00>を覚えました。<color_0000>
+<pause>
+剣士
+「ありがとう」{END}","<color_0002><Cless> learned
+<var_9B00>.<color_0000>
+<pause>
+Swordsman:<nl>
+ Thanks a lot, man.{END}"
+"知識人
+「書物の話を聞きたくないか？」{END}","Intellectual:<nl>
+ Would you like a lecture on books?{END}"
+"知識人
+「あ、そう」{END}","Intellectual:<nl>
+ Oh, okay.{END}"
+"知識人
+「君達が必要としている本は三種
+　類ある」
+<pause>
+知識人
+「一つは奥義書、剣士が奥義を覚
+　えるための書物だ」
+<pause>
+知識人
+「一つは呪文書、魔術師が魔術を
+　覚えるための書物だ」
+<pause>
+知識人
+「そしてもう一つが、主に召喚士
+　などが研究用に使うものだ」
+<pause>
+知識人
+「時には魔力を帯びた武器にもな
+　る」
+<pause>
+知識人
+「こんなところかな」{END}","Intellectual:<nl>
+ There are three types of books
+ essential to you all.
+<pause>
+Intellectual:<nl>
+ First: arcane arte books. These are
+ complicated texts understood only
+ by experienced swordsmen which
+ teach new arcane artes.
+<pause>
+Intellectual:<nl>
+ Second: spell books.
+ Inscribed within are incantations.
+ Magic users can memorize their
+ contents to cast new spells.
+<pause>
+Intellectual:<nl>
+ Third: grimoires. These books are
+ useful for summoning research.
+ Some are enchanted, making them
+ effective weapons.
+<pause>
+Intellectual:<nl>
+ And...that about covers it.{END}"
+"兵士
+「君ら、『おでん』って知ってる
+　かい？」
+<pause>
+兵士
+「忍者はこの『おでん』が大好物
+　らしいね」
+<pause>
+兵士
+「でも僕はカレーライスのほうが
+　いいな」{END}","Soldier:<nl>
+ Hey, have you guys ever heard of
+ an exotic dish called “Miso Stew”?
+<pause>
+Soldier:<nl>
+ They say it's popular with ninja.
+<pause>
+Soldier:<nl>
+ Sounds a little too far
+ out there for me, though.
+ I'm just a simple man that
+ was raised on Curry...{END}"
+"衛兵
+「ここは王女様の部屋です」
+<pause>
+衛兵
+「そそうのないよう願います」{END}","Guard:<nl>
+ This is the door to the princess'
+ room.
+<pause>
+Guard:<nl>
+ Don't try anything sneaky in there!{END}"
+"衛兵
+「ここは王子様の部屋です」{END}","Guard:<nl>
+ This is the door to the prince's room.{END}"
+"衛兵
+「王女様・・・」
+<pause>
+衛兵
+「それは美しい方です」{END}","Guard:<nl>
+ The princess...<nl>
+ What a beauty.{END}"
+"衛兵
+「王子様が元に戻られた」
+<pause>
+衛兵
+「これでアルヴァニスタも安泰で
+　す」{END}","Guard:<nl>
+ Thankfully, with the prince back to
+ his old self, our country is peaceful
+ once again.{END}"
+"女の人
+「私の彼、冒険家なんだけどおも
+　しろい話をしてくれたわ」
+<pause>
+女の人
+「なんでも、海賊アイフリードの
+　隠れアジトは世界中に２０ヶ所
+　以上あるらしいのよ」
+<pause>
+女の人
+「全部探すのはたいへんね」{END}","Woman:<nl>
+ My boyfriend is an adventurer, so I
+ hear a lot of interesting stuff from
+ him.
+<pause>
+Woman:<nl>
+ He told me that the pirate captain
+ Aifread had over twenty hideouts
+ all over the world!
+<pause>
+Woman:<nl>
+ I can hardly imagine how difficult
+ it would be to find them all...{END}"
+"魔術師
+「超古代文明の古文書に興味深い
+　ことが書いてあったよ」
+<pause>
+魔術師
+「<var_D800>という精霊は再生の能
+　力があるんだそうだ」
+<pause>
+魔術師
+「再生というのは壊れた物を直す
+　能力もそうだけど・・・」
+<pause>
+魔術師
+「複数の物を一つの物に作り替え
+　るという能力もあると書いてあ
+　るよ」
+<pause>
+魔術師
+「昔は<var_D800>っていうと伝説上
+　の精霊だったんだけどね」
+<pause>
+魔術師
+「ここまで具体的な説明があると
+　実在してもおかしくないよね」
+<pause>
+魔術師
+「場所は、やっぱりエルフの聖域
+　ヘイムダールなのかなぁ」
+<pause>
+魔術師
+「<var_D800>に関する古文書には必
+　ずと言っていいほど書かれてい
+　るよ」{END}","Mage:<nl>
+ We've come across much fascinating knowledge from examining
+ records from the Age of Antiquity.
+<pause>
+Mage:<nl>
+ One of the most popular items
+ revealed that the spirit, Origin,
+ apparently had powers of
+ regeneration.
+<pause>
+Mage:<nl>
+ With this power, Origin could return
+ fragmented objects to wholeness,
+ but even more interestingly...
+<pause>
+Mage:<nl>
+ ...it was noted that Origin could
+ synthesize entirely new items with
+ the right materials.
+<pause>
+Mage:<nl>
+ Tales of Origin have been amongst
+ the most persistent legends
+ throughout the ages...
+<pause>
+Mage:<nl>
+ It's no wonder such consistent,
+ detailed information about him
+ remains to this day.
+<pause>
+Mage:<nl>
+ I don't know Origin's precise
+ location, but my sixth sense is
+ telling me Heimdall, the sacred
+ elven precinct.
+<pause>
+Mage:<nl>
+ Refer to the ancient records
+ pertaining to Origin for more
+ information.{END}"
+"男の人
+「私の先祖は石取りゲームの名人
+　でした」
+<pause>
+男の人
+「ですがもう石取りゲームはやめ
+　ました」<wait>{END}","Man:<nl>
+ My ancestor called himself the
+ Subtraction Guru for a time in his
+ life.
+<pause>
+Man:<nl>
+ But since he always slagged his
+ opponents, he gave up that gig.
+  Now that that's history...<wait>{END}"
+"男の人
+「私はボタン押しゲームの出題者
+　なんです」
+<pause>
+男の人
+「私の言う通りにボタンを押すこ
+　とができたら、何か賞品をあげ
+　るけど、やりますか？」{END}","Man:<nl>
+ Today, I'm kicking off the Button
+ Game; a new game for a new era!
+<pause>
+Man:<nl>
+ It's easy! Just press buttons
+ in a special sequence, and you
+ take home a great prize!
+ Want to play?{END}"
+"男の人
+「そうですか、気が向いたらまた
+　来て下さい」{END}","Man:<nl>
+ Oh well, that's too bad.
+ I'll be waiting in case you change
+ your mind.{END}"
+"男の人
+「説明を聞きますか？」{END}","Man:<nl>
+ Before we begin, would you like an
+ explanation of the game's rules?{END}"
+"男の人
+「私が無作為にボタンを押す順番
+　を言います」
+<pause>
+男の人
+「例えばこんな風に・・・」
+<pause>
+男の人
+「　<0Dvar000110022A510E000FC0030016C00CC000C0><0Dvar000110022A510C000FC0030016C00CC000C0><0Dvar000110022A510A000FC0030016C00CC000C0><0Dvar000110022A5108000FC0030016C00CC000C0><0Dvar000110022A5106000FC0030016C00CC000C0><0Dvar000110022A5104000FC0030016C00CC000C0><0Dvar000110022A5102000FC0030016C00CC000C0><0Dvar000110022A5100000FC0030016C00CC000C0>
+　の順番で押して下さい」
+<pause>
+男の人
+「あなたはこれをすばやく覚えて
+　下さい」
+<pause>
+男の人
+「そして、その後で同じ順番でボ
+　タンを押すだけなんです」
+<pause>
+男の人
+「もう一度説明しましょうか？」{END}","Man:<nl>
+ Basically, this is a game that tests
+ your memory.
+<pause>
+Man:<nl>
+ First, I'll quickly jot down a random
+ sequence of eight buttons on a
+ sheet of paper.
+<pause>
+Man:<nl>
+ Then I'll show it to you and
+ instruct you to replicate
+ that sequence.
+ Like this:
+<pause>
+Man:<nl>
+ Input this button sequence!<nl>
+ 
+ <0Dvar000110022A510E000FC0030016C00CC000C0><0Dvar000110022A510C000FC0030016C00CC000C0><0Dvar000110022A510A000FC0030016C00CC000C0><0Dvar000110022A5108000FC0030016C00CC000C0><0Dvar000110022A5106000FC0030016C00CC000C0><0Dvar000110022A5104000FC0030016C00CC000C0><0Dvar000110022A5102000FC0030016C00CC000C0><0Dvar000110022A5100000FC0030016C00CC000C0>
+<pause>
+Man:<nl>
+ Memorize the sequence while the
+ sheet is held up, which won't be
+ for very long!
+<pause>
+Man:<nl>
+ Once I hide the sheet, press the
+ buttons in the order you were
+ shown!
+<pause>
+Man:<nl>
+ Fail to replicate the sequence
+ exactly and you will lose.
+ Hope you have a good memory!
+<pause>
+Man:<nl>
+ Do you need the rules explained
+ again?{END}"
+"男の人
+「じゃあ、始めるよ・・・」{END}","Man:<nl>
+ All righty, here we go...{END}"
+"<speed_0000>男の人
+「　<0Dvar000110022A510E000FC0030016C00CC000C0><0Dvar000110022A510C000FC0030016C00CC000C0><0Dvar000110022A510A000FC0030016C00CC000C0><0Dvar000110022A5108000FC0030016C00CC000C0><0Dvar000110022A5106000FC0030016C00CC000C0><0Dvar000110022A5104000FC0030016C00CC000C0><0Dvar000110022A5102000FC0030016C00CC000C0><0Dvar000110022A5100000FC0030016C00CC000C0>
+　の順番で押して下さい」<speed_FFFF>{END}","<speed_0000>Man:<nl>
+ Input this button sequence!<nl>
+ 
+ <0Dvar000110022A510E000FC0030016C00CC000C0><0Dvar000110022A510C000FC0030016C00CC000C0><0Dvar000110022A510A000FC0030016C00CC000C0><0Dvar000110022A5108000FC0030016C00CC000C0><0Dvar000110022A5106000FC0030016C00CC000C0><0Dvar000110022A5104000FC0030016C00CC000C0><0Dvar000110022A5102000FC0030016C00CC000C0><0Dvar000110022A5100000FC0030016C00CC000C0><speed_FFFF>{END}"
+"男の人
+「残念ですが時間切れです」{END}","Man:<nl>
+ Sorry, time's up!{END}"
+"男の人
+「おお、正解です」<wait>{END}","Man:<nl>
+ Whoa!
+ You managed to do it!
+ Nicely done!<wait>{END}"
+"男の人
+「違いますよ」<wait>{END}","Man:<nl>
+ Bzzzt!
+ Incorrect!<wait>{END}"
+"男の人
+「また挑戦して下さい」{END}","Man:<nl>
+ Come back soon!{END}"
+"<speed_0000>あなたの答え：<0Dvar0001100228510E000FC0030016C00CC000C0><0Dvar0001100228510C000FC0030016C00CC000C0><0Dvar0001100228510A000FC0030016C00CC000C0><0Dvar00011002285108000FC0030016C00CC000C0><0Dvar00011002285106000FC0030016C00CC000C0><0Dvar00011002285104000FC0030016C00CC000C0><0Dvar00011002285102000FC0030016C00CC000C0><0Dvar00011002285100000FC0030016C00CC000C0>
+正しい答え　：<0Dvar000110022A510E000FC0030016C00CC000C0><0Dvar000110022A510C000FC0030016C00CC000C0><0Dvar000110022A510A000FC0030016C00CC000C0><0Dvar000110022A5108000FC0030016C00CC000C0><0Dvar000110022A5106000FC0030016C00CC000C0><0Dvar000110022A5104000FC0030016C00CC000C0><0Dvar000110022A5102000FC0030016C00CC000C0><0Dvar000110022A5100000FC0030016C00CC000C0>
+かかった時間：<0Evar001A513C000AC000C0>。<0Evar001A513C000BC0><0Avar0009C006000AC000C0>秒
+押した回数　：<num5_C0005104>回<speed_FFFF><wait>{END}","<speed_0000>You answered:__ <0Dvar0001100228510E000FC0030016C00CC000C0><0Dvar0001100228510C000FC0030016C00CC000C0><0Dvar0001100228510A000FC0030016C00CC000C0><0Dvar00011002285108000FC0030016C00CC000C0><0Dvar00011002285106000FC0030016C00CC000C0><0Dvar00011002285104000FC0030016C00CC000C0><0Dvar00011002285102000FC0030016C00CC000C0><0Dvar00011002285100000FC0030016C00CC000C0><nl>
+Correct answer: <0Dvar000110022A510E000FC0030016C00CC000C0><0Dvar000110022A510C000FC0030016C00CC000C0><0Dvar000110022A510A000FC0030016C00CC000C0><0Dvar000110022A5108000FC0030016C00CC000C0><0Dvar000110022A5106000FC0030016C00CC000C0><0Dvar000110022A5104000FC0030016C00CC000C0><0Dvar000110022A5102000FC0030016C00CC000C0><0Dvar000110022A5100000FC0030016C00CC000C0><nl>
+Time taken: <0Evar001A513C000AC000C0>.<0Evar001A513C000BC0><0Avar0009C006000AC000C0> seconds<nl>
+Number of buttons pressed: <num5_C0005104><speed_FFFF><wait>{END}"
+"男の人
+「これを差しあげます」
+<pause>
+男の人
+「またやってみて下さい」<wait>{END}","Man:<nl>
+ The prize is all yours!
+ Come back again!<wait>{END}"
+<color_0002><num3_C000511A>を手に入れました。{END},<color_0002>Acquired <a/an><num3_C000511A>.<color_0000>{END}
+"『超古代の言語形態１』
+<pause>
+超古代文明時代にはニつの言語が
+発達していたと言われている。
+<pause>
+一つは上位古代語と呼ばれる言語
+だが、起源は一万年前とも十万年
+前とも言われている古い言語であ
+る。
+<pause>
+もう一つはコモン語と呼ばれる言
+語である。
+<pause>
+我々の話す言葉などはこの言語が
+元であると言われている。
+<pause>
+また、このニつの言語を法印状に
+組み合わせた文章が刻まれている
+石盤も多数発見されている。{END}","“Forms of Ancient Language 1”
+<pause>
+Archaeologists generally agree that
+two primary languages developed
+during the Age of Antiquity.
+<pause>
+They have designated one of them
+as the “Higher Language,” which
+likely first came into use between
+ten and a hundred millennia ago.
+<pause>
+The other has been called the
+“Common Language,” which is
+thought to be the source of modern
+languages.
+<pause>
+The numerous stone slabs
+discovered engraved with scripture
+composed in both languages strongly
+supports this theory.{END}"
+"『禁呪文』
+<pause>
+この世界に存在する魔術の中には、
+<pause>
+いにしえに封印された禁呪文と呼
+ばれるものがある。
+<pause>
+その一つとして自己犠牲魔術があ
+る。
+<pause>
+自らの全精力を熱エネルギーに変
+換、全魔力を使ってそれを圧縮、
+爆発させるという。
+<pause>
+不思議なことに魔術をかける直前
+自然と自分の周囲に結界が張られ
+て爆発の範囲を抑えるという。
+<pause>
+攻撃力を上げるためか、周囲に爆
+発の影響を与えないためかは定か
+ではない。{END}","“Forbidden Spells”
+<pause>
+Of the magic spells of this world,
+there exist so-called “Forbidden
+Spells” which have been sealed
+away.
+<pause>
+Among these spells is one which
+calls for the sacrifice of the caster.
+<pause>
+This is conducted by converting
+all of the caster's willpower into
+thermal energy as well as their
+magic power into pressure,
+resulting in a powerful spontaneous
+combustion of sorts.
+<pause>
+Just before the spell activates, a
+barrier envelops the area around
+the body, limiting the range of the
+explosion. It is not certain why this
+occurs.
+<pause>
+A theory gaining prominence is that
+the limited range naturally packs
+the combustive energy more
+densely, allowing the explosion to be
+smaller yet more destructive.{END}"
+"『癒しの術』
+<pause>
+魔術は主に攻撃を主体とするもの
+が多いが、それとは別に癒しの効
+果を持つ奇跡の力があるという。
+<pause>
+魔術は自らの魔力を使うが、癒し
+の力は、大地や神の助力によって
+成り立つと言われている。
+<pause>
+しかし、いまだ存在は確認されて
+いない。{END}","“Healing Artes”
+<pause>
+Destruction is the chief property of
+magic, but there also exists a
+miraculous power of restoration.
+<pause>
+It is known that there are different
+factors in one's ability to command
+these two powers, but current
+research is incomplete.
+<pause>
+Destructive spells are the simple
+result of a caster's innate magical
+ability, but those of the restorative
+class are thought to be a gift from
+the Mother Goddess.
+<pause>
+However, the truth behind the
+ability to use restorative spells is
+still shrouded in much mystery, as
+the existence of the Goddess herself
+is yet to be proven.{END}"
+"『月と星』
+<pause>
+我々がいつも見ている月、大きい
+方がシルヴァラント、小さい方が
+テセアラと呼ばれています。
+<pause>
+これらニつの月は我々の住んでい
+るこの星の衛星です。
+<pause>
+シルヴァラントは約３５日、テセ
+アラは約４２日でこの星を一周し
+ます。
+<pause>
+このニつの月の間には、お互いの
+引力による影響で隕石が無数に浮
+遊して存在しています。
+<pause>
+しかし残念ながら望遠鏡などを用
+いなければ、これらを見ることは
+できません。{END}","“Our Planet-Moon System”
+<pause>
+The moons visible to the naked eye
+are called Sylvarant and Tethe'alla.
+Sylvarant is the larger of the two,
+and Tethe'alla the smaller one.
+<pause>
+These two moons orbit around the
+planet on which we live.
+<pause>
+Sylvarant's orbital period is
+approximately 35 days, while
+Tethe'alla's is approximately 42.
+<pause>
+Quite astoundingly, a countless
+number of asteroids are suspended
+between the two moons, affected
+by the moons' mutual gravitational
+forces.
+<pause>
+Unfortunately, these objects are too
+minuscule to be seen with
+an unaided eye--telescopes are
+necessary to observe them.{END}"
+"『超古代都市トールについて』
+<pause>
+トールの文化が最盛期にあったこ
+ろ、その存在は他のいかなる国よ
+りも大きなものでした。
+<pause>
+はるかに高度な科学技術を有し、
+それを国の基盤としていました。
+<pause>
+しかし、極めて閉鎖的に発展して
+きたとも言われています。
+<pause>
+トールに住んでいた人々に、その
+高度な技術を育てた一因がありま
+す。
+<pause>
+人種的にもたぐいまれな能力を有
+する種族だったようです。{END}","“About the Ancient City of Thor”
+<pause>
+During its golden age, the civilization
+of Thor was comprised of an
+enormous nation, the likes of which
+have still not been seen.
+<pause>
+The bedrock of this nation was its
+incredibly advanced science and
+technology.
+<pause>
+However, the country later
+developed extremely insular and
+xenophobic tendencies.
+<pause>
+This is thought to have been
+because of the technology Thor's
+population grew up with.
+<pause>
+Likely due to prolonged exposure to
+their technology, the country's
+people seem to have possessed
+some very unique racial
+characteristics.{END}"
+"『改・禁呪文』
+いにしえより封印された魔術の多
+くが時間や空間を操るものだった
+らしい。{END}","“Forbidden Spells - Addendum”
+<pause>
+Spells controlling the very fabric of
+space and time have been widely
+regarded as extremely dangerous
+and has thus been sealed since
+antiquity.{END}"
+"『いにしえの音楽』
+<pause>
+超古代文明では今とは違い、テン
+ポの速い激しい音楽が流行してい
+たという。
+<pause>
+『ドラム』という打楽器でリズム
+をとり、『エレキギター』という
+電気仕掛けのギターでコードを奏
+でる。
+<pause>
+『ベース』というコントラバスに
+近い楽器で低音部分を演奏した。
+<pause>
+また『キーボード』という電気で
+奏でるピアノで演奏していたとい
+われている。{END}","“Music of Antiquity”
+<pause>
+Unlike today, extremely high tempo
+music was in fashion in ancient
+civilizations.
+<pause>
+“Electric guitars,” guitars using
+electricity, played chords to the
+rhythm of percussion instruments
+called “drums.”
+<pause>
+“Bass”--a low-frequency
+sound--was produced by
+instruments such as the “double
+bass.”
+<pause>
+One of the most intriguing
+instruments was the “keyboard,” a
+sort of electric piano used in
+performances.{END}"
+"<Cless>
+「日記みたいだ・・・」
+<pause>
+？月？日　晴れ
+今日超かっこいい、あこがれの先
+輩と話しちゃった。<panic>
+<pause>
+背が高くて顔もモデル級で、こん
+な人と話ができるなんて・・・
+<pause>
+エミリもう最高にハッピー<heart>
+<pause>
+ＢＵＴ、先輩の前に立つと、胸が
+ドキドキして・・・
+<pause>
+自分でも何話してるんだかわかん
+なくなっちゃうのん<sweat>
+<pause>
+ああ、先輩・・・<heart>
+<pause>
+<Cless>
+「なんだこれは？」{END}","<Cless>:<nl>
+ Uhh...<nl>
+ Looks like there's a diary mixed in
+ with the books here...
+<pause>
+Date: ??/??/????<nl>
+Weather: Sunny and Clear
+<pause>
+Dear Diary,<nl>
+Today was the best!<nl>
+I got to talk to HIM!<nl>
+Oh, how he makes me squeal like a
+little girl <panic>
+<pause>
+He's got it all! He towers over me,
+has the face of a model... Wow, for
+me to be able to chat with such a
+perfect guy...
+<pause>
+...ohh, just the thought puts Emily on
+cloud nine <heart>
+<pause>
+But I guess it could have gone
+better... My heart was fluttering like
+crazy with him right in front of
+me...
+<pause>
+I...I wanted to stay with him longer,
+but I just couldn't think of anything
+interesting to talk about<sweat>
+<pause>
+Ohh, my dear superior... <heart>
+<pause>
+<Cless>:<nl>
+ What the heck is this doing in a
+ place like this!? Does she WANT
+ other people to read this!?{END}"
+"<Cless>
+「石ころがたくさん入っている」{END}","<Cless>:<nl>
+ There's a ton of rocks in this thing.
+ It's not going anywhere no matter
+ how hard I push it...{END}"
+"<Cless>
+「からっぽみたいだ」{END}","<Cless>:<nl>
+ There doesn't seem to be anything
+ in this...{END}"
+"<audio_0B32><Arche>
+「ふぅっ、これで全員だよね<panic>」
+<pause>
+<audio_0B33><Klarth>
+「それじゃあ、王子の寝室を探そ
+　う」
+<pause>
+<audio_0B34><Klarth>
+「みんな静かにな・・・」{END}","<audio_0B32><Arche>:<nl>
+ Whew, that's everyone <panic>
+<pause>
+<audio_0B33><Klarth>:<nl>
+ Dhaos' henchman should be near
+ the prince. At this hour, finding his
+ chambers should be our priority.
+<pause>
+<audio_0B34><Klarth>:<nl>
+ Act with stealth, people...{END}"
+"<audio_0B72>ルーングロム
+「おぬしら、夜分城内に侵入した
+　理由を申してみよ」<wait>{END}","<audio_0B72>Lundgrom:<nl>
+ I ask that you state your reason
+ for infiltrating this castle under
+ cover of nightfall.<wait>{END}"
+"<audio_0B73><Klarth>
+「王子を助けるためです」{END}","<audio_0B73><Klarth>:<nl>
+ In order to save the prince.{END}"
+"<audio_0B74>レアード
+「な、何をバカなことを・・・」
+<pause>
+<audio_0B75>国王
+「レアード、お前は何も知らぬの
+　だ」
+<pause>
+<audio_0B76>国王
+「黙っておれ」
+<pause>
+<audio_0B77><Klarth>
+「今、私達は魔術を必要としてい
+　るのです」
+<pause>
+<audio_0B78><Klarth>
+「より強い呪文を得るためにユー
+　クリッドよりアルヴァニスタま
+　でやってまいりました」
+<pause>
+<audio_0B79>ルーングロム
+「なぜ魔術を？」
+<pause>
+<audio_0B7A><Klarth>
+「魔術でしか傷つかないと言われ
+　ているダオスを倒すためです」
+<pause>
+<audio_0B7B>国王
+「なに、真か！？」
+<pause>
+<audio_0B7C>国王
+「実は、そなたらが偶然レアード
+　を助けた盗賊にすぎぬのか？」
+<pause>
+<audio_0B7D>国王
+「それとも最初からレアードを助
+　けるつもりだったのか？」
+<pause>
+<audio_0B7E>国王
+「それをはっきりさせたかったの
+　だ」
+<pause>
+<audio_0B7F>国王
+「心から礼を申すぞ」<wait>{END}","<audio_0B74>Laird:<nl>
+ Wh-What craziness is--
+<pause>
+<audio_0B75>King:<nl>
+ <var_E700>, Laird!
+<pause>
+<audio_0B76>King:<nl>
+ You know nothing.
+<pause>
+<audio_0B77><Klarth>:<nl>
+ Your Majesty, if I may...<nl>
+ At this time, powerful magic is of
+ utmost importance to us.
+<pause>
+<audio_0B78><Klarth>:<nl>
+ With your country being the
+ world's authority on the subject,
+ our presence here should be of no
+ surprise.
+<pause>
+<audio_0B79>Lundgrom:<nl>
+ You need magic?
+ What for?
+<pause>
+<audio_0B7A><Klarth>:<nl>
+ It's Dhaos' only vulnerability.
+ As you might glean from what I've
+ said, our journey is to defeat him.
+<pause>
+<audio_0B7B>King:<nl>
+ What!? Truly!?
+<pause>
+<audio_0B7C>King:<nl>
+ Hmm... I suppose that settles it.
+<pause>
+<audio_0B7D>King:<nl>
+ I summoned you all to my throne
+ to determine if you were mere
+ thieves who saved Laird by
+ chance...
+<pause>
+<audio_0B7E>King:<nl>
+ ...or if your purpose truly was to
+ save him.
+<pause>
+<audio_0B7F>King:<nl>
+ It would appear your intentions
+ were pure. I thank you from the
+ bottom of my heart.<wait>{END}"
+"<audio_0B80>レアード
+「私がダオスに操られていた？」
+<pause>
+<audio_0B81>レアード
+「父上、本当なのですか？」
+<pause>
+<audio_0B82>国王
+「うむ、真だ」
+<pause>
+<audio_0B83>国王
+「そのために、近く起こる戦に我
+　が王国は加勢することができな
+　くなっていたのだ」
+<pause>
+<audio_0B84>国王
+「ダオスはそれが目的だったのだ
+　ろう」<wait>{END}","<audio_0B80>Laird:<nl>
+ Dhaos was manipulating my every
+ move?
+<pause>
+<audio_0B81>Laird:<nl>
+ Father, surely this is a lie?
+<pause>
+<audio_0B82>King:<nl>
+ I do not speak in jest.
+<pause>
+<audio_0B83>King:<nl>
+ Our ability to mobilize forces
+ to provide assistance for the
+ oncoming war has been
+ suppressed until now.
+<pause>
+<audio_0B84>King:<nl>
+ Upon reflection, I have no doubts in
+ my mind that that was Dhaos'
+ objective.<wait>{END}"
+"<audio_0B85><Cless>
+「戦が起きる？」
+<pause>
+<audio_0B86>ルーングロム
+「行く先々で噂話くらいは聞いた
+　ことがあるだろう？」
+<pause>
+<audio_0B87>ルーングロム
+「我が国の同盟国であるミッドガ
+　ルズとダオスの軍勢が激突間近
+　だという話くらいはな」
+<pause>
+<audio_0B88><Klarth>
+「心得ています」
+<pause>
+<audio_0B89>国王
+「もし、呪文探索の旅が十分達成
+　されたと感じたなら・・・」
+<pause>
+<audio_0B8A>国王
+「戦に力を貸すことも考えてみて
+　ほしい」
+<pause>
+<audio_0B8B><Klarth>
+「はい」{END}","<audio_0B85><Cless>:<nl>
+ Excuse me for asking, but there's a
+ war breaking out?
+<pause>
+<audio_0B86>Lundgrom:<nl>
+ Oh, haven't you at least heard any
+ rumors during your journeys?
+<pause>
+<audio_0B87>Lundgrom:<nl>
+ Well, anyway, the time draws near
+ for Midgard, an ally of ours, to
+ clash with Dhaos' forces.
+<pause>
+<audio_0B88><Klarth>:<nl>
+ Aha, now that you mention it, I
+ remember some folks telling us
+ about something like that.
+<pause>
+<audio_0B89>King:<nl>
+ I wish to make you a proposition.
+ If and when you feel your quest
+ for spells has been met to your
+ satisfaction...
+<pause>
+<audio_0B8A>King:<nl>
+ Would you consider lending your
+ power toward the war effort?
+<pause>
+<audio_0B8B><Klarth>:<nl>
+ Absolutely.{END}"
+"<audio_0B8C>ルーングロム
+「これはおぬしらが退治した魔物
+　の死体から見つかった物だ」
+<pause>
+<audio_0B8D>ルーングロム
+「持ってゆくがいい」
+<pause>
+<audio_0B8E>ルーングロム
+「それと・・・」{END}","<audio_0B8C>Lundgrom:<nl>
+ Now...<nl>
+ We thought you'd like to know that
+ the monster you dispatched left
+ some spoils behind.
+<pause>
+<audio_0B8D>Lundgrom:<nl>
+ Here's one of them.
+ I'm sure you'll find it
+ to be of use.
+<pause>
+<audio_0B8E>Lundgrom:<nl>
+ And--{END}"
+"<audio_0B8F><Klarth>
+「これは魔術書！！」
+<pause>
+<audio_0B90><Klarth>
+「よろしいのですか？」<wait>{END}","<audio_0B8F><Klarth>:<nl>
+ Wait, this is a grimoire!
+ One I've been looking all over for!
+<pause>
+<audio_0B90><Klarth>:<nl>
+ Is it of no use to you?<wait>{END}"
+"<audio_0B91>ルーングロム
+「それからおぬしにはこれだ」
+<pause>
+<audio_0B92>ルーングロム
+「これも倒した魔物が持っていた
+　のだ」{END}","<audio_0B91>Lundgrom:<nl>
+ Either way, I have no right to it.
+ I was not the one to slay the
+ monster, after all.
+<pause>
+<audio_0B92>Lundgrom:<nl>
+ It happened to be clutching this as
+ well...{END}"
+"<audio_0B93><Cless>
+「これは！？」
+<pause>
+<audio_0B94>ルーングロム
+「<item_C300>・・・」
+<pause>
+<audio_0B95>ルーングロム
+「神々の終末の戦いの際に作られ
+　たと言われている槍だ」
+<pause>
+<audio_0B96>国王
+「遠慮はいらぬ」
+<pause>
+<audio_0B97>国王
+「それに何か困ったことがあれば
+　いつでも頼ってきてくれ」
+<pause>
+<audio_0B98><Klarth>
+「ありがとうございます！」
+<pause>
+<audio_0B99><Klarth>
+「では早速ですがモーリア坑道の
+　探索許可証をお願いしたいので
+　すが」
+<pause>
+<audio_0B9A>ルーングロム
+「それはまたなぜ？」
+<pause>
+<audio_0B9B>ルーングロム
+「単なる宝探しというわけではあ
+　るまい？」
+<pause>
+<audio_0B9C><Klarth>
+「はい」
+<pause>
+<audio_0B9D><Klarth>
+「月の精霊<var_D400>と契約を結ぶため
+　の指輪があると言われているか
+　らです」
+<pause>
+<audio_0B9E>国王
+「うむ、わかった」
+<pause>
+<audio_0B9F>国王
+「後日、町の<color_0002>冒険者ギルド<color_0000>で受け
+　取るがよい」<wait>{END}","<audio_0B93><Cless>:<nl>
+ A spear!?
+<pause>
+<audio_0B94>Lundgrom:<nl>
+ It is called Gungnir.
+<pause>
+<audio_0B95>Lundgrom:<nl>
+ It's a legendary artifact said to
+ have been forged during the final
+ battle of the gods.
+<pause>
+<audio_0B96>King:<nl>
+ ...You journey with the full
+ authority of Alvanista.
+ Show no restraint.
+<pause>
+<audio_0B97>King:<nl>
+ You may rely on us if ever
+ anything should ail you.
+<pause>
+<audio_0B98><Klarth>:<nl>
+ Thank you very much!
+<pause>
+<audio_0B99><Klarth>:<nl>
+ Let's get down to business, then.
+ I'd like an exploration permit for
+ the Moria Mine as soon as possible.
+<pause>
+<audio_0B9A>Lundgrom:<nl>
+ What do you need that for?
+<pause>
+<audio_0B9B>Lundgrom:<nl>
+ You're not going on a simple
+ treasure hunt, I take it.
+<pause>
+<audio_0B9C><Klarth>:<nl>
+ Correct.
+<pause>
+<audio_0B9D><Klarth>:<nl>
+ I've gotten some promising leads
+ that the ring necessary to pact
+ with the Spirit of the Moon, Luna, is
+ in there. It is vital to our cause.
+<pause>
+<audio_0B9E>King:<nl>
+ Hmm...<nl>
+ Very well.
+<pause>
+<audio_0B9F>King:<nl>
+ I shall have it prepared at once in
+ the name of your leader. Procure it
+ at the <color_0002>Adventurer's Guild<color_0000> in the city
+ at your earliest convenience.<wait>{END}"
+"<audio_0BA0>ルーングロム
+「それでは陛下、私は研究所に戻
+　ります」
+<pause>
+<audio_0BA1>レアード
+「私も部屋に戻ります」{END}","<audio_0BA0>Lundgrom:<nl>
+ My research awaits, Your Highness.
+<pause>
+<audio_0BA1>Laird:<nl>
+ Then I shall also be returning to
+ my chambers.{END}"
+<color_0002>契約の指輪<item_5E01>、<item_C300>、<item_EC00>を手に入れました。{END},"<color_0002>Acquired the <item_5E01> pact ring,
+Gungnir, and a copy of Celaeno
+Fragments.{END}"
+"<speed_0000>衛兵
+「そこにいるのは誰だ！？」{END}","<speed_0000>Guard:<nl>
+ Who goes there!?{END}"
+"<audio_11DC>ハリソン
+「お連れいたしました」
+<pause>
+<audio_11DD>ルーングロム
+「ごくろうだったな」{END}","<audio_11DC>Harrison:<nl>
+ I have returned with them as
+ commanded.
+<pause>
+<audio_11DD>Lundgrom:<nl>
+ Well done.{END}"
+"<audio_11DE><Cless>
+「ルーングロムさん！！」{END}","<audio_11DE><Cless>:<nl>
+ Oh, Lundgrom!!{END}"
+"<audio_11DF><Chester>
+「誰？」
+<pause>
+<audio_11E0><Arche>
+「過去で会った人」
+<pause>
+<audio_11E1><Arche>
+「ここの宮廷魔術師なのよ」<wait>{END}","<audio_11DF><Chester>:<nl>
+ Huh?
+ You know this guy?
+<pause>
+<audio_11E0><Arche>:<nl>
+ Yeah.
+ He's the Court Mage around here.
+<pause>
+<audio_11E1><Arche>:<nl>
+ He saved our butts a
+ lot back in my time!
+ He knows, like, everything!<wait>{END}"
+"<audio_11E2><Mint>
+「まさかまたルーングロムさんに
+　お会いできるなんて・・・」
+<pause>
+<audio_11E3>ルーングロム
+「だてにエルフの血は流れていな
+　いよ」
+<pause>
+<audio_11E4>ルーングロム
+「本当はこんな形では会いたくな
+　かったんだが・・・」
+<pause>
+<audio_11E5>ルーングロム
+「しかし君達に会えて私もうれし
+　いよ」
+<pause>
+<audio_11E6><Klarth>
+「ルーングロムさんもおかわりな
+　く」
+<pause>
+<audio_11E7>ルーングロム
+「ああ、つもる話もあるだろうが
+　先に陛下に会ってくれないか？」
+<pause>
+<audio_11E8><Cless>
+「はい」{END}","<audio_11E2><Mint>:<nl>
+ Truly we are blessed to be able to
+ see you again, Lundgrom...
+<pause>
+<audio_11E3>Lundgrom:<nl>
+ I don't have elven blood flowing
+ through my veins for nothing.
+<pause>
+<audio_11E4>Lundgrom:<nl>
+ I do wish we could have met again
+ under better circumstances,
+ though...
+<pause>
+<audio_11E5>Lundgrom:<nl>
+ But I am certainly happy to see
+ you again.
+<pause>
+<audio_11E6><Klarth>:<nl>
+ I feel the same way.
+<pause>
+<audio_11E7>Lundgrom:<nl>
+ Yeah.
+ There's so much I'd enjoy catching
+ up with you on, but His Majesty is
+ waiting for you.
+<pause>
+<audio_11E8><Cless>:<nl>
+ Right.
+ Let's go into the throne room.{END}"
+"<audio_11E9>ルーングロム
+「国王陛下、過去からの使者の方々
+　を、お連れいたしました」
+<pause>
+<audio_11EA>アルヴァニスタ国王
+「大儀であった」{END}","<audio_11E9>Lundgrom:<nl>
+ Your Majesty the King, I present to
+ you the emissaries from the past.
+<pause>
+<audio_11EA>King of Alvanista:<nl>
+ You all have come such a long way.{END}"
+"<audio_11EB>国王
+「ハリソンから話は聞いておると
+　は思うが、ダオスは今や全世界
+　の脅威となっておる」
+<pause>
+<audio_11EC>国王
+「ダオスに未来へ未来へと時間転
+　移する力がある限り・・・」
+<pause>
+<audio_11ED>国王
+「永遠にイタチごっこになってし
+　まうのは、すでに明らかだ」
+<pause>
+<audio_11EE>国王
+「しかし我々も、ただ漫然と戦い
+　続けてきたわけではない」
+<pause>
+<audio_11EF><Klarth>
+「といいますと？」
+<pause>
+<audio_11F0>ルーングロム
+「トールで発見された超古代の遺
+　産から、問題を解決する鍵とな
+　る情報が得られたのだ」
+<pause>
+<audio_11F1><Cless>
+「鍵、ですか？」
+<pause>
+<audio_11F2>ルーングロム
+「超古代と呼ばれる数千年の昔、
+　大陸は三つの大国によって覇権
+　が争われていた」
+<pause>
+<audio_11F3>ルーングロム
+「話くらいは聞いたことはあると
+　思うが、オーディーン、フェン
+　リル、そしてトールだ」
+<pause>
+<audio_11F4>ルーングロム
+「隕石の落下によってトールが海
+　に没した後」
+<pause>
+<audio_11F5>ルーングロム
+「泥沼化した戦争にニ国の滅亡と
+　いう形で終止符を打った謎の男
+　達が現われた」
+<pause>
+<audio_11F6>ルーングロム
+「彼らが使っていた三種の武具」
+<pause>
+<audio_11F7>ルーングロム
+「そのありかを記した文書が見
+　つかったのだ」
+<pause>
+<audio_11F8><Klarth>
+「それがあればダオスを倒すこと
+　ができるのですか？」
+<pause>
+<audio_11F9>ルーングロム
+「その三種の武具は融合させるこ
+　とで、時間を操る魔剣へと変化
+　するらしいのだ」
+<pause>
+<audio_11FA><Klarth>
+「つまり、ダオスの時間転移を封
+　じることができるというわけで
+　すね？」
+<pause>
+<audio_11FB>ルーングロム
+「その通りだ」
+<pause>
+<audio_11FC>ルーングロム
+「詳しい話は<color_0002>魔術研究室<color_0000>の者達に
+　聞いて欲しい」
+<pause>
+<audio_11FD>国王
+「しかし、このような若い者達が
+　ダオスを倒すとは・・・」
+<pause>
+<audio_11FE>国王
+「おぬしらの話は伝説となって我
+　が王国に伝えられているのだ」
+<pause>
+<audio_11FF>国王
+「今から１５０年前、世界の敵と
+　なっていたダオスを倒したと」
+<pause>
+<audio_1200>国王
+「万策尽きた我々にはもうおぬし
+　らしか頼るものがない」
+<pause>
+<audio_1201>国王
+「吉報を待っておりますぞ」{END}","<audio_11EB>King:<nl>
+ I believe you have already heard
+ this from Harrison, but Dhaos now
+ threatens the entire world.
+<pause>
+<audio_11EC>King:<nl>
+ He also possesses the power to
+ travel further into the future at
+ will.
+<pause>
+<audio_11ED>King:<nl>
+ It is quite evident that he will use
+ it to go further in time whenever
+ threatened, to repeat his cycle of
+ terror forevermore.
+<pause>
+<audio_11EE>King:<nl>
+ Something must be done about it.
+ We cannot allow this fruitless
+ struggle to continue any longer.
+<pause>
+<audio_11EF><Klarth>:<nl>
+ Absolutely.
+ Do you have any ideas or leads?
+<pause>
+<audio_11F0>Lundgrom:<nl>
+ We've retrieved information from
+ an ancient relic discovered at Thor.
+ It might be the death knell
+ of this vicious cycle.
+<pause>
+<audio_11F1><Cless>:<nl>
+ What's it about?
+<pause>
+<audio_11F2>Lundgrom:<nl>
+ Millennia ago, during the so-called
+ Age of Antiquity, the three worldly
+ superpowers fought for authority
+ over the planet's mainland.
+<pause>
+<audio_11F3>Lundgrom:<nl>
+ I'm sure you've heard this much at
+ least, but those superpowers were
+ known as Odin, Fenrir, and Thor.
+<pause>
+<audio_11F4>Lundgrom:<nl>
+ One fateful day, an asteroid struck
+ Thor, plunging it into the depths of
+ the sea.
+<pause>
+<audio_11F5>Lundgrom:<nl>
+ Afterward, mysterious men arose
+ and put an end to the then
+ deadlocked war by destroying the
+ two remaining nations.
+<pause>
+<audio_11F6>Lundgrom:<nl>
+ The men employed a triad of
+ armaments, collectively known as
+ the Tria.
+<pause>
+<audio_11F7>Lundgrom:<nl>
+ Records about them were included
+ in the documents we uncovered.
+<pause>
+<audio_11F8><Klarth>:<nl>
+ Grab hold of these things,
+ and we give Dhaos a taste
+ of ancient destruction?
+ Hmhm... I like it.
+<pause>
+<audio_11F9>Lundgrom:<nl>
+ Our study of the records revealed
+ that the fusion of them would
+ result in a magic sword capable of
+ manipulating time.
+<pause>
+<audio_11FA><Klarth>:<nl>
+ Something like that should allow us
+ to shackle him to this time period.
+<pause>
+<audio_11FB>Lundgrom:<nl>
+ Helpful, isn't it?
+<pause>
+<audio_11FC>Lundgrom:<nl>
+ Anyway, the people in the <color_0002>Magic
+ Research Lab<color_0000> can tell you more.
+<pause>
+<audio_11FD>King:<nl>
+ To think young ones such as
+ yourselves were able to defeat
+ Dhaos...
+<pause>
+<audio_11FE>King:<nl>
+ Your story--the tale that you
+ defeated Dhaos, the sworn enemy
+ of the world a hundred fifty years
+ ago...
+<pause>
+<audio_11FF>King:<nl>
+ ...has become legend throughout my
+ kingdom.
+<pause>
+<audio_1200>King:<nl>
+ But once again, it seems all we
+ have left is to depend upon you.
+<pause>
+<audio_1201>King:<nl>
+ I shall await fortuitous news.{END}"
+"<audio_1202>ルーングロム
+「そうか、ついに見つかったんだ
+　な！！」
+<pause>
+<audio_1203><Klarth>
+「はい、それで肝心のダオスの居
+　場所を知っておきたいのです」
+<pause>
+<audio_1204>ルーングロム
+「うむ、実は明確なことはわから
+　ないんだ」
+<pause>
+<audio_1205><Cless>
+「えぇ？」
+<pause>
+<audio_1206>ルーングロム
+「だが、手掛かりはある」
+<pause>
+<audio_1207>ルーングロム
+「この世界にいつからか、常に闇
+　に閉ざされた空間ができていた
+　んだが、知っているか？」{END}","<audio_1202>Lundgrom:<nl>
+ I see, you've finally acquired it!
+<pause>
+<audio_1203><Klarth>:<nl>
+ Yeah, that's one major thing down.
+ However, we've yet to find Dhaos.
+<pause>
+<audio_1204>Lundgrom:<nl>
+ A problem indeed.
+ Unfortunately, I have scarcely little
+ verified information on that.
+<pause>
+<audio_1205><Cless>:<nl>
+ Oh?
+<pause>
+<audio_1206>Lundgrom:<nl>
+ I've simply learned of something
+ highly unusual, but nothing more.
+<pause>
+<audio_1207>Lundgrom:<nl>
+ Have you heard of a region that,
+ for some time, has been enveloped
+ by a constant darkness?{END}"
+"<audio_1208>ルーングロム
+「そういう場所があるんだ」
+<pause>
+<audio_1209>ルーングロム
+「私も詳しくは言えないんだが、
+　そこに<color_0002>アーリィ<color_0000>という町がある」
+<pause>
+<audio_120A>ルーングロム
+「ダオスは時間を操る力があるん
+　だろう」
+<pause>
+<audio_120B>ルーングロム
+「行ってみれば何か手がかりがつ
+　かめるかもしれないな」
+<pause>
+<audio_120C><Klarth>
+「常闇の空間もダオスの仕業と考
+　えるのが自然というわけか」
+<pause>
+<audio_120D>ルーングロム
+「うむ、それに普通では見えない
+　ような空間に拠点を隠している
+　ということも考えられる」{END}","<audio_1208>Lundgrom:<nl>
+ It is not a rumor--there is such a
+ place.
+<pause>
+<audio_1209>Lundgrom:<nl>
+ I know little about the area, but a
+ town called <color_0002>Early<color_0000> stands there.
+<pause>
+<audio_120A>Lundgrom:<nl>
+ Considering that Dhaos has the
+ power to control time...
+<pause>
+<audio_120B>Lundgrom:<nl>
+ I would not be surprised if he has
+ a hand in the situation there.
+<pause>
+<audio_120C><Klarth>:<nl>
+ Definitely suspicious. I can't tell if
+ that guy's going easy on us or
+ what. The darkness thing sounds
+ like a dead giveaway, honestly.
+<pause>
+<audio_120D>Lundgrom:<nl>
+ Agreed. Perhaps he positioned his
+ fortress in such a remote region in
+ an attempt to avoid arousing
+ suspicion or to buy time.{END}"
+"<audio_120E>ルーングロム
+「いずれにしても、推測の域をで
+　ないんだがね」<wait>{END}","<audio_120E>Lundgrom:<nl>
+ Well, it's all just speculation.<wait>{END}"
+"<audio_120F><Klarth>
+「それでは、その常闇の国にある
+　<color_0002>アーリィ<color_0000>という町に行ってみる
+　か」
+<pause>
+<audio_1210>ルーングロム
+「それでは、私はこれで」
+<pause>
+<audio_1211>ルーングロム
+「がんばってくれよ」{END}","<audio_120F><Klarth>:<nl>
+ It sounds more promising than
+ anything else I've heard all day.
+ We'll make this <color_0002>Early<color_0000> place our next
+ stop.
+<pause>
+<audio_1210>Lundgrom:<nl>
+ Very well.
+ I won't waste any more
+ of your time.
+<pause>
+<audio_1211>Lundgrom:<nl>
+ Best of luck to you.{END}"
+"<speed_0000><color_0002>残り<num5_C0005110>コです。
+いくつ取りますか？<color_0000><speed_FFFF>{END}","<speed_0000><color_0002>There are <num5_C0005110> rock(s)
+in the draw pile.
+How many will you take?<color_0000><speed_FFFF>{END}"
+"<speed_0000><color_0002>残り：<num5_C0005110>コ
+取る：<num5_C0005112>コ
+数が足りません<color_0000><speed_FFFF>{END}","<speed_0000><color_0002>There aren't that many left.
+Remainder: <num5_C0005110> rock(s)<color_0000><speed_FFFF>{END}"
+"石取り名人
+「<num5_C0005112>コ取るよ」{END}","Subtraction Guru:<nl>
+ I'm taking <num5_C0005112>.{END}"

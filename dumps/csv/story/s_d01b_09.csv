@@ -1,0 +1,2088 @@
+精霊の森{END},Forest of Spirits{END}
+"<audio_1A74><Arche>
+「ねぇねぇ、ここ、なんか書いて
+　あるよ？」
+<pause>
+<audio_1A75><Chester>
+「ん？なんだ・・・？
+　んー・・・何だ、これ？」{END}","<audio_1A74><Arche>:<nl>
+Hey, is there something written here?
+<pause>
+<audio_1A75><Chester>:<nl>
+Huh? What is this?
+Hmm... What the heck...?{END}"
+"<audio_1A76>ロンドリーネ
+「これ・・・父さんの書いた字・
+　・・？」
+<pause>
+<audio_1A77><Cless>
+「字って・・・
+　これは字なのか？」
+<pause>
+<audio_1A78>ロンドリーネ
+「そう。私と父さんだけにしか
+　わからない暗号の文字」
+<pause>
+<audio_1A79><Chester>
+「どうして、こんなとこにある
+　んだ？」
+<pause>
+<audio_1A7A>ロンドリーネ
+「この近くで暮らしてたからか
+　な」
+<pause>
+<audio_1A7B><Arche>
+「なんて書いてあんの？」
+<pause>
+<audio_1A7C>ロンドリーネ
+「え？えぇっと・・・」
+<pause>
+<audio_1A7D>ロンドリーネ
+「いつか、これを読むであろうロ
+　ディへ。これを見つける頃、私
+　はもう死んでいることだろう」
+<pause>
+<audio_1A7E>ロンドリーネ
+「たくさんのことをおまえに隠し
+　て逝ってしまう。それを許して
+　ほしい」
+<pause>
+<audio_1A7F>ロンドリーネ
+「・・・・・・・・・・
+　・・・・・・・・・・」{END}","<audio_1A76>Rondoline:<nl>
+This is... Father's writing...?
+<pause>
+<audio_1A77><Cless>:<nl>
+“Writing...?” These are letters?
+<pause>
+<audio_1A78>Rondoline:<nl>
+Yes. These are ciphers that only
+Father and I can read.
+<pause>
+<audio_1A79><Chester>:<nl>
+Why would they be in a place like this?
+<pause>
+<audio_1A7A>Rondoline:<nl>
+We used to live nearby. Maybe that's why.
+<pause>
+<audio_1A7B><Arche>:<nl>
+Well? What does it say?
+<pause>
+<audio_1A7C>Rondoline:<nl>
+Huh? Well...
+<pause>
+<audio_1A7D>Rondoline:<nl>
+Rody, I know that one day you will find this message. By then, I will most certainly have passed on.
+<pause>
+<audio_1A7E>Rondoline:<nl>
+I have kept much from you, and I can only hope that you'll forgive me.
+<pause>
+<audio_1A7F>Rondoline:<nl>
+......{END}"
+"<audio_1A80><Arche>
+「ほら、あっち行こ」{END}","<audio_1A80><Arche>:<nl>
+Hey, let's give her some space...{END}"
+"<audio_1A81><Cless>
+「え？」{END}","<audio_1A81><Cless>:<nl>
+Huh?{END}"
+"<audio_1A82><Chester>
+「バカ、察しろよ・・・！」{END}","<audio_1A82><Chester>:<nl>
+Read the room, idiot!{END}"
+"<audio_1A84>ロンドリーネ
+（私がおまえに教えた剣術は
+　エクリプスの技、暗殺の技だ）{END}","<audio_1A84>Rondoline:<nl>
+(The sword skills I taught you were that of the Eclipse, Assassination Artes.){END}"
+"<audio_1A85>（もし、刺客の手で、私が死し
+　て、その時、おまえが自らを
+　守れなければ、命を落とす）
+<pause>
+<audio_1A87>（そう思い、おまえをきたえた
+　私が教えることができたのは、
+　暗殺者の技だけだ）
+<pause>
+<audio_1A89>（どこかで自分の剣術が人殺し
+　のものだと知って、おまえは
+　悩むかもしれない）
+<pause>
+<audio_1A8A>（エクリプスを意味するＥの名
+　前もまたおまえを苦しめるだ
+　ろう）
+<pause>
+<audio_1A8B>（真実を話すことで、おまえが
+　私を怖がったり嫌いになった
+　りしてほしくなかった）
+<pause>
+<audio_1A8C>（おまえが無邪気に私に話しか
+　けるたびに、少しずつ成長し
+　ていくたびに）
+<pause>
+<audio_1A8D>（おまえが私から離れるのでは
+　ないかと不安になった）
+<pause>
+<audio_1A8E>（例え真実を話したとしても、
+　おまえなら今まで通りに接し
+　てくれるだろう）
+<pause>
+<audio_1A8F>（そう思っているのに、どうし
+　ても話すことができなかった）
+<pause>
+<audio_1A90>（私は本当のことを伝える勇気
+　もなかった弱い人間なのだ
+　すまない）
+<pause>
+<audio_1A91>（ロディよ、森の外へ出ろ
+　そして新しいことを学べ）
+<pause>
+<audio_1A92>（強くて新しい自分になったら、
+　この森で暮らした思い出も、私
+　の教えたこともすべて捨てろ）
+<pause>
+<audio_1A93>（情けない父のことも忘れろ
+　そう、Ｅの名前とともに）
+<pause>
+<audio_1A94>（すべて忘れて自分の生きる道
+　を探してくれ）
+<pause>
+<audio_1A95>（ロディ、どんな逆風が吹いて
+　も、強く生きろ。自分の足で
+　立って歩いていけ）{END}","<audio_1A85>(Were I myself to fall to the blade of an assassin, you would surely perish had you not the ability to defend yourself.)
+<pause>
+<audio_1A87>(With that in mind, I taught you the only thing I knew, these assassination artes.)
+<pause>
+<audio_1A89>(Someday, you may learn that your swordsmanship is meant for murder, and it may weigh heavily upon your heart.)
+<pause>
+<audio_1A8A>(I expect the name “E”, which means “Eclipse”, will bother you as well.)
+<pause>
+<audio_1A8B>(I did not wish for you to fear or hate me, should you learn the truth.)
+<pause>
+<audio_1A8C>(Every time you speak to me so innocently... Every time I notice you've grown just a little bit more...)
+<pause>
+<audio_1A8D>(...I feel myself grow anxious, that someday you may leave me.)
+<pause>
+<audio_1A8E>(I know that even if I told you the truth, it would not change how you thought of me...)
+<pause>
+<audio_1A8F>(Despite this, I simply could not bring myself to tell you.)
+<pause>
+<audio_1A90>(I am sorry. Sorry for being so weak, too weak to find the courage to do so...)
+<pause>
+<audio_1A91>(Rody... Leave the forest. Learn new things. New ideas.)
+<pause>
+<audio_1A92>(Become strong. Become a new person. Take everything I've taught you, all the memories of our life here, and throw it all away.)
+<pause>
+<audio_1A93>(Forget this poor excuse for a father. Forget the name “E”.)
+<pause>
+<audio_1A94>(Forget everything, and find your own way of life.)
+<pause>
+<audio_1A95>(Rody... No matter how harsh the winds may blow against you, live on. Stand with pride, on your own two feet, and walk ever onward.){END}"
+"<audio_1A96>ロンドリーネ
+「ひどい父さん・・・
+　・・・ちゃんとその気持ち話し
+　ていかないなんて」
+<pause>
+<audio_1A97>ロンドリーネ
+「ちゃんと真実を話してくれて
+　たら、今頃、こんな寂しい想
+　いはしなかったのに」
+<pause>
+<audio_1A98>ロンドリーネ
+「・・・不安に思うことなんて
+　なかったのに」{END}","<audio_1A96>Rondoline:<nl>
+How could you, Father...?
+Why couldn't you just tell me how you felt...?
+<pause>
+<audio_1A97>Rondoline:<nl>
+If you had just told me the truth, you wouldn't
+have been so lonely...
+<pause>
+<audio_1A98>Rondoline:<nl>
+You never had any reason to worry...{END}"
+"<audio_1A99>ロンドリーネ
+「忘れろとかさ・・・
+　そんなことできるわけないよ」
+<pause>
+<audio_1A9A>ロンドリーネ
+「父さんの口から暗殺って聞いて
+　も、一緒に過ごしたあの時間は
+　何も変わらないんだよ」
+<pause>
+<audio_1A9B>ロンドリーネ
+「忘れないよ、全部。大切に持っ
+　て生きていくから」{END}","<audio_1A99>Rondoline:<nl>
+“Forget everything,” huh?
+You know I could never do that...
+<pause>
+<audio_1A9A>Rondoline:<nl>
+Even if you called yourself an assassin,
+that doesn't change the time we spent
+together...
+<pause>
+<audio_1A9B>Rondoline:<nl>
+I won't forget a thing. I will treasure these memories for as long as I live.{END}"
+"<audio_1A9C>ロンドリーネ
+「・・・見守ってて、父さん」{END}","<audio_1A9C>Rondoline:<nl>
+...Watch over me, Father...{END}"
+"<audio_1A9D>ロンドリーネ
+「みんな？」{END}","<audio_1A9D>Rondoline:<nl>
+...Guys?{END}"
+"<audio_1A9E><Arche>
+「あ〜こっちこっち」{END}","<audio_1A9E><Arche>:<nl>
+Ah! Here, over here!{END}"
+"<audio_1A9F><Arche>
+「なんて書いてあったの？」
+<pause>
+<audio_1AA0>ロンドリーネ
+「ん？秘密。乙女のヒミツ」
+<pause>
+<audio_1AA1><Arche>
+「ひみつ、かー・・・そっかー」
+<pause>
+<audio_1AA2><Mint>
+「嬉しい秘密だったんですか」
+<pause>
+<audio_1AA3>ロンドリーネ
+「うん、とっても」{END}","<audio_1A9F><Arche>:<nl>
+Well? What did it say?
+<pause>
+<audio_1AA0>Rondoline:<nl>
+Hm? It's a secret. A maiden's secret, in fact~!
+<pause>
+<audio_1AA1><Arche>:<nl>
+A secret, ehh? I see~!
+<pause>
+<audio_1AA2><Mint>:<nl>
+Was it a happy secret?
+<pause>
+<audio_1AA3>Rondoline:<nl>
+Mhm! It sure was!{END}"
+"<audio_1AA4><Arche>
+「よかったじゃん！よしっ！
+　行こっ！」{END}","<audio_1AA4><Arche>:<nl>
+That's great! Okay! Let's get going!{END}"
+"（いつか、これを読むであろうロ
+　ディへ。これを見つける頃、私
+　はもう死んでいることだろう）
+<pause>
+（たくさんのことをおまえに隠し
+　て逝ってしまう。それを許して
+　ほしい）
+<pause>
+（私がおまえに教えた剣術は
+　エクリプスの技、暗殺の技だ）
+<pause>
+（もし、刺客の手で、私が死し
+　て、その時、おまえが自らを
+　守れなければ、命を落とす）
+<pause>
+（そう思い、おまえをきたえた
+　私が教えることができたのは、
+　暗殺者の技だけだ）
+<pause>
+（どこかで自分の剣術が人殺し
+　のものだと知って、おまえは
+　悩むかもしれない）
+<pause>
+（エクリプスを意味するＥの名
+　前もまたおまえを苦しめるだ
+　ろう）
+<pause>
+（真実を話すことで、おまえが
+　私を怖がったり嫌いになった
+　りしてほしくなかった）
+<pause>
+（おまえが無邪気に私に話しか
+　けるたびに、少しずつ成長し
+　ていくたびに）
+<pause>
+（おまえが私から離れるのでは
+　ないかと不安になった）
+<pause>
+（例え真実を話したとしても、
+　おまえなら今まで通りに接し
+　てくれるだろう）
+<pause>
+（そう思っているのに、どうし
+　ても話すことができなかった）
+<pause>
+（私は本当のことを伝える勇気
+　もなかった弱い人間なのだ
+　すまない）
+<pause>
+（ロディよ、森の外へ出ろ
+　そして新しいことを学べ）
+<pause>
+（強くて新しい自分になったら、
+　この森で暮らした思い出も、私
+　の教えたこともすべて捨てろ）
+<pause>
+（情けない父のことも忘れろ
+　そう、Ｅの名前とともに）
+<pause>
+（すべて忘れて自分の生きる道
+　を探してくれ）
+<pause>
+（ロディ、どんな逆風が吹いて
+　も、強く生きろ。自分の足で
+　立って歩いていけ）{END}","(Rody, I know that one day you will find this message. By then, I will most certainly have passed on.)
+<pause>
+(I have kept much from you, and I can only hope that you'll forgive me.)
+<pause>
+(The sword skills I taught you were that of the Eclipse, Assassination Artes.)
+<pause>
+(Were I myself to fall to the blade of an assassin, you would surely perish had you not the ability to defend yourself.)
+<pause>
+(With that in mind, I taught you the only thing I knew, these assassination artes.)
+<pause>
+(Someday, you may learn that your swordsmanship is meant for murder, and it may weigh heavily upon your heart.)
+<pause>
+(I expect the name “E”, which means “Eclipse”, will bother you as well.)
+<pause>
+(I did not wish for you to fear or hate me, should you learn the truth.)
+<pause>
+(Every time you speak to me so innocently... Every time I notice you've grown just a little bit more...)
+<pause>
+(...I feel myself grow anxious, that someday you may leave me.)
+<pause>
+(I know that even if I told you the truth, it would not change how you thought of me...)
+<pause>
+(Despite this, I simply could not bring myself to tell you.)
+<pause>
+(I am sorry. Sorry for being so weak, too weak to find the courage to do so...)
+<pause>
+(Rody... Leave the forest. Learn new things. New ideas.)
+<pause>
+(Become strong. Become a new person. Take everything I've taught you, all the memories of our life here, and throw it all away.)
+<pause>
+(Forget this poor excuse for a father. Forget the name “E”.)
+<pause>
+(Forget everything, and find your own way of life.)
+<pause>
+(Rody... No matter how harsh the winds may blow against you, live on. Stand with pride, on your own two feet, and walk ever onward.){END}"
+"ロンドリーネ
+「ダオス　ニ　アイタクナイヨ、
+　バイバイスルネ、オマエラ
+　ハヤクモドレヨ」{END}","Rondoline:<nl>
+I DON'T WANT TO MEET WITH DHAOS. BYE-BYE, GUYS, GET BACK SOON.{END}"
+"ロンドリーネ
+「マチクタビレタヨ
+　ハヤク　ダオスヲタオシニ
+　イクゾ　サッサトジュンビヲ」{END}","Rondoline:<nl>
+I'M TIRED OF WAITING. LET'S GO DEFEAT DHAOS. HURRY UP AND GET READY.{END}"
+"<audio_09CF><Klarth>
+「これが<var_CF00>の言っていた世界
+　樹ユグドラシルなのか？」
+<pause>
+<audio_09D0><Klarth>
+「・・・・・・」
+<pause>
+<audio_09D1><Klarth>
+「ん、な、何だ！？」{END}","<audio_09CF><Klarth>:<nl>
+ Might this magnificent sight be
+ Yggdrasill, the World Tree <var_CF00>
+ spoke of?
+<pause>
+<audio_09D0><Klarth>:<nl>
+ ......
+<pause>
+<audio_09D1><Klarth>:<nl>
+ S-S-Something's happening!{END}"
+"<audio_09D2><Cless>
+「この光景は・・・」
+<pause>
+<audio_09D3>樹の精霊
+「私が、見えるのですか？」
+<pause>
+<audio_09D4>樹の精霊
+「声が、聞こえるのですね？」
+<pause>
+<audio_09D5>樹の精霊
+「ならば、聞いて下さい」
+<pause>
+<audio_09D6>樹の精霊
+「滅びの時が、近いことを・・・」
+<pause>
+<audio_09D7>樹の精霊
+「あなた方だけにでも、知っても
+　らいたいのです」{END}","<audio_09D2><Cless>:<nl>
+ (Is she...?)
+<pause>
+<audio_09D3>Tree Spirit:<nl>
+ Can you not see me?
+<pause>
+<audio_09D4>Tree Spirit:<nl>
+ Can you not hear me?
+<pause>
+<audio_09D5>Tree Spirit:<nl>
+ I beg that you listen to my plea!
+<pause>
+<audio_09D6>Tree Spirit:<nl>
+ The time of destruction is at hand...
+<pause>
+<audio_09D7>Tree Spirit:<nl>
+ There is something I wish to be
+ known, even if only by you.{END}"
+"<audio_09D8>樹の精霊
+「私は、世界樹『ユグドラシル』
+　に宿る精霊『マーテル』」
+<pause>
+<audio_09D9>マーテル
+「今、世界樹ユグドラシルの死期
+　が近づいています」
+<pause>
+<audio_09DA><Klarth>
+「それは、寿命ということか？」
+<pause>
+<audio_09DB>マーテル
+「いいえ、創世の時代より大地に
+　根付く世界樹に、寿命はありま
+　せん」
+<pause>
+<audio_09DC>マーテル
+「マナが枯渇しようとしているの
+　です・・・」
+<pause>
+<audio_09DD>マーテル
+「精霊達と魔力の源であるマナは
+　この世界樹から生まれているの
+　です」
+<pause>
+<audio_09DE><Klarth>
+「・・・・・・」
+<pause>
+<audio_09DF>マーテル
+「御存じではありませんか？」<wait>{END}","<audio_09D8>Tree Spirit:<nl>
+ I am Martel, the guardian spirit of
+ this World Tree, Yggdrasill.
+<pause>
+<audio_09D9>Martel:<nl>
+ As matters stand, the time of
+ Yggdrasill's death draws near...
+<pause>
+<audio_09DA><Klarth>:<nl>
+ With all due respect, surely all
+ living things must die sometime?
+<pause>
+<audio_09DB>Martel:<nl>
+ No. World Trees set down their
+ roots at the dawn of a world's
+ creation, and are not bound by
+ ordinary mortality.
+<pause>
+<audio_09DC>Martel:<nl>
+ Yggdrasill's life source, mana, is
+ being consumed far faster than it
+ can be replenished, and soon shall
+ be completely exhausted.
+<pause>
+<audio_09DD>Martel:<nl>
+ Mana is born from the tree itself.
+ It is also the life source of spirits,
+ and the source of magical power.
+<pause>
+<audio_09DE><Klarth>:<nl>
+ ......
+<pause>
+<audio_09DF>Martel:<nl>
+ Was this unknown to you?<wait>{END}"
+"<audio_09E0><Klarth>
+「何だって！？」
+<pause>
+<audio_09E1><Klarth>
+「本当なのか？」
+<pause>
+<audio_09E2><Klarth>
+「この樹一本で、世界中に満ち足
+　りるだけのマナが？」
+<pause>
+<audio_09E3>マーテル
+「そうです」
+<pause>
+<audio_09E4><Klarth>
+「にわかには信じがたいな」
+<pause>
+<audio_09E5>マーテル
+「嘘は、申しません」
+<pause>
+<audio_09E6>マーテル
+「世界樹が、枯れた後でなければ
+　信じてはもらえませんか？」
+<pause>
+<audio_09E7>マーテル
+「精霊も魔術も、全てが失われて
+　からでなければ・・・」
+<pause>
+<audio_09E8><Klarth>
+「・・・・・・」<wait>{END}","<audio_09E0><Klarth>:<nl>
+ What!?
+<pause>
+<audio_09E1><Klarth>:<nl>
+ You can't be serious!
+<pause>
+<audio_09E2><Klarth>:<nl>
+ You really want me to believe that
+ this tree, by itself, supplies enough
+ mana for ALL the world's spirits
+ and magic usage?
+<pause>
+<audio_09E3>Martel:<nl>
+ That is correct.
+<pause>
+<audio_09E4><Klarth>:<nl>
+ Absolutely ludicrous...
+<pause>
+<audio_09E5>Martel:<nl>
+ I speak no lies.
+<pause>
+<audio_09E6>Martel:<nl>
+ When my tree has withered away,
+ and all the spirits and magic are
+ truly lost...
+<pause>
+<audio_09E7>Martel:<nl>
+ Then will you believe?
+<pause>
+<audio_09E8><Klarth>:<nl>
+ ......<wait>{END}"
+"<unk1><audio_09E9><Cless>
+この精霊が言ってることは、本当だと思いますよ」
+<pause>
+<audio_09EA><Cless>
+僕と<Mint>が住んでいた１００年後の世界には、魔術は存在しませんでしたから」
+<pause>
+<audio_09EB><Cless>
+それに、僕は見たんです」<wait>{END}","<unk1><audio_09E9><Cless>:<nl>
+ I believe she's telling us the truth.
+<pause>
+<audio_09EA><Cless>:<nl>
+ In our world, a century from now,
+ magic only exists in stories about
+ the past. Nobody can use it there.
+<pause>
+<audio_09EB><Cless>:<nl>
+ This tree--I saw it with my own
+ eyes shortly before arriving in this
+ period...<wait>{END}"
+"<audio_09EC><Cless>
+「この樹の、枯れ果ててしまって
+　いる姿を・・・」
+<pause>
+<audio_09ED><Klarth>
+「本当なのか？」
+<pause>
+<audio_09EE><Klarth>
+「だとしたら・・・」<wait>{END}","<audio_09EC><Cless>:<nl>
+ It was completely withered,
+ showing no sign of life...
+<pause>
+<audio_09ED><Klarth>:<nl>
+ Are you serious?
+<pause>
+<audio_09EE><Klarth>:<nl>
+ If that's the case...<wait>{END}"
+"<audio_09EF>マーテル
+「マナは、世界樹ユグドラシルが
+　生き続けるために必要です」
+<pause>
+<audio_09F0>マーテル
+「しかし、魔術で消費されたくら
+　いで枯渇することはないのです」
+<pause>
+<audio_09F1><Klarth>
+「では、なぜ？」
+<pause>
+<audio_09F2>マーテル
+「わかりません・・・」
+<pause>
+<audio_09F3>マーテル
+「何らかの強い力がマナを大量に
+　消費しているとしか・・・」
+<pause>
+<audio_09F4><Cless>
+「何とか樹を助ける方法はないん
+　だろうか？」
+<pause>
+<audio_09F5><Cless>
+「魔術がなければ、ダオスを倒す
+　こともできなくなってしまう」
+<pause>
+<audio_09F6><Klarth>
+「私の研究も無駄になってしまう
+　な・・・」{END}","<audio_09EF>Martel:<nl>
+ Yggdrasill too, relies on mana.
+ If its supply of mana fades to
+ exhaustion, it will surely die.
+<pause>
+<audio_09F0>Martel:<nl>
+ However, the usage of magic alone
+ does not consume enough to
+ threaten the balance.
+<pause>
+<audio_09F1><Klarth>:<nl>
+ So, it must be something else.
+ But what could that be?
+<pause>
+<audio_09F2>Martel:<nl>
+ That, I do not know.
+<pause>
+<audio_09F3>Martel:<nl>
+ Only something of tremendous
+ power is capable of drawing such
+ vast quantities of mana...
+<pause>
+<audio_09F4><Cless>:<nl>
+ Is there nothing we can do to save
+ the tree?
+<pause>
+<audio_09F5><Cless>:<nl>
+ We won't stand a chance against
+ Dhaos without magic!
+<pause>
+<audio_09F6><Klarth>:<nl>
+ And all the time I've spent
+ researching summoning artes will
+ have been for nothing...{END}"
+"<audio_09F7><Klarth>
+「待ってくれ！！」
+<pause>
+<audio_09F8><Klarth>
+「まだ、聞きたいことが・・・！」{END}","<audio_09F7><Klarth>:<nl>
+ Wait! Please wait!
+<pause>
+<audio_09F8><Klarth>:<nl>
+ I still have so many more
+ questions...!{END}"
+"<audio_09F9><Mint>
+「私が、やってみます」<wait>{END}","<audio_09F9><Mint>:<nl>
+ Maybe...maybe I can help.<wait>{END}"
+"<audio_09FA><Klarth>
+「え？」{END}","<audio_09FA><Klarth>:<nl>
+ Huh?{END}"
+"<audio_09FB><Mint>
+「私の力が、足りないようです」<wait>{END}","<audio_09FB><Mint>:<nl>
+ My clerical artes aren't strong
+ enough.<wait>{END}"
+"<audio_09FC><Mint>
+「私に、母のような強い法術の力
+　があれば・・・」
+<pause>
+<audio_09FD><Klarth>
+「そんなに、都合良くはいかない
+　か・・・」
+<pause>
+<audio_09FE><Klarth>
+「マナが消えたら、魔術は失われ
+　てしまう・・・」
+<pause>
+<audio_09FF><Mint>
+「ダオスが、未来に時間転移して
+　しまう前に倒すことはできない
+　のでしょうか？」
+<pause>
+<audio_0A00><Klarth>
+「とにかく、マナを大量に消費す
+　る原因を取り除かなければなる
+　まい」
+<pause>
+<audio_0A01><Klarth>
+「このままでは、歴史は繰り返す
+　ばかりだ」
+<pause>
+<audio_0A02><Cless>
+「取り除くって言っても・・・」<wait>{END}","<audio_09FC><Mint>:<nl>
+ If only they were as powerful as
+ my mother's...
+<pause>
+<audio_09FD><Klarth>:<nl>
+ I don't know if even those would
+ have been enough for something
+ like this.
+<pause>
+<audio_09FE><Klarth>:<nl>
+ ...Dammit! This is bad!
+ If mana disappears, magic will be
+ out of everybody's reach...
+<pause>
+<audio_09FF><Mint>:<nl>
+ Perhaps we could defeat Dhaos
+ before he travels into the future?
+<pause>
+<audio_0A00><Klarth>:<nl>
+ Well, one thing's for certain: we
+ have to eliminate whatever's
+ sucking up all of the world's mana.
+<pause>
+<audio_0A01><Klarth>:<nl>
+ The way things are going, history is
+ bound to repeat itself. Literally.
+<pause>
+<audio_0A02><Cless>:<nl>
+ You're right, but we don't have a
+ single lead.<wait>{END}"
+"<audio_0A03><Cless>
+「これから、僕達は何をしたらい
+　いんでしょう？」
+<pause>
+<audio_0A04><Klarth>
+「マナが魔術に関係があるとすれ
+　ば原因はやはりダオスかもしれ
+　ない」
+<pause>
+<audio_0A05><Cless>
+「じゃあ、ダオスを倒せば・・・」
+<pause>
+<audio_0A06><Klarth>
+「可能性としては高いだろう」
+<pause>
+<audio_0A07><Klarth>
+「まあ、それも簡単にはいかない
+　だろうがな・・・」{END}","<audio_0A03><Cless>:<nl>
+ So where should we start?
+<pause>
+<audio_0A04><Klarth>:<nl>
+ If mana is indeed related to magic,
+ Dhaos might well be the one behind
+ this.
+<pause>
+<audio_0A05><Cless>:<nl>
+ So if we take him out...
+<pause>
+<audio_0A06><Klarth>:<nl>
+ There's a good chance that'll take
+ care of things, yeah.
+<pause>
+<audio_0A07><Klarth>:<nl>
+ But no doubt that's easier said than
+ done.{END}"
+"<audio_0A08><Klarth>
+「現在、存在を知られている精霊
+　の中で・・・」
+<pause>
+<audio_0A09><Klarth>
+「最も強い力を持っていると言わ
+　れているのが『<var_D400>』という月
+　の精霊だ」
+<pause>
+<audio_0A0A><Klarth>
+「そして、その<var_D400>と契約するた
+　めに必要な指輪がモーリア坑道
+　にあると言われている」
+<pause>
+<audio_0A0B><Cless>
+「モーリア坑道？」
+<pause>
+<audio_0A0C><Klarth>
+「アルヴァニスタにあるドワーフ
+　族の鉱山跡だが、詳しいことは
+　わかっていない」
+<pause>
+<audio_0A0D><Klarth>
+「アルヴァニスタ王国は世界で最
+　も魔術文化が発達した国でね」
+<pause>
+<audio_0A0E><Klarth>
+「そこに行けば必ず重要な情報が
+　得られるはずだ」
+<pause>
+<audio_0A0F><Klarth>
+「ルートは、北にベネツィアとい
+　う港町がある」
+<pause>
+<audio_0A10><Klarth>
+「そこから、定期船が出ている」
+<pause>
+<audio_0A11><Cless>
+「では、<color_0002>ベネツィア<color_0000>の町に行って
+　みましょう」{END}","<audio_0A08><Klarth>:<nl>
+ Hmm. Of the spirits whose
+ existence have been confirmed...
+<pause>
+<audio_0A09><Klarth>:<nl>
+ ...the most powerful is thought to
+ be “Luna,” the Spirit of the Moon.
+<pause>
+<audio_0A0A><Klarth>:<nl>
+ My research indicates that the ring
+ necessary for Luna's pact can be
+ found in the Moria Mine.
+<pause>
+<audio_0A0B><Cless>:<nl>
+ I've never heard of that place.
+<pause>
+<audio_0A0C><Klarth>:<nl>
+ It's an old dwarven mine
+ controlled by Alvanista.
+ That's about all I know.
+<pause>
+<audio_0A0D><Klarth>:<nl>
+ Speaking of Alvanista, that country
+ is second to none in the world
+ when it comes to magic research.
+<pause>
+<audio_0A0E><Klarth>:<nl>
+ I think going there for information
+ would be in our best interest for
+ now.
+<pause>
+<audio_0A0F><Klarth>:<nl>
+ So why don't we head for Venezia,
+ the port town in the far north?
+<pause>
+<audio_0A10><Klarth>:<nl>
+ We can catch a ship there.
+<pause>
+<audio_0A11><Cless>:<nl>
+ Then it's decided!
+ Next stop, <color_0002>Venezia<color_0000>!{END}"
+"<Cless>
+<audio_1721>「いったいどうしたら、ユグドラ
+　シルを復活させることができる
+　んだろう？」{END}","<Cless>:<nl>
+ <audio_1721>What in the world must we do to
+ restore Yggdrasill?{END}"
+"<Cless>
+<audio_1722>「樹が、枯れかけてる・・・」<wait>{END}","<Cless>:<nl>
+ <audio_1722>The tree is still withering...<wait>{END}"
+"<audio_0F8D><Mint>
+「みなさん、さがって下さい」
+<pause>
+<audio_0F8E><Mint>
+「私が、今使える、最高の法術を
+　かけてみます」{END}","<audio_0F8D><Mint>:<nl>
+ Please stand back, everyone!
+<pause>
+<audio_0F8E><Mint>:<nl>
+ I wish to try my most powerful
+ clerical arte!{END}"
+"<Mint>
+<audio_1723>「・・・・・・」
+<pause>
+<Mint>
+<audio_1724>「私では無理なのかしら・・・」<wait>{END}","<Mint>:<nl>
+ <audio_1723>......
+<pause>
+<Mint>:<nl>
+ <audio_1724>Maybe I just can't do this...<wait>{END}"
+"<Arche>
+<audio_1725>「あきらめちゃだめだよ」
+<pause>
+<Mint>
+<audio_1726>「ええ・・・」
+<pause>
+<Arche>
+<audio_1727>「今、少しだけ樹が元気になった
+　よ」
+<pause>
+<Arche>
+<audio_1728>「がんばればきっと・・・ね<heart>」
+<pause>
+<Mint>
+<audio_1729>「でも、このままでは・・・」{END}","<Arche>:<nl>
+ <audio_1725>Don't give up!
+<pause>
+<Mint>:<nl>
+ <audio_1726>Okay...
+<pause>
+<Arche>:<nl>
+ <audio_1727>You're doing fine!
+ I think the tree actually looks a
+ little better now.
+<pause>
+<Arche>:<nl>
+ <audio_1728>Just gotta do your best and keep
+ on trying until you succeed, right? <heart>
+<pause>
+<Mint>:<nl>
+ <audio_1729>But if this continues...{END}"
+"<Cless>
+<audio_172A>「この森、いつも狩りをしていた
+　あの森だったんだな」{END}","<Cless>:<nl>
+ <audio_172A>This is the forest we always go
+ hunting in...{END}"
+"<Cless>
+<audio_172B>「何かこの森、どこかで見たよう
+　な・・・」{END}","<Cless>:<nl>
+ <audio_172B>This forest looks very familiar...{END}"
+"<audio_0F8D><Mint>
+「みなさん、さがって下さい」
+<pause>
+<audio_0F8E><Mint>
+「私が、今使える、最高の法術を
+　かけてみます」{END}","<audio_0F8D><Mint>:<nl>
+ Everyone, please stand back!
+<pause>
+<audio_0F8E><Mint>:<nl>
+ With the Unicorn Horn, I will try my
+ most powerful clerical arte once
+ more!{END}"
+"<audio_143A><Klarth>
+「どうやら未来でもユグドラシル
+　は枯れていないようだな」
+<pause>
+<audio_143B><Mint>
+「よかった・・・」{END}","<audio_143A><Klarth>:<nl>
+ Another fifty years in, and
+ Yggdrasill still seems to be hanging
+ in there.
+<pause>
+<audio_143B><Mint>:<nl>
+ I'm so glad...{END}"
+"<audio_143C><Cless>
+「でも、またいつ枯れて魔術が使
+　えなくなってしまうかわからな
+　いんだ」
+<pause>
+<audio_143D><Cless>
+「一刻も早く、ダオスを倒しに行
+　こう！」{END}","<audio_143C><Cless>:<nl>
+ With Dhaos still around, it could
+ start withering and endanger magic
+ again.
+<pause>
+<audio_143D><Cless>:<nl>
+ We have to get rid of him as soon
+ as possible!{END}"
+"<audio_143E><Arche>
+「あっ、樹のおねーちゃんが出て
+　くるよ」{END}","<audio_143E><Arche>:<nl>
+ Hey!
+ Here comes the nice Tree Lady!{END}"
+"<audio_143F>マーテル
+「長い時を越えて、再びあなた達
+　と会うことになるとは、思って
+　もいませんでした」
+<pause>
+<audio_1440><Klarth>
+「マナは大丈夫なのか？」
+<pause>
+<audio_1441>マーテル
+「はい、もう精霊も魔術も失われ
+　ることはないでしょう」
+<pause>
+<audio_1442>マーテル
+「ある時を境に、マナの消費は正
+　常になりました・・・」
+<pause>
+<audio_1443><Cless>
+「そうか、それは良かった」
+<pause>
+<audio_1444>マーテル
+「ええ・・・」
+<pause>
+<audio_1445>マーテル
+「しかし、マナ枯渇の影響によっ
+　て、ユグドラシルはかなり衰弱
+　しています」
+<pause>
+<audio_1446><Klarth>
+「そうなのか・・・」
+<pause>
+<audio_1447>マーテル
+「その痛手を癒すため、私は眠り
+　につく時間が長くなりました」{END}","<audio_143F>Martel:<nl>
+ After such a long time, I had not
+ anticipated another meeting with
+ you.
+<pause>
+<audio_1440><Klarth>:<nl>
+ So, is mana still safe?
+<pause>
+<audio_1441>Martel:<nl>
+ Yes, there is no longer any danger
+ to the spirits or magic.
+<pause>
+<audio_1442>Martel:<nl>
+ At some point in time, mana
+ consumption returned to normal.
+<pause>
+<audio_1443><Cless>:<nl>
+ Whew, I'm glad to hear that.
+<pause>
+<audio_1444>Martel:<nl>
+ Yes...
+<pause>
+<audio_1445>Martel:<nl>
+ However, Yggdrasill hasn't yet fully
+ recovered from the effects of
+ mana exhaustion.
+<pause>
+<audio_1446><Klarth>:<nl>
+ I see...
+<pause>
+<audio_1447>Martel:<nl>
+ I must take a very long rest for
+ the remaining wounds to heal.{END}"
+"<audio_1448><Arche>
+「精霊も、眠るんだ？」
+<pause>
+<audio_1449>マーテル
+「もちろんです」<wait>{END}","<audio_1448><Arche>:<nl>
+ Wow, even spirits need to sleep?
+<pause>
+<audio_1449>Martel:<nl>
+ Of course we do.<wait>{END}"
+"<audio_144A>マーテル
+「マナが、世界に蓄えられていく
+　にしたがって、ユグドラシルも
+　生気を取り戻すことでしょう」
+<pause>
+<audio_144B><Mint>
+「はやく、元気になって下さいね」
+<pause>
+<audio_144C>マーテル
+「ありがとう、心優しい娘さん」
+<pause>
+<audio_144D>マーテル
+「今の私が、こうして生きていら
+　れるのも・・・」
+<pause>
+<audio_144E>マーテル
+「あなたの、優しさのおかげです」
+<pause>
+<audio_144F><Mint>
+「そんな、おおげさですよ」
+<pause>
+<audio_1450>マーテル
+「今、私の中で何かが生まれよう
+　としています」
+<pause>
+<audio_1451>マーテル
+「それは、私の分身・・・」
+<pause>
+<audio_1452>マーテル
+「私は、それをあなたのような方
+　に託したいと思っています」
+<pause>
+<audio_1453><Mint>
+「・・・・・・」<wait>{END}","<audio_144A>Martel:<nl>
+ As mana replenishes, Yggdrasill will
+ reclaim its lost vitality.
+<pause>
+<audio_144B><Mint>:<nl>
+ Please get well soon.
+<pause>
+<audio_144C>Martel:<nl>
+ Thank you, my kind-hearted
+ daughter.
+<pause>
+<audio_144D>Martel:<nl>
+ That I can still live on like this...
+<pause>
+<audio_144E>Martel:<nl>
+ ...is thanks to you.
+<pause>
+<audio_144F><Mint>:<nl>
+ Oh my, you exaggerate...
+<pause>
+<audio_1450>Martel:<nl>
+ Right now, something is growing
+ inside me.
+<pause>
+<audio_1451>Martel:<nl>
+ A branch of me, you could say...
+<pause>
+<audio_1452>Martel:<nl>
+ I hope to entrust it to someone like
+ you.
+<pause>
+<audio_1453><Mint>:<nl>
+ ......<wait>{END}"
+"<audio_1454>マーテル
+「時に、皆さん・・・」
+<pause>
+<audio_1455><Cless>
+「なんでしょう？」
+<pause>
+<audio_1456>マーテル
+「私が、眠っている間のことなの
+　ですが・・・」
+<pause>
+<audio_1457>マーテル
+「誰かが、ここに訪れていたよう
+　なのですが、ご存じではありま
+　せんか？」
+<pause>
+<audio_1458><Cless>
+「・・・・・・」
+<pause>
+<audio_1459><Arche>
+「どんな人だか言ってくれなきゃ
+　わかんないじゃん？」
+<pause>
+<audio_145A>マーテル
+「背が高く・・・長い金髪・・・
+　美しい顔だちでした」
+<pause>
+<audio_145B><Klarth>
+「誰なんだろう？・・・」
+<pause>
+<audio_145C>マーテル
+「いつも、慈しむような瞳で私を
+　見守り・・・」
+<pause>
+<audio_145D>マーテル
+「しばらくすると、名残惜しげな
+　表情を残して、去っていくので
+　す」{END}","<audio_1454>Martel:<nl>
+ By the way, all of you...
+<pause>
+<audio_1455><Cless>:<nl>
+ What is it?
+<pause>
+<audio_1456>Martel:<nl>
+ During my slumber, I believe I had
+ a frequent visitor.
+<pause>
+<audio_1457>Martel:<nl>
+ Do you know who it might be?
+<pause>
+<audio_1458><Cless>:<nl>
+ ......
+<pause>
+<audio_1459><Arche>:<nl>
+ It's kinda hard to guess without
+ knowing what they look like.
+<pause>
+<audio_145A>Martel:<nl>
+ He was tall...with long blonde
+ hair...and a beautiful face.
+<pause>
+<audio_145B><Klarth>:<nl>
+ Do we know anybody like that?
+<pause>
+<audio_145C>Martel:<nl>
+ His eyes were always replete with
+ affection as he watched over me...
+<pause>
+<audio_145D>Martel:<nl>
+ When it was time for him to part,
+ his expression would change to one
+ of profound regret.{END}"
+"<audio_145E><Chester>
+「どうしたんだ、話の途中で？」{END}","<audio_145E><Chester>:<nl>
+ Hey, what was that all about!?
+ We weren't done talking!{END}"
+"<audio_145F><Cless>
+「だ、誰だ！？」{END}","<audio_145F><Cless>:<nl>
+ Wh-Who's there!?{END}"
+"<audio_1460><Cless>
+「だっ、ダッ、ダオス！？」{END}","<audio_1460><Cless>:<nl>
+ Dha...DHA...DHAOS!?{END}"
+"<audio_1461>ダオス
+「見覚えがあると思えば・・・」
+<pause>
+<audio_1462>ダオス
+「この未来まで私を追いかけてき
+　たのか」
+<pause>
+<audio_1463>ダオス
+「どこまでも忌々しい奴らよ」
+<pause>
+<audio_1464>ダオス
+「お前達も、ミッドガルズと同じ
+　運命をたどるがいい！！」{END}","<audio_1461>Dhaos:<nl>
+ I thought your faces looked
+ familiar...
+<pause>
+<audio_1462>Dhaos:<nl>
+ You came to this era to hunt me
+ down, did you not?
+<pause>
+<audio_1463>Dhaos:<nl>
+ Bunch of pests...
+<pause>
+<audio_1464>Dhaos:<nl>
+ You shall meet the same end as
+ Midgard!!{END}"
+"<audio_1465><Klarth>
+「まずい！」{END}","<audio_1465><Klarth>:<nl>
+ This is bad!{END}"
+"<audio_1466>ダオス
+「ここで戦えば大樹カーラーンに
+　被害が及ぶか・・・」
+<pause>
+<audio_1467>ダオス
+「ふっ・・・」
+<pause>
+<audio_1468>ダオス
+「貴様らの命は預けておくぞ」{END}","<audio_1466>Dhaos:<nl>
+ To fight here would risk damage to
+ the Giant Kharlan Tree...
+<pause>
+<audio_1467>Dhaos:<nl>
+ Hmph...
+<pause>
+<audio_1468>Dhaos:<nl>
+ You have been spared by
+ the grace of this tree.
+ Remember to thank it properly.{END}"
+"<audio_1469><Cless>
+「た、助かった・・・」
+<pause>
+<audio_146A><Arche>
+「もう死ぬかと思ったよ・・・」
+<pause>
+<audio_146B><Klarth>
+「以前とは比べ物にならない力を
+　感じたぞ・・・」
+<pause>
+<audio_146C><Cless>
+「今の僕達では・・・」
+<pause>
+<audio_146D><Arche>
+「勝てないよね？」<wait>{END}","<audio_1469><Cless>:<nl>
+ H-He didn't kill us...
+<pause>
+<audio_146A><Arche>:<nl>
+ I swear my life was about to flash
+ before my eyes...
+<pause>
+<audio_146B><Klarth>:<nl>
+ I sensed that our powers were no
+ match for his.
+<pause>
+<audio_146C><Cless>:<nl>
+ As we are right now...
+<pause>
+<audio_146D><Arche>:<nl>
+ ...We really DON'T have any chance
+ against him, do we?<wait>{END}"
+"<audio_146E><Cless>
+「・・・・・・」
+<pause>
+<audio_146F><Cless>
+「悔しいけど・・・」
+<pause>
+<audio_1470><Cless>
+「実力が違いすぎる・・・」{END}","<audio_146E><Cless>:<nl>
+ ......
+<pause>
+<audio_146F><Cless>:<nl>
+ It pains me to say it, but...
+<pause>
+<audio_1470><Cless>:<nl>
+ <Klarth>'s right.
+ Our powers truly are nothing
+ compared to his...{END}"
+"<audio_1471><Arche>
+「ダオスはここに何しに来たのか
+　なぁ？」
+<pause>
+<audio_1472><Klarth>
+「私達を殺しに来たのか？」<wait>{END}","<audio_1471><Arche>:<nl>
+ Why'd that guy have to show up
+ here, anyway?
+<pause>
+<audio_1472><Klarth>:<nl>
+ Maybe to kill us?<wait>{END}"
+"<audio_1473><Mint>
+「それは違うと思います」
+<pause>
+<audio_1474><Mint>
+「私達がこの世界に時間転移して
+　きたことを知らなかったようで
+　したから・・・」
+<pause>
+<audio_1475><Arche>
+「うん、なんか初めて知ったよう
+　な口ぶりだったよ」
+<pause>
+<audio_1476><Cless>
+「まさか・・・」
+<pause>
+<audio_1477><Cless>
+「ここを訪れている金髪の男って
+　いうのは・・・」
+<pause>
+<audio_1478><Klarth>
+「それは、わからんがな・・・」
+<pause>
+<audio_1479><Klarth>
+「可能性はある」
+<pause>
+<audio_147A><Arche>
+「いったい今度は何を狙ってんの
+　かなぁ？」
+<pause>
+<audio_147B><Mint>
+「わかりません」
+<pause>
+<audio_147C><Mint>
+「でも私達に気が付くまで、悪意
+　は感じられませんでした」
+<pause>
+<audio_147D><Cless>
+「・・・・・・」{END}","<audio_1473><Mint>:<nl>
+ I don't believe that's true.
+<pause>
+<audio_1474><Mint>:<nl>
+ I think he had no idea of our
+ arrival to this era.
+<pause>
+<audio_1475><Arche>:<nl>
+ Yeah, he talked like we totally
+ blindsided him or something.
+<pause>
+<audio_1476><Cless>:<nl>
+ You don't think...
+<pause>
+<audio_1477><Cless>:<nl>
+ ...he could be the blonde man that
+ Martel was speaking of...?
+<pause>
+<audio_1478><Klarth>:<nl>
+ While I can't be completely
+ certain...
+<pause>
+<audio_1479><Klarth>:<nl>
+ The possibility can't be ruled out.
+<pause>
+<audio_147A><Arche>:<nl>
+ What I wanna know is why he
+ decided to show up *right now*!
+ Is it really all just some kinda
+ kooky coincidence!?
+<pause>
+<audio_147B><Mint>:<nl>
+ I don't know, but...
+<pause>
+<audio_147C><Mint>:<nl>
+ I truly could not sense any malice
+ until he became aware of our
+ presence.
+<pause>
+<audio_147D><Cless>:<nl>
+ ......{END}"
+"<audio_147F><Klarth>
+「さあ、早く時を操るという剣を
+　探そう」<wait>{END}","<audio_147F><Klarth>:<nl>
+ Now, we need to find the sword
+ that's capable of manipulating time.
+ “Time is of the essence.”<wait>{END}"
+"<audio_1480><Klarth>
+「さあ、早く三種の武具とやらを
+　探しだそう」<wait>{END}","<audio_1480><Klarth>:<nl>
+ Now then!
+ We can't waste any more time in
+ finding the Tria!<wait>{END}"
+"<audio_147E><Klarth>
+「さあ、早くアルヴァニスタ王に
+　会いに行こう」<wait>{END}","<audio_147E><Klarth>:<nl>
+ Let's get on with it.
+ We can't leave the King of Alvanista
+ waiting.<wait>{END}"
+"<audio_1481><Mint>
+「そうですね」{END}","<audio_1481><Mint>:<nl>
+ Yes.{END}"
+"『精霊の樹』
+<pause>
+『この樹には精霊が宿っていると
+　言われています』
+<pause>
+『傷つけないように、みなさんの
+　ご協力をお願いいたします　　
+　　　　　ユークリッド観光協会』{END}","The sign reads:
+
+“The Tree of Spirits”
+<pause>
+“It is said that a spirit inhabits this
+tree.”
+<pause>
+“We request everyone's cooperation
+in preserving it for future
+generations.”<nl>
+-Euclid Tourism Association{END}"
+"<Cless>
+「こっちからじゃ読めないな」{END}","<Cless>:<nl>
+ Huh. This side's blank.{END}"
+"墓が建てられている。
+<pause>
+かなり古いもののようだ。
+<pause>
+<Cless>
+「・・・・・・」{END}","(There's an old, weathered
+gravestone standing here.)
+<pause>
+<Cless>:<nl>
+ ...{END}"
+"<audio_1434>マーテル
+「マナが・・・」{END}","<audio_1434>Martel:<nl>
+ Mana...{END}"
+"<audio_1435>マーテル
+「消えてゆく・・・」{END}","<audio_1435>Martel:<nl>
+ ...is vanishing...{END}"
+"<speed_0004>
+　彼は、自分の母星を救うために
+<pause>
+<audio_148E>　　　「大いなる実り」を
+<pause>
+<audio_148F>　　必要としていた・・・{END}","In order to save his beloved home world,
+<pause>
+<audio_148E>he needed to obtain the “Great Seed.”
+<pause>
+<audio_148F>{END}"
+"<speed_0004>
+　　それは、マナを集めて
+<pause>
+<audio_1491>　　　ユグドラシルより
+<pause>
+<audio_1492>　　生まれるという・・・{END}","Given time, Yggdrasill would have accumulated
+<pause>
+<audio_1491>enough mana to produce this seed,
+<pause>
+<audio_1492>or so he said...{END}"
+"<speed_0004>
+
+　　　　　だが・・・{END}","<speed_0004>
+
+　　　　　However...{END}"
+"<audio_0F8F><Klarth>
+「な、何だ！？」
+<pause>
+<audio_0F90><Klarth>
+「どうなっているんだ！？」
+<pause>
+<audio_0F91><Mint>
+「ユ、<item_E400>の力が、
+　つっ、強すぎて・・・」<wait>{END}","<audio_0F8F><Klarth>:<nl>
+ H-Hey!
+<pause>
+<audio_0F90><Klarth>:<nl>
+ What the hell is happening!?
+<pause>
+<audio_0F91><Mint>:<nl>
+ Th-The Unicorn Horn's power!
+ It's overwhelmingly strong!<wait>{END}"
+"<unk1><audio_0F92><Cless>
+<Mint>、早く<item_E400>から離れるんだ！！」<wait>{END}","<unk1><audio_0F92><Cless>:<nl>
+ Drop it and get away from there!!<wait>{END}"
+"<audio_0F93><Mint>
+「いけません！！」
+<pause>
+<audio_0F94><Mint>
+「途中でやめたら・・・」
+<pause>
+<audio_0F95><Mint>
+「<item_E400>の力が暴走し
+　てしまうかもしれません！！」
+<pause>
+<audio_0F96><Mint>
+「そんなことになったら、ユグド
+　ラシルが・・・」
+<pause>
+<audio_0F97><Cless>
+「<Mint>ー！！」{END}","<audio_0F93><Mint>:<nl>
+ I mustn't!!!
+<pause>
+<audio_0F94><Mint>:<nl>
+ If I give and let go...
+<pause>
+<audio_0F95><Mint>:<nl>
+ ...this power might go berserk!!!
+<pause>
+<audio_0F96><Mint>:<nl>
+ If I let that happen, Yggdrasill
+ would...
+<pause>
+<audio_0F97><Cless>:<nl>
+ <Mint>!!{END}"
+"<audio_0F98><Mint>
+「お父さん、お母さん・・・」
+<pause>
+<audio_0F99><Mint>
+「私に、力を・・・」
+<pause>
+<audio_0F9A><Mint>
+「強い力を下さい・・・」{END}","<audio_0F98><Mint>:<nl>
+ Dear Father, Dear Mother...
+<pause>
+<audio_0F99><Mint>:<nl>
+ Give me strength...
+<pause>
+<audio_0F9A><Mint>:<nl>
+ Great strength, please...!{END}"
+"<audio_0F9B><Cless>
+「みんな、大丈夫か？」{END}","<audio_0F9B><Cless>:<nl>
+ Can you guys stand?{END}"
+"<audio_0F9C><Cless>
+「やったぁ、ユグドラシルが元に
+　戻ったぞ！！」{END}","<audio_0F9C><Cless>:<nl>
+ <Mint>! You did it!
+ Yggdrasill is flowing with life!{END}"
+"<audio_0F9D><Klarth>
+「<Mint>、すごいぞ！」
+<pause>
+<audio_0F9E><Klarth>
+「よくやったな」
+<pause>
+<audio_0F9F><Arche>
+「やったじゃん！」{END}","<audio_0F9D><Klarth>:<nl>
+ Way to go, <Mint>!
+<pause>
+<audio_0F9E><Klarth>:<nl>
+ You did an incredible job!
+<pause>
+<audio_0F9F><Arche>:<nl>
+ You go, girl!{END}"
+"<audio_0FA0>マーテル
+「力が・・・湧き上がってくるよ
+　うです」
+<pause>
+<audio_0FA1>マーテル
+「これは、あなたの法力なのです
+　ね」
+<pause>
+<audio_0FA2><Mint>
+「いえ、私だけの力では・・・」
+<pause>
+<audio_0FA3><Mint>
+「ユニコーンと、みなさんの協力
+　が、あったから・・・」
+<pause>
+<audio_0FA4><Arche>
+「そんなことないよ」<wait>{END}","<audio_0FA0>Martel:<nl>
+ Energy...seems to be welling up
+ within the tree.
+<pause>
+<audio_0FA1>Martel:<nl>
+ Is this the result of your sacred
+ power?
+<pause>
+<audio_0FA2><Mint>:<nl>
+ No, I did not do this alone...
+<pause>
+<audio_0FA3><Mint>:<nl>
+ If not for the unicorn and
+ everyone else's wishes, I would
+ have failed...
+<pause>
+<audio_0FA4><Arche>:<nl>
+ Hey! Don't think like that!
+ It isn't good for you!<wait>{END}"
+"<unk1><audio_0FA5><Arche>
+法術をかけたのは<Mint>じゃん<heart>」
+<pause>
+<audio_0FA6><Cless>
+そうだよ、<Mint>の力があればこそ、だよ」<wait>{END}","<unk1><audio_0FA5><Arche>:<nl>
+ Take some credit, for once!
+ You're the only one here who can
+ use clerical artes, y'know <heart>
+<pause>
+<audio_0FA6><Cless>:<nl>
+ She's right!
+ Only you could have done this.<wait>{END}"
+"<audio_0FA7>マーテル
+「ありがとうございます」
+<pause>
+<audio_0FA8>マーテル
+「これで私も、もうしばらく生き
+　長らえそうです・・・」
+<pause>
+<audio_0FA9>マーテル
+「ですが・・・」
+<pause>
+<audio_0FAA>マーテル
+「マナが、枯渇しようとしている
+　ことに変わりはありません」
+<pause>
+<audio_0FAB><Klarth>
+「それは、おそらく魔科学が原因
+　だろう・・・」
+<pause>
+<audio_0FAC><Klarth>
+「あれだけの力を引き出すには、
+　相当なマナを消費するだろうか
+　らな」{END}","<audio_0FA7>Martel:<nl>
+ Thank you very much for what
+ you've done.
+<pause>
+<audio_0FA8>Martel:<nl>
+ Not only have you extended the
+ life of the tree, but it seems that I
+ too shall live a little longer...
+<pause>
+<audio_0FA9>Martel:<nl>
+ However...
+<pause>
+<audio_0FAA>Martel:<nl>
+ ...the unnatural depletion of mana
+ continues.
+<pause>
+<audio_0FAB><Klarth>:<nl>
+ If I had to submit a theory at this
+ point, I'd say magitechnology usage
+ is the likely culprit...
+<pause>
+<audio_0FAC><Klarth>:<nl>
+ If those studying it are still trying
+ to greatly expand its use, that just
+ might be enough to cause this.{END}"
+"<audio_0FAD><Arche>
+「消えちゃった・・・」
+<pause>
+<audio_0FAE><Arche>
+「もう少し、話してくれてもいい
+　のに・・・」
+<pause>
+<audio_0FAF><Klarth>
+「彼女も精霊だからな」
+<pause>
+<audio_0FB0><Klarth>
+「本当は、この世界に姿を現すの
+　さえたいへんなことなんだ」
+<pause>
+<audio_0FB1><Klarth>
+「しかし、マナが枯渇するとは、
+　まだ理解できないが・・・」<wait>{END}","<audio_0FAD><Arche>:<nl>
+ Aww, she left us...
+<pause>
+<audio_0FAE><Arche>:<nl>
+ I was hoping we could've chatted
+ her up some more.
+<pause>
+<audio_0FAF><Klarth>:<nl>
+ Well, she *is* a spirit, after all.
+<pause>
+<audio_0FB0><Klarth>:<nl>
+ It's difficult for them to manifest
+ physically like that.
+<pause>
+<audio_0FB1><Klarth>:<nl>
+ Sadly, we still don't have a shred
+ of decisive evidence as to what's
+ causing mana's crisis...<wait>{END}"
+"<audio_0FB2><Cless>
+「もしかして・・・」
+<pause>
+<audio_0FB3><Klarth>
+「どうした、<Cless>？」
+<pause>
+<audio_0FB4><Cless>
+「ダオスがミッドガルズを執拗に
+　襲ったのは・・・」
+<pause>
+<audio_0FB5><Cless>
+「魔科学を、滅ぼそうとしたため
+　かなぁと思って・・・」<wait>{END}","<audio_0FB2><Cless>:<nl>
+ Hold on a sec...
+<pause>
+<audio_0FB3><Klarth>:<nl>
+ What's on your mind, <Cless>?
+<pause>
+<audio_0FB4><Cless>:<nl>
+ I was wondering...<nl>
+ Dhaos focused his attacks
+ on Midgard, didn't he...?
+<pause>
+<audio_0FB5><Cless>:<nl>
+ Then what were the chances that
+ he was doing that simply to
+ eradicate their magitechnology...?<wait>{END}"
+"<audio_0FB6><Mint>
+「マナの力を、利用するためにで
+　すか？」
+<pause>
+<audio_0FB7><Arche>
+「魔科学の力を、恐れたからかも
+　しれないよ」
+<pause>
+<audio_0FB8><Arche>
+「だってダオスって、魔術でしか
+　傷つけられないじゃん？」<wait>{END}","<audio_0FB6><Mint>:<nl>
+ If so, could he have wanted to use
+ the power of mana all for himself?
+<pause>
+<audio_0FB7><Arche>:<nl>
+ Maybe he's just afraid of magitechnology. I mean, that cannon
+ WAS like, totally freaky and stuff.
+<pause>
+<audio_0FB8><Arche>:<nl>
+ Plus, all we've ever heard is that
+ magic is his only weakness.<wait>{END}"
+"<audio_0FB9><Klarth>
+「まあまぁ、ここで議論したって
+　始まらないだろう」<wait>{END}","<audio_0FB9><Klarth>:<nl>
+ Sigh.
+ There's too much we don't know.
+ Speculating further is pointless.<wait>{END}"
+"<audio_0FBA><Cless>
+「そうだな、直接会って確かめる
+　までだ」
+<pause>
+<audio_0FBB><Arche>
+「じゃあ、トールに行こっか？」
+<pause>
+<audio_0FBC><Mint>
+「そうですね」<wait>{END}","<audio_0FBA><Cless>:<nl>
+ You're right.
+ We'll just have to wait until we
+ finally learn Dhaos' motive.
+<pause>
+<audio_0FBB><Arche>:<nl>
+ Well, Dhaos is gone, and Yggdrasill
+ is a happy little tree.
+ How 'bout we move it to Thor?
+<pause>
+<audio_0FBC><Mint>:<nl>
+ Yes, good thinking.<wait>{END}"
+"<audio_0FBD><Klarth>
+「おそらく、これが最後の戦いに
+　なるだろう」
+<pause>
+<audio_0FBE><Klarth>
+「準備は、しっかりやっておこう」
+<pause>
+<audio_0FBF><Cless>
+「はい！」{END}","<audio_0FBD><Klarth>:<nl>
+ I expect that we're heading into
+ our final battle.
+<pause>
+<audio_0FBE><Klarth>:<nl>
+ Better make sure we're prepared
+ and finish off any business here.
+ Once we reach Thor, there's no
+ turning back!
+<pause>
+<audio_0FBF><Cless>:<nl>
+ Got it!{END}"
+"<unk1><audio_1482><speed_0004><Cless>
+信じられますか？」
+<pause>
+<audio_1483><Cless>
+ダオスが、自分の星を救うために、戦っていたなんて・・・」
+<pause>
+<audio_1484><Cless>
+これじゃあ・・・」
+<pause>
+<audio_1485><Cless>
+まるで、僕達の方が・・・」
+<pause>
+<audio_1486><Cless>
+・・・・・・」
+<pause>
+<audio_1487><Klarth>
+<Cless>、私達は間違ってなどいない」
+<pause>
+<audio_1488><Klarth>
+奴だって多くの人間を犠牲にしているんだ」
+<pause>
+<audio_1489><Klarth>
+ダオスは、己の信じる正義のために戦っていた・・・」
+<pause>
+<audio_148A><Klarth>
+だが、私達にも譲れないものがある」
+<pause>
+<audio_148B><Klarth>
+・・・守るべき人々がいる」
+<pause>
+<audio_148C><Klarth>
+違うか？」{END}","<unk1><audio_1482><Cless>:<nl>
+ Should we believe what Dhaos said?
+<pause>
+<audio_1483><Cless>:<nl>
+ That he was fighting to save his
+ planet...?
+<pause>
+<audio_1484><Cless>:<nl>
+ If that's true, it's just...
+<pause>
+<audio_1485><Cless>:<nl>
+ It's almost as if we were...
+<pause>
+<audio_1486><Cless>:<nl>
+ ......
+<pause>
+<audio_1487><Klarth>:<nl>
+ Don't beat yourself up over this.
+ Our actions were not wrong.
+<pause>
+<audio_1488><Klarth>:<nl>
+ The number of people he sacrificed
+ to fulfill his mission was, and still
+ is, unforgivable.
+<pause>
+<audio_1489><Klarth>:<nl>
+ Though his ends might have been
+ just...
+<pause>
+<audio_148A><Klarth>:<nl>
+ How could we be complacent about
+ his means?
+<pause>
+<audio_148B><Klarth>:<nl>
+ We had to do what it took to
+ prevent bloodshed against our
+ people.
+<pause>
+<audio_148C><Klarth>:<nl>
+ Isn't that so?{END}"
+"<audio_1497><speed_0004><Klarth>
+「魔科学なんて無くても、人間は
+　生きていけるさ」
+<pause>
+<audio_1498><Klarth>
+「魔術が使えなくなってしまうの
+　は、残念だがな・・・」<wait>{END}","<audio_1497><Klarth>:<nl>
+ Magitechnology isn't essential to
+ mankind, but...
+<pause>
+<audio_1498><Klarth>:<nl>
+ It's still a shame.
+ It was our best hope to harness
+ the power of magic...<wait>{END}"
+"<unk1><audio_1499><speed_0004><Arche>
+なに言ってんの、<Klarth>なら、また何かど〜んとすごいことができるってば！」
+<pause>
+<audio_149A><Chester>
+なんだよ、ど〜んとって？」
+<pause>
+<audio_149B><Arche>
+う・・・」
+<pause>
+<audio_149C><Arche>
+よくわかんないけど・・・そう思うんだもん」
+<pause>
+<audio_149D><Klarth>
+ふふ、ありがとう<Arche>」
+<pause>
+<audio_149E><Klarth>
+本当に・・・そうありたいものだ」<wait>{END}","<unk1><audio_1499><Arche>:<nl>
+ Come on! You're <Klarth>!
+ You'll come up with something
+ totally amazing that's all like,
+ BAM! BOOM!, y'know?
+<pause>
+<audio_149A><Chester>:<nl>
+ Bam?...Boom?
+ The hell you talking about, girl?
+<pause>
+<audio_149B><Arche>:<nl>
+ Uh...
+<pause>
+<audio_149C><Arche>:<nl>
+ Well, you know!
+ He's just cool like that!
+<pause>
+<audio_149D><Klarth>:<nl>
+ Hmhm... Thank you, <Arche>.
+<pause>
+<audio_149E><Klarth>:<nl>
+ Heh... Well, here's hoping you're
+ right about that.<wait>{END}"
+"<audio_149F><speed_0004><Mint>
+「皆さん、さがって下さい」{END}","<audio_149F><Mint>:<nl>
+ Please stand back, everyone!{END}"
+"<audio_14A0><speed_0004><Mint>
+「これから、ユグドラシルに、マ
+　ナ流出を防ぐバリアーを張りま
+　す」
+<pause>
+<audio_14A1><Mint>
+「そうすれば、いつかきっと、大
+　いなる実りが生まれてくるはず
+　です」
+<pause>
+<audio_14A2><Klarth>
+「信念を持って、孤独な戦いを続
+　けたダオスへの・・・」
+<pause>
+<audio_14A3><Klarth>
+「せめてもの、たむけだ・・・」
+<pause>
+<audio_14A4><Klarth>
+「<Mint>、やってくれ！」
+<pause>
+<audio_14A5><Mint>
+「はい！」<wait>{END}","<audio_14A0><Mint>:<nl>
+ I will place a barrier around
+ Yggdrasill to safeguard its mana
+ supply...
+<pause>
+<audio_14A1><Mint>:<nl>
+ ...to help ensure that it bears a
+ Great Seed someday.
+<pause>
+<audio_14A2><Klarth>:<nl>
+ It's not much, but it's the least we
+ can do...
+<pause>
+<audio_14A3><Klarth>:<nl>
+ ...for Dhaos, whose people
+ entrusted him with such a long,
+ solitary struggle...
+<pause>
+<audio_14A4><Klarth>:<nl>
+ Anyway, do it!
+<pause>
+<audio_14A5><Mint>:<nl>
+ Yes, leave it to me!<wait>{END}"
+"<audio_14A6><speed_0004><Klarth>
+「これで、我々の役目も終わった」
+<pause>
+<audio_14A7><Klarth>
+「帰らなければならないな」
+<pause>
+<audio_14A8><Cless>
+「・・・・・・」<wait>{END}","<audio_14A6><Klarth>:<nl>
+ With this, our duty is also at an
+ end.
+<pause>
+<audio_14A7><Klarth>:<nl>
+ We'll have to part ways for good
+ this time, I'm afraid.
+<pause>
+<audio_14A8><Cless>:<nl>
+ ......<wait>{END}"
+"<audio_14CD><speed_0004><Cless>
+「時間の剣よ、僕の時代へ！！」{END}","<audio_14CD><Cless>:<nl>
+ Blade of Time!<nl>
+ Take us to my home era!!{END}"
+"<unk3><audio_14CE><speed_0004><Suzu>
+<Cless>さん、あなた方と出会えて、本当によかったです）
+<pause>
+<audio_14CF><Suzu>
+あなた方から教わったものを、<Suzu>は大切にします）
+<pause>
+<audio_14D0><Suzu>
+私に教えてくれたことを、<Cless>さんも大切にして下さい）
+<pause>
+{END}","<unk3><audio_14CE><Suzu>:<nl>
+ (<Cless>, I am truly grateful to
+ have met you and your friends.)
+<pause>
+<audio_14CF><Suzu>:<nl>
+ (I shall treasure all the things you
+ have taught me.)
+<pause>
+<audio_14D0><Suzu>:<nl>
+ (Please do the same with what you
+ have learned from me.)
+<pause>
+{END}"
+"<speed_0004><Suzu>
+「私は・・・」<wait>{END}","<Suzu>:<nl>
+ I...<wait>{END}"
+"<speed_0004><Suzu>
+「私は、ここでお別れですね」<wait>{END}","<Suzu>:<nl>
+ I shall bid you farewell, now.<wait>{END}"
+"<audio_14AB><speed_0004><Mint>
+「<Suzu>ちゃん・・・」<wait>{END}","<audio_14AB><Mint>:<nl>
+ Oh, <Suzu>...<wait>{END}"
+"<speed_0004><Suzu>
+「もう、会えないんですね」<wait>{END}","<Suzu>:<nl>
+ We may not meet again.<wait>{END}"
+"<speed_0004><Suzu>
+「でも・・・泣きません」<wait>{END}","<Suzu>:<nl>
+ But I am not going to cry.<wait>{END}"
+"<speed_0004><Suzu>
+「忍者は非情でなければ務まらな
+　いですから・・・」{END}","<Suzu>:<nl>
+ A true ninja steels her heart
+ against such emotions...{END}"
+"<audio_14AF><speed_0004><Arche>
+「<Suzu>ちゃぁ〜ん<panic>」<wait>{END}","<audio_14AF><Arche>:<nl>
+ Oh, <Suzu>, I...! <panic><wait>{END}"
+"<speed_0004><Arche>
+「あたし、ずっと忘れないからね」<wait>{END}","<Arche>:<nl>
+ I'll never forget you, you got that!?<wait>{END}"
+"<speed_0004><Suzu>
+「わたしも、忘れません・・・」<wait>{END}","<Suzu>:<nl>
+ And you shall always remain in my
+ memories as well...<wait>{END}"
+"<speed_0004><Suzu>
+「それでは、これで・・・」{END}","<Suzu>:<nl>
+ Then, this is...{END}"
+"<audio_14B3><speed_0004><Cless>
+「・・・・・・」<wait>{END}","<audio_14B3><Cless>:<nl>
+ ......<wait>{END}"
+"<speed_0004><Chester>
+「楽しかったぜ」<wait>{END}","<Chester>:<nl>
+ Well, it was fun.<wait>{END}"
+"<speed_0004><Suzu>
+「はい」<wait>{END}","<Suzu>:<nl>
+ Yes.<wait>{END}"
+"<speed_0004><Klarth>
+「元気でな」<wait>{END}","<Klarth>:<nl>
+ Take care of yourself, okay?<wait>{END}"
+"<speed_0004><Suzu>
+「はい」<wait>{END}","<Suzu>:<nl>
+ I shall.<wait>{END}"
+"<speed_0004><Cless>
+「ありがとう」<wait>{END}","<Cless>:<nl>
+ Thank you.<wait>{END}"
+"<speed_0004><Cless>
+「その、いろいろと協力してくれ
+　て・・・」<wait>{END}","<Cless>:<nl>
+ I mean, for all you've done for us...<wait>{END}"
+"<speed_0004><Suzu>
+「いえ・・・こちらこそ・・・」{END}","<Suzu>:<nl>
+ No... It is I who should be saying
+ that to you.{END}"
+"<audio_14BB><speed_0004><Cless>
+「・・・・・・」
+<pause>
+<audio_14BC><Cless>
+「<Suzu>ちゃん・・・」<wait>{END}","<audio_14BB><Cless>:<nl>
+ ......
+<pause>
+<audio_14BC><Cless>:<nl>
+ Oh, and...<wait>{END}"
+"<speed_0004><Suzu>
+「はい？」<wait>{END}","<Suzu>:<nl>
+ Yes?<wait>{END}"
+"<speed_0004><Cless>
+「泣いてもいいんだよ」<wait>{END}","<Cless>:<nl>
+ I think it's okay to cry.<wait>{END}"
+"<speed_0004><Cless>
+「忍者だってこんな時は、泣いて
+　いいと思うよ」<wait>{END}","<Cless>:<nl>
+ Yes, even a ninja should cry at a
+ time like this.<wait>{END}"
+"<audio_14C0><speed_0004><Suzu>
+「・・・・・・」<wait>{END}","<audio_14C0><Suzu>:<nl>
+ ......<wait>{END}"
+"<speed_0004><Suzu>
+「ありがとうございます」<wait>{END}","<Suzu>:<nl>
+ Thank you for your concern, but...<wait>{END}"
+"<speed_0004><Suzu>
+「でも・・・泣きません」<wait>{END}","<Suzu>:<nl>
+ ...I decline.<wait>{END}"
+"<audio_14C3><speed_0004><Cless>
+「<Suzu>ちゃん・・・」<wait>{END}","<audio_14C3><Cless>:<nl>
+ Oh...?<wait>{END}"
+"<speed_0004><Suzu>
+「皆さんとは、笑ってお別れした
+　いから！」<wait>{END}","<Suzu>:<nl>
+ Because I wish to bid you all
+ farewell with a smile on my face!<wait>{END}"
+"<speed_0004><Cless>
+「そう・・・そうだね！
+　元気で、<Suzu>ちゃん！」<wait>{END}","<Cless>:<nl>
+ Well... That's okay, too!
+ Take good care of yourself!<wait>{END}"
+"<speed_0004><Suzu>
+「はい！みなさん、さようなら！
+　お元気で！」{END}","<Suzu>:<nl>
+ Okay! Farewell, everyone!
+ Take care!{END}"
+"<speed_0004><Chester>
+「いい子だったな」<wait>{END}","<Chester>:<nl>
+ She's a good kid.<wait>{END}"
+"<speed_0004><Mint>
+「別れというのは、やはり悲しい
+　ものですね」<wait>{END}","<Mint>:<nl>
+ Parting ways with someone you
+ may never see again hurts so
+ much.<wait>{END}"
+"<speed_0004><Arche>
+「ずっと一緒にいられたらいいの
+　に・・・」<wait>{END}","<Arche>:<nl>
+ I wish we could all just stay
+ together forever, y'know?<wait>{END}"
+"<speed_0004><Klarth>
+「私達も戻るとしよう」<wait>{END}","<Klarth>:<nl>
+ ...Well, looks like we're up next.<wait>{END}"
+"<audio_14CB><speed_0004><Cless>
+「・・・・・・」<wait>{END}","<audio_14CB><Cless>:<nl>
+ ...<wait>{END}"
+"<speed_0004><Cless>
+「そうですね・・・」{END}","<Cless>:<nl>
+ Yeah, I guess so...{END}"

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_451">
+        <source>All right, let's hoof it to that
+forest where Yggdrasill grows.</source>
+        <target state="translated">All right, let's hoof it to that
+forest where Yggdrasill grows.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_452">
+        <source>The Forest of Spirits, I believe.</source>
+        <target state="translated">The Forest of Spirits, I believe.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_453">
+        <source>Yeah, and if I remember
+correctly, it's south of Belladam.</source>
+        <target state="translated">Yeah, and if I remember
+correctly, it's south of Belladam.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

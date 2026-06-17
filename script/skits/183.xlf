@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_911">
+        <source>We managed to stop Dhaos' army for now.</source>
+        <target state="translated">We managed to stop Dhaos' army for now.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_912">
+        <source>Yes, we did well.</source>
+        <target state="translated">Yes, we did well.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_913">
+        <source>We really showed those punks, huh?</source>
+        <target state="translated">We really showed those punks, huh?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_914">
+        <source>Hopefully our victory will help calm the citizens.</source>
+        <target state="translated">Hopefully our victory will help calm the citizens.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

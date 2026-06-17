@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_142">
+        <source>Heyyy, &lt;Cless&gt;. Tell
+me--why is the sky blue?</source>
+        <target state="translated">Heyyy, &lt;Cless&gt;. Tell
+me--why is the sky blue?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_143">
+        <source>Maybe for the same the reason the sea is?</source>
+        <target state="translated">Maybe for the same the reason the sea is?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_144">
+        <source>Then what makes the sea blue?</source>
+        <target state="translated">Then what makes the sea blue?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_145">
+        <source>It's the color of water, so...wait, that's not right.</source>
+        <target state="translated">It's the color of water, so...wait, that's not right.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_146">
+        <source>But I thought water is clear.
+That makes it even weirder.</source>
+        <target state="translated">But I thought water is clear.
+That makes it even weirder.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_147">
+        <source>Uh, I guess, but...</source>
+        <target state="translated">Uh, I guess, but...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_148">
+        <source>Argh! Go ask someone else!</source>
+        <target state="translated">Argh! Go ask someone else!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_149">
+        <source>Okey-dokey.</source>
+        <target state="translated">Okey-dokey.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

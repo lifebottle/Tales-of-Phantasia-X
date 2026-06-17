@@ -1,0 +1,104 @@
+Ice Cave{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C100>.<color_0000>{END}
+
+<Cless>
+ But I don't have any use for it...
+<pause>
+<Cless>
+ I'll put it back...{END}
+
+<Cless>
+ It's frozen to the ground...{END}
+
+<color_0002>Press the button?<color_0000>{END}
+
+<Cless>
+ Ouch!!
+<pause>
+<Cless>
+ That's cold!{END}
+
+<Cless>
+ It's iced over and won't budge.{END}
+
+<Cless>
+ I wonder what this hole's for.
+<pause>
+<Cless>
+ There's no way I'll be able to fit
+ through, but...
+<pause>
+<Cless>
+ ...what's with the strong draft
+ coming from it?{END}
+
+<Cless>
+ Huh?
+<pause>
+<Cless>
+ The button won't budge...{END}
+
+<Cless>
+ Huh?
+<pause>
+<Cless>
+ The button won't budge...{END}
+
+???
+ I am called Fenrir Beast.<wait>{END}
+
+Fenrir Beast
+ This cave of ice is sacrosanct holy
+ ground!<wait>{END}
+
+Fenrir Beast
+ Lord Fenrir's soul rests here, sealed
+ within the core of my sacred blade!<wait>{END}
+
+Fenrir Beast
+ You shall not have it!!<wait>{END}
+
+Fenrir Beast
+ Hmph...
+ So be it...
+<pause>
+Fenrir Beast
+ My life is henceforth in your
+ hands...
+<pause>
+Fenrir Beast
+ Now, wield it...
+<pause>
+Fenrir Beast
+ ...the Blade of Frost!!{END}
+
+<color_0002>Acquired the <item_BB00>.<color_0000>
+<pause>
+<Cless>
+ Wh-what?
+<pause>
+<Cless>
+ I hear a voice in my head...{END}
+
+Fenrir Beast
+ “Hmhmhmhm, the power you
+ possess is quite impressive...”
+<pause>
+Fenrir Beast
+ “I have no doubt that you have the
+ capacity to master this arte...”
+<pause>
+Fenrir Beast
+ “Now, accept it!!”{END}
+
+<Cless>
+ It feels as if something is rushing
+ into my head...<wait>{END}
+
+<color_0002><Cless> learned
+<var_8B00>.<color_0000>{END}
+

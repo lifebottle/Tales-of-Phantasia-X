@@ -1,0 +1,1783 @@
+<audio_173C><Cless>:<nl>
+ If I remember correctly, my
+ uncle's house is in the
+ northwestern part of town.{END}
+
+Capital of Euclid{END}
+
+“History of the Kingdom of Euclid”
+<pause>
+The Kingdom of Euclid has a history
+of about one hundred twenty years.
+<pause>
+Before the kingdom was established,
+there was the Euclidean Republic--a
+union of three clans.
+<pause>
+One clan was called Deroino, which
+governed the Venezian continent.
+<pause>
+Another clan was known as Mailgan,
+which governed the southern
+portion of the Euclid continent.
+<pause>
+(It is theorized that this is the
+group which constructed the
+mausoleum which was destroyed
+fifty years ago.)
+<pause>
+The final of the three clans was
+called Euclid, which governed the
+northern portion of the Euclid
+continent.
+<pause>
+The present king, Ralph D. Euclidonia,
+is of the twenty-first generation of
+the Euclid family.{END}
+
+“Minority Groups of the World”
+<pause>
+There is an estimated two hundred
+fifty small clans of people in the
+world, each with a population of a
+hundred or less.
+<pause>
+One of these groups, known as
+Japon, possesses a notable,
+distinctly unusual culture.
+<pause>
+Japon is most famous for its ninja,
+who are very secretive.
+<pause>
+It is thought this group has means
+to completely conceal itself from
+the outside world, as all attempts to
+contact their culture directly have
+ended in failure.{END}
+
+“About Elves”
+<pause>
+The elves have long lifespans.
+This, along with their magical
+potential and physical beauty,
+differentiates them from humans.
+<pause>
+The elves' place of origin is still a
+matter of speculation.
+<pause>
+The most widely accepted theory as
+of now is that they came from
+somewhere within Treant Forest.
+<pause>
+Much folklore, on the other hand,
+speaks of Elves as life forms
+created by God in ancient times that
+lived in an aerial city.
+<pause>
+There is little scientific evidence to
+validate this theory, however, and it
+is most likely just a legend.{END}
+
+“The Culture of the
+Ancient Civilizations - Vol. 9”
+<pause>
+The lost civilizations apparently
+produced energy from electricity
+and oil.
+<pause>
+It is said that these civilizations
+possessed electrical mechanisms and
+other such devices beyond our
+imaginations.
+<pause>
+One theory even suggests they had
+the technology to produce
+mechanical humans.{END}
+
+“Lodging available!
+For superior service and great
+food, stay at the Euclid Inn!”{END}
+
+<Cless>:<nl>
+ (Why would there be anything
+ written on the back of a sign?){END}
+
+“Convenient travel supplies!
+Put a gel in YOUR traveling bag!
+Come here for the widest variety
+of gels in all the kingdom!”{END}
+
+<Cless>:<nl>
+ Hello!!!
+ Is anyone home!?
+<pause>
+<Cless>:<nl>
+ Guess not...{END}
+
+<Cless>:<nl>
+ Nobody's home, huh...?
+<pause>
+<Cless>:<nl>
+ I wonder where they went...{END}
+
+<unk1>King of Euclid:<nl>
+ And you are?
+<pause>
+<Klarth>:<nl>
+ We're the ones journeying to
+ annihilate Dhaos.
+<pause>
+<Klarth>:<nl>
+ I believe this is the first we've
+ met.
+<pause>
+King of Euclid:<nl>
+ Ah, yes...<nl>
+ The great heroes of whom
+ the King of Alvanista told me.
+<pause>
+<Arche>:<nl>
+ Uh, the “great” heroes?
+ Yup, that's TOTALLY us.
+<pause>
+<Klarth>:<nl>
+ <Arche>, please!
+ Behave yourself before
+ His Majesty.
+<pause>
+King of Euclid:<nl>
+ I take no offense.
+<pause>
+King of Euclid:<nl>
+ We do not have much, but it would
+ be our pleasure to provide you
+ with some traveling funds.
+<pause>
+<Klarth>:<nl>
+ Your Majesty!
+ Surely this is too generous...
+<pause>
+King of Euclid:<nl>
+ Euclid has no military.
+<pause>
+King of Euclid:<nl>
+ We depend upon young warriors
+ such as yourselves.
+<pause>
+King of Euclid:<nl>
+ We wish to offer you our full
+ support.<wait>{END}
+
+<color_0002>Accept the money?<color_0000>{END}
+
+<Mint>:<nl>
+ Thank you very much for your kind
+ generosity, Your Majesty, but
+ please do not concern yourself.
+ We can manage fine without it.
+<pause>
+King of Euclid:<nl>
+ I see...
+<pause>
+King of Euclid:<nl>
+ Your honesty is greatly
+ appreciated.
+<pause>
+King of Euclid:<nl>
+ May you be victorious.{END}
+
+<color_0002>Obtained 80000 gald.<color_0000>
+<pause>
+<Klarth>:<nl>
+ Thank you, Your Majesty.
+ We'll put it to good use.
+<pause>
+King of Euclid:<nl>
+ Yes.
+ May you be victorious.{END}
+
+Hero Hero Q Shop Owner:<nl>
+ Yo, we got the good stuff.{END}
+
+Zoom Zoom Shop Owner:<nl>
+ Welcome to Zoom Zoom.{END}
+
+Shop Owner:<nl>
+ Thanks.{END}
+
+<unk1>Boy:<nl>
+ Bro, are you
+ <a/an><0Dvar0080100101008E800CC000C0>?{END}
+
+Boy:<nl>
+ I haven't seen you before, bro.
+<pause>
+Boy:<nl>
+ Where'd you come from?{END}
+
+Boy:<nl>
+ Are you a hillbilly?{END}
+
+Boy:<nl>
+ COOL!
+<pause>
+Boy:<nl>
+ Is he a circus person?{END}
+
+Boy:<nl>
+ I just wanna go knock out some
+ monsters on the northern cliff of
+ the mountain pass.
+<pause>
+Boy:<nl>
+ But Mom won't let me...{END}
+
+Boy:<nl>
+ Sooo...<nl>
+ What game are we
+ gonna play today?{END}
+
+Girl:<nl>
+ Hmm...<nl>
+ I'm kinda bored now...
+<pause>
+Girl:<nl>
+ Let's go play somewhere else.{END}
+
+Girl:<nl>
+ Bahahahahaha!!!
+<pause>
+Girl:<nl>
+ He's sooo funny!!{END}
+
+Girl:<nl>
+ Hey, mister, play with me.{END}
+
+Girl:<nl>
+ Ohhh, there's nothing to do...{END}
+
+Citizen:<nl>
+ It seems that someone attacked
+ the village of Totus.
+<pause>
+Citizen:<nl>
+ Are we safe here?{END}
+
+Citizen:<nl>
+ Long periods of peace make you
+ wish something would happen once
+ in a while, don't they?
+<pause>
+Citizen:<nl>
+ Tell me, do you know of anything
+ going on soon?{END}
+
+Citizen:<nl>
+ Man, it's so peaceful!
+<pause>
+Citizen:<nl>
+ Lots of things are great, but if you
+ ask me, peace is totally number
+ one!{END}
+
+Woman:<nl>
+ Wow!
+ This guy is awesome!
+<pause>
+Woman:<nl>
+ Where'd he learn his tricks?{END}
+
+Woman:<nl>
+ I wonder what kind of tricks the
+ performer has up his sleeve...{END}
+
+Woman:<nl>
+ So, a performer is on his way to
+ entertain this city...
+<pause>
+Woman:<nl>
+ I hope he's good!
+ For all the peace we have here,
+ there sure isn't much to do.{END}
+
+Old Man:<nl>
+ Hoh hoh hoh!
+ I love me some jubblies!
+<pause>
+<Cless>:<nl>
+ (I hope he means jugglers...)<wait>{END}
+
+Old Man:<nl>
+ Nice weather today.<wait>{END}
+
+Old Man:<nl>
+ Oh, that's right.
+ I saw something interesting a few
+ days ago: a knight kept going in
+ and out of the Olsons' place.
+<pause>
+Old Man:<nl>
+ I wonder what that was all about.{END}
+
+<Cless>:<nl>
+ Um, excuse me.
+ Do you know where the people
+ who live in this house went?
+<pause>
+Old Man:<nl>
+ Oh, you mean the Olson couple?
+<pause>
+Old Man:<nl>
+ They just suddenly disappeared.
+ Vanished out of thin air.
+ No one's heard a peep of
+ their whereabouts.{END}
+
+Old Man:<nl>
+ This big house belongs to the
+ Olsons.{END}
+
+Old Man:<nl>
+ There sure are a lot of gloomy
+ clouds to the south.
+<pause>
+Old Man:<nl>
+ Must be pouring...{END}
+
+Boyfriend:<nl>
+ Ahh, I wish this time would last
+ forever...{END}
+
+Boyfriend:<nl>
+ Oh, when I'm alone with you like
+ this...
+<pause>
+Boyfriend:<nl>
+ I feel like I could just float away
+ without a care in the world...{END}
+
+Girlfriend:<nl>
+ BOOOOR-ING...
+<pause>
+Girlfriend:<nl>
+ This guy never takes me anywhere
+ fun.{END}
+
+Girlfriend:<nl>
+ ......{END}
+
+Swordsman:<nl>
+ Hey, uh, 'scuse me.
+<pause>
+Swordsman:<nl>
+ Can you tell me how to get to
+ Totus?
+<pause>
+Swordsman:<nl>
+ I want to meet Sir Miguel.{END}
+
+Swordsman:<nl>
+ I heard Sir Miguel used to be the
+ head of Euclid's knights.
+<pause>
+Swordsman:<nl>
+ His valor is renowned throughout
+ the whole Euclid continent.
+<pause>
+Swordsman:<nl>
+ I'd like to have a bout with him
+ once.{END}
+
+Juggler:<nl>
+ I'm the best juggler in the world!
+ Twelve beanbags are nothing!{END}
+
+Juggler:<nl>
+ Yessss!
+ Welcome, welcome!
+ Watch and be amazed!
+<pause>
+Juggler:<nl>
+ There's no reason not to!
+ What else are you gonna
+ do in a place like this?{END}
+
+Juggler:<nl>
+ And 'round and 'round they go...{END}
+
+Child:<nl>
+ Where'd he learn how to do that?{END}
+
+Child:<nl>
+ I wanna try too!{END}
+
+Child:<nl>
+ YAAAY!!! YAAAY!!{END}
+
+Child:<nl>
+ The juggler is so cool!{END}
+
+Man:<nl>
+ I'm sorry!
+ I won't do it again!{END}
+
+Man:<nl>
+ I'm hiding from my shrew of a
+ wife.
+<pause>
+Man:<nl>
+ Man, she never stops her yapping...{END}
+
+Wife:<nl>
+ YOU!!!
+<pause>
+Wife:<nl>
+ What the hell are you doing out
+ here!? Do you think I have eyes in
+ the back of my head and three
+ arms!?
+<pause>
+Wife:<nl>
+ I can't cook and watch the kids at
+ the same time, you know!!! Get your
+ ass back in the house, NOW!!{END}
+
+Assistant:<nl>
+ Welcome to Flavor King.
+ Feel free to look around.
+<pause>
+Assistant:<nl>
+ The checkout counter is inside.{END}
+
+Boy:<nl>
+ M-Move it!!!
+<pause>
+Boy:<nl>
+ My sister's gonna catch me!!{END}
+
+Girl:<nl>
+ Ugh!!!
+ My stupid brother doesn't help
+ around the store at all!!{END}
+
+Citizen:<nl>
+ That huge building in the northwest
+ part of town is the federal
+ research center.
+<pause>
+Citizen:<nl>
+ Sounds great, huh?
+<pause>
+Citizen:<nl>
+ Too bad only authorized personnel
+ are allowed in the lab.{END}
+
+Woman:<nl>
+ Huh!?
+<pause>
+Woman:<nl>
+ You have a vehicle that
+ flies in the sky?
+<pause>
+Woman:<nl>
+ Can I get one too?
+<pause>
+Woman:<nl>
+ On second thought, it would
+ probably be too expensive...{END}
+
+Woman:<nl>
+ Seems they're studying human
+ flight at this city's research center.
+<pause>
+Woman:<nl>
+ But is that even possible?
+ And more importantly, can it be
+ applied to pigs?{END}
+
+Woman:<nl>
+ Wow, so many cool people here!
+<pause>
+Woman:<nl>
+ Not just the buff dudes...
+<pause>
+Woman:<nl>
+ There are even some tough-as-nails swordswomen!{END}
+
+Soldier:<nl>
+ The coliseum's audience seating is
+ this way.{END}
+
+Soldier:<nl>
+ People come through here in
+ droves to watch every single day.
+<pause>
+Soldier:<nl>
+ After a while, you really start to
+ wonder where they all hail from.{END}
+
+Guard:<nl>
+ This is the throne room.{END}
+
+Guard:<nl>
+ We request that you show His
+ Majesty all due courtesy.{END}
+
+Soldier:<nl>
+ I'll explain the “combat
+ tournament” being held in the
+ coliseum, if you like.
+<pause>
+<color_0002>Hear the explanation?<color_0000>{END}
+
+Soldier:<nl>
+ First, allow me to explain the
+ purpose and basics of this combat
+ tournament.
+<pause>
+Soldier:<nl>
+ The main intention is to find the
+ most formidable warriors and band
+ them together to eradicate Dhaos.
+<pause>
+Soldier:<nl>
+ It is a single-elimination
+ competition against the various
+ monsters we dispatch.
+<pause>
+Soldier:<nl>
+ In order to win, the competitor
+ must be the victor of eight
+ consecutive battles.
+<pause>
+Soldier:<nl>
+ Should he or she win, the entrant
+ will have the opportunity to join
+ the Dhaos Attack Force.
+<pause>
+Soldier:<nl>
+ The winner is under no obligation
+ to do that, however, and will be
+ awarded prizes regardless of his
+ or her decision.
+<pause>
+Soldier:<nl>
+ Now, for the rules of the actual
+ combat...
+<pause>
+Soldier:<nl>
+ Only one person may participate.
+ No groups allowed!
+<pause>
+Soldier:<nl>
+ This is a test of physical
+ strength and endurance.
+ Magic is expressly forbidden!
+<pause>
+Soldier:<nl>
+ In addition, competitors may only
+ use the recovery items that have
+ been prepared by tournament
+ staff.
+<pause>
+Soldier:<nl>
+ After winning all eight battles, the
+ competitor may choose to fight a
+ battle against an even stronger
+ monster.
+<pause>
+Soldier:<nl>
+ If he or she manages to defeat it,
+ something interesting may happen...
+<pause>
+Soldier:<nl>
+ If you're interested in participating,
+ just go through the door on the
+ left and speak with the soldier at
+ the reception to sign up.{END}
+
+Swordsman:<nl>
+ Fighting monsters, huh...
+<pause>
+Swordsman:<nl>
+ I'm not too keen on that.{END}
+
+Swordsman:<nl>
+ I'm goin' to go out there and give
+ it my best shot!!{END}
+
+Citizen:<nl>
+ This guy's been standing here and
+ saying the same thing for hours.
+ Is he gonna put his money where
+ his mouth is or what?{END}
+
+Citizen:<nl>
+ Owwww!
+ My side! My side!{END}
+
+Citizen:<nl>
+ I heard there's an item that makes
+ you invincible while stepping...{END}
+
+Citizen:<nl>
+ This guy got a stomach ache right
+ before the fight started.
+<pause>
+Citizen:<nl>
+ What a loser...{END}
+
+Citizen:<nl>
+ Some collectors out there are
+ pretty stingy when it comes to
+ trading.
+<pause>
+Citizen:<nl>
+ Those guys'll want more than one
+ thing in return.
+<pause>
+Citizen:<nl>
+ It's a really intense decision if
+ they've got something you're dying
+ for.
+<pause>
+Citizen:<nl>
+ Collecting: serious business!{END}
+
+Swordswoman:<nl>
+ Eight consecutive battles...
+<pause>
+Swordswoman:<nl>
+ Harsh!{END}
+
+Mage:<nl>
+ Tsk! Magic is forbidden?
+ Straight-up idiotic nonsense!{END}
+
+Woman:<nl>
+ Oh my, a visitor.
+<pause>
+Woman:<nl>
+ Would you like some tea?{END}
+
+Maid:<nl>
+ Have you heard?
+ Venezia's port was attacked
+ a few months ago.
+<pause>
+Maid:<nl>
+ I think it was an act of Dhaos, but
+ he hasn't attacked here yet...{END}
+
+Maid:<nl>
+ A maid's work is harder than it
+ looks!{END}
+
+Maid:<nl>
+ Clean, clean, clean!
+ La la la <heart>{END}
+
+Guard:<nl>
+ This is His Majesty's room!{END}
+
+Guard:<nl>
+ Our king believes in mingling with
+ the populace, so he leaves the
+ castle fully open to the general
+ public.
+<pause>
+Guard:<nl>
+ That includes his own room.
+<pause>
+Guard:<nl>
+ But don't you even dream of any
+ roguish plots if you go in there!{END}
+
+Maid:<nl>
+ I can't stand that minister!
+<pause>
+Maid:<nl>
+ He never knows when to shut his
+ mouth!{END}
+
+Minister:<nl>
+ This is His Majesty's room.
+<pause>
+Minister:<nl>
+ Do not befoul it with your
+ commoner grime, peasants.{END}
+
+Child:<nl>
+ Whoooa, we're up so high!{END}
+
+Child:<nl>
+ High, hiiigh!{END}
+
+Child:<nl>
+ Ooh...<nl>
+ I-I'm gonna pee my pants...{END}
+
+Child:<nl>
+ Hahah.
+ He's afraid of heights.{END}
+
+Girl:<nl>
+ Um...
+<pause>
+Girl:<nl>
+ I'm a card collector.
+<pause>
+Girl:<nl>
+ I was thinking about trying to find
+ a <item_8C01>...<wait>{END}
+
+Girl:<nl>
+ Huh!?
+ You have one!?
+<pause>
+Girl:<nl>
+ Please tell me you'll trade me for
+ my <item_8B01>!{END}
+
+Girl:<nl>
+ Yaaay <heart><wait>{END}
+
+<color_0002>Acquired a <item_8B01>.<color_0000>{END}
+
+Girl:<nl>
+ Oh, you don't need one?
+<pause>
+Girl:<nl>
+ Aww, that's too bad.
+<pause>
+Girl:<nl>
+ See ya later then <heart>{END}
+
+Girl:<nl>
+ That's so boo...{END}
+
+Girl:<nl>
+ Oooh, <item_8C01>...{END}
+
+Child:<nl>
+ I can see the beach from here!{END}
+
+Teacher:<nl>
+ I'm this group's teacher.
+<pause>
+Teacher:<nl>
+ We're out on a field trip to the
+ castle today.{END}
+
+Man:<nl>
+ Whoa, everyone below looks like
+ ants from up here!{END}
+
+Woman:<nl>
+ Most of this floor is used as a
+ parlor.
+<pause>
+Woman:<nl>
+ You'll also find the library here.{END}
+
+Soldier:<nl>
+ The King's book collection is stored
+ here.
+<pause>
+Soldier:<nl>
+ You may look at it freely.{END}
+
+Soldier:<nl>
+ You stand before His Majesty.
+<pause>
+Soldier:<nl>
+ Be on your best behavior!{END}
+
+Soldier:<nl>
+ Sleepy...{END}
+
+Soldier:<nl>
+ Dhaos' army hasn't made any
+ advances on our country, but still,
+ we must be prepared.{END}
+
+Soldier:<nl>
+ Welcome to Euclid Castle.{END}
+
+Soldier:<nl>
+ I wanna watch the tournament too!{END}
+
+Knight:<nl>
+ Are you familiar with the Ishtar
+ Legend?
+<pause>
+Knight:<nl>
+ The legend says that, to protect
+ the goddess Ishtar from the demon
+ Druaga...
+<pause>
+Knight:<nl>
+ ...the hero Gilgamesh and the shrine
+ maiden Ki set out and defeated the
+ demon.
+<pause>
+Knight:<nl>
+ But is it really just a legend?
+ I have my doubts...
+<pause>
+Knight:<nl>
+ Would you like to hear more?{END}
+
+Knight:<nl>
+ Right, so...<nl>
+ Interestingly, nine items from the
+ legend actually exist in this world.
+<pause>
+Knight:<nl>
+ A sword, a helmet, a suit of armor,
+ a pair of gauntlets, a pair of boots,
+ a staff, and two shields.
+<pause>
+Knight:<nl>
+ Wait, that's only eight...
+<pause>
+Knight:<nl>
+ Oh, right, now I remember the last
+ one.
+<pause>
+Knight:<nl>
+ It “lights the darkness,” or
+ something...<wait>{END}
+
+<color_0002>Specifically, these items are:<nl>
+1. <item_BA00><nl>
+2. <item_0B01><nl>
+3. <item_2801><nl>
+4. <item_3C01>
+<pause>
+5. <item_5001><nl>
+6. <item_E700><nl>
+7. <item_1E01><nl>
+8. <item_2001><nl>
+9. <item_9A00><color_0000>{END}
+
+Knight:<nl>
+ With all those out there just
+ waiting to be discovered, is it really
+ just a legend?{END}
+
+Knight:<nl>
+ Hmm...<nl>
+ I see.{END}
+
+Soldier:<nl>
+ You've been watching your
+ surroundings during battle,
+ haven't you?{END}
+
+Soldier:<nl>
+ Good, that's the first step.
+ However, if you're watching only
+ your immediate surroundings,
+ victory is uncertain.<wait>{END}
+
+<color_0002>It is possible to zoom out during
+battle to obtain a greater view of
+the battlefield.
+<pause>
+Press <var_0A02> during battle to pause.
+Then hold <var_0302> and press <var_0702>
+to zoom in or out.<wait><color_0000>{END}
+
+Soldier:<nl>
+ It's very important to know what
+ you're up against at all times.{END}
+
+Soldier:<nl>
+ You must be pretty confident in
+ yourself.{END}
+
+Queen:<nl>
+ Allow us to honor your courage by
+ calling you heroes.
+<pause>
+Queen:<nl>
+ Heroes, we beseech you; please
+ save this world.{END}
+
+Soldier:<nl>
+ Are you entering the tournament
+ too?{END}
+
+<audio_1079>Reception Soldier:<nl>
+ Would you like to challenge the
+ tournament?{END}
+
+Soldier:<nl>
+ I await your challenge.{END}
+
+<color_0002>Are you sure?<color_0000>{END}
+
+Soldier:<nl>
+ I await your challenge.{END}
+
+<audio_107A>Soldier:<nl>
+ Then we'll hold onto your recovery
+ items until it's over.
+<pause>
+<audio_107B>Soldier:<nl>
+ To level the playing field, we have
+ prepared a set of items for you to
+ use.
+<pause>
+<audio_107C>Soldier:<nl>
+ May fortune smile upon you.{END}
+
+<audio_107D><Chester>:<nl>
+ Show 'em the meaning of pain,
+ dude!
+<pause>
+<audio_107E><Mint>:<nl>
+ Please don't get hurt.
+<pause>
+<audio_107F><Klarth>:<nl>
+ This is a good opportunity to test
+ your limits.
+<pause>
+<audio_1080><Arche>:<nl>
+ Kick their butts! <heart>
+<pause>
+<audio_1081><Cless>:<nl>
+ Just watch!<wait>{END}
+
+<audio_1082>Soldier:<nl>
+ The meeting hall is through these
+ doors.{END}
+
+Soldier:<nl>
+ Give your opponents no quarter!{END}
+
+Knight:<nl>
+ The monster extermination
+ expedition is almost underway.{END}
+
+Knight:<nl>
+ We're members of Euclid's
+ Obsidian Knights.{END}
+
+Knight:<nl>
+ We have the most difficult
+ enrollment test of the world's
+ knights.
+<pause>
+Knight:<nl>
+ We are the elite of the elite.{END}
+
+Knight:<nl>
+ No man in the country is worthy
+ enough to become our captain.
+<pause>
+Knight:<nl>
+ In the past, we had fierce
+ swordsmen like Sir Mars and Sir
+ Miguel at the helm, but...
+<pause>
+Knight:<nl>
+ I guess they don't make them like
+ they used to...{END}
+
+Chef:<nl>
+ Have you made Steak?{END}
+
+Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef:<nl>
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Steak.<color_0000>{END}
+
+Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}
+
+King:<nl>
+ Stay as long as you like to collect
+ yourselves.{END}
+
+<audio_1102>Harrison:<nl>
+ Follow me...{END}
+
+<audio_1103>Harrison:<nl>
+ This is the Euclidean Federal
+ Academy of Science.{END}
+
+<unk1><Mint>:<nl>
+ <Cless>?
+ Have you awoken?
+<pause>
+{END}
+
+<Cless>:<nl>
+ Where am I...?
+<pause>
+<Klarth>:<nl>
+ Euclid Castle's infirmary.
+<pause>
+<Klarth>:<nl>
+ You got pounded out there.
+ Too bad.
+<pause>
+<Chester>:<nl>
+ Well, there's always next time.
+<pause>
+<Arche>:<nl>
+ Yeah.
+ You can do it as much as you want,
+ so just do better next time <heart>
+<pause>
+<Mint>:<nl>
+ Can you stand?
+<pause>
+<Cless>:<nl>
+ Yeah.
+ My legs seem to be fine.{END}
+
+King of Euclid:<nl>
+ Your performance in the
+ tournament was absolutely
+ splendid.
+<pause>
+<Cless>:<nl>
+ Thank you.<wait>{END}
+
+King of Euclid:<nl>
+ But that's to be expected.
+<pause>
+King of Euclid:<nl>
+ If heroes like yourselves wish to
+ enlist in our country's Dhaos Attack
+ Force...
+<pause>
+<Cless>:<nl>
+ I'm sorry.
+ We really must decline.
+<pause>
+King of Euclid:<nl>
+ Very well.<wait>{END}
+
+King of Euclid:<nl>
+ Now, I would like to make a
+ request.
+<pause>
+King of Euclid:<nl>
+ The combat tournament is not just
+ to demonstrate one's strength.
+<pause>
+King of Euclid:<nl>
+ Its true purpose is to find warriors
+ worthy enough for our Dhaos
+ Attack Force.
+<pause>
+King of Euclid:<nl>
+ You have demonstrated
+ unprecedented ability.
+ I request that you enlist.
+<pause>
+King of Euclid:<nl>
+ What do you say?
+<pause>
+<Cless>:<nl>
+ Uh, well, I--
+<pause>
+<Klarth>:<nl>
+ Your Majesty, we must
+ respectfully decline.
+<pause>
+<Klarth>:<nl>
+ We're acting on our own against
+ Dhaos.
+<pause>
+<Klarth>:<nl>
+ We...oh, how should I put it?
+ It feels like our fate with
+ Dhaos transcends time.
+<pause>
+King of Euclid:<nl>
+ ......
+<pause>
+King of Euclid:<nl>
+ Hmm...<nl>
+ Very well.
+<pause>
+King of Euclid:<nl>
+ The decision is yours.<wait>{END}
+
+King of Euclid:<nl>
+ Well, now for your reward.
+<pause>
+King of Euclid:<nl>
+ Take this.{END}
+
+Queen:<nl>
+ May it help you on your future
+ travels.
+<pause>
+<Cless>:<nl>
+ Thank you very much.<wait>{END}
+
+<Cless>:<nl>
+ Oh!
+ It's an arcane arte book!<wait>{END}
+
+<color_0002><Cless> learned
+<var_9800>.<color_0000>{END}
+
+<color_0002>Acquired a set of specialty goods.<color_0000>{END}
+
+<color_0002>Acquired a set of charms.<color_0000>{END}
+
+<color_0002>Acquired a set of meats.<color_0000>{END}
+
+<color_0002>Acquired a set of herbs.<color_0000>{END}
+
+<color_0002>Acquired a set of potions.<color_0000>{END}
+
+<color_0002>Acquired a set of magical items.<color_0000>{END}
+
+<color_0002>Acquired a set of Star equipment
+for mage use.<color_0000>{END}
+
+<color_0002>Acquired a set of Star equipment
+for fighter use.<color_0000>{END}
+
+<color_0002>Acquired a set of gels.<color_0000>{END}
+
+<color_0002>Obtained 30000 gald.<color_0000>{END}
+
+King of Euclid:<nl>
+ I pray for your safety on your
+ journey to defeat Dhaos.{END}
+
+<Cless>:<nl>
+ Come on!
+ Get out of here already!<wait>{END}
+
+<Cless>:<nl>
+ Ugh...<nl>
+ This is mean.{END}
+
+Clerk:<nl>
+ Thank you so much.
+<pause>
+<Cless>:<nl>
+ But I didn't really do anything.
+<pause>
+Clerk:<nl>
+ Now, now, here is an expression of
+ my gratitude.<wait>{END}
+
+<color_0002>Acquired <a/an><num3_C000610C>.
+<pause>
+<color_0000><Cless>:<nl>
+ Oh...<nl>
+ Thanks...{END}
+
+<Suzu>:<nl>
+Mother...{END}
+
+<Cless>:<nl>
+<Suzu>?
+<pause>
+<Suzu>:<nl>
+Um, it's nothing.
+<pause>
+<Suzu>:<nl>
+Let's go.{END}
+
+<color_0002><Suzu> has earned the title
+“<var_DF01>.”<color_0000>{END}
+
+May:<nl>
+Waaaaah!
+<pause>
+May:<nl>
+Don't leave me here!!!
+<pause>
+May:<nl>
+Waaaaaaah!
+<pause>
+May:<nl>
+Mommyyy!!!{END}
+
+Mother:<nl>
+May!
+<pause>
+May:<nl>
+Mommy!
+<pause>
+Mother:<nl>
+I told you not to wander off!
+<pause>
+May:<nl>
+I'm sorry...{END}
+
+Mother:<nl>
+I really want to thank you for
+finding my girl.
+<pause>
+<Mint>:<nl>
+Don't mention it...
+<pause>
+May:<nl>
+Thank you, miss.
+<pause>
+Mother:<nl>
+It's not much, but...
+<pause>
+Mother:<nl>
+Please take this as a small
+token of my appreciation.{END}
+
+<color_0002>Acquired a Spirit Ring.{END}
+
+<color_0002>Acquired a Teacup.{END}
+
+<color_0002>Acquired an Elixir.{END}
+
+<color_0002>Acquired a Gel Set.{END}
+
+<color_0002>Acquired an Apple Gel.{END}
+
+Mother:<nl>
+Thank you very much.{END}
+
+May:<nl>
+Mommy!!!{END}
+
+May:<nl>
+I won't get lost anymore.
+<pause>
+<Mint>:<nl>
+Be careful, all right?
+<pause>
+May:<nl>
+I will.{END}
+
+Girl:<nl>
+Mommy, where are you!?{END}
+
+<Mint>:<nl>
+<Cless>.
+<pause>
+<Mint>:<nl>
+I think this girl's lost.
+<pause>
+<Mint>:<nl>
+Let's help her!{END}
+
+<Cless>:<nl>
+Yeah.{END}
+
+<Mint>:<nl>
+What's wrong?
+<pause>
+Girl:<nl>
+I can't find my mommy.
+<pause>
+Girl:<nl>
+Waaah, Mommy!!!{END}
+
+<Cless>:<nl>
+Oh, boy...{END}
+
+<Mint>:<nl>
+What's your name?
+<pause>
+Girl:<nl>
+Umm... May.
+<pause>
+<Mint>:<nl>
+May...
+<pause>
+<Mint>:<nl>
+Do you want us to take you
+to your mother?
+<pause>
+May:<nl>
+Yes...
+<pause>
+<Mint>:<nl>
+All right, May, follow right behind
+us.{END}
+
+<Cless>:<nl>
+You know, we really don't have
+the time...
+<pause>
+<Mint>:<nl>
+I see...{END}
+
+May:<nl>
+Mommy...{END}
+
+May:<nl>
+Waaaah!
+<pause>
+May:<nl>
+Don't leave me here!!!{END}
+
+<Cless>:<nl>
+S-Sorry...{END}
+
+Mother:<nl>
+Thank you very much.{END}
+
+Woman:<nl>
+Excuse me, but I've become
+separated from my daughter.
+<pause>
+Woman:<nl>
+Have you seen her around?{END}
+
+<audio_1994>Arms Dealer:<nl>
+Hey, mister~ Why not take a looksie? I've got some fine weapons, just for you! <heart>
+<pause>
+<audio_1995>Arms Dealer:<nl>
+My, my! You're so handsome~!{END}
+
+<audio_1996><Cless>:<nl>
+U-Uhm...
+<pause>
+<audio_1997>Arms Dealer:<nl>
+Oh~, don't worry, honey!
+I'm not that kinda guy!
+<pause>
+<audio_1998><Cless>:<nl>
+I-I see...{END}
+
+<audio_1999><Chester>:<nl>
+He does have some quality
+weapons here though, huh?{END}
+
+<audio_199A><Arche>:<nl>
+Yeesh!<nl>
+Look at this rod! 30 MILLION gald!?<nl>
+That's crazy expensive!{END}
+
+<audio_199B>Arms Dealer:<nl>
+Aren't my precious weapons just the loveliest? I treat them like my own daughters, I'll have you know!
+<pause>
+<audio_199C><Chester>:<nl>
+Woah, check this out! Get a look at the price tag
+on this sword here!
+<pause>
+<audio_199D><Mint>:<nl>
+That's most certainly more than we'll ever have...
+<pause>
+<audio_199E><Cless>:<nl>
+Still, it looks like it was clearly made
+by a master swordsmith.{END}
+
+<audio_199F>Arms Dealer:<nl>
+Ohoh? You've got a sharp eye! <heart><nl>
+Of course, I knew you did the moment
+I saw you!{END}
+
+<audio_19A0>Arms Dealer:<nl>
+That super duper mighty fine sword
+there happens to be named “Dragunov.”{END}
+
+<audio_19A1><Chester>:<nl>
+Huh? What is it, guys?{END}
+
+<audio_19A2><Mint>:<nl>
+“Dragunov”...<nl>
+That's the sword that Rody was looking for, wasn't it?{END}
+
+<audio_19A3><Cless>:<nl>
+Yeah... She said it was a family heirloom.
+<pause>
+<audio_19A4>Arms Dealer:<nl>
+Eeh!? A family heirloom??
+Who said that!?{END}
+
+<audio_19A5><Cless>:<nl>
+U-Uhm, I did...<nl>
+I didn't mean any offense.
+<pause>
+<audio_19A6>Arms Dealer:<nl>
+Oh dear, did I startle you?
+Don't worry, I'm not mad!
+I was just surprised, that's all!
+<pause>
+<audio_19A7>Arms Dealer:<nl>
+I never expected to meet someone
+who knew about Dragunov, you see.
+<pause>
+<audio_19A8><Mint>:<nl>
+An acquaintance of ours, a girl named
+Rody is searching for Dragunov.
+<pause>
+<audio_19A9>Arms Dealer:<nl>
+Rody?<nl>
+Perhaps she's related to the Eclipse?{END}
+
+<audio_19AA><Cless>:<nl>
+The Eclipse...? I don't know...
+<pause>
+<audio_19AB>Arms Dealer:<nl>
+Did her name have an “E” anywhere in it?{END}
+
+<audio_19AC><Arche>:<nl>
+Ah! Now that you mention it...
+<pause>
+<audio_19AD><Klarth>:<nl>
+Rondoline E. Effenberg, right?
+<pause>
+<audio_19AE>Arms Dealer:<nl>
+That's it, indeed! That girl's the
+Daughter of the Eclipse! I'm sure of it!
+<pause>
+<audio_19AF><Cless>:<nl>
+What exactly is “Eclipse”?
+<pause>
+<audio_19B0>Arms Dealer:<nl>
+That's not something even I know much about. All I know for sure is they're a mysterious bunch!
+<pause>
+<audio_19B1>Arms Dealer:<nl>
+Night after night, they keep hidden from the public eye and wander the land...
+<pause>
+<audio_19B2>Arms Dealer:<nl>
+My best guess is they're a clan
+that'll take on jobs from the shadier side of the world...
+<pause>
+<audio_19B3><Cless>:<nl>
+So then, do you think Rody's part of that clan?
+<pause>
+<audio_19B4><Arche>:<nl>
+Rody never mentioned anything like this to us, though?
+<pause>
+<audio_19B5><Klarth>:<nl>
+I don't think she'd just tell us she was
+descended from some secret organization.
+<pause>
+<audio_19B6>Arms Dealer:<nl>
+Either way, it's super exciting that the
+Daughter of the Eclipse herself is looking for this
+sword~!
+<pause>
+<audio_19B7>Arms Dealer:<nl>
+If you ever meet her again, could you
+be a darling and tell her Dragunov
+is waiting for her right here?
+<pause>
+<audio_19B8><Chester>:<nl>
+Even if we do tell her, you're still
+gonna charge a fortune for it, aren't you?
+<pause>
+<audio_19B9><Mint>:<nl>
+Indeed...{END}
+
+<audio_19BA>Arms Dealer:<nl>
+Oh don't you worry, honey! If she comes to see me, I'll give the sword away for free! <heart>
+<pause>
+<audio_19BB>Arms Dealer:<nl>
+The Daughter of the Eclipse, coming to see
+me! My little heart can't take it!{END}
+
+<audio_19BC><Cless>:<nl>
+I don't think it's something to be excited about, though...
+<pause>
+<audio_19BD><Arche>:<nl>
+But wait, Rody got warped away somewhere, remember?
+<pause>
+<audio_19BE><Klarth>:<nl>
+By a timewarp, yes...<nl>
+Who knows when we'll meet her again...{END}
+
+<audio_19C2>Rondoline:<nl>
+Yo! Been a while!
+<pause>
+<audio_19C8><Cless>:<nl>
+Rody...!
+So you ended up in this era?
+<pause>
+<audio_19C9>Rondoline:<nl>
+Mhm...I see you guys did too.
+<pause>
+<audio_19CA><Cless>:<nl>
+I'm glad you're okay.
+We were all really worried. Still,
+I can't believe we'd meet again like this.
+<pause>
+<audio_19CB>Rondoline:<nl>
+Hey, that's my line!
+Well, shall we get on with our journey then?
+<pause>
+<audio_19CC><Arche>:<nl>
+Oh! First I gotta tell you about Dragunov!
+We found it!
+<pause>
+<audio_19CD>Rondoline:<nl>
+Dragunov...!?{END}
+
+<audio_19CE><Arche>:<nl>
+Rody, c'mon, this way, hurry!!{END}
+
+<audio_19CF>Rondoline:<nl>
+Wha? Hey, wait up, wait!{END}
+
+<audio_19D0>Arms Dealer:<nl>
+Ohoh? Welcome~! It's you guys again!
+<pause>
+<audio_19D1><Arche>:<nl>
+Hey mister, show us Dragunov again!
+<pause>
+<audio_19D2>Arms Dealer:<nl>
+Dragunov, eh...?<nl>
+Well, here you go...{END}
+
+<audio_19D3>Rondoline:<nl>
+This is it... Dragunov...{END}
+
+<audio_19D4>Arms Dealer:<nl>
+Could it be!? The Daughter of the Eclipse!?
+<pause>
+<audio_19D5><Cless>:<nl>
+That's her.{END}
+
+<audio_19D6>Arms Dealer:<nl>
+Eeeeee!<nl>
+Oh, what joy! Be still my heart! <heart><nl>
+I never thought I'd really meet you!!{END}
+
+<audio_19D7>Rondoline:<nl>
+Uhm... What's he talking about?
+<pause>
+<audio_19D8><Arche>:<nl>
+Well, you're part of the Eclipse, aren't you?{END}
+
+<audio_19D9>Rondoline:<nl>
+Eclipse...? What's that...?
+<pause>
+<audio_19DA><Arche>:<nl>
+Whuh...?{END}
+
+<audio_19DB>Arms Dealer:<nl>
+...Hm? Was I wrong?
+Are you not the inheritor of the sword Dragunov?
+The daughter of the mysterious clan, the Eclipse?
+<pause>
+<audio_19DC>Arms Dealer:<nl>
+What's your name?
+<pause>
+<audio_19DD>Rondoline:<nl>
+Rondoline E. Effenberg.
+<pause>
+<audio_19DE>Arms Dealer:<nl>
+See there? As I thought, your name has an “E” in it, doesn't it!?
+<pause>
+<audio_19DF>Rondoline:<nl>
+I only got the E in my name from my father's name, though...?
+<pause>
+<audio_19E0>Arms Dealer:<nl>
+An E passed down from parent to child from generation to generation, that must be it. Yes, I'm certain!
+<pause>
+<audio_19E1>Rondoline:<nl>
+Yeah, but... That wasn't actually my real father...{END}
+
+<audio_19E2><Cless>:<nl>
+O-Oh, really?{END}
+
+<audio_19E3>Rondoline:<nl>
+...Father found me, abandoned in the woods, way back when I was really, really little.
+<pause>
+<audio_19E4>Arms Dealer:<nl>
+What a shame...
+<pause>
+<audio_19E5>Arms Dealer:<nl>
+I can't just hand Dragunov over to anyone
+but the actual heir to the Eclipse, unfortunately.{END}
+
+<audio_19E6><Arche>:<nl>
+What!? Why, you stingy old--{END}
+
+<audio_19E7>Arms Dealer:<nl>
+You hush your mouth, you little--!
+<pause>
+<audio_19E8><Mint>:<nl>
+Uhm, Miss Rody...{END}
+
+<audio_19E9>Rondoline:<nl>
+Aw, <Mint>, are you really
+that worried about little ol' me?{END}
+
+<audio_19EA><Mint>:<nl>
+Oh! T-That's not what I...{END}
+
+<audio_19EB>Rondoline:<nl>
+There's no need to worry at all, okay?
+<pause>
+<audio_19EC>Rondoline:<nl>
+He might not have been my real father, but...
+<pause>
+<audio_19ED>Rondoline:<nl>
+He definitely loved me as if I were his
+real daughter. Sometimes I think
+he cared about me a bit too much!{END}
+
+<audio_19EE><Klarth>:<nl>
+Hm? So what you're saying is he was
+a really strict parent?{END}
+
+<audio_19EF>Rondoline:<nl>
+Very strict. But more than that. He was kind, happy, gentle...
+<pause>
+<audio_19F0>Rondoline:<nl>
+One day, in the middle of training, I fell out of
+a tree and got seriously hurt...
+<pause>
+<audio_19F1>Rondoline:<nl>
+“You got hurt because you were careless!”
+he said. I was crying my eyes out, it hurt so much, it was so unfair, I thought...
+<pause>
+<audio_19F2>Rondoline:<nl>
+He scolded me again right after that...
+<pause>
+<audio_19F3>Rondoline:<nl>
+And yet... Father stayed by my side all night, nursing me back to health, making sure I got better...
+<pause>
+<audio_19F4>Rondoline:<nl>
+That morning, before I even knew I was awake,
+he was holding me tight, tears in his eyes, asking if I was all right...
+<pause>
+<audio_19F5>Rondoline:<nl>
+He usually never showed that much emotion in his face. Maybe he was just getting old...{END}
+
+<audio_19F6><Arche>:<nl>
+He was an old man?
+<pause>
+<audio_19F7>Rondoline:<nl>
+He was. When we were together,
+you coulda thought I was his granddaughter.
+<pause>
+<audio_19F8>Rondoline:<nl>
+Whenever I spoke, he'd quietly
+listen to everything I said.
+<pause>
+<audio_19F9>Rondoline:<nl>
+I remember talking to him in my dreams.
+His smiling face stuck with me so much...
+<pause>
+<audio_19FA>Rondoline:<nl>
+Y'know, about stuff like the color of the sky that evening, how depressing rainy days were, about that time I found that hole in that huge tree...
+<pause>
+<audio_19FB><Mint>:<nl>
+It sounds like you had a very peaceful life...{END}
+
+<audio_19FC>Rondoline:<nl>
+It was, and I was happy... But also, every now and then, an assassin would find us and attack him...
+<pause>
+<audio_19FD>Rondoline:<nl>
+Father would always strike them down in an instant. Afterward, he'd become even quieter than usual...{END}
+
+<audio_19FE>Arms Dealer:<nl>
+It must've been the Eclipse!!!
+<pause>
+<audio_19FF><Arche>:<nl>
+So, tell us Who. They. ARE!{END}
+
+<audio_1A00>Arms Dealer:<nl>
+I. TOLD. YOU. I don't know!!{END}
+
+<audio_1A01><Chester>:<nl>
+Sheesh...{END}
+
+<audio_1A02>Rondoline:<nl>
+The Eclipse... What the heck are they?
+Why would Father keep something like
+that a secret from me?{END}
+
+<audio_1A03>Rondoline:<nl>
+Heh, even after all this, I still don't understand anything.
+<pause>
+<audio_1A04>Rondoline:<nl>
+Sorry to be such a bother. I appreciate you guys
+coming all this way to tell me about this.
+<pause>
+<audio_1A05><Cless>:<nl>
+Sure... Are you gonna be okay?{END}
+
+<audio_1A06>Rondoline:<nl>
+I'm fine, I'm fine!<nl>
+Well, I'm headin' out!{END}
+
+<audio_1A07>Rondoline<nl>
+(...Whenever I'd ask Father about himself,
+his face would turn grim and he'd clam up...)
+<pause>
+<audio_1A08>Rondoline<nl>
+(So I'd keep talking, with one thing in mind... Because I could feel his love for me in his smile...)
+<pause>
+<audio_1A09>Rondoline<nl>
+(...But was that smile a lie?<nl>
+...Father...)
+<pause>
+<audio_1A0A>Rondoline<nl>
+(It's not right of me to doubt my father's love like this, though...)
+<pause>
+<audio_1A0B>Rondoline<nl>
+(I loved him so much. I wish I could have talked with him more than I did...)
+<pause>
+<audio_1A0C><Arche>:<nl>
+Rody doesn't look fine at all... More like lonely.{END}
+
+<audio_1A0D><Mint>:<nl>
+<Cless>...{END}
+
+<audio_1A0E><Cless>:<nl>
+Rody, you should come with us.{END}
+
+<audio_1A0F>Rondoline:<nl>
+...huh?{END}
+
+<audio_1A10><Cless>:<nl>
+You're going after Dhaos, right?
+So are we. Let's travel together, again.
+<pause>
+<audio_1A11>Rondoline:<nl>
+...Did you miss me that much?{END}
+
+<audio_1A12><Cless>:<nl>
+Wha? Th-That's, that's not...{END}
+
+<audio_1A13>Rondoline:<nl>
+Hehehe! Sorry, sorry...<nl>
+I do appreciate it a lot.
+<pause>
+<audio_1A14>Rondoline:<nl>
+...Sure. I'll come with you.
+<pause>
+<audio_1A15>Rondoline:<nl>
+Let's go get Dhaos, once and for all!{END}
+
+<audio_19B6>Arms Dealer:<nl>
+Either way, it's super exciting that the
+Daughter of the Eclipse herself is looking for this
+sword~!
+<pause>
+<audio_19B7>Arms Dealer:<nl>
+If you ever meet her again, could you
+be a darling and tell her Dragunov
+is waiting for her right here?{END}
+

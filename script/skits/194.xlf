@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_964">
+        <source>Finally, all that's left is to get to Thor.</source>
+        <target state="translated">Finally, all that's left is to get to Thor.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_965">
+        <source>Yeah, but do we know how to get there?</source>
+        <target state="translated">Yeah, but do we know how to get there?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_966">
+        <source>Good question. Thor sits to the bottom of the sea.</source>
+        <target state="translated">Good question. Thor sits at the bottom of the sea.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_967">
+        <source>Perhaps we should start
+by setting sail from Venezia.</source>
+        <target state="translated">Perhaps we should start
+by setting sail from Venezia.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_968">
+        <source>Mmhmm. Once we reach the water
+above Thor, just leave the rest to me!</source>
+        <target state="translated">Mmhmm. Once we reach the water
+above Thor, just leave the rest to me!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

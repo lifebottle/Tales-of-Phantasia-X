@@ -1,0 +1,710 @@
+<color_0002>Rest?<color_0000>{END}
+
+<unk1><Cless>
+ <Mint>! <Mint>! Get up!
+ We're under attack!
+<pause>
+<Mint>
+ ......
+<pause>
+<Mint>
+ I'm not feeling well...
+<pause>
+<Mint>
+ I think I've become seasick...
+<pause>
+<Cless>
+ (Poor <Mint> can't help,
+ being like this...){END}
+
+<Cless>
+ <Arche>! <Arche>! Get up!
+ There's an attacker on the loose!
+<pause>
+<Arche>
+ Noooooo...
+<pause>
+<Arche>
+ I feel like I've been kicked upside
+ the head by a thousand horsies...
+<pause>
+<Cless>
+ (Guess I'll be getting no help from
+ her<sweat>){END}
+
+<Klarth>
+ Urgh, hangover...
+<pause>
+<Klarth>
+ Head's throbbing...ugh...{END}
+
+Sailor
+ Ooh, I feel like crap...
+<pause>
+Sailor
+ Seasick...{END}
+
+Sailor
+ Captain wasn't there, huh?
+<pause>
+Sailor
+ Perhaps he's gone into town to run
+ some errands?
+<pause>
+Sailor
+ He should be back soon if that's the
+ case. I think...{END}
+
+Sailor
+ If you can't find the captain on
+ deck, he might be in his quarters.
+<pause>
+Sailor
+ Take a look there if you have
+ business with him.{END}
+
+Bartender
+ Welcome; have a seat.{END}
+
+Sailor
+ Something to do would be nice.
+ All this waiting is getting to me.{END}
+
+Sailor
+ Easy, let's just take it easy...{END}
+
+Sailor
+ Yo! Wanna buy somethin'?{END}
+
+Sailor
+ Thanks!
+<pause>
+Sailor
+ Heh heh heh, I'm makin' a killin'!{END}
+
+Sailor
+ C'mon, buy somethin'!{END}
+
+Sailor
+ I wonder what we're gonna be
+ transporting next.
+<pause>
+Sailor
+ Sure as hell hope it's not a load as
+ ridiculous as this one... Where are
+ we supposed to eat with all this
+ junk in the way!?{END}
+
+Sailor
+ I'm inspecting the cargo.{END}
+
+Sailor
+ I love...
+ Being a man...
+ Of the sea!{END}
+
+Sailor
+ Crates, crates, and...guess what?
+ More freaking crates!
+ This job sucks!{END}
+
+Sailor
+ What the hell's up with that guy...{END}
+
+Captain
+ Y-you!<panic>
+<pause>
+Captain
+ F-for the love of all that's holy, do
+ something about that berserker!<panic>
+<pause>
+Captain
+ He's your friend, right!?
+ If you don't calm him down, we'll
+ all be swimming with the fishes in
+ no time!<panic>{END}
+
+Sailor
+ Heee...I'm scared!
+ Mommyyyyyyyy!{END}
+
+<Cless>
+ Mayer!
+<pause>
+<Cless>
+ Get ahold of yourself!!
+<pause>
+Mayer
+ H-help me...{END}
+
+<Klarth>
+ <Cless>, are you all right!!?
+<pause>
+<Cless>
+ Like you said, Mayer was being
+ controlled...and by a monster...
+<pause>
+<Klarth>
+ I suspect it was one of Dhaos'
+ henchmen.
+<pause>
+<Klarth>
+ It probably wanted to kills us off
+ after Mayer spilled the beans to
+ me about Alvanista last night.
+<pause>
+<Klarth>
+ How's Mayer doing, anyway?{END}
+
+<Klarth>
+ Didn't make it?
+ Poor guy...
+<pause>
+<Klarth>
+ Chances are, Dhaos knows about us
+ now...
+<pause>
+<Klarth>
+ We'll have to be more cautious
+ from here on out.{END}
+
+<Klarth>
+ Hmm...
+<pause>
+<Klarth>
+ Looks like all the tables are taken...
+<pause>
+???
+ Yo! Over here!!{END}
+
+Mayer
+ How 'bout it?
+<pause>
+Mayer
+ Why don'tcha join me?
+ Got just enough seats for
+ the lot of ya, too!{END}
+
+<Klarth>
+ Don't think we have any other
+ choice.{END}
+
+Mayer
+ How 'bout a drink?
+<pause>
+Mayer
+ You're good for a pint, yeah?{END}
+
+<Klarth>
+ Hahah! Only if you're paying!<wait>{END}
+
+Mayer
+ Cheers to our chance encounter!
+<pause>
+<Klarth>
+ CHEEEERS!{END}
+
+Mayer
+ Heeey, waiter!
+ Keep 'em coming!{END}
+
+ <speed_0002><center>One hour later...<endalign>{END}
+
+<Cless>
+ They just keep chugging and
+ chugging...<sweat>{END}
+
+ <speed_0002><center>Two hours later...<endalign>{END}
+
+<Cless>
+ Hey, <Arche>!
+ Are you still with us?<sweat>{END}
+
+ <speed_0002><center>Three hours later...<endalign>{END}
+
+Mayer
+ ...and then we fffinally found that
+ elusive chest. It turned out that the
+ damn thing wasn't jusht empty--it
+ had no b-bottom to begin with!
+<pause>
+<Klarth>
+ HAH HAH HAH HAH!
+<pause>
+<Klarth>
+ Ahhh! Man, th-that's p-priceless!{END}
+
+Mayer
+ Hah! Gotta say, I lllike ya brother,
+ so I'll t-tell ya...
+<pause>
+<Klarth>
+ Yyyeah?
+<pause>
+Mayer
+ Jusht between ush y'know...
+<pause>
+<Klarth>
+ Huh? Wwwhudizzit?<wait>{END}
+
+<Klarth>
+ C'mon, youuu can tell your p-pal,
+ <Klarth>...
+<pause>
+Mayer
+ M'not g-goin' to Mmmoria.
+<pause>
+<Klarth>
+ Sssay what?<wait>{END}
+
+<Arche>
+ Ooooohh!<wait>{END}
+
+<Arche>
+ Don't do that, <Cless>...<wait>{END}
+
+<Arche>
+ No touching allowed...{END}
+
+Mayer
+ Ummm, yyyeah, uhhhh...ssso...
+<pause>
+Mayer
+ I got thish...y'know, c-contact in
+ the Adventurer's Guild...
+<pause>
+Mayer
+ ...an' I got some info I can sell
+ fer a FAT sssack of g-gald.
+ Like top secret shtuff y'know?
+<pause>
+<Klarth>
+ Hey, don't t-tease me, bro!
+<pause>
+Mayer
+ Thish ish g-g-gonna blow yer mind!
+<pause>
+Mayer
+ Alvanista seems all rrright...on the
+ surface, y'know?
+<pause>
+Mayer
+ But thing is...the thing is...Dhaos has
+ been, y'know, influencin' shtuff
+ behind the scenes, an' the place is
+ jusht 'bout under hish thumb.
+<pause>
+<Klarth>
+ What!?
+<pause>
+<Klarth>
+ Hhhowzzat?
+<pause>
+Mayer
+ Lishen, my mmman...
+<pause>
+Mayer
+ The prince...wasshisname?...Laird,
+ yeah, is the only heir, rrright...?
+<pause>
+Mayer
+ I jusht g-got some pr-proof that
+ he's bein' con-controlled by one of
+ them monshters that worksh for
+ Dhaosh.
+<pause>
+Mayer
+ I mean, why d'ya think Alvanishta
+ won't lift a finger 'gainsht him?
+ They jusht as powerful as Midgard,
+ ain't they?
+<pause>
+Mayer
+ 'M tellin' ya, makesh perfect sensh,
+ don'tcha think?<wait>{END}
+
+<Klarth>
+ That'sh...unbelievable...<wait>{END}
+
+<Arche>
+ Come oooon...<wait>{END}
+
+<unk1><Arche>
+ Hands off, hands off already...{END}
+
+Mayer
+ A-anyway, yer gonna k-keep that
+ to yyyerself, eh brother?
+<pause>
+Mayer
+ Whew...'m smashed.
+ Gotta fffind a place to crash
+ that ain't the fffloor...
+<pause>
+<Klarth>
+ You do th-that...{END}
+
+<unk1><Klarth>
+ T-time to go, <Arche>...
+ You'll be sneezing fffor a week if
+ you sleep with your face planted in
+ a p-p-puddle of b-booze...<wait>{END}
+
+<Arche>
+ You can be such a naughty boy,
+ <Cless>...<wait>{END}
+
+<Klarth>
+ Do I rrreally want to kn-know
+ jusht what the h-h-hell you're
+ dreaming about?<sweat>{END}
+
+<Klarth>
+ C-c'mon k-kid, up you gooo...{END}
+
+<color_0002><speed_0001><Arche> has earned the title
+“<var_A901>.”<color_0000>{END}
+
+<Klarth>
+ Look, <Arche>: a...a rrreal bed.<wait>{END}
+
+<Arche>
+ Yawwwwn... M'kay, g'night...{END}
+
+<Cless>
+ Oh, good morning, Mayer.
+<pause>
+<Cless>
+ Can I help you?
+<pause>
+Mayer
+ ......<wait>{END}
+
+<Klarth>
+ <Cless>, lllook o-out!!{END}
+
+<Cless>
+ <Klarth>, what did y--{END}
+
+<Klarth>
+ C'mon <Cless>, o-outside!
+<pause>
+<Klarth>
+ I think...ugh...h-he's being
+ controlled...{END}
+
+<unk1><Cless>
+ <Klarth>, are you okay!?
+<pause>
+<Klarth>
+ Ugh...
+<pause>
+<Klarth>
+ H-head's p-pounding...
+<pause>
+<Klarth>
+ Hangover of my lllife...
+<pause>
+<Cless>
+ Get better, <Klarth>.<wait>{END}
+
+<Cless>
+ I'll handle this!!{END}
+
+<Arche>
+ Ooohh, the sea breeze feels so
+ lovely!
+<pause>
+<Mint>
+ Doesn't it?{END}
+
+<unk1><Klarth>
+ Sooo... Which one's your type,
+ <Cless>?<wait>{END}
+
+<unk1><Cless>
+ W-what are you talking about?
+<pause>
+<Klarth>
+ <Mint> and <Arche>.
+ What else?
+<pause>
+<Klarth>
+ <Mint>'s lovely. So very
+ elegant, wouldn't you
+ say? But...
+<pause>
+<Klarth>
+ There's just something so...
+ vivacious...about <Arche>.
+ If you know what I mean.<wait>{END}
+
+<Cless>
+ W-wait a minute!
+<pause>
+<Cless>
+ I'm not thinking about them like
+ that!
+<pause>
+<Klarth>
+ Oh, really? Well...
+<pause>
+<Klarth>
+ If it was my choice, I'd be all
+ over--
+<pause>
+<Cless>
+ <Klarth>!<panic>
+ I can't believe you!<panic>
+<pause>
+{END}
+
+<unk1><Cless>
+ You already have Mirald, don't
+ you!?<wait>{END}
+
+<Klarth>
+ Wh-wha-what!?
+ That's the stupidest...!<panic>
+<pause>
+<Klarth>
+ Listen! She's nothing more than my
+ assistant!
+<pause>
+<Cless>
+ Oh, really? What does she assist
+ you with again?<wait>{END}
+
+<Arche>
+ Hey, hey, what'cha guys talkin'
+ about?
+<pause>
+<Klarth>
+ Th-this and that!
+<pause>
+<Klarth>
+ Basically...ahem...nothing that
+ concerns you!
+<pause>
+<Arche>
+ Awww! Tell me! Tell me!{END}
+
+???
+ Hey, are you guys by chance
+ adventurers?
+<pause>
+<Klarth>
+ Something like that.
+ How about you?
+<pause>
+???
+ Just a poor, wandering swordsman.
+ Mayer's the name.
+<pause>
+<Klarth>
+ So you're a mercenary out on a
+ job hunt?
+<pause>
+Mayer
+ Nahhh, I've got my sights set on
+ exploring the Moria Mine over in
+ Alvanista.
+<pause>
+<Cless>
+ The...Moria Mine?
+<pause>
+Mayer
+ It's the remains of an ancient
+ dwarven ore mine.
+<pause>
+Mayer
+ This the first time you've heard of
+ it?
+<pause>
+Mayer
+ Well, anyway, the guards there
+ won't let you so much as look
+ inside the place without a permit
+ from Alvanista.
+<pause>
+<Klarth>
+ Will you be able to get one?
+<pause>
+Mayer
+ Shouldn't be a problem.
+ My pals in the Adventurer's Guild
+ should make getting that painless.
+<pause>
+Mayer
+ Hey, I'm gettin' kind of hungry.
+ Think I'm gonna go inside and get
+ me some grub.
+<pause>
+Mayer
+ We should trade stories later, all
+ right? See ya!{END}
+
+<Arche>
+ ...Come to think of it, my tummy's
+ growling like a lion.
+<pause>
+<Klarth>
+ Mmm... Well, it's about dinnertime
+ anyway. Let's grab a bite for
+ ourselves.{END}
+
+<Cless>
+ This is the place, Captain.
+<pause>
+Captain
+ Here? You've got to be kidding...
+ Are you guys committing suicide?
+<pause>
+<Klarth>
+ Nope. We're just going for a little
+ trip under the sea...
+<pause>
+<Klarth>
+ Anyway, we're indebted to you for
+ all you've done for us, Captain.
+<pause>
+Captain
+ Nah, don't mention it...
+<pause>
+<Klarth>
+ Well, this is it.
+ Come forth, Maiden of Mist!{END}
+
+<var_D000>
+ What do you require of me, my
+ master?
+<pause>
+<Klarth>
+ Spirit of Water, <var_D000>!
+<pause>
+<Klarth>
+ Please guide us to the ancient city
+ of Thor, which sleeps in the depths
+ of the waters beneath us.
+<pause>
+<var_D000>
+ As you command.{END}
+
+<var_D000>
+ This bubble shall provide you with
+ safe passage to the sunken
+ metropolis. Step inside.{END}
+
+Captain
+ They sure were a strange bunch.<wait>{END}
+
+Captain
+ All right, men!
+ Raise the anchor!{END}
+
+<Arche>
+ Wow, I love traveling by ship!
+<pause>
+<Arche>
+ Nothing beats the sea breeze!{END}
+
+<Mint>
+ Everyone, please listen.
+ I have something important to say.
+<pause>
+<Cless>
+ Go on...
+<pause>
+<Mint>
+ I have been thinking about a means
+ of revitalizing Yggdrasill.
+<pause>
+<Mint>
+ Perhaps my clerical artes might be
+ one way...
+<pause>
+<Mint>
+ ...but I'm simply not powerful
+ enough to handle it alone.
+<pause>
+<Klarth>
+ Oh?
+<pause>
+<Mint>
+ Maybe if we borrowed the power
+ of the unicorn...
+<pause>
+<Cless>
+ The what?
+<pause>
+<Mint>
+ The unicorn.
+ It is the embodiment of
+ my Order's power.
+<pause>
+<Mint>
+ I believe it exists somewhere in
+ this world.
+<pause>
+<Klarth>
+ Hmm...
+<pause>
+<Klarth>
+ So if we meet this unicorn of
+ yours, it'll just gleefully hand over
+ whatever it is we need and let us
+ go on our merry way?<wait>{END}
+
+<Mint>
+ That...I don't know.
+<pause>
+<Mint>
+ I really don't know...
+<pause>
+<Cless>
+ Well, don't worry about it.
+ <var_9201>al artes are probably our only
+ hope of pulling this off.
+<pause>
+<Cless>
+ Come on, <Mint>!
+<pause>
+<Cless>
+ Let's go out and look for the
+ Unicorn! Even if we have to search
+ the four corners of the world, I
+ know we'll find it together!<wait>{END}
+
+<Mint>
+ Thank you so much, <Cless>.
+<pause>
+<Klarth>
+ Well, if that's the plan, then there's
+ no point in sticking around here
+ any longer.{END}
+
+<unk1><Cless>
+ <Klarth>, what happened...?<wait>{END}
+
+<Klarth>
+ Mayer was being controlled by a
+ monster.
+<pause>
+<Klarth>
+ It knocked you out, but we took
+ care of it.
+<pause>
+<Cless>
+ Mayer...how is he doing?{END}
+
+<Cless>
+ Oh...oh no...how awful...
+<pause>
+<Klarth>
+ It may be that Dhaos knows about
+ us...
+<pause>
+<Klarth>
+ We can't be so careless from here
+ on out.{END}
+

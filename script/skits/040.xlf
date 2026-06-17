@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_078">
+        <source>We will defeat Dhaos.</source>
+        <target state="translated">We will defeat Dhaos.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_079">
+        <source>Yes! And we'll give it our all!</source>
+        <target state="translated">Yes! And we'll give it our all!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1013">
+        <source>Whoa! Midgard's gone!</source>
+        <target state="translated">Whoa! Midgard's gone!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1014">
+        <source>It used to be home to so many...</source>
+        <target state="translated">It used to be home to so many...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1015">
+        <source>I got word it was destroyed by Dhaos,
+but had no idea it was this thoroughly.</source>
+        <target state="translated">I got word it was destroyed by Dhaos,
+but had no idea it was this thoroughly.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1016">
+        <source>So horrible...</source>
+        <target state="translated">So horrible...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1017">
+        <source>So now we have to get vengeance for Midgard.</source>
+        <target state="translated">So now we have to get vengeance for Midgard.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1018">
+        <source>We can't let Dhaos run loose any longer!</source>
+        <target state="translated">We can't let Dhaos run loose any longer!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

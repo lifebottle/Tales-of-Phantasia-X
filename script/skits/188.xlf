@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_936">
+        <source>We should focus on restoring Yggdrasill.</source>
+        <target state="translated">We should focus on restoring Yggdrasill.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_937">
+        <source>Yeah. Not many other choices, huh?</source>
+        <target state="translated">Yeah. Not many other choices, huh?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_938">
+        <source>If we don't do that while we can...</source>
+        <target state="translated">If we don't do that while we can...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_939">
+        <source>Dhaos'll just crush us like ants.</source>
+        <target state="translated">Dhaos'll just crush us like ants.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

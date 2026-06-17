@@ -1,0 +1,36 @@
+Use artes regardless of available
+TP or strength of enemy.{END}
+
+Conserve TP by only using artes to
+wear down enemies with high HP.{END}
+
+Hold position and only attack if an
+enemy begins approaching.{END}
+
+Save TP by restricting all arte usage.
+Stick exclusively to regular attacks.{END}
+
+Concentrate on defense. No artes
+or regular attacks will be used.{END}
+
+Focus exclusively on recovery artes.
+Support artes will not be used.{END}
+
+Use support artes regardless
+of available TP.{END}
+
+Support arte usage is reduced and
+proportionate to available TP.{END}
+
+Save TP by restricting all arte usage.
+Stick exclusively to regular attacks.{END}
+
+Use artes regardless of available
+TP or strength of enemy.{END}
+
+Arte usage is reduced and
+proportionate to available TP.{END}
+
+Focus on the enemy party's back
+row with artes.{END}
+

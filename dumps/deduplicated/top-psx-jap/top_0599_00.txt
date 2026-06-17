@@ -1,0 +1,192 @@
+訓練マップ{END}
+
+<Cless>
+「<Chester>・・・
+　少し休んだらどうだ」<wait>{END}
+
+<Chester>
+「<Cless>か・・・」<wait>{END}
+
+<unk1><Cless>
+<Arche>に言われた事、気にしてるのか？」{END}
+
+<Chester>
+「まあ、それもあるけどな」{END}
+
+<Chester>
+「何よりも、お前の事が気になる
+　んだよ」{END}
+
+<Cless>
+「・・・？」<wait>{END}
+
+<Chester>
+「お前と俺は、剣と弓の違いこそ
+　あれ共に修行をしてきた仲だ」<wait>{END}
+
+<Chester>
+「だが、俺とは違う時間の流れの
+　中でお前は強くなった」<wait>{END}
+
+<Chester>
+「なんだか・・・
+　焦っちまうんだよな・・・」{END}
+
+<Chester>
+「なあ、<Cless>・・・
+　トーティス村のみんなが夢に出
+　ることはあるか？」
+<pause>
+<Cless>
+「ああ・・・」<wait>{END}
+
+<Chester>
+「俺はここのところ毎晩さ」<wait>{END}
+
+<Chester>
+「村が襲われた時の事を考えると
+　眠れなくなるんだ」<wait>{END}
+
+<Chester>
+「こうして弓を射ってると、気持
+　ちが少しまぎれる・・・」{END}
+
+<unk1><Chester>
+<Cless>・・・知ってたか？」
+<pause>
+<Chester>
+アミィの奴、お前のことが好きだったんだぜ・・・」{END}
+
+この訓練によって<Chester>に経験値が加算されます。<wait>{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+
+<color_0002><Chester>は『<var_CA01>』の称号を得ました。<color_0000>{END}
+
+<Arche>
+「アンタ、何してんの？」
+<pause>
+<Chester>
+「別に」
+<pause>
+<Arche>
+「別にって・・・
+　こんな真夜中に・・・」{END}
+
+<Chester>
+「何をしようがオレの勝手だろ」
+<pause>
+<Arche>
+「・・・あたしが弱そうって言っ
+　たこと、気にしてたんだ」{END}
+
+<Chester>
+「そんなんじゃねぇよ」
+<pause>
+<Arche>
+「じゃあ、なんなのよ？」<wait>{END}
+
+<Chester>
+「なんでもないって言ってるだろ！
+　用がないんだったら、どっかへ
+　行けよ」{END}
+
+<Arche>
+「・・・・・・」
+<pause>
+<Arche>
+「・・・わかった・・・行く」{END}
+
+<Chester>
+「待てよ・・・」
+<pause>
+<Chester>
+「・・・ちょっと、強く言いすぎ
+　たよ・・・」{END}
+
+<Arche>
+「・・・あたし・・・」
+<pause>
+<Arche>
+「アンタに謝らないと・・・」{END}
+
+<Chester>
+「何か言ったか？」<wait>{END}
+
+<Arche>
+「なんでもない！」<wait>{END}
+
+<Arche>
+「言っとくけどね、風邪なんかひ
+　かないでよね！皆が迷惑するん
+　だから」
+<pause>
+<Chester>
+「そっちこそ、夜食を食いすぎて
+　腹こわすなよ！」<wait>{END}
+
+<Arche>
+「よ・け・い・な・お・世・話！」
+<pause>
+<Arche>
+「おやすみっ」{END}
+
+この訓練によって<Chester>に経験値が加算されます。{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+
+<Chester>
+「くそ・・・」{END}
+
+<Chester>
+「弱そうだぁ？」{END}
+
+<Chester>
+「ふざけんなよっ！」{END}
+
+<Chester>
+「あのバカ女！」{END}
+
+<Chester>
+「俺は足手まといになんかならな
+　い！」{END}
+
+<Chester>
+「なってたまるものかっ！」{END}
+
+<Chester>
+「今に見てろ・・・」{END}
+
+<Chester>
+「絶対に見返してやる！」{END}
+
+この訓練によって<Chester>に経験値が加算されます。
+<pause>
+{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+

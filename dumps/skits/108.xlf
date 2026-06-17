@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_494">
+        <source>We're fortunate the captain agreed to bring us.</source>
+        <target state="translated">We're fortunate the captain agreed to bring us.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_495">
+        <source>No kidding. How many would
+willingly come to such a creepy place?</source>
+        <target state="translated">No kidding. How many would
+willingly come to such a creepy place?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_496">
+        <source>Demeter's around here somewhere...</source>
+        <target state="translated">Demeter's around here somewhere...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_497">
+        <source>Yeah. Let's go knock his teeth out.</source>
+        <target state="translated">Yeah. Let's go knock his teeth out.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,2204 @@
+雑貨屋『テンダロイン』{END},General Shop “Tenderloin”{END}
+武具屋『ガーリック』{END},Weapon Shop “Garlic”{END}
+食料店『サーロイン』{END},Food Store “Sirloin”{END}
+宿屋『スパゲティー』{END},Inn “Spaghetti”{END}
+宿屋『ハンバーグ』{END},Inn “Salisbury Steak”{END}
+オリーブヴィレッジ{END},Olive Village{END}
+"村の人
+「バジリスクって知ってる？」
+<pause>
+村の人
+「砂漠にいる怪物なんだけど、こ
+　いつにやられると石になっちゃ
+　うんだってさ」{END}","Villager:<nl>
+ Hey, stranger!
+ Anyone warned you about
+ basilisks yet?
+<pause>
+Villager:<nl>
+ They're the kings of the desert.
+ Approach one that opens its eye,
+ and you'll become a stone statue!
+ Don't face them unprepared!{END}"
+"料理人
+「ポワレ作ってるかい？」{END}","Chef:<nl>
+ Have you made Tenderloin?{END}"
+"料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}","Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}"
+"料理人
+「この料理を伝授しよう！」<wait>{END}","Chef:<nl>
+ I'll teach you this dish!<wait>{END}"
+"<color_0002>ポワレを料理できるようになりまし
+た。<color_0000>{END}",<color_0002>Learned the recipe for Tenderloin.<color_0000>{END}
+"料理人
+「おお、なんということだ！」{END}","Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}"
+"料理人
+「フルーツジュース・・・作って
+　るか・・・？」{END}","Chef:<nl>
+ Have you made...Fruit Juice...?{END}"
+"料理人
+「私は『すばらしき味の世界』の
+　住人・・・」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい・・・のだが暑い・・・」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か・・・？」{END}","Chef:<nl>
+ I come from the...World of...<nl>
+ Fabulous Flavors... Oh...throat
+ burns...*hah*...*hah*
+<pause>
+Chef:<nl>
+ I wish...*hah*...for all the people
+ to...experience this...*hah*...<nl>
+ *hah*...taste...
+<pause>
+Chef:<nl>
+ Come, don't you wanna...*hah*...<nl>
+ *hah*...taste the flavors...of my
+ world...?{END}"
+"料理人
+「この料理を伝授しよう・・・」<wait>{END}","Chef:<nl>
+ I'll teach you this dish...*hah*<wait>{END}"
+"<color_0002>フルーツジュースを料理できるよう
+になりました。<wait><color_0000>{END}",<color_0002>Learned the recipe for Fruit Juice.<wait><color_0000>{END}
+"料理人
+「ああ・・・フルーツジュースが
+　飲みたいなぁ・・・」{END}","Chef:<nl>
+ *hah*...*hah*...throat's...an inferno...<nl>
+ need...Fruit Juice...{END}"
+"料理人
+「ああ・・・暑い・・・」{END}","Chef:<nl>
+ *hah*...*hah*...I'm melting... Now I
+ understand...how butter must feel...{END}"
+"村の人
+「え、精霊の話？」
+<pause>
+村の人
+「ああ、あの話ならおもしろいか
+　な」
+<pause>
+村の人
+「昔々、今のような・・・」
+<pause>
+<Cless>
+「それなら最初の部分だけ知って
+　います」
+<pause>
+<Cless>
+「続きが知りたいんですよ」
+<pause>
+<Cless>
+「世界が滅んだ後にできた国の王
+　様に月の精霊様が捕まったとこ
+　ろから・・・」
+<pause>
+村の人
+「ああ、え〜と・・・」
+<pause>
+村の人
+「月の精霊様を見つけた兵士は悩
+　んだあげく、精霊様を助けるこ
+　とにしたんだ」
+<pause>
+村の人
+「王国への反逆は極刑に値するけ
+　ど、兵士の精霊様に対する想い
+　はそれをはねのけた」
+<pause>
+村の人
+「王国に恨みを持つ人達の助けも
+　あって、兵士は精霊様を見事助
+　けだしたんだ」
+<pause>
+村の人
+「しかし国王は執拗に兵士を追い
+　かけてきた」
+<pause>
+村の人
+「結界の中には安住の地などある
+　はずもなかった」
+<pause>
+村の人
+「そこで、兵士はひとつの賭けに
+　出たんだ」
+<pause>
+村の人
+「結界の外に出ようと決心した」
+<pause>
+村の人
+「精霊様の力なら毒が充満してい
+　る外でも生きられる」
+<pause>
+村の人
+「兵士は自分の命をかけて精霊様
+　を助けようとしたんだ」
+<pause>
+村の人
+「おいらが知ってるのはここまで
+　なんだ」
+<pause>
+村の人
+「ごめんね」{END}","<Cless>:<nl>
+ Say, have you heard the Tale of
+ the Spirit?
+<pause>
+Villager:<nl>
+ Ah, yeah.
+ That's an interesting one.
+ I think it went like this:
+<pause>
+Villager:<nl>
+ Once upon time, before monst--
+<pause>
+<Cless>:<nl>
+ Wait--I already know the first
+ few parts.
+<pause>
+<Cless>:<nl>
+ Could you skip ahead to where the
+ king re-captured the Spirit of the
+ Moon after the soldier discovered
+ her in the underground ruins?
+<pause>
+Villager:<nl>
+ Hmm... Let's see... Ah, yes.
+<pause>
+Villager:<nl>
+ The soldier looked upon the Spirit
+ of the Moon with such compassion
+ that he'd commit treason to rescue
+ her.
+<pause>
+Villager:<nl>
+ He was too smitten to be
+ concerned that such an act
+ against his kingdom would
+ be punishable by death.
+<pause>
+Villager:<nl>
+ After securing the assistance of
+ rebels amongst the kingdom's
+ populace, the now ex-soldier
+ successfully freed the spirit.
+<pause>
+Villager:<nl>
+ The king responded by sending his
+ army on a relentless pursuit of the
+ two.
+<pause>
+Villager:<nl>
+ 'Twas a small world with the
+ barrier in place; there were but
+ few safe places to hide.
+<pause>
+Villager:<nl>
+ The only way to avoid detection
+ was to make a daring gamble.
+<pause>
+Villager:<nl>
+ The ex-soldier resolved to do the
+ implausible: exit the barrier.
+<pause>
+Villager:<nl>
+ He thought that, surely, the spirit
+ had the power to protect him from
+ being poisoned outside.
+<pause>
+Villager:<nl>
+ So the ex-soldier went on to carry
+ the spirit to safety, knowing well
+ the consequences on his life if he
+ had assumed wrong.
+<pause>
+Villager:<nl>
+ Annnnnd, that's as far as I know it.
+<pause>
+Villager:<nl>
+ Sorry.{END}"
+"村の人
+「ここは食料店だけど、食事も注
+　文できるんだ」{END}","Villager:<nl>
+ This grocery store has a built-in
+ cafe. It's darn convenient!{END}"
+"村の人
+「石化されても<color_0002>パナシーアボトル<color_0000>
+　で回復することができます」
+<pause>
+村の人
+「でもやっぱり事前に<color_0002>リキュール
+　ボトル<color_0000>を飲んでおいたほうがい
+　いですよ」{END}","Villager:<nl>
+ If you ever get petrified, just have
+ your friend pour a <color_0002>Panacea Bottle<color_0000>
+ over you. You'll soften right up!
+<pause>
+Villager:<nl>
+ But if you ask me, gulping down a
+ <color_0002>Liqueur Bottle<color_0000> beforehand is the
+ best way to go. An ounce of
+ prevention and all that.{END}"
+"村の人
+「石化やマヒで全滅した隊商がい
+　るそうです」
+<pause>
+村の人
+「あなたがたも気をつけた方がい
+　いですよ」{END}","Villager:<nl>
+ It's not uncommon for groups to
+ get wiped out by petrification or
+ paralysis.
+<pause>
+Villager:<nl>
+ You guys had better be prepared,
+ or you'll be next!{END}"
+"村の人
+「砂漠には炎の攻撃に耐性がある
+　怪物が多いみたいです」{END}","Villager:<nl>
+ A lot of desert creatures are
+ resistant to fire attacks.
+ Doesn't take a lot of brain power
+ to figure that out, though.{END}"
+"村の人
+「もし砂漠でバジリスクと出会っ
+　たらどうする？」
+<pause>
+村の人
+「私なら、ひたすら逃げるね」
+<pause>
+村の人
+「逃げられれば、の話だけどね」{END}","Villager:<nl>
+ Say, what would you do if you
+ encountered a basilisk in the
+ desert?
+<pause>
+Villager:<nl>
+ If it was me, I'd cluck like a
+ chicken and run away from it.
+<pause>
+Villager:<nl>
+ Assuming it's not too fast to catch
+ my tail, that is!{END}"
+"村の人
+「この村にはバジリスクと戦った
+　ことのある人はいないよ」
+<pause>
+村の人
+「そういう人は砂漠にいるよ」
+<pause>
+村の人
+「石になってるけどね・・・」{END}","Villager:<nl>
+ None of the locals dare try their
+ luck against basilisks.
+<pause>
+Villager:<nl>
+ You ever notice all the stone
+ statues strewn about the desert?
+<pause>
+Villager:<nl>
+ They're the remains of reckless
+ hotshot outsiders who thought they
+ could take them on...{END}"
+"お客
+「この店って何でこんなに人が多
+　いんだろ？」{END}","Customer:<nl>
+ What a madhouse!
+ What's everyone here for?{END}"
+"<audio_0C41>宿屋の主人
+「おや、あんたバジリスクのうろ
+　こを持ってるじゃないか」<wait>{END}","<audio_0C41>Innkeeper:<nl>
+ Oh, picked yourself some basilisk
+ scales I see.<wait>{END}"
+"宿屋の主人
+<audio_177F>「でも数が少ないねぇ」
+<pause>
+宿屋の主人
+<audio_1780>「五、六枚あればいい薬になるん
+　だけど」
+<pause>
+宿屋の主人
+<audio_1781>「ところで・・・」<wait>{END}","<audio_177F>Innkeeper:<nl>
+ Don't think that's enough, though.
+<pause>
+<audio_1780>Innkeeper:<nl>
+ I believe you'll need about five, or
+ perhaps six to yield a sufficient
+ amount of medicine from them.
+<pause>
+<audio_1781>Innkeeper:<nl>
+ That said...<wait>{END}"
+"<audio_0C42>宿屋の主人
+「一日ここで泊まっていってくれ
+　よ」
+<pause>
+<audio_0C43>宿屋の主人
+「代金はただでいいからさ」
+<pause>
+<audio_0C44>宿屋の主人
+「明日にはエドワードさん来るは
+　ずだから」
+<pause>
+<color_0002>泊まりますか？<color_0000>{END}","<audio_0C42>Innkeeper:<nl>
+ That should be enough.
+ How about you take it easy and
+ stay here for the night?
+<pause>
+<audio_0C43>Innkeeper:<nl>
+ It's on the house, so make
+ yourselves comfortable.
+<pause>
+<audio_0C44>Innkeeper:<nl>
+ Edward won't be back until
+ sometime tomorrow anyway.
+<pause>
+<color_0002>Stay?<color_0000>{END}"
+"<audio_0C45>宿屋の主人
+「さっそく村中に知らせよう」{END}","<audio_0C45>Innkeeper:<nl>
+ Right. Then I'll let the villagers
+ know about this immediately. Word
+ should reach Edward soon enough!{END}"
+"宿屋の主人
+<audio_1782>「そうか・・・」{END}","<audio_1782>Innkeeper:<nl>
+ I see...{END}"
+"<audio_0C3D>宿屋の主人
+「ところで・・・」<wait>{END}","<audio_0C3D>Innkeeper:<nl>
+ That said...<wait>{END}"
+"<audio_0C3E>宿屋の主人
+「いらっしゃい、泊まるかね？」
+<pause>
+<audio_0C3F>宿屋の主人
+「一晩<num1_00000054>ガルドになりやすぜ」{END}","<audio_0C3E>Innkeeper:<nl>
+ Welcome.
+ Would you like to stay?
+<pause>
+<audio_0C3F>Innkeeper:<nl>
+ It's <num1_00000054> gald for one night.{END}"
+"宿屋の主人
+<audio_1783>「お客さん、お金足りないよ」{END}","<audio_1783>Innkeeper:<nl>
+ This is not enough, good sir.{END}"
+"<audio_0C40>宿屋の主人
+「ごゆっくり」{END}","<audio_0C40>Innkeeper:<nl>
+ Take it easy.{END}"
+"宿屋の主人
+<audio_1784>「また来てくれよ」{END}","<audio_1784>Innkeeper:<nl>
+ Come again.{END}"
+"食材屋
+「いらっしゃいませ、何にします
+　か？」{END}","Clerk:<nl>
+ Welcome to Sirloin.
+ Can I get you anything?{END}"
+"食材屋
+「ありがとうございます」{END}","Clerk:<nl>
+ Thank you very much.{END}"
+"雑貨屋
+「らっしゃい」{END}","Clerk:<nl>
+ Welcome to Tenderloin.{END}"
+"雑貨屋
+「どうも」{END}","Clerk:<nl>
+ Come again.{END}"
+"薬屋
+「いらっしゃい」{END}","Pharmacist:<nl>
+ Welcome to Lil' Nymph.{END}"
+"薬屋
+「ご入り用の薬はございましたで
+　しょうか？」{END}","Pharmacist:<nl>
+ Did we have all the medicine you
+ were looking for?{END}"
+"薬屋
+「よく入ってこれたね」
+<pause>
+薬屋
+「いいこと教えてあげる」
+<pause>
+薬屋
+「宝箱の中には良い物が入ってる
+　みたいよ」
+<pause>
+薬屋
+「でも、宝箱のアイテムをゲット
+　できるチャンスは一度しかない
+　んだってさ・・・」{END}","Pharmacist:<nl>
+ Since you found the way back here,
+ I'll let you in on something nice.
+<pause>
+Pharmacist:<nl>
+ Yeah, so, I guess the warehouse
+ manager stuffed some spiffy
+ things inside these treasure chests.
+<pause>
+Pharmacist:<nl>
+ She probably won't let you back
+ here again, so this might be your
+ only chance to bag all the goods...{END}"
+"武器屋
+「いらっしゃい、アルヴァニスタ
+　からの輸入品だよ」{END}","Owner:<nl>
+ Welcome to Garlic.
+ All of our products are genuine
+ imports from Alvanista!{END}"
+"武器屋
+「らっしゃい！」
+<pause>
+武器屋
+「ここはミッドガルズとアルヴァ
+　ニスタ中継地点みたいな所だか
+　ら、いいのそろってるよ」{END}","Owner:<nl>
+ C'mon in!
+<pause>
+Owner:<nl>
+ Since we're on the border of
+ Alvanista and Midgard, we get all
+ the best stuff from both!{END}"
+"武器屋
+「どうも〜」{END}","Owner:<nl>
+ Come again!{END}"
+"店員
+「らっしゃい」
+<pause>
+店員
+「別に俺は船乗りじゃないよ」
+<pause>
+店員
+「これはオレ流のファッションな
+　んだよ」{END}","Assistant:<nl>
+ C'mon in.
+<pause>
+Assistant:<nl>
+ Huh? My clothes?
+ I'm not actually a sailor
+ or anything.
+<pause>
+Assistant:<nl>
+ I just like their style!{END}"
+"村の人
+「ここから東にある洞窟は精霊様
+　が住んでいるといわれているん
+　だ」
+<pause>
+村の人
+「でも中は溶岩地獄」
+<pause>
+村の人
+「かなりの暑さらしいよ」{END}","Villager:<nl>
+ I guess a spirit lives in the cave to
+ the east or something.
+<pause>
+Villager:<nl>
+ It's a hellish place brimming with
+ lava.
+<pause>
+Villager:<nl>
+ Think you can take the heat?{END}"
+"村の人
+「いや〜、暑いね〜」{END}","Villager:<nl>
+ Maaaaaan, I swear it's like an oven
+ out here.{END}"
+"村の人
+「エドワードっていう人なら、こ
+　こから南東にあるオアシスへ行
+　くって言ってたけど」{END}","Villager:<nl>
+ I think Edward went to the oasis
+ southeast of here.{END}"
+"旅人
+「エドワード？」
+<pause>
+旅人
+「ああ、ここから北のオアシスに
+　行ったよ」{END}","<Mint>:<nl>
+ I apologize for disturbing you, sir,
+ but have you seen a man named
+ Edward recently?
+<pause>
+Traveler:<nl>
+ Yeah, you just missed him.
+ He went to the oasis northeast
+ of here.{END}"
+"旅人
+「いや〜、休まるね〜」{END}","Traveler:<nl>
+ Ahh...<nl>
+ It's so relaxing here.{END}"
+"<Cless>
+「すみません、ここにエドワード
+　という人が来ませんでしたか？」
+<pause>
+おじいさん
+「はぁ？」
+<pause>
+おじいさん
+「何じゃ？」
+<pause>
+<Cless>
+「ですから、エドワードという人
+　がここに来ませんでしたか？」
+<pause>
+おじいさん
+「何じゃと、カタツムリがどうか
+　したか？」
+<pause>
+<Cless>
+「ええっ、カタツムリ？」
+<pause>
+おじいさん
+「今、エスカルゴと言ったではな
+　いか」
+<pause>
+<Cless>
+「エドワードです！」
+<pause>
+<Cless>
+「一文字しか合ってないじゃない
+　ですか！」
+<pause>
+おじいさん
+「冗談じゃ」
+<pause>
+おじいさん
+「エドワードなら、さらに北にあ
+　るオアシスへ行ったわい」{END}","<Cless>:<nl>
+ Excuse me, but I was wondering if
+ you've seen a man named Edward
+ come through here.
+<pause>
+Old Man:<nl>
+ Huh?
+<pause>
+Old Man:<nl>
+ Say that again?
+<pause>
+<Cless>:<nl>
+ I was wondering if a man called
+ Edward came through here.
+<pause>
+Old Man:<nl>
+ Eh, you makin' fun of me?
+<pause>
+<Cless>:<nl>
+ Umm, what?
+<pause>
+Old Man:<nl>
+ You called me absurd just now,
+ didn't you?
+<pause>
+<Cless>:<nl>
+ No, I said “EDWARD”!
+<pause>
+<Cless>:<nl>
+ I'm! Looking! For! Edward!
+<pause>
+Old Man:<nl>
+ Calm down, boy.
+ I'm kidding.
+<pause>
+Old Man:<nl>
+ Edward's gone to the oasis to the
+ northwest of here.{END}"
+"おじいさん
+「どうじゃ、えどっこは見つかっ
+　たか？」
+<pause>
+<Cless>
+「エドワードです！」{END}","Old Man:<nl>
+ So, did you find Edwin?
+<pause>
+<Cless>:<nl>
+ E-D-W-A-R-D!!! EDWARD!!{END}"
+"村の人
+「あぢ〜・・・」{END}","Villager:<nl>
+ Sooo hot...<nl>
+ I'm sweatin' up a storm...{END}"
+"若者
+「エドワード？」
+<pause>
+若者
+「あの人ならオリーブヴィレッジ
+　に戻るって言ってたよ」
+<pause>
+<Arche>
+「行き違いになっちゃったみたい
+　だね」
+<pause>
+<Cless>
+「よし、急いで戻ろう」{END}","<Arche>:<nl>
+ Hey there, mister <heart>
+ Have you seen Edward around?
+<pause>
+Young Man:<nl>
+ He was here a few minutes ago.
+ He said he was on his way back to
+ Olive Village.
+<pause>
+<Arche>:<nl>
+ Booo...<nl>
+ He's always a step ahead of us.
+<pause>
+<Cless>:<nl>
+ Ugh, okay. Let's turn around.
+ If we're fast enough, maybe we
+ can catch up this time.{END}"
+"<Cless>
+「このオアシスには、ブッシュベ
+　イビーが、たくさん住んでいま
+　すね？」
+<pause>
+若者
+「ああ、あれはみんな僕の友達な
+　んだ」{END}","<Cless>:<nl>
+ There sure are a lot
+ of bush babies here.
+<pause>
+Young Man:<nl>
+ That's because they're my friends,
+ you see.{END}"
+"村の人
+「燃えている奴には水をぶっかけ
+　るのが一番さ」{END}","Villager:<nl>
+ The next time I run into one of
+ those hotheaded bastards, they're
+ gettin' a bucket of water to the
+ face!{END}"
+"村の人
+「名工ギースって知ってるか？」
+<pause>
+村の人
+「こぶしで鋼を鍛えるって有名で
+　『鉄拳ギース』って呼ばれてた
+　んだ」
+<pause>
+村の人
+「けど、どっかへ行っちまったん
+　だ」{END}","Villager:<nl>
+ Have you ever heard of Aegis, the
+ master craftsman?
+<pause>
+Villager:<nl>
+ He was given the nickname
+ “Adamant Aegis” for his
+ incredible ability to forge
+ steel with his bare fists.
+<pause>
+Villager:<nl>
+ I don't know what happened,
+ but he suddenly disappeared.
+ Wonder where to...{END}"
+"村の人
+「暑いねぇ〜」
+<pause>
+村の人
+「氷に包まれた大陸に町があるん
+　だってさ」
+<pause>
+村の人
+「こんな暑い所から、そこへ引っ
+　越したいね」{END}","Villager:<nl>
+ Today's yet another scorcher...
+<pause>
+Villager:<nl>
+ Maybe I should look into the town I
+ heard about that was built on an
+ icy continent.
+<pause>
+Villager:<nl>
+ A life there would surely be a
+ lovely change of pace from this
+ miserable sauna.{END}"
+"村の人
+「エルフの集落の奥のトレントの
+　森、エルフの聖域ヘイムダール
+　には精霊様がいるんだ」
+<pause>
+村の人
+「超古代の古文書には伝説っぽく
+　書いてあったけど、本当に存在
+　するんだよ」
+<pause>
+村の人
+「本当だよ」{END}","Villager:<nl>
+ Beyond the Elven Settlement, and
+ within the Treant Forest, lies
+ Heimdall; a sacred elven site where
+ a spirit sleeps.
+<pause>
+Villager:<nl>
+ It's said to be a legend in an
+ ancient file, but the spirit actually
+ exists!
+<pause>
+Villager:<nl>
+ I'm not pulling your leg!{END}"
+"村の人
+「ギースさんは人目を避けて、と
+　ある小島へ移り住んだっていう
+　話ですよ」{END}","Villager:<nl>
+ Word is, Aegis actually moved to a
+ small island to get out of the
+ public's eye.{END}"
+"村の人
+「砂漠を、緑豊かな土地に変える
+　方法はないものだろうか・・・」{END}","Villager:<nl>
+ I wonder if there's a way to
+ transform endless acres of desert
+ sand into fertile soil...{END}"
+"薬師（くすし）
+「ここの薬は<speed_0010>す・べ・て<speed_FFFF>、私の手
+　作りよ」
+<pause>
+薬師
+「すごいでしょ」{END}","Herbalist:<nl>
+ I made <speed_0010>A L L <speed_FFFF>the medicine
+ here by myself!
+<pause>
+Herbalist:<nl>
+ I'm very proud of it!{END}"
+"卵売り
+「卵いらんかね〜」
+<pause>
+卵売り
+「産みたての卵だよ〜」
+<pause>
+卵売り
+「一つ２０ガルドだよ〜」
+<pause>
+<color_0002>卵を買いますか？<color_0000>{END}","Egg Seller:<nl>
+ Heya, need some eggs?
+<pause>
+Egg Seller:<nl>
+ They're all nice and freshly laid!
+<pause>
+Egg Seller:<nl>
+ All yers fer 20 gald apiece!
+<pause>
+<color_0002>Buy an egg?<color_0000>{END}"
+"卵売り
+「また今度買ってねぇ〜」{END}","Egg Seller:<nl>
+ Come back and buy more, y'hear?{END}"
+"卵売り
+「お金足りないよ〜」{END}","Egg Seller:<nl>
+ Yer short on money.{END}"
+"卵売り
+「それ以上持てないじゃん」{END}","Egg Seller:<nl>
+ It seems ya can't hold any more.{END}"
+"卵売り
+「ありがとやんした〜」{END}","Egg Seller:<nl>
+ Much obliged!{END}"
+"剣士
+「心頭滅却すれば火もまた涼し」{END}","Swordsman:<nl>
+ Focus your mind and you shall feel
+ cool amidst even the fiercest of
+ flames.{END}"
+"剣士
+「君、剣士か？」
+<pause>
+剣士
+「この奥義書を買わぬか？」
+<pause>
+<Cless>
+「え、奥義書！？」
+<pause>
+剣士
+「買ってはみたものの、私には使
+　いこなせそうにない」
+<pause>
+剣士
+「どうだ、４００００ガルドでい
+　いが」
+<pause>
+<color_0002>買いますか？<color_0000>{END}","Swordsman:<nl>
+ Oh, if isn't a fellow swordsman.
+<pause>
+Swordsman:<nl>
+ I've got a spare arcane arte book
+ for sale...
+<pause>
+<Cless>:<nl>
+ Huh? An arcane arte book!?
+<pause>
+Swordsman:<nl>
+ It's useless to me.
+ I picked it up some time ago,
+ but I don't know any of the
+ prerequisite base artes...
+<pause>
+Swordsman:<nl>
+ It was pretty expensive.
+ My price is 40000 gald.
+<pause>
+<color_0002>Buy it?<color_0000>{END}"
+"剣士
+「むぅ、そうか・・・」{END}","Swordsman:<nl>
+ Oh, too bad...{END}"
+"剣士
+「金が足りぬぞ！」{END}","<Cless>:<nl>
+ Um...<nl>
+ I don't seem enough have enough<sweat>
+ Sorry sir, but I'll have to pass for
+ now.{END}"
+"<color_0002><Cless>は<var_A000>を覚えました。<color_0000>
+<pause>
+剣士
+「恩にきるぞ」{END}","<color_0002><Cless> learned
+<var_A000>.<color_0000>
+<pause>
+Swordsman:<nl>
+ You have my gratitude.{END}"
+"おばあさん
+「ここから東の溶岩地帯に塔があ
+　るじゃろう」
+<pause>
+おばあさん
+「あそこの中は灼熱地獄で、生き
+　て帰った者はおらんという話な
+　んじゃ」
+<pause>
+おばあさん
+「じゃがそれだけ価値のあるお宝
+　が眠っているとも考えられるが
+　のぅ・・・」
+<pause>
+おばあさん
+「フェッフェッフェ・・・」{END}","Old Woman:<nl>
+ There's a tower in the lava field
+ east of here.
+<pause>
+Old Woman:<nl>
+ The inside is a raging inferno.
+ In all my years, I've never heard
+ of anyone returning from it alive.
+<pause>
+Old Woman:<nl>
+ To think of the piles and piles of
+ precious, undiscovered treasure
+ lying around...
+<pause>
+Old Woman:<nl>
+ Hweh heh heh...{END}"
+"村の人
+「熱砂の洞窟の怪物は、炎の弓を
+　持っているらしいぜ」{END}","Villager:<nl>
+ A monster in the Cave of Searing
+ Sand carries a bow of flame.{END}"
+"村の人
+「この大陸は超古代の大国のオー
+　ディーンによって統治されたっ
+　ていう話だ」
+<pause>
+村の人
+「しかし、当時の戦争のせいで砂
+　漠の大陸になってしまったんだ
+　とさ」
+<pause>
+村の人
+「考古学者から聞いたんだ」{END}","Villager:<nl>
+ This continent used to be ruled by
+ the ancient superpower of Odin.
+<pause>
+Villager:<nl>
+ But a loooong time ago, it was
+ ravaged by war so badly that it
+ eventually turned into a desert.
+<pause>
+Villager:<nl>
+ I learned all of this from an
+ archaeologist.{END}"
+"収集家
+「ねぇ、あなた・・・」
+<pause>
+収集家
+「<item_8B01>持ってない？」<wait>{END}","Collector:<nl>
+ Hey guy...
+<pause>
+Collector:<nl>
+ Do you have a <item_8B01>!?<wait>{END}"
+"収集家
+「あっ、持ってるじゃない！」
+<pause>
+収集家
+「私の<item_8A01>と、交換
+　しましょうよ」{END}","<Klarth>:<nl>
+ Why yes, I do.
+<pause>
+Collector:<nl>
+ I've gotta have it!
+ Then you can have one of my
+ <item_8A01>s for it!{END}"
+"収集家
+「これで、私のコレクションも、
+　更に充実するわ！」<wait>{END}","Collector:<nl>
+ Yesss!
+ I've got the whole set now!<wait>{END}"
+<color_0002><item_8A01>を手に入れました。<color_0000>{END},<color_0002>Acquired the <item_8A01>.<color_0000>{END}
+"収集家
+「あなたも、<item_8A01>を
+　たくさん持っているじゃない」{END}","Collector:<nl>
+ Your pockets are overflowing with
+ (c)Statues of Bravery too, huh?{END}"
+"収集家
+「気が変わったら、声をかけてね」{END}","Collector:<nl>
+ Aww, no way!
+ Well, y'know where to find
+ me if you change your mind.{END}"
+"収集家
+「<item_8B01>を探してるの
+　よね・・・」{END}","Collector:<nl>
+ I've been looking all over for one...{END}"
+"村の人
+「バジリスクと戦うなら<color_0002>リキュー
+　ルボトル<color_0000>を持っていくことです
+　ね」{END}","Man:<nl>
+ If you meet a basilisk, you'd best
+ chug a <color_0002>Liqueur Bottle<color_0000> if you want
+ to live.{END}"
+"『バジリスク退治の勇者、ここに
+　眠る』{END}","“Here Lies The Heroic Basilisk
+Exterminator”{END}"
+"こちらは裏側なので、誰の墓かは
+わからない。{END}","(There's nothing engraved on the
+back.){END}"
+"<audio_0C4C>エドワード
+「私の名字はモリスンだが」
+<pause>
+<audio_0C4D>エドワード
+「そんなにおどろいてどうしたの
+　かね？」
+<pause>
+<audio_0C4E><Cless>＆<Mint>
+「あああ、あ、あの・・・」
+<pause>
+<audio_0C4F><Klarth>
+「ニ人とも変だぞ」<wait>{END}","<audio_0C4C>Edward:<nl>
+ Yes, my surname is Morrison, but...
+<pause>
+<audio_0C4D>Edward:<nl>
+ Why is that such a shock to you?
+<pause>
+<audio_0C4E><Cless> & <Mint>:<nl>
+ Ahhh, um, um...
+<pause>
+<audio_0C4F><Klarth>:<nl>
+ You two look like you're facing a
+ ghost.<wait>{END}"
+"<audio_0C50><Klarth>
+「エドワードさん、うろこの話の
+　前にこの手紙を」
+<pause>
+<audio_0C51>エドワード
+「グロムからの紹介？」
+<pause>
+<audio_0C52>エドワード
+「こんな所まで来るなんて、わけ
+　ありか？」
+<pause>
+<audio_0C53><Klarth>
+「はい、話は部屋で・・・」{END}","<audio_0C50><Klarth>:<nl>
+ Edward, before we talk about the
+ scales, please read this letter.
+<pause>
+<audio_0C51>Edward:<nl>
+ An introduction from the 'Grom, is
+ it?
+<pause>
+<audio_0C52>Edward:<nl>
+ Then you must have a good reason
+ to follow me this far.
+<pause>
+<audio_0C53><Klarth>:<nl>
+ Indeed.
+ Let's talk somewhere
+ more private...{END}"
+"<audio_0C54>エドワード
+「ほぉ！」
+<pause>
+<audio_0C55>エドワード
+「レアード王子を助けたのは君達
+　だったのか」
+<pause>
+<audio_0C56><Klarth>
+「ええ、その後しっかり捕まりま
+　したがね」
+<pause>
+<audio_0C57>エドワード
+「ハッハッハ、オチまでついてる
+　のか」
+<pause>
+<audio_0C58>エドワード
+「まあ、話はだいたいわかった」
+<pause>
+<audio_0C59><Klarth>
+「で、何か良い方法は？」
+<pause>
+<audio_0C5A>エドワード
+「また指輪を見つけるよりも手っ
+　取り早い方法があるぞ」
+<pause>
+<audio_0C5B>エドワード
+「この壊れた指輪、見た所相当強
+　力な精霊と契約するための物の
+　ようだ」
+<pause>
+<audio_0C5C>エドワード
+「だが、同じ物は二度と手に入ら
+　んだろう」
+<pause>
+<audio_0C5D>エドワード
+「何しろ今は亡きドワーフ族とエ
+　ルフの合作だからな」
+<pause>
+<audio_0C5E><Klarth>
+「つまり？」
+<pause>
+<audio_0C5F>エドワード
+「ユミルの森でエルフに会ってみ
+　るといいだろう」
+<pause>
+<audio_0C60>エドワード
+「修復する方法がきっとあるはず
+　だ」
+<pause>
+<audio_0C61><Klarth>
+「エルフ達の！？」
+<pause>
+<audio_0C62><Klarth>
+「とても入れませんよ！」
+<pause>
+<audio_0C63>エドワード
+「ルーングロムに頼めばいい」
+<pause>
+<audio_0C64>エドワード
+「アルヴァニスタの紹介状があれ
+　ば大丈夫だ」
+<pause>
+<audio_0C65><Klarth>
+「はぁ・・・」
+<pause>
+<audio_0C66>エドワード
+「それじゃあバジリスクのうろこ
+　はありがたくもらっていくよ」
+<pause>
+<audio_0C67>エドワード
+「私は戦争が起こるまでに仲間を
+　集めてミッドガルズに向かうつ
+　もりだ」
+<pause>
+<audio_0C68>エドワード
+「できれば・・・」
+<pause>
+<audio_0C69><Klarth>
+「えっ？」
+<pause>
+<audio_0C6A>エドワード
+「できれば君達のような、頼りに
+　なる者にも協力して欲しいんだ
+　が・・・」
+<pause>
+<audio_0C6B>エドワード
+「無理強いできることではないか
+　らな」
+<pause>
+<audio_0C6C>エドワード
+「それじゃ機会があれば、またど
+　こかでお会いしよう」{END}","<audio_0C54>Edward:<nl>
+ Aha!
+<pause>
+<audio_0C55>Edward:<nl>
+ So you were the ones who saved
+ Prince Laird.
+<pause>
+<audio_0C56><Klarth>:<nl>
+ Yep, and they showed us their
+ gratitude by throwing us in the
+ slammer!
+<pause>
+<audio_0C57>Edward:<nl>
+ Hah hah hah, saved the punchline
+ for last, did you?
+<pause>
+<audio_0C58>Edward:<nl>
+ Well, anyway, I understand the gist
+ of your story.
+<pause>
+<audio_0C59><Klarth>:<nl>
+ So what would you recommend we
+ do about these rings?
+<pause>
+<audio_0C5A>Edward:<nl>
+ They appear to be suitable for
+ pacts with mighty spirits, indeed.
+<pause>
+<audio_0C5B>Edward:<nl>
+ Going out to find replacements will
+ be no easy task...
+<pause>
+<audio_0C5C>Edward:<nl>
+ ...as such things are one-of-a-kind.
+ But don't lose hope.
+<pause>
+<audio_0C5D>Edward:<nl>
+ Pact Rings are the fruit of
+ collaborative work of the elves
+ and the late dwarven race.
+<pause>
+<audio_0C5E><Klarth>:<nl>
+ What are you getting at, exactly?
+<pause>
+<audio_0C5F>Edward:<nl>
+ Your best bet is to go meet the
+ elves of Ymir Forest.
+<pause>
+<audio_0C60>Edward:<nl>
+ If anyone in this world would know
+ how to repair these, it's them.
+<pause>
+<audio_0C61><Klarth>:<nl>
+ The elves!?
+<pause>
+<audio_0C62><Klarth>:<nl>
+ There's no way they'd let us into
+ their settlement!
+<pause>
+<audio_0C63>Edward:<nl>
+ Just ask Lundgrom.
+<pause>
+<audio_0C64>Edward:<nl>
+ If Alvanista vouches for you, they
+ shouldn't give you any grief.
+<pause>
+<audio_0C65><Klarth>:<nl>
+ Hmm...
+<pause>
+<audio_0C66>Edward:<nl>
+ Well, then. I gratefully accept your
+ basilisk scales.
+<pause>
+<audio_0C67>Edward:<nl>
+ Also, I intend to gather companions
+ before war breaks out in Midgard.
+<pause>
+<audio_0C68>Edward:<nl>
+ If possible...
+<pause>
+<audio_0C69><Klarth>:<nl>
+ Huh?
+<pause>
+<audio_0C6A>Edward:<nl>
+ Well, to be frank, I was hoping
+ those companions would be
+ yourselves, but...
+<pause>
+<audio_0C6B>Edward:<nl>
+ I can't make that decision for you.
+<pause>
+<audio_0C6C>Edward:<nl>
+ Well, may we meet again if the
+ opportunity presents itself.{END}"
+"<audio_0C6D><Cless>
+「モリスンさん！」<wait>{END}","<audio_0C6D><Cless>:<nl>
+ Mr. Morrison!
+ Please wait!<wait>{END}"
+"<audio_0C6E>モリスン
+「まだ何か？」
+<pause>
+<audio_0C6F><Cless>
+「これを見て下さい」
+<pause>
+<audio_0C70><Cless>
+「きっと役に立ちますから」{END}","<audio_0C6E>Morrison:<nl>
+ Is there something else?
+<pause>
+<audio_0C6F><Cless>:<nl>
+ Take a look at this.
+<pause>
+<audio_0C70><Cless>:<nl>
+ I'm sure it'll help you!{END}"
+"<audio_0C71>モリスン
+「ずいぶん古びた本だね」
+<pause>
+<audio_0C72>モリスン
+「・・・・・・」
+<pause>
+<audio_0C73>モリスン
+「ん、これは？」
+<pause>
+<audio_0C74>モリスン
+「私の字か？」
+<pause>
+<audio_0C75>モリスン
+「えっ、私のサイン？」
+<pause>
+<audio_0C76><Cless>
+「トリニクス＝Ｄ＝モリスン」
+<pause>
+<audio_0C77><Cless>
+「この本を僕に託してくれた人の
+　名です」
+<pause>
+<audio_0C78>モリスン
+「モリスンだって？」
+<pause>
+<audio_0C79><Cless>
+「あなたの子孫です」
+<pause>
+<audio_0C7A><Cless>
+「僕は、未来の世界からこの時代
+　に飛ばされて来たんです」
+<pause>
+<audio_0C7B>モリスン
+「時間転移？」
+<pause>
+<audio_0C7C>モリスン
+「フッ、ハハハハハッ」
+<pause>
+<audio_0C7D>モリスン
+「冗談はよしてくれ、この私さえ
+　まだ研究中なのに」
+<pause>
+<audio_0C7E><Cless>
+「だから、きっとその研究が実っ
+　て未来のモリスンさんが」
+<pause>
+<audio_0C7F>モリスン
+「仮に君の言ったとおりだとして
+　も、私はこの本を読みたくはな
+　いな」
+<pause>
+<audio_0C80><Cless>
+「えっ？」{END}","<audio_0C71>Morrison:<nl>
+ Well now, it's quite worn, isn't it?
+<pause>
+<audio_0C72>Morrison:<nl>
+ ......
+<pause>
+<audio_0C73>Morrison:<nl>
+ Hmm, is this...
+<pause>
+<audio_0C74>Morrison:<nl>
+ ...my handwriting!?
+<pause>
+<audio_0C75>Morrison:<nl>
+ My signature, as well!?
+<pause>
+<audio_0C76><Cless>:<nl>
+ The man who entrusted us with
+ this book...
+<pause>
+<audio_0C77><Cless>:<nl>
+ ...is named Trinicus D. Morrison.
+<pause>
+<audio_0C78>Morrison:<nl>
+ “Morrison,” you say?
+<pause>
+<audio_0C79><Cless>:<nl>
+ He's your descendant.
+<pause>
+<audio_0C7A><Cless>:<nl>
+ We've been thrown here across
+ time. We came from the future.
+<pause>
+<audio_0C7B>Morrison:<nl>
+ By time travel?
+<pause>
+<audio_0C7C>Morrison:<nl>
+ Hmph, hahahahahah!
+<pause>
+<audio_0C7D>Morrison:<nl>
+ Cut the jokes.
+ I'm still researching that.
+<pause>
+<audio_0C7E><Cless>:<nl>
+ That must mean you completed it,
+ and the future Morrison--
+<pause>
+<audio_0C7F>Morrison:<nl>
+ Well, if what you say is true, then I
+ should by no means read this book!
+<pause>
+<audio_0C80><Cless>:<nl>
+ Huh...?{END}"
+"<unk1><audio_0C81><Mint>
+<Arche>さんには、まだお話ししていなかったのですが・・・」
+<pause>
+<audio_0C82><Mint>
+私と<Cless>さんは１００年後の未来から時間転移して、この世界に来ました」
+<pause>
+<audio_0C83><Mint>
+信じていただけますか？」<wait>{END}","<unk1><audio_0C81><Mint>:<nl>
+ <Arche>, I haven't spoken to you
+ about this yet, but...
+<pause>
+<audio_0C82><Mint>:<nl>
+ <Cless> and I are from the
+ world of a hundred years
+ into the future.
+<pause>
+<audio_0C83><Mint>:<nl>
+ I know it's hard to believe, but...<wait>{END}"
+"<audio_0C84><Arche>
+「ほえ？」
+<pause>
+<audio_0C85><Arche>
+「ってゆ〜ことは・・・」
+<pause>
+<audio_0C86><Arche>
+「つまり・・・」{END}","<audio_0C84><Arche>:<nl>
+ Whuh?
+<pause>
+<audio_0C85><Arche>:<nl>
+ Sooo, in other words...
+<pause>
+<audio_0C86><Arche>:<nl>
+ That means...{END}"
+"<audio_0C87><Arche>
+「あたしってば１００才も、おば
+　あちゃんなわけ？」<wait>{END}","<audio_0C87><Arche>:<nl>
+ ...I'm like, a wrinkly century-old
+ granny in your world, then?<wait>{END}"
+"<audio_0C88><Mint>
+「エドワードさんの子孫にあたる
+　人の力で・・・」{END}","<audio_0C88><Mint>:<nl>
+ Edward's descendant sent us back
+ here with his power...{END}"
+"<audio_0C89>モリスン
+「君は戦争の結果を知ってるんだ
+　ろう？」
+<pause>
+<audio_0C8A>モリスン
+「この後に起こることや、行く末
+　も・・・」
+<pause>
+<audio_0C8B>モリスン
+「でも私は、全てを知ってあきら
+　めるようなことはしたくないの
+　でね・・・」
+<pause>
+<audio_0C8C>モリスン
+「君だって親友や、その私の子孫
+　とやらを助けるために行動して
+　いるんだろう？」
+<pause>
+<audio_0C8D>モリスン
+「歴史を変えるために・・・」
+<pause>
+<audio_0C8E>モリスン
+「私だって同じ気持ちだ」
+<pause>
+<audio_0C8F>モリスン
+「たとえ、どのような結果になろ
+　うともね」<wait>{END}","<audio_0C89>Morrison:<nl>
+ I suppose this means you know the
+ outcome of the war.
+<pause>
+<audio_0C8A>Morrison:<nl>
+ Not only that, but what happens
+ afterward and beyond...
+<pause>
+<audio_0C8B>Morrison:<nl>
+ I would prefer not to
+ know how it all ends up.
+ There would be little reason
+ to go on if I did...
+<pause>
+<audio_0C8C>Morrison:<nl>
+ You're working to save my
+ descendant and your good
+ friend, are you not?
+<pause>
+<audio_0C8D>Morrison:<nl>
+ Yes, you wish to change history...
+<pause>
+<audio_0C8E>Morrison:<nl>
+ I feel the same way.
+<pause>
+<audio_0C8F>Morrison:<nl>
+ Even if we cannot fathom the
+ results...<wait>{END}"
+"<audio_0C90><Cless>
+「僕はそこまでは言って・・・」
+<pause>
+<audio_0C91>モリスン
+「いや、君も私と同じ気持ちのは
+　ずだ」
+<pause>
+<audio_0C92>モリスン
+「君がダオスを倒そうとしている
+　こと自体が、その証拠だろう」
+<pause>
+<audio_0C93><Cless>
+「・・・・・・」{END}","<audio_0C90><Cless>:<nl>
+ I never said anything like--
+<pause>
+<audio_0C91>Morrison:<nl>
+ Oh, I'm sure you feel very much
+ the same as I.
+<pause>
+<audio_0C92>Morrison:<nl>
+ The proof lies within our common
+ goal of defeating Dhaos.
+<pause>
+<audio_0C93><Cless>:<nl>
+ ......{END}"
+"<audio_0C94><Cless>
+「モリスンさん！」
+<pause>
+<audio_0C95><Cless>
+「ミッドガルズで待っていて下さ
+　い」
+<pause>
+<audio_0C96><Cless>
+「きっと会いに行きます！」
+<pause>
+<audio_0C97><Cless>
+「僕達も力になります！」<wait>{END}","<audio_0C94><Cless>:<nl>
+ Mr. Morrison!
+<pause>
+<audio_0C95><Cless>:<nl>
+ Please wait at Midgard for us.
+<pause>
+<audio_0C96><Cless>:<nl>
+ We'll meet up with you there...
+<pause>
+<audio_0C97><Cless>:<nl>
+ ...and join forces!<wait>{END}"
+"<audio_0C98>モリスン
+「君達は・・・」
+<pause>
+<audio_0C99>モリスン
+「未来に、自分の時代に帰るアテ
+　はあるのかい？」
+<pause>
+<audio_0C9A><Cless>
+「それも解決しないといけないこ
+　となんです・・・」
+<pause>
+<audio_0C9B>モリスン
+「よし、今度会う時までに、私が
+　何とかしておこう」
+<pause>
+<audio_0C9C>モリスン
+「子孫にできて、私にできないわ
+　けないからね」
+<pause>
+<audio_0C9D>モリスン
+「フフ、本当は転移の研究はあき
+　らめかけていたんだ」
+<pause>
+<audio_0C9E><Cless>
+「がんばって下さい！」
+<pause>
+<audio_0C9F>モリスン
+「ああ、お互いにね」{END}","<audio_0C98>Morrison:<nl>
+ Before I go...
+<pause>
+<audio_0C99>Morrison:<nl>
+ Do you have any means of
+ returning to your own time?
+<pause>
+<audio_0C9A><Cless>:<nl>
+ Actually, we're still trying to figure
+ that out...
+<pause>
+<audio_0C9B>Morrison:<nl>
+ All right.
+ Next time we meet, I'll
+ see what I can do.
+<pause>
+<audio_0C9C>Morrison:<nl>
+ I believe that if my descendant can
+ send you back here, there's no
+ reason I couldn't do the same in
+ reverse.
+<pause>
+<audio_0C9D>Morrison:<nl>
+ Heh heh, to think...<nl>
+ I was actually just about to give
+ up on my time travel research, too.
+<pause>
+<audio_0C9E><Cless>:<nl>
+ I'm sure you can do it!
+<pause>
+<audio_0C9F>Morrison:<nl>
+ Yes.
+ Good luck with the rings.{END}"
+"<audio_0CA0><Klarth>
+「それじゃあ、急いでアルヴァニ
+　スタに戻るか」
+<pause>
+<audio_0CA1><Cless>
+「ルーングロムさんに頼んで、エ
+　ルフの集落へ入れるように取り
+　計らってもらいましょう」{END}","<audio_0CA0><Klarth>:<nl>
+ And back to Alvanista we go.
+<pause>
+<audio_0CA1><Cless>:<nl>
+ Yeah.
+ Let's see what Lundgrom
+ can do for us.{END}"
+"<audio_0C1B><Cless>
+「暑いところだな〜」
+<pause>
+<audio_0C1C><Klarth>
+「この砂漠を旅する者なら、必ず
+　この村に立ち寄るだろう」
+<pause>
+<audio_0C1D><Mint>
+「あの人に聞いてみましょう」{END}","<audio_0C1B><Cless>:<nl>
+ Wow, this town is roasting.
+<pause>
+<audio_0C1C><Klarth>:<nl>
+ Everyone traveling through
+ this desert must stop here.
+ Surely even Edward...
+<pause>
+<audio_0C1D><Mint>:<nl>
+ Why don't we start by asking the
+ gentleman underneath that tree?{END}"
+"<audio_0C1E><Cless>
+「すみません」<wait>{END}","<audio_0C1E><Cless>:<nl>
+ Excuse me, sir.<wait>{END}"
+"<audio_0C1F>村の人
+「何か？」
+<pause>
+<audio_0C20><Cless>
+「この村にエドワードという人が
+　来ませんでしたか？」
+<pause>
+<audio_0C21>村の人
+「エドワード？」
+<pause>
+<audio_0C22>村の人
+「ああ、この前までそんな旅人が
+　いたっけ」
+<pause>
+<audio_0C23><Cless>
+「それで、その人は今どこに？」
+<pause>
+<audio_0C24>村の人
+「なんか急ぎの用事があるとかで
+　出ていったけど・・・」
+<pause>
+<audio_0C25>村の人
+「たぶん今頃は、村の南東にある
+　オアシスに向かってるんじゃな
+　いかな」
+<pause>
+<audio_0C26><Cless>
+「ありがとう」
+<pause>
+<audio_0C27><Klarth>
+「今から行けば間に合うかもしれ
+　ない、急ごう」{END}","<audio_0C1F>Villager:<nl>
+ Yeah?
+<pause>
+<audio_0C20><Cless>:<nl>
+ I was wondering if you've seen a
+ man named Edward around here
+ recently?
+<pause>
+<audio_0C21>Villager:<nl>
+ Hmm, Edward....
+<pause>
+<audio_0C22>Villager:<nl>
+ Ah, yeah.
+ You just missed the guy.
+<pause>
+<audio_0C23><Cless>:<nl>
+ Do you have any idea where he
+ went?
+<pause>
+<audio_0C24>Villager:<nl>
+ Guess he had some sort of urgent
+ business, as he ran straight off.
+ No idea about his destination, but...
+<pause>
+<audio_0C25>Villager:<nl>
+ He kept going south.
+ The only thing that
+ way is an oasis.
+<pause>
+<audio_0C26><Cless>:<nl>
+ Sounds like a good start.
+ Thanks.
+<pause>
+<audio_0C27><Klarth>:<nl>
+ If we follow him post-haste, we
+ might catch up. Onward!{END}"
+オリーブヴィレッジ{END},Olive Village{END}
+"<audio_0C28><Cless>
+「エドワードさん、ここに戻った
+　はずなんだけど・・・」
+<pause>
+<audio_0C29><Mint>
+「また、あの人に聞いてみましょ
+　うか」{END}","<audio_0C28><Cless>:<nl>
+ I bet we just missed him. Again.
+<pause>
+<audio_0C29><Mint>:<nl>
+ Why don't we ask that gentleman
+ if he's seen him again?{END}"
+"<audio_0C2A><Cless>
+「すみません」<wait>{END}","<audio_0C2A><Cless>:<nl>
+ Excuse me again, sir.<wait>{END}"
+"<audio_0C2B>村の人
+「何か？」
+<pause>
+<audio_0C2C><Cless>
+「この間あなたに話したエドワー
+　ドっていう人を見ませんでした
+　か？」
+<pause>
+<audio_0C2D>村の人
+「ああ、ちょっと前に宿屋に入っ
+　てくのを見たよ」
+<pause>
+<audio_0C2E><Cless>
+「ありがとう」{END}","<audio_0C2B>Villager:<nl>
+ Yeah?
+<pause>
+<audio_0C2C><Cless>:<nl>
+ Did the man I asked you about
+ before, Edward, return here?
+<pause>
+<audio_0C2D>Villager:<nl>
+ Yup.
+ I saw him set foot in the
+ inn just a spell ago.
+<pause>
+<audio_0C2E><Cless>:<nl>
+ Thanks for your help again.{END}"
+オリーブヴィレッジ{END},Olive Village{END}
+"<audio_160A><Cless>
+「ああぁ〜、よく寝た」<wait>{END}","<audio_160A><Cless>:<nl>
+ Yawwwwn...!
+ Slept like a log, for once...<wait>{END}"
+"<audio_160B><Cless>
+「<Mint>、おはよう」
+<pause>
+<audio_160C><Cless>
+「今朝は早いんだね」{END}","<audio_160B><Cless>:<nl>
+ Good morning, <Mint>.
+ You're up bright and early today.
+<pause>
+<audio_160C><Cless>:<nl>
+ Did you sleep well too?{END}"
+"<audio_160D><Cless>
+「<Mint>？」{END}","<audio_160D><Cless>:<nl>
+ Is something the matter?{END}"
+"<audio_160E><Klarth>
+「やあ、おはよう・・・」{END}","<audio_160E><Klarth>:<nl>
+ Morning, you two...{END}"
+"<audio_160F><Klarth>
+「ん、どうしたんだ？」{END}","<audio_160F><Klarth>:<nl>
+ Hm?
+ What's with the silent treatment?{END}"
+"<audio_15F6><Mint>
+「みなさん、聞いて下さい」
+<pause>
+<audio_15F7><Cless>
+「どうしたの？」
+<pause>
+<audio_15F8><Mint>
+「ユグドラシルを復活させる方法
+　を考えていました」
+<pause>
+<audio_15F9><Mint>
+「私の法術でなんとかならないか
+　と・・・」
+<pause>
+<audio_15FA><Mint>
+「でも、今の私の力ではどうする
+　こともできません」
+<pause>
+<audio_15FB><Klarth>
+「それで？」
+<pause>
+<audio_15FC><Mint>
+「ユニコーンの力を借りようと思
+　います」
+<pause>
+<audio_15FD><Cless>
+「ユニコーン？」
+<pause>
+<audio_15FE><Mint>
+「ユニコーンは法術師の証し」
+<pause>
+<audio_15FF><Mint>
+「この世界のどこかにいるはずで
+　す」
+<pause>
+<audio_1600><Klarth>
+「しかし・・・」
+<pause>
+<audio_1601><Klarth>
+「ユニコーンに会えたとしても、
+　そう都合よく力を貸してくれる
+　だろうか？」<wait>{END}","<audio_15F6><Mint>:<nl>
+ Everyone, please listen.
+ I have something important to say.
+<pause>
+<audio_15F7><Cless>:<nl>
+ Go on...
+<pause>
+<audio_15F8><Mint>:<nl>
+ I have been thinking about a means
+ of revitalizing Yggdrasill.
+<pause>
+<audio_15F9><Mint>:<nl>
+ Perhaps my clerical artes might be
+ one way...
+<pause>
+<audio_15FA><Mint>:<nl>
+ ...but I'm simply not powerful
+ enough to handle it alone.
+<pause>
+<audio_15FB><Klarth>:<nl>
+ Oh?
+<pause>
+<audio_15FC><Mint>:<nl>
+ Maybe if we borrowed the power
+ of the unicorn...
+<pause>
+<audio_15FD><Cless>:<nl>
+ The what?
+<pause>
+<audio_15FE><Mint>:<nl>
+ The unicorn.
+ It is the embodiment of
+ my Order's power.
+<pause>
+<audio_15FF><Mint>:<nl>
+ I believe it exists somewhere in
+ this world.
+<pause>
+<audio_1600><Klarth>:<nl>
+ Hmm...
+<pause>
+<audio_1601><Klarth>:<nl>
+ So if we meet this unicorn of
+ yours, it'll just gleefully hand over
+ whatever it is we need and let us
+ go on our merry way?<wait>{END}"
+"<audio_1602><Mint>
+「それは・・・わかりません」
+<pause>
+<audio_1603><Mint>
+「わかりませんが・・・」
+<pause>
+<audio_1604><Cless>
+「今はそれしか頼れないってこと
+　なんだね」
+<pause>
+<audio_1605><Cless>
+「<Mint>行こうよ」
+<pause>
+<audio_1606><Cless>
+「ユニコーンを捜しに、きっと見
+　つかるよ」<wait>{END}","<audio_1602><Mint>:<nl>
+ That...I don't know.
+<pause>
+<audio_1603><Mint>:<nl>
+ I really don't know...
+<pause>
+<audio_1604><Cless>:<nl>
+ Well, don't worry about it.
+ Clerical artes are probably our only
+ hope of pulling this off.
+<pause>
+<audio_1605><Cless>:<nl>
+ Come on, <Mint>!
+<pause>
+<audio_1606><Cless>:<nl>
+ Let's go out and look for the
+ unicorn! Even if we have to search
+ the four corners of the world, I
+ know we'll find it together!<wait>{END}"
+"<audio_1610><Mint>
+「ありがとう<Cless>さん」
+<pause>
+<audio_1609><Klarth>
+「そうと決まれば早速行動だな」{END}","<audio_1610><Mint>:<nl>
+ Thank you so much, <Cless>.
+<pause>
+<audio_1609><Klarth>:<nl>
+ Well, if that's the plan, then there's
+ no point in sticking around here
+ any longer.{END}"
+"<audio_1611><Klarth>
+「<Arche>、起きろ！」
+<pause>
+<audio_1612><Klarth>
+「もう朝だぞ！」<wait>{END}","<audio_1611><Klarth>:<nl>
+ Hey, <Arche>!
+ Wakey-wakey!
+<pause>
+<audio_1612><Klarth>:<nl>
+ It's time to leeeaaave!<wait>{END}"
+"<audio_1613><Arche>
+「あん<heart>、もうちょっと・・・」
+<pause>
+<audio_1614><Klarth>
+「起きろって！！」{END}","<audio_1613><Arche>:<nl>
+ Mmm <heart>, just a little more...
+<pause>
+<audio_1614><Klarth>:<nl>
+ On your feet, NOW!!{END}"
+"<audio_1615><Arche>
+「みんな早起きだね〜」
+<pause>
+<audio_1616><Arche>
+「どうしたの？」{END}","<audio_1615><Arche>:<nl>
+ You're all up already...?
+ The sun's not even coming up yet...
+<pause>
+<audio_1616><Arche>:<nl>
+ What's wrong with you guys!?{END}"
+"<audio_0C2F><Cless>
+「すみません、ここにエドワード
+　という人が来ませんでしたか？」
+<pause>
+<audio_0C30>宿屋の主人
+「エドワードさん？」
+<pause>
+<audio_0C31>宿屋の主人
+「ああ、ここに来たよ」
+<pause>
+<audio_0C32>宿屋の主人
+「バジリスクのうろこを欲しがっ
+　てあちこち尋ねてるみたいだっ
+　たね」
+<pause>
+<audio_0C33><Klarth>
+「ああ、あの傷の特効薬になると
+　いう？」
+<pause>
+<audio_0C34>宿屋の主人
+「そうそう、よく知ってるねぇ」
+<pause>
+<audio_0C35>宿屋の主人
+「まとまった量は、なかなか手に
+　入らないんだよ」
+<pause>
+<audio_0C36><Mint>
+「バジリスク？」
+<pause>
+<audio_0C37><Mint>
+「それは何でしょう？」
+<pause>
+<audio_0C38><Klarth>
+「砂漠に住む恐ろしい怪物さ」
+<pause>
+<audio_0C39>宿屋の主人
+「エドワードさんがことづけて
+　いったよ」
+<pause>
+<audio_0C3A>宿屋の主人
+「バジリスクのうろこを持った人
+　がいたら教えてくれって」
+<pause>
+<audio_0C3B>宿屋の主人
+「飛んでやってくるそうだよ」
+<pause>
+<audio_0C3C><Klarth>
+「バジリスクをしとめれば、うろ
+　こは手に入るだろうが・・・」<wait>{END}","<audio_0C2F><Cless>:<nl>
+ Excuse me, but did a man named
+ Edward stop by here recently?
+<pause>
+<audio_0C30>Innkeeper:<nl>
+ You're looking for Mr. Edward?
+<pause>
+<audio_0C31>Innkeeper:<nl>
+ Fortune smiles upon you, lad.
+ He was just here.
+<pause>
+<audio_0C32>Innkeeper:<nl>
+ The man needs basilisk scales.
+ He's been combing the desert in
+ search of them.
+<pause>
+<audio_0C33><Klarth>:<nl>
+ To make that special medicine, I
+ presume?
+<pause>
+<audio_0C34>Innkeeper:<nl>
+ Yes, yes.
+ You're familiar with it, are you?
+<pause>
+<audio_0C35>Innkeeper:<nl>
+ Then you probably know that the
+ stuff's not readily available in bulk.
+<pause>
+<audio_0C36><Mint>:<nl>
+ What are basiliks, if I may ask?
+<pause>
+<audio_0C37><Mint>:<nl>
+ They're the talk of the
+ town, it seems.
+<pause>
+<audio_0C38><Klarth>:<nl>
+ The basilisk is a species of monster
+ that rules this desert. They are
+ feared for their ability to petrify
+ even seasoned warriors.
+<pause>
+<audio_0C39>Innkeeper:<nl>
+ In any case...
+<pause>
+<audio_0C3A>Innkeeper:<nl>
+ Edward told me to get the word
+ out if anyone with basilisk scales
+ happened to drop by.
+<pause>
+<audio_0C3B>Innkeeper:<nl>
+ He'll be over here the instant he
+ hears about it.
+<pause>
+<audio_0C3C><Klarth>:<nl>
+ It's dirty work, but we can get
+ scales of our own by hunting the
+ beasts.<wait>{END}"
+"<unk1><audio_0C46>宿屋の主人
+<Cless>さ〜ん、エドワードさんが来たよ〜」{END}","<unk1><audio_0C46>Innkeeper:<nl>
+ Riiise and shiiine, Mr. Alvein!
+ Edward has arrived!{END}"
+"<audio_0C47>エドワード
+「君達かい？」
+<pause>
+<audio_0C48>エドワード
+「貴重なうろこを譲ってくれると
+　いうのは」
+<pause>
+<audio_0C49><Klarth>
+「エドワードさんですね」
+<pause>
+<audio_0C4A><Klarth>
+「実はこれを・・・」<wait>{END}","<audio_0C47>Edward:<nl>
+ You're the ones?
+<pause>
+<audio_0C48>Edward:<nl>
+ The people who provided these
+ precious scales?
+<pause>
+<audio_0C49><Klarth>:<nl>
+ Edward's the name, isn't it?
+<pause>
+<audio_0C4A><Klarth>:<nl>
+ Actually--<wait>{END}"
+"<audio_0C4B><Cless>＆<Mint>
+「モリスンさん！！？」{END}","<audio_0C4B><Cless> & <Mint>:<nl>
+ Mr. Morrison!?{END}"
+"<Cless>
+「こんな所に扉がある」
+<pause>
+『関係者以外立入禁止』{END}","<Cless>:<nl>
+ There's a door here with a sign
+ posted on it...
+<pause>
+“Unauthorized Personnel May Not
+Enter”{END}"
+"女の人
+「ここは倉庫ですから、立ち入り
+　はご遠慮願います」{END}","Woman:<nl>
+ This is our warehouse.
+ Please don't touch what
+ isn't yours. Unless...{END}"
+"女の人
+「在庫確認中です」{END}","Woman:<nl>
+ I manage the shop's inventory.{END}"
+"女の人
+「在庫管理しています」{END}","Woman:<nl>
+ I manage the shop's inventory.{END}"
+"<unk1>女の人
+<num3_C0005118>は<num5_C0006104>ガルドになります」<wait>{END}","<unk1>Woman:<nl>
+ The <num3_C0005118> will
+ be <num5_C0006104> gald.<wait>{END}"
+"<unk1>女の人
+あら、<num3_C0005118>は捨ててしまったのですか？」{END}","<unk1>Woman:<nl>
+ Oh, never mind.
+ I see you left it on the floor.{END}"
+"<unk1>女の人
+お金が足りないので<num3_C0005118>は返していただきます」{END}","<unk1>Woman:<nl>
+ Oh, wallet's too light?
+ Then I'll be taking
+ it back, thank you.{END}"
+<color_0002><num5_C0006104>ガルド払いますか？<color_0000>{END},<color_0002>Pay <num5_C0006104> gald?<color_0000>{END}
+"女の人
+「ありがとうございます」{END}","Woman:<nl>
+ Thank you very much.{END}"
+"<unk1>女の人
+あら、<num3_C0005118>は捨ててしまったのですか？」{END}","<unk1>Woman:<nl>
+ Oh, never mind.
+ I see you left it on the floor.{END}"
+"<unk1>女の人
+<num3_C0005118>は返していただきます」{END}","<unk1>Woman:<nl>
+ No?
+ Then hand it over, thank you.{END}"
+<color_0002><num2_C000510C>の装備している<num3_C0005118>を外しまた。<wait>{END}," <num2_C000510C> gave the
+<num3_C0005118> back.<wait>{END}"
+"女の人
+「こちらは立ち入り禁止です」{END}","Woman:<nl>
+ Employees only!{END}"
+"男の人
+「私は、さすらいの料理人」
+<pause>
+さすらいの料理人
+「１０年にわたる料理の修行の末、
+　ついにスパイス料理をきわめる
+　ことができたのだ」
+<pause>
+さすらいの料理人
+「君達は本場のカリーという料理
+　を食べたことがあるかな？」
+<pause>
+<Cless>
+「そりゃ、ありますよ」
+<pause>
+<Cless>
+「カレーなんて、珍しくないじゃ
+　ないですか」
+<pause>
+さすらいの料理人
+「チッチッチッ、本場のカリーと
+　言っただろう」
+<pause>
+さすらいの料理人
+「本場のカリーは、そこらのカレー
+　とはスパイスが断然違う！！」
+<pause>
+さすらいの料理人
+「一度、味わってみるかい？」{END}","Man:<nl>
+ I'm the Wandering Chef.
+<pause>
+Wandering Chef:<nl>
+ After ten years of intensive
+ training, I've finally mastered spicy
+ cuisine.
+<pause>
+Wandering Chef:<nl>
+ Have you eaten genuine curry
+ cuisine before?
+<pause>
+<Cless>:<nl>
+ Well, yes.
+ Of course we have.
+<pause>
+<Cless>:<nl>
+ I mean, you can get it anywhere,
+ so...
+<pause>
+Wandering Chef:<nl>
+ Tsk! Tsk! Tsk!
+ I said GENUINE curry!
+<pause>
+Wandering Chef:<nl>
+ The spices for genuine curry are
+ totally different from all those
+ poor imitations!!!
+<pause>
+Wandering Chef:<nl>
+ Wanna sample the REAL THING!?{END}"
+"さすらいの料理人
+「特製スパイスたっぷりだぜ」<wait>{END}","Wandering Chef:<nl>
+ It's garnished with the most
+ exquisite spices.<wait>{END}"
+"<Suzu>
+「わたし、もういいです」
+<pause>
+さすらいの料理人
+「それは残念だな」<wait>{END}","<Suzu>:<nl>
+ I will pass.
+<pause>
+Wandering Chef:<nl>
+ That's a shame.<wait>{END}"
+"<Cless>
+「うひゃあ！かれぇ！」<wait>{END}","<Cless>:<nl>
+ Whoah!
+ This is almost as hot
+ as Madam Curie!<wait>{END}"
+"<color_0002>カレーライスを料理できるようにな
+りました。<wait><color_0000>{END}",<color_0002>Learned the recipe for Curry.<wait><color_0000>{END}
+"さすらいの料理人
+「それは残念だな」{END}","Wandering Chef:<nl>
+ That's a shame.{END}"
+"<unk1><Suzu>
+<Cless>さん、これは何という食べ物でしょう？」<wait>{END}","<unk1><Suzu>:<nl>
+ I have never eaten this
+ type of cuisine before.
+ What is it like, <Cless>?<wait>{END}"
+"<Cless>
+「あっ、これはね・・・」<wait>{END}","<Cless>:<nl>
+ Uh...<nl>
+ It's hard to explain...<wait>{END}"
+"さすらいの料理人
+「お嬢ちゃん、食べてみるかい？」
+<pause>
+さすらいの料理人
+「うまいぜぇ！」
+<pause>
+<Suzu>
+「そうですか・・・」{END}","Wandering Chef:<nl>
+ Miss, I believe the exquisiteness of
+ genuine curry is truly beyond
+ words.
+<pause>
+Wandering Chef:<nl>
+ Here, why don't you try some!?
+ You'll love it!
+<pause>
+<Suzu>:<nl>
+ You think so...?{END}"
+"<unk1><Cless>
+大丈夫かい、<Suzu>ちゃん？」
+<pause>
+<Suzu>
+・・・・・・」
+<pause>
+<Suzu>
+・・・はい」
+<pause>
+<Suzu>
+平気です<speed_0020>・・・<speed_FFFF>たぶん・・・」
+<pause>
+<Suzu>
+私は・・・」
+<pause>
+<Suzu>
+甘いものの方が、好きです」<wait>{END}","<unk1><Cless>:<nl>
+ <Suzu>, are you okay?
+<pause>
+<Suzu>:<nl>
+ ......
+<pause>
+<Suzu>:<nl>
+ ...Yes.
+<pause>
+<Suzu>:<nl>
+ I will survive<speed_0020>...<speed_FFFF>I think...
+<pause>
+<Suzu>:<nl>
+ I...
+<pause>
+<Suzu>:<nl>
+ I prefer sweet things.<wait>{END}"
+<color_0002><Suzu>は『<var_DB01>』の称号を得ました。<color_0000>{END},"<color_0002><Suzu> has earned the title
+“<var_DB01>.”<color_0000>{END}"

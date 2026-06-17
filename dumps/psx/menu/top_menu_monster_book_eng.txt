@@ -1,0 +1,512 @@
+10000R{END}
+
+2SH{END}
+
+3000R{END}
+
+3SH{END}
+
+4400R{END}
+
+A.C. Roper{END}
+
+Air Giant{END}
+
+Alraune{END}
+
+Anaconda{END}
+
+Apache Doctor{END}
+
+Aqua Dragon{END}
+
+Arch Bishop{END}
+
+Arch Demon{END}
+
+Arch Knight{END}
+
+Archer{END}
+
+Azar{END}
+
+Balrog{END}
+
+Banshee{END}
+
+Basilisk{END}
+
+Basilisk King{END}
+
+Beastmaster{END}
+
+Belladonna{END}
+
+Bigfoot{END}
+
+Bishop{END}
+
+Black Bat{END}
+
+Black Dragon{END}
+
+Black Knight{END}
+
+Black Slime{END}
+
+Bleeb{END}
+
+Bloodsucker{END}
+
+Blue Roper{END}
+
+Blue Sylph{END}
+
+Boar{END}
+
+Boarboar{END}
+
+Bodach{END}
+
+Boggart{END}
+
+Bogle{END}
+
+Bone Knight{END}
+
+Brown Bear{END}
+
+Bugbear{END}
+
+Burning Dead{END}
+
+Bushwhacker{END}
+
+Carcass{END}
+
+Cave Spider{END}
+
+Caveman{END}
+
+Cawker{END}
+
+Cerberus{END}
+
+Chevalier{END}
+
+Chirpee{END}
+
+Clay Demon{END}
+
+Clay Golem{END}
+
+Cocadrille{END}
+
+Crab{END}
+
+Darkeye?{END}
+
+Deathstalker{END}
+
+Demeter{END}
+
+Depraved Monk{END}
+
+Desert Fly{END}
+
+Desert King{END}
+
+Dhaos (Angel){END}
+
+Dhaos (Future){END}
+
+Dhaos (Past){END}
+
+Dhaos (Present){END}
+
+Dhaos (Transformed){END}
+
+Dhole{END}
+
+Dingo{END}
+
+Doom Guard{END}
+
+Doom Toad{END}
+
+Dozo{END}
+
+Draco-Centaur{END}
+
+Dragon Knight{END}
+
+Dragon's Tooth{END}
+
+Dragonewt{END}
+
+Dragonfly{END}
+
+Efreet{END}
+
+Evil Lord{END}
+
+Evil Star{END}
+
+Evil Sword{END}
+
+Fenrir Beast{END}
+
+Firebug{END}
+
+Flamberg{END}
+
+Flame{END}
+
+Flame Sword{END}
+
+Frost Bunny{END}
+
+Frost King{END}
+
+Galf Beast{END}
+
+Galleon Sword{END}
+
+Gargoyle{END}
+
+Gazehound{END}
+
+Ghoul{END}
+
+Giant Bat{END}
+
+Giant Bee{END}
+
+Giant Frog{END}
+
+Giant Leech{END}
+
+Giant Lizard{END}
+
+Giant Mayfly{END}
+
+Giant Scorpion{END}
+
+Giant Slug{END}
+
+Giant Squid{END}
+
+Giant Toad{END}
+
+Giant Wasp{END}
+
+Gnome{END}
+
+Gnomelette{END}
+
+Gold Dragon{END}
+
+Golem{END}
+
+Great Tusk{END}
+
+Green Roper{END}
+
+Grizzly{END}
+
+Hanzo{END}
+
+Harpy{END}
+
+Hatamoto{END}
+
+Hellcat{END}
+
+Hellhound{END}
+
+Hellmaster{END}
+
+Hornet{END}
+
+Ice Golem{END}
+
+Ignis Fatuus{END}
+
+Inferno{END}
+
+Iron Golem{END}
+
+Ishrantu{END}
+
+Jack O' Lantern{END}
+
+Jackal{END}
+
+Jahmir{END}
+
+Jann{END}
+
+Jinn{END}
+
+Jinpachi{END}
+
+Juzo{END}
+
+Kage{END}
+
+Killer Bee{END}
+
+Killer Owl{END}
+
+King Cobra{END}
+
+Kiyomasa{END}
+
+Kosuke{END}
+
+Kraken{END}
+
+Kunoichi{END}
+
+Lesser Demon{END}
+
+Lich{END}
+
+Lilith{END}
+
+Living Dead{END}
+
+Living Sword{END}
+
+Lizard{END}
+
+Lizard Fly{END}
+
+Lizardman{END}
+
+Lobo{END}
+
+Lycurgus{END}
+
+Mandrake{END}
+
+Manta{END}
+
+Manticore{END}
+
+Maxwell{END}
+
+Mayer{END}
+
+Medium{END}
+
+Merman{END}
+
+Mighty Oak{END}
+
+Monk Soldier{END}
+
+Mummy{END}
+
+Mythril Golem{END}
+
+Nebiros{END}
+
+Night Wing{END}
+
+Nightmare{END}
+
+Ninja Master{END}
+
+Nocturnal Fly{END}
+
+Oakrot{END}
+
+Ochre Jelly{END}
+
+Odin{END}
+
+Ogre{END}
+
+Okiyo{END}
+
+Origin{END}
+
+Owl{END}
+
+Peepit{END}
+
+Phantom{END}
+
+Pharaoh{END}
+
+Phoenix{END}
+
+Piglet{END}
+
+Pluto{END}
+
+Poison Toad{END}
+
+Polar Bear{END}
+
+Predator{END}
+
+Priestess{END}
+
+Prophet{END}
+
+Psychic{END}
+
+Pumpkin King{END}
+
+Python{END}
+
+Queen Bee{END}
+
+Ranger{END}
+
+Red Pudding{END}
+
+Red Roper{END}
+
+Red Sylph{END}
+
+Roameye?{END}
+
+Saizo{END}
+
+Sakon{END}
+
+Samael{END}
+
+Samurai{END}
+
+Sasuke{END}
+
+Scavenger{END}
+
+Scout{END}
+
+Sea Slug{END}
+
+Sealeye?{END}
+
+Shade{END}
+
+Shaitan{END}
+
+Shaman{END}
+
+Sidewinder{END}
+
+Silver Dragon{END}
+
+Siren{END}
+
+Skeleton{END}
+
+Skeleton King{END}
+
+Slime{END}
+
+Snow Bunny{END}
+
+Sorceress{END}
+
+Specter{END}
+
+Squid{END}
+
+Starfish{END}
+
+Stormrider{END}
+
+Superstar{END}
+
+Thunder Dragon{END}
+
+Timber Wolf{END}
+
+Treant{END}
+
+Troll{END}
+
+Tyrant{END}
+
+Undine{END}
+
+Vampire Bat{END}
+
+Viper{END}
+
+Volt{END}
+
+Voodoo Priest{END}
+
+Vulcan{END}
+
+Vulture{END}
+
+Werevulture{END}
+
+White Bear{END}
+
+Wight{END}
+
+Will O' Wisp{END}
+
+Winged Devil{END}
+
+Witch{END}
+
+Witch Doctor{END}
+
+Wolfsbane{END}
+
+Woodkarla{END}
+
+Wraith{END}
+
+Wyvern{END}
+
+Zombie{END}
+
+Zombie Giant{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+
+Null{END}
+

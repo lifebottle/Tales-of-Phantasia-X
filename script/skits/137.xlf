@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_674">
+        <source>How come you always wear that hat?</source>
+        <target state="translated">How come you always wear that hat?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_675">
+        <source>You mean this one? Well, it's...</source>
+        <target state="translated">You mean this one? Well, it's...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_676">
+        <source>...to cover your bald head?</source>
+        <target state="translated">...to cover your bald head?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_677">
+        <source>Whose bald head? As if you've
+ever seen me without my hat!</source>
+        <target state="translated">Whose bald head? As if you've
+ever seen me without my hat!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_678">
+        <source>Already forgot the time I
+peeked on you at the hot spring, Baldie?</source>
+        <target state="translated">Already forgot the time I
+peeked on you at the hot spring, Baldie?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_679">
+        <source>Oh dear! I'm sorry I asked
+about something so sensitive...!</source>
+        <target state="translated">Oh dear! I'm sorry I asked
+about something so sensitive...!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_680">
+        <source>N-no! Not at all! She's just confused!</source>
+        <target state="translated">N-No! Not at all! She's just confused!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_681">
+        <source>&lt;Arche&gt;! Watch your mouth!</source>
+        <target state="translated">&lt;Arche&gt;! Watch your mouth!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

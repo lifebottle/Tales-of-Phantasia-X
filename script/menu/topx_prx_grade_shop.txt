@@ -1,0 +1,92 @@
+Play Time{END}
+
+Increase Item Limit to 20{END}
+
+Gald{END}
+
+Cooking Recipes{END}
+
+Cooking Ability{END}
+
+Titles{END}
+
+Character Info{END}
+
+Collector Book{END}
+
+Minigames Data{END}
+
+Battle Data{END}
+
+Artes{END}
+
+Arte Usage{END}
+
+Increase Max HP{END}
+
+Decrease Max HP{END}
+
+Combo Experience{END}
+
+EXP x0.5{END}
+
+EXP x2{END}
+
+EXP x10{END}
+
+Grade x2{END}
+
+Gald x2{END}
+
+Consumable Items{END}
+
+Special Items{END}
+
+Inherit game play time.{END}
+
+Maximum number of items that can be held is increased to 20.{END}
+
+Inherit Gald in possession.{END}
+
+Inherit recipes in possession.{END}
+
+Inherit current cooking skill.{END}
+
+Inherit titles in possession.{END}
+
+Inherit information in the Collector's Book.{END}
+
+Inherit data for the minigames.{END}
+
+Inherit values for encounters and maximum combos.{END}
+
+Inherit artes and magic in possession.{END}
+
+Inherit usage values for artes and magic.{END}
+
+Start the game with maximum HP for all characters increased by 500.{END}
+
+Start the game with 100 less maximum HP for all characters.{END}
+
+Decrease the EXP earned from battle by half.{END}
+
+Multiply the EXP earned from battle by 2.{END}
+
+Multiply the EXP earned from battle by 10.{END}
+
+Increase the Grade earned in battle.{END}
+
+Multiply the Gald earned in battle by 2.{END}
+
+Inherit consumables and some special items in possession.{END}
+
+Inherit information in the Monster Book.{END}
+
+Buy Selection{END}
+
+Select{END}
+
+Grade Shop{END}
+
+{END}
+

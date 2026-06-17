@@ -1,0 +1,200 @@
+Harmel Church{END}
+
+Inn “Harmel Inn”{END}
+
+Tool Shop “Angel's Blessing”{END}
+
+Weapon Shop “Crystal <item_DC00>”{END}
+
+Armor Shop “Endurance”{END}
+
+(He seems to be reading a holy
+book.)
+<pause>
+Priest
+ God forgives all...{END}
+
+Believer
+ If I offer prayers to God,
+ I have nothing to fear.
+<pause>
+Believer
+ Except my wife...{END}
+
+Man
+ Master Scarlet had a student
+ named Demeter.
+<pause>
+Man
+ Demeter was absolutely incon-
+ solable when the master died.
+ He would cry for hours in his
+ room every day.
+<pause>
+Man
+ Why did the master die? A tragic
+ accident, or so that is my belief...{END}
+
+Man
+ A mage named Scarlet used to live
+ in this town.
+<pause>
+Man
+ He studied a new power intended
+ to replace magic someday.
+<pause>
+Man
+ However, he passed away.
+<pause>
+Man
+ May God bless his soul.{END}
+
+Nun
+ Are you travelers?
+<pause>
+<Cless>
+ Yes, that's correct.
+<pause>
+Nun
+ Then you shall be in my prayers...
+<pause>
+Nun
+ So that you may be blessed with
+ the divine protection of God...{END}
+
+Woman
+ Mr. Scarlet moved here suddenly
+ some years ago.
+<pause>
+Woman
+ I believe he came from Midgard...{END}
+
+Citizen
+ I've been having a bad feeling
+ lately...
+<pause>
+Citizen
+ Like some kind of power will
+ soon threaten the world.
+ Serious apocalyptic stuff...{END}
+
+Citizen
+ The air...
+<pause>
+Citizen
+ The air is filled with hatred...{END}
+
+Citizen
+ It's said that, once upon a time,
+ there was an unspeakably
+ marvelous civilization.
+<pause>
+Citizen
+ I heard about it from my Grandpa
+ when I was a wee little lass.
+<pause>
+Citizen
+ Maybe it's true, maybe it's not...
+<pause>
+Citizen
+ Hweh heh heh...{END}
+
+Innkeeper
+ Welcome to the Harmel Inn.
+<pause>
+Innkeeper
+ One night is <num1_00000024> gald.
+<pause>
+Innkeeper
+ Will you be staying with us tonight?{END}
+
+Innkeeper
+ Don't forget: check out is is at 10:00
+ A.M.
+<pause>
+Innkeeper
+ Have a good sleep...{END}
+
+Innkeeper
+ Sorry, we don't have any free
+ rooms available.{END}
+
+Innkeeper
+ Come again, travelers.{END}
+
+Clerk
+ Welcome to Angel's Blessing.{END}
+
+Clerk
+ Thanks, please come again.{END}
+
+Proprietress
+ Welcome.
+ Can I help you find anything?
+<pause>
+Proprietress
+ We have a have a fine selection of
+ quality ropes and pickaxes for
+ mountain climbers.{END}
+
+Clerk
+ Welcome to Crystal <item_DC00>.{END}
+
+Clerk
+ Thanks.{END}
+
+Clerk
+ Welcome to Endurance.{END}
+
+Clerk
+ Thank you.{END}
+
+Girl
+ God...
+<pause>
+Girl
+ Please protect Mama and Papa...
+<pause>
+Girl
+ ......{END}
+
+<Cless>
+ Uh, is that you, Nancy!?
+<pause>
+Nancy
+ Oh, hello <Cless>.
+<pause>
+Nancy
+ I appreciate what you did for me
+ the other day.
+<pause>
+<Cless>
+ Why have you come here?<wait>{END}
+
+Swordswoman
+ This kid wanted to meet her crush
+ at any cost.
+<pause>
+Swordswoman
+ Since I'm on my way to Venezia
+ anyway, I let her tag along.
+<pause>
+<Cless>
+ That's better than her trying to get
+ there alone, I guess...
+<pause>
+{END}
+
+Nancy
+ I want to speak to him face to
+ face...{END}
+
+Nancy
+ Elwyn...{END}
+
+Swordswoman
+ Hey.{END}
+
+Swordswoman
+ Well, that's how it is.{END}
+

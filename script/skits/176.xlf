@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_874">
+        <source>The rings have been mended at last.</source>
+        <target state="translated">The rings have been mended at last.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_875">
+        <source>Yeah, and now it's time to pact with Luna.</source>
+        <target state="translated">Yeah, and now it's time to pact with Luna.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_876">
+        <source>Where exactly is she?</source>
+        <target state="translated">Where exactly is she?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_877">
+        <source>Don't know for sure, but the Zodiac
+Tower is number one on my short list.</source>
+        <target state="translated">Don't know for sure, but the Zodiac
+Tower is number one on my short list.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_878">
+        <source>Okay, let's hop to it!</source>
+        <target state="translated">Okay, let's hop to it!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

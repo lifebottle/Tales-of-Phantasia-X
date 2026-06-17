@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_287">
+        <source>Hey &lt;Klarth&gt;. Do
+you know why the rain falls?</source>
+        <target state="translated">Hey &lt;Klarth&gt;. Do
+you know why the rain falls?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_288">
+        <source>Really, more philosophical questions?</source>
+        <target state="translated">Really, more philosophical questions?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_289">
+        <source>Yeah. I'm just so curious, y'know?</source>
+        <target state="translated">Yeah. I'm just so curious, y'know?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_290">
+        <source>“Rain's a blessing,” they say...</source>
+        <target state="translated">“Rain's a blessing,” they say...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_291">
+        <source>You know, something
+provided by God so that we can live.</source>
+        <target state="translated">You know, something
+provided by God so that we can live.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_292">
+        <source>I wonder if it's true?</source>
+        <target state="translated">I wonder if it's true?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_293">
+        <source>Then...what is God?</source>
+        <target state="translated">Then...what is God?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_294">
+        <source>Try flying above the
+clouds and getting a look-see.</source>
+        <target state="translated">Try flying above the
+clouds and getting a look-see.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_295">
+        <source>...We're just going in circles, aren't we?</source>
+        <target state="translated">...We're just going in circles, aren't we?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_296">
+        <source>Pretty much.</source>
+        <target state="translated">Pretty much.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1250">
+        <source>That song was very soothing.</source>
+        <target state="translated">That song was very soothing.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1251">
+        <source>Yes. &lt;note&gt;The moon in the midday
+sky carries your eyes away...&lt;note&gt;</source>
+        <target state="translated">Yes. &lt;note&gt;The moon in the midday
+sky carries your eyes away...&lt;note&gt;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1252">
+        <source>Ohh, wow. You could make a career out of this.</source>
+        <target state="translated">Ohh, wow. You could make a career out of this.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1253">
+        <source>Hey, me too! Listen, listen!</source>
+        <target state="translated">Hey, me too! Listen, listen!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1254">
+        <source>Looks like we're done here, guys.</source>
+        <target state="translated">Looks like we're done here, guys.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1255">
+        <source>HEY! Come on! I said listen to me!</source>
+        <target state="translated">HEY! Come on! I said listen to me!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

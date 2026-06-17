@@ -1,0 +1,596 @@
+“Before the end, comes the
+beginning.”{END}
+
+<audio_12E9><Cless>:<nl>
+ Weird...<nl>
+<pause>
+<audio_12EA><Cless>:<nl>
+ Someone scrawled a map of this
+ floor here.
+<pause>
+<audio_12EB><Cless>:<nl>
+ According to this map...<nl>
+<pause>
+<audio_12EC><Cless>:<nl>
+ There's a hidden passage in the room with stairs to the lower floor!{END}
+
+<color_0002>Flip the lever?<color_0000>{END}
+
+<audio_12ED><Cless>:<nl>
+ Dhaos!!!
+<pause>
+<audio_12EE><Cless>:<nl>
+ This is it!
+ We're going to settle
+ this once and for all!!!
+<pause>
+<audio_12EF>Dhaos:<nl>
+ Hmhmhm...<nl>
+<pause>
+<audio_12F0>Dhaos:<nl>
+ I must say, I'm quite impressed
+ you managed to get this far.
+<pause>
+<audio_12F1>Dhaos:<nl>
+ For such reckless valor, what
+ is an appropriate title?
+ Perhaps “Heroes of Legend”?
+<pause>
+<audio_12F2><Chester>:<nl>
+ Don't mess with us!
+<pause>
+<audio_12F3><Chester>:<nl>
+ We're going to make you wish
+ you'd never been born!!!
+<pause>
+<audio_12F4><Mint>:<nl>
+ Wait, please!{END}
+
+<audio_12F5><Klarth>:<nl>
+ <Mint>!
+ Keep away from him!!!
+<pause>
+<audio_12F6>Dhaos:<nl>
+ What?
+<pause>
+<audio_12F7>Dhaos:<nl>
+ Pleading for your life, after all
+ you've done?
+<pause>
+<audio_12F8><Mint>:<nl>
+ I need to ask you a question.
+<pause>
+<audio_12F9><Mint>:<nl>
+ You once said that you had no
+ grounds upon which to fight with
+ us.
+<pause>
+<audio_12FA><Mint>:<nl>
+ I want to know why.{END}
+
+<audio_12FB>Dhaos:<nl>
+ None of you were involved with
+ magitechnology.
+<pause>
+<audio_12FC><Mint>:<nl>
+ Why do you dislike magitechnology?
+<pause>
+<audio_12FD>Dhaos:<nl>
+ It devours mana!!!
+<pause>
+<audio_12FE>Dhaos:<nl>
+ I cannot allow that to happen!
+ Those who use magitechnology
+ must be exterminated!
+<pause>
+<audio_12FF><Klarth>:<nl>
+ *Everyone* who uses it?
+ That's a little extreme.
+<pause>
+<audio_1300><Klarth>:<nl>
+ Magitechnology has frightening
+ potential. I'll give you that.
+<pause>
+<audio_1301><Klarth>:<nl>
+ But it's not as if us humans are so
+ foolish that we can't learn from
+ our mistakes!
+<pause>
+<audio_1302><Klarth>:<nl>
+ The World Tree will live on!
+<pause>
+<audio_1303>Dhaos:<nl>
+ Do you really believe that?
+<pause>
+<audio_1304>Dhaos:<nl>
+ Know the truth: If I had not
+ destroyed Midgard, Yggdrasill would
+ have already withered away.
+<pause>
+<audio_1305><Cless>:<nl>
+ So all this was to protect
+ Yggdrasill?
+<pause>
+<audio_1306><Cless>:<nl>
+ But why?
+ What's in it for you?
+<pause>
+<audio_1307>Dhaos:<nl>
+ Mana.
+ I require it for my cause.
+<pause>
+<audio_1308>Dhaos:<nl>
+ Hmph... Any further explanation is
+ useless. It's beyond your
+ comprehension.
+<pause>
+<audio_1309><Chester>:<nl>
+ For all I care, you can shove your
+ “cause” up your ass!
+<pause>
+<audio_130A><Chester>:<nl>
+ The only thing I've come here to
+ “comprehend” is your bloody,
+ smashed-in prettyboy face!<wait>{END}
+
+<audio_130B>Dhaos:<nl>
+ Hahahahahah!
+<pause>
+<audio_130C>Dhaos:<nl>
+ Tell me: Why must I justify myself
+ to you?
+<pause>
+<audio_130D><Cless>:<nl>
+ You--!!!
+<pause>
+<audio_130E>Dhaos:<nl>
+ It is YOU who should make amends
+ to ME!
+<pause>
+<audio_130F><Chester>:<nl>
+ He's playing with us...<nl>
+<pause>
+<audio_1310><Cless>:<nl>
+ No matter the reason...<nl>
+<pause>
+<audio_1311><Cless>:<nl>
+ ...I WILL NEVER forgive someone
+ for killing countless people as
+ though they were insects!!!
+<pause>
+<audio_1312>Dhaos:<nl>
+ Enough talk!!!
+<pause>
+<audio_1313>Dhaos:<nl>
+ Those who stand in my way must
+ be purged!
+<pause>
+<audio_1314><Cless>:<nl>
+ Just shut up already!
+ I've had enough!!{END}
+
+<audio_1315><Cless>:<nl>
+ D-Did we get him?
+<pause>
+<audio_1316><Klarth>:<nl>
+ No!
+ He's still breathing!{END}
+
+<audio_1317>Dhaos:<nl>
+ Mwahahahahah...<wait>{END}
+
+Dhaos:<nl>
+ Astounding that lower life forms
+ could push me this far.<wait>{END}
+
+Dhaos:<nl>
+ So be it!
+ I shall risk both my body
+ and soul on this battle!<wait>{END}
+
+<audio_131A><Cless>:<nl>
+ Y-You're saying you went easy on
+ us!?<wait>{END}
+
+Dhaos:<nl>
+ The troublesome barrier
+ obstructing my true power shall be
+ cast aside!<wait>{END}
+
+<audio_131C><Mint>:<nl>
+ Ahhh!
+<pause>
+<audio_131D><Cless>:<nl>
+ Where'd the floor--!?<wait>{END}
+
+Dhaos:<nl>
+ Mwah...hah hah hah!<wait>{END}
+
+Dhaos:<nl>
+ I will not let you interfere!!<wait>{END}
+
+Dhaos:<nl>
+ My desire--this burden I bear--is
+ for the sake of my people...<wait>{END}
+
+Dhaos:<nl>
+ YOU SHALL NOT STAND IN MY WAY!!<wait>{END}
+
+Dhaos:<nl>
+ O Derris-Kharlan, beloved
+ motherworld!<wait>{END}
+
+Dhaos:<nl>
+ Release my power!!<wait>{END}
+
+<speed_0000><color_0002>Change party formation?{END}
+
+<audio_1324><Cless>:<nl>
+ D-Did we...!?
+<pause>
+<audio_1325>Dhaos:<nl>
+ U-Ugh...<wait>{END}
+
+<audio_1326>Dhaos:<nl>
+ No!
+<pause>
+<audio_1327>Dhaos:<nl>
+ I shall not give in to something so
+ meager!
+<pause>
+<audio_1328>Dhaos:<nl>
+ I cannot give in until I obtain a
+ Great Seed!
+<pause>
+<audio_1329>Dhaos:<nl>
+ O Divine One!
+<pause>
+<audio_132A>Dhaos:<nl>
+ O Divine One of mother
+ Derris-Kharlan!
+<pause>
+<audio_132B>Dhaos:<nl>
+ Grant me strength!
+<pause>
+<audio_132C>Dhaos:<nl>
+ GRANT ME STRENGTH!!!{END}
+
+<audio_132D><Cless>:<nl>
+ Wh-What the...<nl>
+<pause>
+<audio_132E><Klarth>:<nl>
+ Be careful!
+<pause>
+<audio_132F><Klarth>:<nl>
+ He could pull anything!<wait>{END}
+
+<audio_1330><Chester>:<nl>
+ What the hell is he doing!?
+<pause>
+<audio_1331><Arche>:<nl>
+ Th-This magic...!
+ It's way too strong!
+<pause>
+<audio_1332>Dhaos:<nl>
+ For my desire...<nl>
+<pause>
+<audio_1333>Dhaos:<nl>
+ For the prayers of my people...<nl>
+<pause>
+<audio_1334>Dhaos:<nl>
+ I...<nl>
+<pause>
+<audio_1335>Dhaos:<nl>
+ I will fight on!<wait>{END}
+
+<speed_0000><color_0002>Change party formation?{END}
+
+<audio_1336><Cless>:<nl>
+ Did we...finally get him?<wait>{END}
+
+<audio_1337><Cless>:<nl>
+ H-He can still stand!?
+<pause>
+<audio_1338><Klarth>:<nl>
+ Hold on!
+ Something isn't right!<wait>{END}
+
+<unk1><audio_1339><Cless>:<nl>
+ What are you doing, <Mint>!?
+ Stay back!
+<pause>
+<audio_133A><Mint>:<nl>
+ No... He...<nl>
+<pause>
+<audio_133B><Mint>:<nl>
+ ...he...will soon...<wait>{END}
+
+<audio_133C>Dhaos:<nl>
+ Ugh<speed_0010>...<speed_0004>am<speed_0010>...<speed_0004>am<speed_0010>...<speed_0004>I<speed_0010>...<speed_0004>dying...?<wait>{END}
+
+Dhaos:<nl>
+ So the fate of my people is
+ sealed...<wait>{END}
+
+<audio_133E><Mint>:<nl>
+ ...Please... Won't you tell us...<nl>
+<pause>
+<audio_133F><Mint>:<nl>
+ ...what you fought so fearlessly
+ for...?
+<pause>
+<audio_1340>Dhaos:<nl>
+ It...is meaningless now.
+<pause>
+<audio_1341><Mint>:<nl>
+ Even so...<nl>
+<pause>
+<audio_1342><Mint>:<nl>
+ I wish to know the truth...<nl>
+<pause>
+<audio_1343>Dhaos:<nl>
+ ......<nl>
+<pause>
+<audio_1344>Dhaos:<nl>
+ Very well...<nl>
+<pause>
+<audio_1345>Dhaos:<nl>
+ With my last breath...I shall tell
+ you...<nl>
+<pause>
+<audio_1346>Dhaos:<nl>
+ ...what<speed_0020>...it...was<speed_0020>...<speed_0004>I<speed_0020>...<speed_0004>sought...<wait>{END}
+
+<audio_12E6>Sealeye?:<nl>
+ Ssso you have come, lowly
+ knavesss!{END}
+
+<audio_12E7>Sealeye?:<nl>
+ Of thisss worrrld, you have the
+ mossst wonderrrful of fatesss!
+<pause>
+<audio_12E8>Sealeye?:<nl>
+ I ssshall grrrant you deathsss
+ mossst gruesssome! You ssshall
+ drrrown in yourrr own blood!{END}
+
+<color_0002>Go back?<color_0000>{END}
+
+<Cless>:<nl>
+ Uh, whoops... <panic>
+<pause>
+<Cless>:<nl>
+ I still haven't rescued everyone
+ yet...<nl>
+<pause>
+<Cless>:<nl>
+ Can't leave without them!{END}
+
+<audio_1AD8>Sealeye?:<nl>
+By Lord Dhaos' command, I cannot allow you to take even one step further.
+<pause>
+<audio_1AD9><Cless>:<nl>
+I'd like to see you try!{END}
+
+<audio_1ADA>Sealeye?:<nl>
+At least I'll try and stop... you!{END}
+
+<audio_1ADB>Rondoline:<nl>
+!?{END}
+
+<audio_1ADC>Rondoline:<nl>
+Looks like he's planning on sending me away again. Oh, Dhaos, you fool...<nl>
+<pause>
+<audio_1ADD><Mint>:<nl>
+Could it be that Dhaos does not want to meet you...?{END}
+
+<audio_1ADE><Klarth>:<nl>
+But, why wouldn't he!?
+<pause>
+<audio_1ADF><Cless>:<nl>
+That doesn't matter right now! We have to save Rody!{END}
+
+<audio_1AE0><Arche>:<nl>
+And how exactly are you planning on saving her?
+<pause>
+<audio_1AE1><Cless>:<nl>
+I'll use the Eternal Sword to prevent Rody from being transported through time...!
+<pause>
+<audio_1AE2><Chester>:<nl>
+It can do that!?
+<pause>
+<audio_1AE3><Cless>:<nl>
+I don't know! But we won't know until we try!
+<pause>
+<audio_1AE4><Mint>:<nl>
+Miss Rody is starting to disappear!{END}
+
+<audio_1AE5><Cless>:<nl>
+I'm heading in!{END}
+
+<audio_1AE6><Cless>:<nl>
+Rody!{END}
+
+<audio_1AE7>Rondoline:<nl>
+<Cless>! Why are you here!?
+<pause>
+<audio_1AE8><Cless>:<nl>
+I'm here to save you, of course! We promised to stop Dhaos together, remember?
+<pause>
+<audio_1AE9>Rondoline:<nl>
+Leave this place now! You're going to end up being transported through time if you stay here any longer.
+<pause>
+<audio_1AEA><Cless>:<nl>
+Don't worry, I have the Eternal Sword with me.
+It should be able to bring us both back.
+<pause>
+<audio_1AEB>Rondoline:<nl>
+That sword can do that?
+<pause>
+<audio_1AEC><Cless>:<nl>
+It brought me all the way here. Now we just gotta get you back. Rody, take my hand!{END}
+
+<audio_1AED><Cless>:<nl>
+Uwagh!
+<pause>
+<audio_1AEE>Rondoline:<nl>
+No... It's impossible. The pendant's pull is stronger than your sword's.
+<pause>
+<audio_1AEF><Cless>:<nl>
+Kch... It's going to be fine! I'll get us back to our current time or so help me...!{END}
+
+<audio_1AF0>Rondoline:<nl>
+Thank you, <Cless>... But that's enough.
+<pause>
+<audio_1AF1><Cless>:<nl>
+Didn't you come with us to defeat Dhaos?
+Are you fine giving up so easily?
+<pause>
+<audio_1AF2>Rondoline:<nl>
+I should ask you the same! You're fine letting yourself get lost in this rift in space-time?
+<pause>
+<audio_1AF3>Rondoline:<nl>
+What about <Mint>? What about your friends who believe in you? What about them?
+<pause>
+<audio_1AF4>Rondoline:<nl>
+Don't go so far for someone like me.
+<pause>
+<audio_1AF5>Rondoline:<nl>
+I believe in you, <Cless>. I believe you'll be able to stop Dhaos.
+<pause>
+<audio_1AF6>Rondoline:<nl>
+Of course I'm frustrated about not being able to meet Dhaos. But I can't let you stay here any longer.
+<pause>
+<audio_1AF7><Cless>:<nl>
+But still...!
+<pause>
+<audio_1AF8>Rondoline:<nl>
+I'll promise you, okay...? Someday, somewhere, we'll meet again.
+<pause>
+<audio_1AF9><Cless>:<nl>
+Somewhere...!?{END}
+
+<audio_1AFA><Cless>:<nl>
+Rody!!!{END}
+
+<audio_1AFB><Mint>:<nl>
+<Cless>...{END}
+
+<audio_1AFC><Cless>:<nl>
+I... I couldn't... I wasn't able to save her...{END}
+
+<audio_1AFD><Mint>:<nl>
+<Cless>... This time... We will be sure to defeat Dhaos.{END}
+
+<audio_1AFE><Chester>:<nl>
+What <Mint> said. Who knows, maybe Rody got sent to the future again.
+<pause>
+<audio_1AFF><Chester>:<nl>
+Meaning, she'll definitely be disappointed if she learns that we still haven't defeated Dhaos.
+<pause>
+<audio_1B00><Arche>:<nl>
+Yeah, I don't think we'll be able to face her after talking so big about defeating him.
+<pause>
+<audio_1B01><Suzu>:<nl>
+We'll be okay. We'll definitely win!
+<pause>
+<audio_1B02><Klarth>:<nl>
+Guess it's about time for us to carve out that shining future we promised Rody.{END}
+
+<audio_1B03><Cless>:<nl>
+You're right... Let's go, everyone!
+<pause>
+<audio_1B04><Cless>:<nl>
+Rody... Should there be a future where we meet again, we promise, we'll bring good news.{END}
+
+<audio_1AFD><Mint>:<nl>
+<Cless>... This time... We will be sure to defeat Dhaos.{END}
+
+<audio_1AFE><Chester>:<nl>
+What <Mint> said. Who knows, maybe Rody got sent to the future again.
+<pause>
+<audio_1AFF><Chester>:<nl>
+Meaning, she'll definitely be disappointed if she learns that we still haven't defeated Dhaos.
+<pause>
+<audio_1B00><Arche>:<nl>
+Yeah, I don't think we'll be able to face her after talking so big about defeating him.
+<pause>
+<audio_1B02><Klarth>:<nl>
+Guess it's about time for us to carve out that shining future we promised Rody.{END}
+
+<audio_1B03><Cless>:<nl>
+You're right... Let's go, everyone!
+<pause>
+<audio_1B04><Cless>:<nl>
+Rody... Should there be a future where we meet again, we promise, we'll bring good news.{END}
+
+<Cless>:<nl>
+ Uh, whoops... <panic>
+<pause>
+<Cless>:<nl>
+ I still haven't rescued everyone
+ yet...<nl>
+<pause>
+<Cless>:<nl>
+ Can't leave without them!{END}
+
+<audio_12DC><Cless>:<nl>
+ Whoa! What happened!?
+<pause>
+<audio_12DD><Klarth>:<nl>
+ One possibility is that we were
+ called here by the resonation of
+ Dhaos' power of time manipulation
+ and the Sword of Time...{END}
+
+Grim Reaper:<nl>
+ You have done well to realize my
+ existence.
+<pause>
+Grim Reaper:<nl>
+ You have earned the opportunity to
+ purchase something most
+ astounding. How about it?{END}
+
+Grim Reaper:<nl>
+ What is your offer?
+<pause>
+<speed_0000>1. 765 gald<nl>
+2. 7650 gald<nl>
+3. 76500 gald<nl>
+4. 765000 gald<speed_FFFF>{END}
+
+Grim Reaper:<nl>
+ No shame in backing out...<nl>
+<pause>
+Grim Reaper:<nl>
+ Return to me should you have
+ second thoughts.{END}
+
+Grim Reaper:<nl>
+ Come, if you want to buy
+ something.{END}
+
+Grim Reaper:<nl>
+ You can buy anything in the world
+ with money, so they say...<nl>
+<pause>
+Grim Reaper:<nl>
+ But without money, you can buy
+ nothing.{END}
+
+<color_0002>Everyone gained <num5_C0006104> experience
+points.<wait>{END}
+
+<color_0002><num2_C0005108> leveled up.<wait>{END}
+
+<color_0002><num2_C0005108> leveled up.
+<pause>
+<num2_C0005108> learned a new arte.<wait>{END}
+
+<color_0002><num2_C0005108> leveled up.<wait>{END}
+
+<color_0002><num2_C0005108> leveled up.
+<pause>
+<num2_C0005108> learned a new arte.<wait>{END}
+

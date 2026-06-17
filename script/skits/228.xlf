@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1171">
+        <source>We need to assemble the
+Sword of Time, and fast...</source>
+        <target state="translated">We need to assemble the
+Sword of Time, and fast...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1172">
+        <source>Say, why's that thing so important, anyway?</source>
+        <target state="translated">Say, why's that thing so important, anyway?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1173">
+        <source>Dhaos would just flee to another
+time if we confront him without it.</source>
+        <target state="translated">Dhaos would just flee to another
+time if we confront him without it.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1174">
+        <source>Yeah. We're short of any
+other means of preventing that.</source>
+        <target state="translated">Yeah. We're short of any
+other means of preventing that.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1175">
+        <source>Hopelessly behind as usual.
+Hmhm, sucks-to-be-you!</source>
+        <target state="translated">Hopelessly behind as usual.
+Hmhm, sucks-to-be-you!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1176">
+        <source>Shaddap!</source>
+        <target state="translated">Shaddap!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,24 @@
+Town of Miguel{END}
+
+Venezia City{END}
+
+Olive Village{END}
+
+Early, The Twilit Town{END}
+
+Ninja Village{END}
+
+Peddler{END}
+
+Capital of Euclid{END}
+
+Capital of Alvanista{END}
+
+Town of Freezekiel{END}
+
+Elven Settlement{END}
+
+Aegis' Shop{END}
+
+Moria Mine{END}
+

@@ -1,0 +1,2374 @@
+"<Cless>
+「ごめんください」
+<pause>
+<Cless>
+「あの〜、どなたかいらっしゃい
+　ませんか？」{END}","<Cless>:<nl>
+Excuse us.
+<pause>
+<Cless>:<nl>
+Hello~? Is anyone home?{END}"
+"<Mint>
+「いない<speed_0010>・・・<speed_00FF>、みたいですね」{END}","<Mint>:<nl>
+I guess<speed_0010>...<speed_00FF>there isn't.{END}"
+"？？？
+「・・・はい？」{END}","???:<nl>
+Yes?{END}"
+"<Cless>
+「あれ？」
+<pause>
+<Cless>
+「女の人の声が聞こえなかった？」{END}","<Cless>:<nl>
+Huh?
+<pause>
+<Cless>:<nl>
+Did you just hear a woman's
+voice?{END}"
+"<Cless>
+「ごめんください」
+<pause>
+<Cless>
+「アーシアさん・・・、
+　いらっしゃいますか？」
+<pause>
+？？？
+「はい、今、扉を開けますので」{END}","<Cless>:<nl>
+Hello?
+<pause>
+<Cless>:<nl>
+Arsia...are you here?
+<pause>
+???:<nl>
+Yes, hang on and I'll open the
+door.{END}"
+"<Klarth>
+「あなたが、アーシアさん
+　ですか？」
+<pause>
+アーシア
+「はい、私に何か用でも？」
+<pause>
+<Cless>
+「じつは・・・」{END}","<Klarth>:<nl>
+Are you Arsia?
+<pause>
+Arsia:<nl>
+Yes, did you need something from
+me?
+<pause>
+<Cless>:<nl>
+Actually...{END}"
+"<Cless>
+「カギがかかっている」{END}","<Cless>:<nl>
+It's locked.{END}"
+"<Cless>
+「カギがかかっている」{END}","<Cless>:<nl>
+It's locked.{END}"
+"アーシア
+「<speed_0010>・・・<speed_00FF>」
+<pause>
+アーシア
+「ごめんなさい<speed_0010>・・・、<speed_00FF>一人に<speed_0010>、
+　<speed_00FF>してください<speed_0010>・・・<speed_00FF>」{END}","Arsia:<nl>
+<speed_0010>...<speed_00FF>
+<pause>
+Arsia:<nl>
+I'm sorry<speed_0010>...<speed_00FF> Please<speed_0010>,<speed_00FF>
+leave me alone<speed_0010>...<speed_00FF>{END}"
+"アーシア
+「彼を、連れてきて・・・」{END}","Arsia:<nl>
+Bring him to me...{END}"
+"アーシア
+「私が力になれることがあれば、
+　何でも言って下さい」
+<pause>
+アーシア
+「今、私がここにいるのも全てあ
+　なた方のおかげなんですから」{END}","Arsia:<nl>
+Please let me know if I can do
+anything to help you out.
+<pause>
+Arsia:<nl>
+I wouldn't even be here if it
+wasn't for you.{END}"
+"ブラムバルド
+「私はここで暮らしていきます」
+<pause>
+ブラムバルド
+「いつの日か、彼女の心の傷が癒
+　る時まで・・・」{END}","Brambard:<nl>
+I'll continue living here.
+<pause>
+Brambard:<nl>
+Until the day when the
+wounds in her heart are
+fully healed...{END}"
+"ブラムバルド
+「ありがとう、あなた方には感謝
+　の言葉しか出てこないな」
+<pause>
+ブラムバルド
+「私はここで暮らしていきます」
+<pause>
+ブラムバルド
+「これからも、彼女と共に」{END}","Brambard:<nl>
+I cannot begin to express my gratitude
+for what you've done.
+<pause>
+Brambard:<nl>
+I am going to live here from
+now on.
+<pause>
+Brambard:<nl>
+With her...{END}"
+"<Cless>
+「良くできた彫像だな・・・」{END}","<Cless>:<nl>
+What an amazingly detailed
+statue...{END}"
+"<Klarth>
+「ここが・・・、彫刻家アーシア
+　の住む家か」{END}","<Klarth>:<nl>
+This is the house where
+Arsia the Carver lives.{END}"
+"<Arche>
+「ねえ<Cless>！」
+<pause>
+<Arche>
+「これ、みてみて！！」
+<pause>
+<Arche>
+「この彫像、本物みたい！」{END}","<Arche>:<nl>
+Hey, <Cless>!
+<pause>
+<Arche>:<nl>
+Look at this!
+<pause>
+<Arche>:<nl>
+This statue looks so real!{END}"
+"<Arche>
+「なんか不気味・・・」{END}","<Arche>:<nl>
+It's kinda creepy...{END}"
+"<Cless>
+「誰かいるかもしれない、とりあ
+　えず訪ねてみよう」{END}","<Cless>:<nl>
+Someone might be here.
+Let's go have a look.{END}"
+"<Arche>
+「ちょっと待ってよ〜」{END}","<Arche>:<nl>
+Heyyy, wait up~!{END}"
+"アーシア
+「そうですか、その弓を・・・」{END}","Arsia:<nl>
+Oh, that bow...{END}"
+"アーシア
+「・・・わかりました、
+　私でよければやってみましょう」
+<pause>
+<Cless>
+「本当ですか！」{END}","Arsia:<nl>
+I see.
+I'll give it a try, if you want.
+<pause>
+<Cless>:<nl>
+Really!?{END}"
+"アーシア
+「ええ<speed_0010>・・・<speed_00FF>」
+<pause>
+アーシア
+「・・・ただし、条件があります」{END}","Arsia:<nl>
+Yes<speed_0010>...<speed_00FF>
+<pause>
+Arsia:<nl>
+However...there's one condition.{END}"
+"<Cless>
+「条件？」
+<pause>
+アーシア
+「ええ・・・」
+<pause>
+アーシア
+「でも安心なさって、とても簡単
+　なお願い事ですから・・・」{END}","<Cless>:<nl>
+Condition?
+<pause>
+Arsia:<nl>
+Yes...
+<pause>
+Arsia:<nl>
+Don't worry,
+it's a simple request.{END}"
+"<Klarth>
+「まずは、話を聞こうか」
+<pause>
+<Klarth>
+「話の内容によっては、我々も
+　次の行動を考え直さなければ
+　ならないな」{END}","<Klarth>:<nl>
+Well, let's hear her out, I guess.
+<pause>
+<Klarth>:<nl>
+Depending on what she says,
+we may have to reconsider
+what we do next.{END}"
+"アーシア
+「<speed_0010>・・・<speed_00FF>ある人を、ここに連れ
+　てきていただきたいのです」
+<pause>
+<Klarth>
+「人探し<speed_0010>・・・<speed_00FF>か？」{END}","Arsia:<nl>
+<speed_0010>...<speed_00FF>I want you to bring a
+certain person here.
+<pause>
+<Klarth>:<nl>
+You want us to look for
+someone<speed_0010>...<speed_00FF>?{END}"
+"<Arche>
+「なんだ、簡単じゃん<heart>」
+<pause>
+<Arche>
+「で、連れてくる人って誰？」
+<pause>
+<Arche>
+「私たちの知ってる人？」{END}","<Arche>:<nl>
+Heh, sounds simple enough. <heart>
+<pause>
+<Arche>:<nl>
+So who do you want us to bring?
+<pause>
+<Arche>:<nl>
+Someone we know?{END}"
+"アーシア
+「『ブラムバルド』というエルフ
+　の男性を連れてきて下さい」
+<pause>
+アーシア
+「彼はユミルの森の奥にいる
+　はずだわ・・・」{END}","Arsia:<nl>
+There's an elven man I want you to bring
+back here. His name is Brambard.
+<pause>
+Arsia:<nl>
+You should be able to find him
+deep in Ymir Forest...{END}"
+"<Mint>
+「ブラムバルドさんって・・・、
+　エルフの族長の・・・？」
+<pause>
+<Klarth>
+「<speed_0010>・・・<speed_00FF>意外な人物の名が出たな」
+<pause>
+<Cless>
+「でも、ブラムバルドさんだった
+　ら、手を貸してくれるさ！」
+<pause>
+<Klarth>
+「ま、確かに難しい条件ではない」{END}","<Mint>:<nl>
+Brambard...<nl>
+Do you mean the chief of the elves?
+<pause>
+<Klarth>:<nl>
+<speed_0010>...<speed_00FF>Okay, wasn't expecting that.
+<pause>
+<Cless>:<nl>
+Well, I bet Lord Brambard would be
+willing to help out!
+<pause>
+<Klarth>:<nl>
+Yeah, it's not too big of an ask.{END}"
+"アーシア
+「・・・ふふ、驚いたわ」
+<pause>
+アーシア
+「あなたたち、彼のことを知って
+　いるのね・・・」
+<pause>
+アーシア
+「なら・・・、話は早いわ」
+<pause>
+アーシア
+「お願い、彼を連れてきて」{END}","Arsia:<nl>
+Wow, that's a surprise, tee hee.
+<pause>
+Arsia:<nl>
+I can't believe you actually
+know him...
+<pause>
+Arsia:<nl>
+Well...that speeds things up.
+<pause>
+Arsia:<nl>
+Please bring him to me.{END}"
+"<Cless>
+「・・・よし！」{END}","<Cless>:<nl>
+...All right!{END}"
+"<Cless>
+「とにかく、ブラムバルドさんの
+　ところへ行ってみよう！」{END}","<Cless>:<nl>
+Let's go pay Lord Brambard
+a visit!{END}"
+"<Mint>
+「そうしましょう！」{END}","<Mint>:<nl>
+Yes, let's go!{END}"
+"アーシア
+「お待ち下さい」{END}","Arsia:<nl>
+Wait, please.{END}"
+"アーシア
+「まだ<speed_0010>・・・<speed_00FF>条件があります」
+<pause>
+<Klarth>
+「なんだ？」
+<pause>
+アーシア
+「<speed_0010>・・・<speed_00FF>誰か一人、ここに残っ
+　ていただきます」
+<pause>
+アーシア
+「彼を・・・」
+<pause>
+アーシア
+「あの人をここに連れてきてもら
+　う為に<speed_0010>、<speed_00FF>その証として・・・」
+<pause>
+<Klarth>
+「人質<speed_0010>・・・<speed_00FF>というわけか？」{END}","Arsia:<nl>
+I have one more<speed_0010>...<speed_00FF>condition.
+<pause>
+<Klarth>:<nl>
+Yeah?
+<pause>
+Arsia:<nl>
+<speed_0010>...<speed_00FF>One of you must
+remain here.
+<pause>
+Arsia:<nl>
+As collateral...
+<pause>
+Arsia:<nl>
+Just to make SURE you
+bring him to me.
+<pause>
+<Klarth>:<nl>
+You mean<speed_0010>...<speed_00FF>as a
+hostage?{END}"
+"アーシア
+「・・・ええ」{END}","Arsia:<nl>
+That's right...{END}"
+"アーシア
+「あなた方のうち、一人だけここ
+　で彫像となってもらいます」{END}","Arsia:<nl>
+I'm going to turn one of you
+into a statue.{END}"
+"<Cless>
+「なんだって！」
+<pause>
+{END}","<Cless>:<nl>
+What!?
+<pause>
+{END}"
+"<Klarth>
+「ふっ、ふざけるな！」
+<pause>
+<Klarth>
+「彫像になれだと？」
+<pause>
+<Klarth>
+「そんな訳のわからん事をできる
+　はずないだろう！」
+<pause>
+アーシア
+「大丈夫です、命は保証します」
+<pause>
+アーシア
+「あなた方はどうしても弓を
+　直したいのでしょう？」
+<pause>
+アーシア
+「だったら・・・」{END}","<Klarth>:<nl>
+You're kidding!
+<pause>
+<Klarth>:<nl>
+You want us to let you turn
+one of us into a statue?
+<pause>
+<Klarth>:<nl>
+You've lost your damn mind!
+<pause>
+Arsia:<nl>
+It's all right. I promise you that they
+will not die.
+<pause>
+Arsia:<nl>
+You want me to fix your bow
+regardless of the cost, right?
+<pause>
+Arsia:<nl>
+Well...{END}"
+"アーシア
+「彼を連れてきて・・・」{END}","Arsia:<nl>
+Bring him back to me...{END}"
+"<Mint>
+「どうしましょう・・・」{END}","<Mint>:<nl>
+What should we do?{END}"
+"<Klarth>
+「なあ、<Cless>」
+<pause>
+<Cless>
+「はい？」
+<pause>
+<Klarth>
+「お前はどう思う？」
+<pause>
+<Cless>
+「えっ？」
+<pause>
+<Klarth>
+「あの女は危険だ」
+<pause>
+<Klarth>
+「なんとなくだが、嫌な予感がす
+　る・・・」
+<pause>
+<Klarth>
+「それに、その弓はそんなに大切
+　なものなのか？」
+<pause>
+<Klarth>
+「時間もないことだし、
+　弓はあきらめよう」{END}","<Klarth>:<nl>
+Hey, <Cless>.
+<pause>
+<Cless>:<nl>
+Yeah?
+<pause>
+<Klarth>:<nl>
+What do you think?
+<pause>
+<Cless>:<nl>
+Huh?
+<pause>
+<Klarth>:<nl>
+That woman is dangerous.
+<pause>
+<Klarth>:<nl>
+I can't explain it, but
+I've got a bad feeling
+about this...
+<pause>
+<Klarth>:<nl>
+Is the bow really all that important?
+<pause>
+<Klarth>:<nl>
+We don't have much time anyway.
+Let's give up on the bow.{END}"
+"<Cless>
+「そんな・・・」
+<pause>
+<Mint>
+「ダメです！」
+<pause>
+<Mint>
+「その弓は・・・」
+<pause>
+<Mint>
+「<Chester>さんの<speed_0010>・・・<speed_00FF>」
+<pause>
+<Mint>
+「お願いします、どうしてもこの
+　弓は直したいんです・・・！」{END}","<Cless>:<nl>
+You can't be serious...
+<pause>
+<Mint>:<nl>
+No!
+<pause>
+<Mint>:<nl>
+That bow...
+<pause>
+<Mint>:<nl>
+It belongs to <Chester><speed_0010>...<speed_00FF>
+<pause>
+<Mint>:<nl>
+Please, we just have to fix it...!{END}"
+"アーシア
+「誰が残るのですか？」
+<pause>
+アーシア
+「あなた方では決められないなら、
+　私が指名します」{END}","Arsia:<nl>
+Who will stay behind?
+<pause>
+Arsia:<nl>
+If you can't decide among
+yourselves, I'll pick someone
+for you.{END}"
+"アーシア
+「・・・あなたがいいわ」
+<pause>
+{END}","Arsia:<nl>
+Let's see... maybe you?
+<pause>
+{END}"
+"アーシア
+「あなたが残って」{END}","Arsia:<nl>
+Yes, you will do...{END}"
+"<Mint>
+「<speed_0010>・・・・・・・・・<speed_00FF>」{END}","<Mint>:<nl>
+<speed_0010>......<speed_00FF>{END}"
+"<Cless>
+「待てッ！」
+<pause>
+<Cless>
+「僕が、僕が代わりになる！」{END}","<Cless>:<nl>
+Wait!!!
+<pause>
+<Cless>:<nl>
+I'll take her place!{END}"
+"アーシア
+「・・・ダメよ」
+<pause>
+アーシア
+「もう決めてしまったから」
+<pause>
+アーシア
+「さあ、こっちに来て、
+　この光の中に・・・」{END}","Arsia:<nl>
+No.
+<pause>
+Arsia:<nl>
+I've already made up my mind.
+<pause>
+Arsia:<nl>
+Come hither, into this light...{END}"
+"<Arche>
+「誰でもいいんでしょ！？
+　べぇーだ！！！」{END}","<Arche>:<nl>
+What do you care who stays!?
+You damn witch!!{END}"
+"<Klarth>
+「お、おい！！」
+<pause>
+<Mint>
+「<Arche>さん！！」
+<pause>
+<Cless>
+「<Arche>！！」{END}","<Klarth>:<nl>
+Hey!
+<pause>
+<Mint>:<nl>
+<Arche>!
+<pause>
+<Cless>:<nl>
+<Arche>!!{END}"
+"アーシア
+「約束通り、彼を連れてきてくだ
+　さい・・・」
+<pause>
+<Klarth>
+「くそッ！」
+<pause>
+<Klarth>
+「とにかくブラムバルドを連れて
+　こなくては！」
+<pause>
+<Klarth>
+「エルフの集落に急ぐぞ！」
+<pause>
+<Mint>
+「<Arche>さん・・・」{END}","Arsia:<nl>
+Now bring him to me,
+just as you promised.
+<pause>
+<Klarth>:<nl>
+Grr!
+<pause>
+<Klarth>:<nl>
+We'd better go get Brambard!
+<pause>
+<Klarth>:<nl>
+Let's hurry back to the Elven Settlement!
+<pause>
+<Mint>:<nl>
+<Arche>...{END}"
+"ブラムバルド
+「・・・」
+<pause>
+ブラムバルド
+「・・・変わらないな」{END}","Brambard:<nl>
+...
+<pause>
+Brambard:<nl>
+Hasn't changed a bit...{END}"
+"ブラムバルド
+「行きましょう」{END}","Brambard:<nl>
+Let us go.{END}"
+"ブラムバルド
+「・・・アーシア・・・」
+<pause>
+アーシア
+「<speed_0010>・・・<speed_00FF>外は寒いわね・・・」
+<pause>
+アーシア
+「中に入ったら？」{END}","Brambard:<nl>
+Arsia...
+<pause>
+Arsia:<nl>
+<speed_0010>...<speed_00FF>It's cold outside, isn't it?
+<pause>
+Arsia:<nl>
+Why don't you come in?{END}"
+"ブラムバルド
+「二人で話したい」
+<pause>
+ブラムバルド
+「少し時間をくれないか？」{END}","Brambard:<nl>
+I'd like to speak with her alone.
+<pause>
+Brambard:<nl>
+Can you give us some time?{END}"
+"<Klarth>
+「家の中だってのに・・・」
+<pause>
+<Klarth>
+「少し冷えてきたな」
+<pause>
+<Cless>
+「ええ」
+<pause>
+<Mint>
+「・・・」{END}","<Klarth>:<nl>
+Even though we're inside...
+<pause>
+<Klarth>:<nl>
+I can feel the temperature dropping.
+<pause>
+<Cless>:<nl>
+Yeah.
+<pause>
+<Mint>:<nl>
+...{END}"
+"<Mint>
+「寒くて、かわいそう・・・」{END}","<Mint>:<nl>
+Poor <Arche>, she's so cold...{END}"
+"<Cless>
+「<Mint>・・・」{END}","<Cless>:<nl>
+<Mint>...{END}"
+"<Klarth>
+「しかし・・・、長いな」
+<pause>
+<Klarth>
+「とにかく<Arche>だけでも<speed_0010>、<speed_00FF>
+　元に戻して欲しいものだ」{END}","<Klarth>:<nl>
+They sure are taking their sweet
+time...
+<pause>
+<Klarth>:<nl>
+I just hope she turns <Arche>
+back to normal<speed_0010>,<speed_00FF> anyway.{END}"
+"<Cless>
+「すみません、<Klarth>さん」
+<pause>
+<Cless>
+「僕が弓を直したいなんて言
+　い出したから・・・」
+<pause>
+<Klarth>
+「なに、気にするな」
+<pause>
+<Klarth>
+「その弓は、よほど大切なものな
+　んだろう？」
+<pause>
+<Klarth>
+「大丈夫だ、きっとすべて元通り
+　になるさ」{END}","<Cless>:<nl>
+I'm sorry, <Klarth>.
+<pause>
+<Cless>:<nl>
+It's my fault for saying I wanted
+to fix that bow...
+<pause>
+<Klarth>:<nl>
+Don't sweat it.
+<pause>
+<Klarth>:<nl>
+That bow is really important to you,
+isn't it?
+<pause>
+<Klarth>:<nl>
+Don't worry, I'm sure she'll
+fix it good as new.{END}"
+"ブラムバルド
+「わかってくれ」
+<pause>
+ブラムバルド
+「一族を捨てるような身勝手なこ
+　とはできないんだ」
+<pause>
+アーシア
+「どうしても、駄目なのね？」
+<pause>
+アーシア
+「こんなに・・・」
+<pause>
+アーシア
+「あなたが好きなのに<speed_0010>・・・<speed_00FF>」
+<pause>
+ブラムバルド
+「・・・アーシア・・・」{END}","Brambard:<nl>
+You must understand.
+<pause>
+Brambard:<nl>
+I cannot do something so irresponsible.
+I cannot abandon my people.
+<pause>
+Arsia:<nl>
+You're certain of this?
+<pause>
+Arsia:<nl>
+But...
+<pause>
+Arsia:<nl>
+I love you so much<speed_0010>...<speed_00FF>
+<pause>
+Brambard:<nl>
+Arsia...{END}"
+"アーシア
+「<speed_0010>・・・<speed_00FF>駄目だわ」
+<pause>
+アーシア
+「そんな事<speed_0010>・・・・・・<speed_00FF>」
+<pause>
+アーシア
+「私には耐えられない！」{END}","Arsia:<nl>
+<speed_0010>...<speed_00FF>No.
+<pause>
+Arsia:<nl>
+This can't be happening<speed_0010>...<speed_00FF>
+<pause>
+Arsia:<nl>
+I won't allow it!{END}"
+"アーシア
+「あなたがここに留まってくれな
+　いなら・・・」
+<pause>
+アーシア
+「あの子は元には戻さないわ！」{END}","Arsia:<nl>
+If you won't stay here with me...
+<pause>
+Arsia:<nl>
+Then I won't return her back to
+normal!{END}"
+"<Cless>
+「そんな！」
+<pause>
+<Cless>
+「約束が違うぞ！！」
+<pause>
+<Mint>
+「お願い、元に戻してあげて！」{END}","<Cless>:<nl>
+What!?
+<pause>
+<Cless>:<nl>
+But you promised!
+<pause>
+<Mint>:<nl>
+Please, you have to turn her back!{END}"
+"ブラムバルド
+「君の気持ちはわかる・・・」{END}","Brambard:<nl>
+I know how you feel...{END}"
+"ブラムバルド
+「君をここまで追い詰めたのは、
+　私の責任だ・・・」
+<pause>
+ブラムバルド
+「だが・・・」
+<pause>
+ブラムバルド
+「無関係の彼らを、これ以上巻き
+　込むわけにはいかない・・・」
+<pause>
+アーシア
+「<speed_0010>・・・・・・・・・<speed_00FF>」
+<pause>
+ブラムバルド
+「私が身代わりになろう・・・」{END}","Brambard:<nl>
+I am the one who drove you
+to this...
+<pause>
+Brambard:<nl>
+And...
+<pause>
+Brambard:<nl>
+I will not allow any more innocent
+lives to be endangered.
+<pause>
+Arsia:<nl>
+<speed_0010>......<speed_00FF>
+<pause>
+Brambard:<nl>
+Turn me into a statue instead.{END}"
+"ブラムバルド
+「彫像になってしまえば森に連れ
+　戻されることもない」
+<pause>
+ブラムバルド
+「君は<speed_0010>・・・、<speed_00FF>変わったな」
+<pause>
+ブラムバルド
+「昔の君とは違う・・・」
+<pause>
+ブラムバルド
+「今の君なら・・・、例え彫像で
+　も満足なんだろう？」
+<pause>
+ブラムバルド
+「さあ・・・、はやく石コロにで
+　もしてくれ！！」{END}","Brambard:<nl>
+Once I'm a statue, they will not
+force me to go back to the forest.
+<pause>
+Brambard:<nl>
+...You've<speed_0010>...<speed_00FF>changed.
+<pause>
+Brambard:<nl>
+You didn't used to be this way...
+<pause>
+Brambard:<nl>
+The way you are now...<nl>
+You would be satisfied having
+me as a statue, yes?
+<pause>
+Brambard:<nl>
+So...I'm ready! If it's what you desire,
+turn me to stone!!{END}"
+"<Cless>
+「ブラムバルドさん！」
+<pause>
+<Cless>
+「あなたがそこまでしなきゃいけ
+　ない理由なんてないはずだ！」{END}","<Cless>:<nl>
+Lord Brambard!
+<pause>
+<Cless>:<nl>
+There's no reason for you to go
+that far!{END}"
+"ブラムバルド
+「いや・・・」
+<pause>
+ブラムバルド
+「思えば、彼女の為に生きること
+　ができていれば・・・」
+<pause>
+ブラムバルド
+「<Cless>君・・・」
+<pause>
+ブラムバルド
+「彼女は・・・ハーフエルフな
+　んだ」
+<pause>
+ブラムバルド
+「そして、私の恋人でも
+　ある・・・」
+<pause>
+<Cless>
+「じゃあ、なぜッ！！」{END}","Brambard:<nl>
+No...
+<pause>
+Brambard:<nl>
+If I could only live for her sake...
+<pause>
+Brambard:<nl>
+<Cless>...
+<pause>
+Brambard:<nl>
+She is a half-elf...
+<pause>
+Brambard:<nl>
+And the love of my life...
+<pause>
+<Cless>:<nl>
+But why!?{END}"
+"<Klarth>
+「<Cless>・・・」
+<pause>
+<Klarth>
+「<speed_0010>・・・<speed_00FF>ハーフエルフは、
+　ユミルの森には入れない・・・」
+<pause>
+<Klarth>
+「エルフは種族としての団結を選
+　んだんだ」{END}","<Klarth>:<nl>
+<Cless>...
+<pause>
+<Klarth>:<nl>
+<speed_0010>...<speed_00FF>half-elves are forbidden
+from entering Ymir Forest...
+<pause>
+<Klarth>:<nl>
+The elves have chosen a path of
+cohesion as a people.{END}"
+"ブラムバルド
+「・・・族長である私が、彼女と
+　一緒になるわけにはいかない
+　・・・」
+<pause>
+ブラムバルド
+「あなた方のことも・・・」
+<pause>
+ブラムバルド
+「彼女を追い込んだのも・・・」
+<pause>
+ブラムバルド
+「すべて私の責任だ！」{END}","Brambard:<nl>
+As the chief of the elves,
+there is no way I could be
+with her...
+<pause>
+Brambard:<nl>
+I am the one who roped you people
+into this...
+<pause>
+Brambard:<nl>
+And her as well...
+<pause>
+Brambard:<nl>
+It is all my fault!{END}"
+"アーシア
+「あなたを<speed_0010>・・・、<speed_00FF>つなぎとめ
+　るには<speed_0010>・・・<speed_00FF>」
+<pause>
+アーシア
+「こうするしかないのね」{END}","Arsia:<nl>
+To keep you by my side<speed_0010>...<speed_00FF>
+<pause>
+Arsia:<nl>
+I have no other choice, do I?{END}"
+"<Arche>
+「あ、あれっ？」
+<pause>
+<Arche>
+「どうなってんの？」{END}","<Arche>:<nl>
+H-Huh?
+<pause>
+<Arche>:<nl>
+What happened?{END}"
+"<Mint>
+「<Arche>さん！」{END}","<Mint>:<nl>
+<Arche>!{END}"
+"アーシア
+「来ないでッ！！」{END}","Arsia:<nl>
+Stay away!{END}"
+"アーシア
+「<speed_0010>・・・・・・<speed_00FF>お願い、
+　一人にして」
+<pause>
+<Cless>
+「<speed_0010>・・・<speed_00FF>」{END}","Arsia:<nl>
+<speed_0010>......<speed_00FF>Please, just leave me be.
+<pause>
+<Cless>:<nl>
+<speed_0010>...<speed_00FF>{END}"
+"アーシア
+「一人に<speed_0010>、<speed_00FF>してください<speed_0010>・・・<speed_00FF>」{END}","Arsia:<nl>
+Please<speed_0010>, <speed_00FF>let me be alone<speed_0010>...<speed_00FF>{END}"
+"<Mint>
+「<Cless>さん」
+<pause>
+<Mint>
+「とにかく落ち着いてから、また
+　来ましょう」{END}","<Mint>:<nl>
+<Cless>.
+<pause>
+<Mint>:<nl>
+We should return after she
+settles down.{END}"
+"<Klarth>
+「・・・悔しいけども、今の私た
+　ちには何もできない・・・」
+<pause>
+<Klarth>
+「あなたが、心変わりすることを
+　祈ってます！」{END}","<Klarth>:<nl>
+It's frustrating, but there's
+nothing we can do right now...
+<pause>
+<Klarth>:<nl>
+You'd better have a change
+of heart!{END}"
+"<Klarth>
+「みんな早く行こう！」
+<pause>
+<Klarth>
+「あんな女の顔は見たくない！」{END}","<Klarth>:<nl>
+Let's hurry up and go, people!
+<pause>
+<Klarth>:<nl>
+I can't stand looking at her face
+anymore!{END}"
+"<Mint>
+「結局、弓を置いてきてしまいま
+　したね・・・」
+<pause>
+<Cless>
+「しかたないよ・・・」
+<pause>
+<Cless>
+「<Arche>が無事だっただけ
+　でも、良かったよ」
+<pause>
+<Klarth>
+「<speed_0010>・・・<speed_00FF>先を急ごう」{END}","<Mint>:<nl>
+After all that, we ended up
+leaving the bow behind,
+didn't we...?
+<pause>
+<Cless>:<nl>
+Oh well...
+<pause>
+<Cless>:<nl>
+At least <Arche>'s okay!
+<pause>
+<Klarth>:<nl>
+<speed_0010>...<speed_00FF>Let's get outta here.{END}"
+"<Cless>
+「ごめんください」{END}","<Cless>:<nl>
+Hello?{END}"
+"？？？
+「はい」{END}","???:<nl>
+Yes?{END}"
+"<Cless>
+「ブ、ブラムバルドさん！！」
+<pause>
+ブラムバルド
+「おお、あなた方は！」
+<pause>
+ブラムバルド
+「お久しぶりですね」
+<pause>
+ブラムバルド
+「確かこの前に会ったのが・・・」
+<pause>
+ブラムバルド
+「<speed_0010>・・・・・・？<speed_00FF>」
+<pause>
+ブラムバルド
+「なぜ生きてるのですか？」{END}","<Cless>:<nl>
+L-Lord Brambard!
+<pause>
+Brambard:<nl>
+Oh, it's you!
+<pause>
+Brambard:<nl>
+It has been a long time.
+<pause>
+Brambard:<nl>
+How long, I wonder...?
+<pause>
+Brambard:<nl>
+<speed_0010>......?<speed_00FF>
+<pause>
+Brambard:<nl>
+How is it that you still live?{END}"
+"<Klarth>
+「まだ残っていたのか・・・」
+<pause>
+<Klarth>
+「正直、ここには来たくなかった
+　よ」{END}","<Klarth>:<nl>
+Still here...
+<pause>
+<Klarth>:<nl>
+Honestly, I didn't want to
+come back here.{END}"
+"<Mint>
+「あれから、彼女は一体どうなっ
+　たのでしょうか・・・？」
+<pause>
+<Cless>
+「・・・とにかく、誰かいるかも
+　しれない」
+<pause>
+<Cless>
+「訪ねて見よう」{END}","<Mint>:<nl>
+I wonder what's become of her since then...?
+<pause>
+<Cless>:<nl>
+...At any rate, there might be
+someone here.
+<pause>
+<Cless>:<nl>
+Let's pay her a visit.{END}"
+"<Chester>
+「なあ、<Arche>」
+<pause>
+{END}","<Chester>:<nl>
+Hey, <Arche>.
+<pause>
+{END}"
+"<Chester>
+「みんな暗い顔してるけど、過去
+　になんかあったのか？」
+<pause>
+<Arche>
+「えっ、ま、まあね<panic>」
+<pause>
+<Arche>
+「あっ、あたしは彫像だったから
+　さ、あまりわかんないんだ<panic>」{END}","<Chester>:<nl>
+Everyone looks so gloomy. Did
+something happen in the past?
+<pause>
+<Arche>:<nl>
+Um, well, yeah... <panic>
+<pause>
+<Arche>:<nl>
+But I was a statue at the time,
+so I don't really know
+what happened. <panic>{END}"
+"<Chester>
+「は？？」{END}","<Chester>:<nl>
+Huh!?{END}"
+"<Cless>
+「なにしてんだ、二人とも？」
+<pause>
+<Cless>
+「先に行くぞ」{END}","<Cless>:<nl>
+What do the two of you think
+you're doing?
+<pause>
+<Cless>:<nl>
+I'm going on ahead.{END}"
+"<Arche>
+「あー、待って〜」
+<pause>
+<Arche>
+「ま、そう言う訳だから<heart>」{END}","<Arche>:<nl>
+Hey, wait!
+<pause>
+<Arche>:<nl>
+Um, so that's about the size
+of it. <heart>{END}"
+"<Chester>
+「お、おい、待てよ！」{END}","<Chester>:<nl>
+Hey, wait!{END}"
+"ブラムバルド
+「なるほど、ダオスを追って未来
+　まで時空を越えてきた・・・」
+<pause>
+ブラムバルド
+「信じられない話です」{END}","Brambard:<nl>
+I see. So you chased Dhaos
+through space-time, into
+the future...
+<pause>
+Brambard:<nl>
+What a fantastical story.{END}"
+"ブラムバルド
+「しかし今、目の前にあなた方が
+　いるのは事実」
+<pause>
+<Cless>
+「はい」
+<pause>
+<Cless>
+「必ずこの時代でダオスと決着を
+　つけます！」
+<pause>
+ブラムバルド
+「まさに、因縁というものを感じ
+　させるな・・・」
+<pause>
+<Klarth>
+「ああ」
+<pause>
+<Klarth>
+「それから・・・」{END}","Brambard:<nl>
+Yet I cannot deny the fact that you
+stand before me right now.
+<pause>
+<Cless>:<nl>
+Yep...
+<pause>
+<Cless>:<nl>
+We're going to finish things
+with Dhaos in this age,
+once and for all!
+<pause>
+Brambard:<nl>
+This must be the workings
+of fate...
+<pause>
+<Klarth>:<nl>
+Without doubt.
+<pause>
+<Klarth>:<nl>
+And...{END}"
+"ブラムバルド
+「・・・言いたい事は、わかりま
+　す」
+<pause>
+ブラムバルド
+「２階に来てもらえますか？」{END}","Brambard:<nl>
+I know what you wish to say.
+<pause>
+Brambard:<nl>
+Do you mind following me upstairs?{END}"
+"<Mint>
+「ア、アーシア・・・、さん？」{END}","<Mint>:<nl>
+Arsia... Is that her?{END}"
+"ブラムバルド
+「これが、彼女の出した答えなん
+　だと思います」{END}","Brambard:<nl>
+I think this is her final answer.{END}"
+"ブラムバルド
+「私が気が付いた時には、すでに
+　彼女はこの姿でした」
+<pause>
+ブラムバルド
+「おそらく、私の身代わりとなり
+　彼女自身が彫像に・・・」
+<pause>
+<Mint>
+「そんな事が・・・」
+<pause>
+ブラムバルド
+「この彫像を見ていると、彼女が
+　何を言いたかったのか・・・」
+<pause>
+ブラムバルド
+「わかる気がします」
+<pause>
+<Klarth>
+「・・・」{END}","Brambard:<nl>
+By the time I awoke, this is
+what had become of her.
+<pause>
+Brambard:<nl>
+I believe she became a statue in
+my place...
+<pause>
+<Mint>:<nl>
+How horrible...
+<pause>
+Brambard:<nl>
+When I look at this statue,
+I can almost...
+<pause>
+Brambard:<nl>
+I can almost tell what she
+wanted to say.
+<pause>
+<Klarth>:<nl>
+...{END}"
+"ブラムバルド
+「それから、私の足元にこの弓が
+　置いてありました」{END}","Brambard:<nl>
+Also, I found this bow
+at my feet.{END}"
+"<Cless>
+「こっ、これは！」
+<pause>
+<Mint>
+「弓・・・？」
+<pause>
+<Mint>
+「<Chester>さんの・・・！」
+<pause>
+<Klarth>
+「なんだって！」{END}","<Cless>:<nl>
+This is...!
+<pause>
+<Mint>:<nl>
+A bow?
+<pause>
+<Mint>:<nl>
+It's <Chester>'s!
+<pause>
+<Klarth>:<nl>
+It is!{END}"
+"<Chester>
+「おい、<Cless>！」
+<pause>
+<Chester>
+「俺の弓がどうしたって？」{END}","<Chester>:<nl>
+Hey, <Cless>!
+<pause>
+<Chester>:<nl>
+What about my bow?{END}"
+"<Chester>
+「・・・こ、これは！」
+<pause>
+<Chester>
+「す、すげえ・・・」
+<pause>
+<Chester>
+「持っただけで力を感じるぜ！」
+<pause>
+ブラムバルド
+「私は<speed_0010>・・・<speed_00FF>」
+<pause>
+ブラムバルド
+「この弓のおかげで、彼女の心の
+　痛みを知る事が出来ました」
+<pause>
+ブラムバルド
+「長らくお待たせしました」
+<pause>
+ブラムバルド
+「この弓は私が彼女に代わって、
+　あなた方にお返しします」{END}","<Chester>:<nl>
+Wow...
+<pause>
+<Chester>:<nl>
+I can't believe it!
+<pause>
+<Chester>:<nl>
+I can feel the power just holding
+it in my hands!
+<pause>
+Brambard:<nl>
+I<speed_0010>...<speed_00FF>
+<pause>
+Brambard:<nl>
+This bow taught me the depth of
+the pain she has been suffering.
+<pause>
+Brambard:<nl>
+Here it is, at long last.
+<pause>
+Brambard:<nl>
+I return the bow to you
+in her place.{END}"
+<color_0002><item_DC00>を手に入れました。<color_0000>{END},<color_0002>Acquired <item_DC00>.<color_0000>{END}
+"ブラムバルド
+「私はここで暮らしていきます」
+<pause>
+ブラムバルド
+「いつの日か、彼女の心の傷が癒
+　る時まで・・・」
+<pause>
+ブラムバルド
+「そしてまた、彼女と共に暮らせ
+　る日がくるまで<speed_0010>・・・<speed_00FF>」
+<pause>
+<Klarth>
+「<speed_0010>・・・<speed_00FF>」{END}","Brambard:<nl>
+I will live here from now on.
+<pause>
+Brambard:<nl>
+Until the day the wounds
+of her heart are healed...
+<pause>
+Brambard:<nl>
+Until the day we can be together
+once again<speed_0010>...<speed_00FF>
+<pause>
+<Klarth>:<nl>
+<speed_0010>...<speed_00FF>{END}"
+"<Cless>
+「ブラムバルドさん」
+<pause>
+ブラムバルド
+「おお、あなた方は・・・・・・」{END}","<Cless>:<nl>
+Lord Brambard.
+<pause>
+Brambard:<nl>
+Oh, it's you folks...{END}"
+"<Cless>
+「ブラムバルド・・・さん？」
+<pause>
+ブラムバルド
+「・・・すまない・・・」
+<pause>
+ブラムバルド
+「・・・しばらく、放っておいて
+　くれないか？」{END}","<Cless>:<nl>
+Lord Brambard?
+<pause>
+Brambard:<nl>
+I'm sorry...
+<pause>
+Brambard:<nl>
+Please, leave me alone
+for a while...{END}"
+"<Klarth>
+「おい、一体なにがあったって言
+　うんだ？」{END}","<Klarth>:<nl>
+What in the hell happened?{END}"
+"ブラムバルド
+「あなた方にはダオス討伐という
+　重要な使命がある」
+<pause>
+ブラムバルド
+「これ以上、我々エルフの問題に
+　あなた方を巻き込むわけにはい
+　かない」
+<pause>
+<Cless>
+「ブラムバルドさん・・・？」{END}","Brambard:<nl>
+You are on a crucial mission
+to defeat Dhaos.
+<pause>
+Brambard:<nl>
+I will not entangle you anymore
+in the problems of us elves.
+<pause>
+<Cless>:<nl>
+Lord Brambard...{END}"
+"ブラムバルド
+「・・・・・・来たか」{END}","Brambard:<nl>
+So you've come...{END}"
+"エルフの若者
+「族長！」
+<pause>
+エルフの若者
+「今日こそお返事を聞かせていた
+　だきたい！」{END}","Young Elf:<nl>
+Chief!
+<pause>
+Young Elf:<nl>
+Today we'd like to finally
+hear your answer!{END}"
+"ブラムバルド
+「今は客人が来ている・・・」
+<pause>
+ブラムバルド
+「しばらく、待ってくれないか？」
+<pause>
+エルフの若者
+「しかし族長！！」
+<pause>
+ブラムバルド
+「待っていろと言っている！」{END}","Brambard:<nl>
+I have guests I must attend to.
+<pause>
+Brambard:<nl>
+Can you wait a moment?
+<pause>
+Young Elf:<nl>
+But, sir!
+<pause>
+Brambard:<nl>
+I said wait!{END}"
+"ブラムバルド
+「すまないな・・・」{END}","Brambard:<nl>
+My apologies...{END}"
+"ブラムバルド
+「みなさん・・・」{END}","Brambard:<nl>
+Everyone...{END}"
+"ブラムバルド
+「お見苦しいところをお見せしま
+　した・・・」
+<pause>
+<Klarth>
+「一体どうしたというんだ」
+<pause>
+ブラムバルド
+「<speed_0010>・・・・・・・・・<speed_00FF>」
+<pause>
+<Klarth>
+「話して<speed_0010>、<speed_00FF>くれるんだな？」{END}","Brambard:<nl>
+I am sorry you had to see that.
+<pause>
+<Klarth>:<nl>
+What the hell was that about?
+<pause>
+Brambard:<nl>
+<speed_0010>......<speed_00FF>
+<pause>
+<Klarth>:<nl>
+Won't you tell us?{END}"
+"ブラムバルド
+「あなた方には、話した方が良い
+　のかも知れませんね・・・」
+<pause>
+ブラムバルド
+「ここではなんですから、２階で
+　話しませんか？」{END}","Brambard:<nl>
+Perhaps I should explain myself...
+<pause>
+Brambard:<nl>
+This is the wrong place for that, however.
+Shall we discuss it upstairs?{END}"
+"ブラムバルド
+「さて・・・、何からお話すれば
+　良いのでしょうかね」{END}","Brambard:<nl>
+All right... Where to begin?{END}"
+"<Cless>
+「あの、ブラムバルドさん！」
+<pause>
+ブラムバルド
+「すみません、いつもあなた方に
+　は迷惑をかけてしまう」
+<pause>
+<Klarth>
+「・・・で、さっきのアレもそう
+　なんだが、一体なにがあったん
+　だ？」
+<pause>
+ブラムバルド
+「すべて、お話しましょう・・・」{END}","<Cless>:<nl>
+Um, Lord Brambard!
+<pause>
+Brambard:<nl>
+Forgive me for always
+dragging you into our problems.
+<pause>
+<Klarth>:<nl>
+So tell us already.
+What was that all about?
+<pause>
+Brambard:<nl>
+I shall tell you everything...{END}"
+"ブラムバルド
+「あなた方がダオスを追って
+　この時代に転移してくるまで
+　の間・・・」
+<pause>
+ブラムバルド
+「私は長い年月をこの地で過ごし
+　てきました」{END}","Brambard:<nl>
+While you were chasing Dhaos
+through time, all the way to this age...
+<pause>
+Brambard:<nl>
+I've lived here for many
+long years.{END}"
+"ブラムバルド
+「・・・彼女と共に・・・」
+<pause>
+<Klarth>
+「・・・・・・・・・」{END}","Brambard:<nl>
+With her...
+<pause>
+<Klarth>:<nl>
+...{END}"
+"ブラムバルド
+「私は彼女と共に生きると心に誓
+　いました」
+<pause>
+ブラムバルド
+「それが私の犯した罪に対する罰
+　なんだと思いました・・・」
+<pause>
+<Cless>
+「・・・・・・罰？」
+<pause>
+ブラムバルド
+「彼女はそんな事を望んだわけで
+　はないでしょう・・・」
+<pause>
+ブラムバルド
+「しかし私はそう思って
+　いた・・・」
+<pause>
+ブラムバルド
+「いや、今でもそう思っているの
+　かもしれません」
+<pause>
+ブラムバルド
+「彼女を想う気持ちと、一族の長
+　としての責任・・・」
+<pause>
+ブラムバルド
+「エルフとハーフエルフ・・・」
+<pause>
+ブラムバルド
+「決して結ばれる事のない関係が、
+　私の心に深く突き刺さっていま
+　した」{END}","Brambard:<nl>
+I vowed that I would live
+together with her.
+<pause>
+Brambard:<nl>
+I thought of it as my way of
+seeking atonement for my
+many sins.
+<pause>
+<Cless>:<nl>
+Sins?
+<pause>
+Brambard:<nl>
+I do not think this is what
+she would have wanted...
+<pause>
+Brambard:<nl>
+But that's what I believed at the time...
+<pause>
+Brambard:<nl>
+No, that's what I still believe.
+<pause>
+Brambard:<nl>
+When I think of her,
+I feel the weight of my
+responsibility as chief...
+<pause>
+Brambard:<nl>
+An elf and a half-elf...
+<pause>
+Brambard:<nl>
+The idea that our love could
+never be...it filled my heart
+with anguish.{END}"
+"<Klarth>
+「それで、さっきの連中は？」
+<pause>
+<Klarth>
+「見たところ、彼らはエルフの若
+　者のようだが？」
+<pause>
+ブラムバルド
+「ええ・・・」
+<pause>
+ブラムバルド
+「族長の私が１５０年もの間一族
+　の元を離れてしまった・・・」
+<pause>
+ブラムバルド
+「私の身勝手な行動により、一族
+　の行く末を危ぶませてしまった
+　のです」
+<pause>
+<Klarth>
+「それで、あなたを連れ戻しにき
+　たのか・・・」
+<pause>
+ブラムバルド
+「そうです」
+<pause>
+ブラムバルド
+「今、我々は大きな分岐点に差し
+　掛かっているのです」
+<pause>
+ブラムバルド
+「里には、人間が自由に出入りす
+　るようになりました」
+<pause>
+ブラムバルド
+「我々エルフたちの考えは変わり
+　ました」
+<pause>
+ブラムバルド
+「人間の中にも、我々の理解者が
+　いるんだと・・・」
+<pause>
+ブラムバルド
+「アルヴァニスタ王も、その中の
+　一人です」
+<pause>
+ブラムバルド
+「王は積極的に我々の文化を吸収
+　してくれたようです」
+<pause>
+ブラムバルド
+「そして我々の地位の向上に貢献
+　してくれました」
+<pause>
+ブラムバルド
+「しかし・・・・・・」
+<pause>
+<Klarth>
+「やはり、ハーフエルフは・・・、
+　受け入れられないか・・・」
+<pause>
+ブラムバルド
+「ええ・・・」
+<pause>
+ブラムバルド
+「ハーフエルフに対しては・・・」
+<pause>
+ブラムバルド
+「昔の過ちを繰り返すのでは、と
+　考える人がいるのです・・・」
+<pause>
+<Klarth>
+「昔の過ち？」{END}","<Klarth>:<nl>
+Who was that just now?
+<pause>
+<Klarth>:<nl>
+They looked like young elves to
+me.
+<pause>
+Brambard:<nl>
+That is correct.
+<pause>
+Brambard:<nl>
+I left my people for
+one hundred and fifty years...
+<pause>
+Brambard:<nl>
+My selfish actions have left my
+people without direction.
+<pause>
+<Klarth>:<nl>
+So they came to bring you back?
+<pause>
+Brambard:<nl>
+Correct.
+<pause>
+Brambard:<nl>
+We elves stand before a major
+crossroads.
+<pause>
+Brambard:<nl>
+Humans are now allowed
+to freely come and go
+into our village.
+<pause>
+Brambard:<nl>
+Our attitudes have changed.
+<pause>
+Brambard:<nl>
+Some humans have even learned
+to speak the elven tongue...
+<pause>
+Brambard:<nl>
+The King of Alvanista being one of them.
+<pause>
+Brambard:<nl>
+The King has been aggressively
+absorbing our culture.
+<pause>
+Brambard:<nl>
+This has significantly improved
+the standing of us elves.
+<pause>
+Brambard:<nl>
+Still...
+<pause>
+<Klarth>:<nl>
+Half-elves still face rejection?
+<pause>
+Brambard:<nl>
+Indeed...
+<pause>
+Brambard:<nl>
+When it comes to half-elves...
+<pause>
+Brambard:<nl>
+Some people are afraid of
+repeating the sins of
+the past.
+<pause>
+<Klarth>:<nl>
+Sins of the past?{END}"
+"ブラムバルド
+「ハーフエルフは、我々にない能
+　力を持っています」
+<pause>
+ブラムバルド
+「桁外れの魔力、人間以上の
+　知識力、・・・そして
+　魔科学兵器・・・」
+<pause>
+ブラムバルド
+「ミッドガルズの優秀な科学者の
+　大半はハーフエルフでした」
+<pause>
+<Klarth>
+「ミッドガルズの科学者が！？」
+<pause>
+<Klarth>
+「しかしあそこはエルフの
+　受け入れを断固として
+　拒んだはず・・・」
+<pause>
+ブラムバルド
+「表向きは・・・、です」
+<pause>
+ブラムバルド
+「それに・・・」
+<pause>
+ブラムバルド
+「純粋なエルフだったら魔科学な
+　どという・・・」
+<pause>
+ブラムバルド
+「魔力をもてあそんだようなモノ
+　に力を貸しはしないでしょう」
+<pause>
+ブラムバルド
+「しかし、ハーフエルフは魔科学
+　に力を貸してしまった・・・」
+<pause>
+ブラムバルド
+「マナの力が失われる危機を、自
+　ら生み出しているのです」{END}","Brambard:<nl>
+Half-elves enjoy capabilities
+that we pure-blooded elves lack.
+<pause>
+Brambard:<nl>
+Powerful magic, stronger
+intellects than humans,
+magitech weaponry...
+<pause>
+Brambard:<nl>
+Most of the great scientists
+of Midgard were half-elves.
+<pause>
+<Klarth>:<nl>
+They were!?
+<pause>
+<Klarth>:<nl>
+But Midgard strictly prohibited
+elves from entering the country...
+<pause>
+Brambard:<nl>
+That was nothing more than
+a facade.
+<pause>
+Brambard:<nl>
+Furthermore...
+<pause>
+Brambard:<nl>
+No pure elf would contribute to
+a power like magitech...
+<pause>
+Brambard:<nl>
+They would not help humans
+trifle with magic.
+<pause>
+Brambard:<nl>
+But the half-elves assisted in
+the development of magitech...
+<pause>
+Brambard:<nl>
+They were the ones who caused
+the critical decline in mana.{END}"
+"ブラムバルド
+「族長である私が、ハーフエルフ
+　と共に生きる事・・・」
+<pause>
+ブラムバルド
+「その意味の重大さはおわかりい
+　ただけるでしょう」
+<pause>
+<Klarth>
+「・・・・・・・・・」
+<pause>
+ブラムバルド
+「でも・・・、それでも・・・」
+<pause>
+ブラムバルド
+「私は彼女の為に生きていくと
+　誓ったのです」
+<pause>
+ブラムバルド
+「私の命が尽きるまで・・・」{END}","Brambard:<nl>
+For me, the chief of the elves,
+to cohabitate with a half-elf...
+<pause>
+Brambard:<nl>
+You understand the deep significance
+behind this act now?
+<pause>
+<Klarth>:<nl>
+...
+<pause>
+Brambard:<nl>
+But...even so...
+<pause>
+Brambard:<nl>
+I vowed to dedicate my life
+to her all the same.
+<pause>
+Brambard:<nl>
+Until the day I die...{END}"
+"<Arche>
+「・・・・・・あのさ」{END}","<Arche>:<nl>
+Um, you know...{END}"
+"<Arche>
+「アーシアさんはそんな事を望ん
+　でるんじゃないと思うよ？」{END}","<Arche>:<nl>
+I don't think that's what Arsia
+would want.{END}"
+"<Arche>
+「あたしが言うような事じゃない
+　かもしれないけどさ・・・」
+<pause>
+<Arche>
+「あんたはアーシアさんの事、ど
+　う思ってるの？」{END}","<Arche>:<nl>
+Maybe it's not my place to say
+this, but...
+<pause>
+<Arche>:<nl>
+How do you really feel about Arsia?{END}"
+"<Arche>
+「あたしはあんたたちが目の敵に
+　するハーフエルフよ」
+<pause>
+<Arche>
+「・・・お母さんに会うことすら
+　許されないの」
+<pause>
+<Arche>
+「エルフとかハーフエルフとか、
+　そんな事よりもさ・・・」
+<pause>
+<Arche>
+「大切なのはその人の気持ちなん
+　だと思うよ」
+<pause>
+<Arche>
+「罪の意識で一緒にいられたって、
+　彼女は傷つくだけじゃない！」
+<pause>
+<Cless>
+「お、おい、<Arche>」
+<pause>
+<Arche>
+「確かに、あの女にあたしは石に
+　されちゃったし・・・」
+<pause>
+<Arche>
+「正直、ちょっとムカついてたけ
+　どさ・・・」{END}","<Arche>:<nl>
+You realize I'm one of the elves'
+sworn enemies, don't you?
+I'm a half-elf!
+<pause>
+<Arche>:<nl>
+They won't even let me see
+my own mother...
+<pause>
+<Arche>:<nl>
+I think how a person feels
+is more important...
+<pause>
+<Arche>:<nl>
+Even more than whether
+they're an elf or a half-elf!
+<pause>
+<Arche>:<nl>
+Staying with Arsia as a form
+of punishment is only gonna
+hurt her more!
+<pause>
+<Cless>:<nl>
+Hey, <Arche>...
+<pause>
+<Arche>:<nl>
+Well, she did turn me
+to stone, and...
+<pause>
+<Arche>:<nl>
+Honestly, that kinda did
+royally piss me off, but...{END}"
+"<Arche>
+「今はあんたのはっきりしない態
+　度が一番ムカつくの！」{END}","<Arche>:<nl>
+You being so wishy-washy pisses
+me off WAY more!{END}"
+"ブラムバルド
+「彼女の、言う通りです・・・」
+<pause>
+ブラムバルド
+「エルフの族長であるが為に、自
+　分の気持ちを抑え続けて・・・」{END}","Brambard:<nl>
+She is right...
+<pause>
+Brambard:<nl>
+As chief of the elves, I've been
+repressing my own feelings.{END}"
+"ブラムバルド
+「私は・・・・・・」
+<pause>
+ブラムバルド
+「私はアーシアを愛して
+　いる・・・」
+<pause>
+ブラムバルド
+「なによりも、それが一番大事な
+　事なんだ」{END}","Brambard:<nl>
+I...
+<pause>
+Brambard:<nl>
+I love Arsia...
+<pause>
+Brambard:<nl>
+That's more important than
+anything else.{END}"
+"ブラムバルド
+「アーシア・・・・・・」{END}","Brambard:<nl>
+Arsia...{END}"
+"<Cless>
+「うわっ、な、なんだ！！」
+<pause>
+<Klarth>
+「せ、石像が！！」{END}","<Cless>:<nl>
+Huh!? What's...!?
+<pause>
+<Klarth>:<nl>
+The statue!!!{END}"
+"アーシア
+「う、うう・・・・・・・」{END}","Arsia:<nl>
+Ooohhh...{END}"
+"ブラムバルド
+「ア・・・、アーシア！！」{END}","Brambard:<nl>
+Arsia!!!{END}"
+"<Cless>
+「だっ、大丈夫か！」
+<pause>
+アーシア
+「うう・・・・・・」
+<pause>
+ブラムバルド
+「アーシア、大丈夫か！？」
+<pause>
+アーシア
+「ブ、ブラム・・・」{END}","<Cless>:<nl>
+Are you okay!?
+<pause>
+Arsia:<nl>
+Aaahhh...
+<pause>
+Brambard:<nl>
+Arsia, are you all right!?
+<pause>
+Arsia:<nl>
+B-Bram...{END}"
+"アーシア
+「わ、私<speed_0010>・・・、<speed_00FF>元に<speed_0010>・・・<speed_00FF>戻っ
+　たのね<speed_0010>・・・<speed_00FF>」
+<pause>
+ブラムバルド
+「アーシア・・・」{END}","Arsia:<nl>
+I<speed_0010>...<speed_00FF>turned back<speed_0010>...<speed_00FF>
+to normal, didn't I<speed_0010>...?<speed_00FF>
+<pause>
+Brambard:<nl>
+Arsia...{END}"
+"アーシア
+「ブ、ブラム・・・」{END}","Arsia:<nl>
+B-Bram...{END}"
+"アーシア
+「ブラム、あなたのおかげなのね」
+<pause>
+ブラムバルド
+「アーシア・・・」{END}","Arsia:<nl>
+Bram, you brought me
+back, didn't you?
+<pause>
+Brambard:<nl>
+Arsia...{END}"
+"アーシア
+「ブラム、ありがとう・・・」
+<pause>
+ブラムバルド
+「・・・アーシア・・・」{END}","Arsia:<nl>
+Oh Bram, thank you...
+<pause>
+Brambard:<nl>
+Arsia...{END}"
+"<Klarth>
+「彼女の呪いを解くカギは、
+　ブラムバルドの想い
+　だったのか・・・」
+<pause>
+<Klarth>
+「自らにその呪いをかけて、
+　ブラムバルドが解き放つのを
+　待つ・・・」
+<pause>
+<Klarth>
+「結局、彼女が一番ブラムバルド
+　の事を信じていたんだな」
+<pause>
+<Mint>
+「でも・・・、これでやっと、あ
+　の二人は・・・」
+<pause>
+<Klarth>
+「種族間の問題もあるだろうが、
+　きっとうまくやるさ」
+<pause>
+<Cless>
+「あの二人には、幸せになって欲
+　しいね」
+<pause>
+<Arche>
+「・・・なるわよ」
+<pause>
+<Klarth>
+「・・・・・・そうだな」
+<pause>
+<Klarth>
+「さて、エルフたちとの話し合い
+　も、そろそろ終わった頃だ」
+<pause>
+<Klarth>
+「我々も下に降りよう」{END}","<Klarth>:<nl>
+Brambard's feelings were the key
+to lifting her curse...
+<pause>
+<Klarth>:<nl>
+She placed a curse upon herself, and awaited
+the day that Brambard would cure her...
+<pause>
+<Klarth>:<nl>
+She had more faith in Brambard
+than anyone.
+<pause>
+<Mint>:<nl>
+They're finally together again...
+<pause>
+<Klarth>:<nl>
+Although they'll still face ostracism,
+I'm sure those two'll pull through.
+<pause>
+<Cless>:<nl>
+I wish them all the happiness in the world.
+<pause>
+<Arche>:<nl>
+They'll make it...
+<pause>
+<Klarth>:<nl>
+Yeah...
+<pause>
+<Klarth>:<nl>
+All right, the elves must have
+finished talking by now.
+<pause>
+<Klarth>:<nl>
+Let's head on down, too.{END}"
+"エルフの若者
+「そ、そんな・・・」
+<pause>
+エルフの若者
+「族長！」
+<pause>
+エルフの若者
+「考え直してください！」{END}","Young Elf:<nl>
+You can't be serious!
+<pause>
+Young Elf:<nl>
+Sir!
+<pause>
+Young Elf:<nl>
+You've got to reconsider!{END}"
+"ブラムバルド
+「すまないな、これが私の答えだ」
+<pause>
+ブラムバルド
+「これからは、ハーフエルフであ
+　る彼女と共に暮らしていく」
+<pause>
+ブラムバルド
+「里に戻り新しい族長を選んでく
+　れ」{END}","Brambard:<nl>
+Apologies, but this is
+my final answer.
+<pause>
+Brambard:<nl>
+She is a half-elf, and I will
+live with her from now on.
+<pause>
+Brambard:<nl>
+Return to the village
+and select a new chief.{END}"
+"エルフの若者
+「ブラムバルド様・・・・・・」
+<pause>
+ブラムバルド
+「私の答えはかわらないよ」
+<pause>
+ブラムバルド
+「これ以上、自分の気持ちに嘘を
+　つくことはできない」{END}","Young Elf:<nl>
+Chief Brambard...
+<pause>
+Brambard:<nl>
+Are you having trouble
+comprehending what I said!?
+<pause>
+Brambard:<nl>
+I cannot lie to myself anymore.{END}"
+"アーシア
+「ブラム・・・・・・」
+<pause>
+ブラムバルド
+「さあ、里に戻るんだ」{END}","Arsia:<nl>
+Bram...
+<pause>
+Brambard:<nl>
+Time for you to leave.{END}"
+"ブラムバルド
+「あなた方には本当に世話になり
+　ました」
+<pause>
+アーシア
+「本当に・・・、
+　特にあなた・・・」{END}","Brambard:<nl>
+I really want to thank
+all of you.
+<pause>
+Arsia:<nl>
+Especially you...{END}"
+"<Arche>
+「へ？」
+<pause>
+アーシア
+「ごめんなさいね、あんな事をし
+　てしまって」
+<pause>
+<Arche>
+「別に、すっかり元に戻ったんだ
+　し、もう気にしてないよ」
+<pause>
+アーシア
+「あなたも、ハーフエルフなのね」
+<pause>
+アーシア
+「あなたには、私たちの
+　この魔力を世界の為に
+　役立てて欲しいわ・・・」
+<pause>
+<Arche>
+「・・・うん」
+<pause>
+アーシア
+「私が力になれることがあれば、
+　何でも言って下さい」
+<pause>
+アーシア
+「今、私がここにいるのも全てあ
+　なた方のおかげなんですから」{END}","<Arche>:<nl>
+Huh?
+<pause>
+Arsia:<nl>
+I'm truly sorry for my actions.
+<pause>
+<Arche>:<nl>
+It's okay. I'm totally back to
+normal, and I don't hold grudges.
+<pause>
+Arsia:<nl>
+You're a half-elf too, aren't you?
+<pause>
+Arsia:<nl>
+Please use your powerful
+half-elf magic for the benefit
+of the world.
+<pause>
+<Arche>:<nl>
+I will.
+<pause>
+Arsia:<nl>
+Please don't hesitate to ask
+if you need anything at all.
+<pause>
+Arsia:<nl>
+I wouldn't even be here if not for
+you.{END}"
+"アーシア
+「そしてあなた・・・」
+<pause>
+<Klarth>
+「・・・ん？」
+<pause>
+アーシア
+「もう・・・、私の顔を見ても平
+　気ですか？」
+<pause>
+<Klarth>
+「ふふ、つまらない事はよく覚え
+　てるんだな」{END}","Arsia:<nl>
+And I wanted to ask you...
+<pause>
+<Klarth>:<nl>
+Hmm?
+<pause>
+Arsia:<nl>
+Does my face still bother you?
+<pause>
+<Klarth>:<nl>
+Heh, I can't believe you remember
+that silly comment.{END}"
+"アーシア
+「こんな事が恩返しになるかどう
+　か、わからないけれど・・・」
+<pause>
+アーシア
+「少しでもあなた方の役に立てる
+　のならば・・・」{END}","Arsia:<nl>
+I don't know if this makes up
+for all I did to you, but...
+<pause>
+Arsia:<nl>
+If it helps you out, even just
+a little bit...{END}"
+"アーシア
+「私が直した弓と神聖な丸太を、
+　ここへ」
+<pause>
+<Chester>
+「お、おう・・・」{END}","Arsia:<nl>
+Hand me the bow I fixed for you and the Sacred Wood.
+<pause>
+<Chester>:<nl>
+S-Sure...{END}"
+"<Chester>
+「こ、これは・・・」{END}","<Chester>:<nl>
+This bow...it's...{END}"
+"アーシア
+「私にできることはここまでです」
+<pause>
+アーシア
+「さあ、この弓を・・・」{END}","Arsia:<nl>
+This is all I can do for you.
+<pause>
+Arsia:<nl>
+Take this...{END}"
+"<Chester>
+「すげえな・・・・・・」
+<pause>
+<Chester>
+「弓からすさまじい力を感じる」{END}","<Chester>:<nl>
+Wow...
+<pause>
+<Chester>:<nl>
+My bow is pulsating with
+incredible power!{END}"
+<color_0002>エルヴンボウが強化されました。<color_0000>{END},<color_0002>Your Elven Bow was upgraded.<color_0000>{END}
+"<Klarth>
+「二人とも、我々にできるのはこ
+　こまでだ」
+<pause>
+<Klarth>
+「後は二人で解決していくんだな」
+<pause>
+ブラムバルド
+「ありがとう」
+<pause>
+<Klarth>
+「さて、<Cless>・・・」
+<pause>
+<Klarth>
+「我々も決着を付けなければなら
+　ない事があるな」
+<pause>
+<Cless>
+「ええ！」
+<pause>
+<Cless>
+「よし、ダオス城に乗り込むぞ！」{END}","<Klarth>:<nl>
+We've done as much as we
+possibly can for the two of you.
+<pause>
+<Klarth>:<nl>
+It's all up to you now.
+<pause>
+Brambard:<nl>
+Thank you.
+<pause>
+<Klarth>:<nl>
+All right, <Cless>...
+<pause>
+<Klarth>:<nl>
+We've got something to take care
+of ourselves.
+<pause>
+<Cless>:<nl>
+Good point!
+<pause>
+<Cless>:<nl>
+All right, onward to Dhaos' Castle!{END}"

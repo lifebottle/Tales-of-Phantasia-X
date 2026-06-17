@@ -1,0 +1,1382 @@
+Capital of Alvanista{END}
+
+Alvanista Harbor{END}
+
+Alvanista Harbor{END}
+
+“Please don't barge in!”
+<pause>
+“I'll have a nervous breakdown.”{END}
+
+“I'm out.”{END}
+
+<Cless>:<nl>
+ It's quiet...{END}
+
+<Cless>:<nl>
+ A dog...?{END}
+
+<Cless>:<nl>
+ A cat...?{END}
+
+“Sorry, We're Closed.
+Please Come Again.”{END}
+
+<audio_1A16>Alvanista Soldier:<nl>
+I assure you our city is perfectly safe!{END}
+
+<audio_1A17>Rondoline:<nl>
+Ooh, how dependable~♪<nl>
+Keep up the good work!{END}
+
+<audio_1A18>Alvanista Soldier:<nl>
+Raise the alarm! Something's infiltrated the castle!{END}
+
+<audio_1A19>Alvanista Soldier:<nl>
+Eh, it's probably a stray cat or some
+vagabond again...
+<pause>
+<audio_1A1A>Alvanista Soldier:<nl>
+Get serious! Carefree attitudes like yours
+are how those Eclipse people got in, or
+have you forgotten!?{END}
+
+<audio_1A1B>Rondoline:<nl>
+Eclipse...?{END}
+
+<audio_1A1C>Alvanista Soldier:<nl>
+B-But our security is perfect!
+<pause>
+<audio_1A1D>Alvanista Soldier:<nl>
+Then be perfectly prepared!{END}
+
+<audio_1A1E>Rondoline:<nl>
+Hey, what was that about the Eclipse?{END}
+
+<audio_1A1F>Alvanista Soldier:<nl>
+Hm? What? I don't really know, but...
+<pause>
+<audio_1A20>Alvanista Soldier:<nl>
+I've heard rumors that they're an organization of assassins. Some people even think they're a clan or something like that.{END}
+
+<audio_1A21>Alvanista Soldier:<nl>
+They say that 15 years ago when the
+previous king lost his life, that it was
+them that planned the whole thing!
+<pause>
+<audio_1A22>Alvanista Soldier:<nl>
+They even say that they were the ones who
+killed the King of Midgard some 200 years back, too!
+<pause>
+<audio_1A23><Cless>:<nl>
+No way... So Rody's father was part of that clan?{END}
+
+<audio_1A24><Arche>:<nl>
+But wait, didn't they call Rody's dad
+“that senile old fool Victor” or something?{END}
+
+<audio_1A25><Klarth>:<nl>
+Perhaps that was just a ruse, a facade he put on to infiltrate the castle?{END}
+
+<audio_1A26>Rondoline:<nl>
+Haha... At this point, I have no clue
+what the truth is anymore!
+<pause>
+<audio_1A27>Rondoline:<nl>
+But... Yeah... Father was being pursued by
+assassins from Midgard, after all.
+<pause>
+<audio_1A28>Rondoline:<nl>
+It's possible he was involved in the
+assassination of the King...
+<pause>
+<audio_1A29>Rondoline:<nl>
+Aah, maybe that's what he meant when he told me about his “important job” in Midgard...
+<pause>
+<audio_1A2A>Rondoline:<nl>
+When I think about it like that, it makes perfect sense...
+<pause>
+<audio_1A2B>Rondoline:<nl>
+Could Father really have done
+something like that...?{END}
+
+<audio_1A2C><Mint>:<nl>
+When I hear you talk about him,
+it's clear that you were very important to him, Miss Rody.
+<pause>
+<audio_1A2D><Mint>:<nl>
+I'm certain he must have had a very
+good reason for not telling you what really happened.
+<pause>
+<audio_1A2E>Rondoline:<nl>
+Father's reasons...<nl>
+...He never told me...
+<pause>
+<audio_1A2F><Mint>:<nl>
+Miss Rody...{END}
+
+<audio_1A30>Rondoline:<nl>
+I'm fine!<nl>
+I was just a little surprised, is all!
+<pause>
+<audio_1A31>Rondoline:<nl>
+Still... I can't help but feel so betrayed.{END}
+
+<audio_1A32>Rondoline:<nl>
+I thought he was a hero, a great man...<nl>
+Now I learn he was the opposite, that my father was an assassin...
+<pause>
+<audio_1A33>Rondoline:<nl>
+I was abandoned by my real parents, and now it's like the father I thought I knew has abandoned me too...<nl>
+I feel so alone.{END}
+
+<audio_1A34>Rondoline:<nl>
+...Ughh. This is so annoying!<nl>
+I don't even know myself anymore...
+<pause>
+<audio_1A35><Arche>:<nl>
+...Well, you loved your father a lot, right?{END}
+
+<audio_1A36>Rondoline:<nl>
+Huh?<nl>
+...You really think so?
+<pause>
+<audio_1A37><Arche>:<nl>
+Isn't that the reason you wanted to bring his sword with you for when you fight Dhaos?
+<pause>
+<audio_1A38>Rondoline:<nl>
+I thought that if I had something he held dear by my side, it would give me strength...
+<pause>
+<audio_1A39><Arche>:<nl>
+Well see? There ya go!{END}
+
+<audio_1A3A><Arche>:<nl>
+And you know what? Being so shocked
+over a lie just means you care a lot!
+<pause>
+<audio_1A3B><Mint>:<nl>
+That's right. Furthermore, that “lie” he told you...{END}
+
+<audio_1A3C><Mint>:<nl>
+I firmly believe he was thinking only of what was best for you.
+<pause>
+<audio_1A3D><Mint>:<nl>
+If he told you the truth, it might have
+upset you back then.
+<pause>
+<audio_1A3E><Mint>:<nl>
+It's possible that he was concerned that
+you were too young to be able to handle learning something like that about him.
+<pause>
+<audio_1A3F>Rondoline:<nl>
+Even if that were the case...
+<pause>
+<audio_1A40>Rondoline:<nl>
+It's completely different from what Father had told me.{END}
+
+<audio_1A41><Mint>:<nl>
+I think I understand how your father felt.
+<pause>
+<audio_1A42><Mint>:<nl>
+It's because you were truly so precious
+to him that he didn't tell you.
+<pause>
+<audio_1A43><Mint>:<nl>
+No, it's not that he didn't tell you,
+he simply couldn't.
+<pause>
+<audio_1A44><Mint>:<nl>
+Truly, I believe your father cared
+for you with all his heart, Miss Rody.{END}
+
+<audio_1A45><Arche>:<nl>
+<Mint>? What's wrong! You've turned red as a beet! <Cless>, what did you do to <Mint>?{END}
+
+<audio_1A46><Cless>:<nl>
+Wha? I-I didn't do anything...!{END}
+
+<audio_1A47>Rondoline:<nl>
+Precious, huh? Maybe you're right...{END}
+
+<audio_1A48>Rondoline<nl>
+(Was I better off not knowing the truth? Father...){END}
+
+Announcer:<nl>
+ Not feeling up to this, huh?
+ Calling it quits?{END}
+
+Announcer:<nl>
+ Oh, I'm sorry to hear that.
+ Come back and give it another
+ try sometime!{END}
+
+Announcer:<nl>
+ Hold on a minute.
+ The kid's still running his last lap.{END}
+
+Announcer:<nl>
+ Welcome to the Alvanistan
+ commemorative race!!!
+<pause>
+Announcer:<nl>
+ Terrific prizes await those quick on
+ their feet!<wait>{END}
+
+<unk1>Announcer:<nl>
+ Welcome to Alvanistan
+ commemorative race #<num5_C000508A>!!!
+<pause>
+Announcer:<nl>
+ Terrific prizes await those quick on
+ their feet!<wait>{END}
+
+Announcer:<nl>
+ Think you've got what it takes to
+ challenge the fastest boy in town?
+<pause>
+Announcer:<nl>
+ Outrun him, and a fantastic prize
+ of your choice is yours for the
+ taking!<wait>{END}
+
+Announcer:<nl>
+ Well, how about it?
+ Would you like to try?{END}
+
+Mach Kid:<nl>
+ No, I don't want to! You should try
+ racing cheetahs or something, man.
+ I hate to admit it, but you're way
+ too fast for me.
+<pause>
+Announcer:<nl>
+ Well, there you have it, folks!
+ Mach Kid has forfeited this race!
+<pause>
+Announcer:<nl>
+ How does it feel to be the new
+ king of speed in town!?
+<pause>
+Announcer:<nl>
+ I'm utterly amazed!!!
+ I give you my sincerest
+ congratulations!{END}
+
+Announcer:<nl>
+ Well, then!
+ Would you like a quick rundown of
+ the basics on this race?{END}
+
+Announcer:<nl>
+ Now!
+ To the starting line!{END}
+
+Announcer:<nl>
+ Oh, what a shame...{END}
+
+Announcer:<nl>
+ No false starts!
+ Back to the starting line.<wait>{END}
+
+Mach Kid:<nl>
+ I'm spent, man.
+ If I try to go as fast as you, my
+ legs will fall off...{END}
+
+Mach Kid:<nl>
+ Take your best shot, man!
+ I dare ya!{END}
+
+Mach Kid:<nl>
+ Weak!
+ I LOST!!{END}
+
+Mach Kid:<nl>
+ Heheh, go ahead and try again!
+ I'll go even faster next time!{END}
+
+Mach Kid:<nl>
+ What's wrong, man?
+ Out of breath? HA-haa!{END}
+
+Young Woman:<nl>
+ Wouldn't you like to take a stab at
+ the records?
+<pause>
+{END}
+
+<unk1>Young Woman:<nl>
+ The fastest anyone's managed to
+ complete the course was in <num5_C0005138>.<num5_C000513A><num5_C000513C>
+ seconds.
+<pause>
+{END}
+
+<unk1>Young Woman:<nl>
+ The best time for a single lap
+ currently stands at <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds.{END}
+
+Young Woman:<nl>
+ Good luck!{END}
+
+Citizen:<nl>
+ Dang, bro!
+ You were like greased lightning out
+ there!{END}
+
+Citizen:<nl>
+ That kid runs wicked fast.
+<pause>
+Citizen:<nl>
+ Can anyone possibly beat him?{END}
+
+Citizen:<nl>
+ Dang, bro!
+ You were like greased lightning out
+ there!{END}
+
+Citizen:<nl>
+ That kid runs wicked fast.
+<pause>
+Citizen:<nl>
+ Can anyone possibly beat him?{END}
+
+Citizen:<nl>
+ That kid runs wicked fast.
+<pause>
+Citizen:<nl>
+ Can anyone possibly beat him?{END}
+
+Girl:<nl>
+ If you win the race against that
+ kid, you'll get an incredible...umm...
+<pause>
+Girl:<nl>
+ Well, I don't know what exactly,
+ but it's some kind of item.
+ You'll just have to win to find out!{END}
+
+Citizen:<nl>
+ One of Dhaos' minions had turned
+ our prince into a pawn.
+<pause>
+Citizen:<nl>
+ Thank goodness someone saved
+ him!{END}
+
+Citizen:<nl>
+ Prince Laird is everyone's idol.
+<pause>
+Citizen:<nl>
+ Charisma, courage, magic,
+ looks--the guy's got it all!
+<pause>
+Citizen:<nl>
+ But he hasn't been seen recently,
+ and it's been a little lonely without
+ him.{END}
+
+Child:<nl>
+ Go, go!!!{END}
+
+Child:<nl>
+ There's nothing fun to do...
+<pause>
+Child:<nl>
+ Sure, I could race that other kid,
+ but he always beats me by the
+ time I get halfway through the
+ course!{END}
+
+Citizen:<nl>
+ The pub's a hot spot for adventurers seeking an expedition in
+ the Moria Mine.
+<pause>
+Citizen:<nl>
+ Most likely because that's more or
+ less the only place where they can
+ get an entry permit.{END}
+
+Soldier:<nl>
+ Welcome to Alvanista.
+<pause>
+Soldier:<nl>
+ Many elves have important jobs
+ here.
+<pause>
+Soldier:<nl>
+ This place is a sort of haven for
+ them, since it's so difficult for
+ them to find work in other
+ countries.
+<pause>
+Soldier:<nl>
+ The King is doing this because he
+ wants to completely integrate
+ magic into our country's society.
+ He's very progressive.{END}
+
+<Cless>:<nl>
+ Um, what are you guys doing?
+<pause>
+Citizen:<nl>
+ We're calling the sky people.
+<pause>
+<Cless>:<nl>
+ “Sky people”?
+<pause>
+Citizen:<nl>
+ Yeah.
+ There's a highly developed race of
+ people who are different from us
+ on the other side of the sky.
+<pause>
+Citizen:<nl>
+ They must rival the gods.{END}
+
+Citizen:<nl>
+ Come, my aerial friends!{END}
+
+Citizen:<nl>
+ I've memorized all their mantras,
+ prayers, evocations, and
+ invocations, but...
+<pause>
+Citizen:<nl>
+ ...what the HECK is this all about?
+ I never bothered to ask...{END}
+
+Soldier:<nl>
+ Lundgrom is this kingdom's Court
+ Mage.
+<pause>
+Soldier:<nl>
+ Despite his noble rank, he's happy
+ to strike up sincere conversations
+ even with us common soldiers.{END}
+
+Captain:<nl>
+ With the way the world is
+ nowadays, I'm in no mood to go
+ sailing the seas.{END}
+
+Captain:<nl>
+ Well, well, if it isn't you guys.
+<pause>
+Captain:<nl>
+ Looking for a ride to Venezia?<wait>{END}
+
+Captain:<nl>
+ Fare including shipping, food, and
+ insurance is <num5_C000514E> gald per person.
+<pause>
+Captain:<nl>
+ That puts the total for all
+ of you at <num5_C0005150> gald.
+ Still coming with us?{END}
+
+Captain:<nl>
+ No money, no ride.
+ That's just the way the world
+ works.{END}
+
+Captain:<nl>
+ All right, set sail!{END}
+
+Captain:<nl>
+ Whatever, then.{END}
+
+Sailor:<nl>
+ Dhaos' army attacked Midgard
+ persistently.
+<pause>
+Sailor:<nl>
+ What in the world did he want
+ from that country?{END}
+
+Sailor:<nl>
+ Seems Dhaos' army is attacking
+ Midgard relentlessly, but...
+<pause>
+Sailor:<nl>
+ Why is he so hell-bent on
+ destroying that country?{END}
+
+Sailor:<nl>
+ I'm glad to hear the war between
+ Dhaos' forces and Midgard is over.
+<pause>
+Sailor:<nl>
+ Finally, the world can relax a little.{END}
+
+Sailor:<nl>
+ They're thought of as a military
+ superpower, aren't they?
+<pause>
+Sailor:<nl>
+ Midgard, that is.
+<pause>
+Sailor:<nl>
+ What kind of army does Dhaos lead
+ if he can wreak such havoc on a
+ country like that?
+<pause>
+Sailor:<nl>
+ Let's just hope it stays far away
+ from here...{END}
+
+Man:<nl>
+ The sea is my home!!!
+<pause>
+Man:<nl>
+ Vast and beautiful, it is definitely
+ the mother of humanity!!!
+<pause>
+Man:<nl>
+ Let us treasure the sea!!{END}
+
+Girl:<nl>
+ I've just begun learning the tricks
+ to becoming a princess candidate.
+<pause>
+Girl:<nl>
+ I'm gonna master them all and
+ easily marry into royalty someday!
+<pause>
+Girl:<nl>
+ Where, oh where, is my prince?{END}
+
+Man:<nl>
+ Ahh, summer, the time of youth!
+<pause>
+Man:<nl>
+ Summer is good.{END}
+
+Woman:<nl>
+ I just want to go for a swim at
+ the beach on nice days like this.{END}
+
+Man:<nl>
+ Ever heard of the Ninja Village?
+<pause>
+Man:<nl>
+ An adventurer told me
+ the entrance to it is hidden away
+ somewhere in Treant Forest.{END}
+
+Man:<nl>
+ Ever heard of the Ninja Village?
+<pause>
+Man:<nl>
+ An adventurer at the pub told me
+ the entrance to it is hidden away
+ somewhere in Treant Forest.{END}
+
+Old Lady:<nl>
+ I heard tell that not only do the
+ spirits protect their dwelling
+ places...
+<pause>
+Old Lady:<nl>
+ They also watch over legendary
+ books of magic.{END}
+
+Citizen:<nl>
+ I remember hearing that the spirit,
+ Aska, was captured by the people
+ of the ancient civilization of Thor
+ long ago.
+<pause>
+Citizen:<nl>
+ I can't even begin to imagine what
+ kind of technology could restrain
+ an otherworldly being like that...{END}
+
+Man:<nl>
+ I'm trying to find out why I can't
+ go on a trip around the world, but
+ this swabbie refuses to help me.<wait>{END}
+
+Man:<nl>
+ Let me travel!
+ I'm begging you!{END}
+
+Sailor:<nl>
+ Well, now that Dhaos is gone,
+ maybe it's not such a bad idea to
+ let him go on that trip ...{END}
+
+Sailor:<nl>
+ Sigh...<nl>
+ This guy's completely oblivious to
+ the state of the world right now.<wait>{END}
+
+Sailor:<nl>
+ How many times do I
+ have to tell you!?
+ We can't go anywhere!!{END}
+
+Sailor:<nl>
+ This is a freighter.
+<pause>
+Sailor:<nl>
+ We're currently loading goods
+ designated for the outskirts of
+ Belladam.{END}
+
+Captain:<nl>
+ This freighter's just about to
+ depart for Belladam.
+<pause>
+Captain:<nl>
+ If you want to hitch a ride with us,
+ that's fine, but just know that it's
+ pretty much a one-way trip.
+<pause>
+Captain:<nl>
+ The instant we finish unloading the
+ cargo, we'll be going back to
+ Alvanista.
+<pause>
+Captain:<nl>
+ That out of the way, the fare,
+ including food and insurance, is
+ <num5_C000514E> gald per person.
+<pause>
+Captain:<nl>
+ That'll be <num5_C0005150> gald in total.
+ Hopping aboard?{END}
+
+Captain:<nl>
+ I see.{END}
+
+Captain:<nl>
+ You don't have the money.{END}
+
+Captain:<nl>
+ Then, let's set sail!{END}
+
+Sailor:<nl>
+ The food shortage in this country
+ just keeps getting worse.
+<pause>
+Sailor:<nl>
+ It looks like we might have to start
+ importing rice from the Euclid
+ region, of all places...<wait>{END}
+
+Sailor:<nl>
+ Hmm... I think we should wait just
+ a little longer to see if the situation
+ improves before taking such
+ measures...{END}
+
+Dandy:<nl>
+ This country is suffering from a
+ food shortage.
+<pause>
+Dandy:<nl>
+ I'm trying to convince the shippers
+ here to bring some back from
+ Euclid.<wait>{END}
+
+<unk1>Dandy:<nl>
+ Oh, is there any way I can possibly
+ persuade you into selling all that
+ rice you're carrying?
+<pause>
+Dandy:<nl>
+ Please!
+ I'm willing to take it off your
+ hands for <0Evar004651640009C000C0> gald.
+<pause>
+<speed_0000><color_0002>Sell your rice to him?<color_0000>{END}
+
+Dandy:<nl>
+ I really appreciate this.{END}
+
+Dandy:<nl>
+ I understand.
+ It must be very important to you...{END}
+
+Dandy:<nl>
+ His Majesty wills it...
+<pause>
+Dandy:<nl>
+ Can't something be done?{END}
+
+Sailor:<nl>
+ I'll tell you an interesting story.
+<pause>
+Sailor:<nl>
+ You know that pirate, Aifread?
+<pause>
+Sailor:<nl>
+ After he was executed, Midgard's
+ army raided his hideout, but they
+ came out empty-handed!{END}
+
+Sailor:<nl>
+ Lots of interesting stories going
+ around about Aifread, the pirate...
+<pause>
+Sailor:<nl>
+ It seems he hid all of his booty on
+ deserted islands and other obscure
+ places scattered all over the world.
+<pause>
+Sailor:<nl>
+ Clever guy, if true.{END}
+
+Old Man:<nl>
+ The son of Aifread is alive!
+ I know this because I'm psychic.
+<pause>
+Old Man:<nl>
+ My powers also tell me that if
+ word of this got out, it might spell
+ trouble for him.{END}
+
+Old Man:<nl>
+ Take heed...
+<pause>
+Old Man:<nl>
+ Northerly travel goes hand in hand
+ with death.{END}
+
+<audio_0B10><Cless>:<nl>
+ Thanks a lot for the ride, sir.
+<pause>
+<audio_0B11><Klarth>:<nl>
+ Yeah, even with all the trouble
+ along the way, this does us a lot of
+ good, Captain.
+<pause>
+<audio_0B12>Captain:<nl>
+ Don't mention it.
+ With you guys on board, it was
+ nothing at all.
+<pause>
+<audio_0B13>Captain:<nl>
+ People have got to watch out for
+ one another, I say.
+<pause>
+<audio_0B14><Klarth>:<nl>
+ A sentiment everyone the world
+ over should have drilled into their
+ heads, for sure.
+<pause>
+<audio_0B15>Captain:<nl>
+ Heh.
+ Well, take care of yourselves.
+<pause>
+<audio_0B16><Arche>:<nl>
+ You too, Mr. Captain <heart><wait>{END}
+
+<audio_0B17><Mint>:<nl>
+ I would also like to express my
+ gratitude.{END}
+
+<audio_0B18><Cless>:<nl>
+ Well, we've got no time to waste.
+ Let's hurry to the castle.
+<pause>
+<audio_0B19><Cless>:<nl>
+ Things are going to go from bad to
+ worse if we don't save the prince
+ as soon as possible...
+<pause>
+<audio_0B1A><Klarth>:<nl>
+ Hold your horses.
+<pause>
+<audio_0B1B><Klarth>:<nl>
+ I've been thinking pretty hard
+ about that.
+<pause>
+<audio_0B1C><Klarth>:<nl>
+ Rushing into a heavily guarded
+ castle without a plan would be
+ reckless. Let's head on over to the
+ <color_0002>inn<color_0000> and put one together.{END}
+
+
+The largest war on the continent
+had finally begun, taking place
+<speed_0002> on the Valhalla Plains.<wait>{END}
+
+<Cless>:<nl>
+ It's in the way...{END}
+
+<Cless>:<nl>
+ Dear Mr. Crab: Please move out of
+ the way.{END}
+
+<Cless>:<nl>
+ We don't have time for this...{END}
+
+<Cless>:<nl>
+ Why are you doing this?
+ What did we ever do to you?{END}
+
+<Cless>:<nl>
+ If only you were a little larger...{END}
+
+<Cless>:<nl>
+ I...would flip you on your back...{END}
+
+<Cless>:<nl>
+ Then I'd find your weak point...{END}
+
+<Cless>:<nl>
+ And strike it for massive damage!{END}
+
+<Cless>:<nl>
+ It'd be just like the ninja battles in
+ those ancient history books I read!{END}
+
+<Cless>:<nl>
+ You're not even listening to me, are
+ you?{END}
+
+<Cless>:<nl>
+ Fine, then I'll just leave.
+ See how you like that.{END}
+
+<color_0000>Announcer:<nl>
+ The rules are simple.
+<pause>
+Announcer:<nl>
+ It's you versus the Mach Kid; who
+ can run three laps around town
+ fastest?
+<pause>
+Announcer:<nl>
+ That's pretty much all there is to it.
+<pause>
+Announcer:<nl>
+ If you want to stop the race
+ midway, just talk to me.
+<pause>
+Announcer:<nl>
+ If you enter a building or leave the
+ city, you'll be automatically
+ disqualified.
+<pause>
+Announcer:<nl>
+ Would you like an explanation and
+ walk-through of the course?<wait>{END}
+
+Announcer:<nl>
+ All right, then...<wait>{END}
+
+Announcer:<nl>
+ Direct your attention to her.
+<pause>
+Young Woman:<nl>
+ First, I'll explain the starting and
+ finish lines.
+<pause>
+Young Woman:<nl>
+ The starting line and finish line is
+ right here, in the eastern plaza.
+<pause>
+Young Woman:<nl>
+ You will need to step on the finish
+ line to start your next lap.
+<pause>
+Young Woman:<nl>
+ Now, I will walk you through the
+ course.{END}
+
+Young Woman:<nl>
+ When you start, come over here to
+ reach the city's main street.{END}
+
+Young Woman:<nl>
+ When you reach over here, the
+ central plaza, go along the north
+ side, stay behind the trees, and get
+ back onto the main street.{END}
+
+Young Woman:<nl>
+ As you get off the main street, go
+ north and around the bend.{END}
+
+Young Woman:<nl>
+ From here, go out onto the south
+ street, and run this way.{END}
+
+Young Woman:<nl>
+ After following that path, you'll
+ return to the central plaza.
+<pause>
+Young Woman:<nl>
+ Stay behind the trees as you pass
+ through the south side of the
+ plaza, please.{END}
+
+Young Woman:<nl>
+ Go across the main street and
+ return to the eastern plaza where
+ the finish line is.{END}
+
+Young Woman:<nl>
+ If you deviate from the course,
+ you'll be disqualified even if you
+ reach the finish line.<wait>{END}
+
+<color_0002>Hear the explanation again?{END}
+
+Lap <num5_C0005142>: Time unavailable{END}
+
+Lap <num5_C0005142>: Time unavailable{END}
+
+Lap <num5_C0005142>: <num5_C0005138>.<num5_C000513A><num5_C000513C>{END}
+
+Lap <num5_C0005142>: Time unavailable{END}
+
+Lap <num5_C0005142>: Time unavailable{END}
+
+Lap <num5_C0005142>: <num5_C0005138>.<num5_C000513A><num5_C000513C>{END}
+
+ Finished!
+(Lap <num5_C0005142>: Time unavailable){END}
+
+Finished! (Lap <num5_C0005142>: <num5_C0005138>.<num5_C000513A><num5_C000513C>){END}
+
+Announcer:<nl>
+ Congratulations!
+ You finished first!
+<pause>
+{END}
+
+<unk1>Announcer:<nl>
+ It took you <num5_C0005134> hour(s), <num5_C0005136>
+ minute(s) and <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds to
+ reach the finish line.
+<pause>
+Announcer:<nl>
+ Please, please don't take a nap in
+ the middle of the course next time!
+<pause>
+{END}
+
+<unk1>Announcer:<nl>
+ It took you <num5_C0005136> minute(s) and <num5_C0005138>.<num5_C000513A><num5_C000513C>
+ seconds to reach the finish line.
+<pause>
+{END}
+
+<unk1>Announcer:<nl>
+ It took you <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds to reach
+ the finish line.
+<pause>
+{END}
+
+Announcer:<nl>
+ That's a new course record!
+ Well done!
+<pause>
+{END}
+
+Announcer:<nl>
+ You've tied the course record!
+ Mighty impressive!
+<pause>
+{END}
+
+Announcer:<nl>
+ In addition, one of your laps
+ clocked in at <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds, which
+ is a new record!
+<pause>
+{END}
+
+Announcer:<nl>
+ Now, for your well-earned prize.
+<pause>
+Announcer:<nl>
+ Pick whichever one you like.<wait>{END}
+
+<color_0002><speed_0000>1. <item_4B00><nl>
+2. Rock Breaker<nl>
+3. <item_1500><nl>
+4. <item_1300><color_0000><speed_FFFF>{END}
+
+<color_0002><speed_0000>1. <item_4800><nl>
+2. <item_4D00><nl>
+3. <item_0100><nl>
+4. <item_0200><color_0000><speed_FFFF>{END}
+
+Announcer:<nl>
+ I see you're the type that doesn't
+ ask for much.{END}
+
+<color_0002>Acquired <a/an><num3_C00050FA>.<color_0000>{END}
+
+Announcer:<nl>
+ You finished second!
+ That's too bad.
+<pause>
+{END}
+
+<unk1>Announcer:<nl>
+ It took you <num5_C0005134> hour(s), <num5_C0005136>
+ minute(s) and <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds to
+ reach the finish line.
+<pause>
+Announcer:<nl>
+ Please, please don't take a nap in
+ the middle of the course next time!
+<pause>
+{END}
+
+<unk1>Announcer:<nl>
+ It took you <num5_C0005136> minute(s) and <num5_C0005138>.<num5_C000513A><num5_C000513C>
+ seconds to reach the finish line.
+<pause>
+{END}
+
+<unk1>Announcer:<nl>
+ It took you <num5_C0005138>.<num5_C000513A><num5_C000513C> seconds to reach
+ the finish line.
+<pause>
+{END}
+
+Announcer:<nl>
+ But hey!
+ Don't let the loss get you down!
+ One of your laps clocked in at
+ <num5_C0005138>.<num5_C000513A><num5_C000513C>, which is a new record!
+<pause>
+{END}
+
+Announcer:<nl>
+ Well, see you next time!{END}
+
+<Klarth>:<nl>
+ I think you should let *me* try it
+ this time.
+<pause>
+<Cless>:<nl>
+ No offense, but can your body
+ really handle it?
+<pause>
+<Klarth>:<nl>
+ Hmph, old age and cunning will
+ triumph over youth and speed
+ every time.
+<pause>
+<Cless>:<nl>
+ Well, if you say so.
+ (But don't blame me if
+ you break a hip...){END}
+
+<Chester>:<nl>
+ I'm gonna do this.
+ Just sit back and relax!
+<pause>
+<Cless>:<nl>
+ Don't underestimate him!{END}
+
+<Mint>:<nl>
+ Be careful.
+ Don't try too hard!
+<pause>
+<Cless>:<nl>
+ Yeah, don't worry.{END}
+
+<Arche>:<nl>
+ Run like you've never run before,
+ <Cless>! <heart>
+<pause>
+<Cless>:<nl>
+ Leave it to me!{END}
+
+<Klarth>:<nl>
+ Sigh...
+<pause>
+<Cless>:<nl>
+ ......{END}
+
+ Error<wait>{END}
+
+Announcer:<nl>
+ Here's a little bonus to sweeten
+ things!
+<pause>
+<color_0002>Acquired the <item_9201>.{END}
+
+Announcer:<nl>
+ In honor of your defeat of Mach
+ Kid, we bestow upon you the title
+ of “Mach Boy”!
+<pause>
+<Cless>:<nl>
+ Woohoo!<wait>{END}
+
+<color_0002><Cless> has earned the title
+“Mach Boy.”<color_0000>{END}
+
+Announcer:<nl>
+ In honor of your defeat of Mach
+ Kid, we bestow upon you the title
+ of “Mach Boy”...
+<pause>
+<Chester>:<nl>
+ ...Say what? Is this a joke, man?
+ That's not cool enough for me!
+<pause>
+Announcer:<nl>
+ Wh-What?
+<pause>
+<Chester>:<nl>
+ What do you mean, “what”?
+ All I'm asking for is something that
+ jibes with my style.
+<pause>
+Announcer:<nl>
+ Ummm...
+<pause>
+<Chester>:<nl>
+ C'mon, you saw me! I was kickin'
+ ass and takin' names! Can't you
+ come up with SOMETHING that
+ sounds, you know, badass!?
+<pause>
+Announcer:<nl>
+ Riiight...“badass”...<nl>
+ Very well...
+<pause>
+Announcer:<nl>
+ In honor of your defeat of Mach
+ Kid, we bestow upon you the title
+ of “Super Mach Bastard”!
+<pause>
+<Chester>:<nl>
+ Sigh...
+<pause>
+<Chester>:<nl>
+ That's what you would call a
+ dumbass, not a badass...<wait>{END}
+
+<color_0002><Chester> has earned the title
+“<var_CD01>.”<color_0000>{END}
+
+Announcer:<nl>
+ In honor of your defeat of Mach
+ Kid, we bestow upon you the title
+ of “Mach Daddy”...
+<pause>
+{END}
+
+<Klarth>:<nl>
+ Oh HELL NO!
+<pause>
+{END}
+
+Announcer:<nl>
+ Um, well, but I--
+<pause>
+<Klarth>:<nl>
+ Forget it! I'd sooner do the hundred
+ yard dash over searing hot coals
+ barefoot before agreeing to let
+ ANYONE call me that!
+<pause>
+{END}
+
+Announcer:<nl>
+ Th-The sight of that is something I
+ could do without...
+<pause>
+{END}
+
+<color_0002><Klarth> adamantly refused the
+title “Mach Daddy.”<color_0000>{END}
+
+Citizen:<nl>
+ Wow, I'm stunned!
+ You tore up the previous course
+ record something good!
+<pause>
+{END}
+
+Citizen:<nl>
+ I clocked your finish within 39.00
+ seconds! Here's a reward.
+<pause>
+<color_0002>Acquired a <item_6801>.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked your finish within 39.25
+ seconds! Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired a bunch of <item_6B01>s.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked your finish within 39.50
+ seconds! Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired <item_7701>.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked your finish within 39.75
+ seconds! Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired a <item_7401>.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked your finish within 40.00
+ seconds! Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired <item_9300>.<wait><color_0000>{END}
+
+<color_0002>Acquired a <item_A000>.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked your finish within 40.50
+ seconds! Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired a <item_7B01>.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked your finish within 41.00
+ seconds! Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired some <item_4800> and a <item_4D00>.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked your finish within 41.50
+ seconds! Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired <item_0200>.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked your finish within 42.00
+ seconds! Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired a <item_A400>.<wait><color_0000>{END}
+
+Citizen:<nl>
+ ...Sorry bro, I never thought anyone
+ could be so fast. I'm clean out of
+ rewards. You'll just have to accept
+ my admiration!{END}
+
+Citizen:<nl>
+ Keep it up and you'll smash that
+ record to pieces!{END}
+
+Citizen:<nl>
+ Whoa, that was a pretty sweet lap
+ time you had there.
+<pause>
+{END}
+
+Citizen:<nl>
+ I clocked it within 12.90 seconds!
+ Here's a reward.
+<pause>
+<color_0002>Acquired a bunch of <item_7D00>s.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked it within 13.00 seconds!
+ Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired an assortment of cooking
+ingredients.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked it within 13.10 seconds!
+ Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired a bunch of <item_7C00>s.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked it within 13.20 seconds!
+ Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired a bunch of <item_7B00>s.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked it within 13.30 seconds!
+ Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired a bunch of <item_7A00>s.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked it within 13.40 seconds!
+ Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired a set of red herbs.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked it within 13.50 seconds!
+ Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired a set of herbs.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked it within 13.75 seconds!
+ Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired a set of food.<wait><color_0000>{END}
+
+Citizen:<nl>
+ I clocked it within 14.00 seconds!
+ Here's a reward.
+<pause>
+{END}
+
+<color_0002>Acquired a bunch of gels.<wait><color_0000>{END}
+
+Citizen:<nl>
+ ...Sorry, but I didn't prepare for
+ someone so awesomely fast.{END}
+
+Citizen:<nl>
+ Keep it up and you'll smash that
+ record to pieces!{END}
+
+Sailor:<nl>
+ You'd best not go up against that
+ evil crab.
+<pause>
+Sailor:<nl>
+ Many a good man has fallen victim
+ to its nefarious devices.{END}
+
+<audio_1A16>Alvanista Soldier:<nl>
+I assure you our city is perfectly safe!{END}
+

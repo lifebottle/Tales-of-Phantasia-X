@@ -1,0 +1,851 @@
+Venezia City{END}
+
+Venezia Harbor{END}
+
+Captain
+ I'll take you anywhere as long
+ as you've got the cash!
+ Come again!{END}
+
+Venezia Harbor{END}
+
+<center>-Ferry-<endalign>
+In a hurry?
+Speed up the trip by holding <var_0202>!{END}
+
+<center>-Venezia Transport Ship-<endalign>
+ 
+Looking for a good time across the
+sea?{END}
+
+One-way fare to Alvanista is <num1_000000AA>
+gald per passenger.{END}
+
+“Departure is suspended due to an
+increase in monster activity.
+Thank you for your understanding.
+<right>--Venezia Ship Committee”<endalign>{END}
+
+Citizen
+ Most people throughout the country
+ of Euclid revere Yggdrasill as a god.
+<pause>
+Citizen
+ 'Cause they believe the Spirit of
+ Gaea, who they say protects the
+ world, lives in the heart of it.{END}
+
+Woman
+ What a huge port city.
+<pause>
+Woman
+ So many things to see,
+ so many people to meet...
+ Maybe I'll run into a tall,
+ dark, and handsome stranger...{END}
+
+Child
+ It'd be so cool if I could use magic
+ too!
+<pause>
+Child
+ But since I'm not an elf, I can't.
+ No fair!{END}
+
+Citizen
+ There's a colony of elves
+ somewhere in the world.
+<pause>
+Citizen
+ Where could it be?{END}
+
+Old Man
+ Not long ago, this city was teeming
+ with elves...{END}
+
+Old Woman
+ If I were about thirty years
+ younger, I'd be trying to get a
+ suntan in this gorgeous weather.{END}
+
+Man
+ Ahh, yeah!
+ Nothin' like the good ol'
+ refreshing sea breeze!
+<pause>
+Man
+ It just...how should I put it...feels
+ soooo romantic!{END}
+
+Sailor
+ We have nothing but free time
+ lately. Not even the deck needs
+ swabbing...{END}
+
+Sailor
+ This liner normally voyages to
+ Alvanista, but all trips there have
+ been canceled until further notice.
+<pause>
+Sailor
+ Wish I had a clue when that would
+ be, but no one's said anything.
+<pause>
+Sailor
+ Maybe the captain has an idea.{END}
+
+Sailor
+ Because of how treacherous the
+ seas are, even freight shipping
+ requests have dropped off.
+<pause>
+Sailor
+ These accursed days...{END}
+
+Sailor
+ Yeah, this is the liner to Midgard,
+ but...
+<pause>
+Sailor
+ Even with the war over, they've
+ kept the damn sea route closed.
+<pause>
+Sailor
+ Ugh, I need to set sail...stretch my
+ sea legs.{END}
+
+Sailor
+ Yeah, this is the liner to Midgard,
+ but a war's being waged there.
+<pause>
+Sailor
+ A trip to that country would be
+ suicide.
+<pause>
+Sailor
+ Man, the economy's been mucked
+ up thanks to all this. I'm worried
+ that there's no honest way to
+ make a living anymore...{END}
+
+Sailor
+ Any chance you guys want to take
+ a trip somewhere?
+<pause>
+Sailor
+ We'd really appreciate it; the entire
+ crew's getting a little stir crazy.
+ Work--any kind of work--would
+ help us keep our sanity.
+<pause>
+Sailor
+ Getting paid to stare into space
+ and sing embarrassing songs to
+ yourself all day is only exciting
+ for so long...{END}
+
+Nancy
+ Um...
+ Is he really going to come?
+<pause>
+<Cless>
+ He said he'd be here shortly!
+<pause>
+Nancy
+ ......
+<pause>
+<Cless>
+ Oh, hey!
+ Speak of the devil...{END}
+
+Elwyn
+ Hello there.
+<pause>
+Elwyn
+ You're Nancy if I'm not mistaken...
+<pause>
+Nancy
+ Yes, that's me...
+<pause>
+<Mint>
+ I think we should leave them alone
+ now.
+<pause>
+<Cless>
+ Yeah, let's go do something else.{END}
+
+Nancy
+ Umm, well, I...{END}
+
+Nancy
+ What do we do...?{END}
+
+Elwyn
+ Thanks a lot, you guys.
+<pause>
+Elwyn
+ She's very lovely.
+ I feel so silly for my
+ hesitation earlier!{END}
+
+Elwyn
+ What to do, what to do...
+<pause>
+<color_0002>Encourage Elwyn?<color_0000>{END}
+
+<Cless>
+ Don't worry, Elwyn.
+<pause>
+Elwyn
+ But what am I going to do about
+ my dad? He's being such an
+ inflexible jerk about this.
+<pause>
+<Klarth>
+ Why not leave him behind, then?
+ Hop on a boat, go somewhere
+ far away with her.
+ He'll never find you.<wait>{END}
+
+<unk1><Mint>
+ Please, <Klarth>!
+ You shouldn't tell someone to do
+ something as irrational as that!<wait>{END}
+
+Elwyn
+ Actually, the thought had crossed
+ my mind as well.
+<pause>
+<Mint>
+ But still, you really shouldn't...
+<pause>
+Elwyn
+ It's probably the only way we'll be
+ able to live happily, though.
+<pause>
+Elwyn
+ I'm sure it'll be tough at first, but
+ the two of us will be fine if we
+ have each other.{END}
+
+<Klarth>
+ Well, I think they'll get out of this
+ mess just fine.
+<pause>
+<Cless>
+ You're really sure of that?
+<pause>
+<Klarth>
+ True love between a man and
+ woman knows no bounds.
+<pause>
+<Klarth>
+ Take it from me. You kids will
+ understand what that means
+ sooner or later.{END}
+
+Sailor
+ MOOOOMMYYYYY!{END}
+
+Sailor
+ Something needs to be done about
+ Dhaos fast, or they're gonna start
+ handing out pink slips...{END}
+
+Sailor
+ Sorry, but the ship to Alvanista isn't
+ going anywhere.
+<pause>
+Sailor
+ The Venezia Ship Committee has
+ stopped all commercial operation...
+<pause>
+Sailor
+ This situation is making me
+ nervous.{END}
+
+Sailor
+ Nothin' to do but clean.
+ Over. And over. Again.{END}
+
+Man
+ Appears there's a continent under a
+ constantly dark sky somewhere in
+ the world.
+<pause>
+Man
+ Is Dhaos behind that, too?{END}
+
+Woman
+ Ahh, I'm so beautiful...
+<pause>
+Woman
+ Every time I see my reflection in
+ the fountain, I'm enthralled...
+<pause>
+<Cless>
+ (Whoa. A real narcissist!){END}
+
+Boy
+ My buddies told me about a hidden
+ village in some forest.
+<pause>
+Boy
+ What kind of people would live in a
+ place like that?{END}
+
+Man
+ Swordsmen and magicians have
+ been training around Alvanista and
+ Ymir's Lake of Reflection.{END}
+
+Girl
+ I ditched my homework last night,
+ and none of the bookworms will let
+ me copy off them!
+<pause>
+Girl
+ What am I gonna do now!?
+ I'm so screwed!{END}
+
+Captain
+ Yawwwnnn...
+ Bored is as bored does...{END}
+
+Captain
+ What, you want something?
+<pause>
+Captain
+ If you don't have any business
+ here, get off my ship!{END}
+
+Captain
+ What, you want something?
+<pause>
+Captain
+ If you don't have any business
+ here, get off my ship!
+<pause>
+<Cless>
+ Uhh sir...
+ We just wanted passage
+ somewhere.
+<pause>
+Captain
+ Oh, customers!
+ Forgive my insolence.<wait>{END}
+
+Captain
+ Oh, it's you guys again...
+<pause>
+Captain
+ You want to go somewhere?<wait>{END}
+
+<color_0002><speed_0000>1. Western island
+2. Island in the North Sea
+3. Sea above Thor<color_0000><speed_FFFF>{END}
+
+<color_0002><speed_0000>1. Western island
+2. Island in the North Sea<color_0000><speed_FFFF>{END}
+
+<Klarth>
+ Yeah, we're trying to find a
+ ride to the western island.
+ Could you give us a lift?
+<pause>
+Captain
+ You serious?
+<pause>
+Captain
+ The creepy island Demeter
+ supposedly moved to?
+ Well then...<wait>{END}
+
+Captain
+ One-way fare including shipping,
+ food, and insurance is <num5_00005122> gald
+ per person.
+<pause>
+Captain
+ So it'll be <num5_00005124> total gald for all of
+ you.
+<pause>
+{END}
+
+Captain
+ One-way fare including shipping,
+ food, and insurance is <num5_00005122> gald
+ per person.
+<pause>
+Captain
+ So it'll be <num5_00005124> total gald for all of
+ you.
+<pause>
+{END}
+
+Captain
+ That sound fair?{END}
+
+Captain
+ Looks like you're a bit short on
+ cash.{END}
+
+<Klarth>
+ ...I'm flattered you think so highly
+ of my books. While I'd relish giving
+ Dhaos a good bashing with them,
+ I'd rather nuke him to oblivion.
+<pause>
+<Klarth>
+ Come on, let's go back and save
+ Yggdrasill first.{END}
+
+<unk1><Mint>
+ We can't leave without <Arche>.{END}
+
+Captain
+ Set sail!<wait>{END}
+
+Captain
+ Come back anytime.
+ We're never up to much these
+ days, anyway.{END}
+
+Captain
+ My ship's not going anywhere.
+<pause>
+Captain
+ I'd like to see what kind of guy has
+ the balls to set sail at a time like
+ this.{END}
+
+Captain
+ Oh, it's you guys again.
+<pause>
+Captain
+ My ship's about to depart for
+ Alvanista.<wait>{END}
+
+<Cless>
+ Excuse me, Captain.
+ When is this ship leaving?
+<pause>
+Captain
+ Bah, don't start up with that crap.
+<pause>
+Captain
+ We'd PROBABLY be well on our way
+ to Alvanista right now if weren't
+ for Dhaos.
+<pause>
+Captain
+ I'm not about to put my ship and
+ men at risk of an attack by him.
+<pause>
+Captain
+ Dammit, what am I gonna do...?{END}
+
+Captain
+ One-way fare including shipping,
+ food, and insurance is <num1_000000AA> gald
+ per person.
+<pause>
+Captain
+ It'll be <num5_00005124> gald
+ for lot of you.
+ Still want to go?{END}
+
+Captain
+ No money, no ride.{END}
+
+Captain
+ All right, set sail!{END}
+
+Captain
+ Whatever, then.{END}
+
+Harrison
+ I have been waiting for you.
+<pause>
+Harrison
+ But there has been a complication
+ in our plans...
+<pause>
+Harrison
+ The ships are not sailing under any
+ circumstance.
+<pause>
+Captain
+ Sorry.
+<pause>
+Captain
+ Dhaos has been steadily increasing
+ his influence over the sea.
+<pause>
+Captain
+ We'd be playing with some serious
+ fire if we went out there right
+ now.
+<pause>
+<Cless>
+ But as things are--
+<pause>
+Harrison
+ There's no other choice, so...
+<pause>
+Harrison
+ We'll have to try THAT place.
+<pause>
+<Klarth>
+ Oh?
+ You have another idea in mind?
+<pause>
+Harrison
+ Did you happen to drop by
+ Euclid along the way?
+ It's not exactly public
+ information, but...
+<pause>
+Harrison
+ There's a state-operated magitech-
+ nology research center there.
+<pause>
+<Cless>
+ Magitechnology, eh...
+<pause>
+Harrison
+ If we can't sail, then we'll soar.
+<pause>
+<Arche>
+ Whoa! Whoa! Soar!?
+ We're gonna FLY there!?
+<pause>
+Harrison
+ I'll delve into the specifics when
+ we arrive at the research center.{END}
+
+Sailor
+ Dozens of years ago, there was a
+ pirate who claimed many of the
+ world's seas as his territory.
+<pause>
+Sailor
+ They called him Aifread.
+<pause>
+Sailor
+ He was pretty eccentric as pirates
+ go; he wasn't actually a bad guy.
+ A true man of mystery.{END}
+
+Man
+ The pirate Aifread was defeated in
+ a battle against a fleet of Midgard
+ warships.
+<pause>
+Man
+ I heard he was apprehended
+ afterward, and later executed.
+<pause>
+Man
+ May he rest in peace.{END}
+
+Ferryman
+ Welcome!
+ The price is <num1_0000001E> gald per ride.<wait>{END}
+
+Ferryman
+ Oh wait, it's you guys.
+ I do believe you've accumulated a
+ debt for being unable to pay for
+ past services.
+<pause>
+Ferryman
+ So your total for this passage and
+ previous debt comes to <num5_00006104> gald.<wait>{END}
+
+Ferryman
+ Where would you like to go?
+<pause>
+<color_0002><speed_0000>1. Weapon shop
+2. Armor shop
+3. Mayor's house
+4. South side of town<color_0000><speed_FFFF>{END}
+
+Ferryman
+ Where would you like to go?
+<pause>
+<color_0002><speed_0000>1. North side of town
+2. Armor shop
+3. Mayor's house
+4. South side of town<color_0000><speed_FFFF>{END}
+
+Ferryman
+ Where would you like to go?
+<pause>
+<color_0002><speed_0000>1. North side of town
+2. Weapon shop
+3. Mayor's house
+4. South side of town<color_0000><speed_FFFF>{END}
+
+Ferryman
+ Where would you like to go?
+<pause>
+<color_0002><speed_0000>1. North side of town
+2. Weapon shop
+3. Armor shop
+4. South side of town<color_0000><speed_FFFF>{END}
+
+Ferryman
+ Where would you like to go?
+<pause>
+<color_0002><speed_0000>1. North side of town
+2. Weapon shop
+3. Armor shop
+4. Mayor's house<color_0000><speed_FFFF>{END}
+
+Ferryman
+ You're broke, huh...<wait>{END}
+
+Ferryman
+ That makes things complicated,
+ since there's no other way out.
+<pause>
+Ferryman
+ It'd be pretty lousy of me to just
+ leave you stranded here, though.
+ I'll add the amount owed to your
+ bill for next time.
+<pause>
+Ferryman
+ Hop in.<wait>{END}
+
+Ferryman
+ There you go!
+<pause>
+Ferryman
+ Let me know when you want to go
+ back!{END}
+
+Ferryman
+ Thanks!{END}
+
+Ferryman
+ There you go!
+<pause>
+Ferryman
+ Let me know when you want to go
+ back!{END}
+
+<unk1><Cless>
+ What are you doing, <Arche>?
+<pause>
+<Arche>
+ Hey there, hot stuff<heart>
+<pause>
+<Arche>
+ Won't you pretty-please do a favor
+ for cute little <Arche>...?<wait>{END}
+
+<Arche>
+ If you do, I'll give you anything you
+ want<heart>
+<pause>
+Captain
+ ......<wait>{END}
+
+Captain
+ Err...
+ Didn't you pull that a moment ago?<wait>{END}
+
+Captain
+ Well, with you guys here, I guess a
+ little danger won't be a problem.<wait>{END}
+
+Captain
+ That...really isn't something I
+ wanted to hear from a kid...<wait>{END}
+
+<Arche>
+ Aww, how MEAN!!
+<pause>
+<Klarth>
+ Captain, we'll pay you whatever's
+ necessary for a trip to Alvanista.
+<pause>
+Captain
+ ......
+<pause>
+Captain
+ Fine, fine!<wait>{END}
+
+<color_0002><speed_0002><Arche> has earned the title
+“<var_AB01>.”{END}
+
+Priest
+ In sickness and in health...
+<pause>
+Priest
+ Do you take Elwyn to be your
+ husband?
+<pause>
+Nancy
+ Yes, I do.
+<pause>
+Priest
+ And do you take Nancy to be your
+ beloved wife?
+<pause>
+Elwyn
+ I do.
+<pause>
+Priest
+ You may now kiss the bride.{END}
+
+<Arche>
+ Awwww, they're so lucky<note>{END}
+
+Elwyn
+ The two of us will take care of
+ you, Dad.<wait>{END}
+
+Doug
+ Waaaah, *sniff* Elwyn.
+<pause>
+Nancy
+ Please don't cry, sir.
+<pause>
+Nancy
+ Elwyn and I will be just fine.
+<pause>
+Doug
+ I'm so happy for you, my son.<wait>{END}
+
+Doug
+ Your mother is too, I'm sure...<wait>{END}
+
+Doug
+ Waaaaah<panic>
+<pause>
+Elwyn
+ Dad, this isn't my funeral.<wait>{END}
+
+(Nancy's Mother, Maggie)
+ Take good care of Nancy for me.{END}
+
+<Mint>
+ They look so happy...
+<pause>
+<Mint>
+ I'm so glad to see this day...{END}
+
+<unk1>Elwyn
+ <Mint> and <Cless>...
+ We owe you two big time.
+<pause>
+Nancy
+ If it weren't for your
+ encouragement, <Mint>, we
+ wouldn't be here today.
+<pause>
+Nancy
+ Please accept these as a token of
+ my gratitude.<wait>{END}
+
+<color_0002>Acquired a pair of <item_3D01>.<color_0000><wait>{END}
+
+<unk1>Nancy
+ Now it's your turn to find the man
+ of YOUR dreams<heart>
+<pause>
+{END}
+
+<Mint>
+ Um...<panic>{END}
+
+<unk1><Klarth>
+ In sickness and in health, huh...
+<pause>
+<Klarth>
+ I guess it's in difficult situations
+ that true love is put to the test.
+<pause>
+<Cless>
+ I'm sure they'll be fine and dandy.
+<pause>
+<Cless>
+ They've already gotten over one of
+ the most difficult problems they'll
+ probably ever face...<wait>{END}
+
+<unk1><Arche>
+ Hey, <Mint>!
+ You saw her dress, didn'tcha!?
+ Didn'tcha!?
+<pause>
+<Arche>
+ I wanna wear one just like it!
+<pause>
+<Arche>
+ I've SO gotta get married!
+ Like, yesterday!<wait>{END}
+
+<unk1><Arche>
+ Hey <Cless>...
+ Won't you marry me, big boy?<heart><wait>{END}
+
+<Arche>
+ Come on, don't be shy<heart><wait>{END}
+
+<Cless>
+ Wha...<panic><wait>{END}
+
+<Cless>
+ Right now!?
+ What are you talking about!?<wait>{END}
+
+<color_0002>How do you answer?
+<speed_0000>1. Let's get married, <Arche>.
+2. Let's get married, <Mint>.
+3. <Klarth>, help me!<speed_FFFF><color_0000>{END}
+
+<Cless>
+ (W-wait a second!)
+<pause>
+<Cless>
+ (If I say that, things'll get
+ awkward fast!)<wait>{END}
+
+<Cless>
+ (N-no! I can't do that!)
+<pause>
+<Cless>
+ (I'm not ready to say something
+ like that yet!)<wait>{END}
+
+<unk1><Cless>
+ <Klarth>, help me out here!
+<pause>
+<Klarth>
+ No, no, I think not.
+ I'm enjoying this more than you
+ can possibly imagine. I never knew
+ you were such a ladies' man!
+<pause>
+<Cless>
+ You're horrible!<wait>{END}
+
+<Cless>
+ I...I-I-I, uh!
+<pause>
+<Arche>
+ ......<wait>{END}
+
+<Arche>
+ Aw, maaan!
+ Lighten up a little!
+ It was just a joke!
+ A J-O-K-E!{END}
+
+<color_0002><Mint> has earned the title
+“<var_9901>.”<color_0000>{END}
+

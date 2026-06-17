@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0754_04:0">
+        <source>God Bear Mark 2</source>
+        <target state="translated">God Bear Mark 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0754_04:8c">
+        <source>Summon Demon</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0755_04:0">
+        <source>Giant Bee</source>
+        <target state="translated">Giant Bee</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0756_04:0">
+        <source>Bugbear</source>
+        <target state="translated">Bugbear</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0757_04:0">
+        <source>Owl</source>
+        <target state="translated">Owl</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0758_04:0">
+        <source>Boar</source>
+        <target state="translated">Boar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0759_04:0">
+        <source>Piglet</source>
+        <target state="translated">Piglet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0760_04:0">
+        <source>Slime</source>
+        <target state="translated">Slime</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0761_04:0">
+        <source>Giant Slug</source>
+        <target state="translated">Giant Slug</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0762_04:0">
+        <source>Giant Leech</source>
+        <target state="translated">Giant Leech</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0763_04:0">
+        <source>Clay Demon</source>
+        <target state="translated">Clay Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0764_04:0">
+        <source>Dingo</source>
+        <target state="translated">Dingo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0765_04:0">
+        <source>Skeleton</source>
+        <target state="translated">Skeleton</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0765_04:1cc">
+        <source>Triple Slash</source>
+        <target state="translated">Triple Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0765_04:228">
+        <source>Double Slash</source>
+        <target state="translated">Double Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0766_04:0">
+        <source>Ghoul</source>
+        <target state="translated">Ghoul</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0767_04:0">
+        <source>Golem</source>
+        <target state="translated">Golem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0767_04:1cc">
+        <source>Machinegun Knuckle</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0767_04:228">
+        <source>Machinegun Knuckle</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0768_04:0">
+        <source>Living Dead</source>
+        <target state="translated">Living Dead</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0769_04:0">
+        <source>Anaconda</source>
+        <target state="translated">Anaconda</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0770_04:0">
+        <source>Bogle</source>
+        <target state="translated">Bogle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0771_04:0">
+        <source>Hornet</source>
+        <target state="translated">Hornet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0772_04:0">
+        <source>Jackal</source>
+        <target state="translated">Jackal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0773_04:0">
+        <source>Harpy</source>
+        <target state="translated">Harpy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0774_04:0">
+        <source>Blue Sylph</source>
+        <target state="translated">Blue Sylph</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0775_04:0">
+        <source>Wight</source>
+        <target state="translated">Wight</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0776_04:0">
+        <source>Hellmaster</source>
+        <target state="translated">Hellmaster</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0776_04:8c">
+        <source>Summon Demon</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0777_04:0">
+        <source>Bone Knight</source>
+        <target state="translated">Bone Knight</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0777_04:1cc">
+        <source>Triple Slash</source>
+        <target state="translated">Triple Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0777_04:228">
+        <source>Double Slash</source>
+        <target state="translated">Double Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0778_04:0">
+        <source>Giant Frog</source>
+        <target state="translated">Giant Frog</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0779_04:0">
+        <source>Demeter</source>
+        <target state="translated">Demeter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0779_04:8c">
+        <source>Summon Demon</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0779_04:1cc">
+        <source>Hell Gem</source>
+        <target state="translated">Hell Gem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0779_04:228">
+        <source>Hell Gem</source>
+        <target state="translated">Hell Gem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0780_04:0">
+        <source>Arch Knight</source>
+        <target state="translated">Arch Knight</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0781_04:0">
+        <source>Mayer</source>
+        <target state="translated">Mayer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0781_04:228">
+        <source>Cleave</source>
+        <target state="translated">Cleave</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0781_04:284">
+        <source>Cleave</source>
+        <target state="translated">Cleave</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0782_04:0">
+        <source>Jahmir</source>
+        <target state="translated">Jahmir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0782_04:8c">
+        <source>Summon Demon</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0783_04:0">
+        <source>Killer Owl</source>
+        <target state="translated">Killer Owl</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0784_04:0">
+        <source>Ogre</source>
+        <target state="translated">Ogre</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0785_04:0">
+        <source>Giant Toad</source>
+        <target state="translated">Giant Toad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0786_04:0">
+        <source>Giant Bat</source>
+        <target state="translated">Giant Bat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0787_04:0">
+        <source>Caveman</source>
+        <target state="translated">Caveman</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0788_04:0">
+        <source>Winged Devil</source>
+        <target state="translated">Winged Devil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0789_04:0">
+        <source>Bleeb</source>
+        <target state="translated">Bleeb</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0790_04:0">
+        <source>Black Bat</source>
+        <target state="translated">Black Bat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0791_04:0">
+        <source>Bodach</source>
+        <target state="translated">Bodach</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0792_04:0">
+        <source>Lizard Fly</source>
+        <target state="translated">Lizard Fly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0793_04:0">
+        <source>Desert King</source>
+        <target state="translated">Desert King</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0794_04:0">
+        <source>Azar</source>
+        <target state="translated">Azar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0795_04:0">
+        <source>Efreet</source>
+        <target state="translated">Efreet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0795_04:284">
+        <source>Flame Wave</source>
+        <target state="translated">Flame Wave</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0796_04:0">
+        <source>Desert Fly</source>
+        <target state="translated">Desert Fly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0797_04:0">
+        <source>Gnomelette</source>
+        <target state="translated">Gnomelette</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0798_04:0">
+        <source>Gnome</source>
+        <target state="translated">Gnome</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0799_04:0">
+        <source>Squid</source>
+        <target state="translated">Squid</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0800_04:0">
+        <source>Peepit</source>
+        <target state="translated">Peepit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0801_04:0">
+        <source>Sea Slug</source>
+        <target state="translated">Sea Slug</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0802_04:0">
+        <source>Undine</source>
+        <target state="translated">Undine</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0803_04:0">
+        <source>Maxwell</source>
+        <target state="translated">Maxwell</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0803_04:1cc">
+        <source>Molecular Attack</source>
+        <target state="translated">Molecular Attack</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0804_04:0">
+        <source>Basilisk</source>
+        <target state="translated">Basilisk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0804_04:1cc">
+        <source>Stone Ray</source>
+        <target state="translated">Stone Ray</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0805_04:0">
+        <source>Siren</source>
+        <target state="translated">Siren</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0806_04:0">
+        <source>Belladonna</source>
+        <target state="translated">Belladonna</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0806_04:1cc">
+        <source>Power Drain</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0806_04:284">
+        <source>Shrill Cry</source>
+        <target state="translated">Shrill Cry</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0807_04:0">
+        <source>Lizard Man</source>
+        <target state="translated">Lizard Man</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0808_04:0">
+        <source>Dragon Knight</source>
+        <target state="translated">Dragon Knight</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0809_04:0">
+        <source>Iron Golem</source>
+        <target state="translated">Iron Golem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0809_04:1cc">
+        <source>Machinegun Knuckle</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0809_04:228">
+        <source>Machinegun Knuckle</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0809_04:2e0">
+        <source>Gigaton Uppercut</source>
+        <target state="translated">Gigaton Uppercut</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0810_04:0">
+        <source>Depraved Monk</source>
+        <target state="translated">Depraved Monk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0811_04:0">
+        <source>Shade</source>
+        <target state="translated">Shade</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0812_04:0">
+        <source>Doom Guard</source>
+        <target state="translated">Doom Guard</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0813_04:0">
+        <source>Gazehound</source>
+        <target state="translated">Gazehound</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0813_04:1cc">
+        <source>Stone Ray</source>
+        <target state="translated">Stone Ray</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0814_04:0">
+        <source>Ishrantu</source>
+        <target state="translated">Ishrantu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0815_04:0">
+        <source>Vulture</source>
+        <target state="translated">Vulture</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0816_04:0">
+        <source>Python</source>
+        <target state="translated">Python</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0817_04:0">
+        <source>Oakrot</source>
+        <target state="translated">Oakrot</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0817_04:228">
+        <source>Apple Dance</source>
+        <target state="translated">Apple Dance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0818_04:0">
+        <source>Sidewinder</source>
+        <target state="translated">Sidewinder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0819_04:0">
+        <source>Giant Scorpion</source>
+        <target state="translated">Giant Scorpion</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0820_04:0">
+        <source>Will O' Wisp</source>
+        <target state="translated">Will O' Wisp</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0821_04:0">
+        <source>Burning Dead</source>
+        <target state="translated">Burning Dead</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0821_04:1cc">
+        <source>Triple Slash</source>
+        <target state="translated">Triple Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0821_04:228">
+        <source>Double Slash</source>
+        <target state="translated">Double Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0822_04:0">
+        <source>Green Roper</source>
+        <target state="translated">Green Roper</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0823_04:0">
+        <source>Starfish</source>
+        <target state="translated">Starfish</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0824_04:0">
+        <source>Ochre Jelly</source>
+        <target state="translated">Ochre Jelly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0825_04:0">
+        <source>Vampire Bat</source>
+        <target state="translated">Vampire Bat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0826_04:0">
+        <source>Cave Spider</source>
+        <target state="translated">Cave Spider</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0827_04:0">
+        <source>Giant Wasp</source>
+        <target state="translated">Giant Wasp</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0828_04:0">
+        <source>Mighty Oak</source>
+        <target state="translated">Mighty Oak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0828_04:1cc">
+        <source>Apple Dance</source>
+        <target state="translated">Apple Dance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0829_04:0">
+        <source>Dragonfly</source>
+        <target state="translated">Dragonfly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0830_04:0">
+        <source>Wolfsbane</source>
+        <target state="translated">Wolfsbane</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0830_04:1cc">
+        <source>Power Drain</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0830_04:284">
+        <source>Shrill Cry</source>
+        <target state="translated">Shrill Cry</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0831_04:0">
+        <source>Brown Bear</source>
+        <target state="translated">Brown Bear</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0832_04:0">
+        <source>Lizard</source>
+        <target state="translated">Lizard</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0833_04:0">
+        <source>Phantom</source>
+        <target state="translated">Phantom</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0834_04:0">
+        <source>Archer</source>
+        <target state="translated">Archer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0835_04:0">
+        <source>Jack O' Lantern</source>
+        <target state="translated">Jack O' Lantern</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0835_04:228">
+        <source>Power Drain</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0836_04:0">
+        <source>Banshee</source>
+        <target state="translated">Banshee</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0837_04:0">
+        <source>Shaman</source>
+        <target state="translated">Shaman</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0838_04:0">
+        <source>Medium</source>
+        <target state="translated">Medium</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0839_04:0">
+        <source>Snow Bunny</source>
+        <target state="translated">Snow Bunny</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0840_04:0">
+        <source>Chirpee</source>
+        <target state="translated">Chirpee</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0841_04:0">
+        <source>Chevalier</source>
+        <target state="translated">Chevalier</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0842_04:0">
+        <source>Sorceress</source>
+        <target state="translated">Sorceress</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0843_04:0">
+        <source>Samurai</source>
+        <target state="translated">Samurai</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0844_04:0">
+        <source>Kage</source>
+        <target state="translated">Kage</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0845_04:0">
+        <source>Lich</source>
+        <target state="translated">Lich</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0845_04:b4">
+        <source>Summon Demon</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0846_04:0">
+        <source>Jann</source>
+        <target state="translated">Jann</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0847_04:0">
+        <source>Woodkarla</source>
+        <target state="translated">Woodkarla</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0847_04:1cc">
+        <source>Apple Dance</source>
+        <target state="translated">Apple Dance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0848_04:0">
+        <source>Living Sword</source>
+        <target state="translated">Living Sword</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0849_04:0">
+        <source>3000R</source>
+        <target state="translated">3000R</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0849_04:1cc">
+        <source>Photon Beam</source>
+        <target state="translated">Photon Beam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0850_04:0">
+        <source>4400R</source>
+        <target state="translated">4400R</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0850_04:1cc">
+        <source>Photon Beam</source>
+        <target state="translated">Photon Beam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0851_04:0">
+        <source>2SH</source>
+        <target state="translated">2SH</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0852_04:0">
+        <source>Dhole</source>
+        <target state="translated">Dhole</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0853_04:0">
+        <source>Predator</source>
+        <target state="translated">Predator</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0854_04:0">
+        <source>Killer Bee</source>
+        <target state="translated">Killer Bee</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0855_04:0">
+        <source>Nightmare</source>
+        <target state="translated">Nightmare</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0856_04:0">
+        <source>Viper</source>
+        <target state="translated">Viper</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0857_04:0">
+        <source>Boarboar</source>
+        <target state="translated">Boarboar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0858_04:0">
+        <source>Timber Wolf</source>
+        <target state="translated">Timber Wolf</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0859_04:0">
+        <source>King Cobra</source>
+        <target state="translated">King Cobra</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0860_04:0">
+        <source>Nebiros</source>
+        <target state="translated">Nebiros</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0861_04:0">
+        <source>Poison Toad</source>
+        <target state="translated">Poison Toad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0862_04:0">
+        <source>Red Roper</source>
+        <target state="translated">Red Roper</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0862_04:1cc">
+        <source>Power Drain</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0863_04:0">
+        <source>Shaitan</source>
+        <target state="translated">Shaitan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0864_04:0">
+        <source>Thunder Dragon</source>
+        <target state="translated">Thunder Dragon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0865_04:0">
+        <source>Volt</source>
+        <target state="translated">Volt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0866_04:0">
+        <source>Werevulture</source>
+        <target state="translated">Werevulture</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0867_04:0">
+        <source>Scout</source>
+        <target state="translated">Scout</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0868_04:0">
+        <source>Scavenger</source>
+        <target state="translated">Scavenger</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0869_04:0">
+        <source>Deathstalker</source>
+        <target state="translated">Deathstalker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0870_04:0">
+        <source>Cocadrille</source>
+        <target state="translated">Cocadrille</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0870_04:1cc">
+        <source>Stone Ray</source>
+        <target state="translated">Stone Ray</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0871_04:0">
+        <source>Blood Sucker</source>
+        <target state="translated">Blood Sucker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0872_04:0">
+        <source>Troll</source>
+        <target state="translated">Troll</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0873_04:0">
+        <source>Dragon's Tooth</source>
+        <target state="translated">Dragon's Tooth</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0873_04:1cc">
+        <source>Triple Slash</source>
+        <target state="translated">Triple Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0873_04:228">
+        <source>Double Slash</source>
+        <target state="translated">Double Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0874_04:0">
+        <source>Carcass</source>
+        <target state="translated">Carcass</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0875_04:0">
+        <source>Wraith</source>
+        <target state="translated">Wraith</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0876_04:0">
+        <source>Specter</source>
+        <target state="translated">Specter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0877_04:0">
+        <source>Jinn</source>
+        <target state="translated">Jinn</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0878_04:0">
+        <source>Dragonewt</source>
+        <target state="translated">Dragonewt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0879_04:0">
+        <source>Flame</source>
+        <target state="translated">Flame</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0880_04:0">
+        <source>Ignis Fatuus</source>
+        <target state="translated">Ignis Fatuus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0881_04:0">
+        <source>Vulcan</source>
+        <target state="translated">Vulcan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0882_04:0">
+        <source>Night Wing</source>
+        <target state="translated">Night Wing</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0883_04:0">
+        <source>A.C. Roper</source>
+        <target state="translated">A.C. Roper</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0883_04:1cc">
+        <source>Power Drain</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0884_04:0">
+        <source>Arch Demon</source>
+        <target state="translated">Arch Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0885_04:0">
+        <source>Giant Squid</source>
+        <target state="translated">Giant Squid</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0886_04:0">
+        <source>Evil Star</source>
+        <target state="translated">Evil Star</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0887_04:0">
+        <source>Aqua Dragon</source>
+        <target state="translated">Aqua Dragon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0888_04:0">
+        <source>Blue Roper</source>
+        <target state="translated">Blue Roper</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0888_04:1cc">
+        <source>Power Drain</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0889_04:0">
+        <source>Frost Bunny</source>
+        <target state="translated">Frost Bunny</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0890_04:0">
+        <source>Lesser Demon</source>
+        <target state="translated">Lesser Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0891_04:0">
+        <source>Polar Bear</source>
+        <target state="translated">Polar Bear</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0892_04:0">
+        <source>Ice Golem</source>
+        <target state="translated">Ice Golem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0892_04:1cc">
+        <source>Machinegun Knuckle</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0892_04:228">
+        <source>Machinegun Knuckle</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0892_04:2e0">
+        <source>Gigaton Uppercut</source>
+        <target state="translated">Gigaton Uppercut</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0893_04:0">
+        <source>Frost King</source>
+        <target state="translated">Frost King</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0894_04:0">
+        <source>Priestess</source>
+        <target state="translated">Priestess</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0895_04:0">
+        <source>Kunoichi</source>
+        <target state="translated">Kunoichi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0896_04:0">
+        <source>Fenrir Beast</source>
+        <target state="translated">Fenrir Beast</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0897_04:0">
+        <source>Treant</source>
+        <target state="translated">Treant</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0897_04:1cc">
+        <source>Apple Dance</source>
+        <target state="translated">Apple Dance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0898_04:0">
+        <source>Giant Mayfly</source>
+        <target state="translated">Giant Mayfly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0899_04:0">
+        <source>Alraune</source>
+        <target state="translated">Alraune</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0899_04:1cc">
+        <source>Power Drain</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0899_04:284">
+        <source>Shrill Cry</source>
+        <target state="translated">Shrill Cry</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0900_04:0">
+        <source>Grizzly</source>
+        <target state="translated">Grizzly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0901_04:0">
+        <source>Monk Soldier</source>
+        <target state="translated">Monk Soldier</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0902_04:0">
+        <source>Giant Lizard</source>
+        <target state="translated">Giant Lizard</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0903_04:0">
+        <source>Apache Doctor</source>
+        <target state="translated">Apache Doctor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0904_04:0">
+        <source>Mythril Golem</source>
+        <target state="translated">Mythril Golem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0904_04:1cc">
+        <source>Machinegun Knuckle</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0904_04:228">
+        <source>Machinegun Knuckle</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0905_04:0">
+        <source>Black Knight</source>
+        <target state="translated">Black Knight</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0906_04:0">
+        <source>Bushwhacker</source>
+        <target state="translated">Bushwhacker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0907_04:0">
+        <source>Bishop</source>
+        <target state="translated">Bishop</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0908_04:0">
+        <source>Gold Dragon</source>
+        <target state="translated">Gold Dragon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0909_04:0">
+        <source>Red Pudding</source>
+        <target state="translated">Red Pudding</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0910_04:0">
+        <source>Black Slime</source>
+        <target state="translated">Black Slime</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0911_04:0">
+        <source>White Bear</source>
+        <target state="translated">White Bear</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0912_04:0">
+        <source>Psychic</source>
+        <target state="translated">Psychic</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0913_04:0">
+        <source>Boggart</source>
+        <target state="translated">Boggart</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0914_04:0">
+        <source>Hellhound</source>
+        <target state="translated">Hellhound</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0915_04:0">
+        <source>Doom Toad</source>
+        <target state="translated">Doom Toad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0916_04:0">
+        <source>Cawker</source>
+        <target state="translated">Cawker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0917_04:0">
+        <source>Gargoyle</source>
+        <target state="translated">Gargoyle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0918_04:0">
+        <source>Queen Bee</source>
+        <target state="translated">Queen Bee</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0919_04:0">
+        <source>Merman</source>
+        <target state="translated">Merman</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0920_04:0">
+        <source>Samael</source>
+        <target state="translated">Samael</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0920_04:b4">
+        <source>Summon Demon</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0921_04:0">
+        <source>Ninja Master</source>
+        <target state="translated">Ninja Master</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0922_04:0">
+        <source>Evil Sword</source>
+        <target state="translated">Evil Sword</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0923_04:0">
+        <source>Superstar</source>
+        <target state="translated">Superstar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0923_04:228">
+        <source>Tidal Uppercut</source>
+        <target state="translated">Tidal Uppercut</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0923_04:284">
+        <source>Wave Kick</source>
+        <target state="translated">Wave Kick</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0924_04:0">
+        <source>10000R</source>
+        <target state="translated">10000R</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0924_04:1cc">
+        <source>Photon Beam</source>
+        <target state="translated">Photon Beam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0925_04:0">
+        <source>3SH</source>
+        <target state="translated">3SH</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0926_04:0">
+        <source>Inferno</source>
+        <target state="translated">Inferno</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0927_04:0">
+        <source>Firebug</source>
+        <target state="translated">Firebug</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0928_04:0">
+        <source>Hellcat</source>
+        <target state="translated">Hellcat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0929_04:0">
+        <source>Hatamoto</source>
+        <target state="translated">Hatamoto</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0930_04:0">
+        <source>Flame Sword</source>
+        <target state="translated">Flame Sword</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0931_04:0">
+        <source>Balrog</source>
+        <target state="translated">Balrog</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0932_04:0">
+        <source>Flamberg</source>
+        <target state="translated">Flamberg</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0933_04:0">
+        <source>Evil Lord</source>
+        <target state="translated">Evil Lord</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0933_04:8c">
+        <source>Summon Demon</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0934_04:0">
+        <source>Ranger</source>
+        <target state="translated">Ranger</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0935_04:0">
+        <source>Arch Bishop</source>
+        <target state="translated">Arch Bishop</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0936_04:0">
+        <source>Witch Doctor</source>
+        <target state="translated">Witch Doctor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0937_04:0">
+        <source>Prophet</source>
+        <target state="translated">Prophet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0938_04:0">
+        <source>Voodoo Priest</source>
+        <target state="translated">Voodoo Priest</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0938_04:8c">
+        <source>Summon Demon</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0939_04:0">
+        <source>Witch</source>
+        <target state="translated">Witch</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0940_04:0">
+        <source>Sakon</source>
+        <target state="translated">Sakon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0941_04:0">
+        <source>Hanzo</source>
+        <target state="translated">Hanzo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0942_04:0">
+        <source>Galleon Sword</source>
+        <target state="translated">Galleon Sword</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0943_04:0">
+        <source>Darkeye?</source>
+        <target state="translated">Darkeye?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0944_04:0">
+        <source>Roameye?</source>
+        <target state="translated">Roameye?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0945_04:0">
+        <source>Sealeye?</source>
+        <target state="translated">Sealeye?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0946_04:0">
+        <source>Dhaos</source>
+        <target state="translated">Dhaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0946_04:284">
+        <source>Dhaos Collider</source>
+        <target state="translated">Dhaos Collider</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0946_04:2e0">
+        <source>Dhaos Laser</source>
+        <target state="translated">Dhaos Laser</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0946_04:33c">
+        <source>Tetra Spell</source>
+        <target state="translated">Tetra Spell</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0946_04:398">
+        <source>Tetra Assault</source>
+        <target state="translated">Tetra Assault</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0947_04:0">
+        <source>Silver Dragon</source>
+        <target state="translated">Silver Dragon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0948_04:0">
+        <source>Dhaos</source>
+        <target state="translated">Dhaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0948_04:1cc">
+        <source>Conceal</source>
+        <target state="translated">Conceal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0948_04:284">
+        <source>Chaos</source>
+        <target state="translated">Chaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0948_04:2e0">
+        <source>Circulate</source>
+        <target state="translated">Circulate</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0949_04:0">
+        <source>Dhaos</source>
+        <target state="translated">Dhaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0950_04:0">
+        <source>Dhaos</source>
+        <target state="translated">Dhaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0950_04:284">
+        <source>Dhaos Collider</source>
+        <target state="translated">Dhaos Collider</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0950_04:2e0">
+        <source>Dhaos Laser</source>
+        <target state="translated">Dhaos Laser</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0950_04:33c">
+        <source>Tetra Spell</source>
+        <target state="translated">Tetra Spell</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0950_04:398">
+        <source>Tetra Assault</source>
+        <target state="translated">Tetra Assault</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0951_04:0">
+        <source>Dhaos</source>
+        <target state="translated">Dhaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0951_04:284">
+        <source>Dhaos Collider</source>
+        <target state="translated">Dhaos Collider</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0951_04:2e0">
+        <source>Dhaos Laser</source>
+        <target state="translated">Dhaos Laser</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0951_04:33c">
+        <source>Tetra Spell</source>
+        <target state="translated">Tetra Spell</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0951_04:398">
+        <source>Tetra Assault</source>
+        <target state="translated">Tetra Assault</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0952_04:0">
+        <source>Basilisk King</source>
+        <target state="translated">Basilisk King</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0952_04:1cc">
+        <source>Stone Ray</source>
+        <target state="translated">Stone Ray</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0953_04:0">
+        <source>Zombie</source>
+        <target state="translated">Zombie</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0954_04:0">
+        <source>Beastmaster</source>
+        <target state="translated">Beastmaster</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0954_04:8c">
+        <source>Summon Demon</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0955_04:0">
+        <source>Kiyomasa</source>
+        <target state="translated">Kiyomasa</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0956_04:0">
+        <source>Black Dragon</source>
+        <target state="translated">Black Dragon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0957_04:0">
+        <source>Stormrider</source>
+        <target state="translated">Stormrider</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0958_04:0">
+        <source>Manticore</source>
+        <target state="translated">Manticore</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0959_04:0">
+        <source>Cerberus</source>
+        <target state="translated">Cerberus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0960_04:0">
+        <source>Bigfoot</source>
+        <target state="translated">Bigfoot</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0961_04:0">
+        <source>Wyvern</source>
+        <target state="translated">Wyvern</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0962_04:0">
+        <source>Galf Beast</source>
+        <target state="translated">Galf Beast</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0963_04:0">
+        <source>Pumpkin King</source>
+        <target state="translated">Pumpkin King</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0963_04:228">
+        <source>Power Drain</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0964_04:0">
+        <source>Skeleton King</source>
+        <target state="translated">Skeleton King</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0964_04:1cc">
+        <source>Triple Slash</source>
+        <target state="translated">Triple Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0964_04:228">
+        <source>Double Slash</source>
+        <target state="translated">Double Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0965_04:0">
+        <source>Clay Golem</source>
+        <target state="translated">Clay Golem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0966_04:0">
+        <source>Red Sylph</source>
+        <target state="translated">Red Sylph</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0967_04:0">
+        <source>Mandrake</source>
+        <target state="translated">Mandrake</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0967_04:1cc">
+        <source>Power Drain</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0967_04:284">
+        <source>Shrill Cry</source>
+        <target state="translated">Shrill Cry</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0968_04:0">
+        <source>Dozo</source>
+        <target state="translated">Dozo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0969_04:0">
+        <source>Okiyo</source>
+        <target state="translated">Okiyo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0970_04:0">
+        <source>Lycurgus</source>
+        <target state="translated">Lycurgus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0970_04:b4">
+        <source>Summon Demon</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0971_04:0">
+        <source>Air Giant</source>
+        <target state="translated">Air Giant</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0972_04:0">
+        <source>Phoenix</source>
+        <target state="translated">Phoenix</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0973_04:0">
+        <source>Nocturnal Fly</source>
+        <target state="translated">Nocturnal Fly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0974_04:0">
+        <source>Manta</source>
+        <target state="translated">Manta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0975_04:0">
+        <source>Pharaoh</source>
+        <target state="translated">Pharaoh</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0975_04:1cc">
+        <source>Mummy Combo</source>
+        <target state="translated">Mummy Combo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0975_04:228">
+        <source>Poison Fist</source>
+        <target state="translated">Poison Fist</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0976_04:0">
+        <source>Origin</source>
+        <target state="translated">Origin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0976_04:1cc">
+        <source>Collapse</source>
+        <target state="translated">Collapse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0977_04:0">
+        <source>Tyrant</source>
+        <target state="translated">Tyrant</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0978_04:0">
+        <source>Lobo</source>
+        <target state="translated">Lobo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0979_04:0">
+        <source>Great Tusk</source>
+        <target state="translated">Great Tusk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0980_04:0">
+        <source>Kraken</source>
+        <target state="translated">Kraken</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0981_04:0">
+        <source>Mummy</source>
+        <target state="translated">Mummy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0981_04:1cc">
+        <source>Mummy Combo</source>
+        <target state="translated">Mummy Combo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0982_04:0">
+        <source>Zombie Giant</source>
+        <target state="translated">Zombie Giant</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0983_04:0">
+        <source>Pluto</source>
+        <target state="translated">Pluto</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0984_04:0">
+        <source>Draco-Centaur</source>
+        <target state="translated">Draco-Centaur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0985_04:0">
+        <source>Odin</source>
+        <target state="translated">Odin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0986_04:0">
+        <source>Kosuke</source>
+        <target state="translated">Kosuke</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0987_04:0">
+        <source>Jinpachi</source>
+        <target state="translated">Jinpachi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0988_04:0">
+        <source>Juzo</source>
+        <target state="translated">Juzo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0989_04:0">
+        <source>Saizo</source>
+        <target state="translated">Saizo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0990_04:0">
+        <source>Sasuke</source>
+        <target state="translated">Sasuke</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0991_04:0">
+        <source>Crab</source>
+        <target state="translated">Crab</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0992_04:0">
+        <source>Lilith</source>
+        <target state="translated">Lilith</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0992_04:1cc">
+        <source>Lightning Fang</source>
+        <target state="translated">Lightning Fang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0992_04:228">
+        <source>Thunder Sword</source>
+        <target state="translated">Thunder Sword</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0992_04:284">
+        <source>Thunder Beast</source>
+        <target state="translated">Thunder Beast</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0992_04:2e0">
+        <source>Thor's Hammer</source>
+        <target state="translated">Thor's Hammer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0992_04:398">
+        <source>Lightning Fist</source>
+        <target state="translated">Lightning Fist</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0992_04:3f4">
+        <source>Swallow Dance</source>
+        <target state="translated">Swallow Dance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="top_0992_04:450">
+        <source>Lilith Slash</source>
+        <target state="translated">Lilith Slash</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_332">
+        <source>Well, well, I hear you're
+lookin' to marry some rich dude.</source>
+        <target state="translated">Well, well, I hear you're
+lookin' to marry some rich dude.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_333">
+        <source>So!? Get out of my business, you nosy jerk!</source>
+        <target state="translated">So!? Get out of my business, you nosy jerk!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_334">
+        <source>Where're you going to find a guy like that who's
+naive enough to give you the time of day?</source>
+        <target state="translated">Where're you going to find a guy like that who's
+naive enough to give you the time of day?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_335">
+        <source>That's for me to know!
+Besides, you shouldn't be talking.</source>
+        <target state="translated">That's for me to know!
+Besides, you shouldn't be talking.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_336">
+        <source>Now, if I was getting married,</source>
+        <target state="translated">Now, if I was getting married,</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_337">
+        <source>and there was this manipulative,
+foul-mouthed, but very spunky girl</source>
+        <target state="translated">and there was this manipulative,
+foul-mouthed, but very spunky girl</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_338">
+        <source>with a pony tail who flies
+around everywhere on a broom...</source>
+        <target state="translated">with a pony tail who flies
+around everywhere on a broom...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_339">
+        <source>You talkin' about me...?</source>
+        <target state="translated">You talkin' about me...?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_340">
+        <source>...I'd turn her down in an instant.</source>
+        <target state="translated">...I'd turn her down in an instant.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_341">
+        <source>I'd turn you down too!</source>
+        <target state="translated">I'd turn you down too!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1201">
+        <source>A giant castle in the mine ruins...</source>
+        <target state="translated">A giant castle in the mine ruins...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1202">
+        <source>Lundgrom was right as always.</source>
+        <target state="translated">Lundgrom was right as always.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1203">
+        <source>I guess it's proof enough that Dhaos
+is behind the Midnight Town Mystery.</source>
+        <target state="translated">I guess it's proof enough that Dhaos
+is behind the Midnight Town Mystery.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1204">
+        <source>His power is unfathomable...</source>
+        <target state="translated">His power is unfathomable...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1205">
+        <source>It's about time we got our own look at this.</source>
+        <target state="translated">It's about time we got our own look at this.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

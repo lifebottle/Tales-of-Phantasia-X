@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_119">
+        <source>What are your plans once Dhaos
+is gone and you return home?</source>
+        <target state="translated">What are your plans once Dhaos
+is gone and you return home?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_120">
+        <source>Well, that's easy enough.</source>
+        <target state="translated">Well, that's easy enough.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_121">
+        <source>*They'll* see my vengeful side.</source>
+        <target state="translated">*They'll* see my vengeful side.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_122">
+        <source>Wh-what?</source>
+        <target state="translated">Wh-what?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_123">
+        <source>I'll drop in on those academy hardheads who
+rejected my summoning artes and give them a</source>
+        <target state="translated">I'll drop in on those academy hardheads who
+rejected my summoning artes and give them a</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_124">
+        <source>very personal demonstration of Origin's power.
+That should brighten my mood. Mwahahaha...</source>
+        <target state="translated">very personal demonstration of Origin's power.
+That should brighten my mood. Mwahahaha...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_125">
+        <source>H-hey! A-are you serious!?</source>
+        <target state="translated">H-hey! A-are you serious!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_126">
+        <source>No, I'm kidding. I'd really like to compile
+my findings from this journey for a thesis.</source>
+        <target state="translated">No, I'm kidding. I'd really like to compile
+my findings from this journey for a thesis.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_127">
+        <source>But I think I'm due a little...vacation first.</source>
+        <target state="translated">But I think I'm due a little...vacation first.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

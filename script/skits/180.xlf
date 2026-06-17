@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_897">
+        <source>I don't think we should be dilly-dallying like this.</source>
+        <target state="translated">I don't think we should be dilly-dallying like this.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_898">
+        <source>You're right. The war could be starting any time.</source>
+        <target state="translated">You're right. The war could be starting any time.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_899">
+        <source>Yeah. We need to get back to Midgard, fast.</source>
+        <target state="translated">Yeah. We need to get back to Midgard, fast.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_900">
+        <source>Aww, I hoped we could stay out longer...</source>
+        <target state="translated">Aww, I hoped we could stay out longer...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

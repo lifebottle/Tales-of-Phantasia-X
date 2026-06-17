@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_401">
+        <source>Everybody will be leaving if we defeat Dhaos...</source>
+        <target state="translated">Everybody will be leaving if we defeat Dhaos...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_402">
+        <source>Yeah...</source>
+        <target state="translated">Yeah...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_403">
+        <source>It will be quite lonely, yes?</source>
+        <target state="translated">It will be quite lonely, yes?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_404">
+        <source>If nothing bad happens, I'm sure I'll
+meet you again. So be patient, 'kay?</source>
+        <target state="translated">If nothing bad happens, I'm sure I'll
+meet you again. So be patient, 'kay?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_405">
+        <source>But half-elves are not
+permitted into Ymir Forest...</source>
+        <target state="translated">But half-elves are not
+permitted into Ymir Forest...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_406">
+        <source>&lt;wait_C0&gt;No problem...</source>
+        <target state="translated">&lt;wait_C0&gt;No problem...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_407">
+        <source>&lt;wait_A0&gt;I'll just fly over it and dive
+straight into your house if I have to.</source>
+        <target state="translated">&lt;wait_A0&gt;I'll just fly over it and dive
+straight into your house if I have to.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_408">
+        <source>I give you my word.</source>
+        <target state="translated">I give you my word.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_409">
+        <source>Then I shall be waiting for you.</source>
+        <target state="translated">Then I shall be waiting for you.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

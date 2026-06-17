@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1157">
+        <source>Looks like the Rheairds were
+completed without any fuss.</source>
+        <target state="translated">Looks like the Rheairds were
+completed without any fuss.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1158">
+        <source>We owe so much to Mr. Stanley for them.</source>
+        <target state="translated">We owe so much to Mr. Stanley for them.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1159">
+        <source>I totally thought we were screwed
+when Volt started speaking gibberish...</source>
+        <target state="translated">I totally thought we were screwed
+when Volt started speaking gibberish...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1160">
+        <source>Whaaat? Don't underestimate me!</source>
+        <target state="translated">Whaaat? Don't underestimate me!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1161">
+        <source>So how about we start chasing after Harrison?</source>
+        <target state="translated">So how about we start chasing after Harrison?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

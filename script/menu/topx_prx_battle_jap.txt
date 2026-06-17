@@ -1,0 +1,36 @@
+Artes{END}
+
+Strategy{END}
+
+Formation{END}
+
+Items{END}
+
+%s mastered!{END}
+
+But the spell is sealed!{END}
+
+Initialization Error{END}
+
+Defeated{END}
+
+Escaped{END}
+
+All spell effects have disappeared!{END}
+
+Stygian Blade{END}
+
+Demon's Lance Rain{END}
+
+Burning Phoenix{END}
+
+Eternal Blade{END}
+
+Round Yellow Amazing Guy{END}
+
+It won't work!{END}
+
+-Mystic Arte-{END}
+
+{END}
+

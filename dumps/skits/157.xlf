@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_786">
+        <source>Seeing me in a new light, are ya?</source>
+        <target state="translated">Seeing me in a new light, are ya?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_787">
+        <source>It's very impressive you can
+understand that kind of writing.</source>
+        <target state="translated">It's very impressive you can
+understand that kind of writing.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_788">
+        <source>I feel the same way.</source>
+        <target state="translated">I feel the same way.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_789">
+        <source>Gee, it must be nice to have hereditary literacy...</source>
+        <target state="translated">Gee, it must be nice to have hereditary literacy...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_790">
+        <source>What's that? Sounds like Mr.
+Summoner is jeeeeaaalous.</source>
+        <target state="translated">What's that? Sounds like Mr.
+Summoner is jeeeeaaalous.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_791">
+        <source>A-anyway! Let's finish making pacts with
+the rest of the Four Great Elements, shall we?</source>
+        <target state="translated">A-anyway! Let's finish making pacts with
+the rest of the Four Great Elements, shall we?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

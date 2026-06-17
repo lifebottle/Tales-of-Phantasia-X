@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_777">
+        <source>At last, the entry permit is ours.</source>
+        <target state="translated">At last, the entry permit is ours.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_778">
+        <source>Let's get to the mine and
+shove it in the guard's face!</source>
+        <target state="translated">Let's get to the mine and
+shove it in the guard's face!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_779">
+        <source>Well, that's *one* problem down.</source>
+        <target state="translated">Well, that's *one* problem down.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_780">
+        <source>Now we must begin our
+search for Luna's pact ring.</source>
+        <target state="translated">Now we must begin our
+search for Luna's pact ring.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_781">
+        <source>That's the problem I'm worried about.</source>
+        <target state="translated">That's the problem I'm worried about.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

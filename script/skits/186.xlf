@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_925">
+        <source>This is it. Dhaos' castle awaits.</source>
+        <target state="translated">This is it. Dhaos' castle awaits.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_926">
+        <source>We have to go through the
+Valhalla Plains to get there, right?</source>
+        <target state="translated">We have to go through the
+Valhalla Plains to get there, right?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_927">
+        <source>Yes.</source>
+        <target state="translated">Yes.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_928">
+        <source>We dedicate our victory
+against Dhaos to Edward!</source>
+        <target state="translated">We dedicate our victory
+against Dhaos to Edward!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_929">
+        <source>Okay, let's go!</source>
+        <target state="translated">Okay, let's go!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_978">
+        <source>Ooh, the sun feels so warm and nice.</source>
+        <target state="translated">Ooh, the sun feels so warm and nice.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_979">
+        <source>Puts one in the mood for a picnic.</source>
+        <target state="translated">Puts one in the mood for a picnic.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_980">
+        <source>Why don't we have one after Dhaos is gone?</source>
+        <target state="translated">Why don't we have one after Dhaos is gone?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_981">
+        <source>Certainly! Then I'll take
+charge of filling the picnic basket.</source>
+        <target state="translated">Certainly! Then I'll take
+charge of filling the picnic basket.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_982">
+        <source>Oh, then allow me to help you.</source>
+        <target state="translated">Oh, then allow me to help you.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_983">
+        <source>Ah! That'd be great.</source>
+        <target state="translated">Ah! That'd be great.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_984">
+        <source>Me too!</source>
+        <target state="translated">Me too!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_985">
+        <source>Y-yeah, uh... Actually, I
+think I'll do this alone after all.</source>
+        <target state="translated">Y-Yeah, uh... Actually, I
+think I'll do this alone after all.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

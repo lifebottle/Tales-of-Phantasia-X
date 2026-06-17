@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_249">
+        <source>Heyo, &lt;Mint&gt;.
+Why do you think it rains?</source>
+        <target state="translated">Heyo, &lt;Mint&gt;.
+Why do you think it rains?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_250">
+        <source>The rain, why does it fall... Hmm...</source>
+        <target state="translated">The rain, why does it fall... Hmm...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_251">
+        <source>Perhaps it reflects the
+sadness of people's hearts.</source>
+        <target state="translated">Perhaps it reflects the
+sadness of people's hearts.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_252">
+        <source>Huh? People's...hearts?</source>
+        <target state="translated">Huh? People's...hearts?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_253">
+        <source>When the rain falls, don't
+you feel depressed inside?</source>
+        <target state="translated">When the rain falls, don't
+you feel depressed inside?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_254">
+        <source>That might be true sometimes, but I dunno...</source>
+        <target state="translated">That might be true sometimes, but I dunno...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_255">
+        <source>To keep people's spirits, their tears gather in
+and fall from the clouds instead of their eyes.</source>
+        <target state="translated">To keep people's spirits, their tears gather in
+and fall from the clouds instead of their eyes.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_256">
+        <source>Um, I don't think that's
+the answer I'm looking for...</source>
+        <target state="translated">Um, I don't think that's
+the answer I'm looking for...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

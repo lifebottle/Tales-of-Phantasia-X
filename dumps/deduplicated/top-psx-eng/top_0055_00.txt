@@ -1,0 +1,1061 @@
+Forest of Spirits{END}
+
+<Klarth>
+ Might this magnificent sight be
+ Yggdrasill, the World Tree <var_CF00>
+ spoke of?
+<pause>
+<Klarth>
+ ......
+<pause>
+<Klarth>
+ S-s-something's happening!{END}
+
+<Cless>
+ (Is she...?)
+<pause>
+Tree Spirit
+ Can you not see me?
+<pause>
+Tree Spirit
+ Can you not hear me?
+<pause>
+Tree Spirit
+ I beg that you listen to my plea!
+<pause>
+Tree Spirit
+ The time of destruction is at hand...
+<pause>
+Tree Spirit
+ There is something I wish to be
+ known, even if only by you.{END}
+
+Tree Spirit
+ I am Martel, the guardian spirit of
+ this World Tree, Yggdrasill.
+<pause>
+Martel
+ As matters stand, the time of
+ Yggdrasill's death draws near...
+<pause>
+<Klarth>
+ With all due respect, surely all
+ living things must die sometime?
+<pause>
+Martel
+ No. World Trees set down their
+ roots at the dawn of a world's
+ creation, and are not bound by
+ ordinary mortality.
+<pause>
+Martel
+ Yggdrasill's life source, mana, is
+ being consumed far faster than it
+ can be replenished, and soon shall
+ be completely exhausted.
+<pause>
+Martel
+ Mana is born from the tree itself.
+ It is also the life source of spirits,
+ and the source of magical power.
+<pause>
+<Klarth>
+ ......
+<pause>
+Martel
+ Was this unknown to you?<wait>{END}
+
+<Klarth>
+ What!?
+<pause>
+<Klarth>
+ You can't be serious!
+<pause>
+<Klarth>
+ You really want me to believe that
+ this tree, by itself, supplies enough
+ mana for ALL the world's spirits
+ and magic usage?
+<pause>
+Martel
+ That is correct.
+<pause>
+<Klarth>
+ Absolutely ludicrous...
+<pause>
+Martel
+ I speak no lies.
+<pause>
+Martel
+ When my tree has withered away,
+ and all the spirits and magic are
+ truly lost...
+<pause>
+Martel
+ Then will you believe?
+<pause>
+<Klarth>
+ ......<wait>{END}
+
+<unk1><Cless>
+ I believe she's telling us the truth.
+<pause>
+<Cless>
+ In our world, a century from now,
+ magic only exists in stories about
+ the past. Nobody can use it there.
+<pause>
+<Cless>
+ This tree--I saw it with my own
+ eyes shortly before arriving in this
+ period...<wait>{END}
+
+<Cless>
+ It was completely withered,
+ showing no sign of life...
+<pause>
+<Klarth>
+ Are you serious?
+<pause>
+<Klarth>
+ If that's the case...<wait>{END}
+
+Martel
+ Yggdrasill too, relies on mana.
+ If its supply of mana fades to
+ exhaustion, it will surely die.
+<pause>
+Martel
+ However, the usage of magic alone
+ does not consume enough to
+ threaten the balance.
+<pause>
+<Klarth>
+ So, it must be something else.
+ But what could that be?
+<pause>
+Martel
+ That, I do not know.
+<pause>
+Martel
+ Only something of tremendous
+ power is capable of drawing such
+ vast quantities of mana...
+<pause>
+<Cless>
+ Is there nothing we can do to save
+ the tree?
+<pause>
+<Cless>
+ We won't stand a chance against
+ Dhaos without magic!
+<pause>
+<Klarth>
+ And all the time I've spent
+ researching summoning artes will
+ have been for nothing...{END}
+
+<Klarth>
+ Wait! Please wait!
+<pause>
+<Klarth>
+ I still have so many more
+ questions...!{END}
+
+<Mint>
+ Maybe...maybe I can help.<wait>{END}
+
+<Klarth>
+ Huh?{END}
+
+<Mint>
+ My clerical artes aren't strong
+ enough.<wait>{END}
+
+<Mint>
+ If only they were as powerful as
+ my mother's...
+<pause>
+<Klarth>
+ I don't know if even those would
+ have been enough for something
+ like this.
+<pause>
+<Klarth>
+ ...Dammit! This is bad!
+ If mana disappears, magic will be
+ out of everybody's reach...
+<pause>
+<Mint>
+ Perhaps we could defeat Dhaos
+ before he travels into the future?
+<pause>
+<Klarth>
+ Well, one thing's for certain: we
+ have to eliminate whatever's
+ sucking up all of the world's mana.
+<pause>
+<Klarth>
+ The way things are going, history is
+ bound to repeat itself. Literally.
+<pause>
+<Cless>
+ You're right, but we don't have a
+ single lead.<wait>{END}
+
+<Cless>
+ So where should we start?
+<pause>
+<Klarth>
+ If mana is indeed related to magic,
+ Dhaos might well be the one behind
+ this.
+<pause>
+<Cless>
+ So if we take him out...
+<pause>
+<Klarth>
+ There's a good chance that'll take
+ care of things, yeah.
+<pause>
+<Klarth>
+ But no doubt that's easier said than
+ done.{END}
+
+<Klarth>
+ Hmm. Of the spirits whose
+ existence have been confirmed...
+<pause>
+<Klarth>
+ ...the most powerful is thought to
+ be “<var_D400>,” the Spirit of the Moon.
+<pause>
+<Klarth>
+ My research indicates that the ring
+ necessary for <var_D400>'s pact can be
+ found in the Moria Mine.
+<pause>
+<Cless>
+ I've never heard of that place.
+<pause>
+<Klarth>
+ It's an old dwarven mine
+ controlled by Alvanista.
+ That's about all I know.
+<pause>
+<Klarth>
+ Speaking of Alvanista, that country
+ is second to none in the world
+ when it comes to magic research.
+<pause>
+<Klarth>
+ I think going there for information
+ would be in our best interest for
+ now.
+<pause>
+<Klarth>
+ So why don't we head for Venezia,
+ the port town in the far north?
+ We can catch a ship there.
+<pause>
+<Cless>
+ Then it's decided!
+ Next stop, <color_0002>Venezia<color_0000>!{END}
+
+<Cless>
+ What in the world must we do to
+ restore Yggdrasill?{END}
+
+<Cless>
+ The tree is still withering...<wait>{END}
+
+<Mint>
+ Please stand back, everyone!
+<pause>
+<Mint>
+ I wish to try my most powerful
+ clerical arte!{END}
+
+<Mint>
+ ......
+<pause>
+<Mint>
+ Maybe I just can't do this...<wait>{END}
+
+<Arche>
+ Don't give up!
+<pause>
+<Mint>
+ Okay...
+<pause>
+<Arche>
+ You're doing fine!
+ I think the tree actually looks a
+ little better now.
+<pause>
+<Arche>
+ Just gotta do your best and keep
+ on trying until you succeed, right?<heart>
+<pause>
+<Mint>
+ But if this continues...{END}
+
+<Cless>
+ This is the forest we always go
+ hunting in...{END}
+
+<Cless>
+ This forest looks very familiar...{END}
+
+<Mint>
+ Everyone, please stand back!
+<pause>
+<Mint>
+ With the <item_E000>, I will try my
+ most powerful clerical arte once
+ more!{END}
+
+<Klarth>
+ Another fifty years in, and
+ Yggdrasill still seems to be hanging
+ in there.
+<pause>
+<Mint>
+ I'm so glad...{END}
+
+<Cless>
+ With Dhaos still around, it could
+ start withering and endanger magic
+ again.
+<pause>
+<Cless>
+ We have to get rid of him as soon
+ as possible!{END}
+
+<Arche>
+ Hey!
+ Here comes the nice Tree Lady!{END}
+
+Martel
+ After such a long time, I had not
+ anticipated another meeting with
+ you.
+<pause>
+<Klarth>
+ So, is mana still safe?
+<pause>
+Martel
+ Yes, there is no longer any danger
+ to the spirits or magic.
+<pause>
+Martel
+ At some point in time, mana
+ consumption returned to normal.
+<pause>
+<Cless>
+ Whew, I'm glad to hear that.
+<pause>
+Martel
+ Yes...
+<pause>
+Martel
+ However, Yggdrasill hasn't yet fully
+ recovered from the effects of
+ mana exhaustion.
+<pause>
+<Klarth>
+ I see...
+<pause>
+Martel
+ I must take a very long rest for
+ the remaining wounds to heal.{END}
+
+<Arche>
+ Wow, even spirits need to sleep?
+<pause>
+Martel
+ Of course we do.<wait>{END}
+
+Martel
+ As mana replenishes, Yggdrasill will
+ reclaim its lost vitality.
+<pause>
+<Mint>
+ Please get well soon.
+<pause>
+Martel
+ Thank you, my kind-hearted
+ daughter.
+<pause>
+Martel
+ That I can still live on like this...
+<pause>
+Martel
+ ...is thanks to you.
+<pause>
+<Mint>
+ Oh my, you exaggerate...
+<pause>
+Martel
+ Right now, something is growing
+ inside me.
+<pause>
+Martel
+ A branch of me, you could say...
+<pause>
+Martel
+ I hope to entrust it to someone like
+ you.
+<pause>
+<Mint>
+ ......<wait>{END}
+
+Martel
+ By the way, all of you...
+<pause>
+<Cless>
+ What is it?
+<pause>
+Martel
+ During my slumber, I believe I had
+ a frequent visitor.
+<pause>
+Martel
+ Do you know who it might be?
+<pause>
+<Cless>
+ ......
+<pause>
+<Arche>
+ It's kinda hard to guess without
+ knowing what they look like.
+<pause>
+Martel
+ He was tall...with long blonde
+ hair...and a beautiful face.
+<pause>
+<Klarth>
+ Do we know anybody like that?
+<pause>
+Martel
+ His eyes were always replete with
+ affection as he watched over me...
+<pause>
+Martel
+ When it was time for him to part,
+ his expression would change to one
+ of profound regret.{END}
+
+<Chester>
+ Hey, what was that all about!?
+ We weren't done talking!{END}
+
+<Cless>
+ Wh-who's there!?{END}
+
+<Cless>
+ Dha...DHA...DHAOS!?{END}
+
+Dhaos
+ I thought your faces looked
+ familiar...
+<pause>
+Dhaos
+ You came to this era to hunt me
+ down, did you not?
+<pause>
+Dhaos
+ Bunch of pests...
+<pause>
+Dhaos
+ You shall meet the same end as
+ Midgard!!{END}
+
+<Klarth>
+ This is bad!{END}
+
+Dhaos
+ To fight here would risk damage to
+ the Giant Kharlan Tree...
+<pause>
+Dhaos
+ Hmph...
+<pause>
+Dhaos
+ You have been spared by
+ the grace of this tree.
+ Remember to thank it properly.{END}
+
+<Cless>
+ H-he didn't kill us...
+<pause>
+<Arche>
+ I swear my life was about to flash
+ before my eyes...
+<pause>
+<Klarth>
+ I sensed that our powers were no
+ match for his.
+<pause>
+<Cless>
+ As we are right now...
+<pause>
+<Arche>
+ ...We really DON'T have any chance
+ against him, do we?<wait>{END}
+
+<Cless>
+ ......
+<pause>
+<Cless>
+ It pains me to say it, but...
+<pause>
+<Cless>
+ <Klarth>'s right.
+ Our powers truly are nothing
+ compared to his...{END}
+
+<Arche>
+ Why'd that guy have to show up
+ here, anyway?
+<pause>
+<Klarth>
+ Maybe to kill us?<wait>{END}
+
+<Mint>
+ I don't believe that's true.
+<pause>
+<Mint>
+ I think he had no idea of our
+ arrival to this era.
+<pause>
+<Arche>
+ Yeah, he talked like we totally
+ blindsided him or something.
+<pause>
+<Cless>
+ You don't think...
+<pause>
+<Cless>
+ ...he could be the blonde man that
+ Martel was speaking of...?
+<pause>
+<Klarth>
+ While I can't be completely
+ certain...
+<pause>
+<Klarth>
+ The possibility can't be ruled out.
+<pause>
+<Arche>
+ What I wanna know is why he
+ decided to show up *right now*!
+ Is it really all just some kinda
+ kooky coincidence!?
+<pause>
+<Mint>
+ I don't know, but...
+<pause>
+<Mint>
+ I truly could not sense any malice
+ until he became aware of our
+ presence.
+<pause>
+<Cless>
+ ......{END}
+
+<Klarth>
+ Now, we need to find the sword
+ that's capable of manipulating time.
+ “Time is of the essence.”<wait>{END}
+
+<Klarth>
+ Now then!
+ We can't waste anymore time in
+ finding the Tria!<wait>{END}
+
+<Klarth>
+ Let's get on with it.
+ We can't leave King Alvanista
+ lying in wait.<wait>{END}
+
+<Mint>
+ Yes.{END}
+
+The sign reads:
+
+<center>“The Tree of Spirits”<endalign>
+<pause>
+“It is said that a spirit inhabits this
+tree.”
+<pause>
+“We request everyone's cooperation
+in preserving it for future
+generations.”
+<right>-Euclid Tourism Association”<endalign>{END}
+
+<Cless>
+ Huh. This side's blank.{END}
+
+(There's an old, weathered
+gravestone standing here.)
+<pause>
+<Cless>
+ ......{END}
+
+Martel
+ Mana...{END}
+
+Martel
+ ...is vanishing...{END}
+
+<speed_0004>
+<center>In order to save his beloved<endalign>
+<center>home world, he needed to obtain<endalign>
+<center>the “Great Seed.”<endalign>{END}
+
+<speed_0004>
+<center>Given time, Yggdrasill would have<endalign>
+<center>accumulated enough mana to<endalign>
+<center>produce this seed, or so he said...<endalign>{END}
+
+<speed_0004>
+
+ <center>However...<endalign>{END}
+
+<Klarth>
+ H-hey!
+<pause>
+<Klarth>
+ What the hell is happening!?
+<pause>
+<Mint>
+ Th-the <item_E000>'s power!
+ It's overwhelmingly strong!<wait>{END}
+
+<unk1><Cless>
+ Drop it and get away from there!!<wait>{END}
+
+<Mint>
+ I musn't!!
+<pause>
+<Mint>
+ If I give and let go...
+<pause>
+<Mint>
+ ...this power might go berserk!!
+<pause>
+<Mint>
+ If I let that happen, Yggdrasill
+ would...
+<pause>
+<Cless>
+ <Mint>!!{END}
+
+<Mint>
+ Dear Father, Dear Mother...
+<pause>
+<Mint>
+ Give me strength...
+<pause>
+<Mint>
+ Great strength, please...!{END}
+
+<Cless>
+ Can you guys stand?{END}
+
+<Cless>
+ <Mint>! You did it!
+ Yggdrasill is flowing with life!{END}
+
+<Klarth>
+ Way to go, <Mint>!
+<pause>
+<Klarth>
+ You did an incredible job!
+<pause>
+<Arche>
+ You go, girl!{END}
+
+Martel
+ Energy...seems to be welling up
+ within the tree.
+<pause>
+Martel
+ Is this the result of your sacred
+ power?
+<pause>
+<Mint>
+ No, I did not do this alone...
+<pause>
+<Mint>
+ If not for the unicorn and
+ everyone else's wishes, I would
+ have failed...
+<pause>
+<Arche>
+ Hey! Don't think like that!
+ It isn't good for you!<wait>{END}
+
+<unk1><Arche>
+ Take some credit, for once!
+ You're the only one here who can
+ use clerical artes, y'know<heart>
+<pause>
+<Cless>
+ She's right!
+ Only you could have done this.<wait>{END}
+
+Martel
+ Thank you very much for what
+ you've done.
+<pause>
+Martel
+ Not only have you extended the
+ life of the tree, but it seems that I
+ too shall live a little longer...
+<pause>
+Martel
+ However...
+<pause>
+Martel
+ ...the unnatural depletion of mana
+ continues.
+<pause>
+<Klarth>
+ If I had to submit a theory at this
+ point, I'd say magitechnology usage
+ is the likely culprit...
+<pause>
+<Klarth>
+ If those studying it are still trying
+ to greatly expand its use, that just
+ might be enough to cause this.{END}
+
+<Arche>
+ Aww, she left us...
+<pause>
+<Arche>
+ I was hoping we could've chatted
+ her up some more.
+<pause>
+<Klarth>
+ Well, she *is* a spirit, after all.
+<pause>
+<Klarth>
+ It's difficult for them to manifest
+ physically like that.
+<pause>
+<Klarth>
+ Sadly, we still don't have a shred
+ of decisive evidence as to what's
+ causing mana's crisis...<wait>{END}
+
+<Cless>
+ Hold on a sec...
+<pause>
+<Klarth>
+ What's on your mind, <Cless>?
+<pause>
+<Cless>
+ I was wondering...
+ Dhaos focused his attacks
+ on Midgard, didn't he...?
+<pause>
+<Cless>
+ Then what were the chances that
+ he was doing that simply to
+ eradicate their magitechnology...?<wait>{END}
+
+<Mint>
+ If so, could he have wanted to use
+ the power of mana all for himself?
+<pause>
+<Arche>
+ Maybe he's just afraid of magi-
+ technology. I mean, that cannon
+ WAS like, totally freaky and stuff.
+<pause>
+<Arche>
+ Plus, all we've ever heard is that
+ magic is his only weakness.<wait>{END}
+
+<Klarth>
+ Sigh.
+ There's too much we don't know.
+ Speculating further is pointless.<wait>{END}
+
+<Cless>
+ You're right.
+ We'll just have to wait until we
+ finally learn Dhaos' motive.
+<pause>
+<Arche>
+ Well, Dhaos is gone, and Yggdrasill
+ is a happy little tree.
+ How 'bout we move it to Thor?
+<pause>
+<Mint>
+ Yes, good thinking.<wait>{END}
+
+<Klarth>
+ I expect that we're heading into
+ our final battle.
+<pause>
+<Klarth>
+ Better make sure we're prepared
+ and finish off any business here.
+ Once we reach Thor, there's no
+ turning back!
+<pause>
+<Cless>
+ Got it!{END}
+
+<unk1><speed_0004><Cless>
+ Should we believe what Dhaos said?
+<pause>
+<Cless>
+ That he was fighting to save his
+ planet...?
+<pause>
+<Cless>
+ If that's true, it's just...
+<pause>
+<Cless>
+ It's almost as if we were...
+<pause>
+<Cless>
+ ......
+<pause>
+<Klarth>
+ Don't beat yourself up over this.
+ Our actions were not wrong.
+<pause>
+<Klarth>
+ The number of people he sacrificed
+ to fulfill his mission was, and still
+ is, unforgivable.
+<pause>
+<Klarth>
+ Though his ends might have been
+ just...
+<pause>
+<Klarth>
+ How could we be complacent about
+ his means?
+<pause>
+<Klarth>
+ We had to do what it took to
+ prevent bloodshed against our
+ people.
+<pause>
+<Klarth>
+ Isn't that so?{END}
+
+<speed_0004><Klarth>
+ Magitechnology isn't essential to
+ mankind, but...
+<pause>
+<Klarth>
+ It's still a shame.
+ It was our best hope to harness
+ the power of magic...<wait>{END}
+
+<unk1><speed_0004><Arche>
+ Come on! You're <Klarth>!
+ You'll come up with something
+ totally amazing that's all like,
+ BAM! BOOM!, y'know?
+<pause>
+<Chester>
+ Bam?...Boom?
+ The hell you talking about, girl?
+<pause>
+<Arche>
+ Uh...
+<pause>
+<Arche>
+ Well, you know!
+ He's just cool like that!
+<pause>
+<Klarth>
+ Hmhm... Thank you, <Arche>.
+<pause>
+<Klarth>
+ Heh... Well, here's hoping you're
+ right about that.<wait>{END}
+
+<speed_0004><Mint>
+ Please stand back, everyone!{END}
+
+<speed_0004><Mint>
+ I will place a barrier around
+ Yggdrasill to safeguard its mana
+ supply...
+<pause>
+<Mint>
+ ...to help ensure that it bears a
+ Great Seed some day.
+<pause>
+<Klarth>
+ It's not much, but it's the least we
+ can do...
+<pause>
+<Klarth>
+ ...for Dhaos, whose people
+ entrusted him with such a long,
+ solitary struggle...
+<pause>
+<Klarth>
+ Anyway, do it!
+<pause>
+<Mint>
+ Yes, leave it to me!<wait>{END}
+
+<speed_0004><Klarth>
+ With this, our duty is also at an
+ end.
+<pause>
+<Klarth>
+ We'll have to part ways for good
+ this time, I'm afraid.
+<pause>
+<Cless>
+ ......<wait>{END}
+
+<speed_0004><Cless>
+ Blade of Time!
+ Take us to my home era!!{END}
+
+<unk1><speed_0004><Suzu>
+ (<Cless>, I am truly grateful to
+ have met you and your friends.)
+<pause>
+<Suzu>
+ (I shall treasure all the things you
+ have taught me.)
+<pause>
+<Suzu>
+ (Please do the same with what you
+ have learned from me.)
+<pause>
+{END}
+
+<speed_0004><Suzu>
+ I...<wait>{END}
+
+<speed_0004><Suzu>
+ I shall bid you farewell, now.<wait>{END}
+
+<speed_0004><Mint>
+ Oh, <Suzu>...<wait>{END}
+
+<speed_0004><Suzu>
+ We may not meet again.<wait>{END}
+
+<speed_0004><Suzu>
+ But I am not going to cry.<wait>{END}
+
+<speed_0004><Suzu>
+ A true ninja steels her heart
+ against such emotions...{END}
+
+<speed_0004><Arche>
+ Oh, <Suzu>, I...!<panic><wait>{END}
+
+<speed_0004><Arche>
+ I'll never forget you, you got that!?<wait>{END}
+
+<speed_0004><Suzu>
+ And you shall always remain in my
+ memories as well...<wait>{END}
+
+<speed_0004><Suzu>
+ Then, this is...{END}
+
+<speed_0004><Cless>
+ ......<wait>{END}
+
+<speed_0004><Chester>
+ Well, it was fun.<wait>{END}
+
+<speed_0004><Suzu>
+ Yes.<wait>{END}
+
+<speed_0004><Klarth>
+ Take care of yourself, okay?<wait>{END}
+
+<speed_0004><Suzu>
+ I shall.<wait>{END}
+
+<speed_0004><Cless>
+ Thank you.<wait>{END}
+
+<speed_0004><Cless>
+ I mean, for all you've done for us...<wait>{END}
+
+<speed_0004><Suzu>
+ No... It is I who should be saying
+ that to you.{END}
+
+<speed_0004><Cless>
+ ......
+<pause>
+<Cless>
+ Oh, and...<wait>{END}
+
+<speed_0004><Suzu>
+ Yes?<wait>{END}
+
+<speed_0004><Cless>
+ I think it's okay to cry.<wait>{END}
+
+<speed_0004><Cless>
+ Yes, even a ninja should cry at a
+ time like this.<wait>{END}
+
+<speed_0004><Suzu>
+ ......<wait>{END}
+
+<speed_0004><Suzu>
+ Thank you for your concern, but...<wait>{END}
+
+<speed_0004><Suzu>
+ ...I decline.<wait>{END}
+
+<speed_0004><Cless>
+ Oh...?<wait>{END}
+
+<speed_0004><Suzu>
+ Because I wish to bid you all
+ farewell with a smile on my face!<wait>{END}
+
+<speed_0004><Cless>
+ Well... That's okay, too!
+ Take good care of yourself!<wait>{END}
+
+<speed_0004><Suzu>
+ Okay! Farewell, everyone!
+ Take care!{END}
+
+<speed_0004><Chester>
+ She's a good kid.<wait>{END}
+
+<speed_0004><Mint>
+ Parting ways with someone you
+ may never see again hurts so
+ much.<wait>{END}
+
+<speed_0004><Arche>
+ I wish we could all just stay
+ together forever, y'know?<wait>{END}
+
+<speed_0004><Klarth>
+ ...Well, looks like we're up next.<wait>{END}
+
+<speed_0004><Cless>
+ ......<wait>{END}
+
+<speed_0004><Cless>
+ Yeah, I guess so...{END}
+

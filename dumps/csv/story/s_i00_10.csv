@@ -1,0 +1,1072 @@
+<Cless>の家{END},<Cless><'s/'> House{END}
+<Chester>の家{END},<Chester><'s/'> House{END}
+聖レニオス教会{END},Church of Saint Lenios{END}
+武器屋『ティーゼル』{END},Weapon Shop “Teasel”{END}
+宿屋『やすらぎ』{END},Inn “Tranquility”{END}
+雑貨屋『ゴーリ』{END},General Store “Goalie”{END}
+"<Cless>
+「母さん・・・」
+<pause>
+マリア
+「<speed_0010>・・・・・・<speed_00FF>」
+<pause>
+<Cless>
+「ぐっすり寝てる・・・」{END}","<Cless>:<nl>
+ Mom...
+<pause>
+Maria:<nl>
+ <speed_0010>...<speed_00FF>
+<pause>
+<Cless>:<nl>
+ She's sleeping soundly...{END}"
+"<Cless>
+「母さんはいつも働き過ぎ
+　なんだよ」
+<pause>
+<Cless>
+「たまにはゆっくり休まないと」{END}","<Cless>:<nl>
+ Mom is always working herself to the bone.
+<pause>
+<Cless>:<nl>
+ She really needs to take a breather from time to time.{END}"
+"<Chester>
+「でも、いいお母さんだよな」
+<pause>
+<Chester>
+「お前がうらやましいよ」
+<pause>
+<Chester>
+「偉大な父親に優しい母親
+　なんてさ、理想の一家だな」{END}","<Chester>:<nl>
+ She's a real good mom, though...
+<pause>
+<Chester>:<nl>
+ I'm jealous, dude.
+<pause>
+<Chester>:<nl>
+ A great father and loving mother. A real perfect family you've got there.{END}"
+"<Cless>
+「なに言ってんだよ<panic>」
+<pause>
+<Cless>
+「<Chester>にだってさ」
+<pause>
+<Cless>
+「アミィちゃんがいるじゃないか」
+<pause>
+<Cless>
+「あんなに兄貴想いのいい娘は
+　いないぞ」
+<pause>
+{END}","<Cless>:<nl>
+ What are you talking about? <panic>
+<pause>
+<Cless>:<nl>
+ You have one, too...
+<pause>
+<Cless>:<nl>
+ Doesn't Ami count?
+<pause>
+<Cless>:<nl>
+ No one loves her brother more than she does!
+<pause>
+{END}"
+"<Chester>
+「当たり前だろ！」{END}","<Chester>:<nl>
+ Damn straight!{END}"
+"<Chester>
+「なんたってオレの妹だからな！」{END}","<Chester>:<nl>
+ She's my sister, after all!{END}"
+"お手伝い
+「静かにッ！」{END}","Maid:<nl>
+ Keep your voices down!{END}"
+"お手伝い
+「まったく・・・」{END}","Maid:<nl>
+ For crying out loud...{END}"
+"<unk1>ミゲール
+<Cless>、邪魔するんじゃない！」{END}","<unk1>Miguel:<nl>
+ <Cless>!
+ Stay out of the way!{END}"
+<color_0002>休みますか？<color_0000>{END},<color_0002>Rest?<color_0000>{END}
+"<Cless>
+「父さん、狩りに行ってくるよ」<wait>{END}","<Cless>:<nl>
+ Dad, I'm going out to hunt with
+ <Chester>.<wait>{END}"
+"ミゲール
+「気をつけてな」
+<pause>
+ミゲール
+「遅くならないうちに帰るんだぞ」{END}","Miguel:<nl>
+ Hunting, is it? That's fine.
+ Remember your training and
+ stay alert.
+<pause>
+Miguel:<nl>
+ Come back by sunset.
+ We still need to talk
+ about your pendant.{END}"
+"<unk1>受付嬢
+あ、<Cless>君、
+どこかに行くの？」<wait>{END}","<unk1>Receptionist:<nl>
+ Ah, <Cless>.
+ Where might you be off to?<wait>{END}"
+"<Cless>
+「狩りに行くんだ」
+<pause>
+<Cless>
+「大物を捕まえてくるよ」<wait>{END}","<Cless>:<nl>
+ Just for a hunt in the woods.
+<pause>
+<Cless>:<nl>
+ I'm gonna bag a big one!<wait>{END}"
+"受付嬢
+「気をつけてね」{END}","Receptionist:<nl>
+ Stay safe out there.{END}"
+"<Cless>
+「ぐっすり寝てる・・・」{END}","<Cless>:<nl>
+ Sound asleep...{END}"
+"<unk1>お手伝い
+あ、<Cless>君、お母さんが寝ているから静かにね」{END}","<unk1>Maid:<nl>
+ Shhh, quiet, <Cless>.
+ Your mother is sleeping.{END}"
+"シスター
+「あ、<Cless>君」
+<pause>
+シスター
+「今日は何かしら？」
+<pause>
+<Cless>
+「たまには教会に寄るのもいいか
+　なぁと思って・・・」<wait>{END}","Nun:<nl>
+ Hello, <Cless>.
+ It is good to see you.
+<pause>
+Nun:<nl>
+ What brings you here today?
+<pause>
+<Cless>:<nl>
+ I just thought it'd be a good idea
+ for me to start coming by the
+ church more often...<wait>{END}"
+"シスター
+「さっきも同じこと、言わなかっ
+　たかしら？」
+<pause>
+シスター
+「まあいいわ」
+<pause>
+シスター
+「あなたに神の御加護があります
+　ように・・・」
+<pause>
+<Cless>
+「ど、どうも・・・」{END}","Nun:<nl>
+ You said the very same thing a
+ moment ago, didn't you?
+<pause>
+Nun:<nl>
+ My, you must be truly determined.
+<pause>
+Nun:<nl>
+ May the goddess' grace be with
+ you...
+<pause>
+<Cless>:<nl>
+ Th-Thanks...{END}"
+"シスター
+「いい心掛けね」
+<pause>
+シスター
+「あなたに神の御加護があります
+　ように・・・」{END}","Nun:<nl>
+ That's a wonderful goal.
+<pause>
+Nun:<nl>
+ May the goddess' grace be with
+ you...{END}"
+"男の人
+「自然崇拝も結構だけど、いきす
+　ぎると困るぜ・・・」
+<pause>
+男の人
+「枝を折っちゃかわいそうとか、
+　教義を取り違えてる奴がいるん
+　だよな」{END}","Man:<nl>
+ Nature worship is nice and all, but
+ some clowns out there take the
+ doctrine a bit TOO literally...
+<pause>
+Man:<nl>
+ For example, some of them believe
+ they need to pray to tree branches
+ and stuff to attain salvation.
+<pause>
+Man:<nl>
+ If you think that's crazy, the real
+ whackos have a nervous
+ breakdown if they so much as step
+ on a twig!{END}"
+"男の人
+「教会の祭壇の彫像って色っぽい
+　よな」
+<pause>
+男の人
+「おっと、女神様なんだっけ」
+<pause>
+男の人
+「いけねぇいけねぇ・・・」{END}","Man:<nl>
+ Maybe it's just me, but the statue
+ on the altar is smoking hot.
+<pause>
+Man:<nl>
+ Oh, wait! D'oh!
+ That's the Goddess...
+<pause>
+Man:<nl>
+ Guess I'm in for some divine
+ punishment...{END}"
+"<unk1>武器屋
+よぉ<Cless>、何か買ってくれんのかい？」{END}","<unk1>Clerk:<nl>
+ Good day, <Cless>.
+ You wanna buy something?{END}"
+"武器屋
+「また来いよ」{END}","Clerk:<nl>
+ Come again.{END}"
+"武器屋
+「よ、<Cless>！」
+<pause>
+武器屋
+「そうそう、武器は持っているだ
+　けじゃダメだぜ」
+<pause>
+武器屋
+「きちんと装備しねえと役に立た
+　ねえぜ」{END}","Clerk:<nl>
+ Hey there, <Cless>!
+<pause>
+Clerk:<nl>
+ I'm sure you know this already, but
+ no matter how strong a weapon
+ you have, it won't do you any good
+ to just lug it around.
+<pause>
+Clerk:<nl>
+ You'll need to equip it before you
+ do battle!{END}"
+"宿のおかみ
+「こんにちは」
+<pause>
+宿のおかみ
+「休むなら、自分の家で休みなさ
+　いな」{END}","Innkeeper:<nl>
+ Hello.
+<pause>
+Innkeeper:<nl>
+ You live only a short walk away, so
+ there's no need for you stay here.{END}"
+"宿のおかみ
+「ありがとうよ」
+<pause>
+宿のおかみ
+「ほら、こづかい」<wait>{END}","Innkeeper:<nl>
+ Thank you.
+<pause>
+Innkeeper:<nl>
+ Here's a little something for your
+ trouble.<wait>{END}"
+<color_0002>１０ガルド手に入れました。<color_0000>{END},<color_0002>Obtained 10 gald.<color_0000>{END}
+"宿のおかみ
+「おや、ちょうどよかった」
+<pause>
+宿のおかみ
+「あの置物、運んでもらおうかと
+　思ってたんだよ」
+<pause>
+宿のおかみ
+「これ、あげるわ」<wait>{END}","Innkeeper:<nl>
+ Oh, good job.
+ You moved that ornament
+ out of the way for me.
+<pause>
+Innkeeper:<nl>
+ I thought of asking you, but
+ you did it without a word.
+ Such work ethic!
+<pause>
+Innkeeper:<nl>
+ Here, take this.
+ You earned it.<wait>{END}"
+<color_0002><item_7700>を手に入れました。<color_0000>{END},<color_0002>Acquired an <item_7700>.<color_0000>{END}
+"宿のおかみ
+「早く、あの置物を廊下まで運ん
+　でおくれ」
+<pause>
+宿のおかみ
+「窓側にぴったりくっつけておく
+　れよ」
+<pause>
+宿のおかみ
+「廊下の真ん中に置いたら、お客
+　さんに迷惑かけるからね」{END}","Innkeeper:<nl>
+ Please hurry.
+<pause>
+Innkeeper:<nl>
+ It's just going to be in everyone's
+ way right there.{END}"
+"宿のおかみ
+「<Cless>かい？」
+<pause>
+宿のおかみ
+「すまないが、そこにある置物を
+　廊下に運んでくれないかい？」
+<pause>
+<Cless>
+「あの置物って・・・」
+<pause>
+<Cless>
+「あの石像ですか？」
+<pause>
+<color_0002>置物を運びますか？<color_0000>{END}","Innkeeper:<nl>
+ May I borrow your strength for a
+ moment, <Cless>?
+<pause>
+Innkeeper:<nl>
+ I need that ornament moved out of
+ the way.
+<pause>
+<Cless>:<nl>
+ That ornament...
+<pause>
+<Cless>:<nl>
+ Oh, you mean this bush baby
+ statue?
+<pause>
+<color_0002>Move the bush baby statue?<color_0000>{END}"
+"宿のおかみ
+「窓際にぴったりくっつけておく
+　れよ」
+<pause>
+宿のおかみ
+「廊下の真ん中に置いたら、お客
+　さんに迷惑かかるからね」
+<pause>
+宿のおかみ
+「頼んだよ」{END}","Innkeeper:<nl>
+ Up against the window at the back
+ of the hall would be perfect.
+<pause>
+Innkeeper:<nl>
+ That way, we won't have guests
+ tripping over it.{END}"
+"宿のおかみ
+「そうかい、最近の若いもんとき
+　たら、まったく・・・」{END}","Innkeeper:<nl>
+ I see.
+ Young people these days.
+ Sheesh...{END}"
+"婦人
+「今、主人と旅をしています」
+<pause>
+婦人
+「ここはいい所ですね」
+<pause>
+婦人
+「ずっと居たいわ・・・」
+<pause>
+婦人
+「主人なら散歩してますわ」{END}","Lady:<nl>
+ I'm traveling with Master now.
+<pause>
+Lady:<nl>
+ We've only just arrived here, but
+ I've already fallen in love with how
+ nice it is.
+<pause>
+Lady:<nl>
+ I'd like to settle down here, but
+ Master prefers the nomadic
+ lifestyle.{END}"
+"<unk1>雑貨屋
+なんじゃ<Cless>、何か入り用かの？」{END}","<unk1>Owner:<nl>
+ How's it going, <Cless>?
+ Do you need something?{END}"
+"雑貨屋
+「またおいで」{END}","Owner:<nl>
+ Come again.{END}"
+"雑貨屋
+「なんじゃ、<Cless>か」
+<pause>
+雑貨屋
+「何か用か？」
+<pause>
+雑貨屋
+「外はええ天気ぢゃのぅ」
+<pause>
+雑貨屋
+「しかし、西の空に雲が出てきおっ
+　た・・・」
+<pause>
+雑貨屋
+「一雨くるかもしれんのぅ」{END}","Owner:<nl>
+ Well, well, if it isn't <Cless>.
+<pause>
+Owner:<nl>
+ Need anything?
+<pause>
+Owner:<nl>
+ Say, the sky right above us sure is
+ nice and clear right now...
+<pause>
+Owner:<nl>
+ But have you seen those ugly
+ clouds rolling over from the west?
+<pause>
+Owner:<nl>
+ We might be in for a bit of a
+ downpour.{END}"
+"<unk1>雑貨屋
+おお、<Chester>、
+妹は元気か？」<wait>{END}","<unk1>Owner:<nl>
+ Oh, <Chester>.
+ How's your little sister these days?<wait>{END}"
+"雑貨屋
+「ほら、これを持っていきな」<wait>{END}","Owner:<nl>
+ Take this to her, would 'ya?
+ It's a present.<wait>{END}"
+<color_0002><item_5A00>を手に入れました。<color_0000>{END},<color_0002>Acquired an <item_5A00>.<color_0000>{END}
+"店員
+「ちくしょー、人使いの荒いじじ
+　いだぜ」
+<pause>
+店員
+「どうせ客なんていないくせに」<wait>{END}","Assistant:<nl>
+ That damn geezer works our
+ fingers to the bone even during
+ slow periods.<wait>{END}"
+"主人
+「何か言ったか！？」
+<pause>
+主人
+「もっと気合い入れて働け！」
+<pause>
+店員
+「は、はい！」{END}","Owner:<nl>
+ I heard that, Slacker!
+<pause>
+Owner:<nl>
+ See me after work today.
+ You'll be scrubbing toilets to make
+ up for this! NOW BACK TO WORK!
+<pause>
+Assistant:<nl>
+ Y-Yes, sir!{END}"
+"店員
+「<item_7700>は体力を回復して
+　くれる薬なんだ」
+<pause>
+店員
+「出かける前に買っといた方がい
+　いかもね」<wait>{END}","Assistant:<nl>
+ An <item_7700> is a medication that
+ restores physical strength.
+<pause>
+Assistant:<nl>
+ You should buy some before you go
+ out.<wait>{END}"
+"主人
+「何をサボっとる！！」
+<pause>
+主人
+「もっと気合い入れて働け！」
+<pause>
+店員
+「は、はい！」{END}","Owner:<nl>
+ Loafing on the job, are you!?
+<pause>
+Owner:<nl>
+ Some nerve you have there!
+ Get back to work!
+<pause>
+Assistant:<nl>
+ Y-Yes, sir!{END}"
+"店員
+「<item_9500>ってのは戦いの
+　時に敵の情報を知ることができ
+　る道具なんだ」
+<pause>
+店員
+「買っといて損はないと思うよ」<wait>{END}","Assistant:<nl>
+ A <item_9500> is a tool that lets you
+ see an enemy's attributes during
+ battle.
+<pause>
+Assistant:<nl>
+ They're so cheap, you have nothing
+ to lose by buying some.<wait>{END}"
+"主人
+「何をサボっとる！！」
+<pause>
+主人
+「もっと気合い入れて働け！」
+<pause>
+店員
+「は、はい！」{END}","Owner:<nl>
+ Still loafing around, are you!?
+<pause>
+Owner:<nl>
+ Lazy little twit!
+ GET BACK TO WORK!!!
+<pause>
+Assistant:<nl>
+ Y-Yes, sir!{END}"
+"剣士
+「ついにアルベイン先生に弟子入
+　りしたのだ・・・」
+<pause>
+剣士
+「先生の下さらに剣の腕を磨く
+　のだ！」{END}","Swordsman:<nl>
+ I've become an apprentice of
+ Master Alvein at last...
+<pause>
+Swordsman:<nl>
+ I'll soon become a master under his
+ guidance!{END}"
+"剣士
+「戦いにおいて、敵に突っ込んで
+　いくだけでは優れた剣士とはい
+　えない」
+<pause>
+剣士
+「防御の基本を身につけていれば
+　こそ、戦いの場でも冷静になれ
+　るものだ」<wait>{END}","Swordsman:<nl>
+ An adept swordsman doesn't just
+ rush his enemy.
+<pause>
+Swordsman:<nl>
+ He must also maintain his
+ composure and mind the basics of
+ defense.<wait>{END}"
+"<color_0002>戦闘では<var_0102>ボタンで攻撃、<var_0302>ボタンで防御することができます。
+<pause>
+また、ボタン設定はメニューのカスタムにある『せんとうキー』で変更できます。{END}","<color_0002>In battle, <var_0102> is your attack button
+and <var_0302> is your defend button.
+<pause>
+If that doesn't fit your play style,
+you can change the battle controls
+in the Customize menu.{END}"
+"剣士
+「やあ、君がアルベイン先生の息
+　子の<Cless>君だね？」
+<pause>
+剣士
+「今度、ぜひお手合わせ願いたい
+　ものだな」
+<pause>
+剣士
+「ところで君は、隊列の仕組みに
+　ついて知っているかい？」
+<pause>
+<color_0002><speed_0000>１。はい、知ってます
+２。いいえ、教えて下さい
+３。僕のほうが詳しいですよ<color_0000><speed_FFFF>{END}","Swordswoman:<nl>
+ Oh, you must be <Cless>,
+ Master Alvein's son.
+<pause>
+Swordswoman:<nl>
+ It'd be my honor to spar
+ with you, but it's almost
+ time for my training.
+ Perhaps on another occasion.
+<pause>
+Swordswoman:<nl>
+ Maybe I can teach you
+ something in the meantime.
+ Do you know how formation
+ arrangement works?
+<pause>
+<color_0002><speed_0000>1. Yes, I do.<nl>
+2. No, please tell me about it.<nl>
+3. I know all about it!<color_0000><speed_FFFF>{END}"
+"剣士
+「あっ、そう」{END}","Swordswoman:<nl>
+ Ah, of course you would.
+ Silly me.{END}"
+"<unk1>剣士
+隊列というのは戦闘の時の位置のことだ」
+<pause>
+剣士
+<Cless>君は剣士だから、前衛で戦うべきだろう」
+<pause>
+剣士
+そして<Chester>君は、後方から弓で、<Cless>君を援護するんだ」<wait>{END}","<unk1>Swordswoman:<nl>
+ It's the placement of your troops
+ during battle.
+<pause>
+Swordswoman:<nl>
+ Since you're a swordsman,
+ <Cless>, you should fight on the
+ front line.
+<pause>
+Swordswoman:<nl>
+ Since <Chester> is an archer,
+ you should have him back
+ you up from behind.<wait>{END}"
+"<color_0002>隊列はメニューの隊列で変更することができます。
+<pause>
+通常、画面右方向が前衛になりますが、バックアタックを受けた時は逆になりますのでご注意下さい。{END}","<color_0002>You can modify your formation in
+the Formation menu.
+<pause>
+Normally, the front line is toward
+the right, but if you're attacked
+from behind, the opposite becomes
+true. Watch out!{END}"
+"<unk1>剣士
+それじゃあ、これは知っているかい？」
+<pause>
+剣士
+後ろから攻撃された時の対処法なんだが・・・」
+<pause>
+剣士
+<Cless>君は、後列の仲間を守るために後ろの敵と戦い、仲間を前方に逃がすことだ」<wait>{END}","<unk1>Swordswoman:<nl>
+ Ah, but did you know this?
+<pause>
+Swordswoman:<nl>
+ There's a fairly simple way of
+ keeping your allies safe during a
+ back attack...
+<pause>
+Swordswoman:<nl>
+ First, rush to the backline
+ to fend off the enemies, then change
+ your battle formation so your allies stay
+ behind you.<wait>{END}"
+"<color_0002>戦闘中、<color_0003>Ｒボタン<color_0002>と
+方向キー下を押すとパーティー
+はその場に停止します。
+<pause>
+後方に待機させたい時はこの状態にして下さい。
+<pause>
+そして、<color_0003>Ｒボタン<color_0002>と
+方向キー上を押すと隊列が
+左右入替わります。
+<pause>
+後方から攻撃された時などは、すぐに隊列を入れ替えましょう。{END}","<color_0002>Press <color_0003><var_0602><color_0002> and <Down> to make your party members hold their current position.
+<pause>
+Do this when you want them to
+stand still and await your orders.
+<pause>
+Press <color_0003><var_0602><color_0002> and <Up> to make your party enter into formation.
+Face the opposite direction when doing it to reverse your party's formation.
+<pause>
+Do this as soon possible if you're
+attacked from behind or caught in
+some other similar situation
+mid-battle.{END}"
+"剣士
+「つれないなぁ・・・」{END}","Swordswoman:<nl>
+ Cold as ice...{END}"
+"<unk1>アミィ
+あ、<Cless>さん、こんにちは」<wait>{END}","<unk1>Ami:<nl>
+ Oh, hello, <Cless>.<wait>{END}"
+"アミィ
+「これ・・・」
+<pause>
+アミィ
+「作ったんです」<wait>{END}","Ami:<nl>
+ Here...
+<pause>
+Ami:<nl>
+ I made it.<wait>{END}"
+<color_0002><item_3100>を手に入れました。<color_0000><wait>{END},<color_0002>Acquired <item_3100>.<color_0000><wait>{END}
+"<unk1><Chester>
+<Cless>の格好をした人形だ」<wait>{END}","<unk1><Chester>:<nl>
+ It's a doll that looks like <Cless>.<wait>{END}"
+"<Chester>
+「ハハハ、よくできてるじゃない
+　か」
+<pause>
+<Chester>
+「お前、毎晩遅くまでそれを縫っ
+　ていたのか？」
+<pause>
+<Cless>
+「ありがとう、大切にするよ」
+<pause>
+<Chester>
+「なぁアミィ、オレには？」
+<pause>
+アミィ
+「・・・・・・」
+<pause>
+<Chester>
+「ああっ、兄さんは悲しいぞ」
+<pause>
+アミィ
+「もうっ、じゃあね・・・」
+<pause>
+アミィ
+「お兄ちゃんには、これあげる」<wait>{END}","<Chester>:<nl>
+ Haha, pretty well made, ain't it?
+<pause>
+<Chester>:<nl>
+ So that's what you were sewing every night?
+<pause>
+<Cless>:<nl>
+ Thanks, I'll treasure it!
+<pause>
+<Chester>:<nl>
+ Hey, Ami... Where's mine?
+<pause>
+Ami:<nl>
+ ...
+<pause>
+<Chester>:<nl>
+ Ah, big brother is sad...
+<pause>
+Ami:<nl>
+ Gee, fine...
+<pause>
+Ami:<nl>
+ I'll give you this.<wait>{END}"
+<color_0002><item_7700>を手に入れました。<color_0000>{END},<color_0002>Acquired an <item_7700>.<color_0000>{END}
+"<Chester>
+「アミィ、これ雑貨屋のおやじか
+　ら、お前にって・・・」
+<pause>
+アミィ
+「えっ、お兄ちゃんがもらったん
+　じゃないの？」
+<pause>
+<Chester>
+「いや、お前にだよ」
+<pause>
+<Chester>
+「なぁ、<Cless>？」
+<pause>
+<color_0002>アミィにりんごを渡しました。<color_0000>
+<pause>
+アミィ
+「それじゃあ後で、お礼を言いに
+　行かなくちゃね」<wait>{END}","<Chester>:<nl>
+ Hey Sis, the old guy at the general
+ store wants me to give you this...
+<pause>
+Ami:<nl>
+ Oh?
+ Are you sure it wasn't
+ meant for you?
+<pause>
+<Chester>:<nl>
+ Yup.
+ It's a present from him for you.
+<pause>
+<Chester>:<nl>
+ Right, <Cless>?
+<pause>
+<color_0002>Gave Ami the Apple.<color_0000>
+<pause>
+Ami:<nl>
+ Aww, how sweet!
+ I'll have to thank him later.<wait>{END}"
+<color_0002><Chester>は『<var_C901>』の称号を得ました。<color_0000>{END},"<color_0002><Chester> has earned the title “Kind
+Brother.”<color_0000>{END}"
+"アミィ
+「行ってらっしゃい」
+<pause>
+アミィ
+「気をつけてね」{END}","Ami:<nl>
+ See you later.
+<pause>
+Ami:<nl>
+ Don't get yourselves hurt out there.{END}"
+"剣士
+「剣士たる者、いつでも技が出せ
+　るように準備しておくことだ」<wait>{END}","Swordsman:<nl>
+ A swordsman must prepare his
+ artes before he can employ them.<wait>{END}"
+"<color_0002><Cless>達はレベルが上がると様々な必殺技を覚えます。
+<pause>
+メニューの特技で戦闘時に使う必殺技をあらかじめ指定して下さい。
+<pause>
+戦闘時、方向キーと特技ボタン（通常<var_0202>）の組み合わせによって必殺技を使うことができます。{END}","<color_0002><Cless> and his allies learn
+new <color_0003>artes<color_0002> as they level
+up or meet certain
+conditions.
+<pause>
+Assign artes in the Artes menu to
+<var_0002> inputs before or during battle.
+<pause>
+When engaged in a battle, use them
+by pressing the assigned <var_0002> inputs
+in conjunction with the Arte button
+(<var_0202> by default).{END}"
+"剣士
+「う〜む、さすがに剣の先生のい
+　る村だ・・・」
+<pause>
+剣士
+「いい武器がそろってるな」
+<pause>
+剣士
+「・・・・・・」
+<pause>
+剣士
+「すまん、お世辞だ・・・」{END}","Swordsman:<nl>
+ Ohhh man, this place's got a killer
+ selection...
+<pause>
+Swordsman:<nl>
+ Not that it should come as a
+ surprise in a village with such a
+ great swordmaster.
+<pause>
+Swordsman:<nl>
+ ......
+<pause>
+Swordsman:<nl>
+ Yeah, I'm just sucking up, aren't I?{END}"
+"剣士
+「いい剣を持っていても、それを
+　使いこなせなければ、真の剣士
+　とは呼べないのだ」{END}","Swordsman:<nl>
+ A man may possess an excellent
+ blade, but unless he can use it well,
+ he'll never be considered a true
+ swordsman.{END}"
+"見習い
+「えいっ！」{END}","Apprentice:<nl>
+ Hah!{END}"
+"見習い
+「とうっ！」{END}","Apprentice:<nl>
+ Yah!{END}"
+"見習い
+<speed_0001>「俺達<speed_0020>、<speed_0001>いつまで<speed_0020>、<speed_0001>こんなこと<speed_0020>、
+<speed_0001>　してるんだろう？」{END}","Apprentice:<nl>
+ <speed_0001>Do<speed_0020>,<speed_0001> we<speed_0020>,<speed_0001> have<speed_0020>,<speed_0001> to<speed_0020>,<speed_0001> keep<speed_0020>,<speed_0001> doing<speed_0020>,<speed_0001> this?{END}"
+"見習い
+「おなか、すいたなぁ〜」{END}","Apprentice:<nl>
+ I've got the munchiiiies...{END}"
+"トリスタン
+「<Cless>
+　精進しておるか？」
+<pause>
+トリスタン
+「おんしも、父を超える剣士にな
+　るんじゃぞ」{END}","Tristan:<nl>
+ Have you been training diligently?
+<pause>
+Tristan:<nl>
+ If you have, you'll one day surpass
+ your father as a swordsman.{END}"
+"<Cless>
+「こんにちは、トリスタン師匠」<wait>{END}","<Cless>:<nl>
+ Oh, good afternoon, Master Tristan.<wait>{END}"
+"<Cless>
+「お久しぶりです」<wait>{END}","<Cless>:<nl>
+ This is a surprise.
+ It's been a while.<wait>{END}"
+"<audio_065E>トリスタン
+「おお、<Cless>か」
+<pause>
+<audio_065F>トリスタン
+「久しぶりじゃのう」<wait>{END}","<audio_065E>Tristan:<nl>
+ Oh, hello, <Cless>.
+<pause>
+<audio_065F>Tristan:<nl>
+ Has it been that long already?
+ At my age, it becomes hard to tell.<wait>{END}"
+"<audio_0660><Cless>の父・ミゲール
+「<Cless>」<wait>{END}","<audio_0660><Cless><'s/'> Father, Miguel:<nl>
+ <Cless>.<wait>{END}"
+"<Cless>
+「なに、父さん？」<wait>{END}","<Cless>:<nl>
+ What is it, Dad?<wait>{END}"
+"<audio_0662>ミゲール
+「母さんの具合のほうはどうだ？」<wait>{END}","<audio_0662>Miguel:<nl>
+ How's your mother doing?
+ Getting better?<wait>{END}"
+"<Cless>
+「熱も下がったみたいだし、もう
+　大丈夫だと思うよ」<wait>{END}","<Cless>:<nl>
+ She's not burning up anymore, so I
+ think she'll be good as new pretty
+ soon.<wait>{END}"
+"<audio_0664>ミゲール
+「実はな、<Cless>・・・」
+<pause>
+<audio_0665>ミゲール
+「お前にやったペンダントについ
+　て、話があるんだ」<wait>{END}","<audio_0664>Miguel:<nl>
+ Mmm. So, anyway...
+<pause>
+<audio_0665>Miguel:<nl>
+ I called you down here to speak
+ with you about your pendant.<wait>{END}"
+"<Cless>
+「ペンダント？」<wait>{END}","<Cless>:<nl>
+ My...pendant?<wait>{END}"
+"<Cless>
+「ああ、１５歳の誕生日の時にも
+　らったペンダントのこと？」<wait>{END}","<Cless>:<nl>
+ Oh, you mean the one you gave me
+ for my fifteenth birthday?<wait>{END}"
+"<Cless>
+「あの時、父さんに言われた通り
+　大切に持ってるよ」<wait>{END}","<Cless>:<nl>
+ I remember you saying it was
+ important that I keep it safe.<wait>{END}"
+"<Cless>
+「あれが、どうしたの？」{END}","<Cless>:<nl>
+ Why was that?{END}"
+"<audio_0671>ミゲール
+「あの声は<Chester>か？」<wait>{END}","<audio_0671>Miguel:<nl>
+ Is that <Chester> I hear?<wait>{END}"
+"<Cless>
+「あ、父さんごめん」<wait>{END}","<Cless>:<nl>
+ Oh, that's right!
+ Sorry, Dad.<wait>{END}"
+"<unk1><Cless>
+今日は、<Chester>と約束してたんだった」<wait>{END}","<unk1><Cless>:<nl>
+ <Chester> and I planned to hang
+ out today.<wait>{END}"
+"<audio_0674>ミゲール
+「ああ、ペンダントのことは夕食
+　の時にでも話そう」
+<pause>
+<audio_0675><Cless>
+「はい」<wait>{END}","<audio_0674>Miguel:<nl>
+ Well, in that case, we'll resume our
+ talk over dinner instead.
+<pause>
+<audio_0675><Cless>:<nl>
+ Okay.
+ Thanks, Dad.<wait>{END}"
+"<audio_0676><Cless>
+「トリスタン師匠、ゆっくりして
+　いって下さい」{END}","<audio_0676><Cless>:<nl>
+ Master Tristan, please make
+ yourself at home.{END}"
+"神父
+「おや、<Cless>君か」
+<pause>
+神父
+「何か悩みごとかな？」
+<pause>
+<Cless>
+「いえ、特に悩みはありません」
+<pause>
+神父
+「近いうちにここで結婚式をとり
+　おこないます」
+<pause>
+神父
+「お手伝いを、お願いできますか
+　な？」
+<pause>
+<Cless>
+「ええ、もちろん」
+<pause>
+神父
+「ありがとう」
+<pause>
+神父
+「この教会はトーティス村の創始
+　者であるレニオスにちなんで名
+　付けられました」
+<pause>
+神父
+「偉大なる創始者の名に恥じぬよ
+　うな立派な結婚式を挙げたいも
+　のです」{END}","Priest:<nl>
+ Oh, <Cless>.
+<pause>
+Priest:<nl>
+ Is something bothering you?
+<pause>
+<Cless>:<nl>
+ Not at all.
+ I'm doing well, thanks.
+<pause>
+Priest:<nl>
+ There's going to be a wedding
+ ceremony here, soon.
+<pause>
+Priest:<nl>
+ Will you be helping us out with the
+ preparations?
+<pause>
+<Cless>:<nl>
+ Yes, of course.
+<pause>
+Priest:<nl>
+ Thank you, my child.
+<pause>
+Priest:<nl>
+ Our church was named after
+ Lenios, the founder of Totus.
+<pause>
+Priest:<nl>
+ I want the wedding to be
+ wonderful, and be worthy of his
+ great name.{END}"
+"神父
+「自然と共に人としてあるがまま
+　に生きること、それが大地母神
+　マーテルの教えです」{END}","Priest:<nl>
+ “Live harmoniously with nature.”
+<pause>
+Priest:<nl>
+ That is the teaching of Martel, the
+ Mother Goddess.{END}"
+"<Cless>
+「おっ、マーボーカレーだ！」
+<pause>
+<Chester>
+「アミィが作ったのかな？」
+<pause>
+<Chester>
+「あいつ、料理好きだからな」
+<pause>
+<Cless>
+「ちょっと味見を・・・」
+<pause>
+<Chester>
+「おいおい、ほどほどにしとけよ」
+<pause>
+<Cless>
+「わかってるって」{END}","<Cless>:<nl>
+ Oh, it's my favorite!
+ Mabo Curry!
+<pause>
+<Chester>:<nl>
+ Ami couldn't wait for us to bring
+ back dinner, huh?
+<pause>
+<Chester>:<nl>
+ Well, cooking IS one of her favorite
+ things.
+<pause>
+<Cless>:<nl>
+ I'm sure she won't mind if I have a
+ quick little taste...
+<pause>
+<Chester>:<nl>
+ Hey, hey!
+ Don't pig out on it!
+<pause>
+<Cless>:<nl>
+ I know, I know.{END}"
+"<Cless>
+「うっ、うまい！」{END}","<Cless>:<nl>
+ Mmm, mmm, mmm!
+ So good!{END}"
+"<Cless>
+「あちち！！！」{END}","<Cless>:<nl>
+ OW OW OW OW OW!!!{END}"
+アミィの秘密箱がある。{END},It's Ami's secret box.{END}
+アミィ愛用の、クマちゃんがある。{END},It's Ami's beloved teddy bear.{END}
+『アルベイン流剣術の歴史』{END},“History of the Alvein Style”{END}
+門下生の名札が下がっている。{END},The students' nametags hang here.{END}
+ダーツがある。{END},It's a dartboard.{END}

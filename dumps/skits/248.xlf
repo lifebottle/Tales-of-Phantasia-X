@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1296">
+        <source>I saw a white silhouette
+outside the window late last night.</source>
+        <target state="translated">I saw a white silhouette
+outside the window late last night.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1297">
+        <source>It couldn't have been a ghost...could it?</source>
+        <target state="translated">It couldn't have been a ghost...could it?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1298">
+        <source>And if it was?</source>
+        <target state="translated">And if it was?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1299">
+        <source>Maybe it was Mom and Dad!</source>
+        <target state="translated">Maybe it was Mom and Dad!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1300">
+        <source>Or maybe Rhea didn't pass on to the other side!?</source>
+        <target state="translated">Or maybe Rhea didn't pass on to the other side!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1301">
+        <source>Ami!?</source>
+        <target state="translated">Ami!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1302">
+        <source>Father!? Mother!?</source>
+        <target state="translated">Father!? Mother!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1303">
+        <source>Mwahahahaha... Maybe it
+was me! After all, in this era, I'm...</source>
+        <target state="translated">Mwahahahaha... Maybe it
+was me! After all, in this era, I'm...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

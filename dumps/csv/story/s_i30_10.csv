@@ -1,0 +1,2480 @@
+宿屋『ベイエリア』{END},Inn “Bay Area”{END}
+武器屋『水剣』{END},Weapon Shop “Water's Edge”{END}
+防具屋『シースルー』{END},Armor Shop “Sea-through”{END}
+食材屋『ウォーターフロント』{END},Grocery Store “Waterfront”{END}
+道具屋『マラガの海』{END},Item Shop “Malaga Sea”{END}
+市長の家{END},Mayor's House{END}
+輸入会社『レイオット』{END},Layot Trading Company{END}
+"エルウィンの父・ドグ
+「お前の結婚相手はわしが決めて
+　やる！！」
+<pause>
+ドグ
+「そんな田舎娘などだめだ！！」
+<pause>
+エルウィン
+「どうして僕の結婚相手を父さん
+　が決めるんだ！」
+<pause>
+ドグ
+「お前はわしの言うことさえ聞い
+　ていればいいんだ！！」
+<pause>
+エルウィン
+「僕は父さんの奴隷じゃない！」{END}","Elwyn's Father, Doug:<nl>
+ *I* will decide who your bride is!
+<pause>
+Doug:<nl>
+ And *I* have decided you're not
+ going to marry some bumpkin girl
+ like that!!!
+<pause>
+Elwyn:<nl>
+ Who are you to tell me who I can
+ marry!?
+<pause>
+Doug:<nl>
+ It's what's best for you!
+ So do as I say!!!
+<pause>
+Elwyn:<nl>
+ I'm not your slave!{END}"
+"エルウィン
+「ナンシー！！」
+<pause>
+ドグ
+「あんな奴、ほっとけ！！」<wait>{END}","Elwyn:<nl>
+ Nancy!!!
+<pause>
+Doug:<nl>
+ A girl like that isn't for you!<wait>{END}"
+"エルウィン
+「父さんは自分勝手なんだよ！」
+<pause>
+ドグ
+「生意気言うな！！」{END}","Elwyn:<nl>
+ Get over yourself!
+<pause>
+Doug:<nl>
+ Don't get cheeky with me!!{END}"
+"ドグ
+「エルウィン！！」{END}","Doug:<nl>
+ Elwyn!!{END}"
+"ドグ
+「あの・・・バカ者めが・・・」{END}","Doug:<nl>
+ That...foolish kid...{END}"
+"宿屋
+「いらっしゃい」
+<pause>
+宿屋
+「一晩<num1_00000030>ガルドになります」
+<pause>
+宿屋
+「お泊まりですか？」{END}","Innkeeper:<nl>
+ Welcome to the Bay Area Inn.
+<pause>
+Innkeeper:<nl>
+ It costs <num1_00000030> gald per night.
+<pause>
+Innkeeper:<nl>
+ Will you be staying?{END}"
+"宿屋
+「ごゆっくり」{END}","Innkeeper:<nl>
+ Good night.{END}"
+"宿屋
+「すいませんけど、お金が足りま
+　せんよ」{END}","Innkeeper:<nl>
+ Pardon, but you don't seem to have
+ that much money.{END}"
+"宿屋
+「またのおこしをお待ちしており
+　ます」{END}","Innkeeper:<nl>
+ We look forward to seeing you
+ again.{END}"
+"防具屋
+「いらっしゃい」{END}","Clerk:<nl>
+ Welcome to Sea-through.{END}"
+"防具屋
+「ありがとう」{END}","Clerk:<nl>
+ Thanks.{END}"
+"剣士
+「戦争、終わったんだってね」
+<pause>
+剣士
+「これでアルヴァニスタとミッド
+　ガルズの関係も良くなるね」{END}","Swordsman:<nl>
+ So, the war has concluded.
+<pause>
+Swordsman:<nl>
+ Alvanista and Midgard's ties should
+ now only tighten from this point
+ forward.{END}"
+"剣士
+「アルヴァニスタとミッドガルズ
+　は昔から友好関係にあったんだ
+　けど・・・」
+<pause>
+剣士
+「何か最近おかしいんだよな」
+<pause>
+剣士
+「ミッドガルズが戦争しようとし
+　てるのにアルヴァニスタは何も
+　しないんだ」
+<pause>
+剣士
+「これっておかしいよね」{END}","Swordsman:<nl>
+ Alvanista and Midgard have had a
+ strange relationship lately.
+<pause>
+Swordsman:<nl>
+ They're supposed to be allies, but...
+<pause>
+Swordsman:<nl>
+ Midgard's caught up in a war, but
+ Alvanista won't even lift a finger to
+ help them.
+<pause>
+Swordsman:<nl>
+ Talk about weird...{END}"
+"女剣士
+「さすがは交易の町、いい武具が
+　そろってるわね」{END}","Swordswoman:<nl>
+ Just like you'd expect of a trading
+ town: top-class weapons and
+ armor.{END}"
+"女剣士
+「あ、あなた剣士？」
+<pause>
+女剣士
+「この奥義書、売ってあげましょ
+　うか？」
+<pause>
+<Cless>
+「え、奥義書！？」
+<pause>
+女剣士
+「闇市で手に入れたんだけど、使
+　いこなせそうにないわ」
+<pause>
+女剣士
+「どう？」
+<pause>
+女剣士
+「３０００ガルドでいいわよ」
+<pause>
+<color_0002>買いますか？<color_0000>{END}","Swordswoman:<nl>
+ You must be a fellow swordsman.
+<pause>
+Swordswoman:<nl>
+ Would you be interested in an
+ arcane arte book?
+<pause>
+<Cless>:<nl>
+ Huh? An arcane arte book!?
+<pause>
+Swordswoman:<nl>
+ I got it from the black market, but
+ it's way too difficult for me.
+<pause>
+Swordswoman:<nl>
+ I'll even give you a fantastic deal
+ on it.
+<pause>
+Swordswoman:<nl>
+ Just 3000 gald!
+<pause>
+<color_0002>Buy it?<color_0000>{END}"
+"女剣士
+「ちぇ、残念・・・」
+<pause>
+女剣士
+「いいお金になるかと思ってたの
+　になぁ・・・」{END}","Swordswoman:<nl>
+ Tsk, what a bummer...
+<pause>
+Swordswoman:<nl>
+ And I thought it'd be gone in an
+ instant for that price...{END}"
+"女剣士
+「お金が足りないんじゃ仕方ない
+　わねぇ・・・」{END}","Swordswoman:<nl>
+ Sorry, but this isn't enough...{END}"
+"<color_0002><Cless>は<var_9D00>を覚えました。<color_0000>
+<pause>
+女剣士
+「まいどありぃ〜<heart>」{END}","<color_0002><Cless> learned
+<var_9D00>.<color_0000>
+<pause>
+Swordswoman:<nl>
+ Thank youuuu <heart>{END}"
+"武器屋
+「いらっしゃい」{END}","Owner:<nl>
+ Welcome to Water's Edge.{END}"
+"武器屋
+「ありがとうございました」{END}","Owner:<nl>
+ Thank you very much.{END}"
+"知識人
+「お前、エルフって知ってる？」{END}","Intellectual:<nl>
+ Are you familiar with elves?{END}"
+"知識人
+「エルフはとても美しい生き物ら
+　しい」
+<pause>
+知識人
+「そして、とても長寿なんだ」
+<pause>
+知識人
+「寿命は千年以上で、実際のとこ
+　ろ何歳まで生きるのか分かって
+　いないらしい」
+<pause>
+知識人
+「それから魔術も使える」
+<pause>
+知識人
+「それも、とてつもなく強力な魔
+　術を使えるらしいんだ」
+<pause>
+知識人
+「エルフって争いを好まないから
+　その力はめったに見ることはで
+　きないんだけどね」
+<pause>
+知識人
+「エルフってのは人間からみれば
+　うらやましい種族なんだよね」
+<pause>
+知識人
+「だけど排他的なところがあって
+　仲間以外には心をなかなか開い
+　てくれないんだ」
+<pause>
+知識人
+「それだけピュアな心の種族なん
+　でしょうね」{END}","Intellectual:<nl>
+ Elves are beings with a very
+ beautiful appearance.
+<pause>
+Intellectual:<nl>
+ Not only that, but they have
+ incredibly long lifespans...
+<pause>
+Intellectual:<nl>
+ Amazingly, they're able to live
+ beyond a thousand years!
+ Nobody understands how
+ that's possible.
+<pause>
+Intellectual:<nl>
+ As if that weren't enough, they
+ have an innate ability to use magic.
+<pause>
+Intellectual:<nl>
+ Not just the basics, either; they
+ have access to unbelievably
+ powerful spells.
+<pause>
+Intellectual:<nl>
+ But elves are generally pacifistic,
+ so such power is seldom
+ demonstrated.
+<pause>
+Intellectual:<nl>
+ Compared to us humans, they're an
+ enviable species, don't you agree?
+<pause>
+Intellectual:<nl>
+ Still, though, they
+ are very isolationist.
+ They only openly accept those
+ of their own kind.
+<pause>
+Intellectual:<nl>
+ I guess they're just extremely
+ concerned about the purity of their
+ bloodline.{END}"
+"知識人
+「それじゃあ、ハーフエルフって
+　知ってる？」{END}","Intellectual:<nl>
+ I see.
+ How about half-elves?{END}"
+"知識人
+「ハーフエルフはその名の通り人
+　とエルフの混血なんだ」
+<pause>
+知識人
+「外見は、やはり、人とエルフの
+　中間くらいで、能力的な特徴も
+　だいたいそんな感じなんだ」
+<pause>
+知識人
+「つまり、人間よりははるかに長
+　寿だし、魔術も使えるってこと」
+<pause>
+知識人
+「だけど、ハーフエルフを語る場
+　合は、社会的問題の方が重要な
+　んだ」
+<pause>
+知識人
+「つまり、人間とエルフの中間の
+　存在として両者から差別される
+　ことが多々あるんだ」{END}","Intellectual:<nl>
+ As the name suggests, they are a
+ cross between the elf and human
+ races.
+<pause>
+Intellectual:<nl>
+ Their outward appearance is a
+ pretty even split between their
+ parents' races.
+<pause>
+Intellectual:<nl>
+ They inherit the elf parent's long
+ lifespan and ability to use magic.
+<pause>
+Intellectual:<nl>
+ Sounds like something to be envious
+ of, but half-elves lead very
+ difficult lives.
+<pause>
+Intellectual:<nl>
+ They have a very powerful social
+ stigma in both human and elf
+ society.{END}"
+"知識人
+「あ、そう」{END}","Intellectual:<nl>
+ Nice to meet an informed
+ individual. See you.{END}"
+"受付嬢
+「アポイントはお取りですか？」{END}","Receptionist:<nl>
+ Do you have an appointment?{END}"
+"女性社員
+「あ〜あ、お茶くみも楽じゃない
+　わねぇ・・・」{END}","Female Employee:<nl>
+ Blah... Brewing tea is much harder
+ than it looks...{END}"
+"営業部長
+「アルヴァニスタにはモーリア坑
+　道っていうドワーフ族の鉱山跡
+　があるんだ」
+<pause>
+営業部長
+「ドワーフ族？」
+<pause>
+営業部長
+「はるか昔に滅亡した地下の民族
+　さ」<wait>{END}","Sales Department Chairman:<nl>
+ Ancient dwarven ruins have been
+ discovered at a mine called Moria in
+ Alvanista territory.
+<pause>
+<Cless>:<nl>
+ What do you know about the
+ dwarves?
+<pause>
+Sales Department Chairman:<nl>
+ Well, not much.
+ Just that they were a
+ subterranean race that vanished
+ quite some time ago.<wait>{END}"
+"営業部長
+「おーい、アルヴァニスタの生産
+　状況はどうなってるー！？」{END}","Sales Department Chairman:<nl>
+ HEY! Pipe down!
+ What's the news on the
+ manufacturing situation
+ in Alvanista!?{END}"
+"社員
+「戦争で打撃を受けたミッドガル
+　ズにはたくさんの物資を送る必
+　要があるな」
+<pause>
+社員
+「こりゃ忙しくなるぞぉ！」{END}","Employee:<nl>
+ Because of the war, Midgard needs
+ us to send them a high volume of
+ goods at a steady rate.
+<pause>
+Employee:<nl>
+ So we've gotta work around the
+ clock!{END}"
+"社員
+「たいへんだよ〜」
+<pause>
+社員
+「ミッドガルズが戦争に突入しそ
+　うだから、そこからの輸入がス
+　トップしちゃって・・・」{END}","Employee:<nl>
+ What rotten luck...
+<pause>
+Employee:<nl>
+ Because Midgard's pouring all their
+ resources into a war, they've
+ completely stopped exporting their
+ goods...{END}"
+"社員
+「ミッドガルズで何かすごい研究
+　がされてるらしいよ」
+<pause>
+社員
+「どんなのかはよくわからないん
+　だけどね・・・」{END}","Employee:<nl>
+ A guy I know was telling me about
+ some crazy awesome research
+ Midgard is doing in secrecy.
+<pause>
+Employee:<nl>
+ He was being a real bastard about
+ it, too...
+<pause>
+Employee:<nl>
+ He hyped it like it's gonna be some
+ huge scientific breakthrough, but
+ wouldn't tell me what it was
+ about...{END}"
+"社員
+「ダオスもいなくなって、仕事の
+　方も軌道に乗ってきて、言うこ
+　とないね！」{END}","Employee:<nl>
+ Don't go thinking our work's back
+ on track just 'cause Dhaos is gone!{END}"
+"社員
+「ミッドガルズが戦争しようとし
+　ている相手はダオス率いる魔物
+　の軍隊らしいよ」{END}","Employee:<nl>
+ Midgard is going to war against
+ an army of monsters led by Dhaos.
+ It's been a living hell for us.{END}"
+"エルウィン
+「やあ、君達は・・・」{END}","Elwyn:<nl>
+ Oh hey, it's you guys...{END}"
+"エルウィン
+「やあ、君達は・・・」
+<pause>
+エルウィン
+「何か用かい？」
+<pause>
+<Cless>
+「ナンシーさんがこの町に来てい
+　ます」
+<pause>
+エルウィン
+「えっ、ナンシーが！？」
+<pause>
+<Mint>
+「彼女はあなたにとても会いたがっ
+　ています」
+<pause>
+<Mint>
+「一度でいいから会ってみません
+　か？」
+<pause>
+エルウィン
+「・・・・・・」
+<pause>
+エルウィン
+「わかったよ」
+<pause>
+エルウィン
+「それじゃあ・・・」
+<pause>
+エルウィン
+「中央広場の噴水の前で」
+<pause>
+<Cless>
+「わかった、そう伝えるよ」{END}","Elwyn:<nl>
+ Oh hey, it's you guys...
+<pause>
+Elwyn:<nl>
+ Can I help you with something?
+<pause>
+<Cless>:<nl>
+ Actually, we wanted to tell you that
+ Nancy followed you all the way
+ here.
+<pause>
+Elwyn:<nl>
+ Huh!? She did!?
+ Seriously!?
+<pause>
+<Mint>:<nl>
+ She desperately wants to meet
+ you.
+<pause>
+<Mint>:<nl>
+ Please, at least go see her just this
+ once.
+<pause>
+Elwyn:<nl>
+ ......
+<pause>
+Elwyn:<nl>
+ All right.
+ She wins.
+<pause>
+Elwyn:<nl>
+ How about...
+<pause>
+Elwyn:<nl>
+ In front of the fountain
+ in the center square.
+ I'll be there shortly.
+<pause>
+<Cless>:<nl>
+ Got it.
+ We'll let her know.{END}"
+"エルウィン
+「すぐ行くから」{END}","Elwyn:<nl>
+ I'll be leaving in just a few.{END}"
+"エルウィン
+「子供は、まず女の子で・・・
+　次は男の子がいいな・・・」{END}","Elwyn:<nl>
+ As for kids, it'd be nice to have a
+ girl first...and then a boy...{END}"
+"エルウィン
+「僕達、もうすぐ結婚式をあげる
+　んだ」
+<pause>
+エルウィン
+「君達も出席してくれるよね」{END}","Elwyn:<nl>
+ Our wedding ceremony is about to
+ start.
+<pause>
+Elwyn:<nl>
+ You'll be there, I hope?{END}"
+"エルウィン
+「僕達、もうすぐ結婚式をあげる
+　んだ」
+<pause>
+エルウィン
+「でも、できればみなさんに出席
+　してもらいたいから、全員いる
+　時に来てほしいな・・・」{END}","Elwyn:<nl>
+ We're planning to have our
+ wedding ceremony pretty shortly.
+<pause>
+Elwyn:<nl>
+ But if you're going to be in
+ attendance, we'd prefer that you
+ bring all of your friends...{END}"
+"社員
+「ここがリフレッシュルーム、向
+　こうが社長室」{END}","Employee:<nl>
+ This is the break room.
+<pause>
+Employee:<nl>
+ If you're looking for the
+ president's office, it's to
+ your immediate left from
+ outside the door.{END}"
+"社員
+「ダオスっていくつなんだ？」
+<pause>
+社員
+「１５０年くらい前にも現れたっ
+　ていう話だけど・・・」{END}","Employee:<nl>
+ How old is Dhaos?
+<pause>
+Employee:<nl>
+ I heard he first appeared about a
+ hundred and fifty years ago...{END}"
+"社員
+「やっと平和になって、あとは若
+　社長が社長になるのを待つだけ
+　だね」{END}","Employee:<nl>
+ At last, peace has returned.
+<pause>
+Employee:<nl>
+ All that's left is for vice president
+ Elwyn to take on his father's role
+ as company president.{END}"
+"社員
+「やっと平和にはなったけど、若
+　社長がいないと寂しいね」{END}","Employee:<nl>
+ At last, peace has returned.
+<pause>
+Employee:<nl>
+ Regardless, it's still pretty lonely
+ without vice president Elwyn
+ around.{END}"
+"社員
+「社長もたいへんだよ」
+<pause>
+社員
+「戦争のせいでミッドガルズ支社
+　とアクセスできないんだよ」<wait>{END}","Employee:<nl>
+ Like the rest of us, the president's
+ all stressed out.
+<pause>
+Employee:<nl>
+ We're unable to interact with our
+ Midgard branch because of the
+ war.<wait>{END}"
+"社員
+「まあ、若社長がいれば大丈夫だ
+　けどね」
+<pause>
+社員
+「若社長？」
+<pause>
+社員
+「一階にいるエルウィンのことだ
+　よ」
+<pause>
+社員
+「まだ営業マンだけどね」{END}","Employee:<nl>
+ Well, now that the vice president's
+ back, we should be able to ride
+ things out.
+<pause>
+<Cless>:<nl>
+ Who is vice president, if I may
+ ask?
+<pause>
+Employee:<nl>
+ That'd be Elwyn.
+ He's on the lower floor with his
+ fellow businessmen right now.{END}"
+"社員
+「この会社大丈夫かな？」{END}","Employee:<nl>
+ Is this company going to survive
+ these hard times?{END}"
+"女性社員
+「あら、お客様ですか？」
+<pause>
+女性社員
+「紅茶でもいかが？」{END}","Female Employee:<nl>
+ Oh my, guests?
+<pause>
+Female Employee:<nl>
+ We have so few these days that
+ this comes as a bit of a shock.
+<pause>
+Female Employee:<nl>
+ Can I get you some tea?{END}"
+"女性社員
+「戦争が終わってよかったわ」
+<pause>
+女性社員
+「でも結局ダオスがどこから来た
+　のかわからずじまいね」{END}","Female Employee:<nl>
+ Thankfully, the war is over now.
+<pause>
+Female Employee:<nl>
+ But what about Dhaos' origins?
+ Did anyone find out what they are?{END}"
+"女性社員
+「ここまで戦争が飛び火しなきゃ
+　いいけど・・・」
+<pause>
+女性社員
+「ところで、ダオスってどこから
+　来たのかしら？」{END}","Female Employee:<nl>
+ I'm so happy that this city
+ isn't tangled up in the war.
+<pause>
+Female Employee:<nl>
+ Regardless, I just HAVE to know
+ where that Dhaos guy came from.
+ You hear anything?{END}"
+"エルウィンの父・ドグ
+「き、君達、エルウィンを知らな
+　いか！？」
+<pause>
+ドグ
+「息子が行方不明になってしまっ
+　たんだ！」
+<pause>
+<Klarth>
+「それはあなたに原因があるので
+　はありませんか？」
+<pause>
+<Klarth>
+「息子さんをかわいいあまりに縛
+　りつけていた・・・」
+<pause>
+<Klarth>
+「違いますか？」
+<pause>
+ドグ
+「・・・・・・」
+<pause>
+ドグ
+「確かにその通りだ」
+<pause>
+ドグ
+「だが、もう心を入替えた」
+<pause>
+ドグ
+「ただエルウィンが帰ってきさえ
+　すれば・・・」
+<pause>
+<color_0002>ドグにエルウィンの居場所を話し
+ますか？<color_0000>{END}","Elwyn's Father, Doug:<nl>
+ D-Do you know my son, Elwyn!?
+<pause>
+Doug:<nl>
+ He's gone missing!
+<pause>
+<Klarth>:<nl>
+ And whose fault is that?
+<pause>
+<Klarth>:<nl>
+ You had him on a pretty short
+ leash, after all...
+<pause>
+<Klarth>:<nl>
+ ...or am I mistaken?
+<pause>
+Doug:<nl>
+ ......
+<pause>
+Doug:<nl>
+ I don't disagree...
+<pause>
+Doug:<nl>
+ But I've already had a change of
+ heart.
+<pause>
+Doug:<nl>
+ If Elwyn would just come home...
+<pause>
+<color_0002>Tell Doug of Elwyn's whereabouts?<color_0000>{END}"
+"ドグ
+「そうか・・・」
+<pause>
+ドグ
+「もし、エルウィンの居場所がわ
+　かったら教えてくれないか？」
+<pause>
+ドグ
+「礼はする」{END}","Doug:<nl>
+ Well...
+<pause>
+Doug:<nl>
+ If by chance you learn anything
+ about my son, would you come
+ back here to let me know?
+<pause>
+Doug:<nl>
+ I'd greatly appreciate it.{END}"
+"ドグ
+「知っているのか！？」
+<pause>
+<Cless>
+「ええ、アルヴァニスタにいまし
+　たよ」
+<pause>
+<Cless>
+「ナンシーも一緒でした」<wait>{END}","<Cless>:<nl>
+ We found him.
+ He's laying low in Alvanista.
+<pause>
+Doug:<nl>
+ Is that so!?
+<pause>
+<Cless>:<nl>
+ Yeah.
+ And Nancy's with him as well.<wait>{END}"
+"ドグ
+「そうか・・・」
+<pause>
+ドグ
+「エルウィンとあの娘が・・・」
+<pause>
+<Cless>
+「ちょ、ちょっと待って下さい」
+<pause>
+<Cless>
+「心を入替えたんじゃなかった
+　んですか？」
+<pause>
+ドグ
+「・・・・・・」{END}","Doug:<nl>
+ I see...
+<pause>
+Doug:<nl>
+ So Elwyn and that tramp just up
+ and took off...
+<pause>
+<Cless>:<nl>
+ W-Wait a minute!
+<pause>
+<Cless>:<nl>
+ Didn't you just say you'd had a
+ change of heart?
+<pause>
+Doug:<nl>
+ ...{END}"
+"ドグ
+「君達には世話になったね」
+<pause>
+ドグ
+「エルウィンが自ら選んだ道だ」
+<pause>
+ドグ
+「もう何も言うまい・・・」{END}","Doug:<nl>
+ You all have been a big help.
+<pause>
+Doug:<nl>
+ Elwyn chose his own path.
+<pause>
+Doug:<nl>
+ It's no longer any of my business...{END}"
+"ドグ
+「何だお前らは？」
+<pause>
+ドグ
+「勝手に入ってくるな！」{END}","Doug:<nl>
+ What are vagrants like you doing in
+ my office!?
+<pause>
+Doug:<nl>
+ You can't just stroll around
+ like you own the place!
+ Get out!{END}"
+"食材屋
+「いらっしゃい」{END}","Clerk:<nl>
+ Welcome to Waterfront.{END}"
+"食材屋
+「ありがとうございました」{END}","Clerk:<nl>
+ Thank you for your business.{END}"
+"町の人
+「さて、今夜のおかずは〜っと」{END}","Citizen:<nl>
+ My better half's gonna scream if I
+ don't come home with a mountain
+ of food for dinner...{END}"
+"町の人
+「モーリア坑道に入るには許可証
+　がいるらしいね」
+<pause>
+町の人
+「俺が旅の途中にアルヴァニスタ
+　に寄った時の話さ」
+<pause>
+町の人
+「さて、今夜のおかずは〜っと」{END}","Citizen:<nl>
+ You need a permit to enter the
+ Moria Mine.
+<pause>
+Citizen:<nl>
+ At least, that's what I heard the
+ last time I traveled through
+ Alvanista.
+<pause>
+Citizen:<nl>
+ Okay, it's time to get started on
+ dinner...{END}"
+"男の子
+「お父さん、早く帰ってこないか
+　なぁ・・・」
+<pause>
+男の子
+「ボクのお父さん、漁師だから、
+　なかなか帰ってこないんだ」{END}","Boy:<nl>
+ I miss my dad.
+ I want him to come home...
+<pause>
+Boy:<nl>
+ But he's a fisherman and can't be
+ here all the time...{END}"
+"メイド
+「掃除しなきゃ・・・」
+<pause>
+メイド
+「私？」
+<pause>
+メイド
+「ここで住み込みで働いているの」{END}","Maid:<nl>
+ I have to sweep and dust this place
+ day and night...
+<pause>
+<Cless>:<nl>
+ Wow, how come?
+<pause>
+Maid:<nl>
+ I work here as a live-in maid.
+ The pay's really good, so I don't
+ mind working so much.{END}"
+"おばあさん
+「昔は精霊様も姿を現したという
+　のに・・・」
+<pause>
+おばあさん
+「今じゃ、エルフの姿すら見当た
+　らん・・・」
+<pause>
+おばあさん
+「何かの前触れかのぅ・・・」{END}","Old Lady:<nl>
+ They say that the spirits used to
+ show themselves to people...
+<pause>
+Old Lady:<nl>
+ Nowadays you can't even find an
+ elf...
+<pause>
+Old Lady:<nl>
+ I have a bad feeling about this...{END}"
+"ハーフエルフ
+「２００年たっても料理一つ覚え
+　ないんだから・・・」
+<pause>
+ハーフエルフ
+「ああ、私はハーフエルフなんで
+　す」
+<pause>
+ハーフエルフ
+「エルフやハーフエルフは人間よ
+　りも長生きする生き物なんです
+　よ」
+<pause>
+ハーフエルフ
+「ところで、あなた達どこかで会
+　いませんでした？」{END}","Half-Elf:<nl>
+ I've spent the last two hundred
+ years trying to remember this one
+ dish...
+<pause>
+<Cless>:<nl>
+ Two...hundred...years!?
+<pause>
+Half-Elf:<nl>
+ Oh, sorry.
+ I'm a half-elf.
+<pause>
+Half-Elf:<nl>
+ Like our full-blooded brethren, we
+ can live for centuries.
+<pause>
+Half-Elf:<nl>
+ Say, have I met you
+ guys somewhere before?
+ You seem familiar, somehow...{END}"
+"ハーフエルフ
+「さて、今夜のおかずは何にしよ
+　うかな・・・」
+<pause>
+ハーフエルフ
+「家でお師匠様が待っているんで
+　す」
+<pause>
+ハーフエルフ
+「早く帰ってご飯を作らないとう
+　るさくて・・・」
+<pause>
+ハーフエルフ
+「ああ、魔術の師匠ですよ」
+<pause>
+ハーフエルフ
+「僕の姉さんですけどね」
+<pause>
+ハーフエルフ
+「父がエルフだったんです」
+<pause>
+ハーフエルフ
+「父は何年か前、どこかに行って
+　しまいましたけどね」
+<pause>
+ハーフエルフ
+「子供を残して・・・とお思いで
+　しょうがきっと何か事情があっ
+　たんだと思います」
+<pause>
+ハーフエルフ
+「いつか帰ってきますよ」{END}","Half-Elf:<nl>
+ This is bad...<nl>
+ I don't know what to
+ make for dinner...
+<pause>
+Half-Elf:<nl>
+ And my master's waiting at the
+ house, surely furious it's not on the
+ table already...
+<pause>
+<Cless>:<nl>
+ Your...master?
+<pause>
+Half-Elf:<nl>
+ Yeah, she's a magic teacher.
+<pause>
+Half-Elf:<nl>
+ Actually, it's a little embarrassing,
+ but she's also my elder sister.
+<pause>
+Half-Elf:<nl>
+ We've lived together ever since our
+ father, a full-blooded elf, left us a
+ few years ago...
+<pause>
+Half-Elf:<nl>
+ I know it sounds like he abandoned
+ us, but I think circumstances at the
+ time forced his departure.
+<pause>
+Half-Elf:<nl>
+ I'm sure he still loves us.
+ He'll come back someday.{END}"
+"ハーフエルフ
+「ご飯まだ〜？」
+<pause>
+ハーフエルフ
+「早くして〜」<wait>{END}","Half-Elf:<nl>
+ Have you finished making dinner
+ yet?
+<pause>
+Half-Elf:<nl>
+ Come on! I'm starving!
+ You should have just made
+ something easier!<wait>{END}"
+"ハーフエルフ
+「この町に住む誰もが""優しくて
+　知的な美人""とあこがれるこの
+　ワ・タ・シ」
+<pause>
+ハーフエルフ
+「実は魔術の師匠で〜す」
+<pause>
+<Cless>
+「・・・・・・」<wait>{END}","Half-Elf:<nl>
+ The *one and only* lady admired by
+ all in town for her bewitching
+ figure, tender personality, and
+ exceptional knowledge...
+<pause>
+Half-Elf:<nl>
+ <speed_0010>...<speed_FFFF>would<speed_0010>...<speed_FFFF>be<speed_0010>...<speed_FFFF>me! <heart>
+<pause>
+Half-Elf:<nl>
+ Well... Maybe they just look up to
+ me because I'm a magic teacher!
+<pause>
+<Cless>:<nl>
+ ......<wait>{END}"
+"ハーフエルフ
+「この間の魔術はどう？」{END}","Half-Elf:<nl>
+ I feel a disturbance
+ in the force...of magic.
+ I wonder why.{END}"
+"ハーフエルフ
+「あれ？」
+<pause>
+ハーフエルフ
+「あなた、魔術師？」
+<pause>
+ハーフエルフ
+「呪文書売ってあげようか？」
+<pause>
+ハーフエルフ
+「どの呪文書がいい？」
+<color_0002><speed_0000>１。<var_BB00>
+２。<var_C600><color_0000><speed_FFFF>{END}","<Cless>:<nl>
+ Excuse me... Am I mistaken, or are you a magic
+ teacher? My pink-haired friend
+ here is a mage.
+<pause>
+Half-Elf:<nl>
+ Ah, yes, a fellow half-elf.
+<pause>
+Half-Elf:<nl>
+ Are you looking for spell books?
+ I have a couple for sale...
+<pause>
+Half-Elf:<nl>
+ Any of these interest you?<nl>
+<color_0002><speed_0000>1. Lightning<nl>
+2. <var_C600><color_0000><speed_FFFF>{END}"
+"ハーフエルフ
+「２００ガルドだけど、いい？」{END}","Half-Elf:<nl>
+ How does 200 gald sound?{END}"
+<color_0002><Arche>は<var_BB00>を覚えました。<color_0000><wait>{END},<color_0002><Arche> learned Lightning.<color_0000><wait>{END}
+"ハーフエルフ
+「１０００ガルドになるけど、い
+　いかな？」{END}","Half-Elf:<nl>
+ I think 1000 gald is a
+ fair price for that one.
+ Don't you?{END}"
+<color_0002><Arche>は<var_C600>を覚えました。<color_0000><wait>{END},<color_0002><Arche> learned <var_C600>.<color_0000><wait>{END}
+"ハーフエルフ
+「あら、残念ねぇ・・・」{END}","Half-Elf:<nl>
+ Ah, too bad...{END}"
+"ハーフエルフ
+「ありがとう」{END}","Half-Elf:<nl>
+ Thanks.{END}"
+"ハーフエルフ
+「あら、お金が足りないわよ」{END}","Half-Elf:<nl>
+ This isn't enough money, I'm afraid.{END}"
+"ハーフエルフ
+「その魔術はもう覚えてるじゃな
+　い」{END}","Half-Elf:<nl>
+ It looks like you already have a
+ copy of that one.{END}"
+"ハーフエルフ
+「この町に住む誰もが""優しくて
+　知的な美人""とあこがれるこの
+　ワ・タ・シ」
+<pause>
+ハーフエルフ
+「実は魔術の師匠で〜す」
+<pause>
+<Cless>
+「・・・・・・」{END}","Half-Elf:<nl>
+ The *one and only* lady admired by
+ all in town for her bewitching
+ figure, tender personality, and
+ exceptional knowledge...
+<pause>
+Half-Elf:<nl>
+ <speed_0010>...<speed_FFFF>would<speed_0010>...<speed_FFFF>be<speed_0010>...<speed_FFFF>me! <heart>
+<pause>
+Half-Elf:<nl>
+ Well... Maybe they just look up to
+ me because I'm a magic teacher!
+<pause>
+<Cless>:<nl>
+ ......{END}"
+"道具屋
+「いらっしゃい」{END}","Clerk:<nl>
+ Welcome to Malaga Sea.{END}"
+"道具屋
+「どうも〜」{END}","Clerk:<nl>
+ Thanks!{END}"
+"市長
+「下でパーティーをやっておる」
+<pause>
+市長
+「君もどうだね？」{END}","Mayor:<nl>
+ Might you be guests of the birthday
+ party downstairs?{END}"
+"市長
+「私がこのベネツィアの市長だ」
+<pause>
+市長
+「ここはデューティフリーの自由
+　貿易都市・・・」
+<pause>
+市長
+「世界中から様々な商品が入って
+　くる」
+<pause>
+市長
+「欲しい物は何でも手に入るよ」
+<pause>
+市長
+「ところで、君達はどこから来た
+　のかね？」
+<pause>
+<Cless>
+「南ユークリッドから来ました」
+<pause>
+市長
+「もしかしてベルアダムから？」
+<pause>
+市長
+「そこにレニオスという人がいな
+　かったかね？」
+<pause>
+<Cless>
+「ええ、村長がそうです」
+<pause>
+市長
+「何！？」
+<pause>
+市長
+「そうか・・・」
+<pause>
+市長
+「あいつ村長になったか・・・」
+<pause>
+市長
+「レニオスはわしの双子の弟なん
+　じゃよ」
+<pause>
+市長
+「南ユークリッドの開発をやるん
+　だとこの町から出て行って十年
+　にもなる・・・」
+<pause>
+市長
+「また会ったらよろしく言ってお
+　いてくれんか」{END}","Mayor:<nl>
+ I'm the mayor of Venezia.
+<pause>
+Mayor:<nl>
+ This is a duty-free trade town,
+ with goods imported from across
+ the globe.
+<pause>
+Mayor:<nl>
+ Anything you could possibly want,
+ you'll find it here!
+<pause>
+Mayor:<nl>
+ By the way, I'm curious: Where are
+ you all from?
+<pause>
+<Cless>:<nl>
+ A small village in Southern Euclid.
+<pause>
+Mayor:<nl>
+ Would that happen to be Belladam?
+<pause>
+Mayor:<nl>
+ If so, did you ever meet a man
+ named Lenios there?
+<pause>
+<Cless>:<nl>
+ Not only did we meet him,
+ we actually stayed at his
+ house for a night.
+ He's the village chief.
+<pause>
+Mayor:<nl>
+ Goodness gracious!
+<pause>
+Mayor:<nl>
+ Village chief!
+<pause>
+Mayor:<nl>
+ So that's what he's been up to...
+<pause>
+Mayor:<nl>
+ Lenios happens to be my younger
+ twin brother, so this is pretty
+ interesting to me.
+<pause>
+Mayor:<nl>
+ Hard to believe so much has
+ happened down there in the ten
+ years since I moved up here...
+<pause>
+Mayor:<nl>
+ Anyway, if you bump into Lenios
+ again, would you give him my
+ regards?{END}"
+"女の子
+「やっと戦争も終わって・・・」
+<pause>
+女の子
+「海外旅行も自由にできるように
+　なったわ」
+<pause>
+女の子
+「私、一度でいいから白馬に会っ
+　てみたいな」
+<pause>
+女の子
+「清らかな乙女にしか会わないな
+　んて、ロマンチックよね〜」{END}","Girl:<nl>
+ Oh my, the war in Midgard is finally
+ over!
+<pause>
+Girl:<nl>
+ Now everyone's calmed down and
+ the ships are sailing again!
+<pause>
+Girl:<nl>
+ I should go catch one and try
+ to find that white horsey I've
+ heard so much about.
+ Ooh, I'd love to see that thing.
+<pause>
+Girl:<nl>
+ They said it will only
+ meet with a pure maiden.
+ How romantic...{END}"
+"女の子
+「あ〜あ、たまには海外旅行に行
+　きたいなぁ」
+<pause>
+女の子
+「ミッドガルズは戦争だから無理
+　でしょう？」
+<pause>
+女の子
+「アルヴァニスタ行きの船は船長
+　が優柔不断で出ないし・・・」
+<pause>
+女の子
+「どうなってんのかな？」{END}","Girl:<nl>
+ Boo!
+ I wanna travel overseas!
+<pause>
+Girl:<nl>
+ Supposedly I can't go to Midgard
+ because they're fighting a war.
+<pause>
+Girl:<nl>
+ But I can't go to Alvanista, either!
+ The captain of the ship that goes
+ there is being a little scaredy-cat!
+<pause>
+Girl:<nl>
+ Arrgh! What am I gonna do!?
+ I'm so bored!{END}"
+（世間話をしている）{END},(They're making small talk.){END}
+"町の人
+「今デミテルの話をしていたの」
+<pause>
+町の人
+「デミテルは魔術が使えるハーフ
+　エルフでした」
+<pause>
+町の人
+「昔はこの町で魔術の研究をして
+　いて、人々の役に立っていたと
+　聞きます」
+<pause>
+町の人
+「でも一年前・・・」
+<pause>
+町の人
+「人が変わったように、全ての研
+　究を捨てて、はるか西の孤島に
+　移り住んでしまいました」<wait>{END}","Citizen:<nl>
+ We just had a conversation about a
+ half-elf named Demeter.
+<pause>
+Citizen:<nl>
+ He wielded powerful magic, but
+ was extremely kind and charitable
+ to the citizenry while studying his
+ craft here in this town.
+<pause>
+Citizen:<nl>
+ A year ago, however, he suddenly
+ changed overnight!
+<pause>
+Citizen:<nl>
+ Cast away his studies, abandoned
+ the town, and settled on that
+ distant western island, he did.<wait>{END}"
+"町の人
+「なぜでしょうね」{END}","Citizen:<nl>
+ Sounds like he went mad...{END}"
+"<Cless>
+「西の孤島？」
+<pause>
+<Klarth>
+「西の孤島か・・・」
+<pause>
+<Klarth>
+「船でなければ行けないな」
+<pause>
+<Klarth>
+「港に行ってみよう」
+<pause>
+<Klarth>
+「頼めば船を出してくれるかもし
+　れない」{END}","<Cless>:<nl>
+ The western island?
+<pause>
+<Klarth>:<nl>
+ Way out there, huh...?
+<pause>
+<Klarth>:<nl>
+ Well, forget about swimming.
+<pause>
+<Klarth>:<nl>
+ Let's go ask around for a ride at
+ the port, shall we?
+<pause>
+<Klarth>:<nl>
+ There has to be someone there we
+ can convince by flashing a few
+ coins in their face.{END}"
+（世間話をしている）{END},(They're making small talk.){END}
+"町の人
+「今、デミテルの話をしていたん
+　です」
+<pause>
+町の人
+「彼がここから出ていく夜、まる
+　でとりつかれたような形相だっ
+　たそうです」{END}","Citizen:<nl>
+ We were just talking about
+ Demeter.
+<pause>
+Citizen:<nl>
+ He looked like a man possessed on
+ the night he left.{END}"
+（世間話をしている）{END},(They're making small talk.){END}
+"子供
+「市長の家ってでかいな〜」{END}","Child:<nl>
+ This house is huge!{END}"
+"婦人
+「今パーティーをやってるの」
+<pause>
+婦人
+「あなたもいかがですか？」{END}","Lady:<nl>
+ We're currently celebrating a
+ birthday party.
+<pause>
+Lady:<nl>
+ Will you be joining us?{END}"
+"子供
+「誕生日のパーティーをやって
+　るんだよ」
+<pause>
+子供
+「市長の兄の子供の友達の姉なん
+　だって」
+<pause>
+子供
+「何かよくわかんないや」{END}","Child:<nl>
+ We're having a birthday party...
+<pause>
+Child:<nl>
+ ...for the...umm...mayor's older
+ brother's kid's friend's big sister.
+<pause>
+Child:<nl>
+ ...I think my tongue's tied in a knot
+ now.{END}"
+"市長の兄の子供の友達の姉
+「姉で〜す」{END}","Big Sister:<nl>
+ I'm the mayor's older brother's
+ kid's friend's big sister!{END}"
+（世間話をしている）{END},(They're making small talk.){END}
+"ナンシー
+「あなた達は・・・」<wait>{END}","Nancy:<nl>
+ You guys...<wait>{END}"
+"<Cless>
+「ナンシーさん！？」
+<pause>
+<Cless>
+「何でこんな所に？」
+<pause>
+ナンシー
+「ここまで旅の方に連れて来てい
+　ただいたんです」
+<pause>
+ナンシー
+「彼に直接言いたくて・・・」<wait>{END}","<Cless>:<nl>
+ Nancy!?
+<pause>
+<Cless>:<nl>
+ What are you doing here?
+<pause>
+Nancy:<nl>
+ I really wanted to see him in
+ person...
+<pause>
+Nancy:<nl>
+ ...so I asked a traveler to escort
+ me...<wait>{END}"
+"<Mint>
+「どうですか？」
+<pause>
+<Mint>
+「エルウィンさんとは、その後　
+　うまくいっていますか？」
+<pause>
+ナンシー
+「それが・・・」
+<pause>
+<Cless>
+（また、何かあったらしいぞ）
+<pause>
+<Mint>
+「何か力になれるかしら？」
+<pause>
+<Klarth>
+「おいおい、こんな所で寄り道を
+　している場合か？」
+<pause>
+<color_0002>彼女の力になりますか？<color_0000>{END}","<Mint>:<nl>
+ How did things go with Elwyn?
+<pause>
+<Mint>:<nl>
+ Did it work out?
+<pause>
+Nancy:<nl>
+ Well...
+<pause>
+<Cless>:<nl>
+ (Sounds like there's still something
+ wrong...)
+<pause>
+<Mint>:<nl>
+ No? Is there anything we
+ can help you with?
+<pause>
+<Klarth>:<nl>
+ Surely there's nothing more
+ important than a side trip right
+ now?
+<pause>
+<color_0002>Help her?<color_0000>{END}"
+"ナンシー
+「彼の・・・」
+<pause>
+ナンシー
+「彼の会社の前までは、行けるん
+　ですけど・・・」
+<pause>
+ナンシー
+「急に足が震えて・・・」
+<pause>
+ナンシー
+「中に入れないんです」
+<pause>
+<Mint>
+「エルウィンさんにアポイントを
+　取ればいいのですね」
+<pause>
+<Mint>
+「任せて下さい」{END}","Nancy:<nl>
+ It's just...
+<pause>
+Nancy:<nl>
+ It's just, whenever I get to the
+ entrance of the building he works
+ in...
+<pause>
+Nancy:<nl>
+ My legs suddenly start shaking...
+<pause>
+Nancy:<nl>
+ I become such a nervous wreck
+ that I can't even turn the knob on
+ the door.
+<pause>
+<Mint>:<nl>
+ Say no more.
+ Please leave it to us.
+<pause>
+<Mint>:<nl>
+ We'll make you a date with Elwyn.{END}"
+"<Cless>
+「力になれなくてごめん」
+<pause>
+<Cless>
+「急いでいるから・・・」{END}","<Cless>:<nl>
+ I'm really sorry, but we can't help
+ you right now.
+<pause>
+<Cless>:<nl>
+ We've already got our hands full...{END}"
+"ナンシー
+「エルウィン・・・」{END}","Nancy:<nl>
+ Elwyn...{END}"
+"<Cless>
+「アポイントを取ってきたよ」
+<pause>
+<Cless>
+「中央広場の、噴水の前で待って
+　てくれって・・・」
+<pause>
+ナンシー
+「あ、ありがとうございます」
+<pause>
+ナンシー
+「何てお礼を言ったら・・・」
+<pause>
+<Mint>
+「エルウィンさんが待っています」
+<pause>
+<Mint>
+「さあ、早く・・・」
+<pause>
+ナンシー
+「はい」{END}","<Cless>:<nl>
+ Good news, Nancy!
+ He agreed to a date with you.
+<pause>
+<Cless>:<nl>
+ He said to meet him in front of the
+ fountain at the center square.
+<pause>
+Nancy:<nl>
+ Th-Thank you so much...
+<pause>
+Nancy:<nl>
+ I really can't thank you enough...
+<pause>
+<Mint>:<nl>
+ Hurry along now.
+<pause>
+<Mint>:<nl>
+ You don't want to keep Elwyn
+ waiting!
+<pause>
+Nancy:<nl>
+ Yes, of course.{END}"
+"ナンシー
+「エルウィンの妻として、彼の支
+　えになりたいと思います」{END}","Nancy:<nl>
+ As his wife, I want to be Elwyn's
+ support.{END}"
+"メイド
+「お嬢様の誕生日に、ピアノがプ
+　レゼントされたのですが・・・」
+<pause>
+メイド
+「まだまだ、あの通りですわ」{END}","Maid:<nl>
+ Miss Chelsea was given a piano for
+ her birthday, but...
+<pause>
+Maid:<nl>
+ Well, hear for yourself.{END}"
+"メイド
+「お嬢様はピアノに夢中ですわ」
+<pause>
+メイド
+「練習がとても楽しいようです」{END}","Maid:<nl>
+ Miss Chelsea is deeply into her new
+ piano.
+<pause>
+Maid:<nl>
+ She practices for hours on end.
+ She must be having a lot of fun.{END}"
+"メイド
+「お嬢様のピアノの上達ぶりはす
+　ごいですわ」
+<pause>
+メイド
+「どんどんうまくなるのよ」{END}","Maid:<nl>
+ I'm impressed with Miss Chelsea's
+ quick mastery of the piano.
+<pause>
+Maid:<nl>
+ She's very dedicated.{END}"
+"町の人
+「今からピアノの発表会をやるん
+　だけど、あなたも聞く？」{END}","Citizen:<nl>
+ Miss Chelsea's piano recital
+ is about to begin.
+ Are you joining us?{END}"
+"町の人
+「本当にピアノが上手ねぇ」{END}","Citizen:<nl>
+ Wow, she's really good at that.{END}"
+"町の人
+「さすがは市長の娘さんだ」{END}","Citizen:<nl>
+ I'd expect nothing less
+ from the mayor's daughter.
+ Absolutely marvelous.{END}"
+"女の子
+「もう、お兄ちゃんったらあの子
+　に夢中なんだから・・・」{END}","Girl:<nl>
+ Ugh...<nl>
+ My brother is totally obsessed with
+ her...{END}"
+"社員
+「船の航行が、完全にストップし
+　ちゃってたいへんだよ」
+<pause>
+社員
+「しょうがないからユークリッド
+　とかミゲールから物を取り寄せ
+　てるんだ」{END}","Employee:<nl>
+ All naval traffic has completely
+ stopped.
+<pause>
+Employee:<nl>
+ We've had no choice but to order
+ our goods from Euclid and Miguel.{END}"
+"社員
+「今は不景気だけど、先々代のエ
+　ルウィン社長が開発した製品が
+　あるからね」
+<pause>
+社員
+「その売買で、どうにか切り抜け
+　られるだろう」{END}","Employee:<nl>
+ We may be in the middle of a
+ depression, but President Stephen
+ has shown remarkable vision for
+ this company.
+<pause>
+Employee:<nl>
+ Under his guidance, I'm sure we'll
+ be able to trade our way through
+ this.{END}"
+"社員
+「そういえば・・・」
+<pause>
+社員
+「モーリア坑道地質調査隊が坑道
+　の最下層の下にさらに何かある
+　らしいとか言ってたな」{END}","Employee:<nl>
+ You know, I heard something
+ fascinating the other day...
+<pause>
+Employee:<nl>
+ According to a survey team, the
+ Moria Mine goes even deeper than
+ previously thought.{END}"
+"スティーブン
+「さて、また営業に出かけるとす
+　るか・・・」{END}","Stephen:<nl>
+ And now I need to get ready for
+ my next business trip.{END}"
+"<Cless>
+「えっ、何でエルウィンさんがこ
+　こに！？」
+<pause>
+？？？
+「はぁ？」
+<pause>
+？？？
+「僕の名前はスティーブンですけ
+　ど・・・」
+<pause>
+スティーブン
+「まてよ・・・」
+<pause>
+スティーブン
+「そういえば確か、先々代のおじ
+　いさんの名前がエルウィンだっ
+　たかな？」
+<pause>
+<Cless>
+「ごっ、ごめんなさい、何でもな
+　いんです・・・」{END}","<Cless>:<nl>
+ Huh?
+ What are you doing here, Elwyn!?
+<pause>
+???:<nl>
+ Who?
+<pause>
+???:<nl>
+ My name is Stephen...
+<pause>
+Stephen:<nl>
+ Wait, now that I think about it...
+<pause>
+Stephen:<nl>
+ I believe I had an ancestor several
+ generations back who was named
+ Elwyn.
+<pause>
+<Cless>:<nl>
+ Th-That's very interesting, sir...<nl>
+ I must be leaving...{END}"
+"経理部長
+「何とかこのピンチを切り抜けな
+　ければ・・・」
+<pause>
+経理部長
+「会社の存続に関わるからな」{END}","Accounting Department Chairman:<nl>
+ We just need to hold on tight until
+ things pick up...
+<pause>
+Accounting Department Chairman:<nl>
+ Our top priority is keeping the
+ company alive.{END}"
+"管理人
+「君は見学者かね？」
+<pause>
+管理人
+「この建物は売りに出されている
+　んだ」
+<pause>
+管理人
+「前の会社がつぶれてね」
+<pause>
+管理人
+「私はここの管理人だ」{END}","Property Manager:<nl>
+ Are you people visitors? I'm the
+ property manager here.
+<pause>
+Property Manager:<nl>
+ Since the company that occupied
+ this building went belly up, we're
+ putting it up for sale.{END}"
+"先生
+「私は先生です」{END}","Teacher:<nl>
+ I'm a teacher.{END}"
+"子供
+「１＋２＝３で・・・」{END}","Child:<nl>
+ So 1+2=3...{END}"
+"子供
+「分数の割り算ってどうして上下
+　を逆さまにすんの？」{END}","Child:<nl>
+ Why do you flip the fraction
+ upside-down when dividing?{END}"
+"子供
+「円周率は３。１４１５９２６５
+　３５・・・」
+<pause>
+子供
+「円周率って何？」{END}","Child:<nl>
+ The value of pi is 3.1415926535...
+<pause>
+Child:<nl>
+ But what's the value of cake?{END}"
+"子供
+「早く給食になんないかなぁ」{END}","Child:<nl>
+ I wish it was lunchtime already...{END}"
+"子供
+「今、算数の時間なの」{END}","Child:<nl>
+ Now we have to do math.{END}"
+"子供
+「忍者の魔物が出るんだよ」
+<pause>
+子供
+「どっから来たんだろうね？」{END}","Child:<nl>
+ My parents have been scaring me
+ with stories of demonic ninja.
+<pause>
+Child:<nl>
+ Where do you think they come
+ from?{END}"
+"子供
+「宿題忘れて立たされてるんだ」{END}","Child:<nl>
+ They're making me stand here all
+ day 'cause I forgot my homework.{END}"
+"先生
+「ここはベネツィア学園よ」{END}","Teacher:<nl>
+ This is Venezia's school.{END}"
+"女の人
+「ここは前、輸入会社だったの」
+<pause>
+女の人
+「倒産したので建物をそのまま利
+　用して学校を設立したのよ」{END}","Woman:<nl>
+ This building used to belong to an
+ import company.
+<pause>
+Woman:<nl>
+ It went bankrupt, though, and the
+ city established a school inside it.{END}"
+"先生
+「ここは職員室だよ」{END}","Teacher:<nl>
+ This is the staff room.{END}"
+"町の人
+「ダオスの率いる魔物がどこから
+　来るのか・・・」
+<pause>
+町の人
+「いまだにわかっていません」
+<pause>
+町の人
+「ダオスの居場所さえわかれば、
+　まだ反撃のしようがあるのです
+　が・・・」{END}","Citizen:<nl>
+ I've been trying to figure out
+ where the monsters Dhaos
+ commands come from...
+<pause>
+Citizen:<nl>
+ I've asked umpteen people, read
+ newspapers, visited some
+ libraries--the whole works.
+<pause>
+Citizen:<nl>
+ But I always turn up nothing.
+<pause>
+Citizen:<nl>
+ If we had this information, we
+ might be able to launch a surprise
+ counterattack...{END}"
+"おじいさん
+「ここから東の方向にフリーズキ
+　ールと呼ばれる雪の町があるん
+　じゃよ」
+<pause>
+おじいさん
+「そこには教会があってのぅ」
+<pause>
+おじいさん
+「一度行ってみたいわい」{END}","Old Man:<nl>
+ There's a snowy town called
+ Freezekiel to the east of here.
+<pause>
+Old Man:<nl>
+ I've heard about a magnificent
+ church there.
+<pause>
+Old Man:<nl>
+ I'd like to see it before I kick the
+ bucket.{END}"
+"おばさん
+「ミゲールの町の遥か南にいつも
+　夜の大陸があるんだって？」
+<pause>
+おばさん
+「本当かいな？」{END}","Lady:<nl>
+ I've heard about a continent far
+ south of Miguel where it's
+ nighttime day in, day out.
+<pause>
+Lady:<nl>
+ Really?
+ How does that happen?{END}"
+"音楽の先生
+「今、音楽の授業をしているの」<wait>{END}","Music Teacher:<nl>
+ We're currently having a music
+ lesson.<wait>{END}"
+"先生
+「は〜い、みなさんよくできまし
+　た〜」{END}","Teacher:<nl>
+ Yes!
+ You all did a super job!
+ Gives yourselves a pat on the back!{END}"
+"子供
+「ア・イ・ウ・エ・エ・オ・ア・
+　オ〜〜〜」
+<pause>
+発声練習をしている。{END}","Child:<nl>
+ Ay bee see dee dee eee ay
+ eeeeee...
+<pause>
+(He's practicing verbal pronunciation){END}"
+"子供
+「ラララ〜〜〜」
+<pause>
+のりのりに歌っている。
+<pause>
+まあまあだ。{END}","Child:<nl>
+ La la laaaaa...
+<pause>
+(She's singing energetically.)
+<pause>
+(Not too bad.){END}"
+"子供
+「ま・な・つ・の・太陽〜、背に
+　受け〜て〜、オーイエ、」
+<pause>
+作詞家を目指す子供
+「作詞ってたいへんだよな」{END}","Child:<nl>
+ <note> <note>Mid-sum-mer sunnnn!
+ Riiiise uuup, ohhhh yay! <note> <note>
+<pause>
+Child Aiming to be a Lyricist:<nl>
+ Sorry, did those lyrics give you an
+ earache too?{END}"
+"子供
+「ラララ〜〜〜」
+<pause>
+のりのりに歌っている。
+<pause>
+ちょっとオンチだ。{END}","Child:<nl>
+ La la laaaaa...
+<pause>
+(She's singing energetically.)
+<pause>
+(A bit tone-deaf.){END}"
+"子供
+「大きな声をだすのははずかしい
+　な」{END}","Child:<nl>
+ Talking loudly is kinda
+ embarrassing...{END}"
+"子供
+「ラララ〜〜〜」
+<pause>
+のりのりに歌っている。
+<pause>
+なかなかうまい。{END}","Child:<nl>
+ La la laaaaa...
+<pause>
+(She's singing energetically.)
+<pause>
+(Pretty good.){END}"
+"子供
+「ドレミファ〜」
+<pause>
+のりのりに歌っている。{END}","Child:<nl>
+ Do re mi faaaaa...
+<pause>
+(She's singing energetically.){END}"
+"男の子
+「ボク、将来、先生のおむこさん
+　になるんだ」{END}","Boy:<nl>
+ The teacher's daughter's gonna be
+ my bride someday.{END}"
+"子供
+「お兄ちゃんもここの生徒？」{END}","Child:<nl>
+ Are you in a different class,
+ mister?{END}"
+"秘書
+「私は社長秘書です」
+<pause>
+<Cless>
+（ナンシーさんにそっくりだな）
+<pause>
+秘書
+「何か？」
+<pause>
+<Cless>
+「いえ、何でもありません」{END}","Secretary:<nl>
+ I'm a secretary for this company.
+<pause>
+<Cless>:<nl>
+ (She looks just like Nancy.)
+<pause>
+Secretary:<nl>
+ Is something the matter?
+<pause>
+<Cless>:<nl>
+ Sorry...<nl>
+ I thought you were someone else...{END}"
+"ベネツィア市長
+「最近町の景気も下火になってき
+　たよ・・・」
+<pause>
+ベネツィア市長
+「困ったもんだよ・・・」{END}","Mayor of Venezia:<nl>
+ Business in town has been falling
+ off lately...
+<pause>
+Mayor of Venezia:<nl>
+ Rather distressing...{END}"
+"女の人
+「為替相場や株相場を見ても不景
+　気なのは間違いないわね」
+<pause>
+女の人
+「これもみんなダオスのせいなの
+　よ！」{END}","Woman:<nl>
+ If you look at the exchange rates
+ and stock market prices, it
+ becomes clear as day that we're
+ suffering a depression.
+<pause>
+Woman:<nl>
+ Dhaos is entirely to blame, too!{END}"
+"用務員
+「わしゃ、用務員のおじさんじゃ
+　よ・・・」{END}","Janitor:<nl>
+ I'm just the janitor...{END}"
+"町の人
+「張り紙におもしろい話が載って
+　るぜ」
+<pause>
+『この世界には三種の武具と呼ば
+　れるものが存在するという』
+<pause>
+『一つは指輪、残りは剣と言われ
+　ている』{END}","Citizen:<nl>
+ This poster says something
+ interesting.
+<pause>
+“In this world, there exists what is
+known as the Tria.”
+<pause>
+“It is a triad of armaments; one is a
+ring and the others are swords.”{END}"
+"兵士
+「私はアルヴァニスタから派遣さ
+　れた兵士です」
+<pause>
+兵士
+「ベネツィア市の犯罪防止のため
+　に来ました」
+<pause>
+兵士
+「実は私の故郷はベルアダムなん
+　ですよ」
+<pause>
+兵士
+「あそこの武器屋には何でも古め
+　かしい本があるとか・・・」
+<pause>
+兵士
+「武器屋なくらいだから何かすご
+　い剣技が記された本かもしれま
+　せんね」{END}","Soldier:<nl>
+ Hi there.
+ I'm an Alvanistan soldier,
+ born and bred in Belladam.
+<pause>
+Soldier:<nl>
+ I was dispatched to this city to
+ help prevent crime.
+<pause>
+Soldier:<nl>
+ Anyway, I remember there being
+ an old, ragged book at the weapon
+ shop back home.
+<pause>
+Soldier:<nl>
+ I bet there's an incredible arte
+ recorded in there.{END}"
+"剣士
+「戦いは例え相手が魔物であって
+　も真剣勝負、心を無にしていれ
+　ば何事にも動じない！」{END}","Swordsman:<nl>
+ Even if your opponent is a monster,
+ you must never lose your nerve in
+ battle.{END}"
+"子供
+「ママにお使い頼まれてるんだ」{END}","Child:<nl>
+ Mama sent me here to get
+ something.{END}"
+"収集家
+「次は何を集めようかな・・・」{END}","Collector:<nl>
+ What should I get next...{END}"
+"収集家
+「腹へったなぁ・・・」
+<pause>
+収集家
+「この<item_8701>と、食べ
+　物を交換してくれないか？」
+<pause>
+収集家
+「メロンと・・・ああ、それから
+　こんぶがいいな」{END}","Collector:<nl>
+ I'm hungrier than a hippo and
+ poorer than a pauper...
+<pause>
+Collector:<nl>
+ You a collector?
+ Want to a trade a bit of
+ food for my <item_8701>?
+<pause>
+Collector:<nl>
+ A melon and...uh, some
+ kelp should do it.
+ Does that sound good?{END}"
+"収集家
+「頭の毛が気になる、今日この頃
+　なんだよなぁ」{END}","Collector:<nl>
+ Maybe you could do something
+ about the bothersome broom on
+ my head, then...{END}"
+"収集家
+「メロンとこんぶを持ってないな」{END}","Collector:<nl>
+ But you don't seem to have
+ everything I want...{END}"
+"収集家
+「それじゃ、交換だ」
+<pause>
+<color_0002><item_8701>を手に入れました。<color_0000>
+<pause>
+収集家
+「ありがとう」{END}","Collector:<nl>
+ Sweet.
+ It's a deal.
+<pause>
+<color_0002>Acquired a <item_8701>.<color_0000>
+<pause>
+Collector:<nl>
+ Thanks, bud.{END}"
+グミの元がグツグツ煮えている。{END},(The gelatin base is simmering.){END}
+グミが作られている。{END},(Gels are being pressed.){END}
+できたてのグミがある。{END},(Freshly pressed gels.){END}
+"料理人
+「すし、にぎってるか？」{END}","Chef:<nl>
+ Have you made Sushi yet?{END}"
+"料理人
+「俺っちは『すばらしき味の世界』
+　の住人でぇ！」
+<pause>
+料理人
+「俺っちのこの味を、より多くの
+　奴らに食ってもらいてぇんだ！」
+<pause>
+料理人
+「おめぇら、どうだ？」{END}","Chef:<nl>
+ I come from da World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I is gonna give dis taste to as
+ many dudes as I can!
+<pause>
+Chef:<nl>
+ You wannit, brudda?{END}"
+"料理人
+「俺っちの腕を見な！」<wait>{END}","Chef:<nl>
+ See my mad skillz!<wait>{END}"
+<color_0002>すしを料理できるようになりました。<color_0000>{END},<color_0002>Learned the recipe for Sushi.<color_0000>{END}
+"料理人
+「てやんでぇ！」{END}","Chef:<nl>
+ What da heck, mon!{END}"
+"<Cless>
+「すごい鎧がある！」
+<pause>
+『軽い！強い！美しい！の三拍子！
+　ミスリルプレート
+<speed_0000>　　　　　　<speed_00FF>５００００ガルド』{END}","<Cless>:<nl>
+ Wow, what nice armor!
+<pause>
+“Lightweight! Strong! Beautiful!
+*** Mythril Plate ***
+Price: 50000 gald”
+{END}"
+"チェルシー
+「今、練習中だから、邪魔しない
+　でね」{END}","Chelsea:<nl>
+ Umm, can't you see
+ that I'm PRACTICING?
+ Go bother the maid.{END}"
+"チェルシー
+「ピアノ、上手でしょう？」{END}","Chelsea:<nl>
+ I've gotten so good, huh?
+ Pretty soon everyone's going to
+ see me as the next Sakuraba!{END}"
+"<Cless>
+「あの・・・」
+<pause>
+{END}","<Cless>:<nl>
+ Excuse--
+<pause>
+{END}"
+"市長の娘・チェルシー
+「練習中よ」
+<pause>
+チェルシー
+「話しかけないで」{END}","Mayor's Daughter, Chelsea:<nl>
+ Uh, hello!?
+ Can't you see that
+ I'm practicing here!?
+<pause>
+Chelsea:<nl>
+ Don't talk to me!{END}"
+"<Cless>
+（あんまり、うまくないね・・・）
+<pause>
+{END}","<Cless>:<nl>
+ (Psst... She's got a long way to go...)
+<pause>
+{END}"
+"チェルシー
+「むぅ！」
+<pause>
+{END}","Chelsea:<nl>
+ Grr!
+ I heard that!
+<pause>
+{END}"
+"チェルシー
+「それなら、うまくなるように教
+　えてよ！」
+<pause>
+{END}","Chelsea:<nl>
+ Well then, Mr. Know-It-All, tell me
+ how to get better at it!
+<pause>
+{END}"
+"<Cless>
+「えっ・・・僕は・・・」
+<pause>
+チェルシー
+「ふーんだ！」
+<pause>
+チェルシー
+「そんなことだろうと思ったわ」
+<pause>
+チェルシー
+「お姉ちゃん、教えてよ」
+<pause>
+{END}","<Cless>:<nl>
+ Um... I...
+<pause>
+Chelsea:<nl>
+ Hmmmph!
+<pause>
+Chelsea:<nl>
+ I knew it.
+ You're just a big dummy.
+<pause>
+Chelsea:<nl>
+ You, lady.
+ Teach me!
+<pause>
+{END}"
+"<Mint>
+「えっ、私ですか？」{END}","<Mint>:<nl>
+ Huh? Me?{END}"
+"<Mint>
+「・・・わかりました」{END}","<Mint>:<nl>
+ ...If you insist...{END}"
+"<Mint>
+「それでは、指慣らしからはじめ
+　ましょう・・・」{END}","<Mint>:<nl>
+ First, start by letting your fingers
+ get a good feel for the key
+ layout...{END}"
+"<color_0002>チェルシーは、ピアノが少しうまく
+なりました。<color_0000>{END}","<color_0002>(Chelsea got a little better at playing
+the piano.)<color_0000>{END}"
+"チェルシー
+「あっ、お姉ちゃん！」
+<pause>
+チェルシー
+「私、ピアノに慣れてきたよ！」
+<pause>
+<Mint>
+「それでは、少し難しい曲を練習
+　してみましょう・・・」{END}","Chelsea:<nl>
+ Hi again, Miss!
+ I didn't catch your name...
+<pause>
+<Mint>:<nl>
+ Good afternoon, Chelsea.
+ I'm <Mint> Adnade.
+<pause>
+Chelsea:<nl>
+ Oh! Miss Adnade!
+<pause>
+Chelsea:<nl>
+ I've gotten used to all the key
+ positions!
+<pause>
+<Mint>:<nl>
+ Next, you should try practicing with
+ a slightly more difficult piece of
+ music...{END}"
+"<color_0002>チェルシーは、ピアノが少しうまく
+なりました。<color_0000>{END}","<color_0002>(Chelsea got a little better at playing
+the piano.)<color_0000>{END}"
+"<unk1>チェルシー
+あっ、<Mint>お姉ちゃん！」
+<pause>
+チェルシー
+私、ちょっとうまくなったよ！」
+<pause>
+<Mint>
+がんばりましょうね」<wait>{END}","<unk1>Chelsea:<nl>
+ Oh! Miss Adnade!
+<pause>
+Chelsea:<nl>
+ I've gotten a little better!
+<pause>
+<Mint>:<nl>
+ That's wonderful!
+ Just keep at it, okay?<wait>{END}"
+"<color_0002>チェルシーはピアノがうまくなりま
+した。<color_0000>{END}","<color_0002>(Chelsea got better at playing the
+piano.)<color_0000>{END}"
+"<unk1>チェルシー
+あっ、<Mint>お姉ちゃん！」
+<pause>
+チェルシー
+私、ちょっとうまくなったよ！」
+<pause>
+チェルシー
+<Mint>お姉ちゃんの
+おかげだよ！」
+<pause>
+<Mint>
+・・・そんな」{END}","<unk1>Chelsea:<nl>
+ Oh! Miss Adnade!
+<pause>
+Chelsea:<nl>
+ I've gotten even better!
+<pause>
+Chelsea:<nl>
+ It's thanks to you!
+<pause>
+<Mint>:<nl>
+ ...Oh my.{END}"
+"チェルシー
+「また、教えに来てね<heart>」
+<pause>
+{END}","Chelsea:<nl>
+ Come back and teach me more <heart>
+<pause>
+{END}"
+"<color_0002>チェルシーはピアノがうまくなりま
+した。<color_0000>{END}","<color_0002>(Chelsea got better at playing the
+piano.)<color_0000>{END}"
+"<unk1>チェルシー
+あっ、<Mint>先生！」
+<pause>
+<Mint>
+先生だなんて・・・」
+<pause>
+チェルシー
+私、また、うまくなったよ！」
+<pause>
+<Cless>
+へぇ、よかったじゃないか」
+<pause>
+{END}","<unk1>Chelsea:<nl>
+ Oh! Professor Adnade!
+<pause>
+<Mint>:<nl>
+ “Professor”...?
+<pause>
+Chelsea:<nl>
+ I've almost perfected this piece!
+<pause>
+<Cless>:<nl>
+ Hey, I'm glad to hear it.
+<pause>
+{END}"
+"チェルシー
+「つーん！」
+<pause>
+{END}","Chelsea:<nl>
+ Phooooeey!
+<pause>
+{END}"
+"<Cless>
+（最初に『うまくない』って言っ
+　た事、まだ怒ってるみたいだ）
+<pause>
+{END}","<Cless>:<nl>
+ (Looks like she's not the forgiving
+ type...)
+<pause>
+{END}"
+"<unk1>チェルシー
+<Mint>先生、私もっとがんばるから！」
+<pause>
+{END}","<unk1>Chelsea:<nl>
+ Professor Adnade, I'll keep at it!
+<pause>
+{END}"
+"<color_0002>チェルシーはピアノがうまくなりま
+した。<color_0000>{END}","<color_0002>(Chelsea got better at playing the
+piano.)<color_0000>{END}"
+"<unk1>チェルシー
+<Mint>先生！」
+<pause>
+チェルシー
+<Mint>先生のおかげだよ」
+<pause>
+チェルシー
+どうもありがとう」
+<pause>
+<Mint>
+・・・そんな」
+<pause>
+{END}","<unk1>Chelsea:<nl>
+ Professor Adnade!
+<pause>
+Chelsea:<nl>
+ It's all because of you!
+<pause>
+Chelsea:<nl>
+ Thank you so much.
+<pause>
+<Mint>:<nl>
+ Really now...
+<pause>
+{END}"
+"<Mint>
+「あなたが努力したからですよ」
+<pause>
+{END}","<Mint>:<nl>
+ I think it's because you put in so
+ much effort and kept with it.
+<pause>
+{END}"
+<color_0002><Mint>は『<var_9E01>』の称号を得ました。<wait><color_0000>{END},"<color_0002><Mint> has earned the title
+“<var_9E01>.”<wait><color_0000>{END}"
+"チェルシー
+「あのね、<Mint>先生」
+<pause>
+チェルシー
+「お礼に、私が大切にしている収
+　集品をもらって欲しいの！」
+<pause>
+チェルシー
+「これは、めったに手に入らない
+　品物よ」<wait>{END}","Chelsea:<nl>
+ Umm, Professor Adnade...
+<pause>
+Chelsea:<nl>
+ As a token of thanks, I want you
+ to have my favorite collectible.
+<pause>
+Chelsea:<nl>
+ It's one-of-a-kind!<wait>{END}"
+<color_0002><item_9101>を手に入れました。{END},<color_0002>Acquired the <item_9101>.{END}

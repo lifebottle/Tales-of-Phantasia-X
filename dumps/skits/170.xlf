@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_847">
+        <source>So, the pact rings are the fruit of a
+collaboration between elves and dwarves.</source>
+        <target state="translated">So, the pact rings are the fruit of a
+collaboration between elves and dwarves.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_848">
+        <source>Such things will never be made again, we heard.</source>
+        <target state="translated">Such things will never be made again, we heard.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_849">
+        <source>So either they get fixed,
+or we're totally screwed...</source>
+        <target state="translated">So either they get fixed,
+or we're totally screwed...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_850">
+        <source>Exactly. We need to meet
+the elves in Ymir Forest ASAP.</source>
+        <target state="translated">Exactly. We need to meet
+the elves in Ymir Forest ASAP.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_851">
+        <source>Then it's off to Lundgrom's for an entry permit!</source>
+        <target state="translated">Then it's off to Lundgrom's for an entry permit!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

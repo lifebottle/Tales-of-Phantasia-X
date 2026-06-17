@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_325">
+        <source>Hey you, do you know why the sky's blue?</source>
+        <target state="translated">Hey you, do you know why the sky's blue?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_326">
+        <source>Like hell I would!</source>
+        <target state="translated">Like hell I would!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_327">
+        <source>Well, duh. How could I
+have been so stupid to ask you?</source>
+        <target state="translated">Well, duh. How could I
+have been so stupid to ask you?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_328">
+        <source>I'm glad you finally admit it.
+You are *definitely* stupid!</source>
+        <target state="translated">I'm glad you finally admit it.
+You are *definitely* stupid!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_329">
+        <source>C'mon! Who pissed in your corn flakes today!?</source>
+        <target state="translated">C'mon! Who pissed in your corn flakes today!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_330">
+        <source>I think YOURS were pissed in!</source>
+        <target state="translated">I think YOURS were pissed in!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_331">
+        <source>Hmph!</source>
+        <target state="translated">Hmph!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

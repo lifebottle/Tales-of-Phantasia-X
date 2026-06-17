@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_229">
+        <source>Heya, &lt;Mint&gt;. I want
+you to teach me how to cook.</source>
+        <target state="translated">Heya, &lt;Mint&gt;. I want
+you to teach me how to cook.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_230">
+        <source>Um, but I...</source>
+        <target state="translated">Um, but I...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_231">
+        <source>You can't? I dunno what to do, 'cause I
+screw it up all the time. It's getting so old.</source>
+        <target state="translated">You can't? I dunno what to do, 'cause I
+screw it up all the time. It's getting so old.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_232">
+        <source>Don't stress on it. Everyone has
+their strong and weak points, so--</source>
+        <target state="translated">Don't stress on it. Everyone has
+their strong and weak points, so--</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_233">
+        <source>Yes, that's right! I think you
+should just keep at what you do best.</source>
+        <target state="translated">Yes, that's right! I think you
+should just keep at what you do best.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_234">
+        <source>Mmm... If that's what you think,
+I guess that's what I'll do. Thanks!</source>
+        <target state="translated">Mmm... If that's what you think,
+I guess that's what I'll do. Thanks!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

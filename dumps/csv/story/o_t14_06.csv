@@ -1,0 +1,1375 @@
+マザーコンピュータルーム{END},Mother Computer Room{END}
+コモンルーム{END},Common Room{END}
+"料理マシン
+「あなたは、その後、フルーツポ
+　ンチを作っていまスカ？」{END}","Robocook:<nl>
+ HAVE YOU BEEN MAKING FRUIT
+ COCKTAILS?{END}"
+"料理マシン
+「ワタシは『スばらしき味の世界』
+　の住人」
+<pause>
+料理マシン
+「コの味を、より多くの人に伝え
+　たいのデス」
+<pause>
+料理マシン
+「あなたは、ワタシの記憶シテい
+　る料理をホッしますカ？」{END}","Robocook:<nl>
+ I WAS PROGRAMMED IN THE WORLD
+ OF FABULOUS FLAVORS.
+<pause>
+Robocook:<nl>
+ I WISH FOR ALL THE PEOPLE OF THE
+ WORLD TO EXPERIENCE THIS TASTE.
+<pause>
+Robocook:<nl>
+ WOULD YOU LIKE TO DOWNLOAD MY
+ DISH?{END}"
+"料理マシン
+「コノ料理に関する全記録を、あ
+　なたに与える事にシマス」<wait>{END}","Robocook:<nl>
+ NOW DOWNLOADING. PLEASE WAIT.<nl>
+ <speed_0010><color_0002>......................<color_0000><speed_FFFF><nl>
+ DOWNLOAD COMPLETE.<wait>{END}"
+"<color_0002>フルーツポンチを料理できるように
+なりました。<color_0000>{END}",<color_0002>Learned the recipe for Fruit Cocktail.<color_0000>{END}
+"料理マシン
+「アア、なんということでショウ」{END}","Robocook:<nl>
+ DOES NOT COMPUTE... DOES NOT...{END}"
+"<Cless>
+「これは、呪文書だ！！」<wait>{END}","<Cless>:<nl>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_C900>を覚えました。<color_0000>{END},<color_0002><Arche> learned <var_C900>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな・・・<Cless>
+「戻しておこう・・・」{END}","<Cless>:<nl>
+ But I don't have any use for it...
+<pause>
+<Cless>:<nl>
+ I'll put it back...{END}"
+"<Cless>
+「さびついていて開かない」{END}","<Cless>:<nl>
+ It's rusted shut.
+ Too bad...{END}"
+"<Cless>
+「開きそうなんだけど・・・」
+<pause>
+<Cless>
+「だめだ、開かない」{END}","<Cless>:<nl>
+ This door looks functional...
+<pause>
+<Cless>:<nl>
+ The heck?
+ It won't budge an inch.{END}"
+"<audio_1623><Cless>
+「<item_3D00>を入れると扉が開くよ
+　うになってるんだ」
+<pause>
+<audio_1624><Cless>
+「なんか変なの・・・」
+<pause>
+<audio_1625><Arche>
+「まあ、いいじゃん」{END}","<audio_1623><Cless>:<nl>
+ So the door only opens if you slip a
+ card into this thing...
+<pause>
+<audio_1624><Cless>:<nl>
+ That's a weird system.
+<pause>
+<audio_1625><Arche>:<nl>
+ I kinda like it.{END}"
+"<audio_1626><Cless>
+「何だろ、これ？」
+<pause>
+<audio_1627><Cless>
+「スイッチみたいなのがたくさん
+　あって・・・」
+<pause>
+<audio_1628><Mint>
+「細長い穴もありますね」{END}","<audio_1626><Cless>:<nl>
+ What's this little gadget?
+<pause>
+<audio_1627><Cless>:<nl>
+ Lots of buttons, switches and other
+ little things...
+<pause>
+<audio_1628><Mint>:<nl>
+ I wonder what the little slit in the
+ middle is for.{END}"
+"<audio_1629><Cless>
+「いったいどうすれば？」
+<pause>
+<audio_162A><Klarth>
+「ちょっと待て・・・」
+<pause>
+<audio_162B><Klarth>
+「もしかして、あの<item_3D00>をそ
+　の細長い穴に入れれば・・・」{END}","<audio_1629><Cless>:<nl>
+ Hmm... It doesn't look like
+ we can go anywhere else.
+ What the heck should we do?
+<pause>
+<audio_162A><Klarth>:<nl>
+ I just got an idea.
+<pause>
+<audio_162B><Klarth>:<nl>
+ Let me see that card we just
+ found.{END}"
+"<audio_162C>『ＩＤカード認識』
+<pause>
+<audio_162D>『セキュリティシステム解除』{END}","<audio_162C>“ID card authenticated.”
+<pause>
+<audio_162D>“Security system disengaged.”{END}"
+"<audio_162E><Cless>
+「い、今しゃべったぞ！？」
+<pause>
+<audio_162F><Mint>
+「誰かいるのでしょうか？」
+<pause>
+<audio_1630><Arche>
+「でも、人の気配なんてぜんぜん
+　しないじゃん？」{END}","<audio_162E><Cless>:<nl>
+ Wh-Who said that!?
+<pause>
+<audio_162F><Mint>:<nl>
+ There's someone behind the door?
+<pause>
+<audio_1630><Arche>:<nl>
+ Uhh, guys?
+ That didn't exactly sound human.{END}"
+"<Cless>
+「<item_4300>を使おう」{END}","<Cless>:<nl>
+ Let's try the <item_4300>...{END}"
+"<Cless>
+「だめだ、鍵が合わない」{END}","<Cless>:<nl>
+ D'oh, it won't fit.{END}"
+"<Cless>
+「鍵がかかっている」{END}","<Cless>:<nl>
+ It's locked.{END}"
+"<Cless>
+「開いたぞ」{END}","<Cless>:<nl>
+ Woo!{END}"
+"<audio_161E><Cless>
+「ん、これは？」
+<pause>
+<audio_161F><Mint>
+「カード？」
+<pause>
+<audio_1620><Arche>
+「変な模様・・・」
+<pause>
+<audio_1621><Arche>
+「古代人も<item_3D00>して遊んだの
+　かなぁ？」
+<pause>
+<audio_1622><Klarth>
+「それは、我々には必要ないと思
+　うが？」
+<pause>
+<color_0002><item_3D00>を持っていきますか？<color_0000>{END}","<audio_161E><Cless>:<nl>
+ Hey, what's this?
+<pause>
+<audio_161F><Mint>:<nl>
+ It looks like...a card?
+<pause>
+<audio_1620><Arche>:<nl>
+ What's with the weird pattern on
+ the back, though...?
+<pause>
+<audio_1621><Arche>:<nl>
+ Did the ancients play card games,
+ too?
+<pause>
+<audio_1622><Klarth>:<nl>
+ Probably won't be of any use, but
+ hey: it might make a nice souvenir.
+<pause>
+<color_0002>Take the card?<color_0000>{END}"
+<color_0002><item_3D00>を手に入れました。<color_0000>{END},<color_0002>Acquired a <item_3D00>.<color_0000>{END}
+"<audio_1636><Cless>
+「これはいったい？」
+<pause>
+<audio_1637><Klarth>
+「かなり特殊な装置のようだな」{END}","<audio_1636><Cless>:<nl>
+ The heck is this?
+<pause>
+<audio_1637><Klarth>:<nl>
+ Some sort of special equipment, I'd
+ guess.{END}"
+"<audio_1638><Cless>
+「な、何だ！？」{END}","<audio_1638><Cless>:<nl>
+ Wh-What!?{END}"
+"<audio_1639><Klarth>
+「これは！？」<wait>{END}","<audio_1639><Klarth>:<nl>
+ What is this!?<wait>{END}"
+"<audio_164B>オズ
+『システムは自己管理モードに入
+　りました』{END}","<audio_164B>OZ:<nl>
+ “System has entered Automated
+ Management Mode.”{END}"
+"<color_0002>セレクト・オブジェクト
+<speed_0000>１。タイムワープ
+２。メディカル・トリートメント
+３。精霊<var_D600>について<color_0000><speed_FFFF><color_0000>{END}","<color_0002>Select Object<nl>
+1. Time Warp<nl>
+2. Medical Treatment<nl>
+3. Data Concerning Spirit Aska<color_0000><speed_FFFF><color_0000>{END}"
+"<color_0002>セレクト・オブジェクト
+<speed_0000>１。タイムワープ
+２。メディカル・トリートメント<speed_FFFF><color_0000>{END}","<color_0002>Select Object<nl>
+1. Time Warp<nl>
+2. Medical Treatment<speed_FFFF><color_0000>{END}"
+"オズ
+『都市機能システムダウン』
+<pause>
+オズ
+『現在、全デバイスの保守プログ
+　ラム実行中』
+<pause>
+オズ
+『タイムワープデバイスの起動は
+　不可能です』<wait>{END}","OZ:<nl>
+ “City Function System down.”
+<pause>
+OZ:<nl>
+ “All devices currently executing
+ energy conservation program.”
+<pause>
+OZ:<nl>
+ “Time Warp Device cannot be
+ activated.”<wait>{END}"
+"<audio_164C><Cless>
+「今から１０２年後の５月２１日
+　地下墓地の一番奥だ！」{END}","<audio_164C><Cless>:<nl>
+ The deepest level of the
+ mausoleum, May 21st, 102 years
+ from now!{END}"
+"<audio_163A>オズ
+『エネルギーが不足・・・』
+<pause>
+<audio_163B>オズ
+『都市機能回復の必要性あり』
+<pause>
+<audio_163C>オズ
+『ただし、その決定権はトール市
+　長にあり・・・』
+<pause>
+<audio_163D>オズ
+『・・・市長の死亡確認』
+<pause>
+<audio_163E><Cless>
+「・・・・・・」
+<pause>
+<audio_163F>オズ
+『審査中』
+<pause>
+<audio_1640>オズ
+『可決』
+<pause>
+<audio_1641>オズ
+『あなた達を市長の代理人と認め
+　ます』
+<pause>
+<audio_1642>オズ
+『よって、都市機能回復決定権は
+　あなた達に与えられました』
+<pause>
+<audio_1643><Arche>
+「いったいどういうこと？」
+<pause>
+<audio_1644><Klarth>
+「よくわからんが、その都市機能
+　を回復させないと時間転移がで
+　きないということらしいな」
+<pause>
+<color_0002>都市機能を回復させますか？<color_0000>{END}","<audio_163A>OZ:<nl>
+ “Insufficient Energy...”
+<pause>
+<audio_163B>OZ:<nl>
+ “City Functions must be restored.”
+<pause>
+<audio_163C>OZ:<nl>
+ “However, Mayor of Thor must
+ authorize--”
+<pause>
+<audio_163D>OZ:<nl>
+ “...Death of Mayor confirmed.”
+<pause>
+<audio_163E><Cless>:<nl>
+ ......
+<pause>
+<audio_163F>OZ:<nl>
+ “Assessing situation.”
+<pause>
+<audio_1640>OZ:<nl>
+ “Decision.”
+<pause>
+<audio_1641>OZ:<nl>
+ “Your group is accepted as Acting
+ Mayor.”
+<pause>
+<audio_1642>OZ:<nl>
+ “You are authorized to restore City
+ Functions.”
+<pause>
+<audio_1643><Arche>:<nl>
+ The heck does that mean?
+ All this alien stuff is
+ making poor little <Arche>'s
+ brain hurt!
+<pause>
+<audio_1644><Klarth>:<nl>
+ I'm not completely sure, but it
+ seems we need to restore the
+ city's functions to enable time
+ traveling.
+<pause>
+<color_0002>Restore City Functions?<color_0000>{END}"
+"<audio_1059>オズ
+『音声認識』
+<pause>
+<audio_1645>オズ
+『ただいまより都市機能を回復さ
+　せます』<wait>{END}","<audio_1059>OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+<audio_1645>OZ:<nl>
+ “Executing City Functions
+ Restoration program.”<wait>{END}"
+"<audio_1646>オズ
+『トール市民に警告、トール市民
+　に警告・・・』<wait>{END}","<audio_1646>OZ:<nl>
+ “Alert to citizens of Thor, alert to
+ citizens of Thor...”<wait>{END}"
+"<audio_1647><Cless>
+「な、何かとんでもないことして
+　るんじゃないか！？」{END}","<audio_1647><Cless>:<nl>
+ S-Something really big's happening,
+ isn't it!?{END}"
+"オズ
+『音声確認』
+<pause>
+オズ
+『新陳代謝超促進光線、照射』{END}","OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+OZ:<nl>
+ “Activating Super Metabolic
+ Acceleration Ray.”{END}"
+"<Arche>
+「え、えっ？」
+<pause>
+<Cless>
+「ケガが治ってる・・・」
+<pause>
+<Mint>
+「す、すごい・・・」
+<pause>
+<Klarth>
+「なんという科学力だ！！」<wait>{END}","<Arche>:<nl>
+ Wh-Wha?
+<pause>
+<Cless>:<nl>
+ Our wounds are healing...
+<pause>
+<Mint>:<nl>
+ A-Amazing...
+<pause>
+<Klarth>:<nl>
+ Such fantastic technology!<wait>{END}"
+"オズ
+『音声確認』
+<pause>
+オズ
+『データベース検索開始』
+<pause>
+オズ
+『・・・・・・』
+<pause>
+オズ
+『検索終了』
+<pause>
+オズ
+『精霊<var_D600>について』
+<pause>
+オズ
+『認識番号ＷＯＣ１６５２７』
+<pause>
+オズ
+『精神世界の生命体』
+<pause>
+オズ
+『主エネルギー源は太陽光内に含
+　まれる紫外線』
+<pause>
+オズ
+『ある一定の電波に弱い』
+<pause>
+オズ
+『太陽暦２５４３年８月２３日、
+　１２時５６分、トール上空にて
+　捕獲される』
+<pause>
+オズ
+『ニ年に渡り精密検査を行う』
+<pause>
+オズ
+『その後、精神世界と物質世界の
+　空間の組成物質の相違により検
+　査の続行は不可能と断定』
+<pause>
+オズ
+『その後、超低温超高圧室内にて
+　保管、現在に至る』<wait>{END}","OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+OZ:<nl>
+ “Commencing database retrieval.”
+<pause>
+OZ:<nl>
+ “......”
+<pause>
+OZ:<nl>
+ “Retrieval complete.”
+<pause>
+OZ:<nl>
+ “Data Concerning Spirit Aska”
+<pause>
+OZ:<nl>
+ “Confirmation Code WOC16527”
+<pause>
+OZ:<nl>
+ “Spirit World Life Form”
+<pause>
+OZ:<nl>
+ “Main source of energy is
+ ultraviolet rays contained in
+ sunlight.”
+<pause>
+OZ:<nl>
+ “Weak to a certain level of
+ electromagnetic waves.”
+<pause>
+OZ:<nl>
+ “August 23, 2543 Solar Calendar,
+ captured in airspace above Thor at
+ 12:56 P.M.”
+<pause>
+OZ:<nl>
+ “Studied in detail over two years.”
+<pause>
+OZ:<nl>
+ “Afterward, determination that
+ examination cannot continue due to
+ incompatibility between Spirit World
+ and Physical World spatial construction.”
+<pause>
+OZ:<nl>
+ “Afterward, stored in a cryogenic,
+ super-compressed chamber until
+ present time.”<wait>{END}"
+"<Klarth>
+「どうやら、<var_D600>はここにいる
+　らしい」
+<pause>
+<Klarth>
+「オズよ、精霊<var_D600>を解放して
+　くれないか？」
+<pause>
+オズ
+『音声確認』
+<pause>
+オズ
+『第３ブロックを一時的に隔離、
+　保管室２４０３１７号室を解放
+　します』{END}","<Klarth>:<nl>
+ So, Aska's been sealed by their
+ technology...
+<pause>
+<Klarth>:<nl>
+ OZ! I command you!
+ Release the spirit Aska!
+<pause>
+OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+OZ:<nl>
+ “Block #3 temporarily isolated,
+ storage chamber #240317
+ disengaged.”{END}"
+"<Klarth>
+「あなたが、精霊<var_D600>・・・」
+<pause>
+<var_D600>
+「私を解放してくれたのは、あな
+　た達ですか？」
+<pause>
+<Klarth>
+「その通りだ、今、世界は危険な
+　状況におちいっている」
+<pause>
+<Klarth>
+「あなたの力を貸してもらいたい」
+<pause>
+<var_D600>
+「状況は大体わかっています」
+<pause>
+<var_D600>
+「力になりましょう」
+<pause>
+<var_D600>
+「ではトパーズの指輪を出して下
+　さい」
+<pause>
+<var_D600>
+「いにしえの契約を結びます」{END}","<Klarth>:<nl>
+ So, you are the spirit Aska...
+<pause>
+Aska:<nl>
+ Are you the one who released me?
+<pause>
+<Klarth>:<nl>
+ That is correct.
+ I'm afraid that the world is
+ currently in some peril.
+<pause>
+<Klarth>:<nl>
+ Would you consider lending us your
+ power to overcome it?
+<pause>
+Aska:<nl>
+ I understand the gist of your
+ circumstances.
+<pause>
+Aska:<nl>
+ I shall aid you.
+<pause>
+Aska:<nl>
+ Now, if you please, bring forward
+ the Topaz Ring.
+<pause>
+Aska:<nl>
+ Now, perform the ancient rite of
+ pact.{END}"
+"<Klarth>
+「我、今、光の精に願い奉る」
+<pause>
+<Klarth>
+「指輪の盟約のもと、我に精霊を
+　従わせたまえ・・・」
+<pause>
+<Klarth>
+「我が名は<Klarth>・・・」{END}","<Klarth>:<nl>
+ Here and now, I offer my request
+ to the Spirit of Light.
+<pause>
+<Klarth>:<nl>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>:<nl>
+ My name is <Klarth>...{END}"
+<color_0002><Klarth>は<var_D600>を召喚できるようになりました。<color_0000>{END},<color_0002><Klarth> can now summon Aska.<color_0000>{END}
+"<audio_104B>オズ
+『メインシステム起動バイオロム
+　チェック』<wait>{END}","<audio_104B>OZ:<nl>
+ “Main System activated.<nl>
+ BioROM: Check.”<wait>{END}"
+"<audio_104B>アナウンス
+『メインシステム起動バイオロム
+　チェック』<wait>{END}","<audio_104B>Intercom:<nl>
+ “Main System activated.<nl>
+ BioROM: Check.”<wait>{END}"
+"<audio_104D>オズ
+『マザーコンピュータルームへよ
+　うこそ』
+<pause>
+<audio_104E>オズ
+『私はトールシティの全機能をサ
+　ポートするマザーコンピュータ
+　システム・オズ』
+<pause>
+<audio_104F>オズ
+『使用目的を選択して下さい』<wait>{END}","<audio_104D>OZ:<nl>
+ “Welcome to the Mother Computer
+ Room.”
+<pause>
+<audio_104E>OZ:<nl>
+ “I am Mother Computer System OZ.
+ I support all of Thor City's
+ functions.”
+<pause>
+<audio_104F>OZ:<nl>
+ “Select your intended operation.”<wait>{END}"
+"アナウンス
+『マザーコンピュータルームへよ
+　うこそ』<wait>{END}","Intercom:<nl>
+ “Welcome to the Mother Computer
+ Room.”<wait>{END}"
+"アナウンス
+『私はトールシティの全機能をサ
+　ポートするマザーコンピュータ
+　システム・オズ』<wait>{END}","Intercom:<nl>
+ “I am Mother Computer System OZ.
+ I support all of Thor City's
+ functions.”<wait>{END}"
+"オズ
+『使用目的を選択して下さい』<wait>{END}","OZ:<nl>
+ “Please select your intended
+ operation.”<wait>{END}"
+"<audio_1051>オズ
+『音声認識』
+<pause>
+<audio_1052>オズ
+『タイムワープ・デバイスドライ
+　バー起動』
+<pause>
+<audio_1053>オズ
+『反重力エネルギーチェック』
+<pause>
+<audio_1054>オズ
+『・・・・・・』<wait>{END}","<audio_1051>OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+<audio_1052>OZ:<nl>
+ “Time Warp Device Driver
+ activated.”
+<pause>
+<audio_1053>OZ:<nl>
+ “Anti-Gravity Energy: Check”
+<pause>
+<audio_1054>OZ:<nl>
+ “......”<wait>{END}"
+"<audio_1055>オズ
+『時間転移に要するエネルギーの
+　蓄積を確認・・・』
+<pause>
+<audio_1056>オズ
+『転移相対年数を述べよ』<wait>{END}","<audio_1055>OZ:<nl>
+ “Level of energy necessary for
+ Time Warp confirmed...”
+<pause>
+<audio_1056>OZ:<nl>
+ “State the time and place of your
+ destination.”<wait>{END}"
+"<audio_1059>オズ
+『音声認識』
+<pause>
+<audio_105A>オズ
+『時間転移先空間座標、安全条件
+　クリア』
+<pause>
+<audio_105B>オズ
+『メインプロセスを開始します』
+<pause>
+<audio_105C>オズ
+『乗員は所定の位置に移動して下
+　さい』<wait>{END}","<audio_1059>OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+<audio_105A>OZ:<nl>
+ “Pre-Time-Warp Coordinate Safety
+ Check: Clear.”
+<pause>
+<audio_105B>OZ:<nl>
+ “Commencing Main Process.”
+<pause>
+<audio_105C>OZ:<nl>
+ “All personnel, please move to the
+ indicated positions.”<wait>{END}"
+"<audio_105D><Cless>
+「行こう、みんな！！」{END}","<audio_105D><Cless>:<nl>
+ Let's go, you guys!!{END}"
+"オズ
+『乗員を確認しました』<wait>{END}","OZ:<nl>
+ “Personnel verified.”<wait>{END}"
+"オズ
+『転移空間を隔離します』<wait>{END}","OZ:<nl>
+ “Isolating warp space.”<wait>{END}"
+"<audio_1060>オズ
+『・・・・・・』<wait>{END}","<audio_1060>OZ:<nl>
+ “......”<wait>{END}"
+"オズ
+『空間の隔離を完了しました』<wait>{END}","OZ:<nl>
+ “Spatial isolation complete.”<wait>{END}"
+"オズ
+『界面を現在の時間から切断しま
+　す』<wait>{END}","OZ:<nl>
+ “Cutting interface from present
+ time.”<wait>{END}"
+"オズ
+『反物質エネルギー解放・・・』<wait>{END}","OZ:<nl>
+ “Anti-gravity energy released...”<wait>{END}"
+"<audio_1064>オズ
+『・・・・・・』<wait>{END}","<audio_1064>OZ:<nl>
+ “...”<wait>{END}"
+"オズ
+『ワームホール発生、ベビーユニ
+　バース確認』<wait>{END}","OZ:<nl>
+ “Wormhole generated, baby
+ universe verified.”<wait>{END}"
+"オズ
+『タイムワープオペレーションシ
+　ステム＝オールグリーン』<wait>{END}","OZ:<nl>
+ “Time Warp Operation System: All
+ Green.”<wait>{END}"
+"オズ
+『タイムワープ・スタート』<wait>{END}","OZ:<nl>
+ “Time Warp: Start.”<wait>{END}"
+"<audio_1068>オズ
+『プロセス終了を確認しました』{END}","<audio_1068>OZ:<nl>
+ “Completion of process verified.”{END}"
+"<audio_1631>『不法侵入者発見、都市防衛シス
+　テム起動』
+<pause>
+<audio_1632>『侵入者ヲ直チニ排除セヨ』
+<pause>
+<audio_1633>『迎撃デバイス、攻撃開始』{END}","<audio_1631>“Intruders detected.
+City Defense System activated.”
+<pause>
+<audio_1632>“Eliminate intruders immediately.”
+<pause>
+<audio_1633>“Security devices, commence
+attack.”{END}"
+"<audio_1634><Cless>
+「敵が何か落としていったみたい
+　だけど・・・」{END}","<audio_1634><Cless>:<nl>
+ Those thingamabobs dropped
+ something...{END}"
+"<audio_1635><Cless>
+「これは契約の指輪だ！」<wait>{END}","<audio_1635><Cless>:<nl>
+ Hey, it's a pact ring!<wait>{END}"
+<color_0002>契約の指輪<item_6201>を手に入れました。<color_0000>{END},<color_0002>Acquired the <item_6201> pact ring.<color_0000>{END}
+"音声
+『いらっしゃいませ』{END}","Voice:<nl>
+ “Welcome.”{END}"
+"音声
+『ホログラフィテレビ表示』<wait>{END}","Voice:<nl>
+ “Activating Holographic TV Display.”<wait>{END}"
+"<Cless>
+「な、何だあれは？」
+<pause>
+<Klarth>
+「幻影？」
+<pause>
+<Klarth>
+「・・・・・・」
+<pause>
+<Klarth>
+「なるほど、あれが電子投影装置
+　か！！」
+<pause>
+<Arche>
+「電子トウエ？？」
+<pause>
+<Arche>
+「それっていったい何なのさ？」
+<pause>
+<Klarth>
+「超古代文明の古文書で見たこと
+　があるんだ」
+<pause>
+<Klarth>
+「超古代人は電気の力を生活のあ
+　らゆる箇所で利用していたとい
+　うことだ」
+<pause>
+<Klarth>
+「この電子投影装置、古代の人は
+　『テレビジョン』と呼んでいた
+　らしいけどな」<wait>{END}","<Cless>:<nl>
+ Whoa, what the!?
+<pause>
+<Klarth>:<nl>
+ An illusion?
+<pause>
+<Klarth>:<nl>
+ ......
+<pause>
+<Klarth>:<nl>
+ Aha, no...<nl>
+ It's an electronic projection
+ system!!!
+<pause>
+<Arche>:<nl>
+ Um, huh!?
+<pause>
+<Arche>:<nl>
+ What'cha talkin' about!?
+<pause>
+<Klarth>:<nl>
+ Well, it's something I read about in
+ an ancient article during my
+ research...
+<pause>
+<Klarth>:<nl>
+ First and foremost, the ancients
+ used a power called electricity for
+ countless applications in their
+ day-to-day lives.
+<pause>
+<Klarth>:<nl>
+ This projection system, known to
+ the people of the era as
+ “television,” was one of many such
+ devices to utilize it.<wait>{END}"
+"音声
+『チャンネルを選んで下さい』
+<pause>
+<speed_0000><color_0002>１。ゲームチャンネル
+２。パブリックチャンネル
+３。サイエンスチャンネル
+４。ニュースチャンネル<color_0000><speed_FFFF>{END}","Voice:<nl>
+ “Please select a channel.”
+<pause>
+<speed_0000><color_0002>1. Game Channel<nl>
+2. Public Access Channel<nl>
+3. Science Channel<nl>
+4. News Channel<color_0000><speed_FFFF>{END}"
+"『サイエンスチャンネル』
+<pause>
+先ごろ光の精霊<var_D600>が捕獲され
+ました。
+<pause>
+生体調査を担当する科学研究所で
+は近日中に<var_D600>の精密検査を行
+う予定です。<wait>{END}","“Science Channel”
+<pause>
+The Spirit of Light, Aska, was
+recently captured.
+<pause>
+The head of biological studies
+expects to begin detailed study on it
+within a few days.<wait>{END}"
+"『パブリックチャンネル』
+<pause>
+激しい戦いの続くオーディーンで
+はラグナロクの戦いに参じる勇気
+ある戦士を広く求めています。
+<pause>
+主神オーディーンの試練に耐えた
+戦士には、すばらしい武器が授与
+されるとのことです。<wait>{END}","“Public Access Channel”
+<pause>
+As the fierce fighting in the
+Ragnarok War continues, Odin's
+search for brave warriors
+broadens.
+<pause>
+Warriors capable of withstanding
+the tests of Odin, the chief god,
+have been promised magnificent
+weapons in reward for their
+efforts.<wait>{END}"
+"『ニュースチャンネル』
+<pause>
+トップニュースは政局です。
+<pause>
+今日午後２時頃、フェンリル王国
+とオーディーン共和国の軍事境界
+線で激しい戦闘がありました。
+<pause>
+フェンリル王国ラルフ一世国王と
+オーディーン共和国ジェノス大統
+領との和平宣言は三日で崩れたこ
+とになります。
+<pause>
+これを受けてトール＝ガルガ大統
+領は次のように述べています。
+<pause>
+『私としてはこの紛争はあくまで
+　話し合いで解決して欲しいと、
+　思っています』
+<pause>
+『しかし最終手段として、空爆も
+　辞さない考えです』
+<pause>
+ガルガ大統領の軍事介入発言はこ
+れからも議論を呼びそうです。
+<pause>
+次のニュースです。
+<pause>
+トール国営科学研究所はこのほど
+サミエル彗星の軌道は地球をかす
+める程度で、落下する危険はない
+と発表しました。
+<pause>
+記者会見の模様が届いています。
+<pause>
+『当初は都市トールに落下するの
+　では、という話もありましたが、
+　あれは全くのデマです』
+<pause>
+『スーパーコンピュータがはじき
+　出した計算結果によれば』
+<pause>
+『彗星は尾が地球をかすめる程度
+　で、何ら影響はないということ
+　です』<wait>{END}","“News Channel”
+<pause>
+Today, our leading story is on
+politics.
+<pause>
+At approximately 2:00 P.M. today,
+the Kingdom of Fenrir and the Odin
+Republic engaged in fierce combat
+along their military borders.
+<pause>
+King Ralph I of Fenrir and Odin's
+President Janos' declaration of
+peace broke down in three days.
+<pause>
+In response, Gargas, President of
+Thor, issued this statement:
+<pause>
+“I continue to hope that this conflict
+may yet be resolved through
+dialogue.”
+<pause>
+“However, if the situation does not
+calm, we will intervene and end it
+by means of aerial bombing.”
+<pause>
+It seems there will be further
+debate concerning President Gargas'
+military proposal.
+<pause>
+Now, for our next story...
+<pause>
+Thor's National Science Institute has
+announced that Samiel's Comet,
+whose course is expected to graze
+the planet, has almost no chance of
+striking the planet itself.
+<pause>
+We have video from the press
+conference.
+<pause>
+“At first, some said that the city of
+Thor will fall, but that was complete
+demagoguery.”
+<pause>
+“According to our Super Computer's
+calculations...”
+<pause>
+“The comet's tail will miss our
+planet by just enough distance so as
+to not disturb it in any way.”<wait>{END}"
+"『ゲームチャンネル』
+<color_0002>１。ゲームスタート
+２。ゲームの説明<color_0000>{END}","“Game Channel”
+<pause>
+<color_0002>1. Start the game<nl>
+2. Read the manual<color_0000>{END}"
+あなたの得点は<num5_C0006104>点です。<wait>{END},You scored <num5_C0006104> points.<wait>{END}
+"<color_0002>
+　『ＧＲＯＯＶＹ<Arche>』
+<pause>
+このゲームは横スクロールのシューティングゲームで、方向キーで<Arche>を操作します。
+<pause>
+<var_0102>ボタンで前方に、<var_0202>ボタンで後方に攻撃することができます。
+<pause>
+また<var_0102><var_0202>同時押しで上下攻撃が可能です。
+<pause>
+右上のゲージが緑色になると<var_0302>ボタンで一定時間無敵になる特殊攻撃が使えます。
+<pause>
+ＳＴＡＲＴボタンを押すとポーズがかかります。
+<pause>
+ポーズ中に<var_0602>ボタンを押すとゲームを途中終了することができます。<wait><color_0000>{END}","<color_0002>
+“GROOVY <Arche>”
+<pause>
+This is a side-scrolling “shoot 'em
+up” game starring <Arche>.
+<pause>
+The basic controls are as follows:
+<pause>
+<var_0002> : Move <Arche><nl>
+<var_0102> : Shoot forward.<nl>
+<var_0202> : Shoot backward.<nl>
+<var_0102>+<var_0202> : Vertical attack.
+<pause>
+<var_0302> : Execute special attack and gain
+temporary invincibility (only
+available when ENERGY gauge is
+green).
+<pause>
+START : Pause game.<nl>
+START+<var_0602>: Quit game.<wait><color_0000>{END}"
+"<audio_0FD5><Arche>
+「わあぁ・・・」
+<pause>
+<audio_0FD6><Mint>
+「ここは本当に海の底なのでしょ
+　うか？」
+<pause>
+<audio_0FD7><Arche>
+「あ、上に海があるぅ<heart>」{END}","<audio_0FD5><Arche>:<nl>
+ Wow...
+<pause>
+<audio_0FD6><Mint>:<nl>
+ Have we truly reached the bottom
+ of the sea?
+<pause>
+<audio_0FD7><Arche>:<nl>
+ Well, the sea's above us, not below
+ us <heart>{END}"
+"<audio_0FD8><Klarth>
+「おい、遠くに行くなよ」{END}","<audio_0FD8><Klarth>:<nl>
+ Hey, don't go wandering off now.{END}"
+"<audio_0FD9><Klarth>
+「目では確認できないが、水の圧
+　力に耐えられるくらいの壁で囲
+　まれているんだ」
+<pause>
+<audio_0FDA><Cless>
+「時間転移装置なんて、本当にあ
+　るんだろうか？」
+<pause>
+<audio_0FDB><Klarth>
+「とりあえず、トールが沈んでい
+　るのは本当だったんだ」
+<pause>
+<audio_0FDC><Klarth>
+「偉大な魔術師の言葉を信じるし
+　かないだろう？」{END}","<audio_0FD9><Klarth>:<nl>
+ It's hard to tell from here, but it
+ seems the city is surrounded by
+ walls sturdy enough to withstand
+ the water pressure.
+<pause>
+<audio_0FDA><Cless>:<nl>
+ Can there really be a time traveling
+ device here?
+<pause>
+<audio_0FDB><Klarth>:<nl>
+ At the very least, we've just
+ discovered that the literature about
+ Thor sinking was true.
+<pause>
+<audio_0FDC><Klarth>:<nl>
+ If the finest mages of the world
+ have been right about that much,
+ then why start doubting them
+ now?{END}"
+"<audio_1648><Cless>
+「ど、どうやらおさまったみたい
+　だ」
+<pause>
+<audio_1649><Klarth>
+「しかし、なんという科学力だ！」
+<pause>
+<audio_164A><Klarth>
+「大陸をまるごと持ち上げてしま
+　うなんて・・・」{END}","<audio_1648><Cless>:<nl>
+ The...the shaking stopped.
+<pause>
+<audio_1649><Klarth>:<nl>
+ To think, they even had the
+ capacity to elevate an entire
+ continent...
+<pause>
+<audio_164A><Klarth>:<nl>
+ It's just...breathtaking...{END}"
+"<audio_104A><Chester>
+「これが時間転移装置か・・・」<wait>{END}","<audio_104A><Chester>:<nl>
+ So this is that time travel thingy
+ you were talking about, eh man?<wait>{END}"
+"<audio_104C>ハリソン
+「おお、これは・・・」{END}","<audio_104C>Harrison:<nl>
+ Ohh, how interesting...{END}"
+"<audio_1050><Cless>
+「目的は時間転移だ！」<wait>{END}","<audio_1050><Cless>:<nl>
+ OZ! I command you!
+ Start the time travel process!<wait>{END}"
+"<audio_1057>ハリソン
+「時代は、今からちょうど５０年
+　後・・・」
+<pause>
+<audio_1058><Cless>
+「場所は未来のトーティス村だ」{END}","<audio_1057>Harrison:<nl>
+ Our destination is just about fifty
+ years from the present...
+<pause>
+<audio_1058><Cless>:<nl>
+ The place is the village of Totus of
+ that time.{END}"
+"<audio_1059>オズ
+『音声認識』
+<pause>
+<audio_105A>オズ
+『時間転移先空間座標、安全条件
+　クリア』
+<pause>
+<audio_105B>オズ
+『メインプロセスを開始します』
+<pause>
+<audio_105C>オズ
+『乗員は所定の位置に移動して下
+　さい』<wait>{END}","<audio_1059>OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+<audio_105A>OZ:<nl>
+ “Pre-Time-Warp Coordinate Safety
+ Check: Clear.”
+<pause>
+<audio_105B>OZ:<nl>
+ “Commencing Main Process.”
+<pause>
+<audio_105C>OZ:<nl>
+ “All personnel, please move to the
+ indicated positions.”<wait>{END}"
+"<audio_105D><Cless>
+「行こう、みんな！！」{END}","<audio_105D><Cless>:<nl>
+ Let's go, you guys!!{END}"
+"<audio_1068>オズ
+『プロセス終了を確認しました』{END}","<audio_1068>OZ:<nl>
+ “Completion of process verified.”{END}"
+"<audio_0FDD><Cless>
+「ここは・・・」{END}","<audio_0FDD><Cless>:<nl>
+ Whoa...{END}"
+"<audio_0FDE><Cless>
+「な、何だあれは！？」{END}","<audio_0FDE><Cless>:<nl>
+ H-How can this be!?{END}"
+"<audio_0FDF><Cless>
+「床がすけて下に町が見える」
+<pause>
+<audio_0FE0><Klarth>
+「何ということだ、信じられん」
+<pause>
+<audio_0FE1><Arche>
+「わーい、高〜い<heart>」{END}","<audio_0FDF><Cless>:<nl>
+ There's a huge city right
+ underneath us!
+<pause>
+<audio_0FE0><Klarth>:<nl>
+ Incredible...<nl>
+ I don't believe it.
+<pause>
+<audio_0FE1><Arche>:<nl>
+ Wooow, soooo high! <heart>{END}"
+"<audio_0FE2><Klarth>
+「これは・・・」
+<pause>
+<audio_0FE3><Klarth>
+「このトールにあんな建物が存在
+　したとは」
+<pause>
+<audio_0FE4><Mint>
+「まだお昼なのに外は夜・・・」
+<pause>
+<audio_0FE5><Arche>
+「これもトールの技術ってやつか
+　もね」
+<pause>
+<audio_0FE6><Klarth>
+「もしや、これがトールの昔の姿
+　なのか・・・」{END}","<audio_0FE2><Klarth>:<nl>
+ Wow...
+<pause>
+<audio_0FE3><Klarth>:<nl>
+ What a building...
+<pause>
+<audio_0FE4><Mint>:<nl>
+ It's actually morning right now, but
+ it looks like midnight outside that
+ window...
+<pause>
+<audio_0FE5><Arche>:<nl>
+ Maybe it's 'cause of that Thor
+ technology stuff.
+<pause>
+<audio_0FE6><Klarth>:<nl>
+ Could be a replication of Thor's
+ former glory...{END}"
+"敵は画面奥から出現します。
+<pause>
+手前に現れる位置に合わせて
+ショットを撃ちましょう。
+<pause>
+また、自キャラの当たり判定はホウキだけにあり、くるくる回っていても自キャラの頭に敵の弾は当たりません。<wait>{END}","Enemies appear from the
+background and move to the
+foreground of the screen.
+<pause>
+Match your position up with where
+they appear and shoot them.
+<pause>
+Also, when your character's broom
+alone is struck, your character's
+head cannot be hit by enemy rounds
+as you twirl around.<wait>{END}"
+"得点レートは時間で上がり、敵を倒したときの得点倍率が上昇します。
+<pause>
+ただしダメージを受けると下がってしまいます。<wait>{END}","As your rate rises with time, your
+score multiplier for defeating
+enemies increases.
+<pause>
+However, sustaining damage will
+decrease it.<wait>{END}"
+"上下方向ショットが最高レベルになると「スパークウェーブ」になります。
+<pause>
+「スパークウェーブ」の黒い球は通常弾を打ち消すことができ、ダメージもあります。
+<pause>
+上下に障害物がある場所ではこれを利用するのがよいでしょう。<wait>{END}","When your vertical shots reach
+maximum level, they become a
+“Spark Wave.”
+<pause>
+A “Spark Wave” can negate normal
+black ball shots. They inflict damage,
+as well.
+<pause>
+You can use vertical obstacles to
+your advantage.<wait>{END}"
+"特殊ショットは画面右上のゲージが緑色に光っている時に使用可能です。
+<pause>
+回数制限があるので、ここぞという時に使いましょう。
+<pause>
+ゲージを最大まで上げたままでいると、赤色になりボーナス得点が入ります。<wait>{END}","You can use a Special Shot when the
+upper right gauge glows green.
+<pause>
+There is a limit to how many you
+can use, so save them for when the
+time is right.
+<pause>
+You get bonus points if you raise
+the gauge until it is colored red.<wait>{END}"
+"パワーアップは三種類の武器に三段階あります。
+<pause>
+１０万点以上で最高レベルの時にダメージを受けると一段階目に戻ってしまいます。<wait>{END}","There are three levels of weapon
+power ups.
+<pause>
+When above 100,000 points and at
+maximum level, taking damage will
+return you to the first level.<wait>{END}"
+"一度もダメージを受けずにいると
+「ノーミスボーナス」が入ります。
+<pause>
+ダメージを受けた後、ノーダメージの期間が続くと「ノーダメージボーナス」が入ります。<wait>{END}","If you manage to avoid taking any
+damage, you will earn “No Miss
+Bonus.”
+<pause>
+If after taking damage, but you
+manage to avoid additional damage
+for an amount of time, you will
+earn “No Damage Bonus.”<wait>{END}"
+"ボスが多量に出す弾は、安全地帯があるのでそこへ逃げ込むのが得策です。
+<pause>
+各種攻撃に応じて次々に位置を変更していきましょう。<wait>{END}","It is wise to flee and take refuge in
+a safe location when a boss fires a
+large volley.
+<pause>
+When faced with different kinds of
+attacks, change your position
+accordingly.<wait>{END}"
+"上下から回転しながら現れる敵は、いったん停止するまで無敵です。
+<pause>
+出現するすき間に移動しましょう。<wait>{END}","Enemies rotating vertically are
+invulnerable until they stop.
+<pause>
+When they appear, move out of the
+way.<wait>{END}"
+"アイテムの中には得点レートの上がる「レートアップ」アイテムがあります。
+<pause>
+これは取った場所が画面右であるほどレートの上昇が高いので出現と同時に取りましょう。<wait>{END}","There is an item called “Rate Up”
+which increases the score multiplier.
+<pause>
+The faster you grab the item once
+it appears, the more the multiplier
+increases, so be quick!<wait>{END}"
+"得点レートが４の倍数を越えるごとに「ランクアップボーナス」がもらえます。
+<pause>
+しかし同時に、画面に出る通常弾の最大値が上がるので注意しましょう。<wait>{END}","If your score rate goes over X4 you
+obtain a “Rank Up Bonus.”
+<pause>
+However, the normal rounds
+appearing on the screen ramp up to
+the maximum level, so be careful.<wait>{END}"
+"得点レートは時間で上昇しますが、実はショットを撃たないでいるとさらに上昇します。
+<pause>
+これが更なる得点アップのコツとなるでしょう。
+<pause>
+ただ、これはノーミスクリアができてからにしましょう。<wait>{END}","The key to getting a high score is to
+not get hit.
+<pause>
+The score multiplier gradually
+increases, but will reset if you take
+damage.
+<pause>
+So do your best and aim for a “No
+Miss Clear”?<wait>{END}"
+"すばやく連続して敵を倒すと「ハイスピードアタックボーナス」がもらえることがあります。
+<pause>
+敵によっては必ず途切れてしまうこともあるので、「取れる場所」を確認しましょう。<wait>{END}","You can obtain a “High Speed Attack
+Bonus” by taking down enemies in
+rapid succession.
+<pause>
+All enemies will pause at some point,
+so an effective tactic is to
+memorize their stop and go
+patterns.<wait>{END}"
+"更に得点を上げるには、レートの変動のルールを知ることです。
+<pause>
+「ハイスピードボーナス」が入らないときは、敵を倒す時間を遅らせたほうが、それだけレートも上がっている、ということです。
+<pause>
+このプレイはノーミスクリア前提でしょう。<wait>{END}","There is an additional rule to
+increasing the score multiplier.
+<pause>
+When you are not in High Speed
+Bonus mode, the multiplier increase
+is proportional to how quickly you
+defeat the enemy.
+<pause>
+This must be taken into
+consideration if you wish to attain
+No Miss Clear.<wait>{END}"
+サルでしょう。<wait>{END},It's a monkey.<wait>{END}
+<color_0002><speed_0001><Arche>は『<var_AE01>』の称号を得ました。<color_0000>{END},"<color_0002><speed_0001><Arche> has earned the title
+“<var_AE01>.”<color_0000>{END}"
+"ロボ
+「ワタシハ、音楽ノ記録ト再生ヲ
+　仕事トスル、みゅーじっくろぼ
+　デス・・・」
+<pause>
+ロボ
+「ワタシノ記録シタらいぶ映像ヲ
+　見マスカ？」{END}","Robot:<nl>
+ I AM MUSICAL ROBOT.
+ I AM PROGRAMMED TO DISPLAY MUSIC
+ VIDEO.
+<pause>
+Robot:<nl>
+ WOULD YOU LIKE TO SEE RECORDED
+ CONCERT?{END}"
+"ロボ
+「了解シマシタ・・・」{END}","Robot:<nl>
+ UNDERSTOOD...{END}"
+"ロボ
+「イツデモドウゾ・・・」{END}","Robot:<nl>
+ COME BACK ANY TIME...{END}"
+"タムラ
+「それじゃいくよ〜」{END}","Tamura:<nl>
+ No, no, that's not it...{END}"
+"補給ロボ
+「補給シマスカ？」
+<pause>
+<color_0002><speed_0000>１。<item_7700>
+２。<item_7800>
+３。<item_8700>
+４。<item_8800><speed_FFFF>{END}","Supply Robot:<nl>
+ DO YOU REQUIRE SUPPLIES?
+<pause>
+<color_0002><speed_0000>1. <item_7700>s<nl>
+2. <item_7800>s<nl>
+3. <item_8700>s<nl>
+4. <item_8800>s<speed_FFFF>{END}"
+<color_0002><item_7700>がいっぱいになりました。<color_0000>{END},<color_0002>Acquired a full supply of <item_7700>s.<color_0000>{END}
+<color_0002><item_7800>がいっぱいになりました。<color_0000>{END},"<color_0002>Acquired a full supply of Orange
+Gels.<color_0000>{END}"
+<color_0002><item_8700>がいっぱいになりました。<color_0000>{END},"<color_0002>Acquired a full supply of Panacea
+Bottles.<color_0000>{END}"
+<color_0002><item_8800>がいっぱいになりました。<color_0000>{END},"<color_0002>Acquired a full supply of Life
+Bottles.<color_0000>{END}"
+"<color_0000>補給ロボ
+「イツデモドウゾ」{END}","<color_0000>Supply Robot:<nl>
+ COME BACK ANY TIME.{END}"

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_544">
+        <source>Elwyn and Nancy seem to be very happy now.</source>
+        <target state="translated">Elwyn and Nancy seem to be very happy now.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_545">
+        <source>Doesn't every girl dream
+about her wedding day?</source>
+        <target state="translated">Doesn't every girl dream
+about her wedding day?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_546">
+        <source>Very true. Someday, even I
+want my prince on a white horse to--</source>
+        <target state="translated">Very true. Someday, even I
+want my prince on a white horse to--</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_547">
+        <source>Prince on a white horse, eh?</source>
+        <target state="translated">Prince on a white horse, eh?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_548">
+        <source>Prince on a white horse, eh?</source>
+        <target state="translated">Prince on a white horse, eh?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_549">
+        <source>Wh-what are you looking at me for?</source>
+        <target state="translated">Wh-what are you looking at me for?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_550">
+        <source>You're not royalty, but you DID fly a
+pearly white horse before. Hmm, hmm, hmm!</source>
+        <target state="translated">You're not royalty, but you DID fly a
+pearly white horse before. Hmm, hmm, hmm!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_551">
+        <source>N-no! That is not what I meant!</source>
+        <target state="translated">N-no! That is not what I meant!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

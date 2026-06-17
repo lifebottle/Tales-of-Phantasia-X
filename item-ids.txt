@@ -1,0 +1,404 @@
+0000 Dummy
+0001 ? Sword
+0002 ? Sword
+0003 ? Sword
+0004 ? Sword
+0005 ? Sword
+0006 ? Sword
+0007 ? Sword
+0008 ? Sword
+0009 ? Sword
+000A ? Sword
+000B ? Sword
+000C ? Sword
+000D ? Sword
+000E ? Sword
+000F ? Spear
+0010 ? Axe
+0011 ? Axe
+0012 ? Halberd
+0013 ? Bow
+0014 ? Bow
+0015 ? Bow
+0016 ? Bow
+0017 ? Bow
+0018 ? Bow
+0019 ? Bow
+001A ? Rod
+001B ? Rod
+001C ? Rod
+001D ? Grimoire
+001E ? Grimoire
+001F ? Grimoire
+0020 ? Grimoire
+0021 ? Grimoire
+0022 ? Grimoire
+0023 ? Clothing
+0024 ? Clothing
+0025 ? Armor
+0026 ? Armor
+0027 ? Armor
+0028 ? Armor
+0029 ? Helmet
+002A ? Helmet
+002B ? Helmet
+002C ? Hat
+002D ? Spear
+002E ? Axe
+002F ? Bow
+0030 Pendant
+0031 Stuffed <Cless>
+0032 Unicorn Earring
+0033 Wraith Ruby
+0034 Morrison's Book
+0035 Broken Bow
+0036 Elemental Orb
+0037 Demeter's Key
+0038 Moria Mine Permit
+0039 Royal Crest
+003A Lundgrom's Letter
+003B Broken Rings
+003C Lava Key
+003D Card
+003E Mysterious Mirror
+003F Golden Key
+0040 Wing Pack
+0041 Ancient Scroll
+0042 Rozania's Dress
+0043 Common Key
+0044 Sacred Wood
+0045 Quicksilver
+0046 Agalloch Incense
+0047 Ukiyo-e
+0048 Coral
+0049 Marble
+004A Earthenware Pot
+004B Tapestry
+004C Ebony Wood
+004D Pelt
+004E Caterpillar Fungus
+004F Teacup
+0050 Shamisen
+0051 Ivory
+0052 Carrot
+0053 Cabbage
+0054 Lettuce
+0055 Radish
+0056 Cucumber
+0057 Potato
+0058 Tomato
+0059 Onion
+005A Apple
+005B Lemon
+005C Strawberry
+005D Banana
+005E Pineapple
+005F Melon
+0060 Grapes
+0061 Mangosteen
+0062 Prune
+0063 Tuna
+0064 Mackerel
+0065 Sardine
+0066 Squid
+0067 Octopus
+0068 Shrimp
+0069 Chicken
+006A Beef
+006B Pork
+006C Milk
+006D Cheese
+006E Konjac
+006F Kelp
+0070 Egg
+0071 Miso
+0072 Bread
+0073 Rice
+0074 Seaweed
+0075 Spices
+0076 Pasta
+0077 Apple Gel
+0078 Orange Gel
+0079 Melange Gel
+007A Lemon Gel
+007B Pineapple Gel
+007C Miracle Gel
+007D Elixir
+007E Basilisk Scale
+007F Sage
+0080 Savory
+0081 Verbena
+0082 Lavender
+0083 Red Sage
+0084 Red Savory
+0085 Red Verbena
+0086 Red Lavender
+0087 Panacea Bottle
+0088 Life Bottle
+0089 Flare Bottle
+008A Liqueur Bottle
+008B Holy Bottle
+008C Dark Bottle
+008D Rune Bottle
+008E Charm Bottle
+008F Miracle Charm
+0090 World Map
+0091 Scout Orb
+0092 Hourglass
+0093 Chronos' Hourglass
+0094 Combo Counter
+0095 Magic Lens
+0096 Pickaxe
+0097 Magical Rouge
+0098 Red Lantern
+0099 Green Torch
+009A Blue Candle
+009B Rope
+009C Drum Set
+009D Mahjong Tile
+009E Monster Book
+009F Collector's Book
+00A0 Ticket
+00A1 Long Sword
+00A2 Saber
+00A3 Rapier
+00A4 Knight's Saber
+00A5 Verdun
+00A6 Colichemarde
+00A7 Fine Saber
+00A8 Walloon Sword
+00A9 Fame and Faith
+00AA Slayer Sword
+00AB Moon Falx
+00AC Damascus Sword
+00AD Sinclair Saber
+00AE Destroyer
+00AF Holy Sword
+00B0 Dragon's Tooth
+00B1 Flare Basilard
+00B2 Ice Coffin
+00B3 Laser Blade
+00B4 Duelist's Sword
+00B5 Blessed Blade
+00B6 Muramasa
+00B7 Vizier's Rapier
+00B8 Saint's Rapier
+00B9 Doom Blade
+00BA Excalibur
+00BB Vorpal Sword
+00BC Flamberge
+00BD Swordian Dymlos
+00BE SPAS
+00BF Featherlights
+00C0 Ninety-Nine
+00C1 Dragunov
+00C2 Corsesca
+00C3 Gungnir
+00C4 Bisento
+00C5 Vanguard
+00C6 Arc Wind
+00C7 Gungnir
+00C8 Gungnir
+00C9 Battle Axe
+00CA Crescent Axe
+00CB Bardiche
+00CC Strike Axe
+00CD Labrys
+00CE Bahamut's Tear
+00CF Halberd
+00D0 Pole Axe
+00D1 Mechanical Halberd
+00D2 Saint's Halberd
+00D3 Self Shortbow
+00D4 Self Longbow
+00D5 Composite Bow
+00D6 Cranequin
+00D7 Aqua Spreader
+00D8 Flare Spreader
+00D9 Sand Spreader
+00DA Gale Spreader
+00DB Crescent Bow
+00DC Elven Bow
+00DD Merciless Bow
+00DE Berserker Bow
+00DF Elven Bow
+00E0 Rod
+00E1 Gem Rod
+00E2 Ruby Wand
+00E3 Rune Staff
+00E4 Unicorn Horn
+00E5 Holy Staff
+00E6 Star Mace
+00E7 Blue Crystal Rod
+00E8 Naughty Magazine
+00E9 N.G.
+00EA Necronomicon
+00EB The King in Yellow
+00EC Celaeno Fragments
+00ED Liber Ivonis
+00EE Cthaat Aquadingen
+00EF G'harne Fragments
+00F0 Seven Books of Hsan
+00F1 Massa di Requiem
+00F2 True Magic
+00F3 Broom
+00F4 Mystic Broom
+00F5 Magical Broom
+00F6 Sylphic Broom
+00F7 Wonder Broom
+00F8 Star Broom
+00F9 Deck Brush
+00FA Botan
+00FB Ayame
+00FC Kikyo
+00FD Kuroyuri
+00FE Chizakura
+00FF Eternal Sword
+0100 Leather Armor
+0101 Chain Mail
+0102 Ring Mail
+0103 Splint Mail
+0104 Breastplate
+0105 Plate Mail
+0106 Mythril Plate
+0107 Reflex
+0108 Silver Plate
+0109 Rare Plate
+010A Mumbane
+010B Gold Armor
+010C Cloak
+010D Amber Cloak
+010E Silver Cloak
+010F Holy Cloak
+0110 Star Cloak
+0111 Mythril Mesh
+0112 Witch Dress
+0113 Kisaragi
+0114 Yayoi
+0115 Nagatsuki
+0116 Kannazuki
+0117 Wooden Shield
+0118 Round Shield
+0119 Kite Shield
+011A Tower Shield
+011B Fine Shield
+011C Ankh Shield
+011D Rare Shield
+011E Red Shield
+011F Star Shield
+0120 Blue Shield
+0121 Shield Ring
+0122 Leather Helm
+0123 Iron Sallet
+0124 Armet
+0125 Close Helm
+0126 Duelist's Helm
+0127 Rare Helm
+0128 Golden Helm
+0129 Star Helm
+012A Beret
+012B Mitre
+012C Straw Hat
+012D Fine Hat
+012E Star Cap
+012F Ninja Hood
+0130 Ninja Mask
+0131 Blue Ribbon
+0132 Long Blue Ribbon
+0133 Striped Ribbon
+0134 Pretty Ribbon
+0135 Magical Ribbon
+0136 Leather Gloves
+0137 Iron Gloves
+0138 Gauntlets
+0139 Mythril Gloves
+013A Rare Gauntlets
+013B Star Gloves
+013C Hyper Gauntlets
+013D Claw Gauntlet
+013E Oven Mitts
+013F Pretty Mittens
+0140 Mother's Mittens
+0141 Bridal Gloves
+0142 Stone Charm
+0143 Talisman
+0144 Blue Talisman
+0145 Paralysis Charm
+0146 Stun Bracelet
+0147 Poison Charm
+0148 Rabbit's Foot
+0149 Flame Charm
+014A Ice Charm
+014B Manji Symbol
+014C Silver Cape
+014D Princess Cape
+014E Heavy Boots
+014F Elven Boots
+0150 Jet Boots
+0151 Persian Boots
+0152 Succubus Boots
+0153 Water Spiders
+0154 Cape
+0155 Leather Cape
+0156 Thief's Cape
+0157 Elven Cape
+0158 Flare Cape
+0159 Aqua Cape
+015A <ring>Aquamarine
+015B <ring>Amethyst
+015C <ring>Emerald
+015D <ring>Opal
+015E <ring>Garnet
+015F <ring>Sardonyx
+0160 <ring>Sapphire
+0161 <ring>Turquoise
+0162 <ring>Diamond
+0163 <ring>Topaz
+0164 <ring>Moonstone
+0165 <ring>Ruby
+0166 Sorcerer's Ring
+0167 Emerald Ring
+0168 Faerie Ring
+0169 Spirit Ring
+016A Protect Ring
+016B Force Ring
+016C Resist Ring
+016D Reflect Ring
+016E None
+016F Step Ring
+0170 Rebirth Doll
+0171 Sephira
+0172 Blue Sephira
+0173 Gravity Stone
+0174 Black Onyx
+0175 Orb of White Mist
+0176 Orb of Magical Mist
+0177 Moon Crystal
+0178 Derris Emblem
+0179 Warrior Symbol
+017A Attack Symbol
+017B Holy Symbol
+017C Mystic Symbol
+017D Dark Seal
+017E Demon's Seal
+017F Unicorn Earring
+0180 Step Force
+0181 Rock Breaker
+0182 Magical Pouch
+0183 Mystic Pouch
+0184 Mirror Image Patch
+0185 (c)Curio's Mirror
+0186 (c)Red Card
+0187 (c)Green Card
+0188 (c)Blue Card
+0189 (c)Yellow Card
+018A (c)White Card
+018B (c)Brown Card
+018C (c)Black Card
+018D (c)Statue of Bravery
+018E (c)Statue of Justice
+018F (c)Statue of Friendship
+0190 (c)Statue of Love
+0191 (c)Statue of Dreams
+0192 (c)Special Flag
+0193 

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1318">
+        <source>Time to walk across the world to Lone Valley.</source>
+        <target state="translated">Time to walk across the world to Lone Valley.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1319">
+        <source>...Yeah. I sure hope it'll be worth it.</source>
+        <target state="translated">...Yeah. I sure hope it'll be worth it.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1320">
+        <source>Don't worry, I've got a bone to pick.</source>
+        <target state="translated">Don't worry, I've got a bone to pick.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1321">
+        <source>A bone to pick!?</source>
+        <target state="translated">A bone to pick!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1322">
+        <source>Oh, just a minor personal matter.</source>
+        <target state="translated">Oh, just a minor personal matter.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

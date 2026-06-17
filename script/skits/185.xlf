@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_919">
+        <source>Oh dear, we took too much time.</source>
+        <target state="translated">Oh dear, we took too much time.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_920">
+        <source>I guess it's not our turn to shine...</source>
+        <target state="translated">I guess it's not our turn to shine...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_921">
+        <source>W-wait! Stop being so gloomy, wouldja?</source>
+        <target state="translated">W-Wait! Stop being so gloomy, wouldja?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_922">
+        <source>Yes. It only means
+Midgard's soldiers are first-rate.</source>
+        <target state="translated">Yes. It only means
+Midgard's soldiers are first-rate.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_923">
+        <source>Even so--</source>
+        <target state="translated">Even so--</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_924">
+        <source>Dhaos' army has been
+stalled. That's what matters.</source>
+        <target state="translated">Dhaos' army has been
+stalled. That's what matters.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

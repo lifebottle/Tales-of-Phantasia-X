@@ -1,0 +1,791 @@
+<speed_0004>
+<center>Magitechnology was a science<endalign>
+<center>capable of depleting mana to the<endalign>
+<center>point of exhaustion.<endalign>{END}
+
+<speed_0004>
+<center>Had excessive usage of it<endalign>
+<center>been allowed to persist,<endalign>
+<center>the World Tree, Yggdrasill,<endalign>
+<center>would have withered away.<endalign>{END}
+
+<speed_0004>
+<center>Thus, Dhaos engaged in a<endalign>
+<center>war with the humans who<endalign>
+<center>exploited magitechnology.<endalign>{END}
+
+(Edward's Wife, Sif)
+ My husband lives on in our hearts.{END}
+
+(Edward's Wife, Sif)
+ Are any of you hungry?{END}
+
+Sif
+ Here, take this recipe.
+<pause>
+Sif
+ It was one of my husband's
+ favorites.<wait>{END}
+
+<color_0002>Learned the recipe for Sashimi.<color_0000>{END}
+
+Sif
+ Don't be shy...{END}
+
+(Edward's daughter, Freya)
+ Papa's not here anymore, but I
+ won't cry.
+<pause>
+Freya
+ He was great, don't you think?{END}
+
+(Edward's son, Frey)
+ I'll protect Mama and Freya!{END}
+
+Researcher
+ This is the Morrison Magic Research
+ Center.
+<pause>
+Researcher
+ It was founded in accordance with
+ the late Sir Morrison's will.{END}
+
+Woman
+ This is a boarding school for magic
+ studies. Things work a little
+ differently here than usual.
+<pause>
+Woman
+ The number of teachers on staff is
+ small, so the students mainly
+ engage in self study with the
+ resources provided.
+<pause>
+Woman
+ You can find the classrooms on the
+ second floor.
+<pause>
+Woman
+ Me? I'm in charge of fixing the
+ students' meals.{END}
+
+Child
+ “The sweetest fruits are born
+ from daily labors.”
+<pause>
+Child
+ That means you can't get great
+ power and knowledge overnight.{END}
+
+Girl
+ I came here to study magic too.
+<pause>
+Girl
+ I am totally gonna be the best
+ mage in the world!
+<pause>
+Girl
+ I just aced my last test, so count
+ on it!{END}
+
+Researcher
+ I'm studying forbidden
+ summoning artes.
+<pause>
+Researcher
+ It seems that forbidden summoning
+ mostly draws upon denizens of
+ Daemonium.
+<pause>
+Researcher
+ I suppose using the energy of such
+ creatures would be quite
+ dangerous, wouldn't it?{END}
+
+Researcher
+ I'm doing research on
+ forbidden magic.
+<pause>
+Researcher
+ Our initial studies suggest that
+ forbidden magic somehow
+ manipulates space.
+<pause>
+Researcher
+ Though we don't know how, why,
+ or even IF it happens, just yet.{END}
+
+<var_8201>
+ Great swordsmen are expected to
+ know magic these days, aren't
+ they?
+<pause>
+<var_8201>
+ I came here to learn it, but no
+ matter what, I can't grasp even
+ the basic concepts...{END}
+
+Researcher
+ My research centers around
+ unusual items.
+<pause>
+Researcher
+ Currently, I'm trying to figure out
+ where those imbued with magical
+ power originate.{END}
+
+Researcher
+ I've taken an interest in clerical
+ artes.
+<pause>
+Researcher
+ Even now, I'm not exactly sure
+ what they are.
+<pause>
+Researcher
+ Could they be a person's inner
+ power? Or perhaps the power of
+ God Himself?{END}
+
+Old Man
+ Not only was Sir Morrison a top
+ magic researcher, his prowess
+ extended to science as well.
+<pause>
+Old Man
+ He had a great fascination with the
+ technology used during the Age of
+ Antiquity.{END}
+
+<unk1>Chef
+ I have the ability to accurately
+ determine other people's cooking
+ aptitude just by looking at them!
+<pause>
+Chef
+ <Klarth> and <Mint> are the
+ most accomplished chefs amongst
+ you.<wait>{END}
+
+<color_0002>Each character master recipes at
+different rates.
+<pause>
+In general, <Klarth> and <Mint>
+are the quickest.
+<pause>
+On the flip side of the coin is
+<Arche>. She does, however, have
+her own specialties.
+<pause>
+For example, she has a particular
+affinity toward dishes that restore
+TP--those typically abundant in
+fruit.<wait><color_0000>{END}
+
+Chef
+ I'll also wager that the ninja girl
+ has a knack for dishes native to
+ her homeland.<wait>{END}
+
+<color_0002><Suzu> tends to be rather
+unexceptional in the kitchen, but
+that doesn't mean she is culinarily
+useless.
+<pause>
+She's second to none when it comes
+to her cultural specialties (these
+recipes are tagged with “(J)” in the
+upper right corner of their
+description).
+<pause>
+But she doesn't do too well with
+dishes foreign to her. Curry is
+especially ill-understood by her.
+<pause>
+If you've seen a particular special
+event and its accompanying skit, it
+should be pretty apparent why...<color_0000>{END}
+
+Peddler
+ Thorough preparation is essential
+ for travel.
+<pause>
+Peddler
+ Would you like to buy something?{END}
+
+Peddler
+ Be careful out there!{END}
+
+<Cless>
+ It's too worn.
+ I can't make heads or tails
+ of what it's saying.{END}
+
+<center><color_0003>Take heed!<color_0000><endalign>
+The northward path is dangerous!
+Traverse at your own peril!{END}
+
+<Cless>
+ Pardon me, but is anyone home!?{END}
+
+Woman
+ May I ask who you are?<wait>{END}
+
+<Klarth>
+ My name is <Klarth>.
+<pause>
+<Klarth>
+ Sorry about the unannounced
+ visit, ma'am.
+<pause>
+<Klarth>
+ We were hoping to meet with Sir
+ Edward, and bring this letter of
+ introduction.
+<pause>
+Woman
+ My, it was penned by Master
+ Lundgrom himself.
+<pause>
+Woman
+ I'm Ed's wife, Sif.
+ I am pleased to make
+ your acquaintance.
+<pause>
+Sif
+ I'm sorry to say, but he is out at
+ the moment.
+<pause>
+<Klarth>
+ Ah, that's unfortunate.
+ Our business with him is
+ rather urgent.
+<pause>
+Sif
+ Since it was Master Lundgrom
+ who introduced you, I'll tell you
+ what I know.
+<pause>
+Sif
+ Ed is aware that Alvanista is unable
+ to lend a hand in the upcoming
+ war.
+<pause>
+Sif
+ He set off on a journey the other
+ day to seek out people capable of
+ defeating Dhaos in the country's
+ stead.
+<pause>
+<Klarth>
+ Do you know where he went?
+<pause>
+Sif
+ I believe he mentioned that
+ Freyland is his first stop.<wait>{END}
+
+<Cless>
+ Freyland?<wait>{END}
+
+<Klarth>
+ That's the continent east of
+ Alvanista.<wait>{END}
+
+<Klarth>
+ Thanks, ma'am.
+<pause>
+Sif
+ Um...
+<pause>
+Sif
+ If you encounter my husband, could
+ you please tell him something?
+<pause>
+Sif
+ We want him to know that
+ everything's fine at home...
+<pause>
+<Klarth>
+ I understand.
+ We'll be sure to pass
+ the message along.{END}
+
+<Klarth>
+ If we hightail it to Freyland, we
+ might be able to catch up.
+<pause>
+<Klarth>
+ Let's get moving, shall we?{END}
+
+<Cless>
+ Um, I was just--
+<pause>
+Woman
+ If you do not have any business
+ here, please be on your way.{END}
+
+<unk1><Mint>
+ <Cless>, knocking on people's
+ doors without a reason is rude.{END}
+
+<Cless>
+ Huh?
+ A statue?
+<pause>
+<Cless>
+ How'd it get to the middle of a
+ mountain pass like this?
+<pause>
+<Cless>
+ It's too heavy to lift, but...
+<pause>
+<Cless>
+ I should be able to push and pull it
+ around.<wait>{END}
+
+<color_0002>Objects like this statue can be
+pushed and pulled around.
+<pause>
+To move them, get close and face
+them, press and hold down <var_0102>, then
+move around with <var_0002>.<color_0000>{END}
+
+<Cless>
+ Hey, <Chester>!!{END}
+
+<Cless>
+ ......
+<pause>
+<Cless>
+ Where<speed_0010>...{END}
+
+<Cless>
+ Pull yourself together, <Mint>.{END}
+
+<Mint>
+ Um...
+<pause>
+<Mint>
+ ......<wait>{END}
+
+<Mint>
+ Where in the world are we?
+<pause>
+<Cless>
+ I don't know, either...
+<pause>
+<Cless>
+ What *is* this place?{END}
+
+<Mint>
+ It's so pretty<speed_0010>...{END}
+
+<Cless>
+ ......
+<pause>
+<Cless>
+ What happened to <Chester>?
+<pause>
+<Cless>
+ ......
+<pause>
+<Cless>
+ And Mr. Morrison?
+<pause>
+<Mint>
+ It's possible they<speed_0020>...
+ <speed_FFFF>No<speed_0010>...<speed_FFFF> I believe they are safe.{END}
+
+<Cless>
+ ......<wait>{END}
+
+<Mint>
+ We should only worry about one
+ problem at a time...
+<pause>
+<Mint>
+ ...okay?
+<pause>
+<Mint>
+ Please try to cheer up...{END}
+
+<Cless>
+ <speed_0010>......
+<pause>
+<speed_FFFF><Cless>
+ Sorry, I'm just...overwhelmed...
+ Everything has just...
+<pause>
+<Mint>
+ It happened so fast...{END}
+
+<Cless>
+ Hey, wait...
+<pause>
+<Cless>
+ Maybe we can learn something
+ from the book Mr. Morrison gave
+ me.
+<pause>
+<Mint>
+ Oh, that's right!{END}
+
+(<Cless> took out Morrison's book
+and began to read it.)
+<pause>
+“Here I shall chronicle the history of
+the war against an invader from
+another world.”
+<pause>
+“Long ago, the invader appeared on
+our world, and a war against him
+erupted shortly thereafter.”
+<pause>
+“That invader called himself
+<color_0003>Dhaos<color_0000>...”{END}
+
+<Cless>
+ Dhaos...
+<pause>
+<Mint>
+ Let's read a little further.{END}
+
+“Dhaos cannot be harmed by normal
+means.”
+<pause>
+“In addition, he possessed an
+astonishing spell allowing him to
+oppose the flow of time.”
+<pause>
+“During the final moments of our
+ancestors' decisive battle, the
+wounded Dhaos used that spell to
+transport himself to the future.”
+<pause>
+“Since then, we, the Morrison
+bloodline, accepted the duty of
+fighting him should he reappear.”
+<pause>
+“My generation is where this phase
+had concluded.”{END}
+
+“Sensing the first signs of Dhaos'
+arrival, I gathered my fellow clerics,
+Meryl and Maria, as well as the
+swordsman, Miguel, and made way
+to the mausoleum.”
+<pause>
+“Due to forces beyond our control,
+it is not possible to vanquish him in
+this age.”
+<pause>
+“We instead devised a plan to seal
+him for eternity.”{END}
+
+Morrison
+ He approaches!
+<pause>
+Miguel
+ Stay on guard!
+<pause>
+Meryl
+ O Divine One...
+<pause>
+Maria
+ Grant us strength...{END}
+
+<speed_0002>Dhaos
+ Wh-who are you!?
+ How could you know I'd be here!?{END}
+
+<speed_0002>Dhaos
+ NOOOOOOOOOO!!!{END}
+
+<Cless>
+ Mom, and Dad!
+<pause>
+<Mint>
+ Meryl...
+ That's my mother's name.{END}
+
+“Dhaos appeared in a dazzling burst
+of light, and though it was difficult,
+our plan had succeeded.”
+<pause>
+“Two pendants were used to divide
+Dhaos' power. One was entrusted to
+the Alvein couple and the other
+Meryl Adnade.”
+<pause>
+“I myself took upon the role of
+watching over the seal itself.”{END}
+
+(<Cless> learned about his
+parents' relation with Dhaos.){END}
+
+<Mint>
+ Then...
+<pause>
+<Cless>
+ What we must do now is...
+<pause>
+<Mint>
+ Look for a way to defeat Dhaos,
+ right?
+<pause>
+<Mint>
+ But the first thing we should do is
+ find some people to speak with.
+<pause>
+<Cless>
+ Yeah, I agree.{END}
+
+<Cless>
+ H-hey, this is...!!
+<pause>
+<Mint>
+ ......<wait>{END}
+
+<Mint>
+ It's<speed_0010>...
+<pause>
+<speed_FFFF><Mint>
+ <Chester><'s/'> bow...
+<pause>
+<Cless>
+ <Chester><speed_0010>...<wait>{END}
+
+<Mint>
+ Don't worry...
+<pause>
+<Mint>
+ I'm...I'm sure he's okay...<wait>{END}
+
+<Cless>
+ Dammit...{END}
+
+(Edward's Wife, Sif)
+ Oh, Master Lundgrom.
+ Good afternoon.
+<pause>
+Lundgrom
+ I apologize for the lapse in
+ communication.
+<pause>
+Lundgrom
+ More importantly, I would like to
+ offer my sincerest condolences
+ about Ed...
+<pause>
+Sif
+ No, it's okay.
+<pause>
+Sif
+ He did what he loved.
+ I don't believe he had any regrets.
+<pause>
+Sif
+ So please don't worry about it, for
+ his sake.
+<pause>
+Sif
+ With that behind us, what brings
+ you here today?
+<pause>
+Lundgrom
+ Ed's study... We were hoping you'd
+ grant us access.
+<pause>
+Sif
+ I'd be happy to, but...
+<pause>
+Sif
+ It's locked, and I don't know where
+ the key is.
+<pause>
+Lundgrom
+ Could this be the one?
+<pause>
+Sif
+ Oh? Why do you have it?
+<pause>
+Lundgrom
+ Ed had left it in my care.
+<pause>
+Sif
+ In that case, please follow me.{END}
+
+Sif
+ It's just past this door.{END}
+
+Lundgrom
+ Ed would lock himself in here alone
+ and conduct tireless research about
+ a single subject...
+<pause>
+Lundgrom
+ Time travel, that is.
+<pause>
+<Klarth>
+ Then I can make an educated guess
+ as to what he compiled in this
+ book.{END}
+
+<Arche>
+ So, what's it say?{END}
+
+<Klarth>
+ To put it simply...
+<pause>
+<Klarth>
+ It seems that a prospering kingdom
+ during the Age of Antiquity sank to
+ the bottom of the ocean.
+<pause>
+<Klarth>
+ This kingdom, named “Thor,”
+ supposedly made time travel a
+ reality with unbelievably advanced
+ technology.
+<pause>
+<Mint>
+ The ancient city of Thor?
+<pause>
+<Arche>
+ But you said it sank to the
+ bottom of the ocean, right?
+ That can't do us any good.
+<pause>
+<Klarth>
+ When I said “unbelievably advanced
+ technology,” where were you?
+ La La Land?
+<pause>
+<Klarth>
+ From the information given, I
+ surmise the city is still intact.
+<pause>
+<Klarth>
+ Hmm...
+ But the problem is getting to the
+ bottom of the sea in the first
+ place.
+<pause>
+Lundgrom
+ Yes. I know of no magic or
+ technology capable of such a feat.
+<pause>
+<Klarth>
+ Oh...uhm...
+ It says here that it might be
+ possible with <var_D000>'s power.{END}
+
+<Arche>
+ Then where is this Thor place,
+ anyway?
+<pause>
+<Klarth>
+ Apparently, it's about sixty miles
+ off the northeast of Venezia's
+ coast.
+<pause>
+Lundgrom
+ What are your plans?
+<pause>
+<Klarth>
+ First, we'll go to Venezia and find
+ someone at the port willing to take
+ us. I'll give <var_D000> a call when we
+ reach those coordinates.
+<pause>
+Lundgrom
+ I see.
+ I'd love to come along and see how
+ you manage this, but I'm needed
+ elsewhere.
+<pause>
+Lundgrom
+ So I bid you good luck, and
+ farewell.{END}
+
+<Klarth>
+ Well, let's hop to it!<wait>{END}
+
+<Mint>
+ Please wait!
+<pause>
+<Mint>
+ If we travel to Thor, we may not
+ be able to return.
+<pause>
+<Mint>
+ I think that if we don't find a way
+ to save Yggdrasill while we're still
+ here...
+<pause>
+<Mint>
+ It will have completely withered by
+ our time period.
+<pause>
+<Cless>
+ If that happened...
+<pause>
+<Klarth>
+ Then mana will be lost, rendering
+ <Arche> and I as useful as a
+ bundle of sticks.
+<pause>
+<Klarth>
+ Which in turn means...
+<pause>
+<Arche>
+ We won't even be able to scratch
+ Dhaos...
+<pause>
+<Arche>
+ Right?
+<pause>
+<Klarth>
+ Glad we're all on the same page.{END}
+
+<Cless>
+ Um...
+ This is giving me a bit of a
+ headache...<wait>{END}
+
+<Klarth>
+ Mmph.
+ To simplify this for you...
+<pause>
+<Klarth>
+ First, we need to change history
+ by preventing Yggdrasill's death.
+ This way, we'll be able to use
+ magic in your time period.
+<pause>
+<Klarth>
+ After that, we go to Venezia to
+ find a ship to Thor.
+<pause>
+<Klarth>
+ You with us now?{END}
+
+<Chester>
+ Hey!!<wait>{END}
+
+<Cless>
+ W-what is it?
+<pause>
+<Chester>
+ Where the hell are we going!?
+<pause>
+<Chester>
+ Didn't you hear the village bell!?
+<pause>
+<Cless>
+ Y-yeah.
+ L-let's turn back...
+<pause>
+<Chester>
+ Hurry, dammit!!{END}
+

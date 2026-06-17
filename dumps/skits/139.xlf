@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_686">
+        <source>Apparently, Gnome's
+living in cave east of Belladam.</source>
+        <target state="translated">Apparently, Gnome's
+living in cave east of Belladam.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_687">
+        <source>Yes.</source>
+        <target state="translated">Yes.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_688">
+        <source>Earth spirits like caves, right?</source>
+        <target state="translated">Earth spirits like caves, right?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_689">
+        <source>I'm not sure that's true *per se*...
+But that seems to be the case for Gnome.</source>
+        <target state="translated">I'm not sure that's true *per se*...
+But that seems to be the case for Gnome.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

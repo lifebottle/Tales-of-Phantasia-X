@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_224">
+        <source>Boo, just when I thought I'd FINALLY get a kiss...</source>
+        <target state="translated">Boo, just when I thought I'd FINALLY get a kiss...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_225">
+        <source>What are you talking about, &lt;Arche&gt;?</source>
+        <target state="translated">What are you talking about, &lt;Arche&gt;?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_226">
+        <source>N-nothing! So please put away that creepy look!</source>
+        <target state="translated">N-nothing! So please put away that creepy look!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_227">
+        <source>I heard you quite clearly.</source>
+        <target state="translated">I heard you quite clearly.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_228">
+        <source>R-really!? I-I was just telling myself a
+joke, honest! Um, hey guys, help me for a sec...</source>
+        <target state="translated">R-really!? I-I was just telling myself a
+joke, honest! Um, hey guys, help me for a sec...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

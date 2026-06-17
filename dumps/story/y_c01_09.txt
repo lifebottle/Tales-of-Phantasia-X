@@ -1,0 +1,625 @@
+『終わりより、始まる』{END}
+
+<audio_12E9><Cless>
+「これは・・・」
+<pause>
+<audio_12EA><Cless>
+「このフロアの見取図が描いてあ
+　る」
+<pause>
+<audio_12EB><Cless>
+「この図によると・・・」
+<pause>
+<audio_12EC><Cless>
+「下へ降りる階段のある部屋に、
+　隠し通路があるようだ！」{END}
+
+<color_0002>レバーがあります。
+<pause>
+切り替えますか？<color_0000>{END}
+
+<audio_12ED><Cless>
+「ダオス！！」
+<pause>
+<audio_12EE><Cless>
+「今度こそ、本当に決着をつけて
+　やる！！」
+<pause>
+<audio_12EF>ダオス
+「ふふふ・・・」
+<pause>
+<audio_12F0>ダオス
+「ここまで来るとは、たいしたも
+　のだな」
+<pause>
+<audio_12F1>ダオス
+「貴様らの暴挙に敬意を表して、
+　伝説の勇者とでも呼ばせてもら
+　おうか」
+<pause>
+<audio_12F2><Chester>
+「ふざけるな！！」
+<pause>
+<audio_12F3><Chester>
+「お前が今までやってきたことを
+　後悔させてやるぜ！！」
+<pause>
+<audio_12F4><Mint>
+「待って下さい！」{END}
+
+<audio_12F5><Klarth>
+「<Mint>、近づくな！！」
+<pause>
+<audio_12F6>ダオス
+「何だ？」
+<pause>
+<audio_12F7>ダオス
+「この期におよんで命乞いか？」
+<pause>
+<audio_12F8><Mint>
+「あなたに、聞きたいことがあり
+　ます」
+<pause>
+<audio_12F9><Mint>
+「前にあなたは、私達とは戦う理
+　由がないと言いました・・・」
+<pause>
+<audio_12FA><Mint>
+「なぜ、ですか？」{END}
+
+<audio_12FB>ダオス
+「お前達が、魔科学に関わる者で
+　はないからだ」
+<pause>
+<audio_12FC><Mint>
+「なぜ、魔科学はいけないのです
+　か？」
+<pause>
+<audio_12FD>ダオス
+「魔科学はマナの力をことごとく
+　使い果たしてしまうからだ！！」
+<pause>
+<audio_12FE>ダオス
+「私は、魔科学を使う人間を抹殺
+　しなければならない！」
+<pause>
+<audio_12FF><Klarth>
+「なぜ、そうまでして魔科学を否
+　定する？」
+<pause>
+<audio_1300><Klarth>
+「たしかに魔科学の力はすさまじ
+　いものだ・・・」
+<pause>
+<audio_1301><Klarth>
+「だが、人間も愚かではない！」
+<pause>
+<audio_1302><Klarth>
+「もう、世界樹が枯れるようなこ
+　とはしない！」
+<pause>
+<audio_1303>ダオス
+「本当にそう思うのか？」
+<pause>
+<audio_1304>ダオス
+「私がミッドガルズを滅ぼさねば
+　今のユグドラシルはなかったの
+　だぞ」
+<pause>
+<audio_1305><Cless>
+「そうまでして、なぜユグドラシ
+　ルを守る！？」
+<pause>
+<audio_1306><Cless>
+「お前の望みは何なんだ？」
+<pause>
+<audio_1307>ダオス
+「私にはマナが必要なのだ」
+<pause>
+<audio_1308>ダオス
+「だが、その理由を貴様らに話し
+　たところで理解できまい」
+<pause>
+<audio_1309><Chester>
+「わかりたくもねえ！」
+<pause>
+<audio_130A><Chester>
+「いまさら、言い訳なんか聞かね
+　えぜ！」<wait>{END}
+
+<audio_130B>ダオス
+「ははははは！」
+<pause>
+<audio_130C>ダオス
+「なぜ私が、弁解せねばならぬの
+　だ？」
+<pause>
+<audio_130D><Cless>
+「なにぃ！！」
+<pause>
+<audio_130E>ダオス
+「貴様らこそ、私に対する非礼を
+　わびよ！」
+<pause>
+<audio_130F><Chester>
+「ふざけやがって・・・」
+<pause>
+<audio_1310><Cless>
+「たとえ・・・どんな理由があっ
+　ても・・・」
+<pause>
+<audio_1311><Cless>
+「人間を虫けらみたいに殺すお前
+　は、絶対に許せない！！」
+<pause>
+<audio_1312>ダオス
+「何とでも言うがいい！！」
+<pause>
+<audio_1313>ダオス
+「私の邪魔をするというのであれ
+　ば、滅ぼすのみ！」
+<pause>
+<audio_1314><Cless>
+「行くぞ！！」{END}
+
+<audio_1315><Cless>
+「や、やったのか？」
+<pause>
+<audio_1316><Klarth>
+「いや、まだだ！」{END}
+
+<audio_1317>ダオス
+「ふ、ふはははは・・・」<wait>{END}
+
+ダオス
+「下等な生命体がここまでやると
+　は思わなんだぞ」<wait>{END}
+
+ダオス
+「我も全身全霊を賭して、戦おう
+　ではないか！！」<wait>{END}
+
+<audio_131A><Cless>
+「て、手加減していたっていうの
+　か！？」<wait>{END}
+
+ダオス
+「我が力をさえぎる邪魔な障壁は
+　消させてもらおう」<wait>{END}
+
+<audio_131C><Mint>
+「ああっ」
+<pause>
+<audio_131D><Cless>
+「ゆ、床が！？」<wait>{END}
+
+ダオス
+「ふっ・・・はっはっは」<wait>{END}
+
+ダオス
+「私の邪魔はさせぬ！！」<wait>{END}
+
+ダオス
+「私を待ち望んでいる民のために
+　も・・・」<wait>{END}
+
+ダオス
+「絶対に邪魔はさせぬぞぉ！！」<wait>{END}
+
+ダオス
+「我が星、母なる星デリス・カー
+　ラーンよ！」<wait>{END}
+
+ダオス
+「我の力を解放したまえ！！」<wait>{END}
+
+<speed_0000><color_0002>隊列を変更しますか？{END}
+
+<audio_1324><Cless>
+「ど、どうだっ！」
+<pause>
+<audio_1325>ダオス
+「う、うう・・・」<wait>{END}
+
+<audio_1326>ダオス
+「だめだ！」
+<pause>
+<audio_1327>ダオス
+「あきらめられぬ！
+　あきらめることなどできぬ！」
+<pause>
+<audio_1328>ダオス
+「大いなる実りを手に入れるまで
+　は！」
+<pause>
+<audio_1329>ダオス
+「おお、神よ！」
+<pause>
+<audio_132A>ダオス
+「デリス・カーラーンの母なる神
+　よ！」
+<pause>
+<audio_132B>ダオス
+「我に力を！」
+<pause>
+<audio_132C>ダオス
+「我に力を！！！」{END}
+
+<audio_132D><Cless>
+「な、何だ・・・」
+<pause>
+<audio_132E><Klarth>
+「気をつけろ！」
+<pause>
+<audio_132F><Klarth>
+「様子がおかしいぞ！」<wait>{END}
+
+<audio_1330><Chester>
+「なんだこいつはっ！」
+<pause>
+<audio_1331><Arche>
+「す、すごすぎるよ、この魔力！」
+<pause>
+<audio_1332>ダオス
+「私の願い・・・」
+<pause>
+<audio_1333>ダオス
+「民の祈り・・・」
+<pause>
+<audio_1334>ダオス
+「私は・・・」
+<pause>
+<audio_1335>ダオス
+「私はまだ闘える！」<wait>{END}
+
+<speed_0000><color_0002>隊列を変更しますか？{END}
+
+<audio_1336><speed_0004><Cless>
+「今度こそ、やったか？」<wait>{END}
+
+<audio_1337><speed_0004><Cless>
+「ま、まだ立つのか！？」
+<pause>
+<audio_1338><Klarth>
+「待て、様子が変だぞ！」<wait>{END}
+
+<unk1><audio_1339><speed_0004><Cless>
+だめだ、<Mint>！危ない！」
+<pause>
+<audio_133A><Mint>
+いいえ・・・この人は・・・」
+<pause>
+<audio_133B><Mint>
+この人は・・・もう・・・」<wait>{END}
+
+<audio_133C><speed_0004>ダオス
+「く<speed_0010>、<speed_0004>わ<speed_0010>、<speed_0004>私は<speed_0010>、<speed_0004>死ぬのか・・・」<wait>{END}
+
+<speed_0004>ダオス
+「我が１０億の民の未来はこれで
+　閉ざされた・・・」<wait>{END}
+
+<audio_133E><Mint>
+「・・・教えて下さい」
+<pause>
+<audio_133F><Mint>
+「あなたが、何のために戦ってい
+　たのか・・・」
+<pause>
+<audio_1340>ダオス
+「今さら・・・意味のないことだ」
+<pause>
+<audio_1341><Mint>
+「それでも・・・」
+<pause>
+<audio_1342><Mint>
+「真実が知りたいのです・・・」
+<pause>
+<audio_1343>ダオス
+「・・・・・・」
+<pause>
+<audio_1344>ダオス
+「いいだろう・・・」
+<pause>
+<audio_1345>ダオス
+「話してやろう・・・」
+<pause>
+<audio_1346>ダオス
+「私が<speed_0020>、<speed_0004>何を<speed_0020>、<speed_0004>求めていたのかを」<wait>{END}
+
+<audio_12E6>ＳＥＡＬＥＹＥ？
+「来たか、下劣なる者達よ」{END}
+
+<audio_12E7>ＳＥＡＬＥＹＥ？
+「貴様達にはこの世で最も華麗な
+　運命」
+<pause>
+<audio_12E8>ＳＥＡＬＥＹＥ？
+「血まみれの死を与えよう！」{END}
+
+<color_0002>帰りますか？<color_0000>{END}
+
+<Cless>
+「あれ？」
+<pause>
+<Cless>
+「人数が足りない・・・」
+<pause>
+<Cless>
+「助けに行かないと」{END}
+
+<audio_1AD8>ＳＥＡＬＥＹＥ？
+「ダオス様の命で、ここから先は
+　一歩たりとも踏み込ませぬ」
+<pause>
+<audio_1AD9><Cless>
+「やれるもんならやってみろ！」{END}
+
+<audio_1ADA>ＳＥＡＬＥＹＥ？
+「おまえだけ、でも・・・」{END}
+
+<audio_1ADB>ロンドリーネ
+「きゃっ・・・！」{END}
+
+<audio_1ADC>ロンドリーネ
+「また、やられちゃったみたい
+　ね。ダオスのヤツ、まったく
+　・・・」
+<pause>
+<audio_1ADD><Mint>
+「もしかして、ダオスはロディさ
+　んに会うのを・・・避けてるの
+　ですか？」{END}
+
+<audio_1ADE><Klarth>
+「しかし、なぜ！？」
+<pause>
+<audio_1ADF><Cless>
+「理由なんてどうでもいい、今は
+　ロディを助けないと！」{END}
+
+<audio_1AE0><Arche>
+「助けるって、どうやって！？」
+<pause>
+<audio_1AE1><Cless>
+「エターナルソードで、ロディを
+　時間の転移から切り離せば・・
+　・！」
+<pause>
+<audio_1AE2><Chester>
+「そんなことできるのか？」
+<pause>
+<audio_1AE3><Cless>
+「やってみないとわからない
+　でも、やってみよう！」
+<pause>
+<audio_1AE4><Mint>
+「ロディさんが、消えてしまい
+　ます！」{END}
+
+<audio_1AE5><Cless>
+「行くぞ！」{END}
+
+<audio_1AE6><Cless>
+「ロディ！」{END}
+
+<audio_1AE7>ロンドリーネ
+「<Cless>！
+　何しに来たの！？」
+<pause>
+<audio_1AE8><Cless>
+「何しにって助けに来たんだよ
+　一緒にダオスを倒すんだろ？」
+<pause>
+<audio_1AE9>ロンドリーネ
+「このままじゃ、君も一緒に
+　時間の彼方に飛ばされちゃ
+　うよ！？」
+<pause>
+<audio_1AEA><Cless>
+「エターナルソードがある、これ
+　でロディを連れて帰れる」
+<pause>
+<audio_1AEB>ロンドリーネ
+「そんなこと、できるの？」
+<pause>
+<audio_1AEC><Cless>
+「ここまで来たんだ、後は君を
+　連れて戻ればいいだけ
+　さぁ、ロディ」{END}
+
+<audio_1AED><Cless>
+「うわっ！！」
+<pause>
+<audio_1AEE>ロンドリーネ
+「ダメだよ・・・私のペンダント
+　の引き込む力の方が強い」
+<pause>
+<audio_1AEF><Cless>
+「・・・大丈夫！絶対、元の時間
+　に引き戻す・・・！」{END}
+
+<audio_1AF0>ロンドリーネ
+「<Cless>、ありがとう
+　でも、もういいよ」
+<pause>
+<audio_1AF1><Cless>
+「一緒にダオスを倒しに行くんじ
+　ゃないのか？そんな簡単に諦め
+　ていいのか？」
+<pause>
+<audio_1AF2>ロンドリーネ
+「<Cless>こそ
+　こんなところで時間の狭間に
+　飲み込まれて諦めるの？」
+<pause>
+<audio_1AF3>ロンドリーネ
+「<Mint>は？
+　君を信じて、ともに戦おうって
+　決めた仲間はどうするの？」
+<pause>
+<audio_1AF4>ロンドリーネ
+「私のためについてきちゃいけな
+　いよ」
+<pause>
+<audio_1AF5>ロンドリーネ
+「私は信じる
+　<Cless>がダオスを
+　止めてくれるって」
+<pause>
+<audio_1AF6>ロンドリーネ
+「そりゃやっぱダオスに会えない
+　のはくやしいけど、今のこの状
+　態に君を巻き込めない」
+<pause>
+<audio_1AF7><Cless>
+「でも・・・」
+<pause>
+<audio_1AF8>ロンドリーネ
+「ね・・・？また、いつか、
+　どこかで会おう」
+<pause>
+<audio_1AF9><Cless>
+「どこかって・・・」{END}
+
+<audio_1AFA><Cless>
+「ロディ！！」{END}
+
+<audio_1AFB><Mint>
+「<Cless>さん・・・」{END}
+
+<audio_1AFC><Cless>
+「ダメ、だった・・・助けられな
+　かったよ」{END}
+
+<audio_1AFD><Mint>
+「<Cless>さん、今度こそ、
+　ダオスを倒しましょう」{END}
+
+<audio_1AFE><Chester>
+「ああ、ロディはもしかしたら、
+　未来に飛ばされたのかもしれ
+　ないな」
+<pause>
+<audio_1AFF><Chester>
+「ってことは、もしオレたちが
+　ダオスを倒せなかったら、き
+　っとがっかりするだろうしな」
+<pause>
+<audio_1B00><Arche>
+「大見得きってそれじゃあ、顔向
+　けできないもんね」
+<pause>
+<audio_1B01><Suzu>
+「大丈夫です、絶対勝てます」
+<pause>
+<audio_1B02><Klarth>
+「それじゃあ、ま、ロディに見せ
+　られる明るい未来を刻みにいく
+　とするか」{END}
+
+<audio_1B03><Cless>
+「そう、ですね・・・行こう、
+　みんな」
+<pause>
+<audio_1B04><Cless>
+「ロディ、君がいるかもしれない
+　未来に・・・いい報せを届ける
+　よ、絶対」{END}
+
+<audio_1AFD><Mint>
+「<Cless>さん、今度こそ、
+　ダオスを倒しましょう」{END}
+
+<audio_1AFE><Chester>
+「ああ、ロディはもしかしたら、
+　未来に飛ばされたのかもしれ
+　ないな」
+<pause>
+<audio_1AFF><Chester>
+「ってことは、もしオレたちが
+　ダオスを倒せなかったら、き
+　っとがっかりするだろうしな」
+<pause>
+<audio_1B00><Arche>
+「大見得きってそれじゃあ、顔向
+　けできないもんね」
+<pause>
+<audio_1B02><Klarth>
+「それじゃあ、ま、ロディに見せ
+　られる明るい未来を刻みにいく
+　とするか」{END}
+
+<audio_1B03><Cless>
+「そう、ですね・・・行こう、
+　みんな」
+<pause>
+<audio_1B04><Cless>
+「ロディ、君がいるかもしれない
+　未来に・・・いい報せを届ける
+　よ、絶対」{END}
+
+<Cless>
+「あれ？」
+<pause>
+<Cless>
+「人数が足りない・・・」
+<pause>
+<Cless>
+「助けに行かないと」{END}
+
+<audio_12DC><Cless>
+「いったいどうなってるんだ？」
+<pause>
+<audio_12DD><Klarth>
+「ダオスの時間を操る力に、
+　時間の剣が共鳴して、呼び
+　寄せられたのかもな・・・」{END}
+
+死神
+「よく私の存在に気がついたな」
+<pause>
+死神
+「お前達に良い物を売ってやろう
+　か？」{END}
+
+死神
+「いくら払うのだ？」
+<pause>
+<speed_0000>１。７６５ガルド
+２。７６５０ガルド
+３。７６５００ガルド
+４。７６５０００ガルド<speed_FFFF>{END}
+
+死神
+「やめるも良し・・・」
+<pause>
+死神
+「気が変わったなら、再び来るが
+　いい」{END}
+
+死神
+「買いたくなったら来るがいい」{END}
+
+死神
+「この世には金で買えない物はな
+　いと言う・・・」
+<pause>
+死神
+「つまり、金がなければ買えない
+　ということだな」{END}
+
+<color_0002>全員<num5_C0006104>の経験値を得ました。<wait>{END}
+
+<color_0002><num2_C0005108>のレベルが上がりました。<wait>{END}
+
+<color_0002><num2_C0005108>のレベルが上がりました。
+<pause>
+<num2_C0005108>は新しい特技を覚えました。<wait>{END}
+
+<color_0002><num2_C0005108>のレベルが上がりました。<wait>{END}
+
+<color_0002><num2_C0005108>のレベルが上がりました。
+<pause>
+<num2_C0005108>は新しい特技を覚えました。<wait>{END}
+

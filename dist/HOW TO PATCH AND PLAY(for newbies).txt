@@ -1,0 +1,33 @@
+Thank you for downloading the LBP English patch for Tales of Phantasia X!
+If you are new to patching roms and/or emulating, this guide is for you! :D
+
+Here's what you'll need in order to play:
+
+- A rip of the UMD version of Narikiri Dungeon X (the PSN version will not work)
+- The patches and software in this folder
+- Either a soft modded PSP or PS Vita/PS TV or anything that can run the PPSSPP emulator
+
+Steps to follow:
+
+1. To begin click the application called xdeltaUI. This will bring up a window.
+   At the top you will see a box called "patch" and to the right a button that says "open."
+   Click it and navigate to where you have the patch stored, highlight it and select "open".
+
+2. Next, the box below that one says "source file". Select open and navigate to where your NDX
+   rom is stored and highlight and open.
+
+3. At the bottom is a box that says "output file". This step will be a little different.
+   You want to type out the name of what you want the patched rom to be called and make sure that
+   at the end of the name you put ".iso" (without the quotes)
+
+4. Click "patch" and let it do its work.
+
+5. Once it tells you that the file has been patched successfully, you will have a functioning
+   english patched rom in the folder with everything else. Cut and paste it where it needs to go!
+
+Setting up PPSSPP is really pretty simple. We have a link to the dev builds for it in the "How to
+fix graphics" text file. At this point you'll want to unzip and launch the software (the exe you
+want to launch is the one with 64 in the name) and bind your controls (in Settings / Controls /
+Control mapping). You might also want to go to Graphics and set the Rendering resolution to "1x PSP"
+and set the Screen scaling filter to Nearest (under Settings / Graphics / Display Layout & effects)
+and maybe also enable Auto frameskip to help with the battle swirl effect causing some slowdown.

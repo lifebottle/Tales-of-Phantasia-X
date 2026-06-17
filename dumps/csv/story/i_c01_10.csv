@@ -1,0 +1,1957 @@
+"船長
+「それじゃ、お気をつけて」
+<pause>
+船長
+「休みたい時は寝室で休めるぜ」
+<pause>
+船長
+「それと帰りたい時は俺に話しか
+　けてくれ」{END}","Captain:<nl>
+ Well, take care.
+<pause>
+Captain:<nl>
+ If you ever feel tired, go ahead
+ and sleep in the cabin.
+<pause>
+Captain:<nl>
+ When you want to leave, just me
+ give me a holler.{END}"
+"<Cless>
+「ここは・・・」
+<pause>
+<Cless>
+「デミテルの書斎らしいな」
+<pause>
+<Klarth>
+「何かあるかもしれん」
+<pause>
+<Klarth>
+「念入りに調べよう」{END}","<Cless>:<nl>
+ Hey...
+<pause>
+<Cless>:<nl>
+ I think we've found Demeter's
+ study.
+<pause>
+<Klarth>:<nl>
+ Yeah.
+ Let's give it a good once-over.
+<pause>
+<Klarth>:<nl>
+ Bet he's hiding something useful...{END}"
+"船乗り
+「無気味な所だな・・・」{END}","Sailor:<nl>
+ This place is kinda creepy...{END}"
+"船乗り
+「真っ白、何にも見えないよ」{END}","Sailor:<nl>
+ The fog's so thick here I can hardly
+ see my hand in front of me.{END}"
+"<Cless>
+「これは、呪文書だ！！」<wait>{END}","<Cless>:<nl>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_C800>を覚えました。<color_0000>{END},<color_0002><Arche> learned <var_C800>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな」
+<pause>
+<Cless>
+「戻しておこう」{END}","<Cless>:<nl>
+ But I don't have any use for it.
+<pause>
+<Cless>:<nl>
+ I'll put it back.{END}"
+"船長
+「帰りますかい？」{END}","Captain:<nl>
+ Going back?{END}"
+"船長
+「では出港！」{END}","Captain:<nl>
+ Men!
+ Hoist the sails!{END}"
+"船長
+「帰りたい時はいつでも声をかけ
+　てくれよ」{END}","Captain:<nl>
+ Well, just let me know when you
+ want to.{END}"
+"<unk1>船長
+何だ、もう帰るのか？」
+<pause>
+船長
+お前ら何しに来たんだよ」
+<pause>
+船長
+まあいいや、料金は同じ」
+<pause>
+船長
+諸経費込みで一人頭<num5_C0005114>ガルド、全員で<num5_C0005116>ガルドになる」
+<pause>
+船長
+行くかい？」{END}","<unk1>Captain:<nl>
+ What?
+ You guys just got here and
+ want to go back already?
+<pause>
+Captain:<nl>
+ Then what'd you ride for?
+<pause>
+Captain:<nl>
+ Well, whatever.
+ The fee's the same.
+<pause>
+Captain:<nl>
+ All expenses included, <num5_C0005114> gald for
+ one, so <num5_C0005116> gald for everyone.
+<pause>
+Captain:<nl>
+ Wanna head out?{END}"
+"船長
+「そうか」{END}","Captain:<nl>
+ I see.{END}"
+"船長
+「お金がなくちゃいけないな」{END}","Captain:<nl>
+ If ya ain't got the cash, we ain't
+ going anywhere.{END}"
+"船長
+「本当にいいのか？」{END}","Captain:<nl>
+ Are you sure?{END}"
+"船長
+「そうか」{END}","Captain:<nl>
+ I see.{END}"
+"船長
+「では、出港〜！」{END}","Captain:<nl>
+ Men!
+ Raise the sails!{END}"
+"船乗り
+「荷物を船から降ろしています」{END}","Sailor:<nl>
+ We're unloading the cargo.{END}"
+"船乗り
+「こんなド田舎、早くおさらばし
+　たいよ」{END}","Sailor:<nl>
+ I can't wait 'til we say goodbye to
+ this backwater dump!{END}"
+"船乗り
+「海の男にゃ〜、惚れるなよ〜」{END}","Sailor:<nl>
+ I love...<nl>
+ Being a man...<nl>
+ Of the sea!{END}"
+"船乗り
+「面舵いっぱい〜！」
+<pause>
+船乗り
+「帆をあげろ〜！」
+<pause>
+船乗り
+「俺、船乗りの見習いなんだ」
+<pause>
+船乗り見習い
+「早くこんなセリフを思いっきり
+　言ってみたいよ」{END}","Sailor:<nl>
+ Hard to starboard!
+<pause>
+Sailor:<nl>
+ Raise the mizzenmast!
+<pause>
+Sailor:<nl>
+ Actually, I'm just apprenticing.
+<pause>
+Apprentice Sailor:<nl>
+ I wanna be able to say stuff like
+ that all decisive and quick like the
+ professionals do.{END}"
+"船乗り
+「自分でも思うんだけど・・・」
+<pause>
+船乗り
+「船乗りって似たような顔ばっか
+　りなんだよな」
+<pause>
+船乗り
+「なんでだろ？」{END}","Sailor:<nl>
+ You know, I've started to notice
+ something odd:
+<pause>
+Sailor:<nl>
+ Us sailors all look alike.
+<pause>
+Sailor:<nl>
+ I wonder how that happened...{END}"
+"料理人
+「にくなべ作ってるかい？」{END}","Chef:<nl>
+ Have you made Meat Stew?{END}"
+"料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}","Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}"
+"料理人
+「この料理を伝授しよう！」<wait>{END}","Chef:<nl>
+ I'll teach you this dish!<wait>{END}"
+"<color_0002>にくなべを料理できるようになりま
+した。<color_0000>{END}",<color_0002>Learned the recipe for Meat Stew.<color_0000>{END}
+"料理人
+「おお、なんということだ！」{END}","Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}"
+"<Cless>
+「何でこんな所にプリズムがある
+　んだ？」
+<pause>
+<Cless>
+「重たくて動かせないな」
+<pause>
+<Cless>
+「でも回転させることはできるみ
+　たいだ」{END}","<Cless>:<nl>
+ What are these huge prisms for?
+<pause>
+<Cless>:<nl>
+ They look too heavy to push
+ around, but...
+<pause>
+<Cless>:<nl>
+ It might be possible to rotate them.{END}"
+"<color_0002>鍵を見つけました。<color_0000>
+<pause>
+<Cless>
+「どこで使う鍵だ？」{END}","<color_0002>Found a key.<color_0000>
+<pause>
+<Cless>:<nl>
+ I wonder what this goes to...{END}"
+<color_0002><item_3700>を手に入れました。<color_0000>{END},<color_0002>Acquired <item_3700>.<color_0000>{END}
+"<Cless>
+「書斎で見つけた鍵を使おう」{END}","<Cless>:<nl>
+ Let's try the key from the study...{END}"
+"<Cless>
+「鍵がかかってる・・・」{END}","<Cless>:<nl>
+ It's locked...{END}"
+"<Cless>
+「立派な樹だなぁ・・・」{END}","<Cless>:<nl>
+ What a nice tree...{END}"
+"<Mint>
+「特に変わった所はないようです
+　ね・・・」{END}","<Mint>:<nl>
+ It doesn't seem to be out of place
+ in here...{END}"
+"<Klarth>
+「ん？」
+<pause>
+<Klarth>
+「今、樹が動いたような？」
+<pause>
+<Cless>
+「キのせいじゃないですか？」{END}","<Klarth>:<nl>
+ Hm?
+<pause>
+<Klarth>:<nl>
+ I think the branches just swayed
+ on their own...
+<pause>
+<Cless>:<nl>
+ Don't sprout such nonsense!{END}"
+"<Klarth>
+「やはり、動いているぞ！」{END}","<Klarth>:<nl>
+ Well, would you look at that!{END}"
+"<Cless>
+「よし、もう一回！！」{END}","<Cless>:<nl>
+ Okay, we'll make origami out of
+ you this time!!{END}"
+"<audio_0A3C><Klarth>
+「ここか？」
+<pause>
+<audio_0A3D><Klarth>
+「すごい建物に住んでいるな」
+<pause>
+<audio_0A3E><Cless>
+「・・・・・・」
+<pause>
+<audio_0A3F><Cless>
+「しかし、なぜデミテルはハーメ
+　ルを襲ったんだ？」
+<pause>
+<audio_0A40><Rhea>
+「自分の力を見せるためだと思い
+　ます」
+<pause>
+<audio_0A41><Rhea>
+「そのために、デミテルは自分の
+　師匠をも殺したのです・・・」
+<pause>
+<audio_0A42><Mint>
+「師匠を？」<wait>{END}","<audio_0A3C><Klarth>:<nl>
+ So this is it, huh?
+<pause>
+<audio_0A3D><Klarth>:<nl>
+ Quite a place Demeter's got here.
+<pause>
+<audio_0A3E><Cless>:<nl>
+ ......
+<pause>
+<audio_0A3F><Cless>:<nl>
+ ...Now, why did he attack Harmel?
+<pause>
+<audio_0A40><Rhea>:<nl>
+ To demonstrate his power, I think.
+<pause>
+<audio_0A41><Rhea>:<nl>
+ That's the same reason he killed his
+ master...
+<pause>
+<audio_0A42><Mint>:<nl>
+ Even his own master?
+ How awful...<wait>{END}"
+"<audio_0A43><Rhea>
+「そうです」
+<pause>
+<audio_0A44><Rhea>
+「私のパパを、そして・・・」<wait>{END}","<audio_0A43><Rhea>:<nl>
+ Yes...
+<pause>
+<audio_0A44><Rhea>:<nl>
+ ...my Papa.
+ And then...<wait>{END}"
+"<audio_0A45><Rhea>
+「ママまで・・・」<wait>{END}","<audio_0A45><Rhea>:<nl>
+ ...he got Mama...<wait>{END}"
+"<audio_0A46><Klarth>
+「早く行こう」
+<pause>
+<audio_0A47><Klarth>
+「そんな奴を放っておくほど私は
+　お人好しじゃない」{END}","<audio_0A46><Klarth>:<nl>
+ That sick son of a...!
+<pause>
+<audio_0A47><Klarth>:<nl>
+ I'm not nice enough to
+ let a heartless bastard
+ like that run free.
+ We have to find him, fast!{END}"
+"『この世には二種類の人種がいる。
+　支配する者、される者である』
+<pause>
+『大衆とは単純で、さらに愚かな人
+　種である。平等などと言う言葉は
+　""与えられない者達""の作り上げ
+　た勝手な理屈である』{END}","“There are two types of people in
+this world: the rulers, and the
+ruled.”
+<pause>
+“The public is comprised of the
+simple and, more importantly,
+foolish people.
+<pause>
+They create arbitrary terms such
+“the underprivileged” with fallacious
+logic in the name of equality.”{END}"
+"『暗き闇の中、暗き炎の、暗き影が
+　あるところ、光は、なお輝く』{END}","“It is within the black, the flame,
+the shadow of darkness, that there
+is glimmering light.”{END}"
+"<Cless>
+「冷たい風がふきこんでくる」{END}","<Cless>:<nl>
+ I feel a cold wind blowing from
+ this way...{END}"
+"<audio_0A48>？？？
+「物騒な客人達だな」{END}","<audio_0A48>???:<nl>
+ Well, what a motley-looking crew.{END}"
+"<audio_0A49><Cless>
+「お前がデミテルか！」<wait>{END}","<audio_0A49><Cless>:<nl>
+ You must be Demeter!<wait>{END}"
+"<audio_0A4A>？？？
+「いかにも」
+<pause>
+<audio_0A4B>デミテル
+「それがどうかしたのかな？」<wait>{END}","<audio_0A4A>???:<nl>
+ That I am.
+<pause>
+<audio_0A4B>Demeter:<nl>
+ But what of it?<wait>{END}"
+"<audio_0A4C><Cless>
+「お前は<Rhea>の両親の仇！」
+<pause>
+<audio_0A4D><Cless>
+「覚悟しろ！」
+<pause>
+<audio_0A4E>デミテル
+「ほう、スカーレット夫妻を御存
+　じか」
+<pause>
+<audio_0A4F>デミテル
+「しかしあの方を師と仰ぐ私を仇
+　呼ばわりするとはどういうこと
+　かな？」
+<pause>
+<audio_0A50>デミテル
+「夫妻は事故死だったはずだ」
+<pause>
+<audio_0A51><Cless>
+「何だって！？」{END}","<audio_0A4C><Cless>:<nl>
+ You're responsible for the
+ murders of <Rhea>'s parents!
+ We're here for vengeance!
+<pause>
+<audio_0A4D><Cless>:<nl>
+ En garde!
+<pause>
+<audio_0A4E>Demeter:<nl>
+ Oh, you're familiar with the
+ Scarlets?
+<pause>
+<audio_0A4F>Demeter:<nl>
+ But what is this “vengeance”
+ nonsense? I loved my master.
+ I would not wish him harm.
+<pause>
+<audio_0A50>Demeter:<nl>
+ The Scarlets died in an accident.
+<pause>
+<audio_0A51><Cless>:<nl>
+ Cut the crap!{END}"
+"<audio_0A52>デミテル
+「いったい誰にそんな話を吹き込
+　まれたのかね？」
+<pause>
+<audio_0A53><Cless>
+「スカーレット夫妻の娘、<Rhea>に
+　決まってるだろう！」<wait>{END}","<audio_0A52>Demeter:<nl>
+ Where did you hear such lies, I
+ wonder?
+<pause>
+<audio_0A53><Cless>:<nl>
+ The Scarlets' daughter herself,
+ <Rhea>! Who else could it be!?<wait>{END}"
+"<audio_0A54>デミテル
+「確かに、スカーレット夫妻には
+　一女がおられたが・・・」
+<pause>
+<audio_0A55>デミテル
+「その娘が夫妻の御息女だという
+　のかね？」{END}","<audio_0A54>Demeter:<nl>
+ Certainly, the Scarlets had a
+ daughter...
+<pause>
+<audio_0A55>Demeter:<nl>
+ But you're saying this girl in front
+ of me is her?{END}"
+"<audio_0A56>デミテル
+「おとなしく立ち去るがよい」
+<pause>
+<audio_0A57>デミテル
+「真実を教えてやろう」
+<pause>
+<audio_0A58>デミテル
+「我が師匠の愛娘<Rhea>は、両親と
+　共に事故死している」{END}","<audio_0A56>Demeter:<nl>
+ Ignorance is not bliss, I'm afraid.
+<pause>
+<audio_0A57>Demeter:<nl>
+ Allow me to enlighten you.
+<pause>
+<audio_0A58>Demeter:<nl>
+ The daughter of my beloved
+ master, <Rhea>, died in the very
+ same accident that claimed both of
+ her parents.{END}"
+"<audio_0A59>デミテル
+「その娘が本当は何者で、何を考
+　えてこのようなことをしている
+　かは知らぬが・・・」
+<pause>
+<audio_0A5A>デミテル
+「何とも、間抜けな話よ」
+<pause>
+<audio_0A5B>デミテル
+「その娘、<Rhea>とは似ても似つか
+　ぬわ！」{END}","<audio_0A59>Demeter:<nl>
+ I do not know who that girl truly
+ is, or what she is thinking, but...
+<pause>
+<audio_0A5A>Demeter:<nl>
+ You have come here chasing a lie!
+<pause>
+<audio_0A5B>Demeter:<nl>
+ A blatant fabrication!
+ Why, this girl bears no
+ resemblance to <Rhea> Scarlet!{END}"
+"<audio_0A5C><Klarth>
+「いったいどっちが本当なんだ？」
+<pause>
+<audio_0A5D><Cless>
+「<Rhea>、あいつの方が嘘をついて
+　いると言ってくれ！！」{END}","<audio_0A5C><Klarth>:<nl>
+ Lovely...<nl>
+ How the hell can we know
+ who's telling the truth?
+<pause>
+<audio_0A5D><Cless>:<nl>
+ <Rhea>!
+ Please tell me that
+ he's deceiving us!!{END}"
+"<audio_0A5E>デミテル
+「その娘を残していけば館に勝手
+　に踏み入ったことも許してやろ
+　うではないか」
+<pause>
+<color_0002>どちらを信じますか？
+<speed_0000>１。<Rhea>を名乗る少女を信じる
+２。デミテルの言うことを信じる<speed_FFFF><color_0000>{END}","<audio_0A5E>Demeter:<nl>
+ Allow me to make a proposition.
+ If you leave that girl here, I will
+ forgive your trespassing into my
+ manor.
+<pause>
+<color_0002>Who do you believe?<nl><nl>
+<speed_0000>1. The girl calling herself <Rhea><nl><nl>
+2. What Demeter says<speed_FFFF><color_0000>{END}"
+"<audio_0A5F><Cless>
+（僕はこの子を信じたい・・・
+　きっと何か事情があるはずだ）{END}","
+<audio_0A5F><Cless><nl>
+ (I want to believe her...<nl>
+ I'm sure she has her reasons.){END}"
+"<audio_0A60><Cless>
+（この子は、<Rhea>じゃない・・・
+　僕はどうすれば・・・）{END}","<audio_0A60><Cless><nl>:<nl>
+ (This girl's not <Rhea>...<nl>
+ What should I do...?){END}"
+"<audio_0A61><Cless>
+「あの影は！！」
+<pause>
+<audio_0A62><Cless>
+「とうとうしっぽを出したな！」
+<pause>
+<audio_0A63><Cless>
+「お前もダオスの手先か！！」<wait>{END}","<audio_0A61><Cless>:<nl>
+ Look at his reflection!
+<pause>
+<audio_0A62><Cless>:<nl>
+ You've finally shown your horns,
+ monster!
+<pause>
+<audio_0A63><Cless>:<nl>
+ You must be one of Dhaos' minions!!<wait>{END}"
+"<audio_0A64>デミテル
+「何！？」
+<pause>
+<audio_0A65>デミテル
+「ちっ、貴様見えるのか」{END}","<audio_0A64>Demeter:<nl>
+ What!?
+<pause>
+<audio_0A65>Demeter:<nl>
+ Tsk!
+ You really see them, do you?{END}"
+"<audio_0A66><Cless>
+「きみは隠れているんだ！」{END}","<audio_0A66><Cless>:<nl>
+ You've been concealing yourself
+ since the beginning!{END}"
+"<audio_0A67>デミテル
+「ふははははは！！」
+<pause>
+<audio_0A68>デミテル
+「貴様ら、生きて帰れると思うな
+　よ！！」
+<pause>
+<audio_0A69>デミテル
+「覚悟！！！」{END}","<audio_0A67>Demeter:<nl>
+ Mwahahahahah!
+<pause>
+<audio_0A68>Demeter:<nl>
+ Don't think you can escape alive!
+<pause>
+<audio_0A69>Demeter:<nl>
+ Prepare yourselves!!{END}"
+"<audio_0A6A><Klarth>
+「・・・・・・」
+<pause>
+<audio_0A6B><Klarth>
+「これで本当によかったのか？」{END}","<audio_0A6A><Klarth>:<nl>
+ ......
+<pause>
+<audio_0A6B><Klarth>:<nl>
+ Did we really do the right thing?{END}"
+"<audio_0A6C><Mint>
+「<Rhea>さん！？」{END}","<audio_0A6C><Mint>:<nl>
+ Miss Scarlet!?{END}"
+"<audio_0A6D><Klarth>
+「大丈夫か！？」
+<pause>
+<audio_0A6E><Rhea>
+「みなさん・・・あ<speed_0020>、<speed_FFFF>ありがとう
+　ございました<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0A6F><Mint>
+「しっかりして！」
+<pause>
+<audio_0A70><Rhea>
+「こ<speed_0020>、<speed_FFFF>これで私も<speed_0010>・・・<speed_FFFF>両親の元
+　へ逝くことができます」
+<pause>
+<audio_0A71><Mint>
+「え？」
+<pause>
+<audio_0A72><Rhea>
+「最後のお願いです・・・」
+<pause>
+<audio_0A73><Rhea>
+「私の心優しい友人を、どうかよ
+　ろしく<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0A74><Cless>
+「<Rhea>、しっかりするんだ！」
+<pause>
+<audio_0A75><Cless>
+「友人って・・・」{END}","<audio_0A6D><Klarth>:<nl>
+ Are you all right!?
+<pause>
+<audio_0A6E><Rhea>:<nl>
+ Everyone...th-thank you...very
+ much...
+<pause>
+<audio_0A6F><Mint>:<nl>
+ Hang in there!
+<pause>
+<audio_0A70><Rhea>:<nl>
+ N-Now I can...pass on to where my
+ parents are...as well.
+<pause>
+<audio_0A71><Mint>:<nl>
+ Huh!?
+<pause>
+<audio_0A72><Rhea>:<nl>
+ This is my final wish...
+<pause>
+<audio_0A73><Rhea>:<nl>
+ Take good care of my...<nl>
+ kind-hearted friend...
+<pause>
+<audio_0A74><Cless>:<nl>
+ Rhea, hold on!
+<pause>
+<audio_0A75><Cless>:<nl>
+ Your “friend”...?{END}"
+"<audio_0A76><Mint>
+「<Rhea>さん！！」{END}","<audio_0A76><Mint>:<nl>
+ Miss Scarlet!!{END}"
+"<audio_0A77><Mint>
+「み、見ましたか？」
+<pause>
+<audio_0A78><Cless>
+「見た！」
+<pause>
+<audio_0A79><Klarth>
+「今のは、いったい？」{END}","<audio_0A77><Mint>:<nl>
+ D-Did you see that?
+<pause>
+<audio_0A78><Cless>:<nl>
+ Yeah, I saw!
+<pause>
+<audio_0A79><Klarth>:<nl>
+ What just happened?{END}"
+"<audio_0A7A><Mint>
+「<Rhea>さん、手に何かを持ってい
+　るようです」
+<pause>
+<audio_0A7B><Mint>
+「これは<speed_0010>・・・<speed_FFFF>リボン？」
+<pause>
+<audio_0A7C><Cless>
+「リボン？」{END}","<audio_0A7A><Mint>:<nl>
+ There's something in her hand...
+<pause>
+<audio_0A7B><Mint>:<nl>
+ It's<speed_0010>...<speed_FFFF>a ribbon?
+<pause>
+<audio_0A7C><Cless>:<nl>
+ Was she holding onto that the
+ whole time?{END}"
+"<audio_0A7D>？？？
+「ここは、どこ？」
+<pause>
+<audio_0A7E>？？？
+「<Rhea>は？」
+<pause>
+<audio_0A7F>？？？
+「<Rhea>はどうなったの？」{END}","<audio_0A7D>???:<nl>
+ Where am I?
+<pause>
+<audio_0A7E>???:<nl>
+ Where's <Rhea>?
+<pause>
+<audio_0A7F>???:<nl>
+ What happened to <Rhea>?{END}"
+"<audio_0A80><Mint>
+「<Rhea><speed_0010>・・・<speed_FFFF>さん？」
+<pause>
+<audio_0A81>？？？
+「<Rhea>？」
+<pause>
+<audio_0A82>？？？
+「違うの・・・あたしは・・・」
+<pause>
+<audio_0A83>？？？
+「あたしは<Arche>」
+<pause>
+<audio_0A84><Klarth>
+「<Arche>だって？」
+<pause>
+<audio_0A85><Arche>
+「<Rhea>はあたしの親友なの・・・」{END}","<audio_0A80><Mint>:<nl>
+ Miss...Scarlet...?
+<pause>
+<audio_0A81>???:<nl>
+ <Rhea>?
+<pause>
+<audio_0A82>???:<nl>
+ No...<nl>
+ I'm...
+<pause>
+<audio_0A83>???:<nl>
+ I'm <Arche>.
+<pause>
+<audio_0A84><Klarth>:<nl>
+ “<Arche>”?
+<pause>
+<audio_0A85><Arche>:<nl>
+ But <Rhea>'s my best friend...{END}"
+酒ビンが並んでいます。{END},Wine bottles are lined up in a row.{END}
+<color_0002><item_8A00>を手に入れました。{END},<color_0002>Acquired a <item_8A00>.{END}
+"<Cless>
+「ここには何もないぞ」
+<pause>
+<Cless>
+「他を探すか・・・」{END}","<Cless>:<nl>
+ There's nothing else in this cabinet.
+<pause>
+<Cless>:<nl>
+ Maybe we should search
+ somewhere else...{END}"
+"<color_0002>紙切れが出てきました。
+<pause>
+<color_0000><Cless>
+「なになに・・・」
+<pause>
+<Cless>
+「ハズレ、残念でした・・・」
+<pause>
+<Cless>
+「・・・・・・」{END}","<color_0002>A scrap of paper came out.
+<pause>
+<color_0000><Cless>:<nl>
+ What's this...
+<pause>
+<Cless>:<nl>
+ “Sorry, you failed. Too bad!”
+<pause>
+<Cless>:<nl>
+ ......{END}"
+"『あるエルフの人生観』
+<pause>
+<speed_0000><color_0002>読みますか？<color_0000><speed_FFFF>{END}","“An Elf's View of Life”
+<pause>
+<speed_0000><color_0002>Read it?<color_0000><speed_FFFF>{END}"
+"元来マナを紡ぐ技はエルフ族にしかできなかった。
+<pause>
+それはエルフ族だけの技にしておくべきだったのだ。
+<pause>
+エルフの血を分けた者達、すなわちハーフエルフが世に現れてから世界の混乱は始まった。
+<pause>
+魔術など日々の生活の道具であればよい。
+<pause>
+それをハーフエルフは、こともあろうに人殺しの道具として扱うようになったのだ。
+<pause>
+たしかに魔術の修練を積めば、星を大地に降らせることも可能だろう。
+<pause>
+しかし遥かな昔、私の先祖たるエルフの先人達は、強力な呪文の数々を封印したのだ。
+<pause>
+私は、そんな呪文の必要のない世界となることを願う。{END}","In the beginning, only elves were
+able to weave mana.
+<pause>
+It was a skill that should have
+belonged only to elves.
+<pause>
+When those with diluted elven blood
+appeared--half-elves, as they came
+to be known--the world began its
+descent into chaos.
+<pause>
+Magic is intended to be a tool used
+to sustain daily life.
+<pause>
+However, the half-elves began using
+it not only for that, but to commit
+murder.
+<pause>
+Certainly, magic has the power to
+even make a star fall upon the
+world.
+<pause>
+However, long ago, our elven
+ancestors sealed away many of the
+most powerful spells.
+<pause>
+I pray such spells will never be
+necessary in this world.{END}"
+"『エルフ村で生活した人の回想』
+<pause>
+<speed_0000><color_0002>読みますか？<color_0000><speed_FFFF>{END}","“Memoirs of the Elven Village”
+<pause>
+<speed_0000><color_0002>Read it?<color_0000><speed_FFFF>{END}"
+"エルフの一日は毎朝、日の出と共に始まる。
+<pause>
+男は森に狩りに出かけ、女は家事を終えてから菜園の手入れを行う。
+<pause>
+お昼頃までには仕事を終えて、昼食の後は読書などをして静かな午後を過ごす。
+<pause>
+夕方になると夕食の準備に、村はにわかに活気づく。
+<pause>
+日が沈む頃には一日の無事を神に感謝し、そして床につくのである。{END}","Elves rise with the sun every
+morning.
+<pause>
+The men head into the woods to
+hunt, while the women tend to
+vegetable gardens after finishing
+domestic chores.
+<pause>
+By mid-day, all work is complete,
+and after lunch, people pass their
+afternoons in quiet ways such as
+reading.
+<pause>
+The village suddenly becomes lively
+as evening arrives and supper is
+prepared.
+<pause>
+As the sun sets, the elves thank God
+for another peaceful day, and turn
+in for sleep.{END}"
+"『エルフの魔術の使い方』
+<pause>
+<speed_0000><color_0002>読みますか？<color_0000><speed_FFFF>{END}","“How Elves Use Magic”
+<pause>
+<speed_0000><color_0002>Read it?<color_0000><speed_FFFF>{END}"
+"エルフの村にはタキギがない。
+<pause>
+なぜなら、エルフは魔術で火をつけるからだ。
+<pause>
+エルフの村には氷室はない。
+<pause>
+なぜなら、エルフは魔術で氷を作るからだ。
+<pause>
+エルフの村にはシャベルはない。
+<pause>
+なぜなら、エルフは魔術で土をほるからだ。
+<pause>
+エルフの村にはウチワはない。
+<pause>
+なぜなら、エルフは魔術で風を作るからだ。{END}","The Elven Village has no kindling.
+<pause>
+It is unnecessary; the elves use
+magic to make fire.
+<pause>
+The Elven Village has no ice house.
+<pause>
+It is unnecessary; the elves use
+magic to make ice.
+<pause>
+The Elven Village has no shovels.
+<pause>
+It is unnecessary; the elves use
+magic to dig up the ground.
+<pause>
+The Elven Village has no fans.
+<pause>
+It is unnecessary; the elves use
+magic to make the wind.{END}"
+"『マナの生成』
+<pause>
+<speed_0000><color_0002>読みますか？<color_0000><speed_FFFF>{END}","“Mana Generation”
+<pause>
+<speed_0000><color_0002>Read it?<color_0000><speed_FFFF>{END}"
+"マナが世界樹ユグドラシルから生まれることは、魔術を扱える者にとっては常識である。
+<pause>
+しかし人間界では意外なほどに、その事実は知られていない。{END}","Everyone who uses magic knows
+that mana is born from Yggdrasill,
+the World Tree.
+<pause>
+However, in human society,
+knowledge of this fact is the
+exception, not the rule.{END}"
+"<Cless>
+「あちち・・・」{END}","<Cless>:<nl>
+ Ow ow...{END}"
+"<Chester>
+「なぁ、何でここに来たんだ？」
+<pause>
+<Cless>
+「えっ、いや・・・何かあるかと
+　思ってね」
+<pause>
+<Klarth>
+「ウンディーネとは、私の時代に
+　契約しているぞ」
+<pause>
+<Chester>
+「ウンディーネのいた場所か？」
+<pause>
+<Chester>
+「何て場所なんだ？」
+<pause>
+{END}","<Chester>:<nl>
+ Hey, uh...<nl>
+ What'd we come here for?
+<pause>
+<Cless>:<nl>
+ Well, I thought we might find
+ something here.
+<pause>
+<Klarth>:<nl>
+ Yeah. Back in my era, I made a
+ pact with Undine here. There could
+ still be some things of use laying
+ around.
+<pause>
+<Chester>:<nl>
+ Undine's hangout, huh?
+<pause>
+<Chester>:<nl>
+ What kind of place is it?
+<pause>
+{END}"
+"<Arche>
+「いちいちうっさいわねぇ」
+<pause>
+{END}","<Arche>:<nl>
+ Are you stupid, or something!?
+<pause>
+{END}"
+"<Arche>
+「新食堂よ！シンショクドウ！」
+<pause>
+{END}","<Arche>:<nl>
+ It's a garotto!
+ G-A-R-O-T-T-O!
+<pause>
+{END}"
+"<Klarth>
+「ん？」
+<pause>
+{END}","<Klarth>:<nl>
+ Hmm?
+<pause>
+{END}"
+"<Klarth>
+「何か今、変な言い方をしなかっ
+　たか？」
+<pause>
+{END}","<Klarth>:<nl>
+ Did you just say GA-rotto?
+ I think you're confused.
+<pause>
+{END}"
+"<Arche>
+「・・・気にしない気にしない！」
+<pause>
+{END}","<Arche>:<nl>
+ UGH!
+ Okay, grotto, whatever.
+<pause>
+{END}"
+"<Arche>
+「新食堂の話なんてしたら、おな
+　かがすいちゃったよ・・・」
+<pause>
+{END}","<Arche>:<nl>
+ Whenever I talk about grottos, for
+ some reason I start getting these
+ violent thoughts, like I just want
+ to, I dunno, strangle someone.
+<pause>
+{END}"
+"<Mint>
+「？？？」
+<pause>
+<Cless>
+（浸食洞の話で、お腹が・・・？）
+<pause>
+{END}","<Mint>:<nl>
+ ???
+<pause>
+<Cless>:<nl>
+ (Okay...<nl>
+ I think we need to keep
+ an eye on <Arche>.)
+<pause>
+{END}"
+"<Arche>
+「ねぇ・・・<Cless>」
+<pause>
+{END}","<Arche>:<nl>
+ Aww, c'mon guys!
+ Don't look at me like that!
+<pause>
+{END}"
+"<Arche>
+「ここで、ちょっと食事しない？」{END}","<Arche>:<nl>
+ I know! How about I make
+ something SPECIAL for you all to
+ make up for freaking you out?
+ Let's stop here for some lunch!{END}"
+"<Cless>
+「まあ、それもいいかな」
+<pause>
+{END}","<Cless>:<nl>
+ Uh, sure.
+ I guess that would be a
+ nice change of pace.
+<pause>
+{END}"
+"<Arche>
+「わーい<heart>」{END}","<Arche>:<nl>
+ Yaaay <heart>{END}"
+"<Cless>
+「先を急ごう」
+<pause>
+{END}","<Cless>:<nl>
+ Hmm...<nl>
+ On second thought, I'm not sure
+ I trust you around the food.
+<pause>
+{END}"
+"<Arche>
+「ちぇ〜！」{END}","<Arche>:<nl>
+ Awww, boo!{END}"
+"<Arche>
+「メロンないの？メロン？」
+<pause>
+{END}","<Arche>:<nl>
+ Melons, melons...<nl>
+ Won't someone please
+ pass the melons?
+ Or did you guys eat them all?
+<pause>
+{END}"
+"<Arche>
+「あたし、メロンだ〜いすき」
+<pause>
+{END}","<Arche>:<nl>
+ You know, I just looooove melons!
+<pause>
+{END}"
+"<Arche>
+「メロンパンもね<heart>」
+<pause>
+{END}","<Arche>:<nl>
+ Oh, and melon bread too <heart>
+<pause>
+{END}"
+"<Chester>
+「なんだよ、そりゃ・・・」
+<pause>
+{END}","<Chester>:<nl>
+ I've heard of banana bread and
+ raisin bread, but...melon bread?
+ How the heck does that even
+ work...?
+<pause>
+{END}"
+"<Arche>
+「じゃ〜ん」
+<pause>
+<Arche>
+「今回は、あたしが特別料理を作
+　りましたぁ」
+<pause>
+{END}","<Arche>:<nl>
+ Ta-daa!
+<pause>
+<Arche>:<nl>
+ Today, I present to you...<nl>
+ <Arche>'s Masterpiece!
+<pause>
+{END}"
+"<color_0002>特別料理？を料理できるようになり
+ました。
+<pause>
+<color_0000>{END}","<color_0002>Learned the recipe for <Arche>'s
+Masterpiece!<color_0000>
+<pause>
+{END}"
+"<Cless>
+「おっ！いいニオイじゃないか」
+<pause>
+{END}","<Cless>:<nl>
+ Mmm, mmm, mmm!
+ Smells great!
+<pause>
+{END}"
+"<Chester>
+「おい」
+<pause>
+{END}","<Chester>:<nl>
+ Hey, uh...
+<pause>
+{END}"
+"<Chester>
+「これ大丈夫なのかよ」
+<pause>
+{END}","<Chester>:<nl>
+ You didn't mix anything that
+ might kill us into this, did you?
+ Y'know, violent thoughts, and all.
+<pause>
+{END}"
+"<Arche>
+「文句言うなら、食べなきゃいい
+　じゃん！」
+<pause>
+<Klarth>
+「おいおい、やめないか」
+<pause>
+{END}","<Arche>:<nl>
+ I never said you HAD to eat it!
+<pause>
+<Klarth>:<nl>
+ Now, now, children...
+<pause>
+{END}"
+"<Klarth>
+「何はともあれ、いただくことに
+　しよう」{END}","<Klarth>:<nl>
+ Let's not be disrespectful
+ to our chef, shall we?
+ Let's give it a try.{END}"
+"<Cless>
+「うわっ！」
+<pause>
+{END}","*munch* *munch*
+
+<pause>
+<Cless>:<nl>
+ Oogh!
+<pause>
+{END}"
+"<Klarth>
+「ぶほっ！」
+<pause>
+{END}","<Klarth>:<nl>
+ Hooo!
+<pause>
+{END}"
+"<Chester>
+「うわああああああ！」{END}","<Chester>:<nl>
+ BLEEEEEECHHH!!{END}"
+"<Arche>
+「ホエ？」
+<pause>
+{END}","<Arche>:<nl>
+ Huhhh?
+<pause>
+{END}"
+"<unk1><Arche>
+<Mint>・・・何だか、男どもがみんな変だよ」
+<pause>
+{END}","<unk1><Arche>:<nl>
+ Uhhh, <Mint>...?
+ What's wrong with the guys!?
+<pause>
+{END}"
+"<Mint>
+「・・・・・・」
+<pause>
+{END}","<Mint>:<nl>
+ ......
+<pause>
+{END}"
+"<unk1><Cless>
+食べるのやめなよ、<Mint>！」
+<pause>
+{END}","<unk1><Cless>:<nl>
+ <Mint>!
+ Stop eating that!
+<pause>
+{END}"
+"<Cless>
+「顔色が悪いよ」
+<pause>
+{END}","<Cless>:<nl>
+ You look like you're going to faint!
+<pause>
+{END}"
+"<color_0002>特別料理は封印されました。
+<pause>
+<color_0000>{END}","<color_0002>You burned the recipe for
+<Arche>'s Masterpiece.<color_0000>
+<pause>
+{END}"
+"<Cless>
+「<Arche>！」
+<pause>
+{END}","<Cless>:<nl>
+ <Arche>!
+<pause>
+{END}"
+"<Cless>
+「これ、作ってるときに味見した
+　のか？」
+<pause>
+{END}","<Cless>:<nl>
+ Did you taste test that stuff at all
+ while you were making it?
+<pause>
+{END}"
+"<Arche>
+「な、何言ってんの<panic>」{END}","<Arche>:<nl>
+ Y-You mean people actually do that
+ kinda thing? <panic>{END}"
+"<Arche>
+「うひぇ〜！！！」
+<pause>
+{END}","<Arche>:<nl>
+ *munch* *munch*
+<pause>
+<Arche>:<nl>
+ AGHHHHHHH!!!
+<pause>
+{END}"
+"<Arche>
+「これ、何？」
+<pause>
+{END}","<Arche>:<nl>
+ What...*what* *have* *I* *done*!?
+<pause>
+{END}"
+"<Cless>
+「何って・・・」
+<pause>
+{END}","<Cless>:<nl>
+ You tell *us*...
+<pause>
+{END}"
+"<Chester>
+「むむむぅ・・・！」
+<pause>
+{END}","<Chester>:<nl>
+ Muuuugh...!
+<pause>
+{END}"
+"<Chester>
+「やい、<Arche>！」
+<pause>
+{END}","<Chester>:<nl>
+ Hey, <Arche>!
+<pause>
+{END}"
+"<Chester>
+「これは、料理じゃねぇ！」
+<pause>
+<Chester>
+「この、※※料理人！」
+<pause>
+{END}","<Chester>:<nl>
+ This rubbish ain't fit for humans!
+ Even pigs wouldn't eat this crap!
+<pause>
+<Chester>:<nl>
+ You're the Worst. Chef. Ever.,
+ you hear me!?
+<pause>
+{END}"
+<color_0002><Arche>は『<var_AD01>』の汚名を付けられてしまいました。<color_0000>{END},"<color_0002><Arche> has earned the
+disgraceful title “<var_AD01>”<color_0000>{END}"
+"<Arche>
+「ふ、ふん、そんな汚名はすぐに
+　挽回しますよーだ」
+<pause>
+{END}","<Arche>:<nl>
+ H-Hmph!
+ I'll turn over this disgraceful title in
+ no time flat!
+<pause>
+{END}"
+"<Klarth>
+「・・・汚名を挽回してどうする」
+<pause>
+{END}","<Klarth>:<nl>
+ Oh, and after all the effort we
+ took to “serve it up” for you?
+<pause>
+{END}"
+"<Klarth>
+「汚名は返上するものだ・・・」
+<pause>
+{END}","<Klarth>:<nl>
+ ...What, you didn't like that?
+<pause>
+{END}"
+"<Arche>
+「あっ、あれぇ？」{END}","<Arche>:<nl>
+ You're not allowed to make any
+ more jokes, mister.{END}"
+"<Chester>
+「なぁ・・・、何でまたここに
+　来たんだ？」
+<pause>
+<Cless>
+「えっ、いや・・・また何かある
+　かと思ってね」
+<pause>
+{END}","<Chester>:<nl>
+ Hey, uh...<nl>
+ What'd we come here for?
+<pause>
+<Cless>:<nl>
+ Well, I thought we might find
+ something here.
+<pause>
+{END}"
+"<Klarth>
+「あの、おぞましい料理の記憶は
+　消したいんだが・・・」
+<pause>
+{END}","<Klarth>:<nl>
+ I need to wipe the memory of this horrible cooking from my mind...
+<pause>
+{END}"
+"<Chester>
+「確かに・・・」
+<pause>
+{END}","<Chester>:<nl>
+ No kidding...
+<pause>
+{END}"
+"<Arche>
+「なによーッ！」
+<pause>
+{END}","<Arche>:<nl>
+ What the heck!?
+<pause>
+{END}"
+"<Arche>
+「いちいちうっさいわねぇ！」
+<pause>
+{END}","<Arche>:<nl>
+ Are you stupid, or something!?
+<pause>
+{END}"
+"<Arche>
+「もう・・・、絶対、料理上手に
+　なってやるッ！！」
+<pause>
+{END}","<Arche>:<nl>
+ Geez... I'm gonna get good at cooking, you'll see!
+<pause>
+{END}"
+"<Klarth>
+「なんだか料理の話をしてたら、
+　腹が減ってきたな」
+<pause>
+{END}","<Klarth>:<nl>
+ All this talk of cooking is making me hungry.
+<pause>
+{END}"
+"<Chester>
+「この前の二の舞は嫌だけどな」
+<pause>
+{END}","<Chester>:<nl>
+I don't want to repeat that
+mistake again.
+<pause>
+{END}"
+"<Arche>
+「むっかー！」
+<pause>
+<Arche>
+「あんたには頼まれたって
+　絶対作ってやんない！」
+<pause>
+<Klarth>
+「おいおい、そんなことで
+　ケンカするなって・・・」
+<pause>
+<Klarth>
+「まったく・・・」
+<pause>
+{END}","<Arche>:<nl>
+Bah!
+<pause>
+<Arche>:<nl>
+I won't cook for you, then.
+Not even if you beg!
+<pause>
+<Klarth>:<nl>
+Come on, don't bicker over
+something silly like this...
+<pause>
+<Klarth>:<nl>
+Good grief...
+<pause>
+{END}"
+"<Cless>
+「でも、確かにちょっと
+　お腹すいたな・・・」
+<pause>
+{END}","<Cless>:<nl>
+But you know,
+I am kinda hungry...
+<pause>
+{END}"
+"<Mint>
+「では・・・、今回は私が
+　作りましょうか？」
+<pause>
+{END}","<Mint>:<nl>
+Well, I could cook this time,
+would that be all right?
+<pause>
+{END}"
+"<Klarth>
+「おっ、いいね〜」{END}","<Klarth>:<nl>
+Sounds great to me~.{END}"
+"<Klarth>
+「どうだ、<Cless>」
+<pause>
+{END}","<Klarth>:<nl>
+So what do you say, <Cless>?
+<pause>
+{END}"
+"<Klarth>
+「ここで食事していかないか？」{END}","<Klarth>:<nl>
+Shall we eat here?{END}"
+"<Cless>
+「そうですね」
+<pause>
+{END}","<Cless>:<nl>
+Sounds good.
+<pause>
+{END}"
+"<Arche>
+「わーい<heart>　ピクニックだー♪」
+<pause>
+{END}","<Arche>:<nl>
+Woohoo! <heart> It's a picnic! ♪
+<pause>
+{END}"
+"<Mint>
+「じゃあ私は、早速料理に
+　取り掛かりますね」{END}","<Mint>:<nl>
+All right, I'll get right to work
+and cook something up.{END}"
+"<Cless>
+「いえ、先を急ぎましょう」
+<pause>
+{END}","<Cless>:<nl>
+No, let's hurry on ahead.
+<pause>
+{END}"
+"<Klarth>
+「そうか・・・、確かに急いだ
+　方がいいな」
+<pause>
+<Chester>
+「そうそう、ここには苦い思い出
+　しかないからな」
+<pause>
+<Arche>
+「ふーんだっ！」{END}","<Klarth>:<nl>
+Yeah... I guess we should hurry.
+<pause>
+<Chester>:<nl>
+I agree, this place has nothing
+but bad memories.
+<pause>
+<Arche>:<nl>
+Hmph!{END}"
+"<Mint>
+「お待たせしました」
+<pause>
+<Klarth>
+「おっ！」
+<pause>
+<Klarth>
+「今回も良いにおいだな〜」
+<pause>
+<Chester>
+「前回は、ここでひどい目に
+　遭ったよな」
+<pause>
+<Arche>
+「もういいじゃん」
+<pause>
+<Arche>
+「それより早く食べよ<heart>」
+<pause>
+<Cless>
+「そうだな」{END}","<Mint>:<nl>
+Here it is.
+<pause>
+<Klarth>:<nl>
+Hey!
+<pause>
+<Klarth>:<nl>
+That smells great.
+<pause>
+<Chester>:<nl>
+Yeah, but remember what
+happened the last time
+we said that.
+<pause>
+<Arche>:<nl>
+Okay, I get the hint.
+<pause>
+<Arche>:<nl>
+But enough about that.
+Let's dig in. <heart>
+<pause>
+<Cless>:<nl>
+Yeah.{END}"
+"<Cless>
+「うまいッ！」
+<pause>
+<Klarth>
+「どれどれ・・・」{END}","<Cless>:<nl>
+This is amazing!
+<pause>
+<Klarth>:<nl>
+Let's see...{END}"
+"<Klarth>
+「・・・うまい！」
+<pause>
+<Klarth>
+「またずいぶんと腕をあげた
+　じゃないか、<Mint>」
+<pause>
+<Chester>
+「ああ、これならいくらでも
+　入るな」
+<pause>
+<Cless>
+「さすが<Mint>だよ」
+<pause>
+{END}","<Klarth>:<nl>
+Wow! Fantastic!
+<pause>
+<Klarth>:<nl>
+You've really outdone yourself
+this time, <Mint>.
+<pause>
+<Chester>:<nl>
+I could eat a million of these.
+<pause>
+<Cless>:<nl>
+Well done, <Mint>!
+<pause>
+{END}"
+"<Mint>
+「そんな・・・」{END}","<Mint>:<nl>
+Oh, stop it...{END}"
+"<Mint>
+「たくさんありますから、
+　どんどん食べてくださいね」{END}","<Mint>:<nl>
+There's plenty more.
+Have as many as you like.{END}"
+"<Cless>
+「・・・ん？」
+<pause>
+<Cless>
+「<Arche>・・・？」
+<pause>
+<Cless>
+「どうかしたのか？」{END}","<Cless>:<nl>
+Hm?
+<pause>
+<Cless>:<nl>
+<Arche>...?
+<pause>
+<Cless>:<nl>
+Something wrong?{END}"
+"<Arche>
+「えッ？」
+<pause>
+<Arche>
+「なっ、なんでもないよ」{END}","<Arche>:<nl>
+Huh?
+<pause>
+<Arche>:<nl>
+Oh, it's nothing...{END}"
+"<Klarth>
+「どうしたんだ？」
+<pause>
+<Klarth>
+「全然食ベてないじゃないか」
+<pause>
+<Chester>
+「お前の料理とは違って、
+　うまいぞ」{END}","<Klarth>:<nl>
+What's the matter?
+<pause>
+<Klarth>:<nl>
+You haven't even taken a bite.
+<pause>
+<Chester>:<nl>
+It's great, unlike the stuff you
+made.{END}"
+"<Arche>
+「わかってるわよ、そんなの！」{END}","<Arche>:<nl>
+I know! You don't have to rub it in!{END}"
+"<Arche>
+「別にいいじゃない・・・」{END}","<Arche>:<nl>
+It doesn't matter anyway...{END}"
+"<Mint>
+「あッ！」
+<pause>
+<Cless>
+「ん、どうしたの？」
+<pause>
+<Mint>
+「一つだけ、作り忘れたのが
+　ありました」
+<pause>
+{END}","<Mint>:<nl>
+Oh!
+<pause>
+<Cless>:<nl>
+Hm? Something wrong?
+<pause>
+<Mint>:<nl>
+There was one other dish I
+wanted to make, but I forgot.
+<pause>
+{END}"
+"<Mint>
+「・・・<Arche>さん」
+<pause>
+<Mint>
+「手伝っていただけませんか？」
+<pause>
+{END}","<Mint>:<nl>
+<Arche>...
+<pause>
+<Mint>:<nl>
+Would you mind giving me
+a hand?
+<pause>
+{END}"
+"<Arche>
+「えッ・・・」{END}","<Arche>:<nl>
+Huh...?{END}"
+"<Chester>
+「やめとけって」
+<pause>
+{END}","<Chester>:<nl>
+I wouldn't do that if I were you.
+<pause>
+{END}"
+"<Chester>
+「そいつに手伝わせると、
+　とんでもないことになるぞ！」
+<pause>
+<Klarth>
+「なあ、<Mint>・・・」
+<pause>
+<Klarth>
+「べ、別に無理して作らなくても
+　いいんじゃないか？」
+<pause>
+{END}","<Chester>:<nl>
+Keep her away from the kitchen!
+She's a disaster waiting to happen!
+<pause>
+<Klarth>:<nl>
+<Mint>...
+<pause>
+<Klarth>:<nl>
+You don't need to go through all
+the trouble just for us.
+<pause>
+{END}"
+"<Mint>
+「<Arche>さん」
+<pause>
+<Mint>
+「お願いできますか？」{END}","<Mint>:<nl>
+Well, <Arche>.
+<pause>
+<Mint>:<nl>
+How 'bout it?{END}"
+"<Arche>
+「・・・うんッ<heart>」{END}","<Arche>:<nl>
+...Okay! <heart>{END}"
+"<Chester>
+「あぁ・・・」
+<pause>
+{END}","<Chester>:<nl>
+Uh-oh...
+<pause>
+{END}"
+"<Klarth>
+「・・・覚悟を決めるか」
+<pause>
+{END}","<Klarth>:<nl>
+Better brace yourselves...
+<pause>
+{END}"
+"<Cless>
+「そこまで言わなくても・・・」{END}","<Cless>:<nl>
+That's not very nice.{END}"
+"
+
+　　　　　１５分後・・・
+<pause>
+{END}","
+
+　　　　　15 minutes later...
+<pause>
+{END}"
+"<Arche>
+「おまたせ〜<heart>」{END}","<Arche>:<nl>
+Here you go! <heart>{END}"
+"<Mint>
+「どうしたんですか？」
+<pause>
+<Cless>
+「えっ、いや・・・、なんでも
+　ないよいただきます」
+<pause>
+<Mint>
+「今回は、<Arche>さんが
+　ほとんど作ったんですよ」
+<pause>
+{END}","<Mint>:<nl>
+Something the matter?
+<pause>
+<Cless>:<nl>
+Huh? Uh, no.
+I was just about to take a bite.
+<pause>
+<Mint>:<nl>
+<Arche> practically made it
+by herself.
+<pause>
+{END}"
+"<Cless>
+「・・・えッ？」{END}","<Cless>:<nl>
+Oh, really?{END}"
+"<Klarth>
+（いけ、<Cless>！）
+<pause>
+<Chester>
+（頑張れよ！）
+<pause>
+<Cless>
+「・・・」{END}","<Klarth>:<nl>
+(Choke it down, <Cless>!)
+<pause>
+<Chester>:<nl>
+(Hang in there, buddy!)
+<pause>
+<Cless>:<nl>
+...{END}"
+"<Cless>
+「いっ、いただきます！」{END}","<Cless>:<nl>
+Here goes...!{END}"
+"<Cless>
+「うまいッ！」{END}","<Cless>:<nl>
+It's delicious!{END}"
+"<Arche>
+「えっ、ホントに<heart>」
+<pause>
+{END}","<Arche>:<nl>
+Really? <heart>
+<pause>
+{END}"
+"<Mint>
+「良かったですね」
+<pause>
+<Chester>
+「ほっ、ほんとかよ・・・」
+<pause>
+<Klarth>
+「どれどれ・・・」{END}","<Mint>:<nl>
+I'm so happy you like it.
+<pause>
+<Chester>:<nl>
+You're joking, right?
+<pause>
+<Klarth>:<nl>
+Let's see...{END}"
+"<Klarth>
+「確かに、これはうまいな」{END}","<Klarth>:<nl>
+Huh, it really is good.{END}"
+"<Arche>
+「やったーッ！！」
+<pause>
+<Chester>
+「お、俺も・・・」{END}","<Arche>:<nl>
+I did it!!!
+<pause>
+<Chester>:<nl>
+Okay, lemme try.{END}"
+"<Chester>
+「うっ・・・、うまい<speed_0010>・・・<speed_00FF>かも」
+<pause>
+<Arche>
+「ほら見なさい！」
+<pause>
+<Arche>
+「どう、これがあたしの真の実力
+　なのよッ！！」
+<pause>
+<Chester>
+「で、でもさ・・・」
+<pause>
+<Chester>
+「本当はさ、これ作ったのって
+　<speed_0010>・・・<speed_00FF><Mint>なんだろ？」
+<pause>
+<Mint>
+「そんな事ありませんよ」
+<pause>
+<Mint>
+「私は少しだけ、アドバイス
+　しただけです」
+<pause>
+{END}","<Chester>:<nl>
+This...isn't half bad<speed_0010>...<speed_00FF>
+<pause>
+<Arche>:<nl>
+See!
+<pause>
+<Arche>:<nl>
+I really can cook!!!
+<pause>
+<Chester>:<nl>
+Yeah, but...
+<pause>
+<Chester>:<nl>
+I bet <Mint> was the one that
+REALLY made it.
+<pause>
+<Mint>:<nl>
+That's not true.
+<pause>
+<Mint>:<nl>
+All I did was give her a few
+pointers.
+<pause>
+{END}"
+"<Arche>
+「ねー<heart>」
+<pause>
+<Mint>
+「はい」
+<pause>
+{END}","<Arche>:<nl>
+Right. <heart>
+<pause>
+<Mint>:<nl>
+Mm-hm.
+<pause>
+{END}"
+"<Chester>
+「うそだ！」
+<pause>
+<Chester>
+「俺は絶対認めねぇ」
+<pause>
+<Mint>
+「そんな事ありませんって」
+<pause>
+<Chester>
+「いや・・・」
+<pause>
+<Chester>
+「<speed_0010>・・・<speed_00FF>教え方が良かったんだ」
+<pause>
+<Chester>
+「そうに決まってる！」
+<pause>
+<Klarth>
+「まあ確かに<speed_0010>・・・<speed_00FF>そうだなあ」
+<pause>
+<Klarth>
+「良くここまで作れるように
+　アドバイスしたもんだ」
+<pause>
+<Arche>
+「なっ・・・、なによ
+　みんなして！」
+<pause>
+{END}","<Chester>:<nl>
+No way!
+<pause>
+<Chester>:<nl>
+I don't buy it.
+<pause>
+<Mint>:<nl>
+I already told you--
+<pause>
+<Chester>:<nl>
+Nope...
+<pause>
+<Chester>:<nl>
+It's only because you taught her
+so well<speed_0010>...<speed_00FF>
+<pause>
+<Chester>:<nl>
+That's the only
+logical explanation!
+<pause>
+<Klarth>:<nl>
+He has a good point there<speed_0010>...<speed_00FF>
+<pause>
+<Klarth>:<nl>
+It's amazing how far
+“a few pointers”
+can go.
+<pause>
+<Arche>:<nl>
+What's up with you guys!?
+<pause>
+{END}"
+"<Cless>
+「やっぱりすごいな<speed_0010>・・・・・・<speed_00FF>
+　<Mint>は」
+<pause>
+<Mint>
+「そっ、そんな・・・」{END}","<Cless>:<nl>
+You're really something, <Mint>.
+<pause>
+<Mint>:<nl>
+Oh, stop it...{END}"
+"<Chester>
+「さすが<Mint>だ」
+<pause>
+<Klarth>
+「ああ、たいしたもんだ」
+<pause>
+<Arche>
+「なっ・・・、なんなのよ、
+　この扱いは！」{END}","<Chester>:<nl>
+Good job, <Mint>.
+<pause>
+<Klarth>:<nl>
+Yeah, another winner.
+<pause>
+<Arche>:<nl>
+Hey! This isn't fair!{END}"
+"<Arche>
+「ちょっと〜・・・」{END}","<Arche>:<nl>
+Come on~!{END}"
+"<color_0002><Mint>は
+『<var_9F01>』の
+称号を得ました。<color_0000>{END}","<color_0002><Mint> has earned the title
+“<var_9F01>.”<color_0000>{END}"

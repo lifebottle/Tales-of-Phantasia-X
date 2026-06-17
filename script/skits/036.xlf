@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_056">
+        <source>Now that we've changed
+history, how will it affect our time?</source>
+        <target state="translated">Now that we've changed
+history, how will it affect our time?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_057">
+        <source>We won't know until we get
+there. But magic should exist, at least.</source>
+        <target state="translated">We won't know until we get
+there. But magic should exist, at least.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_058">
+        <source>That's true.</source>
+        <target state="translated">That's true.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_059">
+        <source>Once we defeat Dhaos for the last
+time, we'll have nothing to worry about.</source>
+        <target state="translated">Once we defeat Dhaos for the last
+time, we'll have nothing to worry about.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_060">
+        <source>Yes, especially since Mr. Morrison and
+&lt;Chester&gt; will be saved in the process.</source>
+        <target state="translated">Yes, especially since Mr. Morrison and
+&lt;Chester&gt; will be saved in the process.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

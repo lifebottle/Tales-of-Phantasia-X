@@ -1,0 +1,550 @@
+Debug Map{END}
+
+Put <0Dvar00000010610CC002000CC000C0> in your party?{END}
+
+Your party is full. The characters
+you remove temporarily are still
+registered as active, so please be
+careful.{END}
+
+<speed_0000><0Bvar00106102000CC000C0>:
+1. Remove from party
+2. Remove from party temporarily{END}
+
+<speed_0000>1. Begin normal battle
+2. Begin battle mounted on pegasus
+3. Give all members bad status
+4. Top menu<speed_FFFF>{END}
+
+Victory?<wait>{END}
+
+Defeat?<wait>{END}
+
+Escape?<wait>{END}
+
+Victory?<wait>{END}
+
+Defeat?<wait>{END}
+
+Escape?<wait>{END}
+
+All members have halved HP and TP,
+and poisoned, paralyzed, petrified
+and KOed.<speed_FFFF>{END}
+
+<speed_0000>1. Change items held
+2. Change gald held
+3. Reset position
+4. Reset switches<speed_FFFF>{END}
+
+<speed_0000>1. Force a 6 person party
+2. Force a 6 letter name
+3. Fix lead character
+4. Remove lead character fix<speed_FFFF>{END}
+
+Lead character has been fixed at
+<num2_C0006100>.{END}
+
+Removing lead character fix.{END}
+
+<speed_0000>1. Voice test
+2. BGM Fade in
+3. View BGM volume and number
+4. BGM Fade out<speed_FFFF>{END}
+
+<speed_0000>1. 100%
+2. 75%
+3. 50%
+4. 25%<speed_FFFF>{END}
+
+Current song is #<num5_00008097>{END}
+
+<speed_0000>1. View basic animation pattern
+2. Switch character for special animation
+3. Acquisition sounds test
+4. Test additional fonts<speed_FFFF>{END}
+
+<speed_0000>1. Valuable item acquisition sound
+2. General item acquisition sound
+3. Title acquisition sound
+<speed_FFFF>{END}
+
+You got a key item!
+<speed_0020>.........<speed_FFFF>Not really.{END}
+
+You got a general item, only not.{END}
+
+You earned a title!
+<speed_0020>.......<speed_FFFF>not really.{END}
+
+Font Test
+<pause>
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+123456789/,.!?:;#$&*()-+=“”'
+[0][1][2][3][4][5][6][7][8][9]<volt1><volt2><volt3><volt4><ring><panic><sweat><heart><star>{END}
+
+<speed_0000>1. Earn all titles
+2. Earn all event gained skills
+3. Earn all recipes
+4. Earn all trade goods<speed_FFFF>{END}
+
+<speed_0000>1. Dualshock vibration test
+2. No function
+3. Switch for Dhaos escaping
+4. Learn <var_DA00><speed_FFFF>{END}
+
+<speed_0000>1. EXP+2,000,000
+2. Show Thor
+3. Show ending movie
+4. Final save accessed<speed_FFFF>{END}
+
+All members gained 2,000,000
+experience.<wait>{END}
+
+<speed_0000><color_0002><num2_C0006100> has gained a level!<wait>{END}
+
+<speed_0000><color_0002><num2_C0006100> has gained a level! <num2_C0006100> has
+gained a new skill!<wait>{END}
+
+Lilith
+ Hello! <heart><wait>{END}
+
+<speed_0000>1. Shooting game
+2. Display ending
+3. Conditions for <Mint>'s dream comes to be
+4. No function<speed_FFFF>{END}
+
+Lilith
+ When you return, hold the pause
+ button and push <var_0802> okay?<heart>{END}
+
+<num5_00006000> points{END}
+
+Lilith
+ The FIN image will display for 30
+ seconds.<heart>{END}
+
+<speed_0000>1. View “Falling meteors”
+2. View “Collapse of the mausoleum”
+3. View “Thor resurfaces”
+4. View “Yggdrasill's revival”<speed_FFFF>{END}
+
+<speed_0000>Animation (<num2_C00050FC>2)
+Current #:<num5_000050F8>
+Next #:<animation line2>{END}
+
+<speed_0000>1. Past
+2. Present
+3. Future{END}
+
+The field is now the past.{END}
+
+The field is now the present.{END}
+
+The field is now the future.{END}
+
+No changes were made.{END}
+
+<speed_0000>1. Totus Village <color_0003>(Post Prologue)<color_0000>
+2. Forest of Spirits (Hunting Spot)
+3. Ravaged Totus
+<color_0000>4. Euclid Capital (Present)<speed_FFFF>{END}
+
+<speed_0000>1. Euclid Capital (Future)
+2. Underground Cell <color_0003>(Event Start)<color_0000>
+3. Underground Cell
+4. Morrison's House (Present)<speed_FFFF>{END}
+
+<speed_0000>1. Underground Mausoleum
+2. Belladam Village
+3. Euclid Village <color_0003>(after recruiting)<color_0000>
+4. Lone Valley<speed_FFFF>{END}
+
+<speed_0000>1. After Event
+2. Before Event{END}
+
+<speed_0000>1. Forest of Spirits (Past)
+2. Town of Harmel
+3. Venezia City
+4. Demeter's Abode<speed_FFFF>{END}
+
+1. Alvanista Capital (Past)
+2. Moria Mine
+3. Olive Village
+4. Cave of Searing Sand<speed_FFFF>{END}
+
+<speed_0000>1. Cave of Spirits
+2. Eroded Grotto
+3. Ymir Forest, Lake of Reflection
+4. Village of the Elves<speed_FFFF>{END}
+
+<speed_0000>1. Zodiac Tower
+2. Midgard <color_0003>(accessible castle)<color_0000>
+3. Plains of Valhalla
+4. Dhaos' Castle (Past)<speed_FFFF>{END}
+
+Activate Valhalla War? (Yes/No){END}
+
+<speed_0000>1. Whitespire Forest
+2. Town of Miguel
+3. <var_D700>'s Cave
+4. Alvanista Capital (Future)<speed_FFFF>{END}
+
+<speed_0000>1. Tower of Fire
+2. Freezekiel
+3. Early, The Twilit Town
+4. Entrance to Dhaos' Castle (Future)<speed_FFFF>{END}
+
+<speed_0000>1. Ninja Village
+2. Moria Mine (Underground Entrance)
+3. Ancient City of Thor (Future)
+4. <var_D500>'s Dungeon<speed_FFFF>{END}
+
+<speed_0000>1. Aegis' Shop
+2. Oasis
+3. Arcia's home
+4. <speed_FFFF>{END}
+
+<speed_0000>1. Oasis 1
+2. Oasis 2
+3. Oasis 3<speed_FFFF>{END}
+
+<speed_0000>1. Prologue - Dhaos's sealing
+2. Meeting a spirit
+3. Destruction of Totus
+4. Imposing on Uncle Olson<speed_FFFF>{END}
+
+<speed_0000>1. Brought to Mars' lair
+2. Imprisonment
+3. Escape from prison
+4. (unused)<speed_FFFF>{END}
+
+<speed_0000>1. Dhaos' revival
+2. Time travel to the sunset field
+3. Learning the story in Belladam
+4. <Klarth> joins the party<speed_FFFF>{END}
+
+<speed_0000>1. Pact with <var_CF00>
+2. Great Tree Yggdrasill
+3. Ruined Harmel
+4. To Demeter's abode<speed_FFFF>{END}
+
+<speed_0000>1. <Arche> joins the party
+2. Meeting Mayer
+3. Mayer's assault
+4. The plan to rescue Prince Laird<speed_FFFF>{END}
+
+Moving to Demeter's underground
+lab. After the battle, <Arche> will
+join the party.{END}
+
+Moving to Alvanista City. Please stay
+at the inn.{END}
+
+<speed_0000>1. The Prince's room/Fight with Jahmir
+2. Pact with Ifrit
+3. Pact with <var_D100>
+4. Pact with <var_D000><speed_FFFF>{END}
+
+<speed_0000>1. Spirit of the four elements/<var_D300>
+2. In order to fix the ring
+3. Seeking Edward 1
+4. Seeking Edward 2<speed_FFFF>{END}
+
+<speed_0000>1. Seeking Edward 3
+2. Ymir Forest (Past)
+3. Village of the Elves
+4. Restoring the ring<speed_FFFF>{END}
+
+You've obtained 5 Scales. Please
+speak to the innkeeper.{END}
+
+<speed_0000>1. <Arche>'s reunion with her mother
+2. Emblem stolen by the sprite
+3. To the home of the spirit <var_D400>
+4. War draws close 1/Midgard<speed_FFFF>{END}
+
+<speed_0000>1. War draws close 2/Bart's House
+2. Death of Edward D. Morrison
+3. Start of the Valhalla War
+4. Valhalla War<speed_FFFF>{END}
+
+<speed_0000>1. Valkyrie/Magitechnology Weapon
+2. Fight with Dhaos in the past/escape
+3. Edward's legacy
+4. Learning of the great ancient
+capital of Thor<speed_FFFF>{END}
+
+<speed_0000>1. <Mint>'s dream
+2. Seeking the unicorn
+3. Yggdrasill's revival
+4. To the great ancient capital of
+Thor<speed_FFFF>{END}
+
+Please talk to the ship's captain.{END}
+
+<speed_0000>1. Return to the mausoleum (Present)
+2. Present era Dhaos defeated
+3. Bidding the two goodbye /
+messenger from the future
+4. Time travel to Miguel<speed_FFFF>{END}
+
+Switch 182; flag for defeating Dhaos
+in the past has been turned on.
+Moving to underground mausoleum.{END}
+
+Switch 182; flag for defeating Dhaos
+in the past has been turned on. You
+have defeated present Dhaos in the
+underground mausoleum.{END}
+
+Switch 182; flag for defeating Dhaos
+in the past has been turned on.
+Moving to Morrison's house.{END}
+
+Switch 202; flag for explaining a
+five person party has been turned
+off. Moving to Miguel City.{END}
+
+<speed_0000>1. Her parents in the arena event
+2. Unable to use the Venezia harbor
+3. Obtaining the Rheairds
+4. Pact with <var_D700><speed_FFFF>{END}
+
+Moving to the arena. Please speak
+to the soldier.{END}
+
+Moving to Venezia Harbor. Please
+speak with Harrison.{END}
+
+<speed_0000>1. Blade of Fire
+2. Blade of Ice
+3. Ymir Forest (Future)
+4. <var_D800>/<item_FB00><speed_FFFF>{END}
+
+<speed_0000>1. Early/Eve of the final
+2. (unused)
+3. (unused)
+4. (unused)<speed_FFFF>{END}
+
+Please stay at the inn.{END}
+
+<speed_0000>1. <Chester>'s archery training 1
+2. <Chester>'s archery training 2
+3. <Suzu>'s startling curry experience
+4. Ultimate arcane arte event<speed_FFFF>{END}
+
+Beginning archery training event 1.{END}
+
+Beginning archery training event 2.{END}
+
+Beginning Curry Event. Please talk to
+the man standing there.{END}
+
+Moving to Miguel City. Please stay at
+the inn.{END}
+
+<speed_0000>1. <Suzu> guides you to ninja village
+2. <Suzu> joins your group
+3. Bath house event 1
+4. Bath house event 2<speed_FFFF>{END}
+
+Moving to Ninja Village.{END}
+
+Switch 298; flag for Arena event
+cleared has been turned on.
+<Suzu> has joined the party.{END}
+
+<speed_0000>1. Mana's disappearance
+2. Yggdrasill's rebirth
+3. Encounter with Dhaos
+4. Nancy and Elwyn's marriage{END}
+
+<speed_0000>1. ED - reason to fight
+2. ED - story of mana
+3. ED - separation
+4. ED - the great seed{END}
+
+<speed_0000>1. With <Suzu>
+2. Without <Suzu>{END}
+
+<speed_0000>1. ED - Bidding the two goodbye
+2. ED - Past epilogue
+3. ED - Totus once again
+4. Yomi Event{END}
+
+<speed_0000>1. Euclid - Weapon Shop
+2. Euclid - Armor Shop
+3. Euclid - Grocery
+4. Euclid - Tool Shop<speed_FFFF>{END}
+
+<speed_0000>1. Euclid - Everything Shop
+2. <color_0003>Beladam - Armory<color_0000>
+3. <color_0003>Beladam - Tool Shop<color_0000>
+4. Morrison's House - Traveling
+Merchant<speed_FFFF>{END}
+
+<speed_0000>1. <color_0003>Euclid - Armory<color_0000>
+2. <color_0003>Euclid - Tool Shop<color_0000>
+3. <color_0003>Euclid - Grocery<color_0000>
+4. <color_0003>Harmel - Weapon Shop<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0003>Harmel - Armor Shop<color_0000>
+2. <color_0003>Harmel - Tool Shop<color_0000>
+3. <color_0003>Venezia - Weapon Shop<color_0000>
+4. <color_0003>Venezia - Armor Shop<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0003>Venezia - Tool Shop<color_0000>
+2. <color_0003>Venezia - Grocery<color_0000>
+3. <color_0003>Demeter - Dock<color_0000>
+4. <color_0003><var_D000> - Dock<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0003>Alvanista - Weapon Shop<color_0000>
+2. <color_0003>Alvanista - Armor Shop<color_0000>
+3. <color_0003>Alvanista - Tool Shop<color_0000>
+4. <color_0003>Alvanista - Grocery<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0003>Olive Village - Armory<color_0000>
+2. <color_0003>Olive Village - Tool Shop<color_0000>
+3. <color_0003>Olive Village - Grocery<color_0000>
+4. <color_0003>Olive Village - Pharmacy<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0003>Elven Village - Grocery<color_0000>
+2. <color_0003>Elven Village - Pharmacy<color_0000>
+3. <color_0003>Elven Village - Tool Shop<color_0000>
+4. <color_0003>Midgard - Weapon Shop<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0003>Midgard - Armor Shop<color_0000>
+2. <color_0003>Midgard - Pharmacy<color_0000>
+3. <color_0003>Midgard - Tool Shop<color_0000>
+4. <color_0003>Midgard - Grocery<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0002>Miguel City - Armory<color_0000>
+2. <color_0002>Euclid - Weapon Shop<color_0000>
+3. <color_0002>Euclid - Armor Shop<color_0000>
+4. <color_0002>Venezia - Weapon Shop<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0002>Venezia - Armory<color_0000>
+2. <color_0002>Alvanista - Weapon Shop<color_0000>
+3. <color_0002>Aegis' Shop (Sammy)<color_0000>
+4. <color_0002>Early - Tool Shop<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0002>Venezia - Grocery<color_0000>
+2. <color_0002>Euclid - Grocery<color_0000>
+3. <color_0002>Alvanista - Grocery<color_0000>
+4. <color_0002>Freezekiel - Armory<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0002>Early - Armory<color_0000>
+2. <color_0002>Olive Village - Armory<color_0000>
+3. <color_0002>Ninja Village - General Store<color_0000>
+4. <color_0002>Village of the Elves- Tool Shop<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0002>Aegis' Shop (Ten)<color_0000>
+2. Mountain Path - Traveling Merchant
+3. <color_0002>Moria Tunnel Resupply Stop<color_0000>
+4. <color_0002>Alvanista - Tool Shop<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0002>Morrison's House - Traveling Merchant<color_0000>
+2. <color_0003>Alvanista - Pharmacy<color_0000>
+3. <color_0002>Alvanista - Pharmacy<color_0000>
+4. <color_0002>Town of Miguel - Everything Shop<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0002>Alvanista - Armor Shop<color_0000>
+2. <color_0002>Euclid - Everything Shop<color_0000>
+3. Totus - Weapon Shop
+4. Totus - Tool Shop<speed_FFFF>{END}
+
+<speed_0000>1. <color_0002>Freezekiel - Grocery<color_0000>
+2. <color_0002>Freezekiel - Tool Shop<color_0000>
+3. <color_0002>Early - Grocery<color_0000>
+4. <color_0002>Village of the Elves - Grocery<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0002>Village of the Elves - Pharmacy<color_0000>
+2. <color_0002>Venezia - Tool Shop<color_0000>
+3. <color_0002>Olive Village - Tool Shop<color_0000>
+4. <color_0002>Olive Village - Grocery<color_0000><speed_FFFF>{END}
+
+<speed_0000>1. <color_0002>Olive Village - Pharmacy<color_0000>
+2. <color_0002>Euclid - Tool Shop<color_0000>
+3. <color_0002>Freezekiel - Pharmacy<color_0000>
+4. Not open yet<speed_FFFF>{END}
+
+<speed_0000>1. <Klarth>
+2. <Chester>
+3. <Suzu>
+4. End / <var_0202>: Change character{END}
+
+<speed_0000>1. <Cless>
+2. <Mint>
+3. <Arche>
+4. End / <var_0202>: Change character{END}
+
+<speed_0000>1. Valhalla War narration
+2. Ending narration<speed_FFFF>{END}
+
+Sound playback in progress
+.{END}
+
+Sound playback in progress
+..{END}
+
+Sound playback in progress
+...{END}
+
+Sound playback in progress
+....{END}
+
+Sound playback in progress
+.....{END}
+
+Sound playback in progress
+......{END}
+
+Sound playback finished{END}
+
+Sound playback in progress
+.{END}
+
+Sound playback in progress
+..{END}
+
+Sound playback in progress
+...{END}
+
+Sound playback in progress
+....{END}
+
+Sound playback in progress
+.....{END}
+
+Sound playback in progress
+......{END}
+
+Sound playback finished{END}
+
+<speed_0000>Currently on animation #: <num2_C0006100>, <num5_00006104>
+1. Next        2. Previous
+3. View again  4. End
+<var_0202>: Change character{END}
+
+<speed_0000>1. Current Money + 50,000
+2. Current Money - 50,000
+3. Current Money + 5,000,000
+4. Current Money - 5,000,000<speed_FFFF>{END}
+
+Current money: <num5_0000610C> gald{END}
+
+Current money: <num5_0000610C> gald{END}
+
+Current money: <num5_0000610C> gald{END}
+
+Current money: <num5_0000610C> gald{END}
+
+<speed_0000>1. All items + 1
+2. All items - 1
+3. All items = 15
+4. All items = 0<speed_FFFF>{END}
+
+Animation #: <num5_00006100>{END}
+

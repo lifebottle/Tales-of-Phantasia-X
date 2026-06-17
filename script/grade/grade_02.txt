@@ -1,0 +1,24 @@
+Increase Item Limit to 20{END}
+
+Cooking Recipes{END}
+
+Titles{END}
+
+Collector's Book{END}
+
+Battle Data{END}
+
+Arte Usage{END}
+
+Decrease Max HP{END}
+
+EXP x0.5{END}
+
+EXP x10{END}
+
+Gald x2{END}
+
+Special Items{END}
+
+Monster Book{END}
+

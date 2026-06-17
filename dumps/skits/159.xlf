@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_797">
+        <source>Once we scoop up the Four Great
+Spirits, that puzzle's as good as solved.</source>
+        <target state="translated">Once we scoop up the Four Great
+Spirits, that puzzle's as good as solved.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_798">
+        <source>That's it?</source>
+        <target state="translated">That's it?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_799">
+        <source>Then, do we not need to worry
+about the arrangement of the spirits?</source>
+        <target state="translated">Then, do we not need to worry
+about the arrangement of the spirits?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_800">
+        <source>Well...errr... I mean, we've
+obtained the prerequisites.</source>
+        <target state="translated">Well...errr... I mean, we've
+obtained the prerequisites.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_801">
+        <source>You're way too confident.</source>
+        <target state="translated">You're way too confident.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

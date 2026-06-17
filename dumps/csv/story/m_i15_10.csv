@@ -1,0 +1,1388 @@
+武具屋『ダブルＫ。Ｏ。』{END},Equipment Shop “Double K.O.”{END}
+道具屋『ドロー』{END},Item Shop “Draw”{END}
+"<Cless>
+「暖炉の中をのぞいてみよう」{END}","<Cless>:<nl>
+ Let's stick our heads
+ into the fireplace.{END}"
+"<Cless>
+「<num5_C00050B6>回目・・・」{END}","<Cless>:<nl>
+ We've charred our heads <num5_C00050B6>
+ time(s)...{END}"
+<color_0002>休みますか？<color_0000>{END},<color_0002>Rest?<color_0000>{END}
+"レニオスの妻・ソフィア
+「ゆっくりしていきなさい」{END}","Sophia:<nl>
+ Take it easy.{END}"
+"レニオスの妻・ソフィア
+「あなた達、お腹はすいていない
+　かい？」{END}","Sophia:<nl>
+ Are you working on an empty
+ stomach?{END}"
+"ソフィア
+「たんとお食べ」<wait>{END}","Sophia:<nl>
+ Here, this should fill it right up.<wait>{END}"
+"<color_0002>チーズバーガーを料理できるように
+なりました。<color_0000>{END}","<color_0002>Learned the recipe for
+Cheeseburger.<color_0000>{END}"
+"ソフィア
+「いつでもおいで」{END}","Sophia:<nl>
+ Come back when you are, then.
+ I'll have just the thing for you.{END}"
+"レニオス
+「ダオスを倒し、ユグドラシルも
+　復活させたか」
+<pause>
+レニオス
+「もうこの時代にいる必要はない
+　のぅ・・・」
+<pause>
+レニオス
+「さらばだ少年達よ、おぬしらに
+　出会えて本当に良かったと思う
+　よ」<wait>{END}","Lenios:<nl>
+ I see. With Dhaos gone, and
+ Yggdrasill revived...
+<pause>
+Lenios:<nl>
+ ...you don't have any reason to be
+ in this time period anymore...
+<pause>
+Lenios:<nl>
+ Farewell, young ones.
+ I'm glad I got the chance
+ to meet you.<wait>{END}"
+"レニオス
+「ユグドラシルを救う方法？」
+<pause>
+レニオス
+「う〜ん、わからんのぅ・・・」
+<pause>
+レニオス
+「そもそも法術自体この時代には
+　ないものじゃからのぅ・・・」<wait>{END}","Lenios:<nl>
+ A way to save Yggdrasill?
+<pause>
+Lenios:<nl>
+ Hmmm...<nl>
+ I don't know...
+<pause>
+Lenios:<nl>
+ Actually, don't those clerical artes
+ of yours have healing powers?
+<pause>
+Lenios:<nl>
+ But we don't have them in this
+ time period, so I really have no
+ idea what they're capable of...<wait>{END}"
+"レニオス
+「ほう、ベネツィアの兄に会った
+　のか？」
+<pause>
+<Cless>
+「ええ、よろしく言っておいてく
+　れということです」<wait>{END}","Lenios:<nl>
+ Oh, you met my brother in
+ Venezia?
+<pause>
+<Cless>:<nl>
+ Yeah, he wanted us to pass along
+ his regards.<wait>{END}"
+"レニオス
+「そうか・・・」
+<pause>
+レニオス
+「たまには会いに行こうかのぅ」<wait>{END}","Lenios:<nl>
+ I see...
+<pause>
+Lenios:<nl>
+ Maybe it's about time I go up there
+ and have a little family reunion...<wait>{END}"
+"レニオス
+「おや、そこのおなごは魔術師か
+　のぅ？」
+<pause>
+レニオス
+「ならばこの呪文書を譲ってあげ
+　よう」
+<pause>
+レニオス
+「わしが持っていても役に立たん
+　からのぅ」<wait>{END}","Lenios:<nl>
+ Oh, that girl looks like a mage...
+<pause>
+Lenios:<nl>
+ Here, give her this spell book.
+<pause>
+Lenios:<nl>
+ I haven't used it in ages.<wait>{END}"
+<color_0002><Arche>は<var_C700>を覚えました。<color_0000>{END},<color_0002><Arche> learned <var_C700>.<color_0000>{END}
+"<unk1>レニオス
+<Klarth>に会ったか？」
+<pause>
+レニオス
+何じゃ、まだか」
+<pause>
+レニオス
+<Klarth>はユークリッド村に住んでおるぞぃ」{END}","<unk1>Lenios:<nl>
+ Have you met <Klarth>?
+<pause>
+Lenios:<nl>
+ Not yet, you say?
+<pause>
+Lenios:<nl>
+ Remember, he lives in Euclid Village.{END}"
+"レニオス
+「つらくなったらまた帰ってくる
+　といい」
+<pause>
+レニオス
+「いつでも泊めてあげよう」
+<pause>
+<Cless>
+「ありがとう、村長さん」{END}","Lenios:<nl>
+ If the going gets tough, feel free
+ to come back here.
+<pause>
+Lenios:<nl>
+ You are welcome in our home
+ anytime you like.
+<pause>
+<Cless>:<nl>
+ Thank you, sir.{END}"
+"おじいさん
+「おぬしにおもしろい話をしてや
+　ろう」
+<pause>
+おじいさん
+「昔々、今のような・・・」
+<pause>
+<Cless>
+「それならもう聞きました」
+<pause>
+<Cless>
+「月の精霊様は無事、兵士に助け
+　られたんですよね」
+<pause>
+おじいさん
+「ほっほっほ」
+<pause>
+おじいさん
+「甘いのぅ、この話にはまだ続き
+　があるんじゃ」
+<pause>
+おじいさん
+「その後、兵士は結界の中に戻っ
+　たんじゃ」
+<pause>
+おじいさん
+「このまま外の世界で暮らしても
+　よかったが」
+<pause>
+おじいさん
+「外の世界のことをみんなに教え
+　てあげようと思ったんじゃ」
+<pause>
+おじいさん
+「しかし、すぐに国王に捕まって
+　しまった」
+<pause>
+おじいさん
+「兵士の言うことに、国王は耳を
+　貸そうとしなかったんじゃ」
+<pause>
+おじいさん
+「反逆罪は極刑なのだが」
+<pause>
+おじいさん
+「兵士の今までの献身的な国家へ
+　の奉仕が認められ、極刑だけは
+　まぬがれた」
+<pause>
+おじいさん
+「しかし国王の不思議な力で小さ
+　な虫に変えられ、追放されてし
+　まったんじゃ」
+<pause>
+おじいさん
+「天界から、それを見ていた月の
+　精霊様は悲しみ、兵士を天界に
+　呼び寄せた」
+<pause>
+おじいさん
+「そして精霊様といつまでも幸せ
+　に暮らしたんじゃ」
+<pause>
+おじいさん
+「そして、その虫というのが今は
+　滅びし妖精だったんじゃな」{END}","Old Man:<nl>
+ I'll tell you an interesting story.
+<pause>
+Old Man:<nl>
+ Once upon a time, there were no
+ monst--
+<pause>
+<Cless>:<nl>
+ I've heard that part.
+<pause>
+<Cless>:<nl>
+ The soldier got the Spirit of the
+ Moon to safety.
+<pause>
+Old Man:<nl>
+ Ho ho ho.
+<pause>
+Old Man:<nl>
+ Okay, okay, I'll continue the story
+ from there.
+<pause>
+Old Man:<nl>
+ After that, the soldier re-entered
+ the barrier.
+<pause>
+Old Man:<nl>
+ He discovered that it was possible
+ to live in the outside world.
+<pause>
+Old Man:<nl>
+ So, naturally, he wished to tell
+ everyone about what he had
+ learned.
+<pause>
+Old Man:<nl>
+ However, he was immediately
+ arrested upon his return.
+<pause>
+Old Man:<nl>
+ The king, furious with the soldier's
+ disobedience, refused to listen to
+ what he had to say.
+<pause>
+Old Man:<nl>
+ Unfortunately for the soldier, the
+ penalty for treason was death.
+<pause>
+Old Man:<nl>
+ However, since he had previously
+ served his country with such
+ devotion...
+<pause>
+Old Man:<nl>
+ The king decided to forgo his
+ execution.
+<pause>
+Old Man:<nl>
+ Instead, the king transformed the
+ soldier into a small insect and
+ banished him.
+<pause>
+Old Man:<nl>
+ The Spirit of the Moon was
+ heartbroken upon learning of this,
+ so she called the soldier up to
+ Heaven with her.
+<pause>
+Old Man:<nl>
+ He then lived happily with the spirit
+ for the rest of his days.
+<pause>
+Old Man:<nl>
+ And when the insect died, he
+ became a faerie.{END}"
+"おじいさん
+「さて、今日はどうやって時間を
+　つぶすか・・・」
+<pause>
+おじいさん
+「魔物が出るようになってからは
+　村の外に出られんようになって
+　しもうたわ」
+<pause>
+おじいさん
+「まったく・・・」{END}","Old Man:<nl>
+ Now, how should I kill time
+ today...?
+<pause>
+Old Man:<nl>
+ Since all these monsters started
+ appearing, I can't just take a stroll
+ outside the village.
+<pause>
+Old Man:<nl>
+ What a pain...{END}"
+"おじいさん
+「さて、夕食の用意をしなければ
+　ならん・・・」{END}","Old Man:<nl>
+ Now, I have to prepare dinner...{END}"
+"女の子
+「私も立派な魔術師になりたいな」
+<pause>
+女の子
+「今、魔術の修行中なの」
+<pause>
+女の子
+「そして、すてきな勇者様と冒険
+　するの」{END}","Girl:<nl>
+ I want to become a great mage, so
+ I've been taking magic lessons.
+<pause>
+Girl:<nl>
+ Then I'll get to go on a wonderful
+ adventure with an amazing hero <heart>{END}"
+"女の子
+「お兄ちゃんだぁれ？
+　どこから来たの？」{END}","Girl:<nl>
+ Who're you, mister?
+ Where're you from?{END}"
+"道具屋
+「いらっしゃい」{END}","Clerk:<nl>
+ Welcome to Draw.{END}"
+"道具屋
+「どうも、ありがとう」{END}","Clerk:<nl>
+ Thank you very much.{END}"
+"男の子
+「兄ちゃん、もしかして剣士？」
+<pause>
+<Cless>
+「ん？」
+<pause>
+<Cless>
+「ああ、いちおうね」
+<pause>
+男の子
+「今度、剣術を教えてくれよ」
+<pause>
+男の子
+「オレ、もっと強くなりたいんだ
+　よ！」{END}","Boy:<nl>
+ Hey, bro, are you a swordsman by
+ any chance?
+<pause>
+<Cless>:<nl>
+ Hm?
+<pause>
+<Cless>:<nl>
+ Yeah, I guess.
+<pause>
+Boy:<nl>
+ Awesome!
+ Why don't you teach me about
+ swordplay sometime?
+<pause>
+Boy:<nl>
+ I wanna get strong!{END}"
+"武器屋の子供
+「今、父ちゃんもおじいちゃんも
+　武器の材料を取りに行っててい
+　ないんだ」
+<pause>
+武器屋の子供
+「だからおいらがお手伝い」<wait>{END}","Owner's Son:<nl>
+ Daddy and Grandpa are out getting
+ materials for weapons.
+<pause>
+Owner's Son:<nl>
+ So they told me to man the shop.<wait>{END}"
+"武器屋の子供
+「お兄ちゃん、もしかして剣士な
+　のかな？」
+<pause>
+武器屋の子供
+「じゃあこの本あげるよ」
+<pause>
+<Cless>
+「これって、奥義書！？」<wait>{END}","Owner's Son:<nl>
+ By the way...<nl>
+ That's a really cool sword
+ you got there.
+<pause>
+Owner's Son:<nl>
+ Maybe you'll like this book...
+<pause>
+<Cless>:<nl>
+ Wow, it's an arcane arte book!<wait>{END}"
+<color_0002><Cless>は<var_9400>を覚えました。<color_0000>{END},"<color_0002><Cless> learned
+<var_9400>.<color_0000>{END}"
+"武器屋の子供
+「そういえば、あの本は役に立っ
+　たかな？」{END}","Owner's Son:<nl>
+ Also, Grandpa's been trying to
+ get rid of that book forever.
+ Keep it if you like it.{END}"
+"武器屋の子供
+「いらっしゃい」{END}","Owner's Son:<nl>
+ Welcome to Double K.O.{END}"
+"武器屋の子供
+「お兄ちゃん、ありがと」{END}","Owner's Son:<nl>
+ Thanks, mister.{END}"
+"村の人
+「この村から、東に向かった所に
+　洞窟がある」
+<pause>
+村の人
+「そこは『精霊の洞窟』と呼ばれ
+　ているんだ」{END}","Villager:<nl>
+ If you head east from here, you'll
+ bump into a cavern called the
+ “Cave of Spirits.”{END}"
+"<audio_0899>村長
+「そうそう、わしの名前は『レニ
+　オス』じゃ」
+<pause>
+<audio_089A>レニオス
+「よろしくなぁ」
+<pause>
+<audio_089B><Cless>
+「こちらこそ、よろしくお願いし
+　ます」
+<pause>
+<audio_089C><Cless>
+（レニオス・・・）
+<pause>
+<audio_089D><Cless>
+（どこかで聞いたような・・・）
+<pause>
+<audio_089E>レニオス
+「そもそも、魔術が""絶えた力""
+　だというのはおかしいのぅ」
+<pause>
+<audio_089F><Cless>
+「以前、僕は母から聞いたことが
+　あります」
+<pause>
+<audio_08A0><Cless>
+「昔、この世界には魔術という力
+　があったのですが、ある時を境
+　にその力は消えたと・・・」
+<pause>
+<audio_08A1><Mint>
+「レニオスさんは、法術について
+　本当にご存じないのですか？」
+<pause>
+<audio_08A2><Mint>
+「癒し（いやし）の力です」
+<pause>
+<audio_08A3>レニオス
+「癒しの力？」{END}","<audio_0899>Village Chief:<nl>
+ I haven't properly introduced
+ myself yet, have I?
+ My name is Lenios.
+<pause>
+<audio_089A>Lenios:<nl>
+ Nice to meet you.
+<pause>
+<audio_089B><Cless>:<nl>
+ The pleasure is ours.
+<pause>
+<audio_089C><Cless>:<nl>
+ (Lenios...)
+<pause>
+<audio_089D><Cless>:<nl>
+ (That name sounds so familiar...)
+<pause>
+<audio_089E>Lenios:<nl>
+ Right, so let's continue.
+ I was rather perplexed when you
+ called magic “a power that ceased
+ to exist.”
+<pause>
+<audio_089F><Cless>:<nl>
+ That's what I heard from my mom.
+<pause>
+<audio_08A0><Cless>:<nl>
+ She told me stories about how
+ there was a power called magic
+ long ago, but it eventually
+ disappeared...
+<pause>
+<audio_08A1><Mint>:<nl>
+ Excuse me, sir, but is it true that
+ you are unfamiliar with clerical
+ artes?
+<pause>
+<audio_08A2><Mint>:<nl>
+ They possess the power to heal.
+<pause>
+<audio_08A3>Lenios:<nl>
+ The power to heal?
+ What do you mean, young lady?{END}"
+"<audio_08A4>レニオス
+「おおお・・・」
+<pause>
+<audio_08A5>レニオス
+「なんか気持ちよいのぉ」<wait>{END}","<audio_08A4>Lenios:<nl>
+ Ohhh...
+<pause>
+<audio_08A5>Lenios:<nl>
+ I feel about ten years younger!<wait>{END}"
+"<audio_08A6>レニオス
+「でも、知らん」{END}","<audio_08A6>Lenios:<nl>
+ That was wonderful, but I'm afraid
+ I know nothing of it.{END}"
+"<audio_08A7>レニオス
+「では・・・」
+<pause>
+<audio_08A8>レニオス
+「今度はわしが""魔術""を使って
+　みせよう」{END}","<audio_08A7>Lenios:<nl>
+ Well...
+<pause>
+<audio_08A8>Lenios:<nl>
+ Now it's my turn.
+ Why don't I show you some magic?{END}"
+"レニオス
+「いでよ、炎！！！」{END}","Lenios:<nl>
+ Flames, come forth!!{END}"
+"<audio_08AA><Cless>
+「す、<panic>」<wait>{END}","<audio_08AA><Cless>:<nl>
+ W- <panic><wait>{END}"
+"<audio_08AB><Cless>
+「すごい！！」
+<pause>
+<audio_08AC><Mint>
+「もしかして、これがダオスを倒
+　すための力！？」<wait>{END}","<audio_08AB><Cless>:<nl>
+ WOW!!!
+<pause>
+<audio_08AC><Mint>:<nl>
+ Maybe that's what we need to
+ defeat Dhaos!<wait>{END}"
+"<audio_08AD>レニオス
+「なっ！？」
+<pause>
+<audio_08AE>レニオス
+「ダオスだとな！？」
+<pause>
+<audio_08AF><Cless>
+「ダオスを知ってるんですか？」
+<pause>
+<audio_08B0>レニオス
+「知らぬ者は、おるまいて・・・」
+<pause>
+<audio_08B1>レニオス
+「奴は、世界の敵じゃからの！」
+<pause>
+<audio_08B2>レニオス
+「今も、着々と勢力を広げておる
+　だろうて」
+<pause>
+<audio_08B3><Mint>
+「ええっ！？」
+<pause>
+<audio_08B4><Mint>
+「ダオスは封印から目覚めたばか
+　りのはずでは・・・」
+<pause>
+<audio_08B5>レニオス
+「封印じゃと？」
+<pause>
+<audio_08B6>レニオス
+「何のことじゃ？」
+<pause>
+<audio_08B7>レニオス
+「奴が現れてからどれほど時間が
+　経つことか」
+<pause>
+<audio_08B8><Cless>
+「時間が経ってる！？」{END}","<audio_08AD>Lenios:<nl>
+ Wha!?
+<pause>
+<audio_08AE>Lenios:<nl>
+ You said Dhaos!?
+<pause>
+<audio_08AF><Cless>:<nl>
+ You know about Dhaos?
+<pause>
+<audio_08B0>Lenios:<nl>
+ As if there's anyone who doesn't...
+<pause>
+<audio_08B1>Lenios:<nl>
+ He's the enemy of the whole world!
+<pause>
+<audio_08B2>Lenios:<nl>
+ He declared war and has been
+ steadily expanding his power ever
+ since.
+<pause>
+<audio_08B3><Mint>:<nl>
+ Huh!?
+<pause>
+<audio_08B4><Mint>:<nl>
+ But he should have only just
+ broken free from his seal...
+<pause>
+<audio_08B5>Lenios:<nl>
+ He was sealed, you say?
+<pause>
+<audio_08B6>Lenios:<nl>
+ You've lost me, young lady.
+<pause>
+<audio_08B7>Lenios:<nl>
+ He appeared some time ago.
+<pause>
+<audio_08B8><Cless>:<nl>
+ Some time ago!?
+ Really!?{END}"
+"<audio_08B9><Cless>
+「もしかしてここは、未来の世界
+　じゃないのか！？」
+<pause>
+<audio_08BA><Mint>
+「えっ、未来？」{END}","<audio_08B9><Cless>:<nl>
+ Did we arrive in the world of the
+ future!?
+<pause>
+<audio_08BA><Mint>:<nl>
+ The future?{END}"
+"<audio_08BB><Mint>
+「あっ、いえ、ここはダオスが、
+　封印される前の世界だと思いま
+　す」<wait>{END}","<audio_08BB><Mint>:<nl>
+ Wait, no...<nl>
+ I believe the opposite is true.
+ I think this is the world before
+ Dhaos was sealed.<wait>{END}"
+"<Cless>
+<audio_1742>「・・・・・・」
+<pause>
+<Cless>
+<audio_1743>「そうか！」
+<pause>
+<Cless>
+<audio_1744>「村長さんの名前って、どこかで
+　聞いたことがあると思ったんだ
+　よ！」
+<pause>
+<Cless>
+<audio_1745>「トーティスにあった教会の名前
+　のこと、そしてトーティスの創
+　始者のことだったんだ！！」
+<pause>
+<Cless>
+<audio_1746>「ここは過去の世界なんだ！」<wait>{END}","<Cless>:<nl>
+ <audio_1742>......
+<pause>
+<Cless>:<nl>
+ <audio_1743>Aha!
+<pause>
+<Cless>:<nl>
+ <audio_1744>I knew the chief's name sounded
+ familiar!
+<pause>
+<Cless>:<nl>
+ <audio_1745>It's the same as the person's who
+ founded Totus, and whom the
+ church was named after!!!
+<pause>
+<Cless>:<nl>
+ <audio_1746>This is the world of the past!<wait>{END}"
+"<audio_08BC>レニオス
+「未来とか、過去とか、何のこと
+　じゃ？」
+<pause>
+<audio_08BD>レニオス
+「今は、アセリア暦４２０２年だ
+　がのぅ・・・」
+<pause>
+<audio_08BE><Cless>＆<Mint>
+「・・・・・・」
+<pause>
+{END}","<audio_08BC>Lenios:<nl>
+ What in blazes is all this about past
+ and future?
+<pause>
+<audio_08BD>Lenios:<nl>
+ This is the year 4202 by the Aselian
+ Calendar...
+<pause>
+<audio_08BE><Cless> & <Mint>:<nl>
+ ......
+<pause>
+{END}"
+"<audio_08BF><Cless>＆<Mint>
+「１００年前！！」
+<pause>
+<audio_08C0><Mint>
+「なんだか、信じられません」
+<pause>
+<audio_08C1><Cless>
+「うん、にわかには信じられない
+　けど・・・」
+<pause>
+<audio_08C2><Mint>
+「でも、村長さんが法術を知らな
+　い事については納得しました」
+<pause>
+<audio_08C3><Mint>
+「私達の使う法術が、正式な形を
+　整えたのは、アセリア暦４２１
+　０年以降と言われています」
+<pause>
+<audio_08C4><Cless>
+「この時代には、法術は完成され
+　ていなかったわけだね・・・」{END}","<audio_08BF><Cless> & <Mint>:<nl>
+ A hundred years ago!!!
+<pause>
+<audio_08C0><Mint>:<nl>
+ My goodness...<nl>
+ This is unbelievable!
+<pause>
+<audio_08C1><Cless>:<nl>
+ Yeah, this all sounds pretty
+ incredible, doesn't it...?
+<pause>
+<audio_08C2><Mint>:<nl>
+ But now I understand why he
+ doesn't know of clerical artes...
+<pause>
+<audio_08C3><Mint>:<nl>
+ It's said that they weren't fully
+ codified until the Order of Clerics
+ was founded in the year 4210.
+<pause>
+<audio_08C4><Cless>:<nl>
+ Ah, so they just haven't been
+ completed and made known to the
+ people of this time yet...{END}"
+"<audio_08C5>村の人
+「村長さん！」
+<pause>
+<audio_08C6>村の人
+「いきなり何するんですか！！」{END}","<audio_08C5>Villager:<nl>
+ Chief!
+<pause>
+<audio_08C6>Villager:<nl>
+ I demand an explanation for this!!{END}"
+"<audio_08C7>レニオス
+「おどろいたの」
+<pause>
+<audio_08C8>レニオス
+「久しぶりに訪れた客人が、未来
+　から来た者とは・・・」
+<pause>
+<audio_08C9>レニオス
+「わしも、まだ信じられんのぉ」
+<pause>
+<audio_08CA><Mint>
+「実感はありませんが・・・」
+<pause>
+<audio_08CB><Mint>
+「多分、間違いないと思います」
+<pause>
+<audio_08CC><Cless>
+「僕自身、半信半疑ですよ」
+<pause>
+<audio_08CD><Cless>
+「それより・・・」
+<pause>
+<audio_08CE><Cless>
+「ダオスと魔術のことを教えてい
+　ただけませんか？」
+<pause>
+<audio_08CF>レニオス
+「うむ」{END}","<audio_08C7>Lenios:<nl>
+ I'm astonished.
+<pause>
+<audio_08C8>Lenios:<nl>
+ We finally get visitors, and they're
+ from the future...
+<pause>
+<audio_08C9>Lenios:<nl>
+ It's just so unbelievable.
+<pause>
+<audio_08CA><Mint>:<nl>
+ It really does seem a little
+ far-fetched, but...
+<pause>
+<audio_08CB><Mint>:<nl>
+ Considering what's happened, it's
+ not impossible.
+<pause>
+<audio_08CC><Cless>:<nl>
+ It sounds so crazy I'm still having a
+ hard time taking it in, myself.
+<pause>
+<audio_08CD><Cless>:<nl>
+ But more importantly...
+<pause>
+<audio_08CE><Cless>:<nl>
+ Could you tell us what you know
+ about Dhaos and magic?
+<pause>
+<audio_08CF>Lenios:<nl>
+ Sure.{END}"
+"<audio_08D0>レニオス
+「ダオスは、魔術でしか傷つかな
+　いと言われておる」
+<pause>
+<audio_08D1>レニオス
+「魔術を使わなくては、倒すこと
+　ができぬのじゃ」
+<pause>
+<audio_08D2>レニオス
+「魔術は絶対に必要じゃ」
+<pause>
+<audio_08D3>レニオス
+「だが・・・」
+<pause>
+<audio_08D4>レニオス
+「おぬしらには使えぬ」
+<pause>
+<audio_08D5><Cless>
+「えっ、なぜですか？」
+<pause>
+<audio_08D6>レニオス
+「エルフの血を引くわしが見れば
+　わかる」
+<pause>
+<audio_08D7>レニオス
+「おぬしらは、純血の人間のよう
+　じゃからの」
+<pause>
+<audio_08D8>レニオス
+「エルフの血を引く者でなければ
+　魔術を使うことはできぬ」
+<pause>
+<audio_08D9><Mint>
+「エルフ、ですか？」
+<pause>
+<audio_08DA>レニオス
+「さよう・・・」
+<pause>
+<audio_08DB>レニオス
+「エルフ族か、その混血にしか、
+　魔術に必要なマナを紡ぐことは
+　できぬのじゃ」{END}","<audio_08D0>Lenios:<nl>
+ Dhaos is a strange figure.
+ It's said that his only
+ weakness is magic.
+<pause>
+<audio_08D1>Lenios:<nl>
+ Apparently, he's impervious to
+ everything else.
+<pause>
+<audio_08D2>Lenios:<nl>
+ Magic is your only hope.
+<pause>
+<audio_08D3>Lenios:<nl>
+ But...
+<pause>
+<audio_08D4>Lenios:<nl>
+ It's impossible for you to use.
+<pause>
+<audio_08D5><Cless>:<nl>
+ Huh?
+ How come?
+<pause>
+<audio_08D6>Lenios:<nl>
+ My power comes from the fact
+ that I have some elven ancestors.
+<pause>
+<audio_08D7>Lenios:<nl>
+ However, the two of you seem to
+ be pure-blooded humans.
+<pause>
+<audio_08D8>Lenios:<nl>
+ To put it simply, you can't use
+ magic without elven blood.
+<pause>
+<audio_08D9><Mint>:<nl>
+ Elven, you say?
+<pause>
+<audio_08DA>Lenios:<nl>
+ That's right...
+<pause>
+<audio_08DB>Lenios:<nl>
+ Only the elves or people with their
+ blood can weave mana into magic.{END}"
+"<audio_08DC><Mint>
+「・・・・・・」
+<pause>
+<audio_08DD><Mint>
+「そんな・・・」
+<pause>
+<audio_08DE><Cless>
+「それじゃ、僕達にダオスを倒す
+　ことは・・・」<wait>{END}","<audio_08DC><Mint>:<nl>
+ ......
+<pause>
+<audio_08DD><Mint>:<nl>
+ So, basically...
+<pause>
+<audio_08DE><Cless>:<nl>
+ It's impossible for us to defeat
+ him...<wait>{END}"
+"<audio_08DF>レニオス
+「何、気にすることはない」
+<pause>
+<audio_08E0>レニオス
+「強力な魔術の使い手に、助けを
+　求めればよいのじゃよ」
+<pause>
+<audio_08E1><Cless>
+「どなたか、良い魔術師を紹介し
+　ていただけないでしょうか？」
+<pause>
+<audio_08E2>レニオス
+「ちょっと待ちなされ」
+<pause>
+<audio_08E3>レニオス
+「おぬしら、まさか本気でダオス
+　を倒すつもりなのかね？」
+<pause>
+<audio_08E4><Cless>
+「もちろんです！」
+<pause>
+<audio_08E5><Cless>
+「僕達は、やらなければならない
+　んです！」
+<pause>
+<audio_08E6>レニオス
+「いやぁ、しかしのぉ・・・」
+<pause>
+<audio_08E7><Mint>
+「お願いします！」
+<pause>
+<audio_08E8><Cless>
+「どうしてもダオスを倒さなけれ
+　ばいけないんです！」<wait>{END}","<audio_08DF>Lenios:<nl>
+ Now, don't give up just yet.
+<pause>
+<audio_08E0>Lenios:<nl>
+ You might try making allies of
+ powerful magic users.
+<pause>
+<audio_08E1><Cless>:<nl>
+ Like who?
+ Could you introduce us to some?
+<pause>
+<audio_08E2>Lenios:<nl>
+ Wait just a minute...
+<pause>
+<audio_08E3>Lenios:<nl>
+ You're not actually serious about
+ fighting Dhaos, are you?
+<pause>
+<audio_08E4><Cless>:<nl>
+ Of course we are!
+<pause>
+<audio_08E5><Cless>:<nl>
+ We owe him some payback!
+<pause>
+<audio_08E6>Lenios:<nl>
+ Um, well, I...
+<pause>
+<audio_08E7><Mint>:<nl>
+ Please!
+<pause>
+<audio_08E8><Cless>:<nl>
+ Even if we have to put our lives on
+ the line!<wait>{END}"
+"<unk1><audio_08E9><Mint>
+モリスンさんや<Chester>さんのためにも・・・」{END}","<unk1><audio_08E9><Mint>:<nl>
+ <Chester> and Mr. Morrison are
+ counting on us...{END}"
+"<audio_08EA>レニオス
+「残念じゃが、紹介できる魔術師
+　はおらん・・・」
+<pause>
+<audio_08EB><Cless>
+「そ、そうですか・・・」
+<pause>
+<audio_08EC><Mint>
+「それなら、どこに行けばエルフ
+　に会えるか教えていただけませ
+　んか？」<wait>{END}","<audio_08EA>Lenios:<nl>
+ Unfortunately, I don't know any
+ powerful magic users personally...
+<pause>
+<audio_08EB><Cless>:<nl>
+ Th-That's a shame...
+<pause>
+<audio_08EC><Mint>:<nl>
+ In that case, could you tell us
+ where we can meet an elf?<wait>{END}"
+"<audio_08ED>レニオス
+「まあ、あわてるでない」<wait>{END}","<audio_08ED>Lenios:<nl>
+ ...Ah, hold on.
+ I just got an idea.<wait>{END}"
+"<unk1><audio_08EE>レニオス
+ここから北にあるユークリッド村に、<Klarth>という者が住んでおる」
+<pause>
+<audio_08EF>レニオス
+彼は人間だが、魔術にかける情熱は、誰よりも強い」
+<pause>
+<audio_08F0>レニオス
+いずれは人間も魔術を使えるようにと、日々の研究に励んでおるのじゃ」
+<pause>
+<audio_08F1><Cless>
+では、その<Klarth>という方を訪ねればいいんですね」<wait>{END}","<unk1><audio_08EE>Lenios:<nl>
+ To the north is Euclid Village.
+ It's home to a man named
+ <Klarth> F. Lester.
+<pause>
+<audio_08EF>Lenios:<nl>
+ <Klarth>'s a human, but he's
+ more passionate about magic
+ than any practitioner of the
+ craft I've ever heard of.
+<pause>
+<audio_08F0>Lenios:<nl>
+ He conducts research day in and
+ day out, hoping to find a way for
+ humans to use magic.
+<pause>
+<audio_08F1><Cless>:<nl>
+ Sounds like visiting this <Klarth>
+ guy is worth a try.<wait>{END}"
+"<audio_08F2>レニオス
+「うむ」
+<pause>
+<audio_08F3>レニオス
+「だが、彼は少々、変わり者とい
+　うか無愛想での・・・」
+<pause>
+<audio_08F4>レニオス
+「初めは、冷たくあしらわれるか
+　もしれんが・・・」
+<pause>
+<audio_08F5>レニオス
+「本当はいい奴なんじゃ」
+<pause>
+<audio_08F6>レニオス
+「事情を話せば、きっと力になっ
+　てくれよう」
+<pause>
+<audio_08F7><Cless>
+「わかりました、ありがとうござ
+　います！」
+<pause>
+<audio_08F8>レニオス
+「なぁに、礼にはおよばぬ」
+<pause>
+<audio_08F9>レニオス
+「わしも、おぬしらの頃には血気
+　盛んな魔術師を気取っておった
+　ものじゃ」
+<pause>
+<audio_08FA>レニオス
+「よく、この世界を守るんだ、と
+　修行に励んだものじゃよ」
+<pause>
+<audio_08FB><Mint>
+「村長さん、ありがとうございま
+　す」
+<pause>
+<audio_08FC>レニオス
+「おぬしらの気持ちもよくわかる
+　が、決して無理するでないぞ」
+<pause>
+<audio_08FD>レニオス
+「今日は、わしの家に泊まってい
+　くといい」
+<pause>
+<audio_08FE>レニオス
+「ゆっくりしていきなさい」
+<pause>
+<audio_08FF><Cless>
+「ありがとうございます」
+<pause>
+<audio_0900><Mint>
+「お世話になります」{END}","<audio_08F2>Lenios:<nl>
+ Yes, although...
+<pause>
+<audio_08F3>Lenios:<nl>
+ He's a little eccentric, not the most
+ sociable...
+<pause>
+<audio_08F4>Lenios:<nl>
+ ...and he might even treat you
+ coldly at first.
+<pause>
+<audio_08F5>Lenios:<nl>
+ But I believe him to be a decent
+ fellow at heart.
+<pause>
+<audio_08F6>Lenios:<nl>
+ Just explain the situation to him
+ and I'm sure things'll soon work
+ out in your favor.
+<pause>
+<audio_08F7><Cless>:<nl>
+ Understood.
+ Thank you!
+<pause>
+<audio_08F8>Lenios:<nl>
+ Now, now, no need to thank me.
+ I know where you're coming from.
+<pause>
+<audio_08F9>Lenios:<nl>
+ Back in my day, I was all fired up
+ about my magic powers...
+<pause>
+<audio_08FA>Lenios:<nl>
+ I wanted to use them to protect
+ the world too, so I trained
+ relentlessly!
+<pause>
+<audio_08FB><Mint>:<nl>
+ Thank you for your sentiments, sir.
+<pause>
+<audio_08FC>Lenios:<nl>
+ Just be sure you don't get in over
+ your heads, you hear?
+<pause>
+<audio_08FD>Lenios:<nl>
+ Anyway, you can stay at my house
+ for the night.
+<pause>
+<audio_08FE>Lenios:<nl>
+ Please make yourselves at home.
+<pause>
+<audio_08FF><Cless>:<nl>
+ Thank you.
+<pause>
+<audio_0900><Mint>:<nl>
+ We're in your debt.{END}"
+"<audio_0901>レニオス
+「さ、もう遅いから寝なさい」
+<pause>
+<audio_0902><Cless>
+「はい、そうさせてもらいます」{END}","<audio_0901>Lenios:<nl>
+ My, it's late.
+ Perhaps you two should
+ get some shuteye.
+<pause>
+<audio_0902><Cless>:<nl>
+ Yes, we will.{END}"
+"<audio_0903><Mint>
+「あの・・・」
+<pause>
+<audio_0904><Mint>
+「<Cless>さん・・・」<wait>{END}","<audio_0903><Mint>:<nl>
+ Umm...
+<pause>
+<audio_0904><Mint>:<nl>
+ <Cless>?<wait>{END}"
+"<audio_0905><Cless>
+「えっ、何？」<wait>{END}","<audio_0905><Cless>:<nl>
+ Huh, what is it?<wait>{END}"
+"<audio_0906><Mint>
+「だから<speed_0020>、<speed_FFFF>その<panic>」
+<pause>
+<audio_0907><Mint>
+「わ<speed_0020>、<speed_FFFF>私達<speed_0020>、<speed_FFFF>今夜ここで寝るので
+　しょうか？」
+<pause>
+<audio_0908><Cless>
+「えっ？」{END}","<audio_0906><Mint>:<nl>
+ Well<speed_0020>, <speed_FFFF>it's... <panic>
+<pause>
+<audio_0907><Mint>:<nl>
+ Th<speed_0020>-<speed_FFFF>there's<speed_0020>...<speed_FFFF>only one bed...
+<pause>
+<audio_0908><Cless>:<nl>
+ Huh?{END}"
+"<audio_0909><Cless>
+「あっ<speed_0010>、<speed_FFFF>いっ<speed_0010>、<speed_FFFF>いや<speed_0010>、<speed_FFFF>ぼっ<speed_0010>、<speed_FFFF>僕は
+　床で寝るから・・・」{END}","<audio_0909><Cless>:<nl>
+ Oh, I wasn't<speed_0010>...<speed_FFFF>I wouldn't<speed_0010>...<speed_FFFF>I mean<speed_0010>...<speed_FFFF>I
+ was gonna sleep on the floor...{END}"
+"<audio_090A><Cless>
+「お、おやすみ・・・」{END}","<audio_090A><Cless>:<nl>
+ N-Night...{END}"
+"<audio_090B><Cless>
+「１００年前の世界か<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_090C><Cless>
+「僕ら、元の時代に戻れるんだろ
+　うか？」
+<pause>
+<audio_090D><Cless>
+「僕達が、この時代のダオスを倒
+　したら・・・」<wait>{END}","<audio_090B><Cless>:<nl>
+ (We were flung backwards a
+ hundred years<speed_0010>...<speed_FFFF>)
+<pause>
+<Cless>:<nl>
+ (Is <audio_090C>it even possible to get back to
+ our original time?)
+<pause>
+<audio_090D><Cless>:<nl>
+ (But if we were to take out Dhaos
+ here...<wait>{END}"
+"<unk1><audio_090E><Cless>
+歴史が変わってモリスンさんや<Chester>を助けることになるのかな？」{END}","<unk1><audio_090E><Cless>:<nl>
+ ...would history change to help
+ Mr. Morrison and <Chester>?){END}"
+"<unk1><audio_090F><Mint>
+<Cless>さん、まだ起きていますか？」
+<pause>
+{END}","<unk1><audio_090F><Mint>:<nl>
+ Are you still awake?
+<pause>
+{END}"
+"<audio_0910><Cless>
+「ん<speed_0020>、<speed_FFFF>うん・・・」
+<pause>
+<audio_0911><Mint>
+「明日から・・・」
+<pause>
+<audio_0912><Mint>
+「がんばりましょうね」
+<pause>
+<audio_0913><Cless>
+「ああ、そうだね・・・」{END}","<audio_0910><Cless>:<nl>
+ Mmm<speed_0020>...<speed_FFFF> Yeah...
+<pause>
+<audio_0911><Mint>:<nl>
+ Our real journey begins at
+ daybreak...
+<pause>
+<audio_0912><Mint>:<nl>
+ It's not going to be easy, so we
+ must give it our all.
+<pause>
+<audio_0913><Cless>:<nl>
+ Yeah, of course...{END}"
+"<audio_0914><Mint>
+「<Cless>さん・・・」{END}","<audio_0914><Mint>:<nl>
+ <Cless>...{END}"
+"<unk1><audio_0915><Mint>
+<Cless>さん、おはようございます」<wait>{END}","<unk1><audio_0915><Mint>:<nl>
+ Good morning, <Cless>.<wait>{END}"
+"<audio_0916><Mint>
+「これを、村長さんにいただきま
+　した」<wait>{END}","<audio_0916><Mint>:<nl>
+ Mr. Lenios gave us this.<wait>{END}"
+<color_0002><item_9000>を手に入れました。<color_0000>{END},<color_0002>Acquired a <item_9000> of the past.<color_0000>{END}
+"<Cless>
+「鉄製の宝箱がある！」
+<pause>
+<Cless>
+「でも、勝手に開けるのはよく
+　ないな」{END}","<Cless>:<nl>
+ Hey, an iron treasure chest!
+<pause>
+<Cless>:<nl>
+ But I shouldn't open it without
+ permission.{END}"
+"<Cless>
+「鉄製の宝箱がある！」
+<pause>
+{END}","<Cless>:<nl>
+ Hey, an iron treasure chest!
+<pause>
+{END}"
+"武器屋の子供
+「勝手に触らないでくれよ」
+<pause>
+{END}","Owner's Son:<nl>
+ Hands off, mister.
+<pause>
+{END}"
+"<Cless>
+「あ、ごめん・・・」
+<pause>
+武器屋の子供
+「中身が無くなってたら父ちゃん
+　にグーでなぐられるんだからな」
+<pause>
+<Cless>
+「悪かったよ・・・」{END}","<Cless>:<nl>
+ Oh, sorry...
+<pause>
+Owner's Son:<nl>
+ Daddy'll tan my hide if anything's
+ missing from there.
+<pause>
+<Cless>:<nl>
+ Yikes...{END}"
+"<Cless>
+「・・・というわけなんです」
+<pause>
+レニオス
+「ふむ」
+<pause>
+レニオス
+「ダオスは倒したが、ユグドラシ
+　ルが枯れては元も子もない、と
+　いうことじゃな」
+<pause>
+<Mint>
+「はい」
+<pause>
+<Cless>
+「何かいい方法を知りませんか？」
+<pause>
+レニオス
+「うーむ・・・」{END}","<Cless>:<nl>
+ ...And that's everything up until
+ now.
+<pause>
+Lenios:<nl>
+ Hmm.
+<pause>
+Lenios:<nl>
+ So you defeated Dhaos, but it
+ doesn't do you any good if
+ Yggdrasill withers.
+<pause>
+<Mint>:<nl>
+ That's right.
+<pause>
+<Cless>:<nl>
+ Do you have any ideas on how to
+ revitalize it?
+<pause>
+Lenios:<nl>
+ Hmmm...{END}"
+"レニオス
+「・・・わからん」
+<pause>
+レニオス
+「・・・力になれなくて、申し訳
+　ないのぉ」
+<pause>
+<Mint>
+「そんな、レニオスさんには色々
+　とお世話になっていますよ」
+<pause>
+<Mint>
+「本当に感謝しています」
+<pause>
+レニオス
+「そう言ってもらえるとありがた
+　いんじゃが・・・」
+<pause>
+レニオス
+「まあよい」
+<pause>
+レニオス
+「今日は泊まっていきなさい」
+<pause>
+<Cless>
+「はい、ありがとうございます」{END}","Lenios:<nl>
+ I'm sorry, I can't think of anything.
+<pause>
+Lenios:<nl>
+ ...I truly wish I could help you.
+<pause>
+<Mint>:<nl>
+ Goodness, sir, you've already done
+ so much for us.
+<pause>
+<Mint>:<nl>
+ We're truly grateful.
+<pause>
+Lenios:<nl>
+ I appreciate the thought, but still...
+<pause>
+Lenios:<nl>
+ Oh, well.
+<pause>
+Lenios:<nl>
+ Why don't you stay here for the
+ night?
+<pause>
+<Cless>:<nl>
+ Yes, we'll do that.
+ Thank you, sir.{END}"

@@ -1,0 +1,1020 @@
+Early, The Twilit Town{END}
+
+Inn “Night Dream”{END}
+
+Equipment Shop “3:00 A.M.”{END}
+
+Tool Shop “Midnight”{END}
+
+Tea House “Noonwalker”{END}
+
+Innkeeper
+ Welcome to the Night Dream Inn.
+ Will you be staying with us tonight?
+<pause>
+Innkeeper
+ One night is <num1_00000078> gald.{END}
+
+Innkeeper
+ Checkout is at 9:00 A.M. tomorrow
+ morning.
+<pause>
+Innkeeper
+ Good night.{END}
+
+Innkeeper
+ I'm sorry, but you don't have
+ enough money.{END}
+
+Innkeeper
+ Come again, traveler.{END}
+
+Shopkeeper
+ Welcome to 3:00 A.M.{END}
+
+Shopkeeper
+ Thanks.{END}
+
+Shopkeeper
+ Hello.
+ I sell medicines as well.{END}
+
+Shopkeeper
+ Thank you.{END}
+
+Shopkeeper
+ Welcome to the “Noonwalker” tea
+ house.
+<pause>
+Shopkeeper
+ It don't matter if it's day or
+ night--we serve great tea, coffee,
+ and meals!{END}
+
+Shopkeeper
+ Thanks.
+ Please come again.{END}
+
+Chef
+ Have you made Hashed <item_7300> yet?{END}
+
+Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Hashed <item_7300>.<color_0000>{END}
+
+Chef
+ What!?
+ How can you reject this taste!?{END}
+
+Maid
+ Would you like some coffee?
+<pause>
+Maid
+ It'll warm you right up!{END}
+
+Investigator
+ I'm part of an investigation team
+ dispatched from Alvanista.
+<pause>
+Investigator
+ We hope to find out something
+ about this gloomy sky.{END}
+
+Citizen
+ The sky's been like this
+ for several years now.
+ Not a moment of sunshine since.
+<pause>
+Citizen
+ Maybe it's just a coincidence, but I
+ remember Dhaos showing up
+ around the same time it all started.{END}
+
+Citizen
+ This town used to be a stopover
+ for miners, and had a bustling
+ population.
+<pause>
+Citizen
+ When everyone realized the sky
+ went dark for good, many became
+ depressed and left.{END}
+
+<var_8201>
+ The cave to the northwest used to
+ be part of a much larger mine.
+<pause>
+<var_8201>
+ But when Dhaos appeared, he blew
+ up the whole confounded mountain,
+ mine and all.{END}
+
+Investigator
+ Mmm...
+ So warm...
+<pause>
+Investigator
+ Nothing like a swig of this shop's
+ amazing coffee after a hard day
+ of slaving in this brutal cold!<wait>{END}
+
+Investigator
+ The cold isn't the real problem,
+ though. The darkness makes it
+ almost impossible to get anything
+ done...{END}
+
+Investigator
+ Oh, excuse me, sir...{END}
+
+<unk1>Investigator
+ You're <Cless> Alvein, correct?<wait>{END}
+
+Investigator
+ I'm from the investigation team.
+ King Alvanista sent me an order to
+ keep an eye out for you.
+<pause>
+Investigator
+ It's my understanding that you're
+ currently seeking Dhaos'
+ whereabouts.
+<pause>
+<Cless>
+ Yes.
+ Have you picked up on any leads?
+<pause>
+Investigator
+ 'Fraid not. The sky conditions here
+ are naturally suspect, and while
+ our team's been scrambling to find
+ evidence linking them to Dhaos...
+<pause>
+Investigator
+ ...the investigation itself has been
+ nothing more than a wild goose
+ chase.
+<pause>
+<Cless>
+ All that work for nothing...
+<pause>
+Investigator
+ Yeah.
+ Wish I had better news to deliver.
+<pause>
+Investigator
+ Oh, wait!
+ A monster I defeated left an
+ emblem behind. Whatever it's
+ good for, I don't know.
+<pause>
+Investigator
+ Here, you can have it.
+ Perhaps you'll find a purpose for it.
+<pause>
+<Cless>
+ Th-thank you.
+<pause>
+<color_0002>Acquired a <item_7501>.<color_0000>{END}
+
+Citizen
+ Brrrr!!
+ This icy weather is giving me goose
+ bumps! I just wanna go for a dip
+ in a hot spring...
+<pause>
+Citizen
+ Supposedly, the Ninja Village has
+ one to help with poor circulation.
+<pause>
+Citizen
+ Say, it'd be pretty cool if there
+ were also ones that could help with
+ poverty, love sickness, and all the
+ world's other problems.{END}
+
+Citizen
+ Brrrr!!
+ This icy weather is giving me goose
+ bumps! I just wanna go for a dip
+ in a hot spring...
+<pause>
+Citizen
+ Supposedly, the Ninja Village has
+ one to help with poor circulation.
+<pause>
+Citizen
+ It's my dream to get a chance to
+ take a dip and relax in it.
+<pause>
+<Cless>
+ Excuse me, but what's this about a
+ Ninja Village...?
+<pause>
+Citizen
+ The rumors say it's a place hidden
+ away in Treant Forest...{END}
+
+Sentry
+ I'm freezing my helm off!
+ Sometimes I regret taking this
+ job...
+<pause>
+Sentry
+ But there's something interesting
+ about all this...
+<pause>
+Sentry
+ There's a local legend about a bug
+ known as Stardust that starts
+ flying around when the temp-
+ erature dips a bit below zero.
+<pause>
+Sentry
+ A bug that shows itself
+ only in the most frigid
+ days of Winter, huh?
+ That's really something else.{END}
+
+Sentry
+ There sure are lot of monsters
+ around here.{END}
+
+Swordswoman
+ Tsk, this training is just too much
+ for me!!{END}
+
+Swordswoman
+ Excuse me, sir.
+ You look like a swordsman.
+<pause>
+Swordswoman
+ Are you interested in arcane arte
+ books?
+<pause>
+<Cless>
+ Did you say arcane arte books!?
+<pause>
+Swordswoman
+ I cast everything in my life aside
+ and journeyed to this forsaken
+ land to train myself, only to find
+ I'm just not cut out for this.
+<pause>
+Swordswoman
+ I figured I'd try to sell this one so
+ I can afford the return trip and
+ living expenses while I try to find
+ employment.
+<pause>
+Swordswoman
+ I think 50000 gald should be
+ enough.
+<pause>
+Swordswoman
+ Will you help me out?
+<pause>
+<color_0002>Buy it?<color_0000>{END}
+
+Swordswoman
+ Tsk, if I don't sell this, I'm going to
+ be stranded here...{END}
+
+Swordswoman
+ I'm sorry, but I won't be able to
+ get by with this much.{END}
+
+<color_0002><Cless> learned
+<var_A200>.<color_0000>
+<pause>
+Swordswoman
+ Thank you SO much! I really
+ appreciate this! If I had anything
+ else of worth, I'd give it to you.
+ Now, I must prepare my return.{END}
+
+Girl
+ Stardust, envoy of the Spirit of
+ Snow...
+<pause>
+Girl
+ ...is a sublime creature that is both
+ beautiful and ephemeral, living only
+ for a single day.
+<pause>
+Girl
+ Some think of it as a spirit as well,
+ but it really isn't.
+<pause>
+Girl
+ On the coldest of mornings, you'll
+ catch a phenomenal sight of
+ something floating in the sky that
+ glitters like the stars.
+<pause>
+Girl
+ That's something is Stardust.{END}
+
+Citizen
+ I refuse to believe the spirit, <var_D800>,
+ is a mere legend.
+<pause>
+Citizen
+ If a man just accepts that 
+ something is a legend, then
+ that's it!
+ There's no LIFE to a legend!
+<pause>
+Citizen
+ You can stuff your legends!
+ What we need are DREAMS!
+ D-R-E-A-M-S!
+<pause>
+Citizen
+ A man's gotta have dreams or he'd
+ be DEAD!{END}
+
+Assistant
+ Good day.
+<pause>
+Assistant
+ A traveler told me he saw the
+ Spirit of Darkness somewhere on
+ this island.
+<pause>
+Assistant
+ Is it true?
+ Or was he just trying to impress
+ me...?{END}
+
+Stubborn Craftsman
+ How are you, young'un?{END}
+
+Stubborn Craftsman
+ Hey, young'un.
+<pause>
+Stubborn Craftsman
+ Answer my questions, would 'ya?{END}
+
+Stubborn Craftsman
+ See 'ya.{END}
+
+Stubborn Craftsman
+ What do you believe is the most
+ important aspect of armor?
+<pause>
+<color_0002>1. Price.
+2. Quality.
+3. Appearance.
+4. WARMTH!!<color_0000>{END}
+
+Stubborn Craftsman
+ If you weren't satisfied with
+ something you created, what would
+ you do?
+<pause>
+<color_0002>1. Sell it like normal.
+2. Sell it at a discount.
+3. Scrap it.
+4. Vow to try harder next time.<color_0000>{END}
+
+Stubborn Craftsman
+ What do you have a weapon for?
+<pause>
+<color_0002>1. To defeat my opponents.
+2. To protect myself.
+3. To show off my power.
+4. To snazz up my walls.<color_0000>{END}
+
+Stubborn Craftsman
+ You know, young'un, I think we can
+ really relate to each other.
+<pause>
+Stubborn Craftsman
+ Take this.<wait>{END}
+
+<color_0002>Acquired a <item_8601>.<color_0000>{END}
+
+Stubborn Craftsman
+ Hmph...
+ I see.{END}
+
+Young Lady
+ My father makes lots of fancy
+ weapons, but he loathes violence.
+<pause>
+Young Lady
+ He seems to prefer thinking of his
+ creations as art more than
+ anything else.{END}
+
+<unk1>???
+ Sir <Cless>?
+ Sir <Cless>, are you here!?{END}
+
+<Cless>
+ Who are you?
+<pause>
+Team Member
+ I'm one of the investigators from
+ Alvanista.
+<pause>
+Team Member
+ We can't confirm this, but we've
+ received word of someone sighting
+ a giant castle from the ruins of the
+ old northwestern mine.
+<pause>
+<Cless>
+ Really?
+<pause>
+Team Member
+ The claimant said he got about
+ halfway up the mountain, and
+ there it was in plain view: a huge
+ castle.
+<pause>
+<Klarth>
+ I'll be damned if that's not
+ suspicious.
+<pause>
+<Cless>
+ I agree.
+ We need to see this for ourselves.
+<pause>
+Team Member
+ Remember, it's <color_0002>northwest<color_0000> of this
+ town.
+<pause>
+Team Member
+ Good luck.
+ I must return to the rest of the
+ team.{END}
+
+<Klarth>
+ Brrrr...
+<pause>
+<Klarth>
+ Stove, stove...come to Papa...{END}
+
+<Cless>
+ You okay, <Mint>?{END}
+
+<Mint>
+ <Cless>...
+<pause>
+<Cless>
+ Huh?
+ What's up?
+<pause>
+{END}
+
+<unk1><Mint>
+ Um, actually...there's something...I
+ wanted to talk to you about.<wait>{END}
+
+<Mint>
+ Not right here, but at the side of
+ the inn...
+<pause>
+<Mint>
+ Would you...come out there later?
+ I'll wait.
+<pause>
+<Cless>
+ Um, er, sure thing...{END}
+
+<unk1><Arche>
+ Huh?
+ Where'd <Mint> go?<wait>{END}
+
+<Cless>
+ Um...
+<pause>
+<Cless>
+ I think she said she was going for
+ a walk or something<panic>
+<pause>
+<Arche>
+ A *walk*?
+<pause>
+<Cless>
+ Th-that's right!
+<pause>
+<Cless>
+ Sh-she went for a little walk<panic>
+<pause>
+<Arche>
+ Seriously, why would she want to
+ do that in this kinda weather!?
+<pause>
+<Chester>
+ Maybe she just felt like it.
+<pause>
+<Arche>
+ What about a nice bath instead?
+<pause>
+<Arche>
+ I mean, really!
+<pause>
+<Arche>
+ It would make way more sense if
+ she wanted to do something warm!
+<pause>
+<Chester>
+ What do you care?
+ If she wants to go for a walk, it's
+ not going to hurt anything.
+<pause>
+<Arche>
+ I'm just sayin'...
+ Anyway, it's no fun to take a walk
+ by yourself.
+<pause>
+<Chester>
+ ......
+<pause>
+<Klarth>
+ Instead of worrying about
+ <Mint>, let's get cozy, all
+ right...?
+<pause>
+<Klarth>
+ This place is mind-bogglingly cold...
+ Brrrr!
+<pause>
+<Klarth>
+ I swear my hat's gonna freeze to
+ my head at this rate.{END}
+
+<Klarth>
+ Something on your mind, <Cless>?<wait>{END}
+
+<Cless>
+ Uh, well, don't mind me...
+<pause>
+<Cless>
+ I...I feel like taking a little walk,
+ myself...{END}
+
+<Arche>
+ Ooh!!
+ Then I'm going with!!<wait>{END}
+
+<Cless>
+ Actually, umm... I...I want to go
+ alone...yeah...bye!{END}
+
+<Arche>
+ WEIRDO!
+<pause>
+{END}
+
+<unk1><Klarth>
+ It's quite miserable to be cold all
+ by oneself...
+<pause>
+{END}
+
+<Klarth>
+ It must be nice to be young...<wait>{END}
+
+<Arche>
+ Stop grumbling like an old fart.
+ You're not that old.
+<pause>
+<Klarth>
+ Says the girl who calls me “old
+ man.”
+<pause>
+<Arche>
+ You're not even thirty yet, are
+ you?
+<pause>
+<Klarth>
+ Well, no, but I'm wise beyond my
+ years...{END}
+
+<Klarth>
+ Hmm...
+ Still some time to kill...{END}
+
+<Arche>
+ What's with that goofy look on
+ your face?
+<pause>
+<Klarth>
+ Oh, nothing.
+ Just came up with a little mischief
+ to entertain myself...{END}
+
+<Klarth>
+ <var_D800>, amongst your powers is the
+ ability to scry across time, correct?
+<pause>
+<var_D800>
+ ...That is certainly possible.
+<pause>
+<var_D800>
+ However, I will not
+ show you the future.
+ That is forbidden.
+<pause>
+<Klarth>
+ That's fine.
+ What I wish to see is in the past....
+<pause>
+<Klarth>
+ Something that's been troubling me
+ for some time....
+<pause>
+<var_D800>
+ ......
+<pause>
+<var_D800>
+ Since this is your first request as
+ my master...
+<pause>
+<var_D800>
+ ...I will allow it just this once.
+<pause>
+<Klarth>
+ I only get one shake at this, huh?
+<pause>
+<Klarth>
+ Oh well.
+ Fair enough.{END}
+
+<Arche>
+ Just...what are you doing?{END}
+
+<var_D800>
+ What is the time and place you
+ desire to see?{END}
+
+<Klarth>
+ ...I'm sorry, but could you two step
+ out of the room?
+<pause>
+<Arche>
+ Huh!? Whaaat!?
+<pause>
+<Arche>
+ Do you want me to freeze to
+ death!?<wait>{END}
+
+<Klarth>
+ I beg you...
+<pause>
+<Klarth>
+ I'll treat you to whatever you want
+ later. Just...please go now.
+<pause>
+<Arche>
+ GAAAAH!!
+ What's up with you guys!?
+ Did we move to crazytown!?{END}
+
+<var_D800>
+ Well then?
+<pause>
+<Klarth>
+ *whisper* *whisper*
+ ......
+<pause>
+<var_D800>
+ Hmm?<wait>{END}
+
+<Klarth>
+ *whisper* *whisper*
+ ......
+<pause>
+<var_D800>
+ ...Hmph. Understood.
+<pause>
+<var_D800>
+ But why do you whisper, as though
+ you had reason to be ashamed?
+<pause>
+<var_D800>
+ Surely you are beyond the age to
+ be embarrassed by such things.
+<pause>
+<var_D800>
+ Hmph, in any case, let it be done...{END}
+
+<unk1><Chester>
+ So, <Arche>.
+<pause>
+<Arche>
+ Wh-wh-whaddya want!?
+<pause>
+<Chester>
+ Did I scare you?
+ I bet you're planning
+ to go spy on <Cless>.
+<pause>
+<Chester>
+ Could you be any more predictable?{END}
+
+<unk1><Arche>
+ Shove it!
+<pause>
+<Arche>
+ What I'm gonna do is none of your
+ business!
+<pause>
+<Chester>
+ Oh yeah?
+ Wanna make a bet!?
+<pause>
+<Chester>
+ <Cless> is my best friend!
+ Whatever concerns him, concerns
+ me!{END}
+
+<Arche>
+ Ugh!
+<pause>
+<Arche>
+ ......
+<pause>
+<Arche>
+ Why do we keep getting into these
+ fights, anyway!?<wait>{END}
+
+<Chester>
+ Because YOU keep picking 'em!
+<pause>
+<Arche>
+ Oh, c'mon!
+<pause>
+<Arche>
+ YOU'RE the one I only ever fight
+ with!
+<pause>
+<Arche>
+ ...Look, I don't care if you hate
+ me...
+<pause>
+<Arche>
+ But I want to put an end to this.
+ It's gone on for too long...
+<pause>
+<Chester>
+ Wh-who said anything about hating
+ you!?<wait>{END}
+
+<Chester>
+ I mean, from the moment I first
+ laid eyes on you, I...<wait>{END}
+
+<Arche>
+ *gasp*...
+<pause>
+<Arche>
+ D-do you m-mean<speed_0010>...<speed_FFFF>you
+ th-thought<speed_0010>...<speed_FFFF>I-I was--
+<pause>
+<Chester>
+ !!!{END}
+
+<Chester>
+ ...Don't say anymore.{END}
+
+<Arche>
+ Hmmm...
+<pause>
+<Arche>
+ ......
+<pause>
+<Arche>
+ Hey, <Chester>...
+<pause>
+<Arche>
+ Let's go outside, too<heart>
+<pause>
+<Chester>
+ Nah, I'm fine...
+<pause>
+<Arche>
+ Then I'm just gonna have to drag
+ you out!{END}
+
+<Cless>
+ Sorry, I hope I didn't keep you
+ waiting too long.
+<pause>
+<Mint>
+ It's okay.
+<pause>
+<Cless>
+ It's just they were making it hard
+ for me to leave sooner...{END}
+
+<Cless>
+ ...Mind if I sit next to you?
+<pause>
+<Mint>
+ Not at all.{END}
+
+<Cless>
+ So...
+<pause>
+<Cless>
+ What did you want to talk about?
+<pause>
+<Mint>
+ I...found this.
+ Do you recognize it?{END}
+
+<Cless>
+ Isn't this the earring that I...{END}
+
+<Cless>
+ ......
+<pause>
+<Cless>
+ An...earring?
+<pause>
+???
+ Hold it against the wall...
+<pause>
+???
+ Afterward, I beg you to save the
+ girl held captive in the cell nearby...
+<pause>
+???
+ Together, I'm sure you will be able
+ to escape this place...
+<pause>
+<Cless>
+ W-wait a minute!
+<pause>
+<Cless>
+ Who are you...?
+<pause>
+???
+ <speed_0010>...<speed_FFFF>Please<speed_0020>...
+<pause>
+<speed_FFFF><Cless>
+ ......
+<pause>
+<Cless>
+ I guess all I can do is give what
+ she said a try...{END}
+
+<Mint>
+ An earring in the image of the
+ unicorn is quite unique, don't you
+ think?
+<pause>
+<Mint>
+ This one proves the identity of a
+ true cleric...
+<pause>
+<Mint>
+ ...and is exactly like the one my
+ mother always wore.{END}
+
+<Mint>
+ My mother<speed_0010>...<speed_FFFF>is gone.<wait>{END}
+
+<Cless>
+ ......
+<pause>
+<Cless>
+ <Mint><speed_0010>...<speed_FFFF>I'm so sorry<speed_0010>...<speed_FFFF><wait>{END}
+
+<Mint>
+ Please don't.
+ You have nothing to apologize for.<wait>{END}
+
+<unk1><Mint>
+ Back then, if you hadn't kept my
+ mother's death a secret from me,
+ I...<wait>{END}
+
+<Mint>
+ I wouldn't have been able to go
+ on<speed_0010>...<wait>{END}
+
+<Cless>
+ I...
+<pause>
+<Mint>
+ Thank you<speed_0010>...
+<pause>
+<speed_FFFF><Mint>
+ ...so much<speed_0010>...{END}
+
+<Arche>
+ Poor <Mint>...
+<pause>
+<Chester>
+ Hey, don't you think we should go
+ back in now?
+<pause>
+<Chester>
+ The snow's starting to come down
+ again...
+<pause>
+<Arche>
+ B-but I'm not done yet...{END}
+
+<Klarth>
+ Brrr, it's freezing...
+<pause>
+<Klarth>
+ Better not waste any time.
+ To the inn!
+<pause>
+<Chester>
+ You can say that again...{END}
+
+<Suzu>
+ (Mother, Father...)
+<pause>
+<Suzu>
+ (The decisive battle against Dhaos is
+ imminent.)
+<pause>
+<Suzu>
+ (......)<wait>{END}
+
+<unk1><Suzu>
+ (Mother, Father...)
+<pause>
+<Suzu>
+ (I am confused right now.)<wait>{END}
+
+<unk1><Suzu>
+ (...Father, must a true ninja always
+ act with a heart of steel?)
+<pause>
+<Suzu>
+ (I feel different when I am with
+ <Cless> and the others.)
+<pause>
+<Suzu>
+ (Does that...)
+<pause>
+<Suzu>
+ (Does that signify weakness in my
+ heart?)
+<pause>
+<Suzu>
+ (...Mother, do you know these
+ feelings?)<wait>{END}
+
+<Suzu>
+ (......)
+<pause>
+<Suzu>
+ (...They are...)
+<pause>
+<Suzu>
+ (...unfamiliar to me.)
+<pause>
+<Suzu>
+ (......)<wait>{END}
+
+<unk1><Suzu>
+ (But...)
+<pause>
+<Suzu>
+ (But, even if it shows weakness as
+ a ninja...during the final battle, I...)
+<pause>
+<Suzu>
+ (...I would like to fight with my
+ heart fully united with those of
+ <Cless> and the others.)<wait>{END}
+
+<Suzu>
+ (That way, should this body fall...)
+<pause>
+<Suzu>
+ (...I will feel no shame.){END}
+
+<color_0002>Acquired the Unicorn Earring.
+<pause>
+As it is meant for clerics, this
+accessory can only be worn by
+<Mint>.<color_0000>{END}
+
+<color_0002><Klarth> earned a new title.<color_0000>{END}
+

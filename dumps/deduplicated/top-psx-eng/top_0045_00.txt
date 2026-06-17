@@ -1,0 +1,34 @@
+ Black Map{END}
+
+<center><speed_0008>Mom...<speed_007F><speed_0008>Dad...<speed_FFFF><endalign>{END}
+
+<speed_0000><center>A decade or so has since passed...<endalign>{END}
+
+<speed_0000><center>Aselian Calendar<endalign>
+<center>Year 4202<speed_FFFF><endalign>{END}
+
+<center><speed_0000>In the end, just whom would the<endalign>
+<center>goddess of victory smile upon?<endalign><speed_FFFF>{END}
+
+<speed_0004>Martel
+ O holy God...{END}
+
+<speed_0004>Martel
+ ...of this holy land...{END}
+
+<speed_0004>Martel
+ ...of this holy universe!{END}
+
+<speed_0004>Martel
+ I beg thee to find it within thy
+ benevolent heart...{END}
+
+<speed_0004>Martel
+ ...to grant this lowly sinner thy
+ grace!{END}
+
+<speed_0004>Martel
+ Arise, Great Seed!<wait>{END}
+
+<speed_0000><center>Two hours later...<endalign><wait>{END}
+

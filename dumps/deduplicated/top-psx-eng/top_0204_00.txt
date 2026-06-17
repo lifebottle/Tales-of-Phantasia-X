@@ -1,0 +1,1171 @@
+<Cless>
+ This boulder's blocking the way in...{END}
+
+<Cless>
+ We're going to need a rope to
+ climb down...{END}
+
+<Cless>
+ No one's here...
+<pause>
+<Cless>
+ Where'd they go?{END}
+
+<Cless>
+ Last time I checked, I didn't have
+ fists of steel...{END}
+
+<Cless>
+ A book about fortune-telling...
+<pause>
+<Cless>
+ And another one about spirits.{END}
+
+<var_CF00>
+ I-it hurts...{END}
+
+<var_CF00>
+ I-it hurts...
+<pause>
+<var_CF00>
+ Please make it stop...{END}
+
+<Klarth>
+ Whoa!
+ This place matches all the
+ descriptions I've heard about
+ Daemonium!
+<pause>
+<Klarth>
+ The miasma down here is thick
+ enough to suggest that great
+ demons from there have found a
+ way up here!
+<pause>
+<Klarth>
+ If we meet any, just run away!
+<pause>
+<Klarth>
+ We'd be steamrolled in seconds if
+ we tried to fight it!!{END}
+
+<Mint>
+ Wh-what should we do!?<wait>{END}
+
+<Klarth>
+ That's simple.
+<pause>
+<Klarth>
+ We'll suffocate these fiends by
+ cutting off the source of the
+ miasma!{END}
+
+<Klarth>
+ Don't take those whirlwinds lightly.<wait>{END}
+
+<Cless>
+ They're dangerous?
+<pause>
+<Klarth>
+ Well, if you walked into one, the
+ least that could happen is you'd get
+ shredded into a fresh pile of
+ manburger.
+<pause>
+<Mint>
+ Wh-why is something like that
+ here?<panic>
+<pause>
+<Klarth>
+ I'd say they're likely to be a
+ product of the Spirit of Wind's
+ madness.{END}
+
+<var_CF00>
+ You are...
+<pause>
+<var_CF00>
+ ...the ones who stopped the miasma
+ flow, aren't you...?
+<pause>
+<Klarth>
+ Ruler of Winds, I wish to establish
+ a pact with you, as per the ancient
+ rite of the ring.
+<pause>
+<var_CF00>
+ Impressive.
+<pause>
+<var_CF00>
+ ...The patterns tattooed on your
+ body, the pleasant sound of your
+ ritual, and the surge I feel from
+ your ring...
+<pause>
+<var_CF00>
+ You have prepared yourself well
+ for summoning, in body and mind...
+<pause>
+<Klarth>
+ Then!
+<pause>
+<var_CF00>
+ I shall assist you.
+<pause>
+<var_CF00>
+ But before we conduct the rite of
+ the pact, I have a request to make
+ of you.
+<pause>
+<Klarth>
+ A spirit asking a favor of a human?
+<pause>
+<var_CF00>
+ Yes, but this matter is of concern
+ to you as well.
+<pause>
+<var_CF00>
+ Though you may establish pacts
+ with us, it will all be for naught
+ before long.
+<pause>
+<Klarth>
+ I don't understand.
+<pause>
+<Klarth>
+ What do you mean?
+<pause>
+<var_CF00>
+ Mana, the source of our vitality,
+ and the source of magic, is rapidly
+ fading from the world.
+<pause>
+<var_CF00>
+ In due time, it shall be completely
+ lost.
+<pause>
+<Klarth>
+ What!?
+ Are you saying both spirits and
+ magic will soon cease to exist!?
+<pause>
+<Klarth>
+ How can this be!?
+<pause>
+<var_CF00>
+ You can learn more in the Forest
+ of Spirits, where the World Tree,
+ Yggdrasill, grows.
+<pause>
+<var_CF00>
+ Take this orb.
+ It will enable you to meet the
+ tree's guardian spirit.
+<pause>
+<var_CF00>
+ With her to guide you, you may be
+ able to prevent our destruction.
+<pause>
+<Klarth>
+ ......
+<pause>
+<Klarth>
+ I understand.
+ We'll go as soon as possible.
+<pause>
+<Klarth>
+ Oh, but before I forget, I have one
+ more thing to ask...
+<pause>
+<Klarth>
+ Have you seen a girl wandering
+ around here all by herself lately?
+<pause>
+<Klarth>
+ It may sound inconsequential, but
+ this is important.
+<pause>
+<var_CF00>
+ You are the only humans I have
+ seen come into this valley within
+ the last several months.
+<pause>
+<var_CF00>
+ That is all I can say.
+<pause>
+<Klarth>
+ I see...
+<pause>
+<var_CF00>
+ Let us now establish the pact...
+<pause>
+<var_CF00>
+ Present the Opal Ring...{END}
+
+<Klarth>
+ Here and now, I offer my request
+ to the Spirit of Wind.
+<pause>
+<Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon <var_CF00>.
+<pause>
+Acquired the <item_3600>.<wait><color_0000>{END}
+
+<color_0002><Klarth> has earned the title
+“<var_B201>.”<color_0000>{END}
+
+<Cless>
+ <var_CF00> isn't here...
+<pause>
+<Cless>
+ Maybe she's hiding from the
+ miasma...{END}
+
+Bart
+ You were successful!?
+<pause>
+Bart
+ The wind suddenly went back to
+ how it used to be!
+<pause>
+<Klarth>
+ As it should.
+<pause>
+Bart
+ And, about my daughter...
+<pause>
+<Klarth>
+ Doesn't seem likely she went into
+ the valley.
+<pause>
+<Klarth>
+ After <var_CF00> regained her senses,
+ she mentioned that *nobody's*
+ gone into the place for months.
+<pause>
+Bart
+ I see...
+<pause>
+Bart
+ Where in the world could she be...
+<pause>
+Bart
+ Where are you, <Arche>?
+<pause>
+<Mint>
+ Please don't lose hope.
+<pause>
+<Mint>
+ We'll ask about your
+ daughter as we travel.
+ I'm sure she'll turn up.
+<pause>
+Bart
+ ......
+<pause>
+Bart
+ Thank you.{END}
+
+<Klarth>
+ Now, let's do as <var_CF00> said and get
+ to that Forest of Spirits place.
+<pause>
+<Mint>
+ I believe it's south of Belladam.
+<pause>
+<Klarth>
+ Yeah.{END}
+
+<Cless>
+ Hey, I think we can push that rock
+ around.
+<pause>
+<Cless>
+ Looks like it should be a good fit
+ for that hole.{END}
+
+<color_0002>Rest?<color_0000>{END}
+
+<Arche>
+ Daddy, didja know!?
+ We saved Yggdrasill!
+<pause>
+Bart
+ Yggdrasill?
+ What's that?
+<pause>
+<Arche>
+ You know, the sacred tree in the
+ Forest of Spirits.
+<pause>
+Bart
+ What!?
+ Seriously!?
+<pause>
+Bart
+ That's incredible!
+<pause>
+Bart
+ Does that mean you've come back
+ home for good?
+<pause>
+<Arche>
+ Nooope, sorry Daddy<heart>
+<pause>
+<Arche>
+ But it's all good, though!
+ There's only a teensy bit'a
+ stuff left we gotta do.
+<pause>
+<Arche>
+ So I'll be back before you can say
+ “YAY!!”!{END}
+
+Bart
+ According to the folklore of
+ Midgard, there's a spirit that
+ governs the source of human
+ vitality.
+<pause>
+Bart
+ I don't know much more than that,
+ though...<wait>{END}
+
+<unk1>Bart
+ Wait.
+ That sounds like it may be related
+ to <Mint><'s/'> clerical artes.<wait>{END}
+
+Bart
+ You said it's a power capable of
+ saving people's lives before, didn't
+ you?
+<pause>
+Bart
+ And something about a horse-like
+ creature being related to it...{END}
+
+<unk1>Bart
+ Well, take care of <Arche> for
+ me.<wait>{END}
+
+Bart
+ You know, children grow up so fast
+ when you're not looking...
+<pause>
+Bart
+ It seems like she was so young
+ just the other day...<wait>{END}
+
+Bart
+ Oh, yes.
+ Take this with you.
+<pause>
+Bart
+ It should come in handy.<wait>{END}
+
+<color_0002>Acquired a <item_6A01>.
+<pause>
+<color_0000><Arche>
+ Thanks, Daddy.<wait>{END}
+
+<unk1>Bart
+ Please keep an eye out for
+ <Arche>.{END}
+
+Bart
+ A word of precaution: The valley is
+ full of hazards and other obstacles.
+<pause>
+Bart
+ I recommend you obtain a <color_0002>pickaxe<color_0000>
+ and a <color_0002>rope<color_0000> to overcome them.
+<pause>
+Bart
+ You should find them in good
+ supply at the tool shop in Harmel...{END}
+
+Man
+ Who are you?
+<pause>
+Man
+ What are you doing in my house?
+<pause>
+Man
+ Get out.{END}
+
+Old Man
+ Who are ya!?
+<pause>
+Old Man
+ An' who gave ya whippersnappers
+ permission to barge into my house,
+ huh!? Out with ya!<wait>{END}
+
+Old Man
+ This run-down ol' shack looked like
+ it's been abandoned longer 'an I
+ been livin'! So I took it!{END}
+
+Old Man
+ Whuzzat?
+ You say “Elf”?
+ Speak up, Missy.
+<pause>
+<Arche>
+ No, no, I said HALF-elf...
+<pause>
+Old Man
+ Whatever--I don' give a damn.
+<pause>
+Old Man
+ So I guess ya wanna learn some
+ spells. Well, today's yer lucky day,
+ 'cause I foun' a coupl'a spell books
+ lyin' 'round. Ya buyin' 'em?
+<pause>
+<color_0002><speed_0000>1. <var_C200>
+2. Ice Tornado<color_0000><speed_FFFF>{END}
+
+Old Man
+ You 'kin have that one fer 250
+ gald! Ya wannit?{END}
+
+<color_0002><Arche> learned <var_C200>.<color_0000><wait>{END}
+
+Old Man
+ You 'kin have that one fer 800
+ gald! Ya wannit?{END}
+
+<color_0002><Arche> learned Ice Tornado.<color_0000><wait>{END}
+
+Old Man
+ If ya got nothin' to do here, then
+ go on! Git!{END}
+
+Old Man
+ If yer done, then leave me be.{END}
+
+Old Man
+ What do I look like, a charity!?
+ If y'ain't got the money, then
+ scram!{END}
+
+Old Man
+ If ya already know that, then why
+ are ya wastin' my time!?{END}
+
+Old Man
+ Y'ain't got no mage with ya so I
+ ain't got nothin' for ya. Git out and
+ stay off my lawn!{END}
+
+Chef
+ Have you made Gratin, sonny?{END}
+
+Chef
+ I come from the World of Fabulous
+ Flavors, sonny-boy!
+<pause>
+Chef
+ I must have as many sonnies as
+ possible experience this taste!
+<pause>
+Chef
+ So whaddaya say, sonny Jim-Bob?
+ Wanna taste the flavors of my
+ world?{END}
+
+Chef
+ I'll teach you this dish, sonny
+ bunny!<wait>{END}
+
+<color_0002>Learned the recipe for Gratin.<color_0000>{END}
+
+Chef
+ Sonny Joe-Jim!
+ How can you reject this taste!?{END}
+
+<Klarth>
+ So... I guess Rhea had so much
+ hatred for her killer that her
+ grieving friend loaned her own
+ body to her...
+<pause>
+<Mint>
+ She went to Heaven, didn't she?
+<pause>
+<Cless>
+ Yeah, I'm sure of it.<wait>{END}
+
+<unk1><Klarth>
+ Soul channeling, huh...
+ That <Arche> girl's affinity
+ for magic is probably what
+ made it possible...<wait>{END}
+
+<Klarth>
+ Who knew it'd turn out like this...{END}
+
+<Mint>
+ Miss Rhea!
+<pause>
+<Mint>
+ Oh, I'm sorry...
+ I mean Miss <Arche>.<wait>{END}
+
+<Arche>
+ S'okay, I'm cool with that.
+ But drop the Miss part, 'kay?
+<pause>
+<Arche>
+ You're <Mint>, right?
+<pause>
+<Arche>
+ Well, I guess I can't stay looking
+ like this forever...{END}
+
+<Arche>
+ What'cha think?
+<pause>
+<Mint>
+ Oh...
+<pause>
+<Mint>
+ That ponytail looks very pretty on
+ you.<wait>{END}
+
+<Arche>
+ And my clothes...
+ POOF!{END}
+
+<Arche>
+ I appreciate you helping Rhea<note>
+<pause>
+<Arche>
+ So now it's my turn to help you
+ guys out<heart>
+<pause>
+<Klarth>
+ You know, it's a little disturbing to
+ hear that same innocent face
+ speak with such a different tone...
+<pause>
+<Arche>
+ Well, this is what I really sound
+ like.
+<pause>
+<Arche>
+ Oh, yeah.
+ Got something for ya<heart>
+<pause>
+<Arche>
+ This is a thank you from my daddy.<wait>{END}
+
+<color_0002>Acquired the <item_5601> and
+<item_6101> pact rings.<color_0000>
+<pause>
+<Arche>
+ 'Kay, that's about it!
+<pause>
+<Cless>
+ Good, now we can finally go to
+ Alvanista!{END}
+
+<Cless>
+ What is this place?
+<pause>
+<Klarth>
+ This is Lone Valley.
+ The Spirit of Wind lives here
+ somewhere.
+<pause>
+<Klarth>
+ A little bit of folklore: A spirit is
+ said to inhabit every material thing
+ in this world.
+<pause>
+<Klarth>
+ A special quartet of these, called
+ the Four Great Spirits, have been
+ confirmed, though much of our
+ knowledge is still theory.
+<pause>
+<Cless>
+ The Four Great Spirits, huh...?
+<pause>
+<Klarth>
+ Yes.
+ That's what the spirits that govern
+ Earth, Water, Fire, and Wind are
+ collectively known as.
+<pause>
+<Klarth>
+ <var_CF00> is, of course, one of them.
+<pause>
+<Mint>
+ So we just need to find <var_CF00> now
+ to get her assistance?
+<pause>
+<Klarth>
+ Actually, not quite yet.
+<pause>
+<Klarth>
+ First, one needs something called a
+ “rune ring” to make a pact with a
+ spirit.
+<pause>
+<Klarth>
+ I, and most others usually refer to
+ them as “pact rings,” though.
+<pause>
+<Klarth>
+ We still need to get one.<wait>{END}
+
+<unk1><Cless>
+ Wait...
+ Does that mean you didn't actually
+ invent summoning artes yourself?
+<pause>
+<Klarth>
+ Oh...heh heh.
+ Actually, I first heard about them
+ in some ancient documents.
+<pause>
+<Klarth>
+ After studying them for a while, I
+ created a more efficient process.
+<pause>
+<Cless>
+ Wow, all by yourself?
+ That's amazing!
+<pause>
+<Klarth>
+ Heh, my pig-headed peers just
+ laughed me out of the university
+ after hearing my thesis.
+<pause>
+<Klarth>
+ Well, enough about that.
+<pause>
+<Klarth>
+ I want to speak with the man who
+ lives inside this house.{END}
+
+Bart
+ <Arche>!
+<pause>
+<Arche>
+ Sorry, Daddy...
+<pause>
+Bart
+ I'm not angry.
+ I'm just happy you made
+ it home unharmed...
+<pause>
+<Arche>
+ I'm really, really sorry, Daddy...{END}
+
+<Klarth>
+ Pardon our intrusion, but are you
+ Mr. Bart Klaine?<wait>{END}
+
+Bart
+ Oh?
+<pause>
+Bart
+ It's you two from the other day...<wait>{END}
+
+<Klarth>
+ You two are already acquainted
+ with Bart?
+<pause>
+<Cless>
+ No, not exactly...<wait>{END}
+
+Bart
+ And you?<wait>{END}
+
+<unk1><Klarth>
+ I'm <Klarth>, a scholar
+ of magic and spirits.
+ I wish to see if I can forge a
+ pact with the Spirit of Wind.<wait>{END}
+
+Bart
+ You'd best wait a while.
+<pause>
+Bart
+ You know the recent earthquake?
+<pause>
+Bart
+ For whatever reason, the spirits
+ have since been in an uproar.
+<pause>
+Bart
+ It's far too dangerous for a person
+ to go alone right now, so I haven't
+ been able to investigate.
+<pause>
+<Klarth>
+ Thanks for your concern, but we've
+ got no time to spare.
+<pause>
+<Klarth>
+ So I'd greatly appreciate it if you
+ could give me the rune ring that
+ you have.
+<pause>
+<Klarth>
+ Naturally, I'll compensate
+ you for it.
+<pause>
+Bart
+ ......
+<pause>
+Bart
+ I have no idea where you heard
+ about my ring, but...
+<pause>
+Bart
+ If you can help me, I'll gladly give
+ it to you in exchange.
+<pause>
+<Klarth>
+ What do you ask of us?
+<pause>
+Bart
+ My daughter went out a few days
+ ago, but hasn't returned...
+<pause>
+Bart
+ I fear that she went into the valley
+ to check on the spirits.
+<pause>
+<Klarth>
+ A young girl, into the valley, all by
+ herself!?
+<pause>
+<Klarth>
+ What was she thinking!?
+<pause>
+Bart
+ My daughter can be quite reckless.
+ I'm worried.
+<pause>
+<Klarth>
+ It'd be lousy of us to decline
+ helping you find her. Deal.<wait>{END}
+
+<unk1>Bart
+ Her name's <Arche>.
+ You'll recognize the girl
+ by her ponytail.<wait>{END}
+
+Bart
+ She's a little rambunctious.
+<pause>
+Bart
+ You shouldn't have too much
+ trouble picking her out.
+ She's a very conspicuous child.
+<pause>
+<Klarth>
+ Got it.
+ We'll keep our eyes peeled.
+<pause>
+Bart
+ Then I leave <Arche><'s/'>
+ safety in your hands.
+<pause>
+Bart
+ So... If you want to find the Spirit
+ of Wind, she's located deep within
+ the valley, beyond the suspension
+ bridges.<wait>{END}
+
+<color_0002>Acquired the <item_5901> pact ring.<color_0000>{END}
+
+<unk1><Cless>
+ Whew, we've finally made it.<wait>{END}
+
+<Cless>
+ Is something wrong, <Arche>...?{END}
+
+<Arche>
+ Dad, you liar!!
+<pause>
+<Arche>
+ How could you!?
+ Mom is not dead!
+<pause>
+Bart
+ Wh-wh-wha...{END}
+
+Bart
+ Y-you saw her during your
+ travels?{END}
+
+Bart
+ I see...
+<pause>
+<Arche>
+ Why did Mommy leave us?{END}
+
+<Arche>
+ Did you cheat on her?<wait>{END}
+
+Bart
+ Bah, don't say such nonsense.
+<pause>
+<Klarth>
+ It's because the elves chose to
+ unify their race some time ago...
+<pause>
+<Klarth>
+ ...am I right?<wait>{END}
+
+Bart
+ It is as you say...
+<pause>
+Bart
+ Humans and elves coexisted until
+ just ten years ago.
+<pause>
+Bart
+ One day, the elves suddenly started
+ to show disgust toward humans...
+<pause>
+Bart
+ They despised the mixing of human
+ and elven blood, so they gathered
+ their tribe and isolated themselves
+ in Ymir Forest.{END}
+
+Bart
+ Of course, not all elves shared the
+ same sentiments.
+<pause>
+Bart
+ But the dissenters were in the
+ minority, and were torn away
+ from their human partners
+ against their will.
+<pause>
+Bart
+ Luche and I were but one of those
+ cases.{END}
+
+Bart
+ Luche!!{END}
+
+Bart
+ Do you really have to go?
+<pause>
+Luche
+ Yes...
+<pause>
+Bart
+ ......
+<pause>
+Bart
+ Why?
+<pause>
+Bart
+ Why can't we live together
+ anymore?{END}
+
+Bart
+ Please don't leave me, Luche!
+<pause>
+Luche
+ ......
+<pause>
+Luche
+ Bart...
+<pause>
+Bart
+ Can we...ever be together again...?
+<pause>
+Luche
+ ......{END}
+
+Bart
+ Why, Luche!?{END}
+
+Elf
+ Enough, human!
+ The differences between our races
+ are greater than you realize.
+<pause>
+Elf
+ The things you have done, and
+ whatever sins you may yet
+ commit....
+<pause>
+Elf
+ Meditate well upon the foolish
+ deeds of your race!
+<pause>
+Bart
+ What the hell is that supposed to
+ mean?
+<pause>
+Elf
+ If you do not, we shall never again
+ show ourselves before humans.{END}
+
+Bart
+ What is the meaning of this...?
+<pause>
+Bart
+ Oh, Luche...{END}
+
+<Cless>
+ The foolish deeds of our race?
+ What was he talking about?{END}
+
+Bart
+ To this day, I'm afraid I've never
+ figured it out.
+<pause>
+Bart
+ Anyway, <Arche>...
+ It was your mother who asked me
+ to tell you that she'd passed on.
+<pause>
+<Arche>
+ Mom...<wait>{END}
+
+Bart
+ Huh?
+<pause>
+<Arche>
+ When I saw Mom, she apologized.
+ She said “I'm so sorry.”
+<pause>
+<Arche>
+ Are you angry at her?
+<pause>
+Bart
+ ......
+<pause>
+Bart
+ No, <Arche>.
+ I've never been angry at your
+ mother. Not even once.
+<pause>
+<Arche>
+ ......
+<pause>
+<Arche>
+ So that means you still...
+<pause>
+<Arche>
+ ...love her?
+<pause>
+Bart
+ Of course!
+<pause>
+<Arche>
+ ......{END}
+
+<Arche>
+ If that's the case...<wait>{END}
+
+<unk1><Arche>
+ Someday things will go back to the
+ way they were, I just know it!
+<pause>
+<Arche>
+ And we'll be one big, happy family
+ again!
+<pause>
+Bart
+ Yeah...
+ I'm sorry I was powerless
+ to keep her here.{END}
+
+<unk1><Klarth>
+ <Arche>...
+ There was another reason we
+ came here, remember?
+<pause>
+<Arche>
+ Whoops, sorry<panic>
+<pause>
+<Arche>
+ By the way, Daddy: Did Rhea's
+ parents...do anything bad?
+<pause>
+Bart
+ ???<wait>{END}
+
+Bart
+ What do you mean?
+<pause>
+<Klarth>
+ Basically, we're trying to figure out
+ if there were any connections
+ between the Scarlets and Midgard.
+<pause>
+{END}
+
+Bart
+ ...They used to live there.
+<pause>
+Bart
+ All I know is that they studied
+ some kind of unknown power at
+ the castle...
+<pause>
+Bart
+ But several years ago, they moved
+ to Harmel.
+<pause>
+Bart
+ Does that tell you anything?<wait>{END}
+
+<Klarth>
+ An “unknown power,” huh...?<wait>{END}
+
+<Klarth>
+ That could only be magitechnology...
+<pause>
+{END}
+
+<Arche>
+ Yeah...
+ Could Dhaos have some
+ relation to it?
+<pause>
+{END}
+
+<Cless>
+ Who knows...
+<pause>
+{END}
+
+<Mint>
+ Pardon me, but...
+ We should probably be
+ heading back to Midgard...
+<pause>
+<Klarth>
+ Aye...
+<pause>
+<color_0002>What will you do?
+<speed_0000>1. Quick-jump back
+2. Walk back<color_0000><speed_FFFF>{END}
+
+<Klarth>
+ Well, then.
+ The miasma leak's been capped,
+ and whatever escaped should have
+ dissipated by now.
+<pause>
+<Klarth>
+ <var_CF00> should be breathing easier, so
+ let's go find her.
+<pause>
+<Cless>
+ Bart said she hangs out just
+ beyond the suspension bridges.
+<pause>
+<Klarth>
+ Yep. Let's go.{END}
+
+<var_CF00>
+ My companions have been touched
+ by the air of Daemonium, and one
+ by one, their minds have been...{END}
+
+<Mint>
+ The air of Daemonium?
+<pause>
+<Klarth>
+ Aha!
+ So miasma is what's hurting them!
+<pause>
+<Cless>
+ The <var_CF00>s are being hurt by your
+ asthma?
+<pause>
+<Cless>
+ I thought it wasn't contagious...{END}
+
+<unk1><Mint>
+ What is miasma, <Klarth>?
+<pause>
+<Mint>
+ Could you explain?
+<pause>
+<Klarth>
+ I'm referring to the putrid air of
+ Daemonium, not lung disease.
+<pause>
+<Klarth>
+ There must be some kind of
+ dimensional distortion between this
+ world and Daemonium, allowing it
+ to leak here.
+<pause>
+<Klarth>
+ Anyway, miasma's toxic.
+ Humans should be able to tolerate
+ it for a short while, but spirits are
+ far more sensitive.
+<pause>
+<Mint>
+ So it'd cause any spirit to go mad,
+ and not just the poor ones we just
+ fought...{END}
+
+<Cless>
+ Then we'd better block the holes
+ responsible for this distortion
+ thingy.<wait>{END}
+
+<Cless>
+ Let's find them, quick!
+<pause>
+<Klarth>
+ Yeah.{END}
+
+Ninja
+ May I interest you in something?{END}
+
+Ninja
+ I am a ninja in the midst of my
+ training.
+<pause>
+Ninja
+ Would you like me to teach you the
+ ninja arte I have learned while in
+ this place?{END}
+
+Ninja
+ Just <num1_00000035>000 gald.
+<pause>
+<speed_0000><color_0002>Pay <num1_0000CF08> gald?<color_0000><speed_FFFF>{END}
+
+<color_0002><Suzu> learned <var_B500>.
+<pause>
+<color_0000>Ninja
+ Thank you.{END}
+
+Ninja
+ You do not have enough money.{END}
+
+Ninja
+ Buy it.{END}
+
+Ninja
+ A shame I could not serve you.{END}
+

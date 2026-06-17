@@ -1,0 +1,1617 @@
+Inn “Bay Area”{END}
+
+Weapon Shop “Water's Edge”{END}
+
+Armor Shop “Sea-through”{END}
+
+Grocery “Waterfront”{END}
+
+Tool Shop “Malaga Sea”{END}
+
+Mayor's House{END}
+
+Layot Trading Company{END}
+
+(Elwyn's Father, Doug)
+ *I* will decide who your bride is!
+<pause>
+Doug
+ And *I* have decided you're not
+ going to marry some bumpkin girl
+ like that!!
+<pause>
+Elwyn
+ Who are you to tell me who I can
+ marry!?
+<pause>
+Doug
+ It's what's best for you!
+ So do as I say!!
+<pause>
+Elwyn
+ I'm not your slave!{END}
+
+Elwyn
+ Nancy!!
+<pause>
+Doug
+ A girl like that isn't for you!<wait>{END}
+
+Elwyn
+ Get over yourself!
+<pause>
+Doug
+ Don't get cheeky with me!!{END}
+
+Doug
+ Elwyn!!{END}
+
+Doug
+ That...foolish kid...{END}
+
+Innkeeper
+ Welcome to the Bay Area Inn.
+<pause>
+Innkeeper
+ It costs <num1_00000030> gald per night.
+<pause>
+Innkeeper
+ Will you be staying?{END}
+
+Innkeeper
+ Good night.{END}
+
+Innkeeper
+ Pardon, but you don't seem to have
+ that much money.{END}
+
+Innkeeper
+ We look forward to seeing you
+ again.{END}
+
+Clerk
+ Welcome to Sea-through.{END}
+
+Clerk
+ Thanks.{END}
+
+<var_8201>
+ So, the war has concluded.
+<pause>
+<var_8201>
+ Alvanista and Midgard's ties should
+ now only tighten from this point
+ forward.{END}
+
+<var_8201>
+ Alvanista and Midgard have had a
+ strange relationship lately.
+<pause>
+<var_8201>
+ They're supposed to be allies, but...
+<pause>
+<var_8201>
+ Midgard's caught up in a war, but
+ Alvanista won't even lift a finger to
+ help them.
+<pause>
+<var_8201>
+ Talk about weird...{END}
+
+Swordswoman
+ Just like you'd expect of a trading
+ town: top-class weapons and
+ armor.{END}
+
+Swordswoman
+ You must be a fellow swordsman.
+<pause>
+Swordswoman
+ Would you be interested in an
+ arcane arte book?
+<pause>
+<Cless>
+ Huh? An arcane arte book!?
+<pause>
+Swordswoman
+ I got it from the black market, but
+ it's way too difficult for me.
+<pause>
+Swordswoman
+ I'll even give you a fantastic deal
+ on it.
+<pause>
+Swordswoman
+ Just 3000 gald!
+<pause>
+<color_0002>Buy it?<color_0000>{END}
+
+Swordswoman
+ Tsk, what a bummer...
+<pause>
+Swordswoman
+ And I thought it'd be gone in an
+ instant for that price...{END}
+
+Swordswoman
+ Sorry, but this isn't enough...{END}
+
+<color_0002><Cless> learned
+<var_9D00>.<color_0000>
+<pause>
+Swordswoman
+ Thank youuuu<heart>{END}
+
+Owner
+ Welcome to Water's Edge.{END}
+
+Owner
+ Thank you very much.{END}
+
+Intellectual
+ Are you familiar with elves?{END}
+
+Intellectual
+ Elves are beings with a very
+ beautiful appearance.
+<pause>
+Intellectual
+ Not only that, but they have
+ incredibly long life spans...
+<pause>
+Intellectual
+ Amazingly, they're able to live
+ beyond a thousand years!
+ Nobody understands how
+ that's possible.
+<pause>
+Intellectual
+ As if that weren't enough, they
+ have an innate ability to use magic.
+<pause>
+Intellectual
+ Not just the basics, either; they
+ have access to unbelievably
+ powerful spells.
+<pause>
+Intellectual
+ But elves are generally pacifistic,
+ so such power is seldom
+ demonstrated.
+<pause>
+Intellectual
+ Compared to us humans, they're an
+ enviable species, don't you agree?
+<pause>
+Intellectual
+ Still, though, they
+ are very isolationist.
+ They only openly accept those
+ of their own kind.
+<pause>
+Intellectual
+ I guess they're just extremely
+ concerned about the purity of their
+ bloodline.{END}
+
+Intellectual
+ I see.
+ How about half-elves?{END}
+
+Intellectual
+ As the name suggests, they are a
+ cross between the elf and human
+ races.
+<pause>
+Intellectual
+ Their outward appearance is a
+ pretty even split between their
+ parents' races.
+<pause>
+Intellectual
+ They inherit the elf parent's long
+ lifespan and ability to use magic.
+<pause>
+Intellectual
+ Sounds like something to be envious
+ of, but half-elves lead very
+ difficult lives.
+<pause>
+Intellectual
+ They have a very powerful social
+ stigma in both human and elf
+ society.{END}
+
+Intellectual
+ Nice to meet an informed
+ individual. See you.{END}
+
+Receptionist
+ Do you have an appointment?{END}
+
+Female Employee
+ Blah...
+ Brewing tea is much harder
+ than it looks...{END}
+
+Sales Department Chairman
+ Ancient dwarven ruins have been
+ discovered at a mine called Moria in
+ Alvanista territory.
+<pause>
+<Cless>
+ What do you know about the
+ dwarves?
+<pause>
+Sales Department Chairman
+ Well, not much.
+ Just that they were a
+ subterranean race that vanished
+ quite some time ago.<wait>{END}
+
+Sales Department Chairman
+ HEY! Pipe down!
+ What's the news on the
+ manufacturing situation
+ in Alvanista!?{END}
+
+Employee
+ Because of the war, Midgard needs
+ us to send them a high volume of
+ goods at a steady rate.
+<pause>
+Employee
+ So we've gotta work around the
+ clock!{END}
+
+Employee
+ What rotten luck...
+<pause>
+Employee
+ Because Midgard's pouring all their
+ resources into a war, they've
+ completely stopped exporting their
+ goods...{END}
+
+Employee
+ A guy I know was telling me about
+ some crazy awesome research
+ Midgard is doing in secrecy.
+<pause>
+Employee
+ He was being a real bastard about
+ it, too...
+<pause>
+Employee
+ He hyped it like it's gonna be some
+ huge scientific breakthrough, but
+ wouldn't tell me what it was
+ about...{END}
+
+Employee
+ Don't go thinking our work's back
+ on track just 'cause Dhaos is gone!{END}
+
+Employee
+ Midgard is going to war against
+ an army of monsters led by Dhaos.
+ It's been a living hell for us.{END}
+
+Elwyn
+ Oh hey, it's you guys...{END}
+
+Elwyn
+ Oh hey, it's you guys...
+<pause>
+Elwyn
+ Can I help you with something?
+<pause>
+<Cless>
+ Actually, we wanted to tell you that
+ Nancy followed you all the way
+ here.
+<pause>
+Elwyn
+ Huh!? She did!?
+ Seriously!?
+<pause>
+<Mint>
+ She desperately wants to meet
+ you.
+<pause>
+<Mint>
+ Please, at least go see her just this
+ once.
+<pause>
+Elwyn
+ ......
+<pause>
+Elwyn
+ All right.
+ She wins.
+<pause>
+Elwyn
+ How about...
+<pause>
+Elwyn
+ In front of the fountain
+ in the center square.
+ I'll be there shortly.
+<pause>
+<Cless>
+ Got it.
+ We'll let her know.{END}
+
+Elwyn
+ I'll be leaving in just a few.{END}
+
+Elwyn
+ As for kids, it'd be nice to have a
+ girl first...and then a boy...{END}
+
+Elwyn
+ Our wedding ceremony is about to
+ start.
+<pause>
+Elwyn
+ You'll be there, I hope?{END}
+
+Elwyn
+ We're planning to have our
+ wedding ceremony pretty shortly.
+<pause>
+Elwyn
+ But if you're going to be in
+ attendance, we'd prefer that you
+ bring all of your friends...{END}
+
+Employee
+ This is the break room.
+<pause>
+Employee
+ If you're looking for the
+ president's office, it's to
+ your immediate left from
+ outside the door.{END}
+
+Employee
+ How old is Dhaos?
+<pause>
+Employee
+ I heard he first appeared about a
+ hundred and fifty years ago...{END}
+
+Employee
+ At last, peace has returned.
+<pause>
+Employee
+ All that's left is for vice president
+ Elwyn to take on his father's role
+ as company president.{END}
+
+Employee
+ At last, peace has returned.
+<pause>
+Employee
+ Regardless, it's still pretty lonely
+ without vice president Elwyn
+ around.{END}
+
+Employee
+ Like the rest of us, the president's
+ all stressed out.
+<pause>
+Employee
+ We're unable to interact with our
+ Midgard branch because of the
+ war.<wait>{END}
+
+Employee
+ Well, now that the vice president's
+ back, we should be able to ride
+ things out.
+<pause>
+<Cless>
+ Who is vice president, if I may
+ ask?
+<pause>
+Employee
+ That'd be Elwyn.
+ He's on the lower floor with his
+ fellow businessmen right now.{END}
+
+Employee
+ Is this company going to survive
+ these hard times?{END}
+
+Female Employee
+ Oh my, guests?
+<pause>
+Female Employee
+ We have so few these days that
+ this comes as a bit of a shock.
+<pause>
+Female Employee
+ Can I get you some tea?{END}
+
+Female Employee
+ Thankfully, the war is over now.
+<pause>
+Female Employee
+ But what about Dhaos' origins?
+ Did anyone find out what they are?{END}
+
+Female Employee
+ I'm so happy that this city
+ isn't tangled up in the war.
+<pause>
+Female Employee
+ Regardless, I just HAVE to know
+ where that Dhaos guy came from.
+ You hear anything?{END}
+
+(Elwyn's Father, Doug)
+ D-do you know my son, Elwyn!?
+<pause>
+Doug
+ He's gone missing!
+<pause>
+<Klarth>
+ And whose fault is that?
+<pause>
+<Klarth>
+ You had him on a pretty short
+ leash, after all...
+<pause>
+<Klarth>
+ ...or am I mistaken?
+<pause>
+Doug
+ ......
+<pause>
+Doug
+ I don't disagree...
+<pause>
+Doug
+ But I've already had a change of
+ heart.
+<pause>
+Doug
+ If Elwyn would just come home...
+<pause>
+<color_0002>Tell Doug of Elwyn's whereabouts?<color_0000>{END}
+
+Doug
+ Well...
+<pause>
+Doug
+ If by chance you learn anything
+ about my son, would you come
+ back here to let me know?
+<pause>
+Doug
+ I'd greatly appreciate it.{END}
+
+<Cless>
+ We found him.
+ He's laying low in Alvanista.
+<pause>
+Doug
+ Is that so!?
+<pause>
+<Cless>
+ Yeah.
+ And Nancy's with him as well.<wait>{END}
+
+Doug
+ I see...
+<pause>
+Doug
+ So Elwyn and that tramp just up
+ and took off...
+<pause>
+<Cless>
+ W-wait a minute!
+<pause>
+<Cless>
+ Didn't you just say you'd had a
+ change of heart?
+<pause>
+Doug
+ ......{END}
+
+Doug
+ You all have been a big help.
+<pause>
+Doug
+ Elwyn chose his own path.
+<pause>
+Doug
+ It's no longer any of my business...{END}
+
+Doug
+ What are vagrants like you doing in
+ my office!?
+<pause>
+Doug
+ You can't just stroll around
+ like you own the place!
+ Get out!{END}
+
+Clerk
+ Welcome to Waterfront.{END}
+
+Clerk
+ Thank you for your business.{END}
+
+Citizen
+ My better half's gonna scream if I
+ don't come home with a mountain
+ of food for dinner...{END}
+
+Citizen
+ You need a permit to enter the
+ Moria Mine.
+<pause>
+Citizen
+ At least, that's what I heard the
+ last time I traveled through
+ Alvanista.
+<pause>
+Citizen
+ Okay, it's time to get started on
+ dinner...{END}
+
+Boy
+ I miss my dad.
+ I want him to come home...
+<pause>
+Boy
+ But he's a fisherman and can't be
+ here all the time...{END}
+
+Maid
+ I have to sweep and dust this place
+ day and night...
+<pause>
+<Cless>
+ Wow, how come?
+<pause>
+Maid
+ I work here as a live-in maid.
+ The pay's really good, so I don't
+ mind working so much.{END}
+
+Old Lady
+ They say that the spirits used to
+ show themselves to people...
+<pause>
+Old Lady
+ Nowadays you can't even find an
+ elf...
+<pause>
+Old Lady
+ I have a bad feeling about this...{END}
+
+Half-Elf
+ I've spent the last two hundred
+ years trying to remember this one
+ dish...
+<pause>
+<Cless>
+ Two...hundred...years!?
+<pause>
+Half-Elf
+ Oh, sorry.
+ I'm a half-elf.
+<pause>
+Half-Elf
+ Like our full-blooded brethren, we
+ can live for centuries.
+<pause>
+Half-Elf
+ Say, have I met you
+ guys somewhere before?
+ You seem familiar, somehow...{END}
+
+Half-Elf
+ This is bad...
+ I don't know what to
+ make for dinner...
+<pause>
+Half-Elf
+ And my master's waiting at the
+ house, surely furious it's not on the
+ table already...
+<pause>
+<Cless>
+ Your...master?
+<pause>
+Half-Elf
+ Yeah, she's a magic teacher.
+<pause>
+Half-Elf
+ Actually, it's a little embarrassing,
+ but she's also my elder sister.
+<pause>
+Half-Elf
+ We've lived together ever since our
+ father, a full-blooded elf, left us a
+ few years ago...
+<pause>
+Half-Elf
+ I know it sounds like he abandoned
+ us, but I think circumstances at the
+ time forced his departure.
+<pause>
+Half-Elf
+ I'm sure he still loves us.
+ He'll come back someday.{END}
+
+Half-Elf
+ Have you finished making dinner
+ yet?
+<pause>
+Half-Elf
+ Come on! I'm starving!
+ You should have just made
+ something easier!<wait>{END}
+
+Half-Elf
+ The *one and only* lady admired by
+ all in town for her bewitching
+ figure, tender personality, and
+ exceptional knowledge...
+<pause>
+Half-Elf
+ <speed_0010>...<speed_FFFF>would<speed_0010>...<speed_FFFF>be<speed_0010>...<speed_FFFF>me!<heart>
+<pause>
+Half-Elf
+ Well... Maybe they just look up to
+ me because I'm a magic teacher!
+<pause>
+<Cless>
+ ......<wait>{END}
+
+Half-Elf
+ I feel a disturbance
+ in the force...of magic.
+ I wonder why.{END}
+
+<Cless>
+ Excuse me...
+ Am I mistaken, or are you a magic
+ teacher? My pink-haired friend
+ here is a mage.
+<pause>
+Half-Elf
+ Ah, yes, a fellow half-elf.
+<pause>
+Half-Elf
+ Are you looking for spell books?
+ I have a couple for sale...
+<pause>
+Half-Elf
+ Any of these interest you?
+<color_0002><speed_0000>1. <var_BB00>
+2. <var_C600><color_0000><speed_FFFF>{END}
+
+Half-Elf
+ How does 200 gald sound?{END}
+
+<color_0002><Arche> learned <var_BB00>.<color_0000><wait>{END}
+
+Half-Elf
+ I think 1000 gald is a
+ fair price for that one.
+ Don't you?{END}
+
+<color_0002><Arche> learned <var_C600>.<color_0000><wait>{END}
+
+Half-Elf
+ Ah, too bad...{END}
+
+Half-Elf
+ Thanks.{END}
+
+Half-Elf
+ This isn't enough money, I'm afraid.{END}
+
+Half-Elf
+ It looks like you already have a
+ copy of that one.{END}
+
+Half-Elf
+ The *one and only* lady admired by
+ all in town for her bewitching
+ figure, tender personality, and
+ exceptional knowledge...
+<pause>
+Half-Elf
+ <speed_0010>...<speed_FFFF>would<speed_0010>...<speed_FFFF>be<speed_0010>...<speed_FFFF>me!<heart>
+<pause>
+Half-Elf
+ Well... Maybe they just look up to
+ me because I'm a magic teacher!
+<pause>
+<Cless>
+ ......{END}
+
+Clerk
+ Welcome to Malaga Sea.{END}
+
+Clerk
+ Thanks!{END}
+
+Mayor
+ Might you be guests of the birthday
+ party downstairs?{END}
+
+Mayor
+ I'm the mayor of Venezia.
+<pause>
+Mayor
+ This is a duty-free trade town,
+ with goods imported from across
+ the globe.
+<pause>
+Mayor
+ Anything you could possibly want,
+ you'll find it here!
+<pause>
+Mayor
+ By the way, I'm curious: Where are
+ you all from?
+<pause>
+<Cless>
+ A small village in Southern Euclid.
+<pause>
+Mayor
+ Would that happen to be Belladam?
+<pause>
+Mayor
+ If so, did you ever meet a man
+ named Lenios there?
+<pause>
+<Cless>
+ Not only did we meet him,
+ we actually stayed at his
+ house for a night.
+ He's the village chief.
+<pause>
+Mayor
+ Goodness gracious!
+<pause>
+Mayor
+ Village chief!
+<pause>
+Mayor
+ So that's what he's been up to...
+<pause>
+Mayor
+ Lenios happens to be my younger
+ twin brother, so this is pretty
+ interesting to me.
+<pause>
+Mayor
+ Hard to believe so much has
+ happened down there in the ten
+ years since I moved up here...
+<pause>
+Mayor
+ Anyway, if you bump into Lenios
+ again, would you give him my
+ regards?{END}
+
+Girl
+ Oh my, the war in Midgard is finally
+ over!
+<pause>
+Girl
+ Now everyone's calmed down and
+ the ships are sailing again!
+<pause>
+Girl
+ I should go catch one and try
+ to find that white horsey I've
+ heard so much about.
+ Ooh, I'd love to see that thing.
+<pause>
+Girl
+ They said it will only
+ meet with a pure maiden.
+ How romantic...{END}
+
+Girl
+ Boo!
+ I wanna travel overseas!
+<pause>
+Girl
+ Supposedly I can't go to Midgard
+ because they're fighting a war.
+<pause>
+Girl
+ But I can't go to Alvanista, either!
+ The captain of the ship that goes
+ there is being a little scaredy-cat!
+<pause>
+Girl
+ Arrgh! What am I gonna do!?
+ I'm so bored!{END}
+
+(They're making small talk.){END}
+
+Citizen
+ We just had a conversation about a
+ half-elf named Demeter.
+<pause>
+Citizen
+ He wielded powerful magic, but
+ was extremely kind and charitable
+ to the citizenry while studying his
+ craft here in this town.
+<pause>
+Citizen
+ A year ago, however, he suddenly
+ changed overnight!
+<pause>
+Citizen
+ Cast away his studies, abandoned
+ the town, and settled on that
+ distant western island, he did.<wait>{END}
+
+Citizen
+ Sounds like he went mad...{END}
+
+<Cless>
+ The western island?
+<pause>
+<Klarth>
+ Way out there, huh...?
+<pause>
+<Klarth>
+ Well, forget about swimming.
+<pause>
+<Klarth>
+ Let's go ask around for a ride at
+ the port, shall we?
+<pause>
+<Klarth>
+ There has to be someone there we
+ can convince by flashing a few
+ coins in their face.{END}
+
+(They're making small talk.){END}
+
+Citizen
+ We were just talking about
+ Demeter.
+<pause>
+Citizen
+ He looked like a man possessed on
+ the night he left.{END}
+
+(They're making small talk.){END}
+
+Child
+ This house is huge!{END}
+
+Lady
+ We're currently celebrating a
+ birthday party.
+<pause>
+Lady
+ Will you be joining us?{END}
+
+Child
+ We're having a birthday party...
+<pause>
+Child
+ ...for the...umm...mayor's older
+ brother's kid's friend's big sister.
+<pause>
+Child
+ ...I think my tongue's tied in a knot
+ now.{END}
+
+Big Sister
+ I'm the mayor's older brother's
+ kid's friend's big sister!{END}
+
+(They're making small talk.){END}
+
+Nancy
+ You guys...<wait>{END}
+
+<Cless>
+ Nancy!?
+<pause>
+<Cless>
+ What are you doing here?
+<pause>
+Nancy
+ I really wanted to see him in
+ person...
+<pause>
+Nancy
+ ...so I asked a traveler to escort
+ me...<wait>{END}
+
+<Mint>
+ How did things go with Elwyn?
+<pause>
+<Mint>
+ Did it work out?
+<pause>
+Nancy
+ Well...
+<pause>
+<Cless>
+ (Sounds like there's still something
+ wrong...)
+<pause>
+<Mint>
+ No? Is there anything we
+ can help you with?
+<pause>
+<Klarth>
+ Surely there's nothing more
+ important than a side trip right
+ now?
+<pause>
+<color_0002>Help her?<color_0000>{END}
+
+Nancy
+ It's just...
+<pause>
+Nancy
+ It's just, whenever I get to the
+ entrance of the building he works
+ in...
+<pause>
+Nancy
+ My legs suddenly start shaking...
+<pause>
+Nancy
+ I become such a nervous wreck
+ that I can't even turn the knob on
+ the door.
+<pause>
+<Mint>
+ Say no more.
+ Please leave it to us.
+<pause>
+<Mint>
+ We'll make you a date with Elwyn.{END}
+
+<Cless>
+ I'm really sorry, but we can't help
+ you right now.
+<pause>
+<Cless>
+ We've already got our hands full...{END}
+
+Nancy
+ Elwyn...{END}
+
+<Cless>
+ Good news, Nancy!
+ He agreed to a date with you.
+<pause>
+<Cless>
+ He said to meet him in front of the
+ fountain at the center square.
+<pause>
+Nancy
+ Th-thank you so much...
+<pause>
+Nancy
+ I really can't thank you enough...
+<pause>
+<Mint>
+ Hurry along now.
+<pause>
+<Mint>
+ You don't want to keep Elwyn
+ waiting!
+<pause>
+Nancy
+ Yes, of course.{END}
+
+Nancy
+ As his wife, I want to be Elwyn's
+ support.{END}
+
+Maid
+ Miss Chelsea was given a piano for
+ her birthday, but...
+<pause>
+Maid
+ Well, hear for yourself.{END}
+
+Maid
+ Miss Chelsea is deeply into her new
+ piano.
+<pause>
+Maid
+ She practices for hours on end.
+ She must be having a lot of fun.{END}
+
+Maid
+ I'm impressed with Miss Chelsea's
+ quick mastery of the piano.
+<pause>
+Maid
+ She's very dedicated.{END}
+
+Citizen
+ Miss Chelsea's piano recital
+ is about to begin.
+ Are you joining us?{END}
+
+Citizen
+ Wow, she's really good at that.{END}
+
+Citizen
+ I'd expect nothing less
+ from the mayor's daughter.
+ Absolutely marvelous.{END}
+
+Girl
+ Ugh...
+ My brother is totally obsessed with
+ her...{END}
+
+Employee
+ All naval traffic has completely
+ stopped.
+<pause>
+Employee
+ We've had no choice but to order
+ our goods from Euclid and Miguel.{END}
+
+Employee
+ We may be in the middle of a
+ depression, but President Stephen
+ has shown remarkable vision for
+ this company.
+<pause>
+Employee
+ Under his guidance, I'm sure we'll
+ be able to trade our way through
+ this.{END}
+
+Employee
+ You know, I heard something
+ fascinating the other day...
+<pause>
+Employee
+ According to a survey team, the
+ Moria Mine goes even deeper than
+ previously thought.{END}
+
+Stephen
+ And now I need to get ready for
+ my next business trip.{END}
+
+<Cless>
+ Huh?
+ What are you doing here, Elwyn!?
+<pause>
+???
+ Who?
+<pause>
+???
+ My name is Stephen...
+<pause>
+Stephen
+ Wait, now that I think about it...
+<pause>
+Stephen
+ I believe I had an ancestor several
+ generations back who was named
+ Elwyn.
+<pause>
+<Cless>
+ Th-that's very interesting, sir...
+ I must be leaving...{END}
+
+Accounting Department Chairman
+ We just need to hold on tight until
+ things pick up...
+<pause>
+Accounting Department Chairman
+ Our top priority is keeping the
+ company alive.{END}
+
+Property Manager
+ Are you people visitors? I'm the
+ property manager here.
+<pause>
+Property Manager
+ Since the company that occupied
+ this building went belly up, we're
+ putting it up for sale.{END}
+
+Teacher
+ I'm a teacher.{END}
+
+Child
+ So 1+2=3...{END}
+
+Child
+ Why do you flip the fraction
+ upside-down when dividing?{END}
+
+Child
+ The value of pi is 3.1415926535...
+<pause>
+Child
+ But what's the value of cake?{END}
+
+Child
+ I wish it was lunchtime already...{END}
+
+Child
+ Now we have to do math.{END}
+
+Child
+ My parents have been scaring me
+ with stories of demonic ninja.
+<pause>
+Child
+ Where do you think they come
+ from?{END}
+
+Child
+ They're making me stand here all
+ day 'cause I forgot my homework.{END}
+
+Teacher
+ This is Venezia's school.{END}
+
+Woman
+ This building used to belong to an
+ import company.
+<pause>
+Woman
+ It went bankrupt, though, and the
+ city established a school inside it.{END}
+
+Teacher
+ This is the staff room.{END}
+
+Citizen
+ I've been trying to figure out
+ where the monsters Dhaos
+ commands come from...
+<pause>
+Citizen
+ I've asked umpteen people, read
+ newspapers, visited some
+ libraries--the whole works.
+<pause>
+Citizen
+ But I always turn up nothing.
+<pause>
+Citizen
+ If we had this information, we
+ might be able to launch a surprise
+ counterattack...{END}
+
+Old Man
+ There's a snowy town called
+ Freezekiel to the east of here.
+<pause>
+Old Man
+ I've heard about a magnificent
+ church there.
+<pause>
+Old Man
+ I'd like to see it before I kick the
+ bucket.{END}
+
+Lady
+ I've heard about a continent far
+ south of Miguel where it's
+ nighttime day in, day out.
+<pause>
+Lady
+ Really?
+ How does that happen?{END}
+
+Music Teacher
+ We're currently having a music
+ lesson.<wait>{END}
+
+Teacher
+ Yes! 
+ You all did a super job!
+ Gives yourselves a pat on the back!{END}
+
+Child
+ Ay bee see dee dee eee ay
+ eeeeee...
+<pause>
+(He's practicing verbal pronunciation){END}
+
+Child
+ La la laaaaa...
+<pause>
+(She's singing energetically.)
+<pause>
+(Not too bad.){END}
+
+Child
+ <note><note>Mid-sum-mer sunnnn!
+ Riiiise uuup, ohhhh yay!<note><note>
+<pause>
+(Child Aiming to be a Lyricist)
+ Sorry, did those lyrics give you an
+ earache too?{END}
+
+Child
+ La la laaaaa...
+<pause>
+(She's singing energetically.)
+<pause>
+(A bit tone-deaf.){END}
+
+Child
+ Talking loudly is kinda
+ embarrassing...{END}
+
+Child
+ La la laaaaa...
+<pause>
+(She's singing energetically.)
+<pause>
+(Pretty good.){END}
+
+Child
+ Do re mi faaaaa...
+<pause>
+(She's singing energetically.){END}
+
+Boy
+ The teacher's daughter's gonna be
+ my bride someday.{END}
+
+Child
+ Are you in a different class,
+ mister?{END}
+
+Secretary
+ I'm a secretary for this company.
+<pause>
+<Cless>
+ (She looks just like Nancy.)
+<pause>
+Secretary
+ Is something the matter?
+<pause>
+<Cless>
+ Sorry...
+ I thought you were someone else...{END}
+
+Mayor of Venezia
+ Business in town has been falling
+ off lately...
+<pause>
+Mayor of Venezia
+ Rather distressing...{END}
+
+Woman
+ If you look at the exchange rates
+ and stock market prices, it
+ becomes clear as day that we're
+ suffering a depression.
+<pause>
+Woman
+ Dhaos is entirely to blame, too!{END}
+
+Janitor
+ I'm just the janitor...{END}
+
+Citizen
+ This poster says something
+ interesting.
+<pause>
+“In this world, there exists what is
+known as the Tria.”
+<pause>
+“It is a triad of armaments; one is a
+ring and the others are swords.”{END}
+
+Soldier
+ Hi there.
+ I'm an Alvanistan soldier,
+ born and bred in Belladam.
+<pause>
+Soldier
+ I was dispatched to this city to
+ help prevent crime.
+<pause>
+Soldier
+ Anyway, I remember there being
+ an old, ragged book at the weapon
+ shop back home.
+<pause>
+Soldier
+ I bet there's an incredible arte
+ recorded in there.{END}
+
+<var_8201>
+ Even if your opponent is a monster,
+ you must never lose your nerve in
+ battle.{END}
+
+Child
+ Mama sent me here to get
+ something.{END}
+
+Collector
+ What should I get next...{END}
+
+Collector
+ I'm hungrier than a hippo and
+ poorer than a pauper...
+<pause>
+Collector
+ You a collector?
+ Want to a trade a bit of
+ food for my (c)Green <item_3D00>?
+<pause>
+Collector
+ A melon and...uh, some
+ kelp should do it.
+ Does that sound good?{END}
+
+Collector
+ Maybe you could do something
+ about the bothersome broom on
+ my head, then...{END}
+
+Collector
+ But you don't seem to have
+ everything I want...{END}
+
+Collector
+ Sweet.
+ It's a deal.
+<pause>
+<color_0002>Acquired a (c)Green <item_3D00>.<color_0000>
+<pause>
+Collector
+ Thanks, bud.{END}
+
+(The gelatin base is simmering.){END}
+
+(Gels are being pressed.){END}
+
+(Freshly pressed gels.){END}
+
+Chef
+ Have you made Sushi yet?{END}
+
+Chef
+ I come from da World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I is gonna give dis taste to as
+ many dudes as I can!
+<pause>
+Chef
+ You wannit, brudda?{END}
+
+Chef
+ See my mad skillz!<wait>{END}
+
+<color_0002>Learned the recipe for Sushi.<color_0000>{END}
+
+Chef
+ What da heck, mon!{END}
+
+<Cless>
+ Wow, what nice armor!
+<pause>
+“Lightweight! Strong! Beautiful!
+<center>*** <item_0201> ***<endalign>
+<right>Price: 50000 gald”<endalign>
+{END}
+
+Chelsea
+ Umm, can't you see
+ that I'm PRACTICING?
+ Go bother the maid.{END}
+
+Chelsea
+ I've gotten so good, huh?
+ Pretty soon everyone's going to
+ see me as the next Sakuraba!{END}
+
+<Cless>
+ Excuse--
+<pause>
+{END}
+
+(Mayor's Daughter, Chelsea)
+ Uh, hello!?
+ Can't you see that
+ I'm practicing here!?
+<pause>
+Chelsea
+ Don't talk to me!{END}
+
+<Cless>
+ (Psst... She's got a long way to go...)
+<pause>
+{END}
+
+Chelsea
+ Grr!
+ I heard that!
+<pause>
+{END}
+
+Chelsea
+ Well then, Mr. Know-It-All, tell me
+ how to get better at it!
+<pause>
+{END}
+
+<Cless>
+ Um... I...
+<pause>
+Chelsea
+ Hmmmph!
+<pause>
+Chelsea
+ I knew it.
+ You're just a big dummy.
+<pause>
+Chelsea
+ You, lady.
+ Teach me!
+<pause>
+{END}
+
+<Mint>
+ Huh? Me?{END}
+
+<Mint>
+ ...If you insist...{END}
+
+<Mint>
+ First, start by letting your fingers
+ get a good feel for the key
+ layout...{END}
+
+<color_0002>(Chelsea got a little better at playing
+the piano.)<color_0000>{END}
+
+Chelsea
+ Hi again, Miss!
+ I didn't catch your name...
+<pause>
+<Mint>
+ Good afternoon, Chelsea.
+ I'm <Mint> Adnade.
+<pause>
+Chelsea
+ Oh! Miss Adnade!
+<pause>
+Chelsea
+ I've gotten used to all the key
+ positions!
+<pause>
+<Mint>
+ Next, you should try practicing with
+ a slightly more difficult piece of
+ music...{END}
+
+<color_0002>(Chelsea got a little better at playing
+the piano.)<color_0000>{END}
+
+<unk1>Chelsea
+ Oh! Miss Adnade!
+<pause>
+Chelsea
+ I've gotten a little better!
+<pause>
+<Mint>
+ That's wonderful!
+ Just keep at it, okay?<wait>{END}
+
+<color_0002>(Chelsea got better at playing the
+piano.)<color_0000>{END}
+
+<unk1>Chelsea
+ Oh! Miss Adnade!
+<pause>
+Chelsea
+ I've gotten even better!
+<pause>
+Chelsea
+ It's thanks to you!
+<pause>
+<Mint>
+ ...Oh my.{END}
+
+Chelsea
+ Come back and teach me more<heart>
+<pause>
+{END}
+
+<color_0002>(Chelsea got better at playing the
+piano.)<color_0000>{END}
+
+<unk1>Chelsea
+ Oh! Professor Adnade!
+<pause>
+<Mint>
+ “Professor”...?
+<pause>
+Chelsea
+ I've almost perfected this piece!
+<pause>
+<Cless>
+ Hey, I'm glad to hear it.
+<pause>
+{END}
+
+Chelsea
+ Phooooeey!
+<pause>
+{END}
+
+<Cless>
+ (Looks like she's not the forgiving
+ type...)
+<pause>
+{END}
+
+<unk1>Chelsea
+ Professor Adnade, I'll keep at it!
+<pause>
+{END}
+
+<color_0002>(Chelsea got better at playing the
+piano.)<color_0000>{END}
+
+<unk1>Chelsea
+ Professor Adnade!
+<pause>
+Chelsea
+ It's all because of you!
+<pause>
+Chelsea
+ Thank you so much.
+<pause>
+<Mint>
+ Really now...
+<pause>
+{END}
+
+<Mint>
+ I think it's because you put in so
+ much effort and kept with it.
+<pause>
+{END}
+
+<color_0002><Mint> has earned the title
+“Professor Adnade.”<wait><color_0000>{END}
+
+Chelsea
+ Umm, Professor Adnade...
+<pause>
+Chelsea
+ As a token of thanks, I want you
+ to have my favorite collectible.
+<pause>
+Chelsea
+ It's one-of-a-kind!<wait>{END}
+
+<color_0002>Acquired the <item_8E01>.{END}
+

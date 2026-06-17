@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1151">
+        <source>Hey guys, can we like, make a stop somewhere?</source>
+        <target state="translated">Hey guys, can we like, make a stop somewhere?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1152">
+        <source>What for!? We've got other things to do!</source>
+        <target state="translated">What for!? We've got other things to do!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1153">
+        <source>Yes. We must be on our way to Alvanista.</source>
+        <target state="translated">Yes. We must be on our way to Alvanista.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1154">
+        <source>I-I know! I just thought I'd mention it...</source>
+        <target state="translated">I-I know! I just thought I'd mention it...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1155">
+        <source>Good, now let's hurry to Alvanista!</source>
+        <target state="translated">Good, now let's hurry to Alvanista!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1156">
+        <source>Right. It wouldn't be
+proper to leave a king waiting.</source>
+        <target state="translated">Right. It wouldn't be
+proper to leave a king waiting.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_351">
+        <source>Maybe I should start playing the piano, too.</source>
+        <target state="translated">Maybe I should start playing the piano, too.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_352">
+        <source>You, a pianist? Thanks for the laugh.</source>
+        <target state="translated">You, a pianist? Thanks for the laugh.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_353">
+        <source>What's so funny about that, huh?</source>
+        <target state="translated">What's so funny about that, huh?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_354">
+        <source>The truth hurts, doesn't it?</source>
+        <target state="translated">The truth hurts, doesn't it?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_355">
+        <source>Well, it's not like I asked you!</source>
+        <target state="translated">Well, it's not like I asked you!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_356">
+        <source>Then don't spew such stupid crap around me.</source>
+        <target state="translated">Then don't spew such stupid crap around me.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_357">
+        <source>Maybe you should just cover
+your ears whenever you see me!</source>
+        <target state="translated">Maybe you should just cover
+your ears whenever you see me!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_358">
+        <source>Thanks for the advice. Captain Obvious.</source>
+        <target state="translated">Thanks for the advice. Captain Obvious.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="skit_359">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_360">
+        <source>Ugh...! I hate him SO MUCH!!</source>
+        <target state="translated">Ugh...! I hate him SO MUCH!!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

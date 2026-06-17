@@ -1,0 +1,1240 @@
+Dummy Item Description{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified sword.{END}
+
+An unidentified spear.{END}
+
+An unidentified axe.{END}
+
+An unidentified axe.{END}
+
+An unidentified halberd.{END}
+
+An unidentified bow.{END}
+
+An unidentified bow.{END}
+
+An unidentified bow.{END}
+
+An unidentified bow.{END}
+
+An unidentified bow.{END}
+
+An unidentified bow.{END}
+
+An unidentified bow.{END}
+
+An unidentified staff.{END}
+
+An unidentified staff.{END}
+
+An unidentified staff.{END}
+
+An unidentified grimoire.{END}
+
+An unidentified grimoire.{END}
+
+An unidentified grimoire.{END}
+
+An unidentified grimoire.{END}
+
+An unidentified grimoire.{END}
+
+An unidentified grimoire.{END}
+
+An unidentified garment.{END}
+
+An unidentified garment.{END}
+
+An unidentified suit of armor.{END}
+
+An unidentified suit of armor.{END}
+
+An unidentified suit of armor.{END}
+
+An unidentified suit of armor.{END}
+
+An unidentified helmet.{END}
+
+An unidentified helmet.{END}
+
+An unidentified helmet.{END}
+
+An unidentified hat.{END}
+
+An unidentified spear.{END}
+
+An unidentified axe.{END}
+
+An unidentified bow.{END}
+
+A jewel <Cless> received from his
+father, Miguel, as a fifteenth
+birthday gift.{END}
+
+A cute, hand-sewn plush doll.
+Ami poured her heart into making it.{END}
+
+An earring received from
+a mysterious woman.{END}
+
+A gem containing a departed soul.
+Necessary to open a special door.{END}
+
+A book received from
+Trinicus D. Morrison.{END}
+
+The battered remains
+of <Chester>'s bow.{END}
+
+A jewel obtained from the Spirit of Wind.
+Allows communication with the
+guardian spirit of Yggdrasill.{END}
+
+A key belonging to a door
+within Demeter's Mansion.{END}
+
+A letter signed by the ruling
+family of Alvanista granting
+entry into the Moria Mine.{END}
+
+The crest of Alvanista's Royal Family.
+Functions as a permit for entry into
+the Elven Settlement.{END}
+
+A letter of introduction to Edward
+composed by Lundgrom.{END}
+
+A pair of broken pact rings found in a
+treasury deep within the Moria Mine.{END}
+
+A key discovered within the
+Cave of Searing Sand.{END}
+
+A playing card picked up in Thor.
+A curious emblem is engraved
+on the rear.{END}
+
+A pale blue hand mirror whose
+purpose is not known.{END}
+
+A glittering golden key.{END}
+
+A capsule made to store grounded
+Rheairds in an extremely compact
+state for portability.{END}
+
+A document written in the Aifread
+family's secret code revealing the
+location of a beloved treasure.{END}
+
+A gift from Aifread to his wife.
+Stained and weathered, it is merely
+a shadow of its former self.{END}
+
+A key that unlocks a door
+in the Common Room.{END}
+
+A lustrous, golden piece of holy timber.
+Synthesis material for a legendary bow.{END}
+
+A rare metal famous for existing in
+a liquid state at room temperature.
+Fundamental ingredient of alchemy.{END}
+
+Incense made from high-quality,
+fragrant aloeswood.{END}
+
+A painting employing a unique
+style of caricature.{END}
+
+Crafting material.
+Ripe for the taking after
+the polyps' death.{END}
+
+A valuable stone used in
+crafting and construction.{END}
+
+Pottery with an attractive
+shape and color.
+Useful for cooking stews.{END}
+
+A cloth picture sewn with fine skill.{END}
+
+Material used in first-rate furniture.
+Radiates extravagance with
+its elegant blackness.{END}
+
+A beast's hide complete with fur.
+Prime material for garments
+and accessories.{END}
+
+A rare and exotic parasitic fungus traded
+as an ingredient for herbal medicine.{END}
+
+An elegant white ceramic teacup.
+Sold to people of high class at
+exorbitant prices.{END}
+
+A triple-stringed musical instrument.
+Considerable talent is necessary to
+perform a wide variety of tones.{END}
+
+An elephant's tusk.
+Common crafting material.{END}
+
+A vegetable with a cute shape and color.
+Gets sweeter when boiled.{END}
+
+A leafy green vegetable.
+The perfect companion to corned beef.{END}
+
+By salad of salads, it's truly
+the Head of Salad!{END}
+
+A white East Asian radish called daikon.
+This variety resembles a giant carrot
+and is the most common in Japan.{END}
+
+A cylindrical vegetable that turns
+yellow and tastes bitter when ripe.
+Best eaten while still green.{END}
+
+A starchy, tuberous vegetable.
+Boil 'em; mash 'em; stick 'em in a stew.{END}
+
+A savory red vegetable used
+as the base of many sauces.{END}
+
+A bulb vegetable famous for releasing
+an eye irritant when sliced, which
+makes even the manliest men cry.{END}
+
+The world's number one fruit.
+Fresh, sweet, crisp, and juicy!{END}
+
+An extremely acidic, sour citrus fruit
+used mainly in cooking and baking.
+Fun to make batteries out of.{END}
+
+A perfect match with milk and cream.
+Prime ingredient of the best shortcake!{END}
+
+A fruit with a white, tender flesh
+wrapped in a yellow peel.
+Monkeys go bananas for 'em.{END}
+
+A sweet tropical fruit.
+Known to incite bitter feuds when
+uttered in the same sentence as pizza.{END}
+
+A large, succulent spherical fruit that's
+especially refreshing during summertime.{END}
+
+A sweet and tasty fruit grown on a vine.
+Keep the juices away from your clothes!{END}
+
+A delicious fruit from a tropical
+evergreen tree with a citrusy
+and peachy flavor.{END}
+
+A dried plum used in cooking both
+sweet and savory dishes.{END}
+
+A very large fish. One of few whose
+raw flesh is colored red.{END}
+
+A very tasty fish with a very,
+very short shelf life.{END}
+
+A small, oily fish commonly
+packed and sold in tin cans.{END}
+
+A cephalopod with eight arms and
+two tentacles often eaten fried.
+Culinarily referred to as calamari.{END}
+
+A highly intelligent cephalopod with eight
+arms consumed in many cultures.{END}
+
+A sea creature with a hard
+shell and a tender body.
+Did you know it even has claws?{END}
+
+All-natural meat from healthy chickens.
+No additives or preservatives.{END}
+
+Meat this tasty only comes from cows
+raised on wide, green pastures!{END}
+
+The secret to good pork is to have just
+the right balance of fat and meat.
+Not kosher, but delicious.{END}
+
+Squeezed from a cow's udder.
+A good source of calcium for
+strong and healthy bones!{END}
+
+An aged dairy product with
+hundreds of varieties.
+Add a slice to a sandwich.{END}
+
+Japanese konnyaku.
+Konjac flour mixed with
+water and limewater.{END}
+
+Common ingredient in eastern stews.
+Rich in minerals for healthy hair.{END}
+
+Can be prepared in a variety of ways
+for a wholesome breakfast or be used
+as an ingredient in countless dishes.{END}
+
+Fermented soybean paste produced
+by a master chef who employed
+great diligence.{END}
+
+Baked to perfection with
+a pleasing aroma.{END}
+
+A basic staple that's easy to prepare
+but difficult to master.{END}
+
+Dried seaweed that's been
+cut into rectangles.{END}
+
+Seasonings used to enhance the flavor of
+dishes. Some are used in herbal medicine.{END}
+
+Spaghetti, macaroni...you name it.
+It's all the same. The shape you
+use depends on the dish.{END}
+
+A bite-sized gummi medicine
+with a sweet apple flavor.
+Restores 30% of Max HP.{END}
+
+A bite-sized gummi medicine
+with a tangy orange flavor.
+Restores 30% of Max TP.{END}
+
+A bite-sized gummi medicine with a
+sweet and tangy apple-orange flavor.
+Restores 30% of Max HP and TP.{END}
+
+A bite-sized gummi medicine
+with a sour lemon flavor.
+Restores 60% of Max HP.{END}
+
+A bite-sized gummi medicine
+with a tropical pineapple flavor.
+Restores 60% of Max TP.{END}
+
+A bite-sized gummi medicine with a
+flavor so good it creates miracles.
+Restores 60% of Max HP and TP.{END}
+
+A wonderful medicine that
+completely restores HP and TP.{END}
+
+A scale from a desert creature.
+Cures paralysis, revives, and also
+fully restores HP.{END}
+
+A medicinal herb.
+Increases Max HP by 5%.{END}
+
+A medicinal herb.
+Increases Max TP by 5%.{END}
+
+A medicinal herb.
+Increases Agility by 1.{END}
+
+A medicinal herb.
+Increases Strength by 1.{END}
+
+A medicinal herb.
+Increases Max HP by 10%.{END}
+
+A medicinal herb.
+Increases Max TP by 10%.{END}
+
+A medicinal herb.
+Increases Agility by 2.{END}
+
+A medicinal herb.
+Increases Strength by 2.{END}
+
+A panacea.
+Cures all status ailments except KO.{END}
+
+The water of life.
+Revives a fallen ally.{END}
+
+Take a sip in battle to temporarily
+increase Attack by 30%.{END}
+
+Temporarily offers immunity to status
+ailments with a side effect of
+decreasing Attack by 20%.{END}
+
+A bottle sealing a holy essence.
+Temporarily reduces encounter rate.{END}
+
+A bottle sealing an evil essence.
+Temporarily increases encounter rate.{END}
+
+A flask filled with a magical liquid.
+Pour the contents over other
+items and see what happens!{END}
+
+A magic bottle that brings
+out your inner charm.
+Use in shops for a 30% discount.{END}
+
+A magic bottle that makes you
+look even more attractive.
+Use in shops for a 50% discount.{END}
+
+A map of the world.
+Shows your current position and
+information on various locations.{END}
+
+A magic jewel that allows you
+to alter the enemy encounter rate.{END}
+
+Stops enemy movements for a short
+period of time during battle.{END}
+
+The God of Time's hourglass.
+Stops enemy movement for
+a long period of time.{END}
+
+A tool that displays the number of hits
+you've landed in a combo during battle.
+Turn it on or off in the Customize menu.{END}
+
+A mysterious lens.
+Allows you to see an enemy's
+HP, TP, and weaknesses.{END}
+
+A tool with a spiked head
+used to break up rocks.{END}
+
+Magical lipstick that never runs out!
+Use it for a random discount at shops.{END}
+
+A lantern that burns with a red flame.
+Illuminates the darkness
+with a ruby light.{END}
+
+A torch that burns with a green flame.
+Illuminates the darkness
+with an emerald light.{END}
+
+A candle that burns with a blue flame.
+Illuminates the darkness
+with a sapphire light.{END}
+
+Used to descend from a high place
+or ascend from a low place.{END}
+
+A full-featured drum kit.
+Now, you too can be a drummer!{END}
+
+A magical piece produced from magical
+ivory by a magical craftsman.
+Truly magical...or just tragical?{END}
+
+A collection of information about
+enemies. Know thy enemy!{END}
+
+A must-have for item collectors.
+Have you recorded everything?{END}
+
+A ticket granting admission
+to the “Yomi” concert.{END}
+
+A basic sword forged from
+three feet of iron.{END}
+
+A straight-bladed sword designed
+specifically for slash attacks.{END}
+
+A slender sword designed specifically
+for thrust attacks.{END}
+
+The official blade of Euclid's Knights.
+Considerably sharper than the swords
+available to the general public.{END}
+
+A type of rapier refined
+with a sharper point.{END}
+
+A type of rapier with a refined
+design making it both stronger
+and easier to wield.{END}
+
+A high-class sword with
+a slightly curved blade.{END}
+
+A sword one step up from
+a long sword in length.{END}
+
+A slender, curved, and keen-edged sword.
+The blade is decorated with a navy blue
+color and a long, shimmering green crest.{END}
+
+A sword cursed with extreme hatred.
+It exists solely for the annihilation of
+all living things in this world.{END}
+
+A sword of light mimicking the pale
+and desolate glow of moonlight.{END}
+
+A long sword employing flexible,
+resilient Damascus steel.{END}
+
+A type of saber with
+refined functionality.{END}
+
+A sword enhanced by magitechnology.
+Increases the odds of landing critical hits.{END}
+
+A sacred sword blessed
+by the Supreme God.{END}
+
+A long sword forged
+from a dragon's fang.{END}
+
+A slender blade enchanted with the hellish
+power of the flame demon, Flamberg.{END}
+
+A sword named for imprisoning foes in
+ice. Used as the trump card against a
+ferocious red dragon long ago.{END}
+
+Advanced arms developed during the Age
+of Antiquity employing the superior
+technology of Thor, the sunken city.{END}
+
+A sword bestowed upon a renowned
+hero of an ancient kingdom.{END}
+
+A holy sword blessed by
+the goddess of fortuity.
+Increases Luck.{END}
+
+The famous katana, forged by unrevealed
+techniques. Delivers a painless death to
+victims with its unrivaled sharpness.{END}
+
+A slender sword once owned
+by a famous noble.{END}
+
+A sacred slender sword blessed
+by the Supreme God.{END}
+
+An evil, calamitous sword with a blade
+that runs dark with the flames of doom.{END}
+
+Proof of kingship.
+Possession of renowned hero Gilgamesh
+in the Legend of Ishtar.{END}
+
+A magic sword with a blade of frost.
+A component of the Tria.{END}
+
+A magic sword with a blade of flame.
+A component of the Tria.{END}
+
+A mysterious sword.
+Its name is sometimes abbreviated S.D.,
+so don't confuse it with Super Deformed.{END}
+
+At first glance, just a pair of
+strange looking swords.{END}
+
+These blades, cold to the touch,
+glitter with an ominous blue glow.{END}
+
+A pair of swords that gifted death
+to ninety-nine people. An image is engraved
+in red upon the blades.{END}
+
+A pair of black swords, capable of
+overwhelming darkness even as they yet rot
+in their wielder's grip.{END}
+
+A type of three-pronged polearm.
+Also known as the Winged Spear.{END}
+
+The legendary spear forged for
+the final battle of the gods.{END}
+
+A spear with a saber-like blade attached.{END}
+
+A long spear named for and favored by
+heroes at the vanguard of many battles.{END}
+
+A spear named after the Great Wind.
+A squall arises from a single swing.{END}
+
+The true form of the legendary spear
+forged for the final battle of the gods.{END}
+
+The legendary spear forged for
+the final battle of the gods.
+Proof of mastery of the Divine Horse.{END}
+
+An axe created for combat.{END}
+
+An axe with a crescent-shaped
+blade attached.{END}
+
+A type of crescent axe with
+refined functionality.{END}
+
+An axe blessed by a lightning beast.
+Its blade gleams dimly
+with electrical energy.{END}
+
+A double bit axe forged from Damascus
+steel to bolster flexibility and resilience.
+Its light weight allows for swift striking.{END}
+
+A ferocious battle axe so powerful it
+can tear apart legendary dragons.{END}
+
+A hybrid weapon combining
+an axe and a spear.{END}
+
+An axe resembling a halberd.{END}
+
+A type of halberd with a head
+forged from special metals.{END}
+
+A sacred halberd blessed
+by the Supreme God.{END}
+
+A shortbow constructed from
+a single piece of wood.{END}
+
+A longbow constructed from
+a single piece of wood.{END}
+
+A bow made from several disparate
+materials laminated together.{END}
+
+A very powerful, but heavy crossbow
+boasting a great deal of accuracy.{END}
+
+A bow enchanted with water.
+Effective against fire-elemental foes.{END}
+
+A bow enchanted with fire.
+Effective against water-elemental foes.{END}
+
+A bow enchanted with earth.
+Effective against wind-elemental foes.{END}
+
+A bow enchanted with wind.
+Effective against earth-elemental foes.{END}
+
+Also known as the Bow of Radiance.
+Arrows fired from this weapon whisk
+through the air as streaks of light.{END}
+
+A sacred bow crafted by the elves.
+Said to never miss its target.{END}
+
+A legendary bow said to chink the
+stoutest armor with its pitiless might.{END}
+
+A mighty bow used long ago to slay
+a berserker despoiling the land.{END}
+
+The elves' sacred bow refined
+to legendary strength.
+Will never miss its target.{END}
+
+A simple rod made of oak.{END}
+
+A staff adorned with
+an inexpensive jewel
+at the cusp.{END}
+
+A staff adorned at
+the tip with a ruby.{END}
+
+A fancy staff with runic symbols
+embodying magic power carved
+into its surface.{END}
+
+The horn of the sacred beast.
+A powerful catalyst for clerical artes.{END}
+
+A sacred rod blessed
+by the Supreme God.{END}
+
+A magical wand that leaves beautiful
+trails of star-like glitter when swung.{END}
+
+A treasure that appears
+in the Legend of Ishtar.{END}
+
+A publication intended for adult men.
+Flimsy and unsuitable for battle.{END}
+
+A magazine with a round, yellow character printed on the cover. The abbreviated
+title does NOT stand for “No Good”!{END}
+
+A grimoire known as
+“The Forbidden Book” and
+“Book of the Laws of the Dead.”{END}
+
+A grimoire with rich crimson binding
+and decorated with golden dye.{END}
+
+A forbidden grimoire that was once
+sealed away in an underground library.{END}
+
+A grimoire partially inked in blood.{END}
+
+A grimoire bound with the hide
+of a mysterious animal.{END}
+
+This grimoire is a translation of
+a metal slab discovered at ruins
+on the northern continent.{END}
+
+(Seven Cryptical Books of Hsan)
+A grimoire said to be lost according to
+rumors from the eastern continent.{END}
+
+(Massa di Requiem per Shuggay)
+A grimoire encoding its spells in
+the form of theatrical plays.{END}
+
+The ultimate grimoire.
+Is magic real or just a trick?
+Find the truth!{END}
+
+A flying broom with a saddle attached
+for comfort while riding.{END}
+
+A pretty, silver-plated broom.{END}
+
+The broom of a witch who
+came from another world.{END}
+
+A broom enchanted by the Spirit of Wind.{END}
+
+A mysterious broom that makes sounds
+like a musical instrument as it flies.{END}
+
+A magical broom that leaves a
+trail of shooting stars behind it.{END}
+
+A broom used for cleaning.
+It can fly if you just BELIEVE!!{END}
+
+A kunoichi's short sword.
+Female shinobi possess
+these from childhood.{END}
+
+A kunoichi's short sword.
+Effective against fire-elemental foes.{END}
+
+A kunoichi's short sword with
+a violet-colored blade.{END}
+
+A kunoichi's short sword
+few are able to master.{END}
+
+A kunoichi's sword whose slice spouts a
+blood fountain resembling the blooming
+of cherry blossoms from its victims.{END}
+
+A magic sword so named after
+its power to manipulate time.{END}
+
+A coat of armor made from leather.{END}
+
+A coat of armor made from metal
+rings between 0.4 and 0.8 inches in
+width chained together.{END}
+
+A coat of armor made from metal
+rings of about 1.5 inches in width
+chained together.{END}
+
+A reinforced chain mail with rectangular
+metal plates over the breast area.{END}
+
+A metal plate that covers
+the front of the torso.{END}
+
+A metal suit of armor that
+covers the entire body.{END}
+
+Plate armor made with magically-empowered mythril silver.{END}
+
+Magical armor named after
+its reflective capabilities.{END}
+
+A full plate made from silver.{END}
+
+Blacksmith Aegis' peerless labor of love.{END}
+
+Armor granting the protection
+of the Spirit of Gaea herself.{END}
+
+Hefty, shiny armor of pure gold.
+Possession of renowned hero Gilgamesh
+in the Legend of Ishtar.{END}
+
+A garment woven from sturdy cloth.{END}
+
+A cloth garment with an amber-colored decoration.{END}
+
+A garment woven from silver threads.{END}
+
+A sacred garment blessed
+by the Supreme God.{END}
+
+An enchanted garment that sometimes
+emits a star-like glitter.{END}
+
+A garment woven with magically-empowered mythril silver.{END}
+
+A plain witch's dress that
+glows with a magical aura.{END}
+
+A kunoichi's kimono.
+Lightweight and very easy to move in.{END}
+
+A kunoichi's kimono augmented
+by special weaving techniques.{END}
+
+A kunoichi's kimono with protective
+symbols woven into the lining.{END}
+
+A kunoichi's kimono.
+Absorbs wind-elemental attacks.{END}
+
+A shield made of wood.
+Don't bring it to a firefight!{END}
+
+A round shield made of metal.{END}
+
+A tall shield that's easier to
+handle than a round shield.{END}
+
+A large metal shield used in fencing.{END}
+
+A type of kite shield that's been
+functionally refined for ease of use.{END}
+
+A shield bearing a holy ankh
+symbol on its center.{END}
+
+Blacksmith Aegis' peerless labor of love.
+Reduces water-elemental damage.{END}
+
+A heater shield sporting a red chevron.
+Boosts one's will to fight when wielded.{END}
+
+A lightweight shield made from
+a very strong, unknown metal.{END}
+
+A heater shield sporting a blue chevron.
+Draws out one's courage when wielded.{END}
+
+A mysterious ring that produces a
+translucent, magical shield when worn.{END}
+
+A basic helmet made of leather.{END}
+
+A short helmet made of iron that leaves
+the lower half of the face exposed.{END}
+
+An iron helmet that fits the entire head.{END}
+
+A type of Armet with a refined design.{END}
+
+A helmet bestowed upon a renowned
+hero of an ancient kingdom.{END}
+
+Blacksmith Aegis' peerless labor of love.
+Reduces lightning-elemental damage.{END}
+
+A glittering golden helm.
+Possession of renowned hero Gilgamesh
+in the Legend of Ishtar.{END}
+
+A lightweight helmet made from
+a very strong, unknown metal.{END}
+
+A fashionable hat that doubles as
+protection from the elements.{END}
+
+Headdress favored by the clergy.{END}
+
+A wide hat with a rounded top.
+Beware of wind gusts or it may get
+blown off and carried into a valley!{END}
+
+A well-made hat that gets approval
+even from world-class hatmakers.{END}
+
+An enchanted hat that sometimes
+emits a star-like glitter.{END}
+
+A head-concealing cloth designed
+for agility rather than protection.{END}
+
+A head-concealing cloth designed
+for agility rather than protection.{END}
+
+A blue ribbon that belonged to
+<Arche>'s best friend, Rhea.{END}
+
+A long blue ribbon that flutters
+beautifully in the wind.{END}
+
+A ribbon with a striped pattern.{END}
+
+A very cute ribbon.{END}
+
+A ribbon with a powerful enchantment.{END}
+
+A pair of gloves made of leather.{END}
+
+A pair of gloves made of iron.{END}
+
+A pair of gauntlets made of iron.{END}
+
+A pair of gauntlets made of magically-empowered mythril silver.{END}
+
+Blacksmith Aegis' peerless labor of love.
+Reduces earth-elemental damage.{END}
+
+A pair of lightweight gloves made from
+a very strong, unknown metal.{END}
+
+A pair of gauntlets from an evil knight
+appearing in the Legend of Ishtar.
+Increases attack speed and accuracy.{END}
+
+A gauntlet with hooked iron claws.
+Increases Attack and Defense.{END}
+
+Mitts with a design that partitions the
+thumb away from the other fingers.{END}
+
+A really cute pair of mittens.{END}
+
+A pair of mittens tailored by <Arche>'s
+mother, Luche. Reduces five types of
+elemental damage by 10%.{END}
+
+A pair of pure white gloves for a bride.
+Increases Luck.{END}
+
+A charm that prevents Petrify.{END}
+
+A charm that increases Defense by 5%.{END}
+
+A charm that increases Defense by 10%.{END}
+
+A charm that prevents Paralyze.{END}
+
+A bracelet that reduces Stun time by 50%.{END}
+
+A charm that prevents Poison.{END}
+
+A famous lucky charm.
+Increases Luck by 10%.{END}
+
+A ring with a fire-red gem.
+Reduces water-elemental damage by 1/3.{END}
+
+A ring with an ice-blue gem.
+Reduces fire-elemental damage by 1/3.{END}
+
+A charm from the Ninja Village.
+Increases Accuracy.{END}
+
+A ladies' cape woven with silver threads.
+Invalidates fire-elemental
+damage 30% of the time.{END}
+
+A luxurious, translucent ladies' cape.
+Invalidates fire-elemental
+damage 50% of the time.{END}
+
+A pair of iron boots which slows battle
+movement, but makes it more difficult
+to be knocked over by heavy blows.{END}
+
+A pair of boots from the elves.
+Speeds up battle movement by 20%.{END}
+
+A pair of men's boots
+enchanted for speed.
+Speeds up battle movement by 50%.{END}
+
+A pair of boots shaped
+like cute kitty paws.
+Reduces ALL damage by 30%.{END}
+
+A pair of boots worn by a female demon
+that appears in men's nightmares.
+Speeds up battle movement by 50%.{END}
+
+A pair of boots said to allow one to
+walk atop water. Invalidates water-elemental damage 50% of the time.{END}
+
+A linen cape for the aspiring adventurer.{END}
+
+A cape made of animal hides.
+Helps keep travelers dry in the rain.{END}
+
+A black cape favored by stealthy thieves.
+Increases Evasion.{END}
+
+A chartreuse cape from the elves.
+Increases Evasion.{END}
+
+A red cape with a fire crest.
+Invalidates fire and earth-elemental
+damage 30% of the time.{END}
+
+A blue cape with a water crest.
+Invalidates water and wind-elemental
+damage 30% of the time.{END}
+
+A pact ring.
+Reduces water-elemental
+damage by 50%.{END}
+
+A pact ring.
+Reduces dark-elemental
+damage by 50%.{END}
+
+A pact ring.
+Reduces all elemental damage but light.
+Reduces dark-elemental damage greatly.{END}
+
+A pact ring.
+Reduces wind-elemental
+damage by 50%.{END}
+
+A pact ring.
+Reduces fire-elemental
+damage by 50%.{END}
+
+A pact ring.
+Reduces lightning-elemental
+damage by 50%.{END}
+
+A pact ring.
+Increases Defense.{END}
+
+A pact ring.
+Increases Max TP.{END}
+
+A pact ring.
+Increases many stats.{END}
+
+A pact ring.
+Reduces light-elemental
+damage by 50%.{END}
+
+A pact ring.
+Increases Max HP.{END}
+
+A pact ring.
+Reduces earth-elemental
+damage by 50%.{END}
+
+A ring empowered by the Spirit of Fire.
+Shoot sparks with <var_0302>.{END}
+
+A ring engraved with a faerie's image.
+Reduces TP consumption by a third.{END}
+
+A ring engraved with a faerie's image.
+Reduces TP consumption by half.{END}
+
+A mysterious ring.
+Regenerates 1 point of TP at
+fixed intervals during battle.{END}
+
+A ring engraved with a war god's image.
+Invalidates physical damage 10%
+of the time.{END}
+
+A ring engraved with a war god's image.
+Invalidates physical damage 20%
+of the time.{END}
+
+A ring engraved with a goddess' image.
+Invalidates all elemental damage 10%
+of the time.{END}
+
+A ring engraved with a goddess' image.
+Invalidates all elemental damage 20%
+of the time.{END}
+
+None{END}
+
+A ring that enables its user to immediately
+follow up attacks with a forward or back step.{END}
+
+A sacrificial figure.
+Will protect its user from KO.{END}
+
+A sculpture of a nameless goddess.
+Increases gald earned by 50%.{END}
+
+A sculpture of a storied goddess.
+Doubles gald earned.{END}
+
+A heavy rock that foils
+Tractor Beam attacks.{END}
+
+A type of gemstone.
+Increases Max HP by 30%.{END}
+
+A crystal ball filled with a white mist.
+Increases escape speed by 30%.{END}
+
+A crystal ball filled with a magical mist.
+Increases escape speed by 50%.{END}
+
+A type of gemstone.
+Increases Max TP by 30%.{END}
+
+A crest with complex gold embroidery.
+Its purpose is unknown. {END}
+
+A warrior's crest.
+Increases Attack by 10%.{END}
+
+An adept warrior's crest.
+Increases the odds of landing critical hits.{END}
+
+A sacred mark.
+Regenerates 5% of Max HP at
+fixed intervals during battle.{END}
+
+A mage's crest.
+Reduces casting time by 50%.{END}
+
+An evil seal. The wearer earns 50%
+more EXP, but has their artes sealed
+and Defense reduced by half.{END}
+
+A demonic seal. The wearer earns double
+EXP, but has their artes sealed and is
+rendered completely defenseless.{END}
+
+A mother's memento and mark of clerics.
+Invalidates non-elemental damage.{END}
+
+An accessory that consumes 5 TP to grant
+invincibility during a forward or back step.{END}
+
+A mysterious device.
+Invalidates earth-elemental
+damage 50% of the time.{END}
+
+An enchanted bag.
+Items will occasionally pop out
+of it while exploring dungeons.{END}
+
+An enchanted bag.
+More desirable items will occasionally
+pop out of it while exploring dungeons.{END}
+
+A reflective compress of replication.
+Wearing this makes you feel stronger!?{END}
+
+Artist Curio's peerless labor of love.
+Adds something to the Customize menu.{END}
+
+A Tales of Phantasia Collectible Card.
+Card series 1, #1 of 4: “Flower.”
+Gotta collect 'em all!{END}
+
+A Tales of Phantasia Collectible Card.
+Card series 1, #2 of 4: “Bird.”
+Gotta collect 'em all!{END}
+
+A Tales of Phantasia Collectible Card.
+Card series 1, #3 of 4: “Wind.”
+Gotta collect 'em all!{END}
+
+A Tales of Phantasia Collectible Card.
+Card series 1, #4 of 4: “Moon.”
+Gotta collect 'em all!{END}
+
+A Tales of Phantasia Collectible Card.
+Card series 2, #1 of 3: “Heaven.”
+Gotta collect 'em all!{END}
+
+A Tales of Phantasia Collectible Card.
+Card series 2, #2 of 3: “Earth.”
+Gotta collect 'em all!{END}
+
+A Tales of Phantasia Collectible Card.
+Card series 2, #3 of 3: “Life.”
+Gotta collect 'em all!{END}
+
+A member of the Principled
+Pentagon of Providence.{END}
+
+A member of the Principled
+Pentagon of Providence.{END}
+
+A member of the Principled
+Pentagon of Providence.{END}
+
+A member of the Principled
+Pentagon of Providence.{END}
+
+A member of the Principled
+Pentagon of Providence.{END}
+
+The crimson S is really stylish!{END}
+
+{END}
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_361">
+        <source>So, what're you gonna do
+when you go back home?</source>
+        <target state="translated">So, what're you gonna do
+when you go back home?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_362">
+        <source>Feel relieved.</source>
+        <target state="translated">Feel relieved.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_363">
+        <source>Huh?</source>
+        <target state="translated">Huh?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_364">
+        <source>It's easy: I'll feel relieved that I'll
+never have to see your face again!</source>
+        <target state="translated">It's easy: I'll feel relieved that I'll
+never have to see your face again!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_365">
+        <source>&lt;wait_C0&gt;...Ah, I see...</source>
+        <target state="translated">&lt;wait_C0&gt;...Ah, I see...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_366">
+        <source>Um...uh... Did I go too far...?</source>
+        <target state="translated">Um...uh... Did I go too far...?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_367">
+        <source>&lt;wait_A0&gt;DUMBASS! I'll be the one
+relieved to get away from YOU!</source>
+        <target state="translated">&lt;wait_A0&gt;DUMBASS! I'll be the one
+relieved to get away from YOU!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_368">
+        <source>Wha... You JERK! Fine, I get it! I'll just beat
+Dhaos real quick, and go right back home!</source>
+        <target state="translated">Wha... You JERK! Fine, I get it! I'll just beat
+Dhaos real quick, and go right back home!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

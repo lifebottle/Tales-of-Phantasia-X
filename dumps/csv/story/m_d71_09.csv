@@ -1,0 +1,729 @@
+精霊の洞窟{END},Cave of Spirits{END}
+"<color_0002>スイッチがあります。
+<pause>
+押しますか？<color_0000>{END}",<color_0002>Turn the dial?<color_0000>{END}
+"『封印を解かんと欲するならば、
+　キーワードとなる言葉を』
+<pause>
+<speed_0000>１。オ　２。キ　３。ス　４。ヨ{END}","“If thou dost desire to repeal the
+seal, speaketh the keyword.”
+<pause>
+<speed_0000>1. G<nl>
+2. D<nl>
+3. B<nl>
+4. Y{END}"
+<speed_0000>１。ア　２。ク　３。タ　４。チ{END},"<speed_0000>1. A<nl>
+2. E<nl>
+3. I<nl>
+4. O{END}"
+<speed_0000>１。イ　２。カ　３。リ　４。ル{END},"<speed_0000>1. M<nl>
+2. F<nl>
+3. E<nl>
+4. L{END}"
+<speed_0000>１。ダ　２。ド　３。ラ　４。ン{END},"<speed_0000>1. I<nl>
+2. L<nl>
+3. T<nl>
+4. N{END}"
+『扉は開かれん・・・』{END},“The door is open...”{END}
+『違う！』{END},“Incorrect!”{END}
+『意味はあるが、違う！』{END},"“Thou hast provided some meaning,
+but are still incorrect!”{END}"
+"クレイアイドル
+「あ〜、いた〜」{END}","Gnomelette:<nl>
+ Ohhh...<nl>
+ There you are...{END}"
+"<audio_1840><Mint>
+「あのぉ・・・」{END}","<audio_1840><Mint>:<nl>
+ Excuse us...{END}"
+"<audio_1841>？？？
+「よっ！また会ったね」
+<pause>
+<audio_1842><Cless>
+「えっと・・・ロンドリーネ、
+　だっけ」
+<pause>
+<audio_1843>ロンドリーネ
+「ちゃーんと名前覚えてくれて
+　たんだ。もっと気軽に
+　ロディって呼んでよ♪」
+<pause>
+<audio_1844>ロンドリーネ
+「君たち、どうしたの、
+　こんなところで」
+<pause>
+<audio_1845><Cless>
+「僕らは精霊に会う旅をしてる
+　この洞窟にその精霊が
+　いるんだ」
+<pause>
+<audio_1846>ロンドリーネ
+「へぇ、精霊さん」
+<pause>
+<audio_1847><Cless>
+「ロディこそ、何をしてるの」
+<pause>
+<audio_1848>ロンドリーネ
+「私のほしがってる情報を
+　持ってる人が
+　見つかったんだけど・・・」{END}","<audio_1841>???:<nl>
+ Yo! Nice to see you again!
+<pause>
+<audio_1842><Cless>:<nl>
+ Uh... You're Rondoline, right?
+<pause>
+<audio_1843>Rondoline:<nl>
+ You remembered! No need to be so stiff, call me Rody <note>
+<pause>
+<audio_1844>Rondoline:<nl>
+ So, what brings you guys to a place like this?
+<pause>
+<audio_1845><Cless>:<nl>
+ We're on a journey to meet the spirits. One of them resides in this cave.
+<pause>
+<audio_1846>Rondoline:<nl>
+ Wow, a spirit, huh.
+<pause>
+<audio_1847><Cless>:<nl>
+ What about you, Rody?
+<pause>
+<audio_1848>Rondoline:<nl>
+ Well, I found the person with the information I wanted, but...{END}"
+"<audio_1849><Mint>
+「本当ですか？
+　よかったですね」{END}","<audio_1849><Mint>:<nl>
+ Is that so? Good for you.{END}"
+"<audio_184A>ロンドリーネ
+「それがね、情報提供は
+　薬草と交換だって言うんだ」
+<pause>
+<audio_184B>ロンドリーネ
+「だから、この洞窟に
+　その万能薬の材料っていうのを
+　探しに来たってわけ」{END}","<audio_184A>Rondoline:<nl>
+ Well, he said he wanted some medicinal herbs in exchange for it.
+<pause>
+<audio_184B>Rondoline:<nl>
+ So I came to this cave in search of the ingredients to make a panacea.{END}"
+"<audio_184C><Klarth>
+「万能薬の材料？
+　ノームのいるこの洞窟にか？」{END}","<audio_184C><Klarth>:<nl>
+ The ingredients for a panacea? In Gnome's cave?{END}"
+"<audio_184D>ロンドリーネ
+「ノーム？それがさっき
+　言ってた精霊さん？」
+<pause>
+<audio_184E><Klarth>
+「ああ、そうだ」
+<pause>
+<audio_184F>ロンドリーネ
+「ここって精霊さんが
+　棲みついてるんだ」
+<pause>
+<audio_1850>ロンドリーネ
+「ま、それはともかく、ここ、
+　どこかから奥に行けるはず
+　なんだけど、道がなくてさ」{END}","<audio_184D>Rondoline:<nl>
+ Gnome? Is that the spirit you were talking about?
+<pause>
+<audio_184E><Klarth>:<nl>
+ Yep, that's the one.
+<pause>
+<audio_184F>Rondoline:<nl>
+ To think that there's a spirit living here...
+<pause>
+<audio_1850>Rondoline:<nl>
+ Well, moving on! There should be a way further in, but it seems I've reached a dead end.{END}"
+"<audio_1851>ロンドリーネ
+「あそこの扉は開かないし」{END}","<audio_1851>Rondoline:<nl>
+ Because this door here won't open.{END}"
+"<audio_1852><Cless>
+「あそこを開くには暗号が必要な
+　んだ」{END}","<audio_1852><Cless>:<nl>
+ You need a password to open that door.{END}"
+"<audio_1853>ロンドリーネ
+「そうなの？
+　そっかぁ・・・」{END}","<audio_1853>Rondoline:<nl>
+ Is that so? I see...{END}"
+"<audio_1854>ロンドリーネ
+「あっ、もしかして、
+　その暗号わかっちゃったり
+　・・・する？」{END}","<audio_1854>Rondoline:<nl>
+ Oh, don't tell me... You guys must know what the password is... right?{END}"
+"<audio_1855><Arche>
+「そうだなぁ・・・教えて
+　あげちゃってもいいけど、
+　どうしようかな〜」{END}","<audio_1855><Arche>:<nl>
+ That's right! We could tell you, but... Hm, I don't know~{END}"
+"<audio_1856>ロンドリーネ
+「教えて、ね、お願い」{END}","<audio_1856>Rondoline:<nl>
+ Please, tell me!{END}"
+"<audio_1857><Klarth>
+「何やってるんだ、
+　教えてやればいいだろう？」{END}","<audio_1857><Klarth>:<nl>
+ What are you doing? Can't you just tell her?{END}"
+"<audio_1858><Arche>
+「だって、ロディが
+　あんまりにも一生懸命で
+　かわいかったんだもん」{END}","<audio_1858><Arche>:<nl>
+ But Rody is so cute when she's desperate.{END}"
+"<audio_1859>ロンドリーネ
+「教えてくれるの！？」{END}","<audio_1859>Rondoline:<nl>
+ You'll really tell me!?{END}"
+"<audio_185A>ロンドリーネ
+「・・・あ、じゃあさ！
+　私も君たちと一緒に行って
+　いいかな？」{END}","<audio_185A>Rondoline:<nl>
+ Hey, you know what? How about I tag along with you guys?{END}"
+"<audio_185B><Cless>
+「もちろんだよ」{END}","<audio_185B><Cless>:<nl>
+ Sounds like a plan.{END}"
+"<audio_185C><Mint>
+「ロディさんと一緒なら、
+　旅が楽しくなりそうですね」{END}","<audio_185C><Mint>:<nl>
+ I'm sure it'll be fun traveling with you, Rody.{END}"
+"<audio_185D>ロンドリーネ
+「やった！ありがとー」
+<pause>
+<audio_185E>ロンドリーネ
+「でも、君たち、
+　精霊さんになんて会って
+　どうすんの？」
+<pause>
+<audio_185F><Cless>
+「魔術が必要なんだ、
+　ダオスを倒すために」{END}","<audio_185D>Rondoline:<nl>
+ Woohoo! Thanks!
+<pause>
+<audio_185E>Rondoline:<nl>
+ But, what do you guys need the spirits for?
+<pause>
+<audio_185F><Cless>:<nl>
+ We need their magic in order to defeat Dhaos.{END}"
+"<audio_1860>ロンドリーネ
+「ダオスを・・・！？」{END}","<audio_1860>Rondoline:<nl>
+ To defeat Dhaos...!?{END}"
+"<audio_1861>ロンドリーネ
+「そっか・・・」
+<pause>
+<audio_1862>ロンドリーネ
+「・・・・・・」{END}","<audio_1861>Rondoline:<nl>
+ I see...
+<pause>
+<audio_1862>Rondoline:<nl>
+ ......{END}"
+"<audio_1863><Arche>
+「どしたの？」{END}","<audio_1863><Arche>:<nl>
+ What's the matter?{END}"
+"<audio_1864>ロンドリーネ
+「ううん、なんでもないよ
+　さ、行こう、連れてって」
+<pause>
+<audio_1865><Cless>
+「え？あ、は、はい」{END}","<audio_1864>Rondoline:<nl>
+ Oh, it's nothing. Let's get movin'. Lead the way!
+<pause>
+<audio_1865><Cless>:<nl>
+ Huh? Oh, sure.{END}"
+"<color_0002>これからはパーティーが五人になりますが、戦闘は四人までしか参加できません。
+<pause>
+パーティーの入替えはメニュー画面の隊列モードで行って下さい。
+<pause>
+なお、隊列５番以降のメンバーにも経験値は加算されますが、封印によるボーナス加算（経験値１。５倍／２倍）は適用されません。{END}","<color_0002>Though you now have five party
+members, only four of them may
+participate in battle.
+<pause>
+Change the party by going to the
+Formation menu.
+<pause>
+Anyone outside of the battle still
+earns experience points, but they
+won't get any bonuses awarded by
+some accessories.{END}"
+"ロンドリーネ
+「あれ？ここの場所、
+　ほっていくつもり？」{END}","Rondoline:<nl>
+Huh? You all planning on leaving?{END}"
+<color_0002>洞窟を出ますか？<color_0000>{END},<color_0002>Leave the cave?<color_0000>{END}
+"ロンドリーネ
+「そっか・・・
+　んじゃあ、私はもう少し
+　ここ見て回ってくかな」{END}","Rondoline:<nl>
+Gotcha... I'll stay here for a bit and look around.{END}"
+"ロンドリーネ
+「あれ？戻ってきたの？
+　んじゃあ、私もご一緒させて
+　もらおっかな〜」{END}","Rondoline:<nl>
+Oh, you're back? Guess I'll tag along~{END}"
+"<audio_1866>ロンドリーネ
+「あ、これだ、薬草・・・！」{END}","<audio_1866>Rondoline:<nl>
+ Oh, look! Herbs!{END}"
+"<audio_1867>クレイアイドル
+「勝手に持ってっちゃ
+　ダメなんだよ〜」
+<pause>
+<audio_1868>クレイアイドル
+「それは僕らの大事なもの
+　なんだ〜」
+<pause>
+<audio_1869>ロンドリーネ
+「お願い
+　薬草がないと本当、困るんだ
+　助けると思ってさ」
+<pause>
+<audio_186A>クレイアイドル
+「ダメ〜」
+<pause>
+<audio_186B>クレイアイドル
+「ダメ〜」{END}","<audio_1867>Gnomelette:<nl>
+ You can't just take them, brah!
+<pause>
+<audio_1868>Gnomelette:<nl>
+ They're totes important to us!
+<pause>
+<audio_1869>Rondoline:<nl>
+ Please, without the herbs I'll be in trouble. Pretty please?
+<pause>
+<audio_186A>Gnomelette:<nl>
+ No way!
+<pause>
+<audio_186B>Gnomelette:<nl>
+ Nada!{END}"
+"<audio_186C>ロンドリーネ
+「そっかぁ、残念だなぁ」{END}","<audio_186C>Rondoline:<nl>
+ I see... Guess I'm outta luck...{END}"
+"<audio_186D><Arche>
+「あきらめちゃうの？」{END}","<audio_186D><Arche>:<nl>
+ You're giving up?{END}"
+"<audio_186E>ロンドリーネ
+「そうだねー・・・」{END}","<audio_186E>Rondoline:<nl>
+ I guess so...{END}"
+"<audio_186F>ロンドリーネ
+「どうしてもダメ？」{END}","<audio_186F>Rondoline:<nl>
+ Is there nothing I can do?{END}"
+"<audio_1870>クレイアイドル
+「ダメ〜」
+<pause>
+<audio_1871>クレイアイドル
+「ダメ〜」
+<pause>
+<audio_1872><Cless>
+「そう簡単には
+　くれないみたいだね・・・」{END}","<audio_1870>Gnomelette:<nl>
+ Nuttin!
+<pause>
+<audio_1871>Gnomelette:<nl>
+ No way, Jose!
+<pause>
+<audio_1872><Cless>:<nl>
+ Looks like they won't just hand them to us...{END}"
+"<audio_1873><Arche>
+「戦う？」{END}","<audio_1873><Arche>:<nl>
+ Should we fight them?{END}"
+"<audio_1874>ロンドリーネ
+「戦いたくないんだけどな」
+<pause>
+<audio_1875><Arche>
+「そんなこと
+　言ってもさあ・・・」{END}","<audio_1874>Rondoline:<nl>
+ Well, I'd rather not, but...
+<pause>
+<audio_1875><Arche>:<nl>
+ I mean... Even if you say that...{END}"
+"<audio_1876>クレイアイドル
+「キラッとキレイ
+　なそれなに〜？」
+<pause>
+<audio_1877>クレイアイドル
+「お姉さん、何持ってるの〜」{END}","<audio_1876>Gnomelette:<nl>
+ Hey, what's that totally tubular, shiny thing you got?
+<pause>
+<audio_1877>Gnomelette:<nl>
+ Whatcha got there, dude?{END}"
+"<audio_1878>ロンドリーネ
+「何って・・・指輪、だけど」
+<pause>
+<audio_1879>クレイアイドル
+「ゆびわ？」
+<pause>
+<audio_187A>クレイアイドル
+「ゆびわ、何？」
+<pause>
+<audio_187B>ロンドリーネ
+「私の大切な思い出だよ」
+<pause>
+<audio_187C>クレイアイドル
+「おもいで・・・」
+<pause>
+<audio_187D>クレイアイドル
+「思い出！！」{END}","<audio_1878>Rondoline:<nl>
+ Oh, this? It's just a ring...
+<pause>
+<audio_1879>Gnomelette:<nl>
+ A ring?
+<pause>
+<audio_187A>Gnomelette:<nl>
+ What's a ring, brah?
+<pause>
+<audio_187B>Rondoline:<nl>
+ It's an important memento of mine.
+<pause>
+<audio_187C>Gnomelette:<nl>
+ Memento...
+<pause>
+<audio_187D>Gnomelette:<nl>
+ Woahhh, memento!!{END}"
+"<audio_187E>クレイアイドル
+「ほしい〜」
+<pause>
+<audio_187F>クレイアイドル
+「ほしい〜」
+<pause>
+<audio_1880>ロンドリーネ
+「それはちょっと無理かな
+　ゴメンね、見せるだけ
+　だったら・・・」
+<pause>
+<audio_1881>クレイアイドル
+「みる〜」
+<pause>
+<audio_1882>クレイアイドル
+「みる〜」{END}","<audio_187E>Gnomelette:<nl>
+ I want it!
+<pause>
+<audio_187F>Gnomelette:<nl>
+ I needs it!
+<pause>
+<audio_1880>Rondoline:<nl>
+ Sorry, but I can't really give it to you. But I can let you have a look, at least.
+<pause>
+<audio_1881>Gnomelette:<nl>
+ Woah!
+<pause>
+<audio_1882>Gnomelette:<nl>
+ Righteous!{END}"
+"<audio_1883>ロンドリーネ
+「ほら・・・どう？」
+<pause>
+<audio_1884>クレイアイドル
+「キラキラ〜キレイ〜」
+<pause>
+<audio_1885>クレイアイドル
+「おもい〜」
+<pause>
+<audio_1886><Arche>
+「なんか年代モノって感じ
+　かっこいい柄が入ってるけど、
+　男物？」{END}","<audio_1883>Rondoline:<nl>
+ Well, whaddaya think?
+<pause>
+<audio_1884>Gnomelette:<nl>
+ It's majestic and gnarly, brah!
+<pause>
+<audio_1885>Gnomelette:<nl>
+ Chaaaa~!
+<pause>
+<audio_1886><Arche>:<nl>
+ It looks pretty old, but it's got a cool pattern! Did you get it from a guy?{END}"
+"<audio_1887>ロンドリーネ
+「えへへ、ないしょ」
+<pause>
+<audio_1888>クレイアイドル
+「まんぞく〜」
+<pause>
+<audio_1889>クレイアイドル
+「まんぞく〜」{END}","<audio_1887>Rondoline:<nl>
+ Ehehe~, that's a secret.
+<pause>
+<audio_1888>Gnomelette:<nl>
+ All right, I'm good!
+<pause>
+<audio_1889>Gnomelette:<nl>
+ I'm dunzo!{END}"
+"<audio_188A>クレイアイドル
+「お礼にあげる〜」
+<pause>
+<audio_188B>クレイアイドル
+「薬草、あげる〜」{END}","<audio_188A>Gnomelette:<nl>
+ Have some of our herbs, dude!
+<pause>
+<audio_188B>Gnomelette:<nl>
+ To return the favor, brah!{END}"
+"<audio_188C>ロンドリーネ
+「本当に？ありがと！！」{END}","<audio_188C>Rondoline:<nl>
+ Really? Thanks!{END}"
+"<audio_188D><Cless>
+「これで、ロディの目的は
+　果たせたね」
+<pause>
+<audio_188E>ロンドリーネ
+「さて、
+　次は君たちの目的かな」{END}","<audio_188D><Cless>:<nl>
+ Looks like you got what you needed.
+<pause>
+<audio_188E>Rondoline:<nl>
+ Now we gotta get what you guys need.{END}"
+"<audio_188F><Mint>
+「一緒に来てくださるの
+　ですか？」
+<pause>
+<audio_1890>ロンドリーネ
+「当然、君たちのおかげで
+　ここまで入ってこれた
+　わけだし？」
+<pause>
+<audio_1891><Cless>
+「ありがとう、ロディ」
+<pause>
+<audio_1892>ロンドリーネ
+「お礼を言うのはこっち、
+　ありがと」
+<pause>
+<audio_1893>ロンドリーネ
+「さ、行こう」{END}","<audio_188F><Mint>:<nl>
+ Will you be accompanying us?
+<pause>
+<audio_1890>Rondoline:<nl>
+ Of course. I wouldn't have been able to make it here without you, now would I?
+<pause>
+<audio_1891><Cless>:<nl>
+ Thank you, Rody.
+<pause>
+<audio_1892>Rondoline:<nl>
+ No, I'm the one who should be thanking you. So... thanks a bunch!
+<pause>
+<audio_1893>Rondoline:<nl>
+ C'mon, let's go!{END}"
+"<audio_1894>クレイアイドル
+「待て〜！」
+<pause>
+<audio_1895>クレイアイドル
+「待つのだ〜！」{END}","<audio_1894>Gnomelette:<nl>
+ Dudes!
+<pause>
+<audio_1895>Gnomelette:<nl>
+ Hold up, brahs!{END}"
+"<audio_1896>クレイアイドル
+「キラキラもっと
+　みせてくれ〜」
+<pause>
+<audio_1897>クレイアイドル
+「ともだちにも
+　みせてくれ〜」
+<pause>
+<audio_1898>ロンドリーネ
+「しょうがないなぁ、ほら」{END}","<audio_1896>Gnomelette:<nl>
+ We wanna see more of that radical ring thingy!
+<pause>
+<audio_1897>Gnomelette:<nl>
+ We gotta show the rest of our brahs!
+<pause>
+<audio_1898>Rondoline:<nl>
+ Well, I guess it can't be helped. Here you go.{END}"
+"<audio_1899>クレイアイドル
+「きれい〜」
+<pause>
+<audio_189A>クレイアイドル
+「キラキラ〜」{END}","<audio_1899>Gnomelette:<nl>
+ Mondo cool, dude!
+<pause>
+<audio_189A>Gnomelette:<nl>
+ Tubular!{END}"
+"<audio_189B>ロンドリーネ
+「あっ・・・！」{END}","<audio_189B>Rondoline:<nl>
+ Ah...!{END}"
+"<audio_189C>ロンドリーネ
+「私の大切な・・・
+　待てぇっ！！」{END}","<audio_189C>Rondoline:<nl>
+ My precious... Wait!{END}"
+"<audio_189D><Cless>
+「僕たちも・・・！」{END}","<audio_189D><Cless>:<nl>
+ We'll help you!{END}"
+"<audio_189E>ロンドリーネ
+「君たちは君たちのやることが
+　あるんでしょ」
+<pause>
+<audio_189F>ロンドリーネ
+「ここはいいから、
+　ほら、行って」
+<pause>
+<audio_18A0><Cless>
+「う、うん・・・」
+<pause>
+<audio_18A1>ロンドリーネ
+「また機会があったら・・・！」{END}","<audio_189E>Rondoline:<nl>
+ You have other things you need to be doing, right?
+<pause>
+<audio_189F>Rondoline:<nl>
+ I can take care of this myself. Go on without me.
+<pause>
+<audio_18A0><Cless>:<nl>
+ A-All right...
+<pause>
+<audio_18A1>Rondoline:<nl>
+ I'll see you some other time!{END}"
+"<audio_18A2><Arche>
+「行っちゃったね」
+<pause>
+<audio_18A3><Mint>
+「ロディさん、
+　大丈夫でしょうか？」{END}","<audio_18A2><Arche>:<nl>
+ And there she goes...
+<pause>
+<audio_18A3><Mint>:<nl>
+ Will she be all right...?{END}"
+"<audio_18A4><Cless>
+「うん・・・」
+<pause>
+<audio_18A5><Klarth>
+「でも我々は精霊を集めて
+　召喚術を完成させなければ
+　ならない。　そうだろ」
+<pause>
+<audio_18A6><Cless>
+「ええ・・・そうしないと
+　ダオスは討てない」
+<pause>
+<audio_18A7><Klarth>
+「行こう」{END}","<audio_18A4><Cless>:<nl>
+ Yeah...?
+<pause>
+<audio_18A5><Klarth>:<nl>
+ Well, we have to finish making pacts with all the spirits, remember?
+<pause>
+<audio_18A6><Cless>:<nl>
+ Right. We won't be able to defeat Dhaos without them.
+<pause>
+<audio_18A7><Klarth>:<nl>
+ Let's go.{END}"
+"<audio_0BB3><Cless>
+「ここは？」{END}","<audio_0BB3><Cless>:<nl>
+ What is this place?{END}"
+"<audio_0BB4><var_D100>
+「誰だ〜、ボクのなわばりに入る
+　のは〜！！」{END}","<audio_0BB4>Gnome:<nl>
+ Check it, brah, some dudes are
+ homin' in on our turf!{END}"
+"<audio_0BB5><var_D100>
+「まいったよ〜ん」
+<pause>
+<audio_0BB6><Klarth>
+「よし、では契約を結ぼう」
+<pause>
+<audio_0BB7><var_D100>
+「ルビーの指輪がいいのら〜」{END}","<audio_0BB5>Gnome:<nl>
+ Totally bogus dudes...<nl>
+ We got rocked to the max.
+<pause>
+<audio_0BB6><Klarth>:<nl>
+ Yyyyyeah.
+ Now, can we seal the pact?
+<pause>
+<audio_0BB7>Gnome:<nl>
+ Hey, that's some nice
+ schwag you got there.
+ That ruby ring is SICK, brah!{END}"
+"<audio_0BB8><Klarth>
+「我、今、地の精に願い奉る」
+<pause>
+<audio_0BB9><Klarth>
+「指輪の盟約のもと、我に精霊を
+　従わせたまえ・・・」
+<pause>
+<audio_0BBA><Klarth>
+「我が名は<Klarth>・・・」{END}","<audio_0BB8><Klarth>:<nl>
+ Here and now, I offer my request
+ to the Spirit of Earth.
+<pause>
+<audio_0BB9><Klarth>:<nl>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<audio_0BBA><Klarth>:<nl>
+ My name is <Klarth>...{END}"
+<color_0002><Klarth>は<var_D100>を召喚できるようになりました。<color_0000>{END},<color_0002><Klarth> can now summon Gnome.<color_0000>{END}
+"クレイアイドル
+「迷子〜、迷子〜」{END}","Gnomelette:<nl>
+ I'm lost, dudes! Lost!{END}"
+"クレイアイドル
+「ボク〜、迷子なんだ〜」
+<pause>
+クレイアイドル
+「みんなの所へ連れてってよ〜」
+<pause>
+<color_0002>連れて行きますか？<color_0000>{END}","Gnomelette:<nl>
+ I'm a total lamer, dudes.
+ I have, like, NO idea where I am.
+<pause>
+Gnomelette:<nl>
+ Help a brah out?
+<pause>
+<color_0002>Bring it with you?<color_0000>{END}"
+"クレイアイドル
+「連れてってよ〜」{END}","Gnomelette:<nl>
+ Schwuh? That's like, totally
+ not cool, dudes.{END}"
+"クレイアイドル
+「ありがと〜」{END}","Gnomelette:<nl>
+ Righteous, dudes.{END}"
+"クレイアイドル
+「一人〜足りない〜」
+<pause>
+クレイアイドル
+「お前〜知らないか〜？」<wait>{END}","Gnomelette:<nl>
+ We're TOTALLY missin' someone,
+ dudes.
+<pause>
+Gnomelette:<nl>
+ Hey, have you scoped a little dude
+ all by his lonesome?<wait>{END}"
+"クレイアイドル
+「何だ〜？」
+<pause>
+クレイアイドル
+「やる気か〜？」
+<pause>
+<color_0002>戦いますか？<color_0000>{END}","Gnomelette:<nl>
+ ...Dude, you serious?
+<pause>
+Gnomelette:<nl>
+ You wanna get all aggro with us?
+ Why you bein' such a hater?
+<pause>
+<color_0002>Fight with it?<color_0000>{END}"
+"クレイアイドル
+「つまんない〜」{END}","Gnomelette:<nl>
+ Totally weaksauce, dudes.{END}"
+"クレイアイドル
+「ムダムダムダムダァ〜」{END}","Gnomelette:<nl>
+ You dudes are total nutters.
+ You can't do jack to us, man!{END}"
+"クレイアイドル
+「あれ〜？」
+<pause>
+クレイアイドル
+「何で警報がなるの〜？」{END}","Gnomelette:<nl>
+ Schwuh?
+<pause>
+Gnomelette:<nl>
+ Why's the alarm goin' all spazz on
+ us?{END}"
+"<Cless>
+「これは・・・」
+<pause>
+<Cless>
+「呪文書だ！！」<wait>{END}","<Cless>:<nl>
+ This...
+<pause>
+<Cless>:<nl>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_C300>を覚えました。<color_0000>{END},<color_0002><Arche> learned <var_C300>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな・・・」
+<pause>
+<Cless>
+「戻しておこう・・・」{END}","<Cless>:<nl>
+ But I don't have any use for it...
+<pause>
+<Cless>:<nl>
+ I'll put it back...{END}"

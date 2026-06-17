@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_030">
+        <source>Leave this to me. I shall
+relieve you of your paralysis.</source>
+        <target state="translated">Leave this to me. I shall
+relieve you of your paralysis.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

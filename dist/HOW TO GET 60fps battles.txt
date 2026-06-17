@@ -1,0 +1,30 @@
+For emulator users:
+
+1. ULJS00293.ini goes in the memstick/cheats folder or, if on Android, the psp/cheats folder.
+
+2. To enable cheats, bring up the PPSSPP menu.
+
+3. Click Settings, then the System tab, scroll down until you get to the Cheats section (the second
+   one from the bottom). Click "Enable Cheats".
+
+4. Now go back to the PPSSPP menu and you will now have an option called "Cheats".
+   Click it, and enable the 60fps cheat.
+
+/----------------------------------------------------------------------------------------------/
+
+For PSP/PSVita users:
+
+1. You need the TempAR plugin: https://github.com/raing3/tempar/releases/latest
+   To be able to see the full cheat list you need the latest version of TempAR (>=1.6.4).
+
+2. Put ULJS-00293.db inside /SEPLUGINS/TempAR/cheats
+
+3. When inside the game you'll need to press R+HOME to open TempAR, the tab should be [Cheater].
+   Select the cheats you want to turn on with X.
+   If you want a cheat to always be ON, modify its name in ULJS-00293.db and change "_C0" to "_C2".
+
+4. Press NOTE (♪) to turn the Cheat Engine on.
+   Navigate to the [PRX] tab by pressing R and set "Max Cheats?" to 2000 and "Max Blocks?" to 2496
+   then select "Save Settings". 
+
+5. Press O to exit the TempAR menu and go back to the game.

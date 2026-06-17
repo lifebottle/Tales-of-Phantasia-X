@@ -1,0 +1,1145 @@
+宿屋『ユークリッドＩＮＮ』{END},Inn “Euclid Inn”{END}
+武具店『ホーリーナイト』{END},Weapon Shop “Holy Knight”{END}
+ユークリッド城{END},Euclid Castle{END}
+食材屋『あじおう』{END},Grocery Store “Flavor King”{END}
+雑貨屋『ほっかむり』{END},General Store “Bonnet”{END}
+食材屋『マリオン』{END},Grocery Store “Marion”{END}
+雑貨屋『ベイビー』{END},General Store “Baby”{END}
+雑貨屋『ベイビー』{END},General Store “Baby”{END}
+"子供
+「ママ、早くジャグラー見に行こ
+　うよ〜」{END}","Child:<nl>
+ Hurry, Mama!
+ Let's go see the juggler!{END}"
+"子供
+「もうすぐこの町に旅芸人が来る
+　んだってさ」
+<pause>
+子供
+「楽しみだなぁ〜」{END}","Child:<nl>
+ I heard someone who does fun
+ things is coming soon.
+<pause>
+Child:<nl>
+ I'm so excited!{END}"
+"奥さん
+「外に出るならお肌に注意しなく
+　ちゃね<heart>」{END}","Wife:<nl>
+ I can't stay out in the sun too long
+ or my beautiful skin will start to
+ look like old leather.{END}"
+"奥さん
+「勝手に、人の家に入ってきては
+　いけませんよ」
+<pause>
+<Cless>
+「あ、す、すみません・・・」{END}","Wife:<nl>
+ Yes, our door isn't locked, but that
+ doesn't mean you're welcome to
+ barge in as you please.
+<pause>
+<Cless>:<nl>
+ Y-Yes ma'am...p-pardon me...{END}"
+"宿の主人
+「いらっしゃい！」
+<pause>
+宿の主人
+「ここは１００年以上続いている
+　歴史ある宿屋ですぜ」
+<pause>
+宿の主人
+「お泊まりっすね？」
+<pause>
+宿の主人
+「一晩<num1_0000000C>ガルドになりやすぜ」{END}","Innkeeper:<nl>
+ Howdy, pardner!
+ Welcome to the Euclid Inn!
+<pause>
+Innkeeper:<nl>
+ This here inn has a history going
+ back over a hundred years!
+<pause>
+Innkeeper:<nl>
+ Will ya be staying?
+<pause>
+Innkeeper:<nl>
+ One night is <num1_0000000C> gald.{END}"
+"宿の主人
+「悪いけど、お金が足んないっす
+　よ、お客さん」{END}","Innkeeper:<nl>
+ Sorry, but y'ain't got enough
+ money.{END}"
+"宿の主人
+「そんじゃあ、ごゆっくり！」{END}","Innkeeper:<nl>
+ Good night, then!{END}"
+"宿の主人
+「ありがとうございやした」
+<pause>
+宿の主人
+「また、来て欲しいっす！」{END}","Innkeeper:<nl>
+ Much obliged!
+<pause>
+Innkeeper:<nl>
+ I hope ya come again.{END}"
+"女の子
+「はい、どいてどいてぇ〜」
+<pause>
+女の子
+「今、掃除中だからねぇ〜」
+<pause>
+女の子
+「私、ここでパートタイムで働い
+　ているの」
+<pause>
+女の子
+「宿屋って結構稼げるのよね」{END}","Girl:<nl>
+ Okay dude, step aside...
+<pause>
+Girl:<nl>
+ I'm trying to straighten up the
+ place, but I only work part time,
+ you see...
+<pause>
+Girl:<nl>
+ It's a nice job, but I can't be
+ slacking off if I want to keep it.{END}"
+"<Cless>
+「寝てる・・・」
+<pause>
+<Cless>
+「しかも、目を開けながら・・・」{END}","<Cless>:<nl>
+ He's asleep...
+<pause>
+<Cless>:<nl>
+ ...with his eyes open.
+ Creepy...{END}"
+"座長
+「やあ、こんにちは」
+<pause>
+座長
+「私は旅芸人『ジャグランラン』
+　の座長です」
+<pause>
+座長
+「この町は大きいし、治安もいい
+　からしばらく、ここで稼ごうと
+　思っています」{END}","Manager:<nl>
+ Ah, hello.
+<pause>
+Manager:<nl>
+ I'm the manager for Juglanlan, the
+ traveling performer.
+<pause>
+Manager:<nl>
+ We've been checking out this city
+ and it looks like a good place to put
+ on a show.
+<pause>
+Manager:<nl>
+ The place is big, and there's enough
+ people to get a nice crowd.
+<pause>
+Manager:<nl>
+ Plus, it looks like we won't have to
+ worry about drunks getting into
+ fights with the talent.{END}"
+"店員
+「<color_0002>料理<color_0000>の事について聞いていきま
+　せんか？」{END}","Assistant:<nl>
+ Would you like to learn about
+ <color_0002>cooking<color_0000>?{END}"
+"店員
+「食料は単体では、ほとんど意味
+　がありません」
+<pause>
+店員
+「<color_0002>料理<color_0000>して初めて、十分な効果が
+　得られます」<wait>{END}","Assistant:<nl>
+ Food preparation is so simple, even
+ novices can make something decent
+ on their first try.<wait>{END}"
+"<color_0002>食料を複数種類持っていれば、そ
+れを組み合わせて大きな効果を得
+る『料理』を行うことができます。
+<pause>
+料理は、全員のＨＰ・ＴＰを回復
+したり、バッドステータスから回
+復するなどの、様々な効果があり
+ます。
+<pause>
+食料単体を使用した場合の効果は
+次のようになります。
+<pause>
+<color_0002>ＨＰ１％回復＝野菜など
+<color_0001>ＴＰ１％回復＝フルーツ系
+<color_0003>ＨＰ・ＴＰ１％回復＝魚・肉など
+<pause>
+<color_0002>なお、入手した食料は売ることが
+できませんので、料理などで活用
+しましょう。<wait><color_0000>{END}","<color_0002>Multiple ingredients can be combined
+into a dish for great effect.
+<pause>
+<color_0003>Cooking<color_0002> these recipes can restore
+HP, restore TP and/or cure status
+ailments.
+<pause>
+Individual ingredients can also be
+used as weak healing items, and
+have the following effects when
+used as such:
+<pause>
+<color_0002>Vegetables: 1% HP recovery<nl>
+<color_0001>Fruits: 1% TP recovery<nl>
+<color_0003>Meats: 1% HP and TP recovery
+<pause>
+<color_0002>Merchants won't buy ingredients
+from you, so you might as well try
+to use them in a dish.<wait><color_0000>{END}"
+"店員
+「そこの料理人とも、話をすると
+　いいですよ」{END}","Assistant:<nl>
+ Why don't have you have a talk
+ with the chef to get started?{END}"
+"店員
+「食料は大切にね」{END}","Assistant:<nl>
+ Eating is essential to your health.
+ Remember that.{END}"
+"主婦
+「さてと・・・」
+<pause>
+主婦
+「今夜のおかずは、何にしようか
+　しら・・・」{END}","Housewife:<nl>
+ Hmm...
+<pause>
+Housewife:<nl>
+ What sounds good for dinner?{END}"
+"町の人
+「噂話を一つ・・・」
+<pause>
+町の人
+「ユークリッドの独立騎士団から
+　部下を引き連れて離反した男が
+　いるらしいよ」
+<pause>
+町の人
+「あくまで噂だけどね・・・」{END}","Citizen:<nl>
+ I heard something crazy.
+<pause>
+Citizen:<nl>
+ Apparently, a high-ranking official
+ of Euclid's Free Knights became
+ estranged and took off with all his
+ subordinates.
+<pause>
+Citizen:<nl>
+ Now why would he do that...?{END}"
+"おばあさん
+「この都は物に不自由せんから、
+　いい所じゃよ・・・」
+<pause>
+おばあさん
+「昔は何もない、荒れ果てた土地
+　だったんじゃがの」{END}","Old Woman:<nl>
+ We have everything we need in
+ this city...
+<pause>
+Old Woman:<nl>
+ To think that this area was
+ completely desolate, with absolutely
+ nothing for us, some moons ago...{END}"
+"少年
+「もう食べらんないよ・・・」{END}","Kid:<nl>
+ Agh, I'm stuffed...{END}"
+"少年
+「りんご欲しいな〜」
+<pause>
+<color_0002>りんごを買ってあげますか？<color_0000><wait>{END}","Kid:<nl>
+ I want an apple...
+<pause>
+<color_0002>Buy him an apple?<color_0000><wait>{END}"
+"<Cless>
+「ごめん、今お金がないんだ」
+<pause>
+少年
+「ビンボ〜なんだね」{END}","<Cless>:<nl>
+ Sorry, I don't have any money to
+ spare.
+<pause>
+Kid:<nl>
+ So you're a hobo, huh?{END}"
+"少年
+「ありがとう！」{END}","Kid:<nl>
+ Thank you!{END}"
+"<Cless>
+（いったい、いくつ食うつもりな
+　んだろう・・・）{END}","<Cless>:<nl>
+ (Yeesh, maybe he should take up
+ competitive eating...){END}"
+"少年
+「おなかすいたよぉ〜」{END}","Kid:<nl>
+ I...I could eat a horse...{END}"
+"料理人
+「ロールキャベツ作ってるかい？」{END}","Chef:<nl>
+ Have you made Cabbage Rolls yet?{END}"
+"料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}","Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}"
+"料理人
+「この料理を伝授しよう！」<wait>{END}","Chef:<nl>
+ I'll teach you this dish!<wait>{END}"
+"<color_0002>ロールキャベツを料理できるように
+なりました。<wait><color_0000>{END}","<color_0002>Learned the recipe for Cabbage
+Rolls.<wait><color_0000>{END}"
+"料理人
+「料理は、作れば作るほど上達す
+　る！」
+<pause>
+料理人
+「<star>の印が料理熟練度の証しだ！」
+<pause>
+料理人
+「<star>が多いほど、料理の効果も上
+　がるので、日々修行するのだ！」{END}","Chef:<nl>
+ The more you cook, the better you
+ get at it!
+<pause>
+Chef:<nl>
+ You'll get <star>s to show your skill!
+<pause>
+Chef:<nl>
+ If you practice every day, you'll
+ rack up the <star>s!{END}"
+"料理人
+「おお、なんということだ！」{END}","Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}"
+"町の人
+「おなかすいた〜っと」
+<pause>
+町の人
+「何にしようかな〜っと」{END}","Citizen:<nl>
+ S...starving...
+<pause>
+Citizen:<nl>
+ But I don't know what I wanna
+ eat...{END}"
+"町の人
+「今夜は飲むぞー！！！」{END}","Citizen:<nl>
+ I'm gonna drink myself stupid
+ tonight!!{END}"
+"<Cless>
+「ふう、捕まえた」{END}","<Cless>:<nl>
+ Whew!
+ Finally got you!{END}"
+"<Cless>
+「は、速い！！」
+<pause>
+<color_0002>逃げられました。{END}","<Cless>:<nl>
+ Gah!
+ Nimble little bugger, aren't you!?
+<pause>
+<color_0002>It escaped your clutches.{END}"
+"武器屋
+「いらっしゃ〜い」{END}","Clerk:<nl>
+ Heeey!
+ Welcome to Holy Knight.{END}"
+"武器屋
+「どうも、ありがとねー」{END}","Clerk:<nl>
+ Thank you!{END}"
+"<Cless>
+「あの〜、すみません」
+<pause>
+防具屋
+「・・・・・・」
+<pause>
+<Cless>
+「す・み・ま・せ〜ん！！」{END}","<Cless>:<nl>
+ Excuse me, ma'am.
+<pause>
+Clerk:<nl>
+ ......
+<pause>
+<Cless>:<nl>
+ EXCUUUUUUSE MEEEEE!!{END}"
+"防具屋
+「ご、ごめんなさい」
+<pause>
+防具屋
+「すごくヒマだったから・・・」{END}","Clerk:<nl>
+ S-Sorry about that.
+<pause>
+Clerk:<nl>
+ Business has been so slow lately
+ that I just fall asleep after a
+ while...{END}"
+"防具屋
+「いらっしゃいませ」{END}","Clerk:<nl>
+ Welcome to Holy Knight.{END}"
+"防具屋
+「ありがとう、また来てね」{END}","Clerk:<nl>
+ Thank you, come again.{END}"
+"雑貨屋
+「いや、まいったよ」
+<pause>
+雑貨屋
+「また、うちのブッシュベイビー
+　がイタズラしたらしい」
+<pause>
+雑貨屋
+「首輪をつけるのもかわいそうだ
+　し、何とかしないとな・・・」<wait>{END}","Owner:<nl>
+ Oh, I give up.
+<pause>
+Owner:<nl>
+ My bush baby started causing
+ trouble again.
+<pause>
+Owner:<nl>
+ I'd hate to put him on a leash, but
+ I have to do something about this...
+<pause>
+Owner:<nl>
+ So, anyway...<wait>{END}"
+"雑貨屋
+「いらっしゃい、何にします？」{END}","Owner:<nl>
+ Welcome.
+ What can I do for you?{END}"
+"雑貨屋
+「ありがとう」{END}","Owner:<nl>
+ Thanks.{END}"
+"店員
+「いらっしゃい、お会計は奥でお
+　願いします」{END}","Assistant:<nl>
+ Welcome.
+ The checkout counter
+ is right over there.{END}"
+"食材屋
+「はい、いらっしゃい」{END}","Clerk:<nl>
+ Yes, welcome.
+ What would you like?{END}"
+"食材屋
+「どうもありがとう」{END}","Clerk:<nl>
+ Thank you.{END}"
+"門番
+「異常無し！」{END}","Gatekeeper:<nl>
+ All is well!{END}"
+"門番
+「ここは君の来るような所じゃな
+　いよ」
+<pause>
+門番
+「えっ、独立騎士団について？」
+<pause>
+門番
+「え〜と、私の知っている限りで
+　は・・・」
+<pause>
+門番
+「隊長だったミゲール殿の後任に
+　就いたのがマルス殿だ」
+<pause>
+門番
+「あの方もミゲール殿に引けをと
+　らない剛剣の使い手だったのだ
+　が最近姿を見かけないのだ」
+<pause>
+門番
+「病床についているというので家
+　にいると思うのだが・・・」
+<pause>
+門番
+「マルス殿の家？」
+<pause>
+門番
+「たしか町の北東にあったと思う
+　が・・・」{END}","Gatekeeper:<nl>
+ What are you doing here?
+ This isn't a place for kids!
+<pause>
+<Cless>:<nl>
+ I only wanted to ask about the
+ Free Knights...
+<pause>
+Gatekeeper:<nl>
+ Uhh, I don't really know much
+ about 'em, but...
+<pause>
+Gatekeeper:<nl>
+ It was all over newspaper
+ headlines when Sir Mars succeeded
+ Sir Miguel as commanding officer,
+ though.
+<pause>
+Gatekeeper:<nl>
+ They were both formidable
+ swordsmen, but I don't know what
+ Sir Mars has been up to lately.
+<pause>
+Gatekeeper:<nl>
+ I think I heard someone say he
+ was sick in bed, and has been
+ recovering at home...
+<pause>
+<Cless>:<nl>
+ In that case, do you have any idea
+ where he lives?
+<pause>
+Gatekeeper:<nl>
+ I overheard one of the knights
+ under his command mention that
+ his house is in the northeast corner
+ of the city...{END}"
+"門番
+「あなたもどうぞ御自由にお入り
+　下さい」
+<pause>
+門番
+「中で武術大会の受け付けを行っ
+　ています」{END}","Gatekeeper:<nl>
+ You are free to enter the castle at
+ your discretion.
+<pause>
+Gatekeeper:<nl>
+ If you wish, you can also sign up
+ for the combat tournament on the
+ first floor.{END}"
+"門番
+「ここは立ち入り禁止だ！」
+<pause>
+門番
+「何だ？」
+<pause>
+<Cless>
+「ユークリッドの東にある橋が壊
+　れて、通れないんですが・・・」
+<pause>
+門番
+「うむ、一ヶ月くらい前の地震で
+　壊れてしまったんだ」
+<pause>
+門番
+「残念ながら復旧のメドはたって
+　いない」{END}","Gatekeeper:<nl>
+ You may not pass!
+<pause>
+Gatekeeper:<nl>
+ What? You need something?
+<pause>
+<Cless>:<nl>
+ I want to cross the bridge east of
+ Euclid, but part of it collapsed...
+<pause>
+Gatekeeper:<nl>
+ Yeah, the west end of it took a
+ spill into the water during that
+ earthquake last month.
+<pause>
+Gatekeeper:<nl>
+ Unfortunately, a reconstruction
+ project for something like that
+ isn't really in our budget right now.{END}"
+"子供
+「僕の犬、すごいんだぞ」
+<pause>
+子供
+「歌を歌うんだ！」
+<pause>
+<color_0002>歌を聞きますか？<color_0000>{END}","Child:<nl>
+ My dog is the best!
+<pause>
+Child:<nl>
+ He can sing!
+<pause>
+<color_0002>Listen to the dog sing?<color_0000>{END}"
+"子供
+「ホントなんだぞ！！」{END}","Child:<nl>
+ What!? You don't believe me!?
+ It's true! Honest!!{END}"
+"子供
+「それじゃ、聞いてね！」<wait>{END}","Child:<nl>
+ Then listen!<wait>{END}"
+"子供
+「どう、すごいでしょ？」<wait>{END}","Child:<nl>
+ Was that cool or what?<wait>{END}"
+"町の人
+「お前も大会に出るのか？」{END}","Citizen:<nl>
+ Are you entering the tournament,
+ too?{END}"
+"町の人
+「大会にはそうとう強い連中が集
+　まるらしいぜ」{END}","Citizen:<nl>
+ A lot of strong people are
+ gathering here for the tournament.{END}"
+"男の人
+「どうしようかなぁ・・・」
+<pause>
+男の人
+「参加しようかなぁ・・・」
+<pause>
+男の人
+「でも痛そうだしなぁ・・・」{END}","Man:<nl>
+ What should I do...?
+<pause>
+Man:<nl>
+ Maybe I should enter...
+<pause>
+Man:<nl>
+ Ohh, but I could get bruised...{END}"
+"女の人
+「彼、優柔不断なのよね・・・」{END}","Woman:<nl>
+ He won't make up his mind...{END}"
+"おばさん
+「ちょいとあんた、うちの夫を知
+　らないかい？」
+<pause>
+おばさん
+「まったく、このくそ忙しい時に
+　いなくなるなんて！」<wait>{END}","Lady:<nl>
+ Where is that good-for-nothing
+ husband of mine!?
+<pause>
+Lady:<nl>
+ Hey, you.
+ Do you know where he is?<wait>{END}"
+<color_0002>話しますか？<color_0000>{END},<color_0002>Tell her where he is?<color_0000>{END}
+"<Cless>
+「外にいましたよ」
+<pause>
+<Cless>
+「宿屋の裏だったと思うけど」
+<pause>
+おばさん
+「そうかい、ありがとさん」{END}","<Cless>:<nl>
+ I saw a guy who looked a little
+ suspicious standing next to the inn...
+<pause>
+<Cless>:<nl>
+ Maybe that's him?
+<pause>
+Lady:<nl>
+ I see.
+ Thanks.{END}"
+"おばさん
+「まったく・・・」{END}","Lady:<nl>
+ Dammit, what am I going to do...{END}"
+"おばさん
+「もし見かけたら教えてね」{END}","Lady:<nl>
+ If you find him, let me know so I
+ can give him an earful!{END}"
+"三つ子の長女
+「私達」{END}","Eldest Sister:<nl>
+ We...{END}"
+"三つ子の次女
+「三つ子」{END}","Middle Sister:<nl>
+ Are...{END}"
+"三つ子の三女
+「なんです〜<heart>」{END}","Youngest Sister:<nl>
+ Triplets! <heart>{END}"
+"変な人
+「オレの超必殺技でぶちのめして
+　やる！！」
+<pause>
+変な人
+「３０ＨＩＴは出るぜ！！」
+<pause>
+変な人
+「うおぉぉぉ！！！！」{END}","Nutcase:<nl>
+ I'm gonna tear you to pieces with
+ my super duper altered arcane
+ mystic burst arte!!!
+<pause>
+Nutcase:<nl>
+ Thirty-hit combo!!!
+<pause>
+Nutcase:<nl>
+ WHOOOAAAAAH!!!!{END}"
+"男の人
+「武術大会は武器も使用できるら
+　しいぜ」
+<pause>
+男の人
+「でも魔術はダメなんだって」{END}","Man:<nl>
+ It seems you can only fight with
+ normal weapons in the combat
+ tournament.
+<pause>
+Man:<nl>
+ Do they have something against
+ spellcasters?{END}"
+"おじいさん
+「持参の回復アイテムが使えない
+　のが痛いのぉ・・・」
+<pause>
+おじいさん
+「・・・どうせわしゃ、出場でき
+　るわけがないがのぉ」{END}","Old Man:<nl>
+ Oh, fiddlesticks.
+ They won't let me use my own
+ healing items...
+<pause>
+Old Man:<nl>
+ ...Not that they'd let me in either
+ way.{END}"
+"称号鑑定士
+「私は称号を鑑定する者だ」<wait>{END}","Title Judge:<nl>
+ I'm a judge of titles.<wait>{END}"
+"<unk1>称号鑑定士
+<num2_C0005112>の称号は『<0Dvar0080100112518E800CC000C0>』か」
+<pause>
+称号鑑定士
+これはすごいぞ・・・たいしたものだ！」{END}","<unk1>Title Judge:<nl>
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge:<nl>
+ I'm awestruck...<nl>
+ It doesn't get any better than that!{END}"
+"<unk1>称号鑑定士
+<num2_C0005112>の称号は『<0Dvar0080100112518E800CC000C0>』か」
+<pause>
+称号鑑定士
+すばらしいな！」{END}","<unk1>Title Judge:<nl>
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge:<nl>
+ Marvelous!{END}"
+"<unk1>称号鑑定士
+<num2_C0005112>の称号は『<0Dvar0080100112518E800CC000C0>』か」
+<pause>
+称号鑑定士
+なかなかやるな！」{END}","<unk1>Title Judge:<nl>
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge:<nl>
+ Not bad at all!{END}"
+"<unk1>称号鑑定士
+<num2_C0005112>の称号は『<0Dvar0080100112518E800CC000C0>』か」
+<pause>
+称号鑑定士
+まだまだだな」{END}","<unk1>Title Judge:<nl>
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge:<nl>
+ Still have a way to go.{END}"
+"<unk1>称号鑑定士
+<num2_C0005112>の称号は『<0Dvar0080100112518E800CC000C0>』か」
+<pause>
+称号鑑定士
+何だか、変な称号だな・・・」{END}","<unk1>Title Judge:<nl>
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge:<nl>
+ What the?
+ You'll have to tell me the
+ story behind that one...{END}"
+"<unk1>称号鑑定士
+<num2_C0005112>の称号は『<0Dvar0080100112518E800CC000C0>』か」
+<pause>
+称号鑑定士
+なるほど」{END}","<unk1>Title Judge:<nl>
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge:<nl>
+ I see.{END}"
+"町の人
+「何かベネツィアがたいへんなこ
+　とになっているらしいよ」
+<pause>
+町の人
+「町が無くなったわけじゃないけ
+　どね」{END}","Citizen:<nl>
+ Seems like Venezia's fallen on hard
+ times.
+<pause>
+Citizen:<nl>
+ The folks there have had to deal
+ with not only the bad economy, but
+ an attack on their port!
+<pause>
+Citizen:<nl>
+ It's impressive that the city is still
+ thriving.{END}"
+"マルスの妻
+「いったい主人はどこに行ってし
+　まったのでしょうか？」{END}","Mars' Wife:<nl>
+ Where could that husband of mine
+ be?{END}"
+"<Cless>
+「あなたはもしかしてマルスさん
+　の・・・」
+<pause>
+マルスの妻
+「はい、マルスの妻です」
+<pause>
+マルスの妻
+「あなた、もしかして夫の居場所
+　を知っている方ですか？」
+<pause>
+<Cless>
+「あ、いえ、僕はユークリッド城
+　の兵士から聞いてここに来たん
+　です」
+<pause>
+<Cless>
+「僕の父ミゲールは元独立騎士団
+　の隊長だったんです」
+<pause>
+<Cless>
+「その後任にマルスさんが就いた
+　ということでここに来ました」
+<pause>
+マルスの妻
+「それはわざわざ・・・」
+<pause>
+マルスの妻
+「ですが、夫はその・・・」
+<pause>
+マルスの妻
+「行方不明・・・です」
+<pause>
+<Cless>
+「行方不明？」
+<pause>
+マルスの妻
+「三ヶ月前くらいになりますが、
+　夜中に鎧を着て出かけたっきり
+　帰ってこないのです」
+<pause>
+マルスの妻
+「てっきり仕事だと思っていたの
+　ですが・・・」
+<pause>
+マルスの妻
+「お城にも出仕せず、そのまま、
+　行方不明に・・・」
+<pause>
+<Cless>
+「そうでしたか・・・」{END}","<Cless>:<nl>
+ Are you by any chance Sir Mars'...
+<pause>
+Mars' Wife:<nl>
+ Yes, I am his wife.
+<pause>
+Mars' Wife:<nl>
+ Have you come with news of his
+ whereabouts?
+<pause>
+<Cless>:<nl>
+ Ah... No, sorry.
+ I only heard about him from a
+ gatekeeper at the castle, and
+ learned that he might live here.
+<pause>
+<Cless>:<nl>
+ My father, Miguel, was the previous
+ commander of the Free Knights.
+<pause>
+<Cless>:<nl>
+ I thought it would be a good idea
+ to meet with his successor.
+<pause>
+Mars' Wife:<nl>
+ Oh, that makes sense...
+<pause>
+Mars' Wife:<nl>
+ But my husband has...
+<pause>
+Mars' Wife:<nl>
+ ...gone missing.
+<pause>
+<Cless>:<nl>
+ He has?
+<pause>
+Mars' Wife:<nl>
+ It was in the middle of the night
+ just three months ago. He suddenly
+ awoke, suited up in his armor, left,
+ and never came back.
+<pause>
+Mars' Wife:<nl>
+ I assumed it was just a late-night
+ assignment at work he had to
+ attend to, but...
+<pause>
+Mars' Wife:<nl>
+ When I went to check on him at
+ the castle the next day, I was told
+ he hadn't even shown up for roll
+ call...
+<pause>
+<Cless>:<nl>
+ I see...<nl>
+ How strange...{END}"
+"婦人
+「あら、こんにちは」{END}","Lady:<nl>
+ Oh, hello.{END}"
+"男の人
+「あ〜あ、俺も商売で、ひと儲け
+　したいね」
+<pause>
+男の人
+「俺の昔の友人が交易品の貿易で
+　成功してね」
+<pause>
+男の人
+「いまや重役にまでのし上がって
+　るんだ」{END}","Man:<nl>
+ Maaaan... Making a tidy profit from
+ business sounds like a such dream.
+<pause>
+Man:<nl>
+ See, my old friend has made a
+ name for himself in the trading
+ business.
+<pause>
+Man:<nl>
+ He's already made executive!
+ It'd be awesome if I could get a
+ setup like his...{END}"
+"店員
+「いらっしゃい」<wait>{END}","Clerk:<nl>
+ Welcome to Marion.<wait>{END}"
+"店員
+「どうしたの、お客さん？」<wait>{END}","Clerk:<nl>
+ Oh, is something wrong, sir?<wait>{END}"
+"<Cless>
+「あの・・・」
+<pause>
+{END}","<Cless>:<nl>
+ Well, uh...
+<pause>
+{END}"
+"<Cless>
+「そこのブッシュベイビー・・・」<wait>{END}","<Cless>:<nl>
+ ...a bush baby has snuck up behind
+ you...<wait>{END}"
+"店員
+「えっ！？」{END}","Clerk:<nl>
+ Huh!?{END}"
+"店員
+「・・・もう！
+　また、雑貨屋のペットね！」
+<pause>
+店員
+「まったく、いつのまに入りこん
+　でいたのかしら？」{END}","Clerk:<nl>
+ ...Argh!
+ Not again!
+<pause>
+Clerk:<nl>
+ That animal belongs to the owner
+ of the Baby general store.
+<pause>
+Clerk:<nl>
+ But goodness, he's so sneaky.
+ How did he get in here this time?{END}"
+"店員
+「キャァーーー！！」
+<pause>
+店員
+「誰か、そこのブッシュベイビー
+　を捕まえてぇーーー」{END}","Clerk:<nl>
+ AIEEEE!!!
+<pause>
+Clerk:<nl>
+ Somebody, catch that bush baby!!{END}"
+"お客さん
+「腹減ったなぁ〜っと」{END}","Customer:<nl>
+ I'm starving!{END}"
+"お客さん
+「おばはんビールくれ、ビール」{END}","Customer:<nl>
+ A beer, please, ma'am.
+ A BEER!{END}"
+"お客さん
+「買物、買物・・・」{END}","Customer:<nl>
+ What to buy, what to buy...{END}"
+"お客さん
+「今夜のおかずは何にしよう」{END}","Customer:<nl>
+ I wonder what sounds good for
+ dinner tonight...{END}"
+"<Suzu>
+「わたしはここで待ってますから、
+　みなさんは行ってきて下さい」
+<pause>
+<Cless>
+「ちょっと待ってておくれよ」{END}","<Suzu>:<nl>
+ I shall wait here.
+ You may go on ahead.
+<pause>
+<Cless>:<nl>
+ Take care.
+ We'll be back in a bit.{END}"
+"<Suzu>
+「わたしは・・・」
+<pause>
+<Suzu>
+「わたしはここで待ってます」
+<pause>
+<Cless>
+「どうしたの？」
+<pause>
+<Suzu>
+「なんでもありません・・・」
+<pause>
+<Cless>
+「・・・・・・」
+<pause>
+<Suzu>
+「すみません、行きたくないんで
+　す・・・」
+<pause>
+<Suzu>
+「ここから先には・・・」
+<pause>
+<Cless>
+「そっ、そうか・・・」
+<pause>
+<Cless>
+「気がつかなくて、ごめん・・・」
+<pause>
+<Suzu>
+「お気になさらずに、みなさんで
+　行ってきて下さい」
+<pause>
+<Suzu>
+「わたしはここで待ってますから」
+<pause>
+<Cless>
+「それじゃ、すぐ戻ってくるから、
+　少し待っていておくれよ」
+<pause>
+<Suzu>
+「おかまいなく」{END}","<Suzu>:<nl>
+ I...
+<pause>
+<Suzu>:<nl>
+ I will wait here.
+<pause>
+<Cless>:<nl>
+ Is something the matter?
+<pause>
+<Suzu>:<nl>
+ It is nothing for you to be
+ concerned about.
+<pause>
+<Cless>:<nl>
+ ......
+<pause>
+<Suzu>:<nl>
+ Pardon me, but I simply do not
+ wish to go.
+<pause>
+<Suzu>:<nl>
+ This is where...
+<pause>
+<Cless>:<nl>
+ Oh, that's right...
+<pause>
+<Cless>:<nl>
+ I'm sorry.
+ I didn't mean to be insensitive.
+<pause>
+<Suzu>:<nl>
+ Do not worry.
+ Go about your duty.
+<pause>
+<Suzu>:<nl>
+ I shall await your return.
+<pause>
+<Cless>:<nl>
+ I understand.
+ Then we'll try to make this quick.
+<pause>
+<Suzu>:<nl>
+ Please do not hurry for my sake.{END}"
+"<Cless>
+「お待たせ」
+<pause>
+<Suzu>
+「おかえりなさい」{END}","<Cless>:<nl>
+ Thanks for waiting.
+<pause>
+<Suzu>:<nl>
+ Welcome back.{END}"
+"<Chester>
+「宿屋に着くと落ち着くぜ」
+<pause>
+<Cless>
+「そうだな」{END}","<Chester>:<nl>
+It's always such a relief to
+arrive at an inn.
+<pause>
+<Cless>:<nl>
+Yeah.{END}"
+"<Klarth>
+「ふぅ・・・」
+<pause>
+<Klarth>
+「ユークリッドか<speed_0010>・・・<speed_00FF>」{END}","<Klarth>:<nl>
+Hmph...
+<pause>
+<Klarth>:<nl>
+Euclid, eh<speed_0010>...<speed_00FF>{END}"
+"<Klarth>
+「<speed_0010>・・・<speed_00FF>ミラルド」{END}","<Klarth>:<nl>
+Mirald<speed_0010>...<speed_00FF>{END}"
+"<Chester>
+（なあ<Cless>・・・）{END}","<Chester>:<nl>
+(Hey, <Cless>...){END}"
+"<Chester>
+（さっきからさ、なんか様子が変
+　じゃねえか？）{END}","<Chester>:<nl>
+(Is it just me, or has he been
+acting a little weird?){END}"
+"<Cless>
+（確かに・・・）{END}","<Cless>:<nl>
+(Definitely...){END}"
+"<Cless>
+「どうしたんですか？
+　<Klarth>さん・・・？」{END}","<Cless>:<nl>
+Is something the matter,
+<Klarth>?{END}"
+"<Klarth>
+「えッ・・・？」{END}","<Klarth>:<nl>
+Huh?{END}"
+"<Klarth>
+「あ、ああ・・・」
+<pause>
+<Klarth>
+「な、なんでもないんだ」{END}","<Klarth>:<nl>
+Ah, umm...
+<pause>
+<Klarth>:<nl>
+N-Not really.{END}"
+<color_0002><Klarth>は『<var_BF01>』の称号を得ました。<color_0000>{END},"<color_0002><Klarth> has earned the title
+“<var_BF01>.”<wait><color_0000>{END}"

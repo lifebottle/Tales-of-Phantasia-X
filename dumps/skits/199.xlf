@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_997">
+        <source>Elwyn and Nancy seem to
+be getting along very well.</source>
+        <target state="translated">Elwyn and Nancy seem to
+be getting along very well.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_998">
+        <source>Yes, they seem quite happy.</source>
+        <target state="translated">Yes, they seem quite happy.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_999">
+        <source>It must be...love&lt;heart&gt;</source>
+        <target state="translated">It must be...love&lt;heart&gt;</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1000">
+        <source>Told you it'd work out.</source>
+        <target state="translated">Told you it'd work out.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_089">
+        <source>Efreet!!</source>
+        <target state="translated">Efreet!!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="skit_090">
+        <source></source>
+        <target/>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_091">
+        <source>...N-now what are you up to?</source>
+        <target state="translated">...N-Now what are you up to?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_092">
+        <source>They say “Focus your mind and you shall feel
+cool amidst even the fiercest of flames.”</source>
+        <target state="translated">They say “Focus your mind and you shall feel
+cool amidst even the fiercest of flames.”</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_093">
+        <source>Yeah, and...?</source>
+        <target state="translated">Yeah, and...?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_094">
+        <source>I figured we'd start
+cooling off, of course.</source>
+        <target state="translated">I figured we'd start
+cooling off, of course.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_095">
+        <source>This is your idea of “cool”?</source>
+        <target state="translated">This is your idea of “cool”?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_096">
+        <source>Do penguins fly?</source>
+        <target state="translated">Do penguins fly?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

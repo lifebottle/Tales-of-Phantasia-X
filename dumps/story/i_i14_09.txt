@@ -1,0 +1,645 @@
+<color_0002>休みますか？<color_0000>{END}
+
+<unk1><Cless>
+<Mint>、<Mint>！
+敵だ、起きてくれ！！」
+<pause>
+<Mint>
+・・・・・・」
+<pause>
+<Mint>
+何だか気分がすぐれません」
+<pause>
+<Mint>
+船酔いしたようです・・・」
+<pause>
+<Cless>
+<Mint>は戦える状態じゃ
+ないぞ・・・」{END}
+
+<Cless>
+「<Arche>、<Arche>！
+　敵だ！起きろ！」
+<pause>
+<Arche>
+「だめぇ〜〜〜・・・」
+<pause>
+<Arche>
+「おなかがいたいぃ〜・・・」
+<pause>
+<Cless>
+「だ、だめだこりゃ<sweat>」{END}
+
+<Klarth>
+「ふ、二日酔いだ・・・」
+<pause>
+<Klarth>
+「頭がガンガン痛む・・・」{END}
+
+船乗り
+「ううぅ、気持ち悪い・・・」
+<pause>
+船乗り
+「船酔いしました・・・」{END}
+
+船乗り
+「船長いなかった？」
+<pause>
+船乗り
+「町にでも出かけたかな？」
+<pause>
+船乗り
+「たぶん、すぐに戻ってくるとは
+　思うけど・・・」{END}
+
+船乗り
+「船長なら、たぶん船長室じゃな
+　いかな？」
+<pause>
+船乗り
+「用があるなら行ってみればいい
+　んじゃないか」{END}
+
+バーテン
+「いらっしゃい」{END}
+
+船乗り
+「こう待ってるだけっていうのも
+　退屈だよな」{END}
+
+船乗り
+「のんびり行こうよ、のんびり」{END}
+
+船乗り
+「よ、何か買わねえか？」{END}
+
+船乗り
+「どうも！」
+<pause>
+船乗り
+「へっへっへ、いいこづかい稼ぎ
+　だぜ！」{END}
+
+船乗り
+「何か買ってよ」{END}
+
+船乗り
+「さて、次は何を運ぼうか？」{END}
+
+船乗り
+「積荷のチェックをしています」{END}
+
+船乗り
+「海の男にゃ〜、惚れるなよ〜」{END}
+
+船乗り
+「あーもー、仕事がきつすぎるん
+　だよ！！」{END}
+
+船乗り
+「いったい何者なんだよ、あの男
+　は・・・」{END}
+
+船長
+「あ、あんた！<panic>」
+<pause>
+船長
+「は、早くあの男を何とかしてく
+　れ！！<panic>」
+<pause>
+船長
+「人間とは思えない力で暴れ回っ
+　ているんだ！！！<panic>」{END}
+
+船乗り
+「ひ〜〜〜、怖いよ〜〜〜」{END}
+
+<audio_0B05><Cless>
+「メイアーさん！」
+<pause>
+<audio_0B06><Cless>
+「しっかりするんだ！！」
+<pause>
+<audio_0B07>メイアー
+「た、助けて・・・」{END}
+
+<audio_0B08><Klarth>
+「<Cless>、大丈夫か！！」
+<pause>
+<audio_0B09><Cless>
+「メイアーさんに魔物がとりつい
+　ていました・・・」
+<pause>
+<audio_0B0A><Klarth>
+「たぶんダオスの側近だな」
+<pause>
+<audio_0B0B><Klarth>
+「アルヴァニスタの内情を知る私
+　達を殺そうとしたんだ」
+<pause>
+<audio_0B0C><Klarth>
+「ところでメイアーは？」{END}
+
+<audio_0B0D><Klarth>
+「だめか・・・」
+<pause>
+<audio_0B0E><Klarth>
+「これからは私達も、うかうかし
+　ていられないぞ」
+<pause>
+<audio_0B0F><Klarth>
+「存在をダオスに知られてしまっ
+　たからな・・・」{END}
+
+<audio_0AC3><Klarth>
+「さて・・・」
+<pause>
+<audio_0AC4><Klarth>
+「私達はどこに座るかな・・・」
+<pause>
+<audio_0AC5>？？？
+「よぉ！！」{END}
+
+<audio_0AC6>メイアー
+「どうだ？」
+<pause>
+<audio_0AC7>メイアー
+「一緒に食べないか？」{END}
+
+<audio_0AC8><Klarth>
+「そうだな、ほかの席も空いてな
+　いみたいだし」{END}
+
+<audio_0AC9>メイアー
+「酒はどうだい？」
+<pause>
+<audio_0ACA>メイアー
+「いけるくちだろう？」{END}
+
+<audio_0ACB><Klarth>
+「いいねぇ〜！」<wait>{END}
+
+<audio_0ACC>メイアー
+「偶然の出会いにカンパイ！」
+<pause>
+<audio_0ACD><Klarth>
+「カンパーイ！」{END}
+
+<audio_0ACE>メイアー
+「おーい、どんどん持って来てく
+　れぇ〜」{END}
+
+<speed_0002>　　　　一時間後・・・{END}
+
+<audio_0ACF><Cless>
+「この二人、いつまで飲んでるん
+　だろう？<sweat>」{END}
+
+<speed_0002>　　　　ニ時間後・・・{END}
+
+<audio_0AD0><Cless>
+「<Arche>、大丈夫かな？<sweat>」{END}
+
+<speed_0002>　　　　三時間後・・・{END}
+
+<audio_0AD1>メイアー
+「でな、苦労して探し出した宝箱
+　を開けてみたら、底が抜けてい
+　たっていうわけよ！」
+<pause>
+<audio_0AD2><Klarth>
+「はっはっはっは」
+<pause>
+<audio_0AD3><Klarth>
+「そりゃあケッサクだ！！」{END}
+
+<audio_0AD4>メイアー
+「ところで・・・」
+<pause>
+<audio_0AD5><Klarth>
+「ところで？」
+<pause>
+<audio_0AD6>メイアー
+「ここだけの話なんだが・・・」
+<pause>
+<audio_0AD7><Klarth>
+「なんだぁ？」<wait>{END}
+
+<audio_0AD8><Klarth>
+「もったいぶらずに、言ってみろ
+　よ・・・」
+<pause>
+<audio_0AD9>メイアー
+「俺は実はモーリア坑道に行くの
+　が目的じゃないんだ」
+<pause>
+<audio_0ADA><Klarth>
+「何だって？」<wait>{END}
+
+<Arche>
+「はう〜〜〜！」<wait>{END}
+
+<Arche>
+「だめよぉ<Cless>・・・」<wait>{END}
+
+<Arche>
+「そんなトコ触っちゃ・・・」{END}
+
+<audio_0ADE>メイアー
+「俺の本当の目的は・・・」
+<pause>
+<audio_0ADF>メイアー
+「冒険者ギルドの知り合いを通じ
+　て・・・」
+<pause>
+<audio_0AE0>メイアー
+「アルヴァニスタに関する秘密の
+　情報を売りに行くことなんだ」
+<pause>
+<audio_0AE1><Klarth>
+「情報？」
+<pause>
+<audio_0AE2>メイアー
+「そうさ」
+<pause>
+<audio_0AE3>メイアー
+「一見、平和に見えるアルヴァニ
+　スタだが・・・」
+<pause>
+<audio_0AE4>メイアー
+「実は、もうほとんどダオスに支
+　配されているようなもんだって
+　いう話なんだ」
+<pause>
+<audio_0AE5><Klarth>
+「何だって！？」
+<pause>
+<audio_0AE6><Klarth>
+「どうして？」
+<pause>
+<audio_0AE7>メイアー
+「ここが重要なんだが・・・」
+<pause>
+<audio_0AE8>メイアー
+「アルヴァニスタ王国で唯一の跡
+　取りである・・・」
+<pause>
+<audio_0AE9>メイアー
+「レアード王子がダオスの側近の
+　操り人形になっているらしいん
+　だ・・・」
+<pause>
+<audio_0AEA>メイアー
+「東方の大国ミッドガルズに匹敵
+　するアルヴァニスタが表立って
+　ダオスと争わない・・・」
+<pause>
+<audio_0AEB>メイアー
+「いや、争えないのは、裏にそう
+　いう理由があるからなのさ」<wait>{END}
+
+<audio_0AEC><Klarth>
+「おどろいたな・・・」<wait>{END}
+
+<Arche>
+「あい〜〜〜」<wait>{END}
+
+<unk1><Arche>
+<Cless>、ダメ、
+ダメだってばぁ〜」{END}
+
+<audio_0AEF>メイアー
+「と、とにかく、このことは絶対
+　秘密にしておいてくれよ」
+<pause>
+<audio_0AF0>メイアー
+「さてとそんじゃ、そろそろお開
+　きにするか・・・」
+<pause>
+<audio_0AF1><Klarth>
+「そうだな・・・」{END}
+
+<unk1><audio_0AF2><Klarth>
+<Arche>、そんな所で寝ると風邪をひくぞ」<wait>{END}
+
+<Arche>
+「<Cless>のばかぁ・・・」<wait>{END}
+
+<audio_0AF4><Klarth>
+「いったい、どういう夢を見てる
+　んだか<sweat>」{END}
+
+<audio_0AF5><Klarth>
+「よっこいしょ・・・」{END}
+
+<color_0002><speed_0001><Arche>は『<var_A901>』の称号を得ました。<color_0000>{END}
+
+<audio_0AF6><Klarth>
+「ほら<Arche>、着いたぞ」<wait>{END}
+
+<Arche>
+「ふわぁ〜い・・・」{END}
+
+<audio_0AF8><Cless>
+「あっ、メイアーさん、おはよう
+　ございます」
+<pause>
+<audio_0AF9><Cless>
+「どうしたんですか？」
+<pause>
+<audio_0AFA>メイアー
+「・・・・・・」<wait>{END}
+
+<audio_0AFB><Klarth>
+「<Cless>、危ない！！」{END}
+
+<audio_0AFC><Cless>
+「<Klarth>さん、何を！？」{END}
+
+<audio_0AFD><Klarth>
+「<Cless>、外だ！」
+<pause>
+<audio_0AFE><Klarth>
+「メイアーは操られているんだ」{END}
+
+<unk1><audio_0AFF><Cless>
+<Klarth>さん、
+大丈夫ですか！？」
+<pause>
+<audio_0B00><Klarth>
+うう・・・」
+<pause>
+<audio_0B01><Klarth>
+頭がいたい・・・」
+<pause>
+<audio_0B02><Klarth>
+完全に、二日酔いだ・・・」
+<pause>
+<audio_0B03><Cless>
+<Klarth>さんは休んでいて下さい」<wait>{END}
+
+<audio_0B04><Cless>
+「僕が行きます！！」{END}
+
+<audio_0AA0><Arche>
+「潮風が気持ちいいね〜」
+<pause>
+<audio_0AA1><Mint>
+「そうですね」{END}
+
+<unk1><audio_0AA2><Klarth>
+<Cless>、お前どっちをねらってるんだ？」<wait>{END}
+
+<unk1><audio_0AA3><Cless>
+えっ、何のことですか？」
+<pause>
+<audio_0AA4><Klarth>
+<Mint>と<Arche>のことさ」
+<pause>
+<audio_0AA5><Klarth>
+<Mint>は清楚で落ち着きがあっていいが・・・」
+<pause>
+<audio_0AA6><Klarth>
+<Arche>は<Arche>で捨てがたい魅力がある」<wait>{END}
+
+<audio_0AA7><Cless>
+「ちょ、ちょっと！」
+<pause>
+<audio_0AA8><Cless>
+「僕はまだそんなこと・・・」
+<pause>
+<audio_0AA9><Klarth>
+「またまた・・・」
+<pause>
+<audio_0AAA><Klarth>
+「私の好みで言わせてもらえばだ
+　なぁ・・・」
+<pause>
+<audio_0AAB><Cless>
+「<Klarth>さん！<panic>」
+<pause>
+{END}
+
+<unk1><audio_0AAC><Cless>
+だいたい<Klarth>さんには
+ミラルドさんがいるじゃない
+ですか！」<wait>{END}
+
+<audio_0AAD><Klarth>
+「ば、ばかなことを！<panic>」
+<pause>
+<audio_0AAE><Klarth>
+「あいつはただの助手だ！」
+<pause>
+<audio_0AAF><Cless>
+「え〜、本当ですか？」<wait>{END}
+
+<audio_0AB0><Arche>
+「ねぇねぇ、さっきから何の話を
+　してるのさ？」
+<pause>
+<audio_0AB1><Klarth>
+「なっ、何でもない」
+<pause>
+<audio_0AB2><Klarth>
+「うん、君達には関係ない、何で
+　もない話さ」
+<pause>
+<audio_0AB3><Arche>
+「あ〜、聞きた〜い！」{END}
+
+<audio_0AB4>？？？
+「あんたら、冒険者か？」
+<pause>
+<audio_0AB5><Klarth>
+「まあそんな所だが、あんたもか
+　い？」
+<pause>
+<audio_0AB6>？？？
+「俺はメイアー、流れの剣士さ」
+<pause>
+<audio_0AB7><Klarth>
+「傭兵志願か？」
+<pause>
+<audio_0AB8>メイアー
+「違うよ、モーリア坑道を探索し
+　に行くんだ」
+<pause>
+<audio_0AB9><Cless>
+「モーリア坑道に？」
+<pause>
+<audio_0ABA>メイアー
+「ドワーフ族の鉱山跡さ」
+<pause>
+<audio_0ABB>メイアー
+「名前くらいは聞いたことがある
+　だろう？」
+<pause>
+<audio_0ABC>メイアー
+「今はアルヴァニスタの許可がな
+　いと入れないけどな」
+<pause>
+<audio_0ABD><Klarth>
+「許可は取れそうなのか？」
+<pause>
+<audio_0ABE>メイアー
+「一応な、冒険者ギルドに知り合
+　いがいるんでね」
+<pause>
+<audio_0ABF>メイアー
+「そろそろ腹が減ってきたな、ぼ
+　ちぼちメシの時間だろう」
+<pause>
+<audio_0AC0>メイアー
+「それじゃあ、俺はこれで」{END}
+
+<audio_0AC1><Arche>
+「・・・なんか、あたしもおなか
+　すいちゃったよ」
+<pause>
+<audio_0AC2><Klarth>
+「私達も食事に行くか」{END}
+
+<audio_0FC8><Cless>
+「船長、この辺りでいいです」
+<pause>
+<audio_0FC9>船長
+「本当にここでいいのか？」
+<pause>
+<audio_0FCA><Klarth>
+「ああ、後は海中に潜るだけだか
+　らな・・・」
+<pause>
+<audio_0FCB><Klarth>
+「世話になったな」
+<pause>
+<audio_0FCC>船長
+「いや、いいってことよ」
+<pause>
+<audio_0FCD><Klarth>
+「よし、それじゃあ<var_D000>
+　を召喚するぞ」{END}
+
+<audio_0FCE><var_D000>
+「我が主よ、用件は何か？」
+<pause>
+<audio_0FCF><Klarth>
+「水の精霊<var_D000>よ」
+<pause>
+<audio_0FD0><Klarth>
+「私達を海底深くに沈んでいる、
+　超古代都市トールまで導いてほ
+　しい」
+<pause>
+<audio_0FD1><var_D000>
+「承知した」{END}
+
+<audio_0FD2><var_D000>
+「この泡の中に入るがよい」{END}
+
+<audio_0FD3>船長
+「何か不思議な連中だったな」<wait>{END}
+
+<audio_0FD4>船長
+「よし、お前ら、引き上げだ！」{END}
+
+<audio_15F4><Arche>
+「船の旅っていいよねぇ〜」
+<pause>
+<audio_15F5><Arche>
+「潮風が気持ちいい〜」{END}
+
+<audio_15F6><Mint>
+「みなさん、聞いて下さい」
+<pause>
+<audio_15F7><Cless>
+「どうしたの？」
+<pause>
+<audio_15F8><Mint>
+「ユグドラシルを復活させる方法
+　を考えていました」
+<pause>
+<audio_15F9><Mint>
+「私の法術でなんとかならないか
+　と・・・」
+<pause>
+<audio_15FA><Mint>
+「でも、今の私の力ではどうする
+　こともできません」
+<pause>
+<audio_15FB><Klarth>
+「それで？」
+<pause>
+<audio_15FC><Mint>
+「ユニコーンの力を借りようと思
+　います」
+<pause>
+<audio_15FD><Cless>
+「ユニコーン？」
+<pause>
+<audio_15FE><Mint>
+「ユニコーンは法術師の証し」
+<pause>
+<audio_15FF><Mint>
+「この世界のどこかにいるはずで
+　す」
+<pause>
+<audio_1600><Klarth>
+「しかし・・・」
+<pause>
+<audio_1601><Klarth>
+「ユニコーンに会えたとしても、
+　そう都合よく力を貸してくれる
+　だろうか？」<wait>{END}
+
+<audio_1602><Mint>
+「それは・・・わかりません」
+<pause>
+<audio_1603><Mint>
+「わかりませんが・・・」
+<pause>
+<audio_1604><Cless>
+「今はそれしか頼れないってこと
+　なんだね」
+<pause>
+<audio_1605><Cless>
+「<Mint>行こうよ」
+<pause>
+<audio_1606><Cless>
+「ユニコーンを捜しに、きっと見
+　つかるよ」<wait>{END}
+
+<audio_1607><Mint>
+「<Cless>さん、・・・」
+<pause>
+<audio_1608><Mint>
+「ありがとうございます」
+<pause>
+<audio_1609><Klarth>
+「そうと決まれば早速行動だな」{END}
+
+<unk1><audio_1776><Cless>
+<Klarth>さん、
+僕はいったい・・・」<wait>{END}
+
+<audio_1777><Klarth>
+「メイアーにとりついていた魔物
+　にやられたんだ」
+<pause>
+<audio_1778><Klarth>
+「でも、もう大丈夫だ」
+<pause>
+<audio_1779><Cless>
+「メイアーさんは？」{END}
+
+<audio_177A><Cless>
+「そうですか・・・」
+<pause>
+<audio_177B><Klarth>
+「これからは私達も、うかうかし
+　ていられないぞ」
+<pause>
+<audio_177C><Klarth>
+「存在をダオスに知られてしまっ
+　たからな・・・」{END}
+

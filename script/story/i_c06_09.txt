@@ -1,0 +1,1406 @@
+<Cless>:<nl>
+ That was a close call...
+<pause>
+<Klarth>:<nl>
+ Let's try this again, but this time make sure we keep our distance from the guards.{END}
+
+King:<nl>
+ I shall await fortuitous news.{END}
+
+King:<nl>
+ If there's anything you need, do
+ not hesitate to ask.{END}
+
+Queen:<nl>
+ I pray that the Goddess of Felicity
+ may smile upon you wherever you
+ may go.{END}
+
+Guard:<nl>
+ Take care.{END}
+
+Guard:<nl>
+ Get out there and kick some ass!{END}
+
+Guard:<nl>
+ Welcome to Alvanista Castle.{END}
+
+Guard:<nl>
+ Please behave in front of His
+ Highness.{END}
+
+Maid:<nl>
+ I am the maid assigned to His
+ Majesty.
+<pause>
+Maid:<nl>
+ Even in such a lowly position, one
+ must never lose one's pride!{END}
+
+Maid:<nl>
+ I'm so relieved that the
+ prince is back to normal.
+ I wondered why he suddenly
+ became so cold one day...{END}
+
+Man:<nl>
+ All the elves spread about the
+ middle continent unified and took
+ residence in Ymir Forest.
+<pause>
+Man:<nl>
+ I can't seem to remember the
+ reason why, though...{END}
+
+Maid:<nl>
+ During the Great Elven Migration,
+ human and elf couples were forced
+ to break up against their will...
+<pause>
+Maid:<nl>
+ They must have been devastated.
+ Even now, I'm sure many of the
+ poor things are struggling to put it
+ behind them.{END}
+
+Man:<nl>
+ Some people in Midgard have been
+ studying a “new kind of power.”
+ They say it's going to replace
+ magic several years from now.
+<pause>
+Man:<nl>
+ Magitechnology, I believe it was.
+ It's supposedly a science that
+ allows humans to manipulate magic,
+ but it sounds kinda sketchy.{END}
+
+Guard:<nl>
+ I've heard the lake in Ymir Forest
+ is swimming with trees--literally.
+ Lots of them in growing tall right
+ in the water.
+<pause>
+Guard:<nl>
+ It sounds kind of surreal.
+ I hope I get posted there someday
+ so I can see it for myself.{END}
+
+Mage:<nl>
+ The elves of this country are
+ firmly opposed to forming an
+ alliance with Midgard in the war.
+<pause>
+Mage:<nl>
+ Aargh!
+ I just can't understand why!
+<pause>
+Mage:<nl>
+ What's wrong with assisting
+ Midgard, our ally!?{END}
+
+Maid:<nl>
+ War, war, war...<nl>
+ That's all everyone talks about, but
+ I'm not interested in it.
+<pause>
+Maid:<nl>
+ I suppose it'd be pretty boring if it
+ was too peaceful, though.{END}
+
+Man:<nl>
+ Are the elves just uneasy because
+ we humans are starting to use
+ some form of magic?
+<pause>
+Man:<nl>
+ It'd make sense, since there are a
+ lot more of us than there are of
+ them.{END}
+
+Sentry:<nl>
+ A sentry's job is harder than it
+ looks.
+<pause>
+<Cless>:<nl>
+ Excuse me, but do you know
+ anything about spirits?
+<pause>
+Sentry:<nl>
+ Uh...<nl>
+ Why are you asking someone like
+ me? Why not try one of the
+ researchers--
+<pause>
+Sentry:<nl>
+ Wait, hold on a second!
+<pause>
+Sentry:<nl>
+ I remember hearing an old folk
+ tale about a spirit some time ago.
+ That's right, it was called
+ “Tale of the Spirit”!
+<pause>
+Sentry:<nl>
+ Once upon time, before monsters
+ came into being...
+<pause>
+Sentry:<nl>
+ ...a few villains took it upon
+ themselves to spread a poison
+ throughout the world.
+<pause>
+Sentry:<nl>
+ They had a belief that it would
+ enable them reign over the entire
+ planet.
+<pause>
+Sentry:<nl>
+ The Spirit of the Moon saw their
+ efforts, and descended to the
+ surface in order to stop them.
+<pause>
+Sentry:<nl>
+ These villains were cunning,
+ however, and anticipated her
+ action.
+<pause>
+Sentry:<nl>
+ They knew her power was drawn
+ from moonlight, so they waited
+ until the night of a new moon and
+ captured her.
+<pause>
+Sentry:<nl>
+ These villains were said to be the
+ kings of the land, and, uh...
+<pause>
+Sentry:<nl>
+ ......
+<pause>
+<Cless>:<nl>
+ Okay, and...?
+<pause>
+Sentry:<nl>
+ Sorry, I forgot the rest of it...{END}
+
+Original Subtraction Guru:<nl>
+ Look, I admitted defeat, okay?
+ No need to stone a dead horse.{END}
+
+Subtraction Guru:<nl>
+ Let's try this one more time!
+<pause>
+{END}
+
+Subtraction Guru:<nl>
+ You there--would you like to play
+ a little game?
+<pause>
+Subtraction Guru:<nl>
+ I'll give you a prize...IF you can
+ manage to defeat me, that is!<wait>{END}
+
+<color_0002>Challenge him?<color_0000>{END}
+
+Subtraction Guru:<nl>
+ I await your challenge!{END}
+
+Subtraction Guru:<nl>
+ Need an explanation of the rules?{END}
+
+Subtraction Guru:<nl>
+ This is what I call the
+ Subtraction Game.
+ It's a glorious battle of
+ wits between you and I!
+<pause>
+Subtraction Guru:<nl>
+ The premise is simple: Just take
+ some rocks from the draw pile on
+ your turn.
+<pause>
+Subtraction Guru:<nl>
+ The player who picks up the
+ last one is the loser!
+ And no, you can't just
+ take all but one of them...
+<pause>
+Subtraction Guru:<nl>
+ You may only take one, two,
+ or three of them at a time.
+ No more, no less!
+<pause>
+Subtraction Guru:<nl>
+ Also, you only have a limited
+ amount of time to do this.
+ If you can't decide in time, you'll
+ have to take one by default.
+<pause>
+Subtraction Guru:<nl>
+ If you want to quit, just select
+ Cancel on your turn.<wait>{END}
+
+Subtraction Guru:<nl>
+ Okay, get in position!{END}
+
+Subtraction Guru:<nl>
+ There are <num5_C0005110> rocks in this pot.
+<pause>
+Subtraction Guru:<nl>
+ Would you like to go first?{END}
+
+Subtraction Guru:<nl>
+ Okay, let's go!<wait>{END}
+
+Subtraction Guru:<nl>
+ Giving up, huh?
+ I'll be awaiting your next challenge!{END}
+
+Subtraction Guru:<nl>
+ Meh...<nl>
+ You've rocked my world.
+ I admit defeat.
+<pause>
+Subtraction Guru:<nl>
+ I'm a man of my word.
+ Here, take your prize.<wait>{END}
+
+<color_0002>Acquired a Spirit Ring.<color_0000>
+<pause>
+Subtraction Guru:<nl>
+ Also, I guess I no longer have any
+ right to carry this title...
+<pause>
+Original Subtraction Guru:<nl>
+ I bow down to you, Subtraction
+ Guru.<wait>{END}
+
+<color_0002><Cless> has earned the title
+“Subtraction Guru.”<color_0000>{END}
+
+Subtraction Guru:<nl>
+ Meh...<nl>
+ I can't believe I lost.
+<pause>
+Subtraction Guru:<nl>
+ I guess I'll have to uphold
+ my end of the bargain.
+ Here's your prize.<wait>{END}
+
+<color_0002>Acquired a <item_7C00>.<color_0000>
+<pause>
+Subtraction Guru:<nl>
+ Meh...<nl>
+ You know, I want a rematch.
+ What do you say?{END}
+
+Subtraction Guru:<nl>
+ Sorry friend, but you lose.
+<pause>
+Subtraction Guru:<nl>
+ I await your next challenge!{END}
+
+Novice Musician:<nl>
+ I think the music in the castle must
+ suit the new age!
+<pause>
+Novice Musician:<nl>
+ Which makes me think of
+ something like this...{END}
+
+Adept Musician:<nl>
+ I think the castle music needs to be
+ delicate and solemn.
+<pause>
+Adept Musician:<nl>
+ Something like this...{END}
+
+Harrison:<nl>
+ The investigation team we recently
+ sent to Thor found curious
+ equipment scattered about that
+ projected illusions.
+<pause>
+Harrison:<nl>
+ Could this possibly be the
+ handiwork of monsters, as well?{END}
+
+Lundgrom:<nl>
+ There is an anomalous region in the
+ world that is enveloped in a
+ constant darkness.
+<pause>
+Lundgrom:<nl>
+ Of particular interest, I've heard of
+ a town there being affected.
+<pause>
+Lundgrom:<nl>
+ Why don't you take a look?
+ The locals may know something.{END}
+
+Lundgrom:<nl>
+ Millennia ago, during the so-called
+ Age of Antiquity, the three worldly
+ superpowers fought for authority
+ over the planet's mainland.
+<pause>
+Lundgrom:<nl>
+ Those three superpowers were
+ Odin, Fenrir, and Thor.
+<pause>
+Lundgrom:<nl>
+ At one point, an asteroid impacted
+ and destroyed Thor.
+<pause>
+Lundgrom:<nl>
+ Afterward, mysterious men arose
+ and put an end to the now
+ deadlocked war by destroying the
+ two remaining nations.
+<pause>
+Lundgrom:<nl>
+ The triad of armaments the men
+ employed, collectively known as the
+ Tria, allegedly still exist somewhere
+ in the world.
+<pause>
+Lundgrom:<nl>
+ It seems that, when fused
+ together, they will become a magic
+ sword capable of manipulating
+ time.
+<pause>
+Lundgrom:<nl>
+ If you want to know anything
+ more specific, I suggest you inquire
+ at the <color_0002>Magic Research Lab<color_0000>.
+<pause>
+Lundgrom:<nl>
+ I am expecting great things from
+ you.
+<pause>
+Lundgrom:<nl>
+ You are now the only ones this
+ world can rely on.{END}
+
+Soldier:<nl>
+ I heard that there was a set of
+ five collectibles known as the
+ “Principled Pentagon of
+ Providence”...
+<pause>
+Soldier:<nl>
+ Heh, try saying that three times
+ fast.{END}
+
+Swordsman:<nl>
+ A massive volcano stands tall in
+ Freyland. I went to check it out
+ with some other surveyors a while
+ ago.
+<pause>
+Swordsman:<nl>
+ We encountered a huge, flowing
+ lake of lava, as though the volcano
+ itself was enraged at our intrusion.
+<pause>
+Swordsman:<nl>
+ There was no way around it, so we
+ turned back.
+<pause>
+Swordsman:<nl>
+ A survey team that went out there
+ recently reported the same thing.{END}
+
+Woman:<nl>
+ There's some gossip going around
+ about a huge, old church in
+ Freezekiel.
+<pause>
+Woman:<nl>
+ So old, in fact, that available
+ evidence dates it back to the Age
+ of Antiquity.{END}
+
+Maid:<nl>
+ Would you like to try our royal
+ family's favored black tea?{END}
+
+Emily:<nl>
+ I'm Emily...the dreaming girl...
+<pause>
+Emily:<nl>
+ Ohh...<nl>
+ My dear superior...<wait>{END}
+
+Emily:<nl>
+ I want to laugh with you as we
+ run across a grassy meadow...{END}
+
+Emily:<nl>
+ I want you to eat the food I make
+ for you...{END}
+
+Emily:<nl>
+ I want you to caress my hair and
+ say “I love you!”...{END}
+
+Emily:<nl>
+ I want the two of us to write a
+ book filled with our love...{END}
+
+Emily:<nl>
+ I want to poke at your cute cheek
+ with my pinky...{END}
+
+Emily:<nl>
+ I want to do this and that with
+ you, and then some more of the
+ other stuff...{END}
+
+Maid:<nl>
+ Oh, of course!
+ Of course he is!{END}
+
+Maid:<nl>
+ We're trying to figure out just who
+ exactly Emily's got the hots for.{END}
+
+Librarian:<nl>
+ This is the library.{END}
+
+Maid:<nl>
+ I bet it's her superior!{END}
+
+Maid:<nl>
+ Suddenly, it turned out to be the
+ princess!
+<pause>
+Maid:<nl>
+ I kid, I kid!{END}
+
+Swordsman:<nl>
+ I came here from Midgard recently.
+<pause>
+Swordsman:<nl>
+ Just barely missed Dhaos' assault.<wait>{END}
+
+Swordsman:<nl>
+ Just knowing arcane artes isn't
+ enough. You've got to figure out
+ how to use them efficiently.{END}
+
+Swordsman:<nl>
+ You're a swordsman, huh?
+<pause>
+Swordsman:<nl>
+ Well, what do you think
+ of this arcane arte book?
+ You want it?
+<pause>
+Swordsman:<nl>
+ You can have it for 18000 gald!
+<pause>
+<color_0002>Buy it for 18000 gald?<color_0000>{END}
+
+Swordsman:<nl>
+ Come back if you change your
+ mind!{END}
+
+Swordsman:<nl>
+ Not enough cash!{END}
+
+<color_0002><Cless> learned
+<var_9B00>.<color_0000>
+<pause>
+Swordsman:<nl>
+ Thanks a lot, man.{END}
+
+Intellectual:<nl>
+ Would you like a lecture on books?{END}
+
+Intellectual:<nl>
+ Oh, okay.{END}
+
+Intellectual:<nl>
+ There are three types of books
+ essential to you all.
+<pause>
+Intellectual:<nl>
+ First: arcane arte books. These are
+ complicated texts understood only
+ by experienced swordsmen which
+ teach new arcane artes.
+<pause>
+Intellectual:<nl>
+ Second: spell books.
+ Inscribed within are incantations.
+ Magic users can memorize their
+ contents to cast new spells.
+<pause>
+Intellectual:<nl>
+ Third: grimoires. These books are
+ useful for summoning research.
+ Some are enchanted, making them
+ effective weapons.
+<pause>
+Intellectual:<nl>
+ And...that about covers it.{END}
+
+Soldier:<nl>
+ Hey, have you guys ever heard of
+ an exotic dish called “Miso Stew”?
+<pause>
+Soldier:<nl>
+ They say it's popular with ninja.
+<pause>
+Soldier:<nl>
+ Sounds a little too far
+ out there for me, though.
+ I'm just a simple man that
+ was raised on Curry...{END}
+
+Guard:<nl>
+ This is the door to the princess'
+ room.
+<pause>
+Guard:<nl>
+ Don't try anything sneaky in there!{END}
+
+Guard:<nl>
+ This is the door to the prince's room.{END}
+
+Guard:<nl>
+ The princess...<nl>
+ What a beauty.{END}
+
+Guard:<nl>
+ Thankfully, with the prince back to
+ his old self, our country is peaceful
+ once again.{END}
+
+Woman:<nl>
+ My boyfriend is an adventurer, so I
+ hear a lot of interesting stuff from
+ him.
+<pause>
+Woman:<nl>
+ He told me that the pirate captain
+ Aifread had over twenty hideouts
+ all over the world!
+<pause>
+Woman:<nl>
+ I can hardly imagine how difficult
+ it would be to find them all...{END}
+
+Mage:<nl>
+ We've come across much fascinating knowledge from examining
+ records from the Age of Antiquity.
+<pause>
+Mage:<nl>
+ One of the most popular items
+ revealed that the spirit, Origin,
+ apparently had powers of
+ regeneration.
+<pause>
+Mage:<nl>
+ With this power, Origin could return
+ fragmented objects to wholeness,
+ but even more interestingly...
+<pause>
+Mage:<nl>
+ ...it was noted that Origin could
+ synthesize entirely new items with
+ the right materials.
+<pause>
+Mage:<nl>
+ Tales of Origin have been amongst
+ the most persistent legends
+ throughout the ages...
+<pause>
+Mage:<nl>
+ It's no wonder such consistent,
+ detailed information about him
+ remains to this day.
+<pause>
+Mage:<nl>
+ I don't know Origin's precise
+ location, but my sixth sense is
+ telling me Heimdall, the sacred
+ elven precinct.
+<pause>
+Mage:<nl>
+ Refer to the ancient records
+ pertaining to Origin for more
+ information.{END}
+
+Man:<nl>
+ My ancestor called himself the
+ Subtraction Guru for a time in his
+ life.
+<pause>
+Man:<nl>
+ But since he always slagged his
+ opponents, he gave up that gig.
+  Now that that's history...<wait>{END}
+
+Man:<nl>
+ Today, I'm kicking off the Button
+ Game; a new game for a new era!
+<pause>
+Man:<nl>
+ It's easy! Just press buttons
+ in a special sequence, and you
+ take home a great prize!
+ Want to play?{END}
+
+Man:<nl>
+ Oh well, that's too bad.
+ I'll be waiting in case you change
+ your mind.{END}
+
+Man:<nl>
+ Before we begin, would you like an
+ explanation of the game's rules?{END}
+
+Man:<nl>
+ Basically, this is a game that tests
+ your memory.
+<pause>
+Man:<nl>
+ First, I'll quickly jot down a random
+ sequence of eight buttons on a
+ sheet of paper.
+<pause>
+Man:<nl>
+ Then I'll show it to you and
+ instruct you to replicate
+ that sequence.
+ Like this:
+<pause>
+Man:<nl>
+ Input this button sequence!<nl>
+ 
+ <0Dvar000110022A510E000FC0030016C00CC000C0><0Dvar000110022A510C000FC0030016C00CC000C0><0Dvar000110022A510A000FC0030016C00CC000C0><0Dvar000110022A5108000FC0030016C00CC000C0><0Dvar000110022A5106000FC0030016C00CC000C0><0Dvar000110022A5104000FC0030016C00CC000C0><0Dvar000110022A5102000FC0030016C00CC000C0><0Dvar000110022A5100000FC0030016C00CC000C0>
+<pause>
+Man:<nl>
+ Memorize the sequence while the
+ sheet is held up, which won't be
+ for very long!
+<pause>
+Man:<nl>
+ Once I hide the sheet, press the
+ buttons in the order you were
+ shown!
+<pause>
+Man:<nl>
+ Fail to replicate the sequence
+ exactly and you will lose.
+ Hope you have a good memory!
+<pause>
+Man:<nl>
+ Do you need the rules explained
+ again?{END}
+
+Man:<nl>
+ All righty, here we go...{END}
+
+<speed_0000>Man:<nl>
+ Input this button sequence!<nl>
+ 
+ <0Dvar000110022A510E000FC0030016C00CC000C0><0Dvar000110022A510C000FC0030016C00CC000C0><0Dvar000110022A510A000FC0030016C00CC000C0><0Dvar000110022A5108000FC0030016C00CC000C0><0Dvar000110022A5106000FC0030016C00CC000C0><0Dvar000110022A5104000FC0030016C00CC000C0><0Dvar000110022A5102000FC0030016C00CC000C0><0Dvar000110022A5100000FC0030016C00CC000C0><speed_FFFF>{END}
+
+Man:<nl>
+ Sorry, time's up!{END}
+
+Man:<nl>
+ Whoa!
+ You managed to do it!
+ Nicely done!<wait>{END}
+
+Man:<nl>
+ Bzzzt!
+ Incorrect!<wait>{END}
+
+Man:<nl>
+ Come back soon!{END}
+
+<speed_0000>You answered:__ <0Dvar0001100228510E000FC0030016C00CC000C0><0Dvar0001100228510C000FC0030016C00CC000C0><0Dvar0001100228510A000FC0030016C00CC000C0><0Dvar00011002285108000FC0030016C00CC000C0><0Dvar00011002285106000FC0030016C00CC000C0><0Dvar00011002285104000FC0030016C00CC000C0><0Dvar00011002285102000FC0030016C00CC000C0><0Dvar00011002285100000FC0030016C00CC000C0><nl>
+Correct answer: <0Dvar000110022A510E000FC0030016C00CC000C0><0Dvar000110022A510C000FC0030016C00CC000C0><0Dvar000110022A510A000FC0030016C00CC000C0><0Dvar000110022A5108000FC0030016C00CC000C0><0Dvar000110022A5106000FC0030016C00CC000C0><0Dvar000110022A5104000FC0030016C00CC000C0><0Dvar000110022A5102000FC0030016C00CC000C0><0Dvar000110022A5100000FC0030016C00CC000C0><nl>
+Time taken: <0Evar001A513C000AC000C0>.<0Evar001A513C000BC0><0Avar0009C006000AC000C0> seconds<nl>
+Number of buttons pressed: <num5_C0005104><speed_FFFF><wait>{END}
+
+Man:<nl>
+ The prize is all yours!
+ Come back again!<wait>{END}
+
+<color_0002>Acquired <a/an><num3_C000511A>.<color_0000>{END}
+
+“Forms of Ancient Language 1”
+<pause>
+Archaeologists generally agree that
+two primary languages developed
+during the Age of Antiquity.
+<pause>
+They have designated one of them
+as the “Higher Language,” which
+likely first came into use between
+ten and a hundred millennia ago.
+<pause>
+The other has been called the
+“Common Language,” which is
+thought to be the source of modern
+languages.
+<pause>
+The numerous stone slabs
+discovered engraved with scripture
+composed in both languages strongly
+supports this theory.{END}
+
+“Forbidden Spells”
+<pause>
+Of the magic spells of this world,
+there exist so-called “Forbidden
+Spells” which have been sealed
+away.
+<pause>
+Among these spells is one which
+calls for the sacrifice of the caster.
+<pause>
+This is conducted by converting
+all of the caster's willpower into
+thermal energy as well as their
+magic power into pressure,
+resulting in a powerful spontaneous
+combustion of sorts.
+<pause>
+Just before the spell activates, a
+barrier envelops the area around
+the body, limiting the range of the
+explosion. It is not certain why this
+occurs.
+<pause>
+A theory gaining prominence is that
+the limited range naturally packs
+the combustive energy more
+densely, allowing the explosion to be
+smaller yet more destructive.{END}
+
+“Healing Artes”
+<pause>
+Destruction is the chief property of
+magic, but there also exists a
+miraculous power of restoration.
+<pause>
+It is known that there are different
+factors in one's ability to command
+these two powers, but current
+research is incomplete.
+<pause>
+Destructive spells are the simple
+result of a caster's innate magical
+ability, but those of the restorative
+class are thought to be a gift from
+the Mother Goddess.
+<pause>
+However, the truth behind the
+ability to use restorative spells is
+still shrouded in much mystery, as
+the existence of the Goddess herself
+is yet to be proven.{END}
+
+“Our Planet-Moon System”
+<pause>
+The moons visible to the naked eye
+are called Sylvarant and Tethe'alla.
+Sylvarant is the larger of the two,
+and Tethe'alla the smaller one.
+<pause>
+These two moons orbit around the
+planet on which we live.
+<pause>
+Sylvarant's orbital period is
+approximately 35 days, while
+Tethe'alla's is approximately 42.
+<pause>
+Quite astoundingly, a countless
+number of asteroids are suspended
+between the two moons, affected
+by the moons' mutual gravitational
+forces.
+<pause>
+Unfortunately, these objects are too
+minuscule to be seen with
+an unaided eye--telescopes are
+necessary to observe them.{END}
+
+“About the Ancient City of Thor”
+<pause>
+During its golden age, the civilization
+of Thor was comprised of an
+enormous nation, the likes of which
+have still not been seen.
+<pause>
+The bedrock of this nation was its
+incredibly advanced science and
+technology.
+<pause>
+However, the country later
+developed extremely insular and
+xenophobic tendencies.
+<pause>
+This is thought to have been
+because of the technology Thor's
+population grew up with.
+<pause>
+Likely due to prolonged exposure to
+their technology, the country's
+people seem to have possessed
+some very unique racial
+characteristics.{END}
+
+“Forbidden Spells - Addendum”
+<pause>
+Spells controlling the very fabric of
+space and time have been widely
+regarded as extremely dangerous
+and has thus been sealed since
+antiquity.{END}
+
+“Music of Antiquity”
+<pause>
+Unlike today, extremely high tempo
+music was in fashion in ancient
+civilizations.
+<pause>
+“Electric guitars,” guitars using
+electricity, played chords to the
+rhythm of percussion instruments
+called “drums.”
+<pause>
+“Bass”--a low-frequency
+sound--was produced by
+instruments such as the “double
+bass.”
+<pause>
+One of the most intriguing
+instruments was the “keyboard,” a
+sort of electric piano used in
+performances.{END}
+
+<Cless>:<nl>
+ Uhh...<nl>
+ Looks like there's a diary mixed in
+ with the books here...
+<pause>
+Date: ??/??/????<nl>
+Weather: Sunny and Clear
+<pause>
+Dear Diary,<nl>
+Today was the best!<nl>
+I got to talk to HIM!<nl>
+Oh, how he makes me squeal like a
+little girl <panic>
+<pause>
+He's got it all! He towers over me,
+has the face of a model... Wow, for
+me to be able to chat with such a
+perfect guy...
+<pause>
+...ohh, just the thought puts Emily on
+cloud nine <heart>
+<pause>
+But I guess it could have gone
+better... My heart was fluttering like
+crazy with him right in front of
+me...
+<pause>
+I...I wanted to stay with him longer,
+but I just couldn't think of anything
+interesting to talk about<sweat>
+<pause>
+Ohh, my dear superior... <heart>
+<pause>
+<Cless>:<nl>
+ What the heck is this doing in a
+ place like this!? Does she WANT
+ other people to read this!?{END}
+
+<Cless>:<nl>
+ There's a ton of rocks in this thing.
+ It's not going anywhere no matter
+ how hard I push it...{END}
+
+<Cless>:<nl>
+ There doesn't seem to be anything
+ in this...{END}
+
+<audio_0B32><Arche>:<nl>
+ Whew, that's everyone <panic>
+<pause>
+<audio_0B33><Klarth>:<nl>
+ Dhaos' henchman should be near
+ the prince. At this hour, finding his
+ chambers should be our priority.
+<pause>
+<audio_0B34><Klarth>:<nl>
+ Act with stealth, people...{END}
+
+<audio_0B72>Lundgrom:<nl>
+ I ask that you state your reason
+ for infiltrating this castle under
+ cover of nightfall.<wait>{END}
+
+<audio_0B73><Klarth>:<nl>
+ In order to save the prince.{END}
+
+<audio_0B74>Laird:<nl>
+ Wh-What craziness is--
+<pause>
+<audio_0B75>King:<nl>
+ <var_E700>, Laird!
+<pause>
+<audio_0B76>King:<nl>
+ You know nothing.
+<pause>
+<audio_0B77><Klarth>:<nl>
+ Your Majesty, if I may...<nl>
+ At this time, powerful magic is of
+ utmost importance to us.
+<pause>
+<audio_0B78><Klarth>:<nl>
+ With your country being the
+ world's authority on the subject,
+ our presence here should be of no
+ surprise.
+<pause>
+<audio_0B79>Lundgrom:<nl>
+ You need magic?
+ What for?
+<pause>
+<audio_0B7A><Klarth>:<nl>
+ It's Dhaos' only vulnerability.
+ As you might glean from what I've
+ said, our journey is to defeat him.
+<pause>
+<audio_0B7B>King:<nl>
+ What!? Truly!?
+<pause>
+<audio_0B7C>King:<nl>
+ Hmm... I suppose that settles it.
+<pause>
+<audio_0B7D>King:<nl>
+ I summoned you all to my throne
+ to determine if you were mere
+ thieves who saved Laird by
+ chance...
+<pause>
+<audio_0B7E>King:<nl>
+ ...or if your purpose truly was to
+ save him.
+<pause>
+<audio_0B7F>King:<nl>
+ It would appear your intentions
+ were pure. I thank you from the
+ bottom of my heart.<wait>{END}
+
+<audio_0B80>Laird:<nl>
+ Dhaos was manipulating my every
+ move?
+<pause>
+<audio_0B81>Laird:<nl>
+ Father, surely this is a lie?
+<pause>
+<audio_0B82>King:<nl>
+ I do not speak in jest.
+<pause>
+<audio_0B83>King:<nl>
+ Our ability to mobilize forces
+ to provide assistance for the
+ oncoming war has been
+ suppressed until now.
+<pause>
+<audio_0B84>King:<nl>
+ Upon reflection, I have no doubts in
+ my mind that that was Dhaos'
+ objective.<wait>{END}
+
+<audio_0B85><Cless>:<nl>
+ Excuse me for asking, but there's a
+ war breaking out?
+<pause>
+<audio_0B86>Lundgrom:<nl>
+ Oh, haven't you at least heard any
+ rumors during your journeys?
+<pause>
+<audio_0B87>Lundgrom:<nl>
+ Well, anyway, the time draws near
+ for Midgard, an ally of ours, to
+ clash with Dhaos' forces.
+<pause>
+<audio_0B88><Klarth>:<nl>
+ Aha, now that you mention it, I
+ remember some folks telling us
+ about something like that.
+<pause>
+<audio_0B89>King:<nl>
+ I wish to make you a proposition.
+ If and when you feel your quest
+ for spells has been met to your
+ satisfaction...
+<pause>
+<audio_0B8A>King:<nl>
+ Would you consider lending your
+ power toward the war effort?
+<pause>
+<audio_0B8B><Klarth>:<nl>
+ Absolutely.{END}
+
+<audio_0B8C>Lundgrom:<nl>
+ Now...<nl>
+ We thought you'd like to know that
+ the monster you dispatched left
+ some spoils behind.
+<pause>
+<audio_0B8D>Lundgrom:<nl>
+ Here's one of them.
+ I'm sure you'll find it
+ to be of use.
+<pause>
+<audio_0B8E>Lundgrom:<nl>
+ And--{END}
+
+<audio_0B8F><Klarth>:<nl>
+ Wait, this is a grimoire!
+ One I've been looking all over for!
+<pause>
+<audio_0B90><Klarth>:<nl>
+ Is it of no use to you?<wait>{END}
+
+<audio_0B91>Lundgrom:<nl>
+ Either way, I have no right to it.
+ I was not the one to slay the
+ monster, after all.
+<pause>
+<audio_0B92>Lundgrom:<nl>
+ It happened to be clutching this as
+ well...{END}
+
+<audio_0B93><Cless>:<nl>
+ A spear!?
+<pause>
+<audio_0B94>Lundgrom:<nl>
+ It is called Gungnir.
+<pause>
+<audio_0B95>Lundgrom:<nl>
+ It's a legendary artifact said to
+ have been forged during the final
+ battle of the gods.
+<pause>
+<audio_0B96>King:<nl>
+ ...You journey with the full
+ authority of Alvanista.
+ Show no restraint.
+<pause>
+<audio_0B97>King:<nl>
+ You may rely on us if ever
+ anything should ail you.
+<pause>
+<audio_0B98><Klarth>:<nl>
+ Thank you very much!
+<pause>
+<audio_0B99><Klarth>:<nl>
+ Let's get down to business, then.
+ I'd like an exploration permit for
+ the Moria Mine as soon as possible.
+<pause>
+<audio_0B9A>Lundgrom:<nl>
+ What do you need that for?
+<pause>
+<audio_0B9B>Lundgrom:<nl>
+ You're not going on a simple
+ treasure hunt, I take it.
+<pause>
+<audio_0B9C><Klarth>:<nl>
+ Correct.
+<pause>
+<audio_0B9D><Klarth>:<nl>
+ I've gotten some promising leads
+ that the ring necessary to pact
+ with the Spirit of the Moon, Luna, is
+ in there. It is vital to our cause.
+<pause>
+<audio_0B9E>King:<nl>
+ Hmm...<nl>
+ Very well.
+<pause>
+<audio_0B9F>King:<nl>
+ I shall have it prepared at once in
+ the name of your leader. Procure it
+ at the <color_0002>Adventurer's Guild<color_0000> in the city
+ at your earliest convenience.<wait>{END}
+
+<audio_0BA0>Lundgrom:<nl>
+ My research awaits, Your Highness.
+<pause>
+<audio_0BA1>Laird:<nl>
+ Then I shall also be returning to
+ my chambers.{END}
+
+<color_0002>Acquired the <item_5E01> pact ring,
+Gungnir, and a copy of Celaeno
+Fragments.{END}
+
+<speed_0000>Guard:<nl>
+ Who goes there!?{END}
+
+<audio_11DC>Harrison:<nl>
+ I have returned with them as
+ commanded.
+<pause>
+<audio_11DD>Lundgrom:<nl>
+ Well done.{END}
+
+<audio_11DE><Cless>:<nl>
+ Oh, Lundgrom!!{END}
+
+<audio_11DF><Chester>:<nl>
+ Huh?
+ You know this guy?
+<pause>
+<audio_11E0><Arche>:<nl>
+ Yeah.
+ He's the Court Mage around here.
+<pause>
+<audio_11E1><Arche>:<nl>
+ He saved our butts a
+ lot back in my time!
+ He knows, like, everything!<wait>{END}
+
+<audio_11E2><Mint>:<nl>
+ Truly we are blessed to be able to
+ see you again, Lundgrom...
+<pause>
+<audio_11E3>Lundgrom:<nl>
+ I don't have elven blood flowing
+ through my veins for nothing.
+<pause>
+<audio_11E4>Lundgrom:<nl>
+ I do wish we could have met again
+ under better circumstances,
+ though...
+<pause>
+<audio_11E5>Lundgrom:<nl>
+ But I am certainly happy to see
+ you again.
+<pause>
+<audio_11E6><Klarth>:<nl>
+ I feel the same way.
+<pause>
+<audio_11E7>Lundgrom:<nl>
+ Yeah.
+ There's so much I'd enjoy catching
+ up with you on, but His Majesty is
+ waiting for you.
+<pause>
+<audio_11E8><Cless>:<nl>
+ Right.
+ Let's go into the throne room.{END}
+
+<audio_11E9>Lundgrom:<nl>
+ Your Majesty the King, I present to
+ you the emissaries from the past.
+<pause>
+<audio_11EA>King of Alvanista:<nl>
+ You all have come such a long way.{END}
+
+<audio_11EB>King:<nl>
+ I believe you have already heard
+ this from Harrison, but Dhaos now
+ threatens the entire world.
+<pause>
+<audio_11EC>King:<nl>
+ He also possesses the power to
+ travel further into the future at
+ will.
+<pause>
+<audio_11ED>King:<nl>
+ It is quite evident that he will use
+ it to go further in time whenever
+ threatened, to repeat his cycle of
+ terror forevermore.
+<pause>
+<audio_11EE>King:<nl>
+ Something must be done about it.
+ We cannot allow this fruitless
+ struggle to continue any longer.
+<pause>
+<audio_11EF><Klarth>:<nl>
+ Absolutely.
+ Do you have any ideas or leads?
+<pause>
+<audio_11F0>Lundgrom:<nl>
+ We've retrieved information from
+ an ancient relic discovered at Thor.
+ It might be the death knell
+ of this vicious cycle.
+<pause>
+<audio_11F1><Cless>:<nl>
+ What's it about?
+<pause>
+<audio_11F2>Lundgrom:<nl>
+ Millennia ago, during the so-called
+ Age of Antiquity, the three worldly
+ superpowers fought for authority
+ over the planet's mainland.
+<pause>
+<audio_11F3>Lundgrom:<nl>
+ I'm sure you've heard this much at
+ least, but those superpowers were
+ known as Odin, Fenrir, and Thor.
+<pause>
+<audio_11F4>Lundgrom:<nl>
+ One fateful day, an asteroid struck
+ Thor, plunging it into the depths of
+ the sea.
+<pause>
+<audio_11F5>Lundgrom:<nl>
+ Afterward, mysterious men arose
+ and put an end to the then
+ deadlocked war by destroying the
+ two remaining nations.
+<pause>
+<audio_11F6>Lundgrom:<nl>
+ The men employed a triad of
+ armaments, collectively known as
+ the Tria.
+<pause>
+<audio_11F7>Lundgrom:<nl>
+ Records about them were included
+ in the documents we uncovered.
+<pause>
+<audio_11F8><Klarth>:<nl>
+ Grab hold of these things,
+ and we give Dhaos a taste
+ of ancient destruction?
+ Hmhm... I like it.
+<pause>
+<audio_11F9>Lundgrom:<nl>
+ Our study of the records revealed
+ that the fusion of them would
+ result in a magic sword capable of
+ manipulating time.
+<pause>
+<audio_11FA><Klarth>:<nl>
+ Something like that should allow us
+ to shackle him to this time period.
+<pause>
+<audio_11FB>Lundgrom:<nl>
+ Helpful, isn't it?
+<pause>
+<audio_11FC>Lundgrom:<nl>
+ Anyway, the people in the <color_0002>Magic
+ Research Lab<color_0000> can tell you more.
+<pause>
+<audio_11FD>King:<nl>
+ To think young ones such as
+ yourselves were able to defeat
+ Dhaos...
+<pause>
+<audio_11FE>King:<nl>
+ Your story--the tale that you
+ defeated Dhaos, the sworn enemy
+ of the world a hundred fifty years
+ ago...
+<pause>
+<audio_11FF>King:<nl>
+ ...has become legend throughout my
+ kingdom.
+<pause>
+<audio_1200>King:<nl>
+ But once again, it seems all we
+ have left is to depend upon you.
+<pause>
+<audio_1201>King:<nl>
+ I shall await fortuitous news.{END}
+
+<audio_1202>Lundgrom:<nl>
+ I see, you've finally acquired it!
+<pause>
+<audio_1203><Klarth>:<nl>
+ Yeah, that's one major thing down.
+ However, we've yet to find Dhaos.
+<pause>
+<audio_1204>Lundgrom:<nl>
+ A problem indeed.
+ Unfortunately, I have scarcely little
+ verified information on that.
+<pause>
+<audio_1205><Cless>:<nl>
+ Oh?
+<pause>
+<audio_1206>Lundgrom:<nl>
+ I've simply learned of something
+ highly unusual, but nothing more.
+<pause>
+<audio_1207>Lundgrom:<nl>
+ Have you heard of a region that,
+ for some time, has been enveloped
+ by a constant darkness?{END}
+
+<audio_1208>Lundgrom:<nl>
+ It is not a rumor--there is such a
+ place.
+<pause>
+<audio_1209>Lundgrom:<nl>
+ I know little about the area, but a
+ town called <color_0002>Early<color_0000> stands there.
+<pause>
+<audio_120A>Lundgrom:<nl>
+ Considering that Dhaos has the
+ power to control time...
+<pause>
+<audio_120B>Lundgrom:<nl>
+ I would not be surprised if he has
+ a hand in the situation there.
+<pause>
+<audio_120C><Klarth>:<nl>
+ Definitely suspicious. I can't tell if
+ that guy's going easy on us or
+ what. The darkness thing sounds
+ like a dead giveaway, honestly.
+<pause>
+<audio_120D>Lundgrom:<nl>
+ Agreed. Perhaps he positioned his
+ fortress in such a remote region in
+ an attempt to avoid arousing
+ suspicion or to buy time.{END}
+
+<audio_120E>Lundgrom:<nl>
+ Well, it's all just speculation.<wait>{END}
+
+<audio_120F><Klarth>:<nl>
+ It sounds more promising than
+ anything else I've heard all day.
+ We'll make this <color_0002>Early<color_0000> place our next
+ stop.
+<pause>
+<audio_1210>Lundgrom:<nl>
+ Very well.
+ I won't waste any more
+ of your time.
+<pause>
+<audio_1211>Lundgrom:<nl>
+ Best of luck to you.{END}
+
+<speed_0000><color_0002>There are <num5_C0005110> rock(s)
+in the draw pile.
+How many will you take?<color_0000><speed_FFFF>{END}
+
+<speed_0000><color_0002>There aren't that many left.
+Remainder: <num5_C0005110> rock(s)<color_0000><speed_FFFF>{END}
+
+Subtraction Guru:<nl>
+ I'm taking <num5_C0005112>.{END}
+

@@ -1,0 +1,220 @@
+<unk1><Mint>
+ Oh, <Cless>!
+<pause>
+<Mint>
+ I was so worried.
+ Thank goodness you're safe.<wait>{END}
+
+<Cless>
+ Yeah, not a scratch.
+<pause>
+<Cless>
+ Now let's get going.{END}
+
+<Arche>
+ Man, I thought I was gonna rot in
+ here!<panic>{END}
+
+<Chester>
+ <Cless>!
+ Man, am I glad to see
+ your face again.{END}
+
+<unk1><Klarth>
+ I think I've got it: The magic circle
+ we just fell victim to is a another
+ line of defense to keep intruders
+ out.
+<pause>
+<Klarth>
+ Dhaos' minions must be carrying
+ articles to prevent triggering it.{END}
+
+<Suzu>
+ Are you all right?{END}
+
+Sentry
+ I've been informed by the survey
+ team about you.
+<pause>
+Sentry
+ Please go on through.{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_CD00>.<color_0000>{END}
+
+<Cless>
+ But I don't have any use for it.
+ I'll put it back.{END}
+
+<color_0002>Forced the door open with the
+<num3_0000510A>.<color_0000>{END}
+
+<Cless>
+ Can't bend the bars with my bare
+ hands...{END}
+
+<color_0002>Pull the lever?<color_0000>{END}
+
+<Cless>
+ It's shut tight.{END}
+
+<Cless>
+ All right, let's move ahead!{END}
+
+<Cless>
+ Not yet...
+<pause>
+<Cless>
+ I have to find my friends first!{END}
+
+<color_0002>Pull the lever?<color_0000>{END}
+
+ “There lies a hidden passage in
+ these stairs.”{END}
+
+<Cless>
+ This looks like the place.
+<pause>
+<Cless>
+ But I don't see a castle anywhere...
+<pause>
+<Klarth>
+ Neither do I...
+<pause>
+<Klarth>
+ But based on that story Lundgrom
+ told, we shouldn't be too surprised.
+<pause>
+<Klarth>
+ He must be hiding his castle within
+ a temporal rift to keep outsiders
+ from seeing it.
+<pause>
+<Klarth>
+ It probably only reveals itself when
+ the monsters he controls need to
+ come and go...
+<pause>
+<Mint>
+ Would the Blade of Time be of
+ some help?
+<pause>
+<Klarth>
+ Oh, indeed!
+<pause>
+<Klarth>
+ Since it controls time itself, it
+ should be able to stabilize the rift,
+ making Dhaos' castle visible.
+<pause>
+<Cless>
+ Okay, here goes!{END}
+
+<Cless>
+ Blade of Time!
+<pause>
+<Cless>
+ Pull Dhaos' castle out from the
+ temporal rift!!{END}
+
+<Klarth>
+ Hahah, well! How about that!?
+ I was right!
+<pause>
+<Klarth>
+ Not bad for a mere guess, eh!?
+<pause>
+<Cless>
+ Sooo...
+ How do you suppose we reach the
+ castle from here?
+<pause>
+<Klarth>
+ Uh...<sweat>{END}
+
+<Klarth>
+ ...Good question.
+ <var_C600>-force winds like these
+ will just blow the Rheairds
+ away, which means--
+<pause>
+<Cless>
+ H-hey!
+<pause>
+<Cless>
+ The Blade of Time is glowing...{END}
+
+Ninja
+ Hah hah hah hah!
+<pause>
+Ninja
+ We's gonna kill you DEAD, sucka!!{END}
+
+Ninja
+ Hm hm hm hm!
+<pause>
+Ninja
+ This is where WE fight!
+ This is where YOU die!!{END}
+
+Ninja
+ Hoh hoh hoh hoh!
+<pause>
+Ninja
+ Without the proper use of force
+ applied to our persons, the
+ intruders, i.e. you (plural), will be
+ incapable of progressing!!{END}
+
+Ninja
+ Hee hee hee hee!
+<pause>
+Ninja
+ So, uh, yeah, you guys, like, can't
+ come any further until you,
+ uhhhh...right, until you, like, beat
+ us...I think.{END}
+
+Darkeye?
+ Ghihehehehe...
+<pause>
+Darkeye?
+ Let's brainwash all of you, too!
+<pause>
+Darkeye?
+ Then you will serve our lord:
+ Dhaos!!
+<pause>
+Darkeye?
+ Which means more glory for ME!
+ Ghihehehehe...{END}
+
+Sealeye?
+ Ssso you've come, inffferrriorrr
+ beingsss...{END}
+
+Sealeye?
+ Ffforrr you fffoolsss...
+<pause>
+Sealeye?
+ Thhherrre will be the grrreatessst
+ of sssightsss.
+<pause>
+Sealeye?
+ A deathhh overrrffflowing in
+ crrrimssson...{END}
+
+<Cless>
+ Thank goodness you're safe.{END}
+
+Sentry
+ This area is currently undergoing a
+ survey.
+<pause>
+Sentry
+ We cannot allow anyone entry until
+ the team conducting it has finished.{END}
+

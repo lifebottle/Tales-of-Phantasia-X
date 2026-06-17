@@ -1,0 +1,749 @@
+<unk1>Tristan
+ Remember, practice makes perfect.
+<pause>
+Tristan
+ Say... There's a little trick to
+ streamline the commanding of your
+ companions' arte usage. It may
+ come in handy at times.
+<pause>
+Tristan
+ Would you like me to teach you?{END}
+
+Tristan
+ First, you should decide which artes
+ are most advantageous to your
+ current situation...<wait>{END}
+
+<color_0002>If there are any artes you wish
+your allies to use repeatedly within
+a battle, you may find it much more
+convenient to utilize <color_0003>shortcuts<color_0002>.
+<pause>
+Shortcuts will allow you to command
+your allies to use specific artes in
+the midst of battle without having
+to spend time entering the Artes
+menu repeatedly.
+<pause>
+To set a shortcut, enter an ally's
+Artes menu during battle, move the
+cursor to the desired arte, and
+press either of the Arte Shortcut
+buttons (<var_0702> and <var_0802> by default).
+<pause>
+Immediately afterward, you will be
+able to designate a target on the
+battlefield: an enemy for offensive
+artes, and an ally for supportive
+artes.
+<pause>
+With the shortcuts set, your allies
+will use them on the designated
+target(s) immediately after pressing
+the buttons they're assigned to.
+<pause>
+Please note that an offensive artes'
+targeting will reset to default once
+the targeted enemy is defeated. You
+must reassign the shortcut(s) if you
+want to change targets.<wait>{END}
+
+Tristan
+ However mighty a swordsman, it is
+ not always possible for him to be
+ victorious by fighting in solitude.
+<pause>
+Tristan
+ By joining forces with comrades,
+ and effectively combining his
+ powers with theirs, he shall be
+ prepared for true challenges.{END}
+
+Tristan
+ Suit yourself, then.
+ Good luck.{END}
+
+<Cless>
+ Huh... A necklace?
+ What's this for?
+<pause>
+<Mint>
+ It's giving off a strange power.
+<pause>
+<Chester>
+ Looks like a plain old jewel to me.
+ Finders keepers, I say.
+<pause>
+<Cless>
+ Yeah, I guess so.
+<pause>
+<Cless>
+ Maybe we'll need it for
+ something anyway.<wait>{END}
+
+<color_0002>Acquired the <item_3300>.<color_0000>{END}
+
+<Cless>
+ Looks like this one isn't fixed to the
+ ground.
+<pause>
+<Cless>
+ What the!?
+<pause>
+<Cless>
+ It just moved on its own...{END}
+
+<color_0002>Reclaimed the <item_3300>.<color_0000>{END}
+
+<color_0002>Pull the lever?<color_0000>{END}
+
+<color_0002>Open the coffin?<color_0000>{END}
+
+<color_0002>Acquired a <item_5101>.<color_0000>{END}
+
+<color_0002>Acquired a <item_8E00>.<color_0000>{END}
+
+<color_0002>Acquired an <item_9200>.<color_0000>{END}
+
+<color_0002>Acquired a <item_1E01>.<color_0000>{END}
+
+<color_0002>Acquired a <item_8D00>.<color_0000>{END}
+
+<Cless>
+ It's shut tight.
+<pause>
+<Cless>
+ Some weird power seems to be
+ sealing it...{END}
+
+<Cless>
+ It won't open!?
+<pause>
+<Cless>
+ That's really weird...{END}
+
+<center>“None Should Enter”<endalign>{END}
+
+<Cless>
+ Well, this is strange...
+<pause>
+<Cless>
+ No knob or keyhole on this thing.
+<pause>
+<Cless>
+ Maybe it'll open up with something
+ else?{END}
+
+<Cless>
+ I wonder what this does...<wait>{END}
+
+<Cless>
+ Wh-whoa!
+<pause>
+<Cless>
+ I'm flying!
+<pause>
+<Cless>
+ I've always wanted to do this!
+<pause>
+<Chester>
+ ......{END}
+
+Morrison
+ Your descent into evil ends here,
+ Mars Uldor!
+<pause>
+Mars
+ Hmph, came all this way to
+ sightsee, did you...?
+<pause>
+Mars
+ Oh, how good of your
+ companions to join us.
+ How about we all sit down
+ for a nice spot of tea?{END}
+
+Morrison
+ You...
+<pause>
+Morrison
+ I told you to stay...{END}
+
+Morrison
+ Damnation!!
+<pause>
+Mars
+ Hahahah, well done, you fools...{END}
+
+<Chester>
+ Wh-what's going on!?
+<pause>
+Mars
+ The resurrection of the ancient
+ lord shall be complete!
+<pause>
+<Cless>
+ What does that mean!?
+<pause>
+Mars
+ Ah, yes indeed.
+ Take this knowledge as a parting
+ gift for your journey to the
+ afterlife...<wait>{END}
+
+<unk1>Mars
+ As you should know...
+<pause>
+Mars
+ ...the Valhalla War was a battle that
+ occurred about a hundred years
+ ago.
+<pause>
+Mars
+ The two greatest kingdoms of the
+ age had allied against a single
+ mighty lord, who wielded a
+ frightening, devastating power.
+<pause>
+Mars
+ That lord's name was Dhaos!!
+<pause>
+Mars
+ Despite his strength, he
+ was overcome by a group
+ of adventurers.
+<pause>
+Morrison
+ I know that well...
+<pause>
+Morrison
+ ...for I am descended from one of
+ those people.
+<pause>
+<Cless>
+ !?
+<pause>
+Morrison
+ Not just I.
+<pause>
+Morrison
+ <Cless>, you and the young lady
+ are...
+<pause>
+Morrison
+ ...also descended from those who
+ clashed with Dhaos long ago.{END}
+
+<Cless>
+ Me!?
+<pause>
+<Mint>
+ I am!?
+<pause>
+Morrison
+ You were not attacked by mere
+ chance...
+<pause>
+Morrison
+ But rather, due to the fate that
+ has encircled Dhaos since days of
+ old.
+<pause>
+Morrison
+ This man plots to resurrect Dhaos
+ for the sake of his own greed.
+<pause>
+Morrison
+ Is that not so, Free Knights
+ captain Mars Uldor?
+ Or should I say, former captain?
+<pause>
+Mars
+ Hmph... 
+ It is fated that Dhaos shall rise
+ again! Your struggle against me is
+ futile!
+<pause>
+<Cless>
+ ......
+<pause>
+<Chester>
+ Shut your trap, scumbag!{END}
+
+<Chester>
+ I don't care about Dhaos or this
+ “fate” crap. I'm not here for that!
+<pause>
+<Chester>
+ I'm<speed_0010>...
+<pause>
+<speed_FFFF><Chester>
+ I'm here to take YOU down for Ami,
+ bastard!
+<pause>
+Mars
+ Foolishness!
+ The seal is already undone!
+ You are too late!{END}
+
+Mars
+ Ohh<speed_0010>...
+<pause>
+<speed_FFFF>Mars
+ Behold!
+ This is Dhaos, the ancient lord!
+<pause>
+Mars
+ O Dhaos! O ancient lord!
+ Hear my command!
+<pause>
+Mars
+ My name is Mars<speed_0010>...
+<pause>
+<speed_FFFF>Mars
+ Mars Uldor...
+<pause>
+Dhaos
+ Hmhm...
+ O fool who does not realize that he
+ has become entangled by the
+ threads of fate.{END}
+
+Mars
+ What are you saying!?
+<pause>
+Mars
+ I released your seal!
+ I am your master!!
+<pause>
+Dhaos
+ The one who slew those who
+ sealed me, who seized the keys to
+ the seal which bound me, was none
+ other than myself.
+<pause>
+Dhaos
+ Shall I help you...
+<pause>
+Dhaos
+ ...recall the events that transpired
+ when you first visited this place
+ three months ago?{END}
+
+Mars
+ S-such tremendous folly!!<wait>{END}
+
+Morrison
+ This is bad!
+ Look out!!{END}
+
+Mars
+ What are you--!?<wait>{END}
+
+Dhaos
+ I have no further use for you.
+ Perish!<wait>{END}
+
+Mars
+ U-UWAHHH!!!!{END}
+
+Dhaos
+ Hmph. A fitting end for humans
+ who act purely in self-interest,
+ oblivious of the tremendous fate
+ that rests upon my shoulders.
+<pause>
+Dhaos
+ And now, for the lone survivor of
+ those who sealed me away...<wait>{END}
+
+Dhaos
+ You, over there!!{END}
+
+Dhaos
+ Do not think you are exempt from
+ your friends' fate.{END}
+
+Morrison
+ Listen!
+ He cannot be defeated
+ by the sword.
+<pause>
+Morrison
+ Hence I shall use a clerical arte to
+ send you to a very important place.
+<pause>
+Morrison
+ There, you must learn of his
+ weakness.
+<pause>
+Morrison
+ There is no other way!!{END}
+
+<Cless>
+ What do you mean!?
+<pause>
+Morrison
+ There's no time to explain!!
+<pause>
+Morrison
+ Here, take my book...
+<pause>
+<Cless>
+ Why!?
+<pause>
+Morrison
+ You must fulfill the bequest of
+ your parents and carry on their
+ mission!!
+<pause>
+Morrison
+ I beg of you...{END}
+
+Dhaos
+ Mwahahaha<speed_0020>...<speed_FFFF>die.{END}
+
+<Chester>
+ Dammit!!
+ There's not enough time!!{END}
+
+<Cless>
+ <Chester>!!
+<pause>
+<Mint>
+ Mr. Barklight!!{END}
+
+Morrison
+ <Chester>, hang in there!{END}
+
+<Cless>
+ Ahh!!<wait>{END}
+
+<Cless>
+ I dropped the <item_3300>...{END}
+
+Tristan
+ So you came after all.
+<pause>
+Tristan
+ Morrison should already be deep
+ within the mausoleum beyond that
+ door.
+<pause>
+Tristan
+ If you continue to follow him, stay
+ alert! Many undead creatures lurk
+ in the halls ahead.
+<pause>
+<Cless>
+ Got it!
+<pause>
+Tristan
+ Good.
+<pause>
+Tristan
+ Now, before you go, how about a
+ parting gift from your teacher?
+<pause>
+Tristan
+ I shall tell you about <color_0003>arcane artes<color_0000>.
+<pause>
+<Cless>
+ Wow, arcane artes, already?
+<pause>
+Tristan
+ That's right...
+<pause>
+Tristan
+ But first, let me ask: You have
+ indeed finished up to the third drill,
+ yes?
+<pause>
+<Cless>
+ Yes, and recently I finished up to
+ the fourth.
+<pause>
+Tristan
+ Mmm...
+<pause>
+Tristan
+ Then arcane artes should be no
+ trouble for you.
+<pause>
+Tristan
+ Now, listen well.
+<pause>
+Tristan
+ An arcane arte is a combination of
+ two base-level artes.
+<pause>
+Tristan
+ Only by training mind and body
+ daily...
+<pause>
+Tristan
+ ...and honing the requisite artes by
+ practicing them until mastery, will
+ it become possible to execute them
+ in concert.
+<pause>
+<Cless>
+ ......
+<pause>
+<Cless>
+ The concept sounds simple enough.
+<pause>
+Tristan
+ Well, that's just the first step.
+ Remember it.
+<pause>
+Tristan
+ Now, do you know what happens
+ when you combine <var_8100> and
+ <var_8200>?
+<pause>
+Tristan
+ They form the arcane arte
+ <var_9300>.
+<pause>
+<Cless>
+ Wow, do you think I can pull it off?
+<pause>
+Tristan
+ Come now, Miguel got the hang of
+ this one when he was just
+ fourteen.
+<pause>
+Tristan
+ Trust in your blood...
+<pause>
+Tristan
+ Though a wise man once said,
+ “practice makes perfect.”
+<pause>
+<Cless>
+ ......
+<pause>
+<Cless>
+ Understood.
+<pause>
+Tristan
+ Now show them what you can do!<wait>{END}
+
+<color_0002><Cless> learned
+<var_9300>.<wait><color_0000>{END}
+
+<color_0002><Cless> has earned the title
+“<var_8201>.”{END}
+
+Treasure Keeper
+ You won't have this treasure!{END}
+
+<Cless>
+ Argh!!
+ Crud...
+<pause>
+<Cless>
+ It fell to the floor below...{END}
+
+<speed_0002>???
+ <speed_0005>Wh-who are you!?<speed_007F>{12}{12}{12}{12}{12}<speed_FFFF>{END}
+
+<speed_0002>???
+ How could you know I'd be here!?<speed_007F>{12}{12}<speed_FFFF>{END}
+
+<speed_0002>???
+ NOOOOOOOOOO!!!<speed_007F>{12}{12}<speed_FFFF>{END}
+
+<speed_0002>???
+ At last...{END}
+
+<speed_0002>???
+ <speed_0008>It seems the duty entrusted to my
+ bloodline for generations is at an
+ end...{END}
+
+Dhaos
+ That was the light of time travel.
+<pause>
+Dhaos
+ Answer me...
+<pause>
+Dhaos
+ Where did you send them?
+<pause>
+Morrison
+ Ha, you think I'd tell you!?
+<pause>
+Dhaos
+ You impudent...
+<pause>
+Dhaos
+ I know not to what era you have
+ conveyed them, but...
+<pause>
+Dhaos
+ ...as you were unable to take
+ yourself along, I now know your
+ level of ineptitude.
+<pause>
+Morrison
+ ......
+<pause>
+Morrison
+ Curse you!!
+<pause>
+Dhaos
+ Mwahahaha...
+<pause>
+Dhaos
+ Now rot in this place with the rest
+ of the corpses!!{END}
+
+Dhaos
+ Y-you fools have returned!?
+<pause>
+Morrison
+ Ohh...
+<pause>
+<Chester>
+ <Cless>...
+<pause>
+<Cless>
+ Neither the world nor my friends
+ are yours to toy with!!
+<pause>
+Dhaos
+ Hmph...
+ Do not presume to understand me.
+<pause>
+Dhaos
+ I have been entrusted with a duty
+ whose importance you cannot
+ fathom. I shall see that it is
+ accomplished!!
+<pause>
+Dhaos
+ My destiny is too great to allow my
+ defeat in such a rancid hole as
+ this!!{END}
+
+<Cless>
+ We got him...<speed_007F>{12}{12}<speed_FFFF>{END}
+
+Morrison
+ Look out!
+ Quickly, this way!!<speed_007F>{12}{12}<speed_FFFF>{END}
+
+<Cless>
+ Wh-what the heck's happening!?<speed_007F>{12}{12}<speed_FFFF>
+<pause>
+Morrison
+ An enormous amount of energy
+ was probably unleashed when
+ Dhaos was resurrected!!<speed_007F>{12}{12}<speed_FFFF>
+<pause>
+Morrison
+ It must have torn into the planet's
+ crust!!<speed_007F>{12}{12}<speed_FFFF><wait>{END}
+
+<Cless>
+ Keep moving!!<speed_007F>{12}{12}<speed_FFFF>
+<pause>
+<Cless>
+ The mausoleum's collapsing!!<speed_007F>{12}{12}<speed_FFFF>{END}
+
+<unk1>Tristan
+ Ohhh, <Cless>, you're safe...<speed_007F>{12}{12}<speed_FFFF>
+<pause>
+{END}
+
+Tristan
+ Morrison!
+ What's all this infernal
+ shaking about!?<speed_007F>{12}{12}<speed_FFFF>
+<pause>
+<Cless>
+ Master Tristan!
+ You have to get out of
+ this place, now!!<speed_007F>{12}{12}<speed_FFFF>{END}
+
+<speed_0000><center>Dhaos, his strength exhausted,<endalign>
+<center>was enveloped by the lava,<endalign>
+<center>and vanished along with<endalign>
+<center>the collapsing mausoleum.<endalign>
+<speed_007F>{12}{12}<speed_FFFF>{END}
+
+<unk1><speed_0004><Cless>
+ Forgive me...<speed_007F>{12}{12}<speed_0004>
+<pause>
+<Cless>
+ <Mint> still hasn't learned
+ the truth about you.<speed_007F>{12}{12}<speed_0004>
+<pause>
+<Cless>
+ But you should know that she
+ continues to fight on with all of
+ her heart.<speed_007F>{12}{12}<speed_0004>
+<pause>
+<Cless>
+ Do you know this tree that shades
+ your grave?<speed_007F>{12}{12}<speed_0004>
+<pause>
+<Cless>
+ Look at it.<speed_007F>{12}{12}{12}<speed_0004>
+ It's the World Tree.<speed_007F>{12}<speed_0004>
+<pause>
+<Cless>
+ It was on its last breath, but your
+ daughter's steadfast devotion to
+ saving it is why it stands so
+ majestically.<speed_007F>{12}{12}<speed_0004>
+<pause>
+<Cless>
+ Knowing that, I hope you can rest
+ peacefully in this place.<speed_007F>{12}{12}<speed_0004>
+<pause>
+<Cless>
+ Once <Arche> and <Klarth>
+ return home, and things
+ settle down, I'll return.<speed_007F>{12}{12}<speed_0004>
+<pause>
+<Cless>
+ Please wait until then.<speed_007F>{12}{12}<speed_0004>{END}
+
+ <speed_0002>And thus...<speed_007F>{12}{12}<speed_FFFF>{END}
+
+ <speed_0002>...the day for <Klarth> the
+ summoner...<speed_007F>{12}{12}<speed_FFFF>{END}
+
+ <speed_0002>...and <Arche> the mage, had
+ arrived...<speed_007F>{12}{12}<speed_FFFF>{END}
+
+ <speed_0002>...the day that these two, comrades
+ in both joy and sorrow, had to
+ part ways...<speed_007F>{12}{12}<speed_FFFF>{END}
+
+Treasure Keeper
+ AHHHH!!
+ FRESH MEAT!!{END}
+
+ Error{END}
+
+<Cless>
+ Wh-what?
+<pause>
+<Cless>
+ My wounds are healing.{END}
+
+<color_0002>HP, TP and status were fully
+restored.<color_0000>{END}
+
+<unk1><Cless>
+ What's this weird diagram?
+<pause>
+<Chester>
+ I dunno, but hey--check out that
+ weird light in the middle.{END}
+

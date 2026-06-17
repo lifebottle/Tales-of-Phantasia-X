@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1007">
+        <source>I guess Nancy and Elwyn
+can now live happily ever after.</source>
+        <target state="translated">I guess Nancy and Elwyn
+can now live happily ever after.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1008">
+        <source>Yup. This was a “bad luck often
+brings good luck” sort of situation.</source>
+        <target state="translated">Yup. This was a “bad luck often
+brings good luck” sort of situation.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1009">
+        <source>So it worked out, you mean?</source>
+        <target state="translated">So it worked out, you mean?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1010">
+        <source>Ahem...</source>
+        <target state="translated">Ahem...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1011">
+        <source>...Anyway, it's good they reconciled.</source>
+        <target state="translated">...Anyway, it's good they reconciled.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1012">
+        <source>Yes, truly it is.</source>
+        <target state="translated">Yes, truly it is.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

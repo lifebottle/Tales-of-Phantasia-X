@@ -1,0 +1,152 @@
+Weapon Shop “Holy Knight”{END}
+
+Armor Shop “Holy Knight”{END}
+
+Grocery Store “Marion”{END}
+
+General Store “Baby”{END}
+
+Corner Store “Zoom Zoom”{END}
+
+Armor Shop “Double K.O.”{END}
+
+Tool Shop “Draw”{END}
+
+Peddler{END}
+
+Armor Shop “Bishop”{END}
+
+Tool Shop “Cat's Eye''{END}
+
+Greengrocer “Veggie''{END}
+
+Weapon Shop “Crystal Rod”{END}
+
+Armor Shop “Endurance”{END}
+
+Tool Shop “Angel's Blessing”{END}
+
+Weapon Shop “Water's Edge”{END}
+
+Armor Shop “Sea-through”{END}
+
+Tool Shop “Malaga Sea”{END}
+
+Ingredient Shop “Waterfront”{END}
+
+Sailor{END}
+
+Sailor{END}
+
+Weapon Shop “Lime''{END}
+
+Armor Shop “Lime''{END}
+
+Tool Shop “Calendar”{END}
+
+Supermarket “Pig-Out”{END}
+
+Armor Shop “Garlic”{END}
+
+General Store “Tenderloin”{END}
+
+Grocery Store “Sirloin”{END}
+
+Pharmacy “Lil' Nymph”{END}
+
+Grocery Store{END}
+
+Pharmacy{END}
+
+Tool Shop{END}
+
+Weapon Shop “Spirit”{END}
+
+Armor Shop “Spirit”{END}
+
+Drug Store “Buster”{END}
+
+Tool Shop “Slayer IV”{END}
+
+Ingredient Shop “Ninja”{END}
+
+Armor Shop “Tiger Blade”{END}
+
+Weapon Shop “Holy Knight”{END}
+
+Armor Shop “Holy Knight”{END}
+
+Weapon Shop “Water's Edge”{END}
+
+Armor Shop “Sea-through”{END}
+
+Armor Shop “Lime''{END}
+
+“Aegis' Shop”{END}
+
+Tool Shop “Midnight”{END}
+
+Grocery Store “Waterfront”{END}
+
+Grocery Store “Flavor King”{END}
+
+Supermarket “Pig-Out”{END}
+
+Armor Shop “Iced Coffee''{END}
+
+Armor Shop “3:00 A.M.”{END}
+
+Armor Shop “Garlic”{END}
+
+General Store “Kurikinton”{END}
+
+General Store “Sunset”{END}
+
+“Aegis' Shop”{END}
+
+Peddler{END}
+
+Quartermaster{END}
+
+Tool Shop “Calender”{END}
+
+Peddler{END}
+
+Pharmacy “Houttuynia”{END}
+
+Pharmacy “Houttuynia”{END}
+
+General Store “Benjamin”{END}
+
+Armor Shop “Lime''{END}
+
+Corner Store “Vroom Vroom”{END}
+
+Weapon Shop “Teasel”{END}
+
+General Store “Goalie''{END}
+
+Supermarket “Freezer”{END}
+
+Supermarket “Freezer”{END}
+
+Tea House “Noonwalker”{END}
+
+Grocery Store “A-E-I-O-U”{END}
+
+Pharmacy “Silent Song”{END}
+
+Tool Shop “Malaga Sea”{END}
+
+General Store “Tenderloin”{END}
+
+Grocery Store “Sirloin”{END}
+
+Pharmacy “Lil' Nymph”{END}
+
+General Store “Bonnet”{END}
+
+Apothecary “Toyama”{END}
+
+Weapon Shop “Holy Knight”{END}
+

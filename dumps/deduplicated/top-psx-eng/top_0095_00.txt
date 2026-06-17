@@ -1,0 +1,212 @@
+Village of Belladam{END}
+
+Villager
+ What kind of person was Dhaos?
+<pause>
+Villager
+ A rumor said he commanded a
+ fairly powerful army...{END}
+
+Villager
+ What kind of person is Dhaos?
+<pause>
+Villager
+ A rumor said he commands a fairly
+ powerful army...{END}
+
+Villager
+ Another peaceful day
+ with perfect weather!
+ I love living here!{END}
+
+Child
+ I'm not worried about monsters!
+<pause>
+Child
+ I can beat them all up!!{END}
+
+Woman
+ I can use a little magic, but it's
+ been a lot less potent lately...
+<pause>
+Woman
+ I wonder why.{END}
+
+<Cless>
+ Hey, this is the same bridge as the
+ one in Totus...{END}
+
+Villager 1
+ Hey, who're those two?
+<pause>
+Villager 2
+ Outsiders, it looks like.
+<pause>
+Villager 3
+ Yeah, they have to be...
+<pause>
+Villager 1
+ I wonder where they're from...{END}
+
+<Cless>
+ Um, excuse us.
+<pause>
+<Cless>
+ Where are--{END}
+
+<Cless>
+ Um...
+<pause>
+???
+ Oh, visitors?
+<pause>
+???
+ How curious.
+<pause>
+???
+ I'm the chief of this village.
+<pause>
+Village Chief
+ Who are you two?
+ From where did you come?
+<pause>
+<Mint>
+ We, um... Well...<wait>{END}
+
+<unk1><Cless>
+ I'm <Cless>, of Totus.<wait>{END}
+
+<Cless>
+ And this is <Mint>.{END}
+
+<Cless>
+ You see, we were sent...well,
+ somewhere, by someone's clerical
+ artes.
+<pause>
+<Cless>
+ We were knocked unconscious, and
+ when we came to, we found
+ ourselves in the nearby prairie.
+<pause>
+Village Chief
+ ......
+<pause>
+Village Chief
+ Totus?
+<pause>
+Village Chief
+ <speed_0010>......
+<pause>
+<speed_FFFF>Village Chief
+ Never heard of it...<wait>{END}
+
+Village Chief
+ Have any of you heard of Totus?{END}
+
+<Cless>
+ Huh?{END}
+
+Village Chief
+ Hmm...
+<pause>
+Village Chief
+ The look in your eyes doesn't tell
+ me a different story...
+<pause>
+Village Chief
+ But on the other hand, I don't
+ know of this “clerical arte”
+ business, either...
+<pause>
+Village Chief
+ What you described sounded
+ like magic, though.
+ Is that what you meant?{END}
+
+<Cless>
+ Magic?
+<pause>
+<Cless>
+ But that's impossible.
+ Magic is a power that
+ ceased to exist long ago...
+<pause>
+Village Chief
+ Magic...ceased to exist?
+<pause>
+Village Chief
+ You seem a bit addled, young man.
+<pause>
+Village Chief
+ It's getting late, anyway, and this is
+ hardly the place for a discussion.
+ Why don't we make ourselves
+ comfortable at my house?
+<pause>
+Village Chief
+ We'll continue our little chat there.{END}
+
+Village Chief
+ Come now, it's just a short walk
+ this way.{END}
+
+Villager 1
+ Hey, this sounds pretty interesting
+ for a change.
+<pause>
+Villager 2
+ Let's follow them!{END}
+
+???
+ Oh, <Cless>!{END}
+
+<Cless>
+ Mr. Lenios!
+<pause>
+<Mint>
+ Good to see you again.
+<pause>
+<Klarth>
+ Chief!
+ Long time no see!
+<pause>
+Lenios
+ So, the news traveled fast.
+ You finally defeated Dhaos, did
+ you?
+<pause>
+<Cless>
+ Yes, we sure did!
+<pause>
+Lenios
+ Come to think, it's been a long time
+ since you wandered into our
+ village, hasn't it?
+<pause>
+Lenios
+ If possible, I'd like to hear all about
+ your travels.
+<pause>
+{END}
+
+<Cless>
+ What should we do?
+<pause>
+<Mint>
+ Why not stay a while?
+ It's been so long, and it may be
+ that we'll never see him again.
+<pause>
+<Cless>
+ When you put it that way...
+ Yes, let's.
+<pause>
+{END}
+
+Lenios
+ Make yourselves at home then.
+<pause>
+Lenios
+ My wife will also be delighted.{END}
+

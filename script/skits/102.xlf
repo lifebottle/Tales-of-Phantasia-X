@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_469">
+        <source>How the hell... Harmel's been...</source>
+        <target state="translated">How the hell... Harmel's been...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_470">
+        <source>It's horrible! Absolutely horrible!</source>
+        <target state="translated">It's horrible! Absolutely horrible!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_471">
+        <source>Did...did anyone make it out alive!?</source>
+        <target state="translated">Did...did anyone make it out alive!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_472">
+        <source>I don't know, but let's try to help.</source>
+        <target state="translated">I don't know, but let's try to help.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

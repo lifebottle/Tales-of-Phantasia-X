@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_342">
+        <source>Hey, so like, the rain--</source>
+        <target state="translated">Hey, so like, the rain--</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_343">
+        <source>Ugh, forget it.</source>
+        <target state="translated">Ugh, forget it.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_344">
+        <source>Finish your sentence. Do it.</source>
+        <target state="translated">Finish your sentence. Do it.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_345">
+        <source>But there's no point in asking YOU anything.</source>
+        <target state="translated">But there's no point in asking YOU anything.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_346">
+        <source>The heck's that supposed to mean!?</source>
+        <target state="translated">The heck's that supposed to mean!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_347">
+        <source>Just spit it out! I can answer anything.</source>
+        <target state="translated">Just spit it out! I can answer anything.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_348">
+        <source>Really? So, why does the rain fall, then?</source>
+        <target state="translated">Really? So, why does the rain fall, then?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_349">
+        <source>Dunno.</source>
+        <target state="translated">Dunno.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_350">
+        <source>&lt;wait_C0&gt;Bleh... Remind me to never
+ask you anything ever again!</source>
+        <target state="translated">&lt;wait_C0&gt;Bleh... Remind me to never
+ask you anything ever again!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

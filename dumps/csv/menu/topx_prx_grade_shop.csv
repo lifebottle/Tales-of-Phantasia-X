@@ -1,0 +1,52 @@
+プレイ時間引き継ぎ{END},Play Time{END}
+アイテム所持最大数２０個{END},Increase Item Limit to 20{END}
+ガルド引き継ぎ{END},Gald{END}
+料理引き継ぎ{END},Cooking Recipes{END}
+料理熟練度引き継ぎ{END},Cooking Ability{END}
+称号引き継ぎ{END},Titles{END}
+人物名鑑引き継ぎ{END},Character Info{END}
+コレクターブック引き継ぎ{END},Collector Book{END}
+ミニゲームデータ保持{END},Minigames Data{END}
+戦闘情報引き継ぎ{END},Battle Data{END}
+術・技引き継ぎ{END},Artes{END}
+使用回数引き継ぎ{END},Arte Usage{END}
+最大ＨＰ増加{END},Increase Max HP{END}
+最大ＨＰ減少{END},Decrease Max HP{END}
+コンボ命{END},Combo Experience{END}
+経験値半分{END},EXP x0.5{END}
+経験値２倍{END},EXP x2{END}
+経験値１０倍{END},EXP x10{END}
+取得ＧＲＡＤＥをあげる{END},Grade x2{END}
+獲得ガルド２倍{END},Gald x2{END}
+消費アイテム引き継ぎ{END},Consumable Items{END}
+特殊アイテム引き継ぎ{END},Special Items{END}
+プレイ時間を引き継ぎます。{END},Inherit game play time.{END}
+"装備、消費アイテムを１種類につき、２０個まで持
+つことができます。{END}",Maximum number of items that can be held is increased to 20.{END}
+ガルドを引き継ぎます。{END},Inherit Gald in possession.{END}
+料理を引き継ぎます。{END},Inherit recipes in possession.{END}
+料理の熟練度を引き継ぎます。{END},Inherit current cooking skill.{END}
+称号を引き継ぎます。{END},Inherit titles in possession.{END}
+コレクターずかんの情報を引き継ぎます。{END},Inherit information in the Collector's Book.{END}
+ミニゲームのデータを引き継ぎます。{END},Inherit data for the minigames.{END}
+"エンカウント・最大ヒットなど戦闘の情報を引き継
+ぎます。{END}",Inherit values for encounters and maximum combos.{END}
+習得している術・技を引き継ぎます。{END},Inherit artes and magic in possession.{END}
+"術・技の使用回数を引き継ぎます。
+（技の習得率）{END}",Inherit usage values for artes and magic.{END}
+"全キャラ最大ＨＰを５００加算してゲーム開始
+できます。{END}",Start the game with maximum HP for all characters increased by 500.{END}
+"全キャラ最大ＨＰを１００減算してゲーム開始
+できます。{END}",Start the game with 100 less maximum HP for all characters.{END}
+"戦闘での取得経験値が半分になります。
+低レベルでクリアしたい人にお勧めです。{END}",Decrease the EXP earned from battle by half.{END}
+戦闘での取得経験値が２倍になります。{END},Multiply the EXP earned from battle by 2.{END}
+戦闘での取得経験値が１０倍になります。{END},Multiply the EXP earned from battle by 10.{END}
+戦闘での取得ＧＲＡＤＥが増加します。{END},Increase the Grade earned in battle.{END}
+戦闘で獲得するガルドが２倍になります。{END},Multiply the Gald earned in battle by 2.{END}
+消費系のアイテムを引き継ぎます。{END},Inherit consumables and some special items in possession.{END}
+モンスターずかんの情報を引き継ぎます。{END},Inherit information in the Monster Book.{END}
+購入選択{END},Buy Selection{END}
+決定{END},Select{END}
+グレードショップ{END},Grade Shop{END}
+{END},{END}

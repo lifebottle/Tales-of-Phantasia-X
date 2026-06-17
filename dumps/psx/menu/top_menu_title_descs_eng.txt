@@ -1,0 +1,257 @@
+A novice swordsman training
+in the Alvein Style.{END}
+
+You've learned “Demonic Swallow Kick,” the
+first arcane arte of the Alvein Style.
+You're well on your way. Keep at it!{END}
+
+A swordsman who has
+advanced to level 30.{END}
+
+A swordsman who has
+advanced to level 50.{END}
+
+A skilled swordsman who has advanced to
+level 60 and learned many arcane artes.{END}
+
+An adept swordsman who has advanced
+to level 70 and mastered all base artes.{END}
+
+One with unmatched combat experience
+and has mastered countless arcane artes.{END}
+
+The rightful heir of the Alvein Style's
+mystic arte “Stygian Blade.”
+(Press [[] button][X button][O button] at low HP to use.){END}
+
+Signifies ownership of both a Combo Counter
+and a Combo Command.{END}
+
+A fierce warrior that has plowed their
+way through numerous difficult battles.{END}
+
+You're the coliseum champion!{END}
+
+You've mastered every recipe.
+Would you like to rule the
+World of Fabulous Flavors?{END}
+
+Congratulations! You are now
+a world-famous math nerd!{END}
+
+Signifies ownership of the
+legendary Eternal Sword.{END}
+
+Proof that you have acquired all the
+items from the Legend of Ishtar.{END}
+
+You have defeated Mach Kid and have
+inherited his legacy of hasty feet.{END}
+
+A neophyte cleric.{END}
+
+A cleric who has advanced to level 7.{END}
+
+A cleric who has advanced to level 12.{END}
+
+A cleric who has advanced to level 20.{END}
+
+A respected cleric.{END}
+
+The cleric held in the highest regard.{END}
+
+{END}
+
+{END}
+
+Through your hard work and effort, Nancy
+and Elwyn will be together forever.{END}
+
+My, how glamorous!{END}
+
+You have gained the unicorn's trust
+with your unclouded heart.{END}
+
+You've mastered every recipe.
+Would you like to rule the
+World of Fabulous Flavors?{END}
+
+A woman with a knack for singing.{END}
+
+When something's tough, and you need
+some help, who ya gonna ask?
+Professor Adnade!{END}
+
+{END}
+
+{END}
+
+A low-level mage.{END}
+
+A mage who has memorized
+over five spells.{END}
+
+A mage who has memorized
+over ten spells.{END}
+
+A mage who has memorized
+over fifteen spells.{END}
+
+A mage who has memorized
+over twenty spells.{END}
+
+A grandmaster mage who
+has memorized all spells.{END}
+
+{END}
+
+{END}
+
+When you drink like a fish...{END}
+
+“All I've got are these itty-bitty
+pancakes! Man, it's so unfair...”
+...she said.{END}
+
+Good girls don't try to seduce their
+way out of everything, you know...{END}
+
+You've mastered every recipe...somehow.
+Despite your efforts, you are still denied
+rulership of the World of Fabulous Flavors.{END}
+
+Yes, truly. Turning over such a shameful
+title after having it served up for you
+is quite the lofty goal, girl.{END}
+
+Your High Score is over 200000!
+Groovy baby, YEAH!{END}
+
+{END}
+
+{END}
+
+A scholar of summoning artes.{END}
+
+You've successfully forged
+a pact with a spirit.{END}
+
+You've forged a pact with Maxwell, the
+leader of the Four Great Spirits.{END}
+
+You've forged a pact with
+Origin, the King of Spirits.{END}
+
+A summoner who has forged many pacts.{END}
+
+A master summoner who has
+a pact with every spirit.{END}
+
+{END}
+
+{END}
+
+Proof that you've encountered all enemies.{END}
+
+Proof you've found every item.
+Way to go!{END}
+
+You've discovered Aifread's treasure
+of treasures: “love”!{END}
+
+You've mastered every recipe.
+Would you like to rule the
+World of Fabulous Flavors?{END}
+
+A name for the kind of guy who can't lift
+his head around his girlfriend or wife.{END}
+
+Love that transcends time.
+It's like a fairy tale...{END}
+
+{END}
+
+{END}
+
+An apprentice archer.{END}
+
+An archer that has advanced to level 5.{END}
+
+An archer that has advanced to level 10.{END}
+
+An archer that has advanced to level 30.{END}
+
+A respected archer.{END}
+
+The mightiest of all archers.{END}
+
+{END}
+
+{END}
+
+Proof that he cares deeply
+about his little sister.{END}
+
+A guy who takes his training
+more seriously than others.{END}
+
+A name <Arche> came up with on a whim.
+Sheesh--kids these days...{END}
+
+You've mastered every recipe.
+Would you like to rule the
+World of Fabulous Flavors?{END}
+
+Super Mach Bastard... Man, he's fast.
+Yes! You are the one true Mach Bastard!{END}
+
+Even <Cless> concedes his manliness.
+You're...truly a man among men...{END}
+
+{END}
+
+{END}
+
+A nickname for a novice kunoichi.{END}
+
+A kunoichi that has advanced to level 20.{END}
+
+A kunoichi that has advanced to level 30.{END}
+
+A kunoichi that has advanced to level 40.{END}
+
+A high-ranking kunoichi.{END}
+
+The most powerful kunoichi.{END}
+
+{END}
+
+{END}
+
+One who is without compassion.
+An infamous trait governing the harsh
+ways of the ninja profession.{END}
+
+The one expected to become the
+next chief of the Ninja Village.{END}
+
+A name given to someone fond of sweets.{END}
+
+You've mastered every recipe.
+Would you like to rule the
+World of Fabulous Flavors?{END}
+
+A ninja who has cleared the five trials.
+The Way of the Shinobi
+is to bear up under all.{END}
+
+When I first laid eyes on you, it felt like a
+current of electricity ran through my body.
+Is this what love is?{END}
+
+{END}
+
+{END}
+
+{END}
+

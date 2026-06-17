@@ -1,0 +1,695 @@
+<Cless><'s/'> House{END}
+
+<Chester><'s/'> House{END}
+
+Church of Saint Lenios{END}
+
+Weapon Shop “Teasel”{END}
+
+Inn “Tranquility”{END}
+
+General Store “Goalie”{END}
+
+<unk1>Miguel
+ <Cless>!
+ Stay out of the way!{END}
+
+<color_0002>Rest?<color_0000>{END}
+
+<Cless>
+ Dad, I'm going out to hunt with
+ <Chester>.<wait>{END}
+
+Miguel
+ Hunting, is it? That's fine.
+ Remember your training and
+ stay alert.
+<pause>
+Miguel
+ Come back by sunset.
+ We still need to talk
+ about your pendant.{END}
+
+<unk1>Receptionist
+ Ah, <Cless>.
+ Where might you be off to?<wait>{END}
+
+<Cless>
+ Just for a hunt in the woods.
+<pause>
+<Cless>
+ I'm gonna bag a big one!<wait>{END}
+
+Receptionist
+ Stay safe out there.{END}
+
+<Cless>
+ Sound asleep...{END}
+
+<unk1>Maid
+ Shhh, quiet, <Cless>.
+ Your mother is sleeping.{END}
+
+Nun
+ Hello, <Cless>.
+ It is good to see you.
+<pause>
+Nun
+ What brings you here today?
+<pause>
+<Cless>
+ I just thought it'd be a good idea
+ for me to start coming by the
+ church more often...<wait>{END}
+
+Nun
+ You said the very same thing a
+ moment ago, didn't you?
+<pause>
+Nun
+ My, you must be truly determined.
+<pause>
+Nun
+ May the goddess' grace be with
+ you...
+<pause>
+<Cless>
+ Th-thanks...{END}
+
+Nun
+ That's a wonderful goal.
+<pause>
+Nun
+ May the goddess' grace be with
+ you...{END}
+
+Man
+ Nature worship is nice and all, but
+ some clowns out there take the
+ doctrine a bit TOO literally...
+<pause>
+Man
+ For example, some of them believe
+ they need to pray to tree branches
+ and stuff to attain salvation.
+<pause>
+Man
+ If you think that's crazy, the real
+ whackos have a nervous
+ breakdown if they so much as step
+ on a twig!{END}
+
+Man
+ Maybe it's just me, but the statue
+ on the altar is smoking hot.
+<pause>
+Man
+ Oh, wait! D'oh!
+ That's the Goddess...
+<pause>
+Man
+ Guess I'm in for some divine
+ punishment...{END}
+
+<unk1>Clerk
+ Good day, <Cless>.
+ You wanna buy something?{END}
+
+Clerk
+ Come again.{END}
+
+Clerk
+ Hey there, <Cless>!
+<pause>
+Clerk
+ I'm sure you know this already, but
+ no matter how strong a weapon
+ you have, it won't do you any good
+ to just lug it around.
+<pause>
+Clerk
+ You'll need to equip it before you
+ do battle!{END}
+
+Innkeeper
+ Hello.
+<pause>
+Innkeeper
+ You live only a short walk away, so
+ there's no need for you stay here.{END}
+
+Innkeeper
+ Thank you.
+<pause>
+Innkeeper
+ Here's a little something for your
+ trouble.<wait>{END}
+
+<color_0002>Obtained 10 gald.<color_0000>{END}
+
+Innkeeper
+ Oh, good job.
+ You moved that ornament
+ out of the way for me.
+<pause>
+Innkeeper
+ I thought of asking you, but
+ you did it without a word.
+ Such work ethic!
+<pause>
+Innkeeper
+ Here, take this.
+ You earned it.<wait>{END}
+
+<color_0002>Acquired an <item_7700>.<color_0000>{END}
+
+Innkeeper
+ Please hurry.
+<pause>
+Innkeeper
+ It's just going to be in everyone's
+ way right there.{END}
+
+Innkeeper
+ May I borrow your strength for a
+ moment, <Cless>?
+<pause>
+Innkeeper
+ I need that ornament moved out of
+ the way.
+<pause>
+<Cless>
+ That ornament...
+<pause>
+<Cless>
+ Oh, you mean this bush baby
+ statue?
+<pause>
+<color_0002>Move the bush baby statue?<color_0000>{END}
+
+Innkeeper
+ Up against the window at the back
+ of the hall would be perfect.
+<pause>
+Innkeeper
+ That way, we won't have guests
+ tripping over it.{END}
+
+Innkeeper
+ I see.
+ Young people these days.
+ Sheesh...{END}
+
+Lady
+ I'm traveling with Master now.
+<pause>
+Lady
+ We've only just arrived here, but
+ I've already fallen in love with how
+ nice it is.
+<pause>
+Lady
+ I'd like to settle down here, but
+ Master prefers the nomadic
+ lifestyle.{END}
+
+<unk1>Owner
+ How's it going, <Cless>?
+ Do you need something?{END}
+
+Owner
+ Come again.{END}
+
+Owner
+ Well, well, if it isn't <Cless>.
+<pause>
+Owner
+ Need anything?
+<pause>
+Owner
+ Say, the sky right above us sure is
+ nice and clear right now...
+<pause>
+Owner
+ But have you seen those ugly
+ clouds rolling over from the west?
+<pause>
+Owner
+ We might be in for a bit of a
+ downpour.{END}
+
+<unk1>Owner
+ Oh, <Chester>.
+ How's your little sister these days?<wait>{END}
+
+Owner
+ Take this to her, would 'ya?
+ It's a present.<wait>{END}
+
+<color_0002>Acquired an <item_5A00>.<color_0000>{END}
+
+Assistant
+ That damn geezer works our
+ fingers to the bone even during
+ slow periods.<wait>{END}
+
+Owner
+ I heard that, Slacker!
+<pause>
+Owner
+ See me after work today.
+ You'll be scrubbing toilets to make
+ up for this! NOW BACK TO WORK!
+<pause>
+Assistant
+ Y-yes, sir!{END}
+
+Assistant
+ An <item_7700> is a medication that
+ restores physical strength.
+<pause>
+Assistant
+ You should buy some before you go
+ out.<wait>{END}
+
+Owner
+ Loafing on the job, are you!?
+<pause>
+Owner
+ Some nerve you have there!
+ Get back to work!
+<pause>
+Assistant
+ Y-yes, sir!{END}
+
+Assistant
+ A <item_9500> is a tool that lets you
+ see an enemy's attributes during
+ battle.
+<pause>
+Assistant
+ They're so cheap, you have nothing
+ to lose by buying some.<wait>{END}
+
+Owner
+ Still loafing around, are you!?
+<pause>
+Owner
+ Lazy little twit!
+ GET BACK TO WORK!!
+<pause>
+Assistant
+ Y-yes, sir!{END}
+
+<var_8201>
+ I've become an apprentice of
+ Master Alvein at last...
+<pause>
+<var_8201>
+ I'll soon become a master under his
+ guidance!{END}
+
+<var_8201>
+ An adept swordsman doesn't just
+ rush his enemy.
+<pause>
+<var_8201>
+ He must also maintain his
+ composure and mind the basics of
+ defense.<wait>{END}
+
+<color_0002>In battle, <var_0102> is your attack button
+and <var_0302> is your defend button.
+<pause>
+If that doesn't fit your play style,
+you can change the battle controls
+in the Customize menu.{END}
+
+Swordswoman
+ Oh, you must be <Cless>,
+ Master Alvein's son.
+<pause>
+Swordswoman
+ It'd be my honor to spar
+ with you, but it's almost
+ time for my training.
+ Perhaps on another occasion.
+<pause>
+Swordswoman
+ Maybe I can teach you
+ something in the meantime.
+ Do you know how formation
+ arrangement works?
+<pause>
+<color_0002><speed_0000>1. Yes, I do.
+2. No, please tell me about it.
+3. I know all about it!<color_0000><speed_FFFF>{END}
+
+Swordswoman
+ Ah, of course you would.
+ Silly me.{END}
+
+<unk1>Swordswoman
+ It's the placement of your troops
+ during battle.
+<pause>
+Swordswoman
+ Since you're a swordsman,
+ <Cless>, you should fight on the
+ front line.
+<pause>
+Swordswoman
+ Since <Chester> is an archer,
+ you should have him back
+ you up from behind.<wait>{END}
+
+<color_0002>You can modify your formation in
+the Formation menu.
+<pause>
+Normally, the front line is toward
+the right, but if you're attacked
+from behind, the opposite becomes
+true. Watch out!{END}
+
+<unk1>Swordswoman
+ Ah, but did you know this?
+<pause>
+Swordswoman
+ There's a fairly simple way of
+ keeping your allies safe during a
+ back attack...
+<pause>
+Swordswoman
+ First, rush to the reversed front
+ line to fend off the enemies, then
+ order your allies to stay behind and
+ stick to a reversed formation.<wait>{END}
+
+<color_0002>When you press the <color_0003>formation
+button<color_0002> (<var_0502> by default) during battle,
+your party members will stop in
+their place.
+<pause>
+Do this when you want them to
+stand still and await your orders.
+<pause>
+And, while stopped, pressing the
+formation button again reverses the
+party formation.
+<pause>
+Do this as soon possible if you're
+attacked from behind or caught in
+some other similar situation
+mid-battle.{END}
+
+Swordswoman
+ Cold as ice...{END}
+
+<unk1>Ami
+ Oh, hello, <Cless>.<wait>{END}
+
+Ami
+ Here...
+<pause>
+Ami
+ I made it.<wait>{END}
+
+<color_0002>Acquired <item_3100>.<color_0000><wait>{END}
+
+<unk1><Chester>
+ It's a doll that looks like <Cless>.<wait>{END}
+
+<Chester>
+ Hahahah, you did a good job.
+<pause>
+<Chester>
+ Midnight sewing, huh?
+ So that's why you've been going to
+ bed later than me.
+<pause>
+<Cless>
+ Thank you.
+ I'll treasure it.
+<pause>
+<Chester>
+ So, Sis, aren't you forgetting
+ someone?
+<pause>
+Ami
+ ......
+<pause>
+<Chester>
+ Awww, Big Brother is so sad.
+<pause>
+Ami
+ Oh sheesh...
+<pause>
+Ami
+ Fine, you big baby.
+ You can have this.<wait>{END}
+
+<color_0002>Acquired a <item_6A01>.<color_0000>{END}
+
+<Chester>
+ Hey Sis, the old guy at the general
+ store wants me to give you this...
+<pause>
+Ami
+ Oh?
+ Are you sure it wasn't
+ meant for you?
+<pause>
+<Chester>
+ Yup.
+ It's a present from him for you.
+<pause>
+<Chester>
+ Right, <Cless>?
+<pause>
+<color_0002>Gave Ami the <item_5A00>.<color_0000>
+<pause>
+Ami
+ Aww, how sweet!
+ I'll have to thank him later.<wait>{END}
+
+<color_0002><Chester> has earned the title “Kind
+Brother.”<color_0000>{END}
+
+Ami
+ See you later.
+<pause>
+Ami
+ Don't get yourselves hurt out there.{END}
+
+<var_8201>
+ A swordsman must prepare his
+ artes before he can employ them.<wait>{END}
+
+<color_0002><Cless> and his allies learn
+new <color_0003>artes<color_0002> as they level
+up or meet certain
+conditions.
+<pause>
+Assign artes in the Artes menu to
+<var_0002> inputs before or during battle.
+<pause>
+When engaged in a battle, use them
+by pressing the assigned <var_0002> inputs
+in conjunction with the Arte button
+(<var_0202> by default).{END}
+
+<var_8201>
+ Ohhh man, this place's got a killer
+ selection...
+<pause>
+<var_8201>
+ Not that it should come as a
+ surprise in a village with such a
+ great swordmaster.
+<pause>
+<var_8201>
+ ......
+<pause>
+<var_8201>
+ Yeah, I'm just sucking up, aren't I?{END}
+
+<var_8201>
+ A man may possess an excellent
+ blade, but unless he can use it well,
+ he'll never be considered a true
+ swordsman.{END}
+
+Apprentice
+ Hah!{END}
+
+Apprentice
+ Yah!{END}
+
+Apprentice
+ <speed_0001>Do<speed_0020>,<speed_0001> we<speed_0020>,<speed_0001> have<speed_0020>,<speed_0001> to<speed_0020>,<speed_0001> keep<speed_0020>,<speed_0001> doing<speed_0020>,<speed_0001> this?{END}
+
+Apprentice
+ I've got the munchiiiies...{END}
+
+Tristan
+ Have you been training diligently?
+<pause>
+Tristan
+ If you have, you'll one day surpass
+ your father as a swordsman.{END}
+
+  {END}
+
+<Cless>
+ Oh, good afternoon, Master Tristan.<wait>{END}
+
+<Cless>
+ This is a surprise.
+ It's been a while.<wait>{END}
+
+Tristan
+ Oh, hello, <Cless>.
+<pause>
+Tristan
+ Has it been that long already?
+ At my age, it becomes hard to tell.<wait>{END}
+
+(<Cless><'s/'> Father, Miguel)
+ <Cless>.<wait>{END}
+
+<Cless>
+ What is it, Dad?<wait>{END}
+
+Miguel
+ How's your mother doing?
+ Getting better?<wait>{END}
+
+<Cless>
+ She's not burning up anymore, so I
+ think she'll be good as new pretty
+ soon.<wait>{END}
+
+Miguel
+ Mmm. So, anyway...
+<pause>
+Miguel
+ I called you down here to speak
+ with you about your pendant.<wait>{END}
+
+<Cless>
+ My...pendant?<wait>{END}
+
+<Cless>
+ Oh, you mean the one you gave me
+ for my fifteenth birthday?<wait>{END}
+
+<Cless>
+ I remember you saying it was
+ important that I keep it safe.<wait>{END}
+
+<Cless>
+ Why was that?{END}
+
+Miguel
+ Is that <Chester> I hear?<wait>{END}
+
+<Cless>
+ Oh, that's right!
+ Sorry, Dad.<wait>{END}
+
+<unk1><Cless>
+ <Chester> and I planned to hang
+ out today.<wait>{END}
+
+Miguel
+ Well, in that case, we'll resume our
+ talk over dinner instead.
+<pause>
+<Cless>
+ Okay.
+ Thanks, Dad.<wait>{END}
+
+<Cless>
+ Master Tristan, please make
+ yourself at home.{END}
+
+Priest
+ Oh, <Cless>.
+<pause>
+Priest
+ Is something bothering you?
+<pause>
+<Cless>
+ Not at all.
+ I'm doing well, thanks.
+<pause>
+Priest
+ There's going to be a wedding
+ ceremony here, soon.
+<pause>
+Priest
+ Will you be helping us out with the
+ preparations?
+<pause>
+<Cless>
+ Yes, of course.
+<pause>
+Priest
+ Thank you, my child.
+<pause>
+Priest
+ Our church was named after
+ Lenios, the founder of Totus.
+<pause>
+Priest
+ I want the wedding to be
+ wonderful, and be worthy of his
+ great name.{END}
+
+Priest
+ “Live harmoniously with nature.”
+<pause>
+Priest
+ That is the teaching of Martel, the
+ Mother Goddess.{END}
+
+<Cless>
+ Oh, it's my favorite!
+ Mabo Curry!
+<pause>
+<Chester>
+ Ami couldn't wait for us to bring
+ back dinner, huh?
+<pause>
+<Chester>
+ Well, cooking IS one of her favorite
+ things.
+<pause>
+<Cless>
+ I'm sure she won't mind if I have a
+ quick little taste...
+<pause>
+<Chester>
+ Hey, hey!
+ Don't pig out on it!
+<pause>
+<Cless>
+ I know, I know.{END}
+
+<Cless>
+ Mmm, mmm, mmm!
+ So good!{END}
+
+<Cless>
+ OW OW OW OW OW!!!{END}
+
+It's Ami's secret box.{END}
+
+It's Ami's beloved teddy bear.{END}
+
+“History of the Alvein Style”{END}
+
+The students' nametags hang here.{END}
+
+It's a dartboard.{END}
+

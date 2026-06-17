@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_830">
+        <source>Aw, we went all that way
+and Edward wasn't home.</source>
+        <target state="translated">Aw, we went all that way
+and Edward wasn't home.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_831">
+        <source>It's a shame, but we did
+go unannounced, after all.</source>
+        <target state="translated">It's a shame, but we did
+go unannounced, after all.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_832">
+        <source>Sif was willing to tell us he
+went to Freyland, at least.</source>
+        <target state="translated">Sif was willing to tell us he
+went to Freyland, at least.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_833">
+        <source>We have a chance to catch up if we hurry.</source>
+        <target state="translated">We have a chance to catch up if we hurry.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

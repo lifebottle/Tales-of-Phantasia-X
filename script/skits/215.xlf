@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1092">
+        <source>This whole island's about as dark as dark gets...</source>
+        <target state="translated">This whole island's about as dark as dark gets...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1093">
+        <source>It is very likely that the
+darkness is the handiwork of Dhaos.</source>
+        <target state="translated">It is very likely that the
+darkness is the handiwork of Dhaos.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1094">
+        <source>Then the castle seen at the
+mine ruins... Could it really be...?</source>
+        <target state="translated">Then the castle seen at the
+mine ruins... Could it really be...?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1095">
+        <source>I'm all but convinced it's Dhaos' at this point.</source>
+        <target state="translated">I'm all but convinced it's Dhaos' at this point.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1096">
+        <source>Why don't we go bust its doors down?</source>
+        <target state="translated">Why don't we go bust its doors down?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1097">
+        <source>You read my mind.</source>
+        <target state="translated">You read my mind.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

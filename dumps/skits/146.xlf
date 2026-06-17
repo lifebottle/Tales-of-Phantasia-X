@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_726">
+        <source>Heya, &lt;Suzu&gt;. You should
+enjoy yourself and try laughing sometimes.</source>
+        <target state="translated">Heya, &lt;Suzu&gt;. You should
+enjoy yourself and try laughing sometimes.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_727">
+        <source>Do you enjoy yourself every day?</source>
+        <target state="translated">Do you enjoy yourself every day?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_728">
+        <source>Oh, of course! Of course I do!</source>
+        <target state="translated">Oh, of course! Of course I do!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_729">
+        <source>Someone told me that you were an
+idiot, but enjoyed yourself all the same.</source>
+        <target state="translated">Someone told me that you were an
+idiot, but enjoyed yourself all the same.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_730">
+        <source>Wh-who did!?</source>
+        <target state="translated">Wh-who did!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_731">
+        <source>Hey-yo! What'cha guys up to?</source>
+        <target state="translated">Hey-yo! What'cha guys up to?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_732">
+        <source>Aha! It had to be YOU! You've been poisoning
+this young girl's mind with your lies, huh!?</source>
+        <target state="translated">Aha! It had to be YOU! You've been poisoning
+this young girl's mind with your lies, huh!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_733">
+        <source>Oh crap! See ya!</source>
+        <target state="translated">Oh crap! See ya!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_734">
+        <source>Come back here! I'm gonna barbecue you!</source>
+        <target state="translated">Come back here! I'm gonna barbecue you!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="skit_735">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_736">
+        <source>Hmhm... Oh, was that a laugh?</source>
+        <target state="translated">Hmhm... Oh, was that a laugh?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

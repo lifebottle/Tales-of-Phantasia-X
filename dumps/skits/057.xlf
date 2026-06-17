@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_174">
+        <source>Hah! Yah! Pah! Hah! Yah! Pah!</source>
+        <target state="translated">Hah! Yah! Pah! Hah! Yah! Pah!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_175">
+        <source>Hey, &lt;Chester&gt;... What
+are you doing out here so late?</source>
+        <target state="translated">Hey, &lt;Chester&gt;... What
+are you doing out here so late?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_176">
+        <source>Exactly what it looks like. If I don't
+do this, I'll just end up holding you back.</source>
+        <target state="translated">Exactly what it looks like. If I don't
+do this, I'll just end up holding you back.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_177">
+        <source>So you've started training alone?</source>
+        <target state="translated">So you've started training alone?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_178">
+        <source>Promise to keep it a secret
+from that loud-mouthed wench.</source>
+        <target state="translated">Promise to keep it a secret
+from that loud-mouthed wench.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_179">
+        <source>Yeah, okay...</source>
+        <target state="translated">Yeah, okay...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,24 @@
+Cancel save?{END}
+
+Cancel load?{END}
+
+Cancel erase?{END}
+
+Tales of Phantasia
+Cross Edition{END}
+
+New Save{END}
+
+Gald: %d  Play Time: %d:%02d{END}
+
+No Memory Stick{81}{7F} is inserted.
+At least 384KB of free space is required to save
+Tales of Phantasia Cross Edition game data.{END}
+
+Insufficient free space on Memory Stick{81}{7F}.
+At least 384KB of free space is required to save
+Tales of Phantasia Cross Edition game data.{END}
+
+Do you want to start the game anyway?
+{END}
+

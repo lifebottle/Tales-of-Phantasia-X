@@ -1,0 +1,372 @@
+{
+    "wo_tim_01": {
+        "gradient": 1,
+        "strings": [
+            {
+                "posx": 0,
+                "posy": 0
+            },
+            {
+                "posx": 0,
+                "posy": 12
+            },
+            {
+                "posx": 0,
+                "posy": 24
+            },
+            {
+                "posx": 0,
+                "posy": 36
+            },
+            {
+                "posx": 0,
+                "posy": 48
+            },
+            {
+                "posx": 128,
+                "posy": 0
+            },
+            {
+                "posx": 128,
+                "posy": 12
+            },
+            {
+                "posx": 128,
+                "posy": 24
+            },
+            {
+                "posx": 128,
+                "posy": 36
+            },
+            {
+                "posx": 128,
+                "posy": 48
+            }
+        ]
+    },
+    "wo_tim_02": {
+        "strings": [
+            {
+                "posx": 32,
+                "posy": 0
+            },
+            {
+                "posx": 32,
+                "posy": 12
+            },
+            {
+                "posx": 32,
+                "posy": 24
+            },
+            {
+                "posx": 32,
+                "posy": 36
+            },
+            {
+                "posx": 16,
+                "posy": 48
+            },
+            {
+                "posx": 16,
+                "posy": 60
+            },
+            {
+                "posx": 16,
+                "posy": 72
+            },
+            {
+                "posx": 32,
+                "posy": 84
+            },
+            {
+                "posx": 16,
+                "posy": 96
+            },
+            {
+                "posx": 16,
+                "posy": 108
+            },
+            {
+                "posx": 32,
+                "posy": 120
+            },
+            {
+                "posx": 16,
+                "posy": 132
+            },
+            {
+                "posx": 32,
+                "posy": 144
+            },
+            {
+                "posx": 32,
+                "posy": 156
+            },
+            {
+                "posx": 16,
+                "posy": 168
+            },
+            {
+                "posx": 16,
+                "posy": 180
+            },
+            {
+                "posx": 16,
+                "posy": 192
+            },
+            {
+                "posx": 16,
+                "posy": 204
+            },
+            {
+                "posx": 32,
+                "posy": 216
+            },
+            {
+                "posx": 16,
+                "posy": 228
+            },
+            {
+                "posx": 144,
+                "posy": 0
+            },
+            {
+                "posx": 144,
+                "posy": 12
+            },
+            {
+                "posx": 144,
+                "posy": 24
+            },
+            {
+                "posx": 144,
+                "posy": 36
+            },
+            {
+                "posx": 144,
+                "posy": 48
+            },
+            {
+                "posx": 144,
+                "posy": 60
+            },
+            {
+                "posx": 144,
+                "posy": 72
+            },
+            {
+                "posx": 144,
+                "posy": 84
+            },
+            {
+                "posx": 144,
+                "posy": 96
+            },
+            {
+                "posx": 144,
+                "posy": 108
+            },
+            {
+                "posx": 144,
+                "posy": 120
+            }
+        ]
+    },
+    "wo_tim2_01": {
+        "gradient": 1,
+        "strings": [
+            {
+                "posx": 0,
+                "posy": 0
+            },
+            {
+                "posx": 0,
+                "posy": 12
+            },
+            {
+                "posx": 0,
+                "posy": 24
+            },
+            {
+                "posx": 0,
+                "posy": 36
+            },
+            {
+                "posx": 0,
+                "posy": 48
+            },
+            {
+                "posx": 0,
+                "posy": 60
+            },
+            {
+                "posx": 128,
+                "posy": 0
+            },
+            {
+                "posx": 128,
+                "posy": 12
+            },
+            {
+                "posx": 128,
+                "posy": 24
+            },
+            {
+                "posx": 128,
+                "posy": 36
+            },
+            {
+                "posx": 128,
+                "posy": 48
+            },
+            {
+                "posx": 128,
+                "posy": 60
+            }
+        ]
+    },
+    "wo_tim2_02": {
+        "strings": [
+            {
+                "posx": 32,
+                "posy": 0
+            },
+            {
+                "posx": 16,
+                "posy": 12
+            },
+            {
+                "posx": 16,
+                "posy": 24
+            },
+            {
+                "posx": 16,
+                "posy": 36
+            },
+            {
+                "posx": 16,
+                "posy": 48
+            },
+            {
+                "posx": 16,
+                "posy": 60
+            },
+            {
+                "posx": 32,
+                "posy": 72
+            },
+            {
+                "posx": 32,
+                "posy": 84
+            },
+            {
+                "posx": 16,
+                "posy": 96
+            },
+            {
+                "posx": 16,
+                "posy": 108
+            },
+            {
+                "posx": 16,
+                "posy": 120
+            },
+            {
+                "posx": 32,
+                "posy": 132
+            },
+            {
+                "posx": 32,
+                "posy": 144
+            },
+            {
+                "posx": 32,
+                "posy": 156
+            },
+            {
+                "posx": 60,
+                "posy": 168
+            },
+            {
+                "posx": 44,
+                "posy": 180
+            },
+            {
+                "posx": 16,
+                "posy": 192
+            },
+            {
+                "posx": 32,
+                "posy": 204
+            },
+            {
+                "posx": 16,
+                "posy": 216
+            },
+            {
+                "posx": 16,
+                "posy": 228
+            },
+            {
+                "posx": 144,
+                "posy": 0
+            },
+            {
+                "posx": 160,
+                "posy": 12
+            },
+            {
+                "posx": 144,
+                "posy": 24
+            },
+            {
+                "posx": 160,
+                "posy": 36
+            },
+            {
+                "posx": 144,
+                "posy": 48
+            },
+            {
+                "posx": 144,
+                "posy": 60
+            },
+            {
+                "posx": 144,
+                "posy": 72
+            },
+            {
+                "posx": 144,
+                "posy": 84
+            },
+            {
+                "posx": 144,
+                "posy": 96
+            },
+            {
+                "posx": 144,
+                "posy": 108
+            },
+            {
+                "posx": 144,
+                "posy": 120
+            },
+            {
+                "posx": 144,
+                "posy": 132
+            },
+            {
+                "posx": 144,
+                "posy": 144
+            },
+            {
+                "posx": 160,
+                "posy": 156
+            },
+            {
+                "posx": 144,
+                "posy": 168
+            }
+        ]
+    }
+}

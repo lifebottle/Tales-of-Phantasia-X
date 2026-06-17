@@ -1,0 +1,1096 @@
+Alvanista Castle{END}
+
+<Cless>
+ It's shut tight.{END}
+
+Gatekeeper
+ Who are you!?
+ What do you want!?
+<pause>
+Gatekeeper
+ We don't allow random peasants to
+ waltz in!
+<pause>
+Gatekeeper
+ Get lost!
+<pause>
+<Klarth>
+ We're here per Sir Harrison's
+ reques--
+<pause>
+Gatekeeper
+ <var_E700>!!
+<pause>
+???
+ At ease.{END}
+
+Gatekeeper
+ Sir Harrison!
+<pause>
+Harrison
+ These are the people I informed
+ you of the other day.
+<pause>
+Harrison
+ Let them through, and treat them
+ with courtesy.<wait>{END}
+
+Gatekeeper
+ These people?
+ Seriously!?
+<pause>
+Gatekeeper
+ E-excuse us.{END}
+
+Harrison
+ Please forgive their incivility.
+<pause>
+Harrison
+ Come this way.{END}
+
+Gatekeeper
+ They're the ones with the power to
+ defeat Dhaos!?
+<pause>
+Gatekeeper
+ A bunch of kids!?
+ How's that possible!?
+<pause>
+Gatekeeper
+ Has our king gone mad!?{END}
+
+Laird
+ I still have much to learn about
+ ruling a country.
+<pause>
+Laird
+ I yearn for the day I can become a
+ great man like my father and
+ serve my people.{END}
+
+Prison Guard
+ We've got some pirates stewing in
+ the cells right now.
+<pause>
+Prison Guard
+ Feel free to talk to them, but don't
+ pick the locks open!{END}
+
+Prison Guard
+ Yawn... This position is so boring.
+ Stand, stand, stand, and we don't
+ even have any prisoners locked up
+ in here!{END}
+
+Prison Guard
+ All is well, as usual...{END}
+
+Pirate
+ What'cha lookin' at, ye landlubbers?
+<pause>
+Pirate
+ Yar, we be the remnants of the
+ once dread pirates of the high
+ seas. The day of the corsair be
+ past, it seems...{END}
+
+Pirate
+ I've nothing te say to ye's.
+<pause>
+Pirate
+ This ain't the sorta place fer
+ ignorant little children.<wait>{END}
+
+Pirate
+ Whaaat?
+<pause>
+Pirate
+ The cap'n's little one asked fer yer
+ help?
+<pause>
+Pirate
+ About a “true treasure”...?
+<pause>
+Pirate
+ Errrr... Sorry, mate, I haven't a
+ clue.{END}
+
+Pirate
+ I miss the good ol' days of sailin'
+ the seas...{END}
+
+Pirate
+ I got nothin' te say te ye.
+<pause>
+Pirate
+ Bugger off.<wait>{END}
+
+Pirate
+ Whaaat?
+<pause>
+Pirate
+ The cap'n's little one asked fer yer
+ help?
+<pause>
+Pirate
+ About a “true treasure”...?
+<pause>
+Pirate
+ Methinks I heard a few words
+ about that...
+<pause>
+Pirate
+ Meheard one o' the mates sayin' it
+ was somethin' belongin' te the
+ cap'n's wife.
+<pause>
+Pirate
+ But I've nary a clue as to what it
+ may be.{END}
+
+Pirate
+ Unless ye're here te break us out
+ o' this place.{END}
+
+<var_A301>
+ As I thought, the design of this
+ shape is somehow related...{END}
+
+<var_A301>
+ If I concentrate a bit harder...{END}
+
+<var_A301>
+ Sleepy...
+<pause>
+<var_A301>
+ Pulled an all-nighter...{END}
+
+<var_A301>
+ Would you like a detailed
+ explanation of the <item_9E00>?{END}
+
+<var_A301>
+ What would you like to ask about?<speed_0000>
+<pause>
+<color_0002>1. How to Record Monsters
+2. About Attack Element
+3. About Elemental Resistance
+4. Recording dropped items<color_0000><speed_FFFF>{END}
+
+<var_A301>
+ Once you encounter a monster,
+ data pertaining to it is recorded in
+ the <item_9E00>.
+<pause>
+<var_A301>
+ However, as you'll see, only a few
+ basics attributes will be registered.
+<pause>
+<var_A301>
+ If you want to see the rest of the
+ monster's statistics, you'll need to
+ use a <item_9500> on it.
+<pause>
+<var_A301>
+ Now...
+<pause>
+{END}
+
+<var_A301>
+ Attack Element is the elemental
+ attribute of the monster's attack.
+<pause>
+<var_A301>
+ This, combined with the defense
+ attribute of the character being
+ attacked, has a large influence on
+ the damage inflicted.
+<pause>
+<var_A301>
+ When equipped with proper
+ consideration, one has a
+ tremendous advantage against
+ monsters with elemental attacks.
+<pause>
+<var_A301>
+ Now...
+<pause>
+{END}
+
+<var_A301>
+ There are four classes of defense
+ attribute: Weak, Strong, Invalid, and
+ Absorb.
+<pause>
+<var_A301>
+ If the element's defense attribute
+ is “Weak,” attacking with that
+ element will inflict greater damage.
+<pause>
+<var_A301>
+ As you might expect, if it is
+ “Strong,” attacks of the that
+ element will inflict less damage.
+<pause>
+<var_A301>
+ “Invalid” means attacks of that
+ element have a chance of being
+ completely negated.
+<pause>
+<var_A301>
+ “Absorb” means that attacks of
+ that element will restore HP
+ instead of dealing damage.
+<pause>
+<var_A301>
+ The text color used for each class
+ represents the degree of the
+ attribute, as follows:
+<pause>
+<var_A301>
+ A bluer text color indicates a
+ weaker attribute, while a whiter
+ text color indicates a stronger one.
+<pause>
+<var_A301>
+ Now...
+<pause>
+{END}
+
+<var_A301>
+ Dropped items are only recorded
+ when the defeated monster leaves
+ them behind.
+<pause>
+<var_A301>
+ Recording drops to fill the empty
+ slots may require fighting the same
+ monster many times, as some
+ items can be very rare.
+<pause>
+<var_A301>
+ Now...
+<pause>
+{END}
+
+<var_A301>
+ Was that helpful?{END}
+
+<var_A301>
+ See ya, then...{END}
+
+<var_A301>
+ Maybe some other time, then...{END}
+
+<Klarth>
+ Got any juicy info on the location
+ of any spirits?
+<pause>
+<var_A301>
+ I think so.
+ Let's see...
+<pause>
+<var_A301>
+ ...Right.
+ The information we have places
+ <var_D000>, the Spirit of Water, in the
+ <color_0002>Eroded Grotto<color_0000>.
+<pause>
+<var_A301>
+ That place is located on a solitary
+ island in the North Sea.
+<pause>
+<var_A301>
+ Our information also places <var_D100>,
+ the Spirit of Earth, in the <color_0002>Cave of
+ Spirits<color_0000>.
+<pause>
+<var_A301>
+ And that place is in a cavern east
+ of Belladam.
+<pause>
+<var_A301>
+ I hope that helps.{END}
+
+<var_A301>
+ The practical application of
+ magitechnology would be
+ wonderfully convenient, but its
+ safety is still uncertain.
+<pause>
+<var_A301>
+ There could be some serious
+ consequences for its use.{END}
+
+<Mint>
+ Pardon us, sir, but do you have any
+ clues about the locations of the
+ spirits?
+<pause>
+<var_A301>
+ We theorize that <var_D200>, the Spirit
+ of Fire, lives in the <color_0002>Cave of Searing
+ Sand<color_0000> on the continent of Freyland.{END}
+
+Lundgrom
+ Yggdrasill?
+<pause>
+Lundgrom
+ I've never heard of it.
+ Can you fill me in?
+<pause>
+<color_0002>(You tell him about it.)<color_0000>
+<pause>
+Lundgrom
+ Really? There is truly a forest out
+ there with something like that?
+ Fascinating...{END}
+
+Lundgrom
+ Greetings.
+<pause>
+Lundgrom
+ How's your search for spells going?
+<pause>
+<Klarth>
+ Actually, we're targeting spirits at
+ the moment.
+<pause>
+Lundgrom
+ Really? Hmm...
+ Well, I can't say how
+ credible this is, but...
+<pause>
+Lundgrom
+ For the past week, there has been
+ much chatter around the lab
+ speculating the existence of a spirit
+ called <var_D300> in the Moria Mine.
+<pause>
+<Klarth>
+ <var_D300>!?
+<pause>
+<Klarth>
+ The ruler of the Four Great Spirits?
+<pause>
+Lundgrom
+ Why yes...
+<pause>
+Lundgrom
+ I'm afraid there's no documented
+ evidence of it, though.
+<pause>
+Lundgrom
+ Just speculation that's been
+ blowing around the lab lately.{END}
+
+Lundgrom
+ Have you picked up your permit to
+ the Moria Mine yet?
+<pause>
+Lundgrom
+ ...No?
+<pause>
+Lundgrom
+ It's waiting for you at the
+ <color_0002>Adventurer's Guild<color_0000>, located on the
+ west side of town, in the lower
+ level of the Houttuynia pharmacy.{END}
+
+Lundgrom
+ I see you have returned unharmed.
+<pause>
+Lundgrom
+ You also seem to be in high spirits.
+ I take it your search of the mine
+ was successful?
+<pause>
+<Cless>
+ Yeah.
+ We managed to slog our way to
+ the bottom level.
+<pause>
+Lundgrom
+ Ah, I'm glad to hear it!
+<pause>
+Lundgrom
+ From all the anecdotes I've listened
+ to, it sounds like it must have been
+ a pretty rough expedition.
+<pause>
+<Klarth>
+ Amongst the treasures we found,
+ there were two pact rings, but,
+ er...
+<pause>
+Lundgrom
+ So you found the one necessary to
+ secure a pact with <var_D400>, at last?
+<pause>
+<Klarth>
+ ......
+<pause>
+Lundgrom
+ ...I'm assuming things didn't go as
+ well as I was led to believe.
+<pause>
+<Klarth>
+ Can we take it outside?
+ I'd rather no one overhear us.{END}
+
+Lundgrom
+ Give my regards to Ed.{END}
+
+<Klarth>
+ Sir Lundgrom, do you have a
+ moment?
+<pause>
+Lundgrom
+ Yes, no worries...
+<pause>
+Lundgrom
+ But first, I was wondering: Have
+ you met Ed yet?
+<pause>
+<Klarth>
+ Actually, that's exactly what we
+ came to talk to you about.
+<pause>
+Lundgrom
+ I see.
+ Let's take it outside, then.{END}
+
+Lundgrom
+ I'm just about to ask His Majesty
+ to get the ball rolling on the
+ permit. Come back tomorrow.{END}
+
+Lundgrom
+ Sorry it couldn't be done sooner,
+ but here it is.
+<pause>
+Lundgrom
+ Just pin it to your chest and the
+ guards'll let you through.
+<pause>
+Lundgrom
+ I must warn you. Even with this
+ crest, the elves of Ymir Forest will
+ absolutely not allow a half-elf into
+ their territory.<wait>{END}
+
+<color_0002>Acquired the Royal Crest of
+Alvanista.<color_0000><wait>{END}
+
+Lundgrom
+ To reach Ymir Forest, go <color_0002>across the
+ eastern bridge and then head
+ southwest<color_0000>.{END}
+
+Lundgrom
+ Now that you've obtained the pact
+ rings...
+<pause>
+Lundgrom
+ ...you just need to find more spells.
+<pause>
+Lundgrom
+ As His Majesty also said, we'll do all
+ we can to help you with that while
+ providing assistance to the war
+ effort.
+<pause>
+Lundgrom
+ We're making progress.
+ A mage unit has been already been
+ deployed to Midgard.{END}
+
+Lundgrom
+ Should you be here at a time like
+ this?
+<pause>
+Lundgrom
+ The war hasn't concluded yet, and
+ Dhaos is still at large.{END}
+
+<var_A301>
+ That pink-haired girl is a mage,
+ huh?
+<pause>
+<var_A301>
+ In that case, would you like to buy
+ her a spell book?
+<pause>
+<color_0002><speed_0000>1. <var_CC00>
+2. <var_BC00>
+3. Thunder Sword
+4. Thunder Beam<color_0000><speed_FFFF>{END}
+
+<var_A301>
+ That'll be 4000 gald.{END}
+
+<color_0002><Arche> learned <var_CC00>.<color_0000>{END}
+
+<var_A301>
+ Does 12000 gald sound okay?{END}
+
+<color_0002><Arche> learned <var_BC00>.<color_0000>{END}
+
+<var_A301>
+ Oh no!!
+ I can't find it!!
+<pause>
+<var_A301>
+ Ah! That's right.
+ Apologies for the outburst.
+ I remember selling that one a
+ while ago.
+<pause>
+<var_A301>
+ Yes, I remember her appearance
+ quite vividly. She was a cute young
+ girl with braided, blonde hair and a
+ pink apron dress.
+<pause>
+<var_A301>
+ She introduced herself, but I don't
+ remember her name so clearly.
+ It sounded something like...Lily?{END}
+
+<var_A301>
+ Oh, no!!
+ I can't find it!!
+<pause>
+<var_A301>
+ Ah, that's right.
+ My mistake.
+<pause>
+<var_A301>
+ A middle-aged-looking man
+ wearing a...oh, what was it? It
+ looked like a yellow raincoat or
+ something.
+<pause>
+<var_A301>
+ Well, anyway, a human matching
+ that description was the one who
+ took it. He didn't tell me his name
+ or where he was from. Sorry.{END}
+
+<var_A301>
+ Oh, I see.{END}
+
+<var_A301>
+ This isn't enough cash.{END}
+
+<var_A301>
+ Oh, no!!
+ I can't find it!!
+<pause>
+<var_A301>
+ Wait--didn't you buy that one
+ from me?{END}
+
+<var_A301>
+ I'm sure having a hard time selling
+ these spell books...{END}
+
+Gatekeeper
+ All is well!{END}
+
+Gatekeeper
+ All is well.{END}
+
+<var_A301>
+ According to a file found in Thor,
+ the Tria consists of three
+ armaments: the Blade of Flame, the
+ Blade of Frost, and a pact ring.{END}
+
+<var_A301>
+ I heard that Fenrir, one of the
+ ancient superpowers, used to exist
+ where the town of <color_0002>Freezekiel<color_0000>
+ stands today.
+<pause>
+<var_A301>
+ It's one of the last places around
+ connected to the Age of Antiquity.
+ Definitely a good place to start if
+ you're looking for the Tria.
+<pause>
+<var_A301>
+ Do you know the icy con-
+ tinent due north of here?
+ That's where it is, but...
+<pause>
+<var_A301>
+ ...don't complain to me about the
+ long voyage...or the cold.{END}
+
+<var_A301>
+ It seems that Odin, one of the
+ ancient superpowers, existed in
+ <color_0002>Freyland's volcanic area<color_0000>.
+<pause>
+<var_A301>
+ Documents suggest there was
+ abundant vegetation in that area
+ back then.{END}
+
+<var_A301>
+ A structure built during antiquity
+ still seems to dominate <color_0002>Freyland's
+ volcanic area<color_0000>.{END}
+
+Elf
+ Would it kill the king to appropriate
+ some money for the renovation of
+ this lab? The research environment
+ here is stifling.{END}
+
+<var_A301>
+ Recently, there have been many
+ sightings of malicious ninja being
+ reported.
+<pause>
+<var_A301>
+ Could Dhaos be control-
+ ling an army of them?
+ Or perhaps...creating one?{END}
+
+Elf
+ A relic from Thor states that the
+ fusion of the Tria requires <var_D800>'s
+ power.
+<pause>
+Elf
+ What could this mean?
+<pause>
+Elf
+ I thought <var_D800> was just a
+ mythical spirit...
+<pause>
+Elf
+ Hmmm... Yet it is also true that one
+ of the components of the Tria is
+ the pact ring of diamond...
+<pause>
+Elf
+ This can't be a coincidence...{END}
+
+Princess
+ Father told me all about you.
+<pause>
+Princess
+ I wish you the best on your
+ difficult journey.{END}
+
+Attendant
+ Whenever I lay my eyes on her,
+ the princess' stunning beauty never
+ fails to make an impression.{END}
+
+<Cless>
+ Where are we?
+<pause>
+<Klarth>
+ If my night vision was any better
+ than yours, I'd tell you...
+<pause>
+???
+ You there!
+ State your business!{END}
+
+???
+ You've quite some nerve, sneaking
+ into the room of the Crown Prince.
+<pause>
+<Klarth>
+ For the time being, I think Puppet
+ Prince is a more suitable title, eh
+ Laird?<wait>{END}
+
+Laird
+ GUARDS!! GUARDS!!{END}
+
+<Klarth>
+ Ah, crap!
+<pause>
+<Cless>
+ We're in trouble!{END}
+
+Laird
+ Hah hah hah!
+<pause>
+Laird
+ The soldiers are coming!
+ The soldiers are coming!
+<pause>
+Laird
+ What are you going to do now?
+ You've got nowhere to run, and
+ nowhere to hide!<wait>{END}
+
+<Arche>
+ What ARE we gonna do now?<panic>
+<pause>
+<Arche>
+ We're totally screwed now,
+ huh!?<panic>
+<pause>
+<Klarth>
+ Whatever's controlling him should
+ be nearby, but, uh<speed_0010>...<wait>{END}
+
+<Klarth>
+ Mmm!?
+<pause>
+<Klarth>
+ Is it just me, or does that
+ parakeet look awfully out of
+ place...{END}
+
+<Klarth>
+ Aha! Gotcha!{END}
+
+<Arche>
+ Whaaaa!?
+<pause>
+<Arche>
+ The parakeet turned into THAT!?
+<pause>
+<Arche>
+ I can't trust cute little birdies
+ anymore!
+<pause>
+Jahmir
+ My name is Jahmir.
+ I am very pleased to make your
+ acquaintance.
+<pause>
+Jahmir
+ I would dearly love to get to you
+ know you better, but alas, some
+ things just aren't meant to be.
+<pause>
+Jahmir
+ A shame... Had you been captured
+ as planned, you could have enjoyed
+ a long, exciting life as my
+ playthings...
+<pause>
+Jahmir
+ I'm so sorry, but it ends here.
+<pause>
+Jahmir
+ At the very least, enjoy your
+ beating, my pretties!
+ I know I will, ohohoho!<heart>{END}
+
+<Cless>
+ Whew...
+<pause>
+<Cless>
+ We got her, right?
+<pause>
+<Mint>
+ How is the prince?{END}
+
+Laird
+ What have I been<speed_0010>--<wait>{END}
+
+Laird
+ Wh-who are you!?
+<pause>
+<Mint>
+ We--<wait>{END}
+
+Laird
+ GUARDS!! GUARDS!!
+<pause>
+<Mint>
+ Huh?{END}
+
+Guard
+ Your Majesty, are you safe!?
+<pause>
+Laird
+ I'm fine.
+<pause>
+Laird
+ But that's not important.
+ Guards! Arrest these intruders!
+<pause>
+Guard
+ Yes, sir!!{END}
+
+<Klarth>
+ Don't bother pleading with them.
+<pause>
+<Klarth>
+ They won't give a damn about
+ what “criminals” like us have to
+ say. So let's just behave like good
+ little boys and girls and go along.<wait>{END}
+
+<Arche>
+ Aw man, this SUCKS!
+<pause>
+<Arche>
+ Does this mean we gotta eat icky
+ food?
+<pause>
+<Klarth>
+ I expect the king and his chief
+ statesmen to carefully analyze the
+ situation and figure out precisely
+ what's been going on.<wait>{END}
+
+<Mint>
+ You're saying we'll be released
+ when they realize the prince has
+ returned to his true self?
+<pause>
+<Klarth>
+ Yeah.<wait>{END}
+
+<Arche>
+ Booooooo...
+<pause>
+Guard
+ What are you complaining about!?
+<pause>
+Guard
+ Shut up!
+<pause>
+<Arche>
+ Fine, fine...{END}
+
+<Arche>
+ So, like...
+ Whadda we do now?
+<pause>
+<Klarth>
+ Just calm down.
+<pause>
+<Klarth>
+ They'll probably come knocking any
+ second. I don't think it's going to
+ take them long to realize the
+ prince's change of demeanor.<wait>{END}
+
+<Arche>
+ Grr!!
+ They better hurry up, then!!
+<pause>
+<Arche>
+ If they make me stay here any
+ longer, my skin's gonna get all dry,
+ and pasty, and gross...{END}
+
+???
+ I want you to escort these people
+ to the throne room.
+<pause>
+???
+ Treat them with courtesy.<wait>{END}
+
+Guard
+ To the throne room?
+<pause>
+Guard
+ A-as you wish, sir!<wait>{END}
+
+???
+ My name is Lundgrom.
+ I serve this kingdom
+ as Court <var_A301>.
+<pause>
+Lundgrom
+ His Majesty invites you to the
+ throne room.
+<pause>
+Lundgrom
+ He wishes to personally question
+ you regarding your actions on this
+ occasion.{END}
+
+<Arche>
+ Yay! <Klarth> was right!{END}
+
+Lundgrom
+ I see.
+ I think I understand the gist of
+ your situation.
+<pause>
+Lundgrom
+ A way to get those broken rings
+ repaired... Hmm...
+<pause>
+<Mint>
+ Do you have any ideas?{END}
+
+Lundgrom
+ I have a good friend named
+ Edward. He is a mage, as well as
+ an invaluable adviser to our
+ country.
+<pause>
+Lundgrom
+ He's also done extensive research
+ on rings.
+<pause>
+<Klarth>
+ Where might we find him?
+<pause>
+Lundgrom
+ Ed lives in a mansion in the
+ wilderness <color_0002>far west of here, past
+ the southwestern bridge<color_0000>.
+<pause>
+Lundgrom
+ Allow me to compose a letter of
+ introduction for you.
+<pause>
+<Klarth>
+ Thank you very much.<wait>{END}
+
+<color_0002>Acquired <item_3A00>.<color_0000>
+<pause>
+Lundgrom
+ Then, if you'll please excuse me.
+ I must attend to some other
+ matters.
+<pause>
+Lundgrom
+ Keep at it.{END}
+
+<Klarth>
+ Okay, then.
+ We don't have any other leads, so
+ let's get moving to this Edward
+ guy's house.{END}
+
+<Klarth>
+ Something the matter, <Cless>?
+<pause>
+<Cless>
+ Well...
+<pause>
+<Cless>
+ I just heard some buzzing in my
+ ears...{END}
+
+
+ You, mortal!{END}
+
+
+ That which you possess is beyond
+ your ken!{END}
+
+<unk1><Mint>
+ <Cless>, are you sure you're all
+ right!?
+<pause>
+{END}
+
+<Cless>
+ ......
+<pause>
+<Cless>
+ Uh, yeah.
+ No worries.
+<pause>
+<Cless>
+ My ears suddenly buzzed some
+ more.{END}
+
+Lundgrom
+ I can't believe him...
+<pause>
+Lundgrom
+ Without so much as a word even to
+ me, Ed goes off on some grand
+ quest...
+<pause>
+<Klarth>
+ Well, he suggested that we come to
+ you to get a permit allowing us
+ entry into the Ymir Forest.
+<pause>
+Lundgrom
+ No problem.
+ However, the procedure is a bit
+ more complicated than it is for the
+ Moria Mine.
+<pause>
+Lundgrom
+ It's going to take about a day to
+ get through all the formalities.
+ Drop by the lab tomorrow and I
+ should have it ready to go.{END}
+
+<Arche>
+ By half-elf, he means me, doesn't
+ he?
+<pause>
+<Klarth>
+ Hate to say it.
+<pause>
+<Arche>
+ No problemo.
+ I'll just hang out at the inn 'til you
+ guys get back, I guess.
+<pause>
+<Cless>
+ Hang in there.
+ We'll try to make this
+ as quick as possible!
+<pause>
+<color_0002><Arche> has left the party.
+Would you like to change
+her equipment?{END}
+
+Lundgrom
+ I've been anticipating your return.<wait>{END}
+
+<Mint>
+ Please forgive us...
+<pause>
+<Mint>
+ ...about Mr. Morrison...{END}
+
+Lundgrom
+ Don't force the blame upon
+ yourselves.
+<pause>
+Lundgrom
+ I believe the enemy I should hate
+ lies elsewhere.{END}
+
+Lundgrom
+ I received an envelope from Ed
+ just before the news broke. Here...{END}
+
+<Cless>
+ What's inside?
+<pause>
+Lundgrom
+ Besides a letter requesting that I
+ help you...
+<pause>
+Lundgrom
+ ...a key is also enclosed.<wait>{END}
+
+<Cless>
+ Oh, what's it for?
+<pause>
+Lundgrom
+ I don't believe Ed would appreciate
+ it if we discussed that here.
+<pause>
+Lundgrom
+ Why don't we respect that and
+ take this to his house?{END}
+

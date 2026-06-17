@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_279">
+        <source>So, like...I wanna know why the sky's blue.</source>
+        <target state="translated">So, like...I wanna know why the sky's blue.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_280">
+        <source>Because it's actually a huge wall
+painted that way. Simple as that.</source>
+        <target state="translated">Because it's actually a huge wall
+painted that way. Simple as that.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_281">
+        <source>Really?</source>
+        <target state="translated">Really?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_282">
+        <source>If you doubt me, why not try flying
+up there and seeing for yourself?</source>
+        <target state="translated">If you doubt me, why not try flying
+up there and seeing for yourself?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_283">
+        <source>Um, but that's probably
+way too high even for me...</source>
+        <target state="translated">Um, but that's probably
+way too high even for me...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_284">
+        <source>As it should. No one's found a way
+up there to touch it for themself.</source>
+        <target state="translated">As it should. No one's found a way
+up there to touch it for themself.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_285">
+        <source>So nobody knows the answer?</source>
+        <target state="translated">So nobody knows the answer?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_286">
+        <source>Basically. No point in getting
+your head in a knot over it.</source>
+        <target state="translated">Basically. No point in getting
+your head in a knot over it.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

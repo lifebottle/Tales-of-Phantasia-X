@@ -1,0 +1,1074 @@
+<Cless>
+「これ以上、先に進むのは無理そ
+　うだな・・・」{END}
+
+<Cless>
+「<item_9B00>でもないと、降りるのは
+　無理か・・・」{END}
+
+<Cless>
+「留守か・・・」
+<pause>
+<Cless>
+「どこに行ったんだろう？」{END}
+
+<Cless>
+「素手で、この壁を崩すのは無理
+　だな・・・」{END}
+
+<Cless>
+「占いの本がぎっしり・・・」
+<pause>
+<Cless>
+「精霊についての本もある」{END}
+
+<var_CF00>
+「く、苦しい・・・」{END}
+
+<var_CF00>
+「く、苦しい・・・」
+<pause>
+<var_CF00>
+「助けて・・・」{END}
+
+<audio_17C7><Klarth>
+「これはまるで、話に聞く魔界の
+　ようだ！」
+<pause>
+<audio_17C8><Klarth>
+「瘴気が充満して、魔界のデーモ
+　ンが入り込んでる！」
+<pause>
+<audio_17C9><Klarth>
+「出会ったら逃げるぞ！」
+<pause>
+<audio_17CA><Klarth>
+「私達では絶対に勝てん！！」{END}
+
+<audio_17CB><Mint>
+「ど、どうしましょう！？」<wait>{END}
+
+<audio_17CC><Klarth>
+「全ての原因は瘴気だ」
+<pause>
+<audio_17CD><Klarth>
+「瘴気のない所では奴らは生きて
+　いけん！」{END}
+
+<audio_17C0><Klarth>
+「あれはカマイタチだ」<wait>{END}
+
+<audio_17C1><Cless>
+「かまいたち？」
+<pause>
+<audio_17C2><Klarth>
+「あれに触れると切りきざまれて
+　しまうぞ」
+<pause>
+<audio_17C3><Mint>
+「そんなものが、なぜここに？」
+<pause>
+<audio_17C4><Klarth>
+「きっと風の精霊が狂って作り出
+　したんだな」{END}
+
+<audio_09AD><var_CF00>
+「あなた達が・・・」
+<pause>
+<audio_09AE><var_CF00>
+「瘴気を取り除いてくれたのです
+　ね・・・」
+<pause>
+<audio_09AF><Klarth>
+「いにしえの指輪の命に従い、風
+　を司るそなたとの契約を結びた
+　い」
+<pause>
+<audio_09B0><var_CF00>
+「まあ」
+<pause>
+<audio_09B1><var_CF00>
+「・・・その紋様、心地いい鳴子
+　の音、そして指輪から感じられ
+　る波動・・・」
+<pause>
+<audio_09B2><var_CF00>
+「人の身で、よくぞ召喚術を完成
+　させましたね」
+<pause>
+<audio_09B3><Klarth>
+「では！」
+<pause>
+<audio_09B4><var_CF00>
+「あなたの力になりましょう」
+<pause>
+<audio_09B5><var_CF00>
+「でもその前に、一つお願いがあ
+　ります」
+<pause>
+<audio_09B6><Klarth>
+「精霊が人間に願い？」
+<pause>
+<audio_09B7><var_CF00>
+「はい、実は・・・」
+<pause>
+<audio_09B8><var_CF00>
+「今のままでは私達と契約しても
+　近いうちに必ず、全くの無駄に
+　なってしまうのです」
+<pause>
+<audio_09B9><Klarth>
+「意味がわからんな」
+<pause>
+<audio_09BA><Klarth>
+「どういうことだ？」
+<pause>
+<audio_09BB><var_CF00>
+「私達の力の源でもあるマナが、
+　世界から失われようとしている
+　のです」
+<pause>
+<audio_09BC><var_CF00>
+「その結果、精霊も魔術も、世界
+　から消滅してしまいます」
+<pause>
+<audio_09BD><Klarth>
+「何だって！？」
+<pause>
+<audio_09BE><Klarth>
+「それは、なぜ！？」
+<pause>
+<audio_09BF><var_CF00>
+「精霊の森に生える世界樹ユグド
+　ラシルに一度会って下さい」
+<pause>
+<audio_09C0><var_CF00>
+「これを持っていけば、世界樹の
+　精霊に会うことができます」
+<pause>
+<audio_09C1><var_CF00>
+「話が聞ければ未然に防ぐことも
+　できるかもしれません」
+<pause>
+<audio_09C2><Klarth>
+「・・・・・・」
+<pause>
+<audio_09C3><Klarth>
+「わかった、行ってみよう」
+<pause>
+<audio_09C4><Klarth>
+「その前に、一つ聞きたいことが
+　ある」
+<pause>
+<audio_09C5><Klarth>
+「この谷に少女が一人で迷い込ま
+　なかったか？」
+<pause>
+<audio_09C6><Klarth>
+「教えてくれ」
+<pause>
+<audio_09C7><var_CF00>
+「この数ヶ月の間、谷を訪れたの
+　はあなた方だけです」
+<pause>
+<audio_09C8><var_CF00>
+「あなた方以外の人間は誰も見て
+　おりません・・・」
+<pause>
+<audio_09C9><Klarth>
+「そうか・・・」
+<pause>
+<audio_09CA><var_CF00>
+「では、契約を結びましょう」
+<pause>
+<audio_09CB><var_CF00>
+「オパールの指輪を・・・」{END}
+
+<audio_09CC><Klarth>
+「我、今、風の精に願い奉る」
+<pause>
+<audio_09CD><Klarth>
+「指輪の盟約のもと、我に精霊を
+　従わせたまえ・・・」
+<pause>
+<audio_09CE><Klarth>
+「我が名は<Klarth>・・・」{END}
+
+<color_0002><Klarth>は<var_CF00>を召喚できるようになりました。
+<pause>
+<item_3600>を手に入れました。<wait><color_0000>{END}
+
+<color_0002><Klarth>は『<var_B201>』の称号を得ました。<color_0000>{END}
+
+<Cless>
+「<var_CF00>がいない・・・」
+<pause>
+<Cless>
+「やはり、瘴気のせいか・・・？」{END}
+
+<audio_152A>バート
+「やったのか！？」
+<pause>
+<audio_152B>バート
+「風が、すっかり元通りに戻って
+　るぞ！」
+<pause>
+<audio_152C><Klarth>
+「ああ・・・」
+<pause>
+<audio_152D>バート
+「それで？」
+<pause>
+<audio_152E><Klarth>
+「あんたの娘が谷に入った形跡は
+　なかった」
+<pause>
+<audio_152F><Klarth>
+「正気を取り戻した精霊にも聞い
+　てみたのだが・・・」
+<pause>
+<audio_1530>バート
+「そうか・・・」
+<pause>
+<audio_1531>バート
+「いったい、どこに行ってしまっ
+　たんだ・・・」
+<pause>
+<audio_1532>バート
+「<Arche>は？」
+<pause>
+<audio_1533><Mint>
+「そう気を落とさないで下さい」
+<pause>
+<audio_1534><Mint>
+「これから向かう町でも、娘さん
+　のことは聞いてみますから」
+<pause>
+<audio_1535>バート
+「・・・・・・」
+<pause>
+<audio_1536>バート
+「ありがとう」{END}
+
+<audio_1537><Klarth>
+「よし、それじゃあ<var_CF00>の言っ
+　ていた精霊の森とやらに行って
+　みるか」
+<pause>
+<audio_1538><Mint>
+「確か、ベルアダムの村の南でし
+　たよね」
+<pause>
+<audio_1539><Klarth>
+「ああ、そうだ」{END}
+
+<audio_17C5><Cless>
+「あ、あの岩は動かせそうだな」
+<pause>
+<audio_17C6><Cless>
+「あれで穴をふさげば・・・」{END}
+
+<color_0002>休みますか？<color_0000>{END}
+
+<Arche>
+「お父さん、ユグドラシルが復活
+　したよ」
+<pause>
+バート
+「ユグドラシル？」
+<pause>
+<Arche>
+「精霊の森の御神木のことだよ」
+<pause>
+バート
+「御神木を復活させたのか！？」
+<pause>
+バート
+「いや、すごいな」
+<pause>
+バート
+「これで旅も終わりなのか？」
+<pause>
+<Arche>
+「ま〜だ<heart>」
+<pause>
+<Arche>
+「やらなきゃならないことが、ま
+　だ少しあるんだ」
+<pause>
+<Arche>
+「心配しないで、必ず帰ってくる
+　からさ」{END}
+
+バート
+「ミッドガルズの伝承で人の生命
+　の源、生命エネルギーを司る精
+　霊がいる・・・」
+<pause>
+バート
+「という話があるのは知っている
+　が・・・」<wait>{END}
+
+<unk1>バート
+もしかしたら<Mint>君の法術の力と何か関係があるかもしれないな」<wait>{END}
+
+バート
+「あれは人の生命を助ける力があ
+　るんだろ？」
+<pause>
+バート
+「何でも馬の姿をしているとか」{END}
+
+<unk1>バート
+それじゃあ、<Arche>をよろしく頼むよ」<wait>{END}
+
+バート
+「しかし、子供ってのは知らない
+　うちに成長してしまうものなん
+　だな・・・」
+<pause>
+バート
+「ついこの間まで子供だと思って
+　たのに・・・」<wait>{END}
+
+バート
+「これを持っていくといい」
+<pause>
+バート
+「君達の役に立つかな？」<wait>{END}
+
+<color_0002><item_7700>を手に入れました。
+<pause>
+<color_0000><Arche>
+「お父さん、ありがとね」<wait>{END}
+
+<unk1>バート
+<Arche>のことはよろしく頼むよ」{END}
+
+バート
+「そうそう、<color_0002><item_9600><color_0000>や<color_0002><item_9B00><color_0000>を
+　持っていった方がいいぞ」
+<pause>
+バート
+「谷は危険な所がたくさんあるか
+　らな」
+<pause>
+バート
+「たしか、ハーメルに行けば売っ
+　ていたと思ったが・・・」{END}
+
+男の人
+「何だ、君達は？」
+<pause>
+男の人
+「ここは、君達の来るような場所
+　じゃない」
+<pause>
+男の人
+「早く帰りなさい」{END}
+
+おじいさん
+「なんじゃ、お前らは？」
+<pause>
+おじいさん
+「人の家に、勝手に入ってくるん
+　じゃない」<wait>{END}
+
+おじいさん
+「ここは空き家じゃったからワシ
+　がもらったんじゃ」{END}
+
+おじいさん
+「ん？」
+<pause>
+おじいさん
+「おぬし、エルフか」
+<pause>
+<Arche>
+「あ、いえ、あたしハーフエルフ
+　なんだけど・・・」
+<pause>
+おじいさん
+「どっちでもええわい」
+<pause>
+おじいさん
+「呪文書があるんじゃが、どっち
+　か買わんか？」
+<pause>
+<color_0002><speed_0000>１。<var_C200>
+２。<var_BF00><color_0000><speed_FFFF>{END}
+
+おじいさん
+「２５０ガルドじゃ、よいか？」{END}
+
+<color_0002><Arche>は<var_C200>を覚えました。<color_0000><wait>{END}
+
+おじいさん
+「８００ガルドじゃ、よいか？」{END}
+
+<color_0002><Arche>は<var_BF00>を覚えました。<color_0000><wait>{END}
+
+おじいさん
+「用がないなら、さっさと出てく
+　んじゃ」{END}
+
+おじいさん
+「用が済んだら、さっさと出てく
+　んじゃ」{END}
+
+おじいさん
+「金が足りんぞ」{END}
+
+おじいさん
+「この魔術はもう覚えてるじゃろ
+　うが」{END}
+
+おじいさん
+「魔術師の娘がいないのじゃ」{END}
+
+料理人
+「グラタンは作っておるのか？
+　・・・じゃ！」{END}
+
+料理人
+「私は『すばらしき味の世界』の
+　住人じゃ」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たいのじゃ！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？・・・じゃ！」{END}
+
+料理人
+「この料理を伝授するのじゃ！」<wait>{END}
+
+<color_0002>グラタンを料理できるようになりま
+した。<color_0000>{END}
+
+料理人
+「おお、なんということじゃ！」{END}
+
+<audio_0A8A><Klarth>
+「仇への憎しみがはれぬあまりに
+　嘆きさまよう友の魂に、自分の
+　体を貸し与える・・・か」
+<pause>
+<audio_0A8B><Mint>
+「<Rhea>さん、天国に行けたでしょ
+　うか？」
+<pause>
+<audio_0A8C><Cless>
+「行けたさ、きっと」<wait>{END}
+
+<unk1><audio_0A8D><Klarth>
+あの<Arche>って娘に魔術の才能があったからできたことだろうが・・・」<wait>{END}
+
+<audio_0A8E><Klarth>
+「まったくおどろいたな」{END}
+
+<audio_0A8F><Mint>
+「<Rhea>さん！」
+<pause>
+<audio_0A90><Mint>
+「あ・・・すみません・・・
+　<Arche>さんでしたね」<wait>{END}
+
+<audio_0A91><Arche>
+「いいのよ、気にしなくても」
+<pause>
+<audio_0A92><Arche>
+「<Mint>ちゃんだっけ？」
+<pause>
+<audio_0A93><Arche>
+「私がいつまでもこの格好をして
+　いるのが悪いんだもんね」{END}
+
+<audio_0A94><Arche>
+「これでどう？」
+<pause>
+<audio_0A95><Mint>
+「あ・・・」
+<pause>
+<audio_0A96><Mint>
+「ええ、お似合いです」<wait>{END}
+
+<audio_0A97><Arche>
+「服の方も・・・えいっ！」{END}
+
+<audio_0A98><Arche>
+「<Rhea>の力になってくれてありが
+　とう、ね♪」
+<pause>
+<audio_0A99><Arche>
+「今度は、あたしがみんなの力に
+　なってあげちゃうから<heart>」
+<pause>
+<audio_0A9A><Klarth>
+「同じ顔なのに、口調ががらっと
+　変わったのでなんだか違和感が
+　あるな・・・」
+<pause>
+<audio_0A9B><Arche>
+「まあ、これがあたし本来の話し
+　方なんだから許してよ」
+<pause>
+<audio_0A9C><Arche>
+「あっ、そうそう」
+<pause>
+<audio_0A9D><Arche>
+「これは、あたしのお父さんから
+　のお礼だってさ」<wait>{END}
+
+<color_0002>契約の指輪<item_5A01>と
+<item_6501>を手に入れました。<color_0000>
+<pause>
+<audio_0A9E><Arche>
+「さ、行こうよ！」
+<pause>
+<audio_0A9F><Cless>
+「よし、アルヴァニスタへ向けて
+　出発だ！！」{END}
+
+<audio_0980><Cless>
+「ここが・・・」
+<pause>
+<audio_0981><Klarth>
+「風の精霊の住む谷、ローンヴァ
+　レイさ」
+<pause>
+<audio_0982><Klarth>
+「この世の全ての物には、霊が宿っ
+　ていると言われている」
+<pause>
+<audio_0983><Klarth>
+「その多くがまだ未確認なんだが
+　強い力を持つ四大精霊は、存在
+　が確認されている」
+<pause>
+<audio_0984><Cless>
+「四大精霊ですか？」
+<pause>
+<audio_0985><Klarth>
+「そう、地水火風にそれぞれ宿る
+　精霊を四大精霊と呼ぶ」
+<pause>
+<audio_0986><Klarth>
+「風の精霊<var_CF00>はその内の一つ
+　なんだ」
+<pause>
+<audio_0987><Mint>
+「それでは、これから<var_CF00>の助
+　力を得るわけですね」
+<pause>
+<audio_0988><Klarth>
+「まあ、簡単にはいかんがそう考
+　えて構わないだろう」
+<pause>
+<audio_0989><Klarth>
+「実は、精霊との契約にはルーン
+　リングと呼ばれる指輪が必要な
+　んだ」
+<pause>
+<audio_098A><Klarth>
+「私は『契約の指輪』と呼んでい
+　るがな」
+<pause>
+<audio_098B><Klarth>
+「まずはそれを手に入れる」<wait>{END}
+
+<unk1><audio_098C><Cless>
+必要・・・って<Klarth>さんが、召喚術を考えたんじゃなかったんですか？」
+<pause>
+<audio_098D><Klarth>
+実は、古文書が残っていてね」
+<pause>
+<audio_098E><Klarth>
+私はそれを元に研究し、完璧なものにしたのさ」
+<pause>
+<audio_098F><Cless>
+<Klarth>さん一人でですか？すごいですね！」
+<pause>
+<audio_0990><Klarth>
+頭の固い学会の連中には、できるわけがない、と言われていたがね」
+<pause>
+<audio_0991><Klarth>
+まあとにかく、そこの家に入るぞ」
+<pause>
+<audio_0992><Klarth>
+会いたい男がいるんだ」{END}
+
+<audio_0A86>バート
+「<Arche>！」
+<pause>
+<audio_0A87><Arche>
+「ごめん・・・実は・・・」
+<pause>
+<audio_0A88>バート
+「いいんだ、帰って来てくれさえ
+　すれば・・・」
+<pause>
+<audio_0A89><Arche>
+「お父さん、ごめんなさい・・・」{END}
+
+<audio_0993><Klarth>
+「失礼だが、あなたがバートさん
+　ですかな？」<wait>{END}
+
+<audio_1519>バート
+「おや？」
+<pause>
+<audio_151A>バート
+「君達はこの間の・・・」<wait>{END}
+
+<audio_151B><Klarth>
+「君らは、バートと知り合いだっ
+　たのか？」
+<pause>
+<audio_177D><Cless>
+「いえ、そういうわけじゃないん
+　ですけど・・・」<wait>{END}
+
+<audio_0994>バート
+「あなたは？」<wait>{END}
+
+<unk1><audio_0995><Klarth>
+私は<Klarth>、風の精霊との契約に挑戦したいんだ」<wait>{END}
+
+<audio_0996>バート
+「しばらく待った方がいい」
+<pause>
+<audio_0997>バート
+「以前に地震があったろう？」
+<pause>
+<audio_0998>バート
+「あの後から精霊達が妙に騒ぎだ
+　してな」
+<pause>
+<audio_0999>バート
+「一人じゃ近寄れんし、原因もわ
+　からないままだ」
+<pause>
+<audio_099A><Klarth>
+「事情はわかったが、急ぐんでね」
+<pause>
+<audio_099B><Klarth>
+「それと、君のところにあるルー
+　ンリングを譲ってほしい」
+<pause>
+<audio_099C><Klarth>
+「もちろん、それに見合う対価は
+　払おう」
+<pause>
+<audio_099D>バート
+「・・・・・・」
+<pause>
+<audio_099E>バート
+「あんたがなぜ指輪のことを知っ
+　ているのか知らないが・・・」
+<pause>
+<audio_099F>バート
+「わしの頼みを聞いてくれるなら
+　指輪はタダで譲ってもいい」
+<pause>
+<audio_09A0><Klarth>
+「どういうことだ？」
+<pause>
+<audio_09A1>バート
+「実は、わしの娘が何日か前から
+　行方知れずになってな」
+<pause>
+<audio_09A2>バート
+「心配して精霊の様子を見に行っ
+　たかもしれないんだ」
+<pause>
+<audio_09A3><Klarth>
+「女の子が一人で？」
+<pause>
+<audio_09A4><Klarth>
+「危険すぎるだろう！？」
+<pause>
+<audio_09A5>バート
+「無鉄砲な娘でな・・・困ってい
+　る」
+<pause>
+<audio_09A6><Klarth>
+「よし、引き受けよう」<wait>{END}
+
+<unk1><audio_09A7>バート
+娘の名は<Arche>といって
+ポニーテールが特徴だ」<wait>{END}
+
+<audio_09A8>バート
+「誰に似たのかオテンバでね」
+<pause>
+<audio_09A9>バート
+「とにかく目立つ子だよ」
+<pause>
+<audio_09AA><Klarth>
+「わかった、捜してこよう」
+<pause>
+<audio_09AB>バート
+「風の精霊は、谷の一番奥のつり
+　橋の向こうにいるはずだ」
+<pause>
+<audio_09AC>バート
+「娘を頼む」<wait>{END}
+
+<color_0002>契約の指輪<item_5D01>を手に入れました。<color_0000>{END}
+
+<unk1><audio_0DC3><Cless>
+ふう、やっと<Arche>の家に着いたな」<wait>{END}
+
+<audio_0DC4><Cless>
+「<Arche>？」{END}
+
+<audio_0DC5><Arche>
+「お父さんの嘘つき！！」
+<pause>
+<audio_0DC6><Arche>
+「お母さん、死んでないじゃん！」
+<pause>
+<audio_0DC7>バート
+「ななな・・・」{END}
+
+<audio_0DC8>バート
+「あ、会ったのか？」{END}
+
+<audio_0DC9>バート
+「そうか・・・」
+<pause>
+<audio_0DCA><Arche>
+「どうしてお母さん、家から出て
+　行っちゃったの？」{END}
+
+<audio_0DCB><Arche>
+「浮気？」<wait>{END}
+
+<audio_0DCC>バート
+「ばっ、何てことを、何でそうな
+　る」
+<pause>
+<audio_0DCD><Klarth>
+「エルフは種族として団結する道
+　を選んだ・・・」
+<pause>
+<audio_0DCE><Klarth>
+「確か、そうじゃなかったか？」<wait>{END}
+
+<audio_0DCF>バート
+「その通りだ・・・」
+<pause>
+<audio_0DD0>バート
+「ほんの十数年前まではエルフと
+　人間は共存していたんだ」
+<pause>
+<audio_0DD1>バート
+「しかしある時、突然彼らは人間
+　を嫌い・・・」
+<pause>
+<audio_0DD2>バート
+「エルフの血が人間と交わること
+　を拒んで今のユミルの森に移り
+　住んだのだ」{END}
+
+<audio_0DD3>バート
+「もちろん、エルフ族全員がそう
+　考えていたわけではない」
+<pause>
+<audio_0DD4>バート
+「むりやり人間と引き裂かれた例
+　もたくさんあった」
+<pause>
+<audio_0DD5>バート
+「わしとルーチェもその中の一つ
+　にすぎないんだ」{END}
+
+<audio_0DD6>バート
+「ルーチェ！！」{END}
+
+<audio_0DD7>バート
+「どうしても、行くのか？」
+<pause>
+<audio_0DD8>ルーチェ
+「はい・・・」
+<pause>
+<audio_0DD9>バート
+「・・・・・・」
+<pause>
+<audio_0DDA>バート
+「なぜだ？」
+<pause>
+<audio_0DDB>バート
+「なぜ、もう一緒に暮らせないん
+　だ？」{END}
+
+<audio_0DDC>バート
+「ルーチェ、考え直してくれ！」
+<pause>
+<audio_0DDD>ルーチェ
+「・・・・・・」
+<pause>
+<audio_0DDE>ルーチェ
+「バート・・・」
+<pause>
+<audio_0DDF>バート
+「一緒に・・・もう一度・・・」
+<pause>
+<audio_0DE0>ルーチェ
+「・・・・・・」{END}
+
+<audio_0DE1>バート
+「ルーチェ、なぜなんだ！！」{END}
+
+<audio_0DE2>エルフ
+「種族の隔たりは、考える以上に
+　大きかったということだ」
+<pause>
+<audio_0DE3>エルフ
+「お前達人間が、今までしたこと
+　やこれからしようとしているこ
+　と・・・」
+<pause>
+<audio_0DE4>エルフ
+「その愚かさをもう一度よく考え
+　てみることだ」
+<pause>
+<audio_0DE5>バート
+「何だと、いったい、どういうこ
+　となんだ？」
+<pause>
+<audio_0DE6>エルフ
+「でなければ、ニ度と我々が人間
+　の前に姿を見せることもあるま
+　い」{END}
+
+<audio_0DE7>バート
+「どういう意味なんだ・・・」
+<pause>
+<audio_0DE8>バート
+「ルーチェ・・・」{END}
+
+<audio_0DE9><Cless>
+「人間がしようとしていることの
+　愚かさ？」{END}
+
+<audio_0DEA>バート
+「わしには全くわからんよ」
+<pause>
+<audio_0DEB>バート
+「とにかく、自分を死んだことに
+　してくれというのは、ルーチェ
+　たっての願いだったんだ」
+<pause>
+<audio_0DEC><Arche>
+「お母さんね・・・」<wait>{END}
+
+<audio_0DED>バート
+「えっ？」
+<pause>
+<audio_0DEE><Arche>
+「お母さん、謝ってたよ、ごめん
+　なさいって・・・」
+<pause>
+<audio_0DEF><Arche>
+「お父さんは、お母さんのこと、
+　恨んでる？」
+<pause>
+<audio_0DF0>バート
+「・・・・・・」
+<pause>
+<audio_0DF1>バート
+「わしは、一度たりとも、母さん
+　を恨んだことはないよ」
+<pause>
+<audio_0DF2><Arche>
+「・・・・・・」
+<pause>
+<audio_0DF3><Arche>
+「それじゃあ、今でもお母さんの
+　こと・・・」
+<pause>
+<audio_0DF4><Arche>
+「愛してる？」
+<pause>
+<audio_0DF5>バート
+「もちろんだよ」
+<pause>
+<audio_0DF6><Arche>
+「・・・・・・」{END}
+
+<audio_0DF7><Arche>
+「だったら・・・」<wait>{END}
+
+<unk1><audio_0DF8><Arche>
+いつかきっと、もと通りになれるじゃん！」
+<pause>
+<audio_0DF9><Arche>
+じゃあ、この話は
+もうおしまい！」
+<pause>
+<audio_0DFA>バート
+ああ・・・すまなかったな、
+<Arche>」{END}
+
+<unk1><audio_0DFB><Klarth>
+<Arche>・・・いいかな？」
+<pause>
+<audio_0DFC><Arche>
+あっ、ごめん<panic>」
+<pause>
+<audio_0DFD><Arche>
+ねぇ、お父さん・・・<Rhea>の両親のことなんだけど・・・何か悪いことしてたの？」
+<pause>
+<audio_0DFE>バート
+？」<wait>{END}
+
+<audio_0DFF>バート
+「どういうことだ？」
+<pause>
+<audio_0E00><Klarth>
+「スカーレット夫妻とミッドガル
+　ズの間に、何か共通点がないか
+　と思ってね」
+<pause>
+{END}
+
+<audio_0E01>バート
+「・・・以前はミッドガルズに住
+　んでいたらしい」
+<pause>
+<audio_0E02>バート
+「数年前にミッドガルズから引っ
+　越してきたくらいしか・・・」
+<pause>
+<audio_0E03>バート
+「何でも、城で未知の力の研究を
+　していたとか聞いているが」
+<pause>
+<audio_0E04>バート
+「彼らがどうかしたのか？」<wait>{END}
+
+<audio_0E05><Klarth>
+「未知の力？」<wait>{END}
+
+<audio_0E06><Klarth>
+「もしや、それは魔科学のことで
+　は・・・」
+<pause>
+{END}
+
+<audio_0E07><Arche>
+「魔科学とダオス、何か関係でも
+　あるのかな？」
+<pause>
+{END}
+
+<audio_0E08><Cless>
+「さあ・・・」
+<pause>
+{END}
+
+<audio_0E09><Mint>
+「そろそろミッドガルズに戻らな
+　いと・・・」
+<pause>
+<audio_0E0A><Klarth>
+「そうだな・・・」
+<pause>
+<color_0002>どうしますか？
+<speed_0000>１。パッと帰る
+２。歩いて帰る<color_0000><speed_FFFF>{END}
+
+<audio_17CE><Klarth>
+「よし、これでこちらの世界に瘴
+　気が流れてくることもなくなる
+　だろう」
+<pause>
+<audio_17CF><Klarth>
+「さあ、<var_CF00>に会いに行こう」
+<pause>
+<audio_17D0><Cless>
+「バートさんの話ではさらに奥の
+　つり橋の向こうでしたよね」
+<pause>
+<audio_17D1><Klarth>
+「ああ、そうだ」{END}
+
+<audio_151C><var_CF00>
+「仲間が、魔界の空気に触れて、
+　次々と正気を・・・」{END}
+
+<audio_151D><Mint>
+「魔界の空気？」
+<pause>
+<audio_151E><Klarth>
+「そうか、瘴気に冒されてしまっ
+　たのか！」
+<pause>
+<audio_151F><Cless>
+「ショウキ？」
+<pause>
+<audio_1520><Cless>
+「それで<var_CF00>が正気を？」{END}
+
+<unk1><audio_1521><Mint>
+瘴気？」
+<pause>
+<audio_1522><Mint>
+<Klarth>さん、詳しく教えて下さいますか？」
+<pause>
+<audio_1523><Klarth>
+魔界の空気のことだ」
+<pause>
+<audio_1524><Klarth>
+たぶんこちらの世界と魔界との間に歪みができて、こちらに漏れ出してるんだな」
+<pause>
+<audio_1525><Klarth>
+人間は少しくらい吸っても平気だが、精霊はそうはいかない」
+<pause>
+<audio_1526><Mint>
+あの精霊のようになってしまうのですね」{END}
+
+<audio_1527><Cless>
+「じゃあその歪みっていうか穴を
+　ふさげばいいんだろう？」<wait>{END}
+
+<audio_1528><Cless>
+「さっそく探してみようよ」
+<pause>
+<audio_1529><Klarth>
+「そうだな」{END}
+
+忍者
+「気に入ってもらえたかしら？」{END}
+
+忍者
+「わたしは修業中の忍者です」
+<pause>
+忍者
+「ここでの修行で会得した忍術を
+　あなたにも教えてあげましょう
+　か？」{END}
+
+忍者
+「ただし<num1_00000035>０００ガルドよ」
+<pause>
+<speed_0000><color_0002><num1_0000CF08>ガルド払いますか？<color_0000><speed_FFFF>{END}
+
+<color_0002><Suzu>は<var_B500>を覚えました。
+<pause>
+<color_0000>忍者
+「ありがとう」{END}
+
+忍者
+「お金が足りないみたいね」{END}
+
+忍者
+「買ってよ」{END}
+
+忍者
+「お役に立てなくて残念だわ」{END}
+

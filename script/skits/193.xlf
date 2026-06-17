@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_958">
+        <source>So what is a unicorn, anyway?</source>
+        <target state="translated">So what is a unicorn, anyway?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_959">
+        <source>&lt;Mint&gt; said it's the
+embodiment of clerical artes.</source>
+        <target state="translated">&lt;Mint&gt; said it's the
+embodiment of clerical artes.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_960">
+        <source>No, I mean... What does it look like?</source>
+        <target state="translated">No, I mean... What does it look like?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_961">
+        <source>It's just a horned horse, yeah?</source>
+        <target state="translated">It's just a horned horse, yeah?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_962">
+        <source>It is not a horse! The unicorn is a unicorn!</source>
+        <target state="translated">It is not a horse! The unicorn is a unicorn!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_963">
+        <source>Yeah, yeah, I hear you. Now, shall we go meet it?</source>
+        <target state="translated">Yeah, yeah, I hear you. Now, shall we go meet it?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

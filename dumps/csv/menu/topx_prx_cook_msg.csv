@@ -1,0 +1,74 @@
+全員のＨＰが１０＋<var_0003>％回復しました{END},Everyone's HP has been restored by (10+<var_0003>)%.{END}
+"全員のＨＰが１０＋<var_0003>％回復しました
+追加効果：解毒{END}","Everyone's HP has been restored by (10+<var_0003>)%.
+Plus: Poison cured.{END}"
+全員のＨＰが１２＋<var_0003>％回復しました{END},Everyone's HP has been restored by (12+<var_0003>)%.{END}
+"全員のＨＰが１２＋<var_0003>％回復しました
+追加効果：解毒{END}","Everyone's HP has been restored by (12+<var_0003>)%.
+Plus: Poison cured.{END}"
+"全員のＨＰが１５＋<var_0003>％回復しました
+追加効果：解マヒ／石化解除{END}","Everyone's HP has been restored by (15+<var_0003>)%.
+Plus: Paralysis and Petrification cured.{END}"
+全員のＨＰが２０＋<var_0003>％回復しました{END},Everyone's HP has been restored by (20+<var_0003>)%.{END}
+"全員のＨＰが２０＋<var_0003>％回復しました
+追加効果：解毒{END}","Everyone's HP has been restored by (20+<var_0003>)%.
+Plus: Poison cured.{END}"
+"全員のＨＰが２０＋<var_0003>％回復しました
+追加効果：解マヒ{END}","Everyone's HP has been restored by (20+<var_0003>)%.
+Plus: Paralysis cured.{END}"
+"全員のＨＰが２０＋<var_0003>％回復しました
+追加効果：石化解除{END}","Everyone's HP has been restored by (20+<var_0003>)%.
+Plus: Petrification cured.{END}"
+全員のＨＰが２５＋<var_0003>％回復しました{END},Everyone's HP has been restored by (25+<var_0003>)%.{END}
+全員のＴＰが７＋<var_0003>％回復しました{END},Everyone's TP has been restored by (7+<var_0003>)%.{END}
+"全員のＨＰが２５＋<var_0003>％回復しました
+追加効果：解毒{END}","Everyone's HP has been restored by (25+<var_0003>)%.
+Plus: Poison cured.{END}"
+全員のＨＰが３０＋<var_0003>％回復しました{END},Everyone's HP has been restored by (30+<var_0003>)%.{END}
+全員のＨＰが３５＋<var_0003>％回復しました{END},Everyone's HP has been restored by (35+<var_0003>)%.{END}
+"全員のＨＰが１５＋<var_0003>％回復しました
+追加効果：解毒／解マヒ{END}","Everyone's HP has been restored by (15+<var_0003>)%.
+Plus: Poison and Paralysis cured.{END}"
+"全員のＨＰが２５＋<var_0003>％回復しました
+全員のＴＰが１％回復しました{END}","Everyone's HP has been restored by (15+<var_0003>)%.
+Everyone's TP has been restored by 1%.{END}"
+"全員のＨＰが２０＋<var_0003>％回復しました
+追加効果：戦闘不能解除{END}","Everyone's HP has been restored by (20+<var_0003>)%.
+Plus: Fallen allies revived.{END}"
+"全員のＨＰが２０＋<var_0003>％回復しました
+全員のＴＰが５％回復しました{END}","Everyone's HP has been restored by (20+<var_0003>)%.
+Everyone's TP has been restored by 5%.{END}"
+全員のＨＰが４０＋<var_0003>％回復しました{END},Everyone's HP has been restored by (40+<var_0003>)%.{END}
+全員のＴＰが１５＋<var_0003>％回復しました{END},Everyone's TP has been restored by (15+<var_0003>)%.{END}
+"全員のＨＰが３５＋<var_0003>％回復しました
+追加効果：解毒／解マヒ{END}","Everyone's HP has been restored by (35+<var_0003>)%.
+Plus: Poison and Paralysis cured.{END}"
+全員のＴＰが２５＋<var_0003>％回復しました{END},Everyone's TP has been restored by (25+<var_0003>)%.{END}
+"全員のＨＰが２０＋<var_0003>％回復しました
+全員のＴＰが１０％回復しました{END}","Everyone's HP has been restored by (20+<var_0003>)%.
+Everyone's TP has been restored by 10%.{END}"
+全員のＨＰが５０＋<var_0003>％回復しました{END},Everyone's HP has been restored by (50+<var_0003>)%.{END}
+"全員のＨＰ・ＴＰが完全回復しました
+追加効果：戦闘不能解除{END}","Everyone's HP and TP has been fully restored.
+Plus: Fallen allies revived.{END}"
+全員のＨＰが１％回復しました{END},Everyone's HP has been restored by 1%.{END}
+"全員のＨＰが１％回復しました
+全員のＴＰが１％回復しました{END}","Everyone's HP has been restored by 1%.
+Everyone's TP has been restored by 1%.{END}"
+全員のＨＰが５％回復しました{END},Everyone's HP has been restored by 5%.{END}
+"しかし、思わぬ効果で毒・マヒ・
+石化・戦闘不能が全て治りました{END}","But the results were still edible, and by
+some mystical power, everyone's status
+ailments were cured!{END}"
+全員のＴＰが５％回復しました{END},Everyone's TP has been restored by 5%.{END}
+"しかし、思わぬ効果で全員のＨＰが
+２０％回復ＴＰが５％回復しました{END}","But the results weren't too shabby and
+everyone's HP and TP were restored by
+20% and 5%, respectively.{END}"
+"全員のＨＰが１％回復しました
+全員のＴＰが１０％回復しました{END}","Everyone's HP has been restored by 1%.
+Everyone's TP has been restored by 10%.{END}"
+"しかし、思わぬ効果で全員のＨＰが
+完全回復しました{END}","But the results were surprisingly tasty and
+everyone's HP was completely restored!{END}"
+{END},{END}

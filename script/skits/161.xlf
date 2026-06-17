@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_807">
+        <source>Well, that was odd.</source>
+        <target state="translated">Well, that was odd.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_808">
+        <source>What was?</source>
+        <target state="translated">What was?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_809">
+        <source>I was just summoning,
+then someone summoned *us*.</source>
+        <target state="translated">I was just summoning,
+then someone summoned *us*.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_810">
+        <source>Shouldn't we be returning to the
+tablet to find out who it was, then?</source>
+        <target state="translated">Shouldn't we be returning to the
+tablet to find out who it was, then?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_811">
+        <source>Like, totally. Why the heck did we come
+all the way back to the surface, anyway?</source>
+        <target state="translated">Like, totally. Why the heck did we come
+all the way back to the surface, anyway?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

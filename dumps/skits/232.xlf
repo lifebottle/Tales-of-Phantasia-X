@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1196">
+        <source>So there was a sighting of castle
+near the mines northwest of Early...</source>
+        <target state="translated">So there was a sighting of castle
+near the mines northwest of Early...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1197">
+        <source>I just *wonder* what *that* could be!</source>
+        <target state="translated">I just *wonder* what *that* could be!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1198">
+        <source>Surely it couldn't be Dhaos' castle?</source>
+        <target state="translated">Surely it couldn't be Dhaos' castle?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1199">
+        <source>I bet my left foot it is.</source>
+        <target state="translated">I bet my left foot it is.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1200">
+        <source>Then let's check it out already.</source>
+        <target state="translated">Then let's check it out already.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_930">
+        <source>We drove the enemy off thanks to Pegasus.</source>
+        <target state="translated">We drove the enemy off thanks to Pegasus.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_931">
+        <source>It'd be so cool if my broom
+could always fly like it did.</source>
+        <target state="translated">It'd be so cool if my broom
+could always fly like it did.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_932">
+        <source>Then there's the Mana Cannon...
+Magitechnology is frighteningly powerful.</source>
+        <target state="translated">Then there's the Mana Cannon...
+Magitechnology is frighteningly powerful.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_933">
+        <source>Yes. I feel I now understand why
+Dhaos is fighting so persistently.</source>
+        <target state="translated">Yes. I feel I now understand why
+Dhaos is fighting so persistently.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_934">
+        <source>Anyway, time to strike while the iron's hot.</source>
+        <target state="translated">Anyway, time to strike while the iron's hot.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_935">
+        <source>Right! To Dhaos' castle!</source>
+        <target state="translated">Right! To Dhaos' castle!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

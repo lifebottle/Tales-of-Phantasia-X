@@ -1,0 +1,1189 @@
+<Cless>:<nl>
+ Huh?
+ What happened to all the guards?
+<pause>
+<Cless>:<nl>
+ Wait, it sounds like something's
+ going on at the castle gate!{END}
+
+Midgard (South Side){END}
+
+Midgard (North Side){END}
+
+Equipment Shop “Spirit”{END}
+
+Inn “Saber”{END}
+
+Drug Store “Buster”{END}
+
+Item Shop “Slayer IV”{END}
+
+Grocery Store “Ninja”{END}
+
+Mayor's House{END}
+
+Citizen:<nl>
+ Shoo!
+ No one's home!
+ Not even me!!{END}
+
+<Cless>:<nl>
+ No answer.
+ I guess no one's home...{END}
+
+<Mint>:<nl>
+ If <Klarth> can't find us after
+ the meeting, he'll worry.
+ We shouldn't stray from the city.{END}
+
+<audio_0D73>Guard:<nl>
+ You there! Halt!{END}
+
+Guard:<nl>
+ Who the hell are you?
+<pause>
+Guard:<nl>
+ We don't let dubious-looking types
+ like yourselves in here!
+<pause>
+Guard:<nl>
+ Get lost!{END}
+
+Guard:<nl>
+ Who the hell are you?
+<pause>
+<Klarth>:<nl>
+ Acquaintances of Sir Edward.
+<pause>
+<Klarth>:<nl>
+ He's expecting our arrival.
+ So, if you'll let us through...
+<pause>
+Guard:<nl>
+ Sir Edward, huh?
+<pause>
+Guard:<nl>
+ You're not getting through here
+ until you show some proof of
+ identity!
+<pause>
+<Klarth>:<nl>
+ Uh, well, you see...<nl>
+ We had the King of Alvanista's royal crest
+ a moment ago, but we were
+ mugged by some flying maggot...
+<pause>
+Guard:<nl>
+ Hah!
+ That's a likely story, coming from
+ scruffy little punks like you!
+<pause>
+Guard:<nl>
+ Take a hike!{END}
+
+<audio_0D74>Guard:<nl>
+ Adventurers, huh?
+ You want in?
+<pause>
+<audio_0D75>Guard:<nl>
+ You'd better have something
+ proving that you're more than a
+ bunch of street rats, then.
+<pause>
+<audio_0D76><Klarth>:<nl>
+ Is this crest good enough for you?
+<pause>
+<audio_0D77><Klarth>:<nl>
+ It's straight from the King of Alvanista
+ himself.{END}
+
+<audio_0D78>Guard:<nl>
+ Beyond a shadow of doubt, this is...
+<pause>
+<audio_0D79><Klarth>:<nl>
+ Sir Edward D. Morrison is expecting
+ us, and we would VERY much like to
+ meet with him.{END}
+
+<audio_0D7A>Guard:<nl>
+ R-Right.
+ This way...{END}
+
+<audio_0D16>???:<nl>
+ “Hey, you guys!”{END}
+
+<audio_0D17><Cless>:<nl>
+ Wh-What was that?
+<pause>
+<audio_0D18><Arche>:<nl>
+ I swear it was a voice...
+<pause>
+<audio_0D19><Klarth>:<nl>
+ Ditto...{END}
+
+<audio_0D1A><Cless>:<nl>
+ H-Huh!?
+ Where'd this insect come from!?
+<pause>
+<audio_0D1B>???:<nl>
+ HEY!
+ Who're you calling an insect!?
+<pause>
+<audio_0D1C><Klarth>:<nl>
+ Oh, so you're just another
+ pint-sized monster for us to
+ squash, huh?
+<pause>
+<audio_0D1D>???:<nl>
+ Whaaaaaat!?
+ Geez, I don't get ANY respect...
+<pause>
+<audio_0D1E>???:<nl>
+ I got nothing else to do, so
+ I thought I'd have a little
+ bit of fun with you guys.
+ Let's play!<wait>{END}
+
+<audio_0D1F><Arche>:<nl>
+ Y'know, we're kinda in the middle
+ of an important mission right now...
+<pause>
+<audio_0D20><Arche>:<nl>
+ So be a good little squirt and find
+ some kids to play with or
+ something! Sheesh!<wait>{END}
+
+<audio_0D21>???:<nl>
+ Grr!!!
+ I don't wanna!
+<pause>
+<audio_0D22>???:<nl>
+ If that's how you're gonna be, then
+ I'll just MAKE you play with me!{END}
+
+<unk1><audio_0D23><Mint>:<nl>
+ <Cless>!
+ Are you okay!?<wait>{END}
+
+<audio_0D24><Arche>:<nl>
+ That little twerp!
+<pause>
+<audio_0D25><Arche>:<nl>
+ What's his problem!?<wait>{END}
+
+<audio_0D26><Cless>:<nl>
+ Oh no!!! <panic>
+<pause>
+<audio_0D27><Klarth>:<nl>
+ What happened?
+<pause>
+<audio_0D28><Cless>:<nl>
+ I can't find the crest we got from
+ the King of Alvanista!<wait>{END}
+
+<audio_0D29><Klarth>:<nl>
+ You've got to be kidding!<wait>{END}
+
+<audio_0D2A>???:<nl>
+ “If you want this crest back, come
+ to the <color_0002>Zodiac Tower<color_0000>!”
+<pause>
+<audio_0D2B>???:<nl>
+ “Bye-bye, now!”{END}
+
+<audio_0D2C><Cless>:<nl>
+ Wh-What do we do?
+<pause>
+<audio_0D2D><Klarth>:<nl>
+ Obviously, get the crest back
+ immediately.
+<pause>
+<audio_0D2E><Klarth>:<nl>
+ The guards in front of the castle
+ won't give us the time of day
+ without it, much less let us in.
+<pause>
+<audio_0D2F><Klarth>:<nl>
+ So, the <color_0002>Zodiac Tower<color_0000>, huh...?
+<pause>
+<audio_0D30><Klarth>:<nl>
+ Must be the place Brambard was
+ talking about.
+<pause>
+<audio_0D31><Mint>:<nl>
+ Didn't he say that a spirit might live
+ there?
+<pause>
+<audio_0D32><Klarth>:<nl>
+ Yeah.
+ It's just a bit south of here.{END}
+
+Guard:<nl>
+ All is well!{END}
+
+Innkeeper:<nl>
+ Welcome to the Saber Inn.
+ Lord Leisen told me to expect your
+ visit.
+<pause>
+Innkeeper:<nl>
+ Will you be staying the night?{END}
+
+Innkeeper:<nl>
+ Sleep well.{END}
+
+Innkeeper:<nl>
+ We look forward to serving you
+ again.{END}
+
+Innkeeper:<nl>
+ I'm sorry, but all of our rooms are
+ currently reserved for the
+ military...{END}
+
+Pharmacist:<nl>
+ Welcome to Buster.{END}
+
+Pharmacist:<nl>
+ Thanks.{END}
+
+Clerk:<nl>
+ Welcome to Spirit, armor
+ department.{END}
+
+Clerk:<nl>
+ Thanks.{END}
+
+Owner:<nl>
+ Hey, welcome to the Spirit weapon
+ department.{END}
+
+Owner:<nl>
+ If there's even one thing this war's
+ good for, it's the big boom in
+ business it's brought.
+<pause>
+Owner:<nl>
+ Thank you.{END}
+
+Clerk:<nl>
+ Welcome to Slayer IV.{END}
+
+Clerk:<nl>
+ Thank you.{END}
+
+Owner:<nl>
+ All the good stuff is long gone.
+ I hope you're all right with that...{END}
+
+Owner:<nl>
+ Thanks.
+ I don't know how much longer we
+ can go on with this food shortage.{END}
+
+Soldier:<nl>
+ We had this place locked down
+ airtight! How did it sneak in!?{END}
+
+Soldier:<nl>
+ Sir Morrison is trying to negotiate
+ with a monster!
+<pause>
+Soldier:<nl>
+ But its demands are insane!
+ We can't comply with them!{END}
+
+Soldier:<nl>
+ What in the world do we do!?{END}
+
+Soldier:<nl>
+ I-It's horrible!
+<pause>
+Soldier:<nl>
+ A child is being held hostage by a
+ monster!{END}
+
+Mayor:<nl>
+ I've been told there's a white
+ horse in the forest to the north.
+<pause>
+Mayor:<nl>
+ Nothing out of the ordinary, you
+ think? Well, it supposedly won't
+ approach adults.
+<pause>
+Mayor:<nl>
+ Sounds like it's a bit sharper than
+ your garden-variety stallion, but I
+ wonder if it really exists...{END}
+
+Mayor:<nl>
+ Most of the city's population has
+ left because of the war, leaving
+ me out of work.
+<pause>
+Mayor:<nl>
+ Suppose I'll just have to wait the
+ situation out...{END}
+
+Soldier:<nl>
+ My parents stayed behind when
+ I came here from Alvanista.
+ I'm worried sick about them.{END}
+
+Citizen:<nl>
+ You think this'll become a nice place
+ to live once everything settles
+ down?{END}
+
+Citizen:<nl>
+ I gotta find a safe place to hide,
+ fast!
+<pause>
+Citizen:<nl>
+ ...Hah--who am I kidding?
+ Anyone still here is a sitting duck!{END}
+
+Citizen:<nl>
+ Quite a blade you've got there, boy.
+ I've got something that'll surely
+ interest ya...
+<pause>
+Citizen:<nl>
+ Check out this arcane arte book...
+<pause>
+Citizen:<nl>
+ Amazing, wouldn't you say?
+ Master this one and Dhaos'
+ army won't touch you!
+ All I ask is 18000 gald!
+<pause>
+<color_0002>Buy it?<color_0000>{END}
+
+Citizen:<nl>
+ Aw, no way!{END}
+
+Citizen:<nl>
+ What is that? A ball of lint?
+ Hahah, real funny.
+ Now come back when you've
+ got some cash.{END}
+
+<color_0002><Cless> learned
+<var_9B00>.<color_0000>
+<pause>
+Citizen:<nl>
+ I knew you'd like it!
+ Thanks a bunch!{END}
+
+Flower Seller:<nl>
+ Hey, mister. You and me. 80 grand.
+<pause>
+<Cless>:<nl>
+ You and me...what?
+<pause>
+Flower Seller:<nl>
+ Ahh, forget it, then.
+ I don't do business with
+ kids anyway!{END}
+
+Flower Seller:<nl>
+ Hey, mister. You and me. 80 grand.
+<pause>
+<Klarth>:<nl>
+ As in...eighty thousand?
+ Maybe if you were paying *me*.
+<pause>
+Flower Seller:<nl>
+ How rude!{END}
+
+Young Woman:<nl>
+ Hello. Nice weather, huh?{END}
+
+Woman:<nl>
+ My grandmother told me of a
+ white horse that won't meet with
+ anyone but pure maidens.
+<pause>
+Woman:<nl>
+ I wonder if that just means
+ someone with a pure heart.{END}
+
+Woman:<nl>
+ The parents of these poor children
+ fell victim to the war.
+<pause>
+Woman:<nl>
+ Why do things like this happen?{END}
+
+Boy:<nl>
+ I'm a big boy!
+ I can handle being alone!{END}
+
+Boy:<nl>
+ Mama...won't be coming back soon,
+ will she?{END}
+
+Girl:<nl>
+ I wanna go home...{END}
+
+Girl:<nl>
+ There's a horse with a pure white
+ coat living in the northwestern
+ forest.{END}
+
+Girl:<nl>
+ ......{END}
+
+Boy:<nl>
+ Let's play tag!{END}
+
+Girl:<nl>
+ Mister, let's play a game.{END}
+
+Woman:<nl>
+ They say there's a white horse
+ that will only appear before
+ maidens who are pure in mind and
+ body.
+<pause>
+Woman:<nl>
+ Think a story like that could
+ actually be true?{END}
+
+Citizen:<nl>
+ Peace at last!{END}
+
+Woman:<nl>
+ I heard the heroes who conquered
+ Dhaos didn't stop to receive the
+ king's blessing before continuing on
+ with their journey.
+<pause>
+Woman:<nl>
+ Too bad.
+ I really wanted to see them for
+ myself.
+<pause>
+Woman:<nl>
+ Huh?
+ It was you guys!?
+<pause>
+Woman:<nl>
+ C'mon, don't yank my chain like
+ that.{END}
+
+Citizen:<nl>
+ The instant I heard the war ended
+ with Dhaos' defeat, I packed my
+ bags and came back home straight
+ away.{END}
+
+Citizen:<nl>
+ The heroes' fight must've literally
+ been a battle to the death!
+<pause>
+Citizen:<nl>
+ Amazing!{END}
+
+Boy:<nl>
+ This is crazy!
+<pause>
+Boy:<nl>
+ How could a badass like Dhaos get
+ rocked so badly?
+<pause>
+Boy:<nl>
+ Kinda sucks...<nl>
+ Even if he was nuts, the
+ dude had style, y'know?{END}
+
+Girl:<nl>
+ Lying is the first step to thievery,
+ y'know?
+<pause>
+Girl:<nl>
+ ...Ehhh?
+ Did you REALLY just say it was YOU
+ who defeated Dhaos, mister!?
+<pause>
+Girl:<nl>
+ I guess you're walking the path of
+ a thief, yourself!{END}
+
+Old Man:<nl>
+ At long last, we've been liberated
+ from these many years of
+ hardship...
+<pause>
+Old Man:<nl>
+ I'm so happy...{END}
+
+Citizen:<nl>
+ The pain that the war had wrought
+ persists...
+<pause>
+Citizen:<nl>
+ My son is no longer in this world...{END}
+
+Citizen:<nl>
+ I decided I wanted to help children
+ orphaned by the war, so I came to
+ this city to volunteer.{END}
+
+Man:<nl>
+ I came to this city with the
+ intention of enlisting in the military
+ to help put a stop to Dhaos' reign
+ of terror.
+<pause>
+Man:<nl>
+ But with everyone shouting “Peace
+ at last!” I guess they don't need
+ me anymore...
+<pause>
+Man:<nl>
+ Oh well, I'm actually kind of
+ relieved.{END}
+
+Citizen:<nl>
+ Now that Dhaos is out of the
+ picture, I wonder if it'd be a good
+ idea to start a business here.{END}
+
+Citizen:<nl>
+ The war put me in this unbearable
+ state of tension. I got positively
+ crazy at the worst times!
+<pause>
+Citizen:<nl>
+ It was so bad at one point that I
+ started exchanging blows with my
+ best friend, of all people!{END}
+
+Citizen:<nl>
+ Why the hell would Dhaos even go
+ to war against our country?
+<pause>
+Citizen:<nl>
+ I mean, what did we ever do to
+ him? He never made his objective
+ very clear.{END}
+
+Child:<nl>
+ Where did my dad go?
+<pause>
+Child:<nl>
+ Mom said he's with God, but I didn't
+ know they were friends.{END}
+
+Girl:<nl>
+ I can FINALLY go outside.
+<pause>
+Girl:<nl>
+ Mommy and daddy wouldn't let me
+ out of the house for the whole
+ war. I thought I was gonna die of
+ boredom!{END}
+
+Old Man:<nl>
+ Sooner or later, this country will be
+ the one that leads the world.
+<pause>
+Old Man:<nl>
+ But I don't know in what direction
+ we'll take it.{END}
+
+Citizen:<nl>
+ Magitechnology-based weaponry
+ could certainly be beneficial, but
+ what if it became a worldwide
+ menace instead...{END}
+
+Apprenticing Assistant:<nl>
+ Have you found what you need?
+ The checkout counter is in the
+ back.{END}
+
+Shopper:<nl>
+ I came to load up on necessities,
+ but the food shortage persists
+ even though the war is over.{END}
+
+Citizen:<nl>
+ War even devastates farmland,
+ which has severe effects on crops.
+<pause>
+Citizen:<nl>
+ The place I grew up in had a
+ pretty horrific food shortage.
+ I'd hate for my children to
+ experience one as well.
+<pause>
+Citizen:<nl>
+ War is a horrible thing...{END}
+
+Mage:<nl>
+ Even though the war is over,
+ research of weaponry based on
+ magitechnology continues.
+<pause>
+Mage:<nl>
+ It's crucial for the development of
+ humanity.{END}
+
+Man:<nl>
+ The government is planning to
+ expand research on magitechnology
+ weaponry, but I'm against it.
+<pause>
+Man:<nl>
+ I strongly believe that weapons
+ that powerful will eventually
+ become a threat to the world.
+<pause>
+Man:<nl>
+ Just imagine what would happen if
+ they fell into the wrong hands...{END}
+
+Soldier:<nl>
+ Though I'm still in uniform, I'm
+ actually an ex-soldier.
+<pause>
+Soldier:<nl>
+ Since the war ended, demand
+ for soldiers fell off.
+ I was on the chopping block.
+<pause>
+Soldier:<nl>
+ Where the heck am I going to find
+ a new job?{END}
+
+Old Woman:<nl>
+ Peace is here at last.
+ Oh, what a wonderful feeling!
+<pause>
+Old Woman:<nl>
+ Even an army of bothersome
+ tourists couldn't rain on my parade
+ if they showed up tomorrow!{END}
+
+Girl:<nl>
+ That's all?
+ But I want to hear more...{END}
+
+Girl:<nl>
+ Mother, tell me a story.{END}
+
+Mother:<nl>
+ I am in the midst of telling her an
+ old story for bedtime.
+<pause>
+Mother:<nl>
+ Please don't interrupt.<wait>{END}
+
+Mother:<nl>
+ Now, where were we?
+ Ah, yes...
+<pause>
+Mother:<nl>
+ The ex-soldier was on his
+ way outside the barrier.
+ He ran, and ran...
+<pause>
+Mother:<nl>
+ ...but the king's army continued its
+ relentless pursuit.
+<pause>
+Mother:<nl>
+ Finally, the ex-soldier evaded it
+ successfully and made it outside as
+ planned.
+<pause>
+Mother:<nl>
+ He was stunned.
+ The outside world was like nothing
+ he had ever imagined.
+<pause>
+Mother:<nl>
+ This world certainly was not the
+ Hell he had been conditioned to
+ believe in.
+<pause>
+Mother:<nl>
+ It was something else entirely.
+<pause>
+Mother:<nl>
+ Butterflies danced with the wind,
+ and the deer stood still by the
+ shore. The ex-soldier thought he
+ had reached Heaven.
+<pause>
+Mother:<nl>
+ In the many years that had passed,
+ the world outside the barrier had
+ returned to its former majesty.
+<pause>
+Mother:<nl>
+ The ex-soldier had been successful
+ in bringing the Spirit of the Moon to
+ safety.
+<pause>
+Mother:<nl>
+ And he watched as she ascended
+ back into sky to stay forever...
+<pause>
+Mother:<nl>
+ The end.
+<pause>
+Mother:<nl>
+ Now, good night.{END}
+
+Mother:<nl>
+ Now, now, it's past
+ your nap time.
+ Close those eyes.{END}
+
+<audio_1704><Klarth>:<nl>
+ Th-That's incredible...
+<pause>
+<audio_1705><Klarth>:<nl>
+ Even Dhaos wouldn't stand a
+ snowball's chance in hell against
+ that thing...{END}
+
+<audio_1706>Soldier:<nl>
+ We...we have a serious problem!!!
+<pause>
+<audio_1707>Soldier:<nl>
+ The Mana Cannon has stopped
+ working!!!
+<pause>
+<audio_1708><Klarth>:<nl>
+ Say what!?
+<pause>
+<audio_1709><Klarth>:<nl>
+ So magic can't be contained by
+ technology after all?<wait>{END}
+
+<audio_170A><Arche>:<nl>
+ Oh, who cares about that right
+ now!? What are we gonna do!?
+<pause>
+<audio_170B><Arche>:<nl>
+ The enemies are gonna swoop
+ down on us any second, y'know <panic><wait>{END}
+
+<audio_170C><Klarth>:<nl>
+ Aw, dammit!
+<pause>
+<audio_170D><Klarth>:<nl>
+ If <Cless> hadn't disappeared...{END}
+
+<audio_170E><Klarth>:<nl>
+ You're safe, <Cless>?
+<pause>
+<audio_170F><Mint>:<nl>
+ Oh my, <Cless>!
+<pause>
+<audio_1710><Mint>:<nl>
+ Thank heavens...<wait>{END}
+
+<audio_1711><Cless>:<nl>
+ Sorry for making you worry.
+<pause>
+<audio_1712><Arche>:<nl>
+ Hey, where'd you get the horse!?
+<pause>
+<audio_1713><Arche>:<nl>
+ He's the coolest!
+<pause>
+<audio_1714><Cless>:<nl>
+ We'll talk about him later!
+<pause>
+<audio_1715><Cless>:<nl>
+ We have to take down the enemy
+ commander!
+<pause>
+<audio_1716><Cless>:<nl>
+ Dhaos' army will grind to a halt if
+ we clip its wings!
+<pause>
+<audio_1717><Arche>:<nl>
+ Hey, wait!
+ I'm going with you!
+<pause>
+<audio_1718><Cless>:<nl>
+ But can your broom handle it...?
+<pause>
+<audio_1719><Arche>:<nl>
+ It probably can't stay airborne for
+ as long your fancy new horse, but
+ it's better than you taking them on
+ alone, right?<wait>{END}
+
+<audio_171A>Pegasus:<nl>
+ I will temporarily empower her
+ broom.
+<pause>
+<audio_171B>Pegasus:<nl>
+ The greater the strength of arms,
+ the better, yes?
+<pause>
+<audio_171C><Cless>:<nl>
+ Thanks, Pegasus.
+<pause>
+<audio_171D>Pegasus:<nl>
+ You should wield Gungnir.
+<pause>
+<audio_171E>Pegasus:<nl>
+ Axes and swords do not suit one
+ doing battle on a mount.<wait>{END}
+
+<color_0002>Save before battling in the sky?
+<color_0003>(We recommend that you do not
+save if you are not fully prepared.)<color_0000>{END}
+
+<audio_171F><Cless>:<nl>
+ All right!
+ Time for liftoff!!{END}
+
+<audio_0EAC><Cless>:<nl>
+ Thank you, Pegasus.
+<pause>
+<audio_0EAD>Pegasus:<nl>
+ I am not deserving of thanks.
+ I have only fulfilled the task given
+ to me by my master.
+<pause>
+<audio_0EAE>Pegasus:<nl>
+ As per our agreement, I shall now
+ take possession of Gungnir.
+<pause>
+<audio_0EAF>Pegasus:<nl>
+ Farewell.{END}
+
+<unk1><audio_0EB0>Leisen:<nl>
+ Sir <Cless>! Lady <Arche>!
+ Are you okay!?
+<pause>
+<audio_0EB1><Cless>:<nl>
+ Yes, and we managed to slay the
+ enemy commander as well.
+<pause>
+<audio_0EB2><Cless>:<nl>
+ Dhaos' aerial forces are now
+ retreating thanks to our efforts.
+<pause>
+<audio_0EB3>Leisen:<nl>
+ I must profusely apologize for our
+ inexcusable performance.
+<pause>
+<audio_0EB4>Leisen:<nl>
+ Had our troops been more capable,
+ you wouldn't have had to put up
+ with this hardship...
+<pause>
+<audio_0EB5><Cless>:<nl>
+ Sir Leisen...<nl>
+ Please don't put yourself
+ down like that.
+<pause>
+<audio_0EB6>Leisen:<nl>
+ Do not worry, the men
+ and I are in your debt.
+ His Majesty is overjoyed, as well.
+<pause>
+<audio_0EB7>Leisen:<nl>
+ You all will soon be awarded
+ medals of honor for your service.
+<pause>
+<audio_0EB8><Klarth>:<nl>
+ No, we're not deserving of such
+ things right now.
+<pause>
+<audio_0EB9><Cless>:<nl>
+ Our job isn't done until Dhaos is
+ dead.
+<pause>
+<audio_0EBA>Leisen:<nl>
+ Yes, absolutely.
+<pause>
+<audio_0EBB>Leisen:<nl>
+ However, the enemy will be unable
+ to mobilize for the time being.
+<pause>
+<audio_0EBC>Leisen:<nl>
+ You should take advantage of this
+ and enjoy a well-earned rest for
+ the remainder of the day.
+<pause>
+<audio_0EBD>Leisen:<nl>
+ But before we part, take this...<wait>{END}
+
+<audio_0EBE><Cless>:<nl>
+ This is a spell book!
+<pause>
+<audio_0EBF>Leisen:<nl>
+ Edward had left it on his desk at
+ the research center.
+<pause>
+<audio_0EC0>Leisen:<nl>
+ This letter was enclosed
+ between the pages.
+<pause>
+<color_0002><Cless> read Morrison's letter.<color_0000><wait>{END}
+
+<audio_0EC1>“If you are reading this letter, then
+I must have been struck down
+before achieving my goal.”
+<pause>
+<audio_0EC2>“I want to apologize to His Majesty
+and Sir Leisen from the bottom of
+my heart for my failure.”
+<pause>
+<audio_0EC3>“But I have faith that someone else
+will succeed in my place.”
+<pause>
+<audio_0EC4>“Dhaos once said...”
+<pause>
+<audio_0EC5>“If there is evil in this world, it is
+not I. It lies in the hearts of you
+humans.”
+<pause>
+<audio_0EC6>“Perhaps, in some sense, he was
+correct.”
+<pause>
+<audio_0EC7>“But that is far too narrow a view.”
+<pause>
+<audio_0EC8>“I believe in humans. The very same
+humans with whom I share half of
+my own blood.”
+<pause>
+<audio_0EC9>“So I shall entrust all my knowledge
+of this spell to those who would
+follow in my footsteps.”
+<pause>
+<audio_0ECA>“I pray that the use of this magic
+will aid them in saving this world.”
+<pause>
+<audio_0ECB>
+
+
+　　Edward D. Morrison<wait>{END}
+
+<audio_0ECC><Arche>:<nl>
+ So that's what he was...<wait>{END}
+
+<color_0002><Arche> learned Indignation.<color_0000>
+<pause>
+<audio_0ECD>Leisen:<nl>
+ Edward entrusted his own mission
+ to you.
+<pause>
+<audio_0ECE>Leisen:<nl>
+ You must succeed, for his sake.{END}
+
+But with his death, the cogs of
+history have been thrown into
+disarray. The outcome of the
+<speed_0002>war is no longer certain.{END}
+
+<audio_160A><Cless>:<nl>
+ Yawwwwn...!
+ Slept like a log, for once...<wait>{END}
+
+<audio_160B><Cless>:<nl>
+ Good morning, <Mint>.
+ You're up bright and early today.
+<pause>
+<audio_160C><Cless>:<nl>
+ Did you sleep well too?{END}
+
+<audio_160D><Cless>:<nl>
+ Is something the matter?{END}
+
+<audio_160E><Klarth>:<nl>
+ Morning, you two...{END}
+
+<audio_160F><Klarth>:<nl>
+ Hm?
+ What's with the silent treatment?{END}
+
+<Mint>:<nl>
+ Everyone, please listen.
+ I have something important to say.
+<pause>
+<Cless>:<nl>
+ Go on...
+<pause>
+<audio_15F8><Mint>:<nl>
+ I have been thinking about a means
+ of revitalizing Yggdrasill.
+<pause>
+<audio_15F9><Mint>:<nl>
+ Perhaps my clerical artes might be
+ one way...<wait>{END}
+
+<audio_15FA><Mint>:<nl>
+ ...but I'm simply not powerful
+ enough to handle it alone.
+<pause>
+<audio_15FB><Klarth>:<nl>
+ Oh?<wait>{END}
+
+<audio_15FC><Mint>:<nl>
+ Maybe if we borrowed the power
+ of the unicorn...
+<pause>
+<audio_15FD><Cless>:<nl>
+ The what?
+<pause>
+<audio_15FE><Mint>:<nl>
+ The unicorn.
+ It is the embodiment of
+ my Order's power.
+<pause>
+<audio_15FF><Mint>:<nl>
+ I believe it exists somewhere in
+ this world.
+<pause>
+<audio_1600><Klarth>:<nl>
+ Hmm...
+<pause>
+<audio_1601><Klarth>:<nl>
+ So if we meet this unicorn of
+ yours, it'll just gleefully hand over
+ whatever it is we need and let us
+ go on our merry way?<wait>{END}
+
+<audio_1602><Mint>:<nl>
+ That...I don't know.
+<pause>
+<audio_1603><Mint>:<nl>
+ I really don't know...
+<pause>
+<audio_1604><Cless>:<nl>
+ Well, don't worry about it.
+ Clerical artes are probably our only
+ hope of pulling this off.
+<pause>
+<audio_1605><Cless>:<nl>
+ So let's try it!
+<pause>
+<audio_1606><Cless>:<nl>
+ Let's go out and look for the
+ unicorn! Even if we have to search
+ the four corners of the world, I
+ know we'll find it together!<wait>{END}
+
+<audio_1610><Mint>:<nl>
+ Thank you so much, <Cless>.
+<pause>
+<audio_1609><Klarth>:<nl>
+ Well, if that's the plan, then there's
+ no point in sticking around here
+ any longer.{END}
+
+<audio_1611><Klarth>:<nl>
+ Hey, <Arche>!
+ Wakey-wakey!
+<pause>
+<audio_1612><Klarth>:<nl>
+ It's time to leeeaaave!<wait>{END}
+
+<audio_1613><Arche>:<nl>
+ Mmm <heart>, just a little more...
+<pause>
+<audio_1614><Klarth>:<nl>
+ On your feet, NOW!!{END}
+
+<audio_1615><Arche>:<nl>
+ You're all up already...?
+ The sun's not even coming up yet...
+<pause>
+<audio_1617><Arche>:<nl>
+ What's wrong with you guys!?{END}
+
+<audio_171F><Cless>:<nl>
+ All right!
+ Time for liftoff!!{END}
+
+<audio_18A8><Cless>:<nl>
+ ...Rody!{END}
+
+<audio_18A9>Rondoline:<nl>
+ Oh, it's you guys...{END}
+
+<audio_18AA><Arche>:<nl>
+ What's going on?
+<pause>
+<audio_18AB>Rondoline:<nl>
+ Well...{END}
+
+<audio_18AC>Midgard Soldier:<nl>
+ Miss Rondoline here has accomplished many impressive feats in the Valhalla War.
+<pause>
+<audio_18AD>Midgard Soldier:<nl>
+ She is going to receive a reward from His Majesty.
+<pause>
+<audio_18AE><Cless>:<nl>
+ Rody, you were in the Valhalla War too?{END}
+
+<audio_18AF>Rondoline:<nl>
+ Well, I found myself unintentionally caught up in it...{END}
+
+<audio_18B0>Midgard Soldier:<nl>
+ Well even then, you did quite the stellar job.{END}
+
+<audio_18B1>Rondoline:<nl>
+ ...You heard the man.
+<pause>
+<audio_18B2>Rondoline:<nl>
+ Hey, why don't you guys come with me?
+<pause>
+<audio_18B3><Cless>:<nl>
+ We need to go defeat Dhaos.{END}
+
+<audio_18B4>Rondoline:<nl>
+ Defeat Dhaos...
+<pause>
+<audio_18B5><Mint>:<nl>
+ Yes, that we must.{END}
+
+<audio_18B6>Rondoline:<nl>
+ Well, that's even more reason why you should tag along with me.{END}
+
+<audio_18B7><Cless>:<nl>
+ What makes you say that?
+<pause>
+<audio_18B8>Rondoline:<nl>
+ I was thinking I wanted to pay Dhaos a visit myself.{END}
+
+<audio_18B9><Cless>:<nl>
+ You too?
+<pause>
+<audio_18BA>Rondoline:<nl>
+ I don't want you getting there before me, is all.{END}
+
+<audio_18BB><Klarth>:<nl>
+ So is that why you were gathering all that information?
+<pause>
+<audio_18BC>Rondoline:<nl>
+ Yep, that's why. So, would you mind putting it off for me?{END}
+
+<audio_18BD><Mint>:<nl>
+ <Cless>, let's travel with her.{END}
+
+<audio_18BE><Cless>:<nl>
+ Sounds like a plan.{END}
+
+<audio_18BF>Rondoline:<nl>
+ Sorry guys, I know you were just about to head out...{END}
+
+<audio_18C0><Cless>:<nl>
+ It's fine, don't worry about it.
+<pause>
+<audio_18C1>Midgard Soldier:<nl>
+ Well, let's head on in.{END}
+

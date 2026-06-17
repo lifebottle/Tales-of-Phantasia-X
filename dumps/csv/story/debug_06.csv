@@ -1,0 +1,703 @@
+デバッグマップ{END},Debug Map{END}
+"<0Dvar00000010610CC002000CC000C0>を
+パーティーに入れますか？{END}",Put <0Dvar00000010610CC002000CC000C0> in your party?{END}
+"パーティーがいっぱいです。
+一時的に外したキャラも
+パーティーに含まれて計算
+されているので注意が必要です。{END}","Your party is full. The characters
+you remove temporarily are still
+registered as active, so please be
+careful.{END}"
+"<speed_0000><0Bvar00106102000CC000C0>を
+１。パーティーから本当に外す
+２。パーティーから一時的に外す{END}","<speed_0000><0Bvar00106102000CC000C0>:<nl>
+1. Remove from party<nl>
+2. Remove from party temporarily{END}"
+"<speed_0000>１。通常戦闘の発生
+２。ペガサス騎乗戦の発生
+３。各種バッドステータスにする
+４。トップメニュー<speed_FFFF>{END}","<speed_0000>1. Begin normal battle<nl>
+2. Begin battle mounted on Pegasus<nl>
+3. Give all members bad status<nl>
+4. Top menu<speed_FFFF>{END}"
+勝利？<wait>{END},Victory?<wait>{END}
+全滅？<wait>{END},Defeat?<wait>{END}
+逃走？<wait>{END},Escape?<wait>{END}
+勝利？<wait>{END},Victory?<wait>{END}
+全滅？<wait>{END},Defeat?<wait>{END}
+逃走？<wait>{END},Escape?<wait>{END}
+<unk5><speed_0000><Cless>から<Suzu>まで、順にＨＰ・ＴＰ半減／毒／マヒ／石化／戦闘不能状態にします」<speed_FFFF>{END},"<unk5><speed_0000>All members have halved HP and TP,
+and are poisoned, paralyzed, petrified
+and KOed.<speed_FFFF>{END}"
+"<speed_0000>１。所持アイテムの増減
+２。所持ガルドの増減
+３。位置初期化
+４。スイッチ初期化<speed_FFFF>{END}","<speed_0000>1. Change items held<nl>
+2. Change gald held<nl>
+3. Reset position<nl>
+4. Reset switches<speed_FFFF>{END}"
+"<speed_0000>１。強引に６人パーティにする
+２。強引に６文字名前にする
+３。先頭キャラクターを固定
+４。先頭キャラクターの固定解除<speed_FFFF>{END}","<speed_0000>1. Force a 6 person party<nl>
+2. Force a 6 letter name<nl>
+3. Fix lead character<nl>
+4. Remove lead character fix<speed_FFFF>{END}"
+"先頭キャラは
+<num2_C0006100>に固定されました。{END}","Lead character has been fixed at
+<num2_C0006100>.{END}"
+"先頭キャラの固定を解除
+しました{END}",Removing lead character fix.{END}
+"<speed_0000>１。ＶＯＩＣＥのテスト
+２。ＢＧＭフェードイン
+３。ＢＧＭの音量と番号取得
+４。ＢＧＭフェードアウト<speed_FFFF>{END}","<speed_0000>1. Voice test<nl>
+2. BGM Fade in<nl>
+3. View BGM volume and number<nl>
+4. BGM Fade out<speed_FFFF>{END}"
+"<speed_0000>１。１００％
+２。　７５％
+３。　５０％
+４。　２５％<speed_FFFF>{END}","<speed_0000>1. 100%<nl>
+2. 75%<nl>
+3. 50%<nl>
+4. 25%<speed_FFFF>{END}"
+いまの曲は<num5_C0008097>番{END},Current song is #<num5_C0008097>{END}
+"<speed_0000>１。基本アニメのパターンを見る
+２。特殊アニメのキャラを変更する
+３。取得音楽テスト
+４。追加フォントのテスト<speed_FFFF>{END}","<speed_0000>1. View basic animation pattern<nl>
+2. Switch character for special animation<nl>
+3. Acquisition sounds test<nl>
+4. Test additional fonts<speed_FFFF>{END}"
+"<speed_0000>１。重要アイテム取得音楽
+２。一般アイテム取得音楽
+３。称号取得音楽
+<speed_FFFF>{END}","<speed_0000>1. Valuable item acquisition sound<nl>
+2. General item acquisition sound<nl>
+3. Title acquisition sound
+<speed_FFFF>{END}"
+"重要アイテムを得た！
+<speed_0020>・・・・・・・・・<speed_FFFF>つもり。{END}","You got a key item!
+<speed_0020>.........<speed_FFFF>Not really.{END}"
+一般アイテムを得たつもり。{END},"You got a general item, only not.{END}"
+"称号を得た！
+<speed_0020>・・・・・・・<speed_FFFF>つもり。{END}","You earned a title!
+<speed_0020>.......<speed_FFFF>not really.{END}"
+<panic><sweat><star><volt1><volt2><volt3><volt4>鎌鼬硬総湯驚癒篭到浴提恵飼頻鑑監渦潰蹴IVショートカット１ト２津録秒横儲湿副郎蒸懐堂戸仏惨柄{END},"Font Test
+<pause>
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+123456789/,.!?:;#()-+=“”'
+0123456789<volt1><volt2><volt3><volt4><ring><panic><sweat><heart><star>{END}"
+"<speed_0000>１。全称号を取得
+２。シナリオ入手の全特技を取得
+３。全料理を取得
+４。交易品を全種取得<speed_FFFF>{END}","<speed_0000>1. Earn all titles<nl>
+2. Earn all event gained skills<nl>
+3. Earn all recipes<nl>
+4. Earn all trade goods<speed_FFFF>{END}"
+"<speed_0000>１。デュアルショック振動テスト
+２。無機能
+３。ダオスに逃げられたスイッチ
+４。プルート覚える<speed_FFFF>{END}","<speed_0000>1. Dualshock vibration test<nl>
+2. No function<nl>
+3. Switch for Dhaos escaping<nl>
+4. Learn Pluto<speed_FFFF>{END}"
+"<speed_0000>１。全員のＥＸＰ＋２００万
+２。トール表示
+３。エンディングムービー
+４。最終セーブ<speed_FFFF>{END}","<speed_0000>1. EXP+2,000,000<nl>
+2. Show Thor<nl>
+3. Show ending movie<nl>
+4. Final save accessed<speed_FFFF>{END}"
+全員２００万の経験値を得ました。<wait>{END},"All members gained 2,000,000
+experience.<wait>{END}"
+<speed_0000><color_0002><num2_C0006100>はＬＥＶＥＬ　ＵＰ！<wait>{END},<speed_0000><color_0002><num2_C0006100> has gained a level!<wait>{END}
+"<speed_0000><color_0002><num2_C0006100>はＬＥＶＥＬ　ＵＰ！
+<num2_C0006100>はＮＥＷ　ＳＫＩＬＬ！<wait>{END}","<speed_0000><color_0002><num2_C0006100> has gained a level! <num2_C0006100> has
+gained a new skill!<wait>{END}"
+"リリス
+「こんにちは<heart>」<wait>{END}","Lilith:<nl>
+ Hello! <heart><wait>{END}"
+"<speed_0000>１。シューティングゲーム
+２。ＦＩＮ表示
+３。ミントの夢発生条件
+４。無機能<speed_FFFF>{END}","<speed_0000>1. Shooting game<nl>
+2. Display ending<nl>
+3. Conditions for <Mint>'s dream<nl>
+4. No function<speed_FFFF>{END}"
+"リリス
+「戻るときは『ポーズ』をかけた
+　あとで<var_0602>を押してね<heart>」{END}","Lilith:<nl>
+ When you return, hold the pause
+ button and push <var_0602> okay? <heart>{END}"
+<num5_C0006000>点{END},<num5_C0006000> points{END}
+"リリス
+「ＦＩＮ付きのイラストを３０秒
+　表示するね<heart>」{END}","Lilith:<nl>
+ The FIN image will display for 30
+ seconds. <heart>{END}"
+"<speed_0000>１。『隕石落下』を見る
+２。『地下墓地崩壊』を見る
+３。『トール浮上』を見る
+４。『ユグドラシル復活』を見る<speed_FFFF>{END}","<speed_0000>1. View “Falling meteors”<nl>
+2. View “Collapse of the mausoleum”<nl>
+3. View “Thor resurfaces”<nl>
+4. View “Yggdrasill's revival”<speed_FFFF>{END}"
+"<speed_0000>アニメーション（<num2_C00050FC>２）
+今：<num5_C00050F8>番
+次：<animation line2>番{END}","<speed_0000>Animation (<num2_C00050FC>2)
+Current #:<num5_C00050F8>
+Next #:<animation_line2>{END}"
+"<speed_0000>１。過去
+２。現代
+３。未来{END}","<speed_0000>1. Past<nl>
+2. Present<nl>
+3. Future{END}"
+フィールドは過去になりました。{END},The field is now the past.{END}
+フィールドは現代になりました。{END},The field is now the present.{END}
+フィールドは未来になりました。{END},The field is now the future.{END}
+変更しませんでした。{END},No changes were made.{END}
+"<speed_0000>１。トーティス村<color_0003>（プロローグ済）<color_0000>
+２。精霊の森（狩場）
+３。襲撃されたトーティス
+４。ユークリッドの都（現代）<speed_FFFF>{END}","<speed_0000>1. Totus Village <color_0003>(Post Prologue)<color_0000><nl>
+2. Forest of Spirits (Hunting Spot)<nl>
+3. Ravaged Totus<nl>
+4. Euclid Capital (Present)<speed_FFFF>{END}"
+"<speed_0000>１。ユークリッドの都（未来）
+２。地下牢<color_0003>（イベント発生）<color_0000>
+３。地下水路
+４。モリスンの家（現代）<speed_FFFF>{END}","<speed_0000>1. Euclid Capital (Future)<nl>
+2. Underground Cell <color_0003>(Event Start)<color_0000><nl>
+3. Underground Cell<nl>
+4. Morrison's House (Present)<speed_FFFF>{END}"
+"<speed_0000>１。地下墓地
+２。ベルアダムの村
+３。ユークリッドの村<color_0003>（加入済）<color_0000>
+４。ローンヴァレイ<speed_FFFF>{END}","<speed_0000>1. Underground Mausoleum<nl>
+2. Belladam Village<nl>
+3. Euclid Village <color_0003>(after recruiting)<color_0000><nl>
+4. Lone Valley<speed_FFFF>{END}"
+"<speed_0000>１。イベント後
+２。イベント前{END}","<speed_0000>1. After Event<nl>
+2. Before Event{END}"
+"<speed_0000>１。精霊の森（過去）
+２。ハーメルの町
+３。ベネツィア市
+４。デミテルの館<speed_FFFF>{END}","<speed_0000>1. Forest of Spirits (Past)<nl>
+2. Town of Harmel<nl>
+3. Venezia City<nl>
+4. Demeter's Abode<speed_FFFF>{END}"
+"<speed_0000>１。アルヴァニスタの都（過去）
+２。モーリア坑道
+３。オリーブヴィレッジ
+４。熱砂の洞窟<speed_FFFF>{END}","<speed_0000>1. Alvanista Capital (Past)<nl>
+2. Moria Mine<nl>
+3. Olive Village<nl>
+4. Cave of Searing Sand<speed_FFFF>{END}"
+"<speed_0000>１。精霊の洞窟
+２。浸食洞
+３。水鏡ユミルの森
+４。エルフの集落<speed_FFFF>{END}","<speed_0000>1. Cave of Spirits<nl>
+2. Eroded Grotto<nl>
+3. Ymir Forest, Lake of Reflection<nl>
+4. Village of the Elves<speed_FFFF>{END}"
+"<speed_0000>１。十二星座の塔
+２。ミッドガルズ<color_0003>（城入れる）<color_0000>
+３。ヴァルハラ平原
+４。ダオス城（過去）<speed_FFFF>{END}","<speed_0000>1. Zodiac Tower<nl>
+2. Midgard <color_0003>(accessible castle)<color_0000><nl>
+3. Plains of Valhalla<nl>
+4. Dhaos' Castle (Past)<speed_FFFF>{END}"
+ヴァルハラ戦役？（Ｙ／Ｎ）{END},Activate Valhalla War? (Yes/No){END}
+"<speed_0000>１。白樺の森
+２。ミゲールの町
+３。ヴォルトの洞窟
+４。アルヴァニスタの都（未来）<speed_FFFF>{END}","<speed_0000>1. Whitespire Forest<nl>
+2. Town of Miguel<nl>
+3. Volt's Cave<nl>
+4. Alvanista Capital (Future)<speed_FFFF>{END}"
+"<speed_0000>１。炎の塔
+２。フリーズキール
+３。常闇の町アーリィ
+４。ダオス城入口（未来）<speed_FFFF>{END}","<speed_0000>1. Tower of Fire<nl>
+2. Freezekiel<nl>
+3. Early, The Twilit Town<nl>
+4. Entrance to Dhaos' Castle (Future)<speed_FFFF>{END}"
+"<speed_0000>１。忍者の里
+２。モーリア坑道（下層入口）
+３。古代都市トール（未来）
+４。シャドウのダンジョン<speed_FFFF>{END}","<speed_0000>1. Ninja Village<nl>
+2. Moria Mine (Underground Entrance)<nl>
+3. Ancient City of Thor (Future)<nl>
+4. Shadow's Dungeon<speed_FFFF>{END}"
+"<speed_0000>１。ギースショップ
+２。オアシス
+３。アーシアの里
+４。<speed_FFFF>{END}","<speed_0000>1. Aegis' Shop<nl>
+2. Oasis<nl>
+3. Arsia's home<nl>
+4. (unused)<speed_FFFF>{END}"
+"<speed_0000>１。オアシス１
+２。オアシス２
+３。オアシス３<speed_FFFF>{END}","<speed_0000>1. Oasis 1<nl>
+2. Oasis 2<nl>
+3. Oasis 3<speed_FFFF>{END}"
+"<speed_0000>１。プロローグ・ダオス封印
+２。精霊との出会い
+３。トーティス滅亡
+４。伯父オルソン家を訪ねた<speed_FFFF>{END}","<speed_0000>1. Prologue - Dhaos' sealing<nl>
+2. Meeting a spirit<nl>
+3. Destruction of Totus<nl>
+4. Imposing on Uncle Olson<speed_FFFF>{END}"
+"<speed_0000>１。マルスの館に連行される
+２。投獄される
+３。牢屋から脱出した
+４。＜未使用＞<speed_FFFF>{END}","<speed_0000>1. Brought to Mars' lair<nl>
+2. Imprisonment<nl>
+3. Escape from prison<nl>
+4. (unused)<speed_FFFF>{END}"
+"<speed_0000>１。地下墓地にてダオス復活
+２。夕暮れの草原に時間転移
+３。ベルアダム村で話を聞く
+４。<Klarth>が仲間に加わる<speed_FFFF>{END}","<speed_0000>1. Dhaos' revival in the underground mausoleum<nl>
+2. Time travel to the sunset field<nl>
+3. Learning the story in Belladam village<nl>
+4. <Klarth> joins the party<speed_FFFF>{END}"
+"<speed_0000>１。シルフと契約する
+２。大樹ユグドラシル
+３。滅亡したハーメル
+４。デミテルの館へ<speed_FFFF>{END}","<speed_0000>1. Pact with Sylph<nl>
+2. Great Tree Yggdrasill<nl>
+3. Ruined Harmel<nl>
+4. To Demeter's abode<speed_FFFF>{END}"
+"<speed_0000>１。<Arche>が仲間に加わる
+２。メイアーとの出会い
+３。襲ってくるメイアー
+４。レアード王子救出作戦<speed_FFFF>{END}","<speed_0000>1. <Arche> joins the party<nl>
+2. Meeting Mayer<nl>
+3. Mayer's assault<nl>
+4. The plan to rescue Prince Laird<speed_FFFF>{END}"
+"デミテル地下研究室に移動します。
+戦闘後、<Arche>が仲間になります。{END}","Moving to Demeter's underground
+lab. After the battle, <Arche> will
+join the party.{END}"
+"アルヴァニスタの町に移動します。
+宿屋に泊まって下さい。{END}","Moving to Alvanista City. Please stay
+at the inn.{END}"
+"<speed_0000>１。王子の部屋／ジャミル戦
+２。イフリートと契約
+３。ノームと契約
+４。ウンディーネと契約<speed_FFFF>{END}","<speed_0000>1. The Prince's room/Fight with Jahmir<nl>
+2. Pact with Ifrit<nl>
+3. Pact with Gnome<nl>
+4. Pact with Undine<speed_FFFF>{END}"
+"<speed_0000>１。四大精霊／マクスウェル
+２。指輪を直すために
+３。エドワードを探す１
+４。エドワードを探す２<speed_FFFF>{END}","<speed_0000>1. Spirit of the four elements/Maxwell<nl>
+2. In order to fix the ring<nl>
+3. Seeking Edward 1<nl>
+4. Seeking Edward 2<speed_FFFF>{END}"
+"<speed_0000>１。エドワードを探す３
+２。水鏡ユミルの森（過去）
+３。エルフの集落
+４。指輪復活<speed_FFFF>{END}","<speed_0000>1. Seeking Edward 3<nl>
+2. Ymir Forest (Past)<nl>
+3. Village of the Elves<nl>
+4. Restoring the ring<speed_FFFF>{END}"
+"うろこを５枚入手しました。
+宿屋の主人と話して下さい。{END}","You've obtained 5 Scales. Please
+speak to the innkeeper.{END}"
+"<speed_0000>１。<Arche>母との再会
+２。妖精にエンブレムを奪われる
+３。精霊ルナの部屋へ
+４。戦争間近１／ミッドガルズ<speed_FFFF>{END}","<speed_0000>1. <Arche>'s reunion with her mother<nl>
+2. Emblem stolen by the sprite<nl>
+3. To the home of the spirit Luna<nl>
+4. War draws close 1/Midgard<speed_FFFF>{END}"
+"<speed_0000>１。戦争間近２／バートの家
+２。エドワード＝Ｄ＝モリスン死亡
+３。ヴァルハラ戦役開始
+４。ヴァルハラ戦役<speed_FFFF>{END}","<speed_0000>1. War draws close 2/Bart's House<nl>
+2. Death of Edward D. Morrison<nl>
+3. Start of the Valhalla War<nl>
+4. Valhalla War<speed_FFFF>{END}"
+"<speed_0000>１。ヴァルキリー／魔科学兵器
+２。過去ダオスとの対決／逃亡
+３。エドワードの遺産
+４。超古代都市トールを知る<speed_FFFF>{END}","<speed_0000>1. Valkyrie/Magitechnology Weapon<nl>
+2. Fight with Dhaos in the past/escape<nl>
+3. Edward's legacy<nl>
+4. Learning of the great ancient
+capital of Thor<speed_FFFF>{END}"
+"<speed_0000>１。<Mint>の夢
+２。ユニコーンホーンを求めて
+３。ユグドラシル復活
+４。超古代都市トールへ向かう<speed_FFFF>{END}","<speed_0000>1. <Mint>'s dream<nl>
+2. Seeking the unicorn<nl>
+3. Yggdrasill's revival<nl>
+4. To the great ancient capital of Thor<speed_FFFF>{END}"
+船長と話して下さい{END},Please talk to the ship's captain.{END}
+"<speed_0000>１。現代地下墓地に戻る
+２。現代ダオスを倒した
+３。二人との別れ／未来よりの使者４。ミゲールの町に時間転移<speed_FFFF>{END}","<speed_0000>1. Return to the underground mausoleum (Present)<nl>
+2. Present era Dhaos defeated<nl>
+3. Bidding the two goodbye / messenger from the future<nl>
+4. Time travel to Miguel<speed_FFFF>{END}"
+"過去ダオスに勝利したフラグ
+スイッチ１８２をオンにしました。地下墓地に移動します。{END}","Switch 182; flag for defeating Dhaos
+in the past has been turned on.
+Moving to underground mausoleum.{END}"
+"過去ダオスに勝利したフラグ
+スイッチ１８２をオンにしました。現代ダオスを地下墓地で倒しました。{END}","Switch 182; flag for defeating Dhaos
+in the past has been turned on. You
+have defeated present Dhaos in the
+underground mausoleum.{END}"
+"過去ダオスに勝利したフラグ
+スイッチ１８２をオンにしました。モリスンの家に移動します。{END}","Switch 182; flag for defeating Dhaos
+in the past has been turned on.
+Moving to Morrison's house.{END}"
+"５人パーティの説明フラグ
+スイッチ２０２をオフにしました。ミゲールの町に移動します。{END}","Switch 202; flag for explaining a
+five person party has been turned
+off. Moving to Miguel City.{END}"
+"<speed_0000>１。闘技場で両親イベント
+２。べェネツィア港使用できず
+３。レアバード入手
+４。ヴォルトと契約<speed_FFFF>{END}","<speed_0000>1. Her parents in the arena event<nl>
+2. Unable to use the Venezia harbor<nl>
+3. Obtaining the Rheairds<nl>
+4. Pact with Volt<speed_FFFF>{END}"
+"闘技場に移動します。
+兵士に話しかけて下さい。{END}","Moving to the arena. Please speak
+to the soldier.{END}"
+"ベネツィア港に移動します。
+ハリソンに話しかけて下さい。{END}","Moving to Venezia Harbor. Please
+speak with Harrison.{END}"
+"<speed_0000>１。炎の剣
+２。氷の剣
+３。ユミルの森（未来）
+４。オリジン／エターナルソード<speed_FFFF>{END}","<speed_0000>1. Blade of Fire<nl>
+2. Blade of Ice<nl>
+3. Ymir Forest (Future)<nl>
+4. Origin/Eternal Sword<speed_FFFF>{END}"
+"<speed_0000>１。常闇の町アーリィ／決戦前夜
+２。＜未使用＞
+３。＜未使用＞
+４。＜未使用＞<speed_FFFF>{END}","<speed_0000>1. Early/Eve of the final<nl>
+2. (unused)<nl>
+3. (unused)<nl>
+4. (unused)<speed_FFFF>{END}"
+宿屋に泊まって下さい。{END},Please stay at the inn.{END}
+"<speed_0000>１。<Chester>の弓訓練１
+２。<Chester>の弓訓練２
+３。カレーに驚く<Suzu>
+４。最終奥義イベント<speed_FFFF>{END}","<speed_0000>1. <Chester>'s archery training 1<nl>
+2. <Chester>'s archery training 2<nl>
+3. <Suzu>'s startling curry experience<nl>
+4. Ultimate arcane arte event<speed_FFFF>{END}"
+弓訓練イベント１を発生します。{END},Beginning archery training event 1.{END}
+弓訓練イベント２を発生します。{END},Beginning archery training event 2.{END}
+"カレーイベントを発生します。
+そこにいる男と、話して下さい。{END}","Beginning Curry Event. Please talk to
+the man standing there.{END}"
+"ミゲールの町に移動します。
+宿屋に泊まって下さい。{END}","Moving to Miguel City. Please stay at
+the inn.{END}"
+"<speed_0000>１。<Suzu>が忍者の里を案内
+２。<Suzu>が仲間に加わる
+３。温泉イベント１
+４。温泉イベント２<speed_FFFF>{END}","<speed_0000>1. <Suzu> guides you to ninja village<nl>
+2. <Suzu> joins your group<nl>
+3. Bath house event 1<nl>
+4. Bath house event 2<speed_FFFF>{END}"
+"忍者の里に移動します。
+{END}",Moving to Ninja Village.{END}
+"闘技場イベントクリアフラグ
+スイッチ２９８をオンにしました。
+<Suzu>が仲間になります。{END}","Switch 298; flag for Arena event
+cleared has been turned on.
+<Suzu> has joined the party.{END}"
+"<speed_0000>１。マナ消失
+２。ユグドラシル復活
+３。ダオスと遭遇
+４。ナンシー＆エルウィン結婚{END}","<speed_0000>1. Mana's disappearance<nl>
+2. Yggdrasill's rebirth<nl>
+3. Encounter with Dhaos<nl>
+4. Nancy and Elwyn's wedding{END}"
+"<speed_0000>１。ＥＤ戦いの理由
+２。ＥＤマナの話
+３。ＥＤ別れ
+４。ＥＤ大いなる実り{END}","<speed_0000>1. ED - reason to fight<nl>
+2. ED - story of mana<nl>
+3. ED - separation<nl>
+4. ED - the great seed{END}"
+"<speed_0000>１。<Suzu>がいる
+２。<Suzu>がいない
+{END}","<speed_0000>1. With <Suzu><nl>
+2. Without <Suzu>{END}"
+"<speed_0000>１。ＥＤ二人との別れ
+２。ＥＤ過去のエピローグ
+３。ＥＤ再びトーティス
+４。よーみイベント{END}","<speed_0000>1. ED - Bidding the two goodbye<nl>
+2. ED - Past epilogue<nl>
+3. ED - Totus once again<nl>
+4. Yomi Event{END}"
+"<speed_0000>１。母を見舞うクレス
+２。アーチェの墓参り
+３。熱血チェスタ
+４。苦労人チェスタ{END}","<speed_0000>1. <Cless> visiting his mother<nl>
+2. Visiting <Rhea>'s grave<nl>
+3. Hot-blooded <Chester><nl>
+4. Hard-working <Chester>{END}"
+"<speed_0000>１。迷子の女の子
+２。才色兼備
+３。クラースとミラルド
+４。未使用{END}","<speed_0000>1. Lost girl<nl>
+2. Brains and beauty<nl>
+3. Klarth and Mirald<nl>
+4. (unused){END}"
+"<speed_0000>１。アーシア１（過去）
+２。アーシア２（過去）
+３。アーシア３（過去）
+４。アーシア４（過去）{END}","<speed_0000>1. Arsia 1 (Past)<nl>
+2. Arsia 2 (Past)<nl>
+3. Arsia 3 (Past)<nl>
+4. Arsia 4 (Past){END}"
+"<speed_0000>１。アーシア１（未来）
+２。トレントの森の奥地
+３。アーシア２（未来）
+４。未使用{END}","<speed_0000>1. Arsia 1 (Future)<nl>
+2. Depths of Treant Forest<nl>
+3. Arsia 2 (Future)<nl>
+4. (unused){END}"
+"<speed_0000>１。ＭＥＭＯＲＹ１
+２。ＭＥＭＯＲＹ２
+３。未使用
+４。未使用{END}","<speed_0000>1. Memory 1<nl>
+2. Memory 2<nl>
+3. (unused)<nl>
+4. (unused){END}"
+"<speed_0000>１。ユークリッド・武器屋
+２。ユークリッド・防具屋
+３。ユークリッド・食材店
+４。ユークリッド・道具屋<speed_FFFF>{END}","<speed_0000>1. Euclid - Weapon Shop<nl>
+2. Euclid - Armor Shop<nl>
+3. Euclid - Grocery Store<nl>
+4. Euclid - Item Shop<speed_FFFF>{END}"
+"<speed_0000>１。ユークリッド・何でも屋
+２。<color_0003>ベルアダム・武具屋<color_0000>
+３。<color_0003>ベルアダム・道具屋<color_0000>
+４。モリスンの家・行商人<speed_FFFF>{END}","<speed_0000>1. Euclid - Everything Shop<nl>
+2. <color_0003>Beladam - Armory<color_0000><nl>
+3. <color_0003>Beladam - Item Shop<color_0000><nl>
+4. Morrison's House - Traveling
+Merchant<speed_FFFF>{END}"
+"<speed_0000>１。<color_0003>ユークリッド・武具屋<color_0000>
+２。<color_0003>ユークリッド・道具屋<color_0000>
+３。<color_0003>ユークリッド・食材店<color_0000>
+４。<color_0003>ハーメル・武器屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0003>Euclid - Armory<color_0000><nl>
+2. <color_0003>Euclid - Item Shop<color_0000><nl>
+3. <color_0003>Euclid - Grocery Store<color_0000><nl>
+4. <color_0003>Harmel - Weapon Shop<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0003>ハーメル・防具屋<color_0000>
+２。<color_0003>ハーメル・道具屋<color_0000>
+３。<color_0003>ベネツィア・武器屋<color_0000>
+４。<color_0003>ベネツィア・防具屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0003>Harmel - Armor Shop<color_0000><nl>
+2. <color_0003>Harmel - Item Shop<color_0000><nl>
+3. <color_0003>Venezia - Weapon Shop<color_0000><nl>
+4. <color_0003>Venezia - Armor Shop<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0003>ベネツィア・道具屋<color_0000>
+２。<color_0003>ベネツィア・食材店<color_0000>
+３。<color_0003>デミテル・船乗り<color_0000>
+４。<color_0003><var_D000>・船乗り<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0003>Venezia - Item Shop<color_0000><nl>
+2. <color_0003>Venezia - Grocery Store<color_0000><nl>
+3. <color_0003>Demeter - Dock<color_0000><nl>
+4. <color_0003>Undine - Dock<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0003>アルヴァニスタ・武器屋<color_0000>
+２。<color_0003>アルヴァニスタ・防具屋<color_0000>
+３。<color_0003>アルヴァニスタ・道具屋<color_0000>
+４。<color_0003>アルヴァニスタ・食材店<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0003>Alvanista - Weapon Shop<color_0000><nl>
+2. <color_0003>Alvanista - Armor Shop<color_0000><nl>
+3. <color_0003>Alvanista - Item Shop<color_0000><nl>
+4. <color_0003>Alvanista - Grocery Store<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0003>オリビ＜略＞・武具屋<color_0000>
+２。<color_0003>オリビ＜略＞・道具屋<color_0000>
+３。<color_0003>オリビ＜略＞・食材店<color_0000>
+４。<color_0003>オリビ＜略＞・薬屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0003>Olive Village - Armory<color_0000><nl>
+2. <color_0003>Olive Village - Item Shop<color_0000><nl>
+3. <color_0003>Olive Village - Grocery Store<color_0000><nl>
+4. <color_0003>Olive Village - Pharmacy<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0003>エルフの集落・食材店<color_0000>
+２。<color_0003>エルフの集落・薬屋<color_0000>
+３。<color_0003>エルフの集落・道具屋<color_0000>
+４。<color_0003>ミッドガルズ・武器屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0003>Elven Village - Grocery Store<color_0000><nl>
+2. <color_0003>Elven Village - Pharmacy<color_0000><nl>
+3. <color_0003>Elven Village - Item Shop<color_0000><nl>
+4. <color_0003>Midgard - Weapon Shop<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0003>ミッドガルズ防具屋<color_0000>
+２。<color_0003>ミッドガルズ薬屋<color_0000>
+３。<color_0003>ミッドガルズ道具屋<color_0000>
+４。<color_0003>ミッドガルズ食材店<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0003>Midgard - Armor Shop<color_0000><nl>
+2. <color_0003>Midgard - Pharmacy<color_0000><nl>
+3. <color_0003>Midgard - Item Shop<color_0000><nl>
+4. <color_0003>Midgard - Grocery Store<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0002>ミゲールの町・武具屋<color_0000>
+２。<color_0002>ユークリッド・武器屋<color_0000>
+３。<color_0002>ユークリッド・防具屋<color_0000>
+４。<color_0002>ベネツィア・武器屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0002>Miguel City - Armory<color_0000><nl>
+2. <color_0002>Euclid - Weapon Shop<color_0000><nl>
+3. <color_0002>Euclid - Armor Shop<color_0000><nl>
+4. <color_0002>Venezia - Weapon Shop<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0002>ベネツィア・防具屋<color_0000>
+２。<color_0002>アルヴァニスタ・武器屋<color_0000>
+３。<color_0002>名工ギース（サミー）<color_0000>
+４。<color_0002>アーリィ・道具屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0002>Venezia - Armory<color_0000><nl>
+2. <color_0002>Alvanista - Weapon Shop<color_0000><nl>
+3. <color_0002>Aegis' Shop (Sammy)<color_0000><nl>
+4. <color_0002>Early - Item Shop<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0002>ベネツィア・食材店<color_0000>
+２。<color_0002>ユークリッド・食材店<color_0000>
+３。<color_0002>アルヴァニスタ・食材店<color_0000>
+４。<color_0002>フリーズキール・武具屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0002>Venezia - Grocery Store<color_0000><nl>
+2. <color_0002>Euclid - Grocery Store<color_0000><nl>
+3. <color_0002>Alvanista - Grocery Store<color_0000><nl>
+4. <color_0002>Freezekiel - Armory<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0002>アーリィ・武具屋<color_0000>
+２。<color_0002>オリビ＜略＞・武具屋<color_0000>
+３。<color_0002>忍者の里・よろずや<color_0000>
+４。<color_0002>エルフの集落・道具屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0002>Early - Armory<color_0000><nl>
+2. <color_0002>Olive Village - Armory<color_0000><nl>
+3. <color_0002>Ninja Village - General Store<color_0000><nl>
+4. <color_0002>Village of the Elves - Item Shop<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0002>名工ギース（テン）<color_0000>
+２。山道・行商人
+３。<color_0002>モーリア坑道補給物資<color_0000>
+４。<color_0002>アルヴァニスタ・道具屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0002>Aegis' Shop (Ten)<color_0000><nl>
+2. Mountain Path - Traveling Merchant<nl>
+3. <color_0002>Moria Tunnel Resupply Stop<color_0000><nl>
+4. <color_0002>Alvanista - Item Shop<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0002>モリスンの家・行商人<color_0000>
+２。<color_0003>アルヴァ二スタ・薬屋<color_0000>
+３。<color_0002>アルヴァ二スタ・薬屋<color_0000>
+４。<color_0002>ミゲールの町・何でも屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0002>Morrison's House - Traveling Merchant<color_0000><nl>
+2. <color_0003>Alvanista - Pharmacy<color_0000><nl>
+3. <color_0002>Alvanista - Pharmacy<color_0000><nl>
+4. <color_0002>Town of Miguel - Everything Shop<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0002>アルヴァニスタ・防具屋<color_0000>
+２。<color_0002>ユークリッド・何でも屋<color_0000>
+３。トーティス・武器屋
+４。トーティス・道具屋<speed_FFFF>{END}","<speed_0000>1. <color_0002>Alvanista - Armor Shop<color_0000><nl>
+2. <color_0002>Euclid - Everything Shop<color_0000><nl>
+3. Totus - Weapon Shop<nl>
+4. Totus - Item Shop<speed_FFFF>{END}"
+"<speed_0000>１。<color_0002>フリーズキール・食材屋<color_0000>
+２。<color_0002>フリーズキール・道具屋<color_0000>
+３。<color_0002>アーリィ・食材屋<color_0000>
+４。<color_0002>エルフの集落・食材屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0002>Freezekiel - Grocery Store<color_0000><nl>
+2. <color_0002>Freezekiel - Item Shop<color_0000><nl>
+3. <color_0002>Early - Grocery Store<color_0000><nl>
+4. <color_0002>Village of the Elves - Grocery Store<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0002>エルフの集落・薬屋<color_0000>
+２。<color_0002>ベネツィア・道具屋<color_0000>
+３。<color_0002>オリビ＜略＞・道具屋<color_0000>
+４。<color_0002>オリビ＜略＞・食材屋<color_0000><speed_FFFF>{END}","<speed_0000>1. <color_0002>Village of the Elves - Pharmacy<color_0000><nl>
+2. <color_0002>Venezia - Item Shop<color_0000><nl>
+3. <color_0002>Olive Village - Item Shop<color_0000><nl>
+4. <color_0002>Olive Village - Grocery Store<color_0000><speed_FFFF>{END}"
+"<speed_0000>１。<color_0002>オリーブヴィレッジ薬屋<color_0000>
+２。<color_0002>ユークリッド道具屋<color_0000>
+３。<color_0002>フリーズキール薬屋<color_0000>
+４。準備中<speed_FFFF>{END}","<speed_0000>1. <color_0002>Olive Village - Pharmacy<color_0000><nl>
+2. <color_0002>Euclid - Item Shop<color_0000><nl>
+3. <color_0002>Freezekiel - Pharmacy<color_0000><nl>
+4. Not open yet<speed_FFFF>{END}"
+"<speed_0000>１。<Klarth>
+２。<Chester>
+３。<Suzu>
+４。おわり　／　<var_0202>：キャラ変更{END}","<speed_0000>1. <Klarth><nl>
+2. <Chester><nl>
+3. <Suzu><nl>
+4. End / <var_0202>: Change character{END}"
+"<speed_0000>１。<Cless>
+２。<Mint>
+３。<Arche>
+４。おわり　／　<var_0202>：キャラ変更{END}","<speed_0000>1. <Cless><nl>
+2. <Mint><nl>
+3. <Arche><nl>
+4. End / <var_0202>: Change character{END}"
+"<speed_0000>１。ヴァルハラ戦役ナレーション
+２。エンディングナレーション
+<speed_FFFF>{END}","<speed_0000>1. Valhalla War narration<nl>
+2. Ending narration<speed_FFFF>{END}"
+"音声再生中
+〇・・・・・{END}","Sound playback in progress
+.{END}"
+"音声再生中
+〇〇・・・・{END}","Sound playback in progress
+..{END}"
+"音声再生中
+〇〇〇・・・{END}","Sound playback in progress
+...{END}"
+"音声再生中
+〇〇〇〇・・{END}","Sound playback in progress
+....{END}"
+"音声再生中
+〇〇〇〇〇・{END}","Sound playback in progress
+.....{END}"
+"音声再生中
+〇〇〇〇〇〇{END}","Sound playback in progress
+......{END}"
+音声再生終了{END},Sound playback finished{END}
+"音声再生中
+〇・・・・・{END}","Sound playback in progress
+.{END}"
+"音声再生中
+〇〇・・・・{END}","Sound playback in progress
+..{END}"
+"音声再生中
+〇〇〇・・・{END}","Sound playback in progress
+...{END}"
+"音声再生中
+〇〇〇〇・・{END}","Sound playback in progress
+....{END}"
+"音声再生中
+〇〇〇〇〇・{END}","Sound playback in progress
+.....{END}"
+"音声再生中
+〇〇〇〇〇〇{END}","Sound playback in progress
+......{END}"
+音声再生終了{END},Sound playback finished{END}
+"<speed_0000>現在<num2_C0006100>、<num5_C0006104>番のアニメ
+１。次のアニメ　２。前のアニメ
+３。もう一回　　４。おわり
+<var_0202>：キャラ変更{END}","<speed_0000>Currently on animation #: <num2_C0006100>, <num5_C0006104><nl>
+1. Next        2. Previous<nl>
+3. View again  4. End
+<var_0202>: Change character{END}"
+"<speed_0000>１。所持金＋５００００
+２。所持金-５００００
+３。所持金＋５００００００
+４。所持金-５００００００<speed_FFFF>{END}","<speed_0000>1. Current Money + 50,000<nl>
+2. Current Money - 50,000<nl>
+3. Current Money + 5,000,000<nl>
+4. Current Money - 5,000,000<speed_FFFF>{END}"
+所持金は<num5_C000610C>ガルド{END},Current money: <num5_C000610C> gald{END}
+所持金は<num5_C000610C>ガルド{END},Current money: <num5_C000610C> gald{END}
+所持金は<num5_C000610C>ガルド{END},Current money: <num5_C000610C> gald{END}
+所持金は<num5_C000610C>ガルド{END},Current money: <num5_C000610C> gald{END}
+"<speed_0000>１。全アイテム＋１
+２。全アイテム-１
+３。全アイテム＝１５
+４。全アイテム＝０<speed_FFFF>{END}","<speed_0000>1. All items + 1<nl>
+2. All items - 1<nl>
+3. All items = 15<nl>
+4. All items = 0<speed_FFFF>{END}"
+"<audio_0FD2><var_D000>
+「この泡の中に入るがよい」{END}","<audio_0FD2>Undine:<nl>
+ This bubble shall provide you with
+ safe passage to the sunken
+ metropolis. Step inside.{END}"

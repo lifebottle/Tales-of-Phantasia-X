@@ -1,0 +1,372 @@
+Cless{END}
+
+Mint{END}
+
+Arche{END}
+
+Klarth{END}
+
+Chester{END}
+
+Suzu{END}
+
+Rody{END}
+
+Rhea{END}
+
+ Alvein{END}
+
+ Adnade{END}
+
+ Klaine{END}
+
+ F. Lester{END}
+
+ Barklight{END}
+
+ Fujibayashi{END}
+
+ E. Effenberg{END}
+
+ Scarlet{END}
+
+<Cless> Alvein{END}
+
+<Mint> Adnade{END}
+
+<Arche> Klaine{END}
+
+<Klarth> F. Lester{END}
+
+<Chester> Barklight{END}
+
+<Suzu> Fujibayashi{END}
+
+Rondoline E. Effenberg{END}
+
+Rhea Scarlet{END}
+
+Level{END}
+
+HP{7F}{END}
+
+TP{END}
+
+EXP{7F}{7F}{END}
+
+Next{7F}{END}
+
+Non-Playable Character{END}
+
+Strength{END}
+
+Constitution{END}
+
+Agility{END}
+
+Luck{END}
+
+Attack  {END}
+
+Slash{END}
+
+Thrust{END}
+
+Defense{END}
+
+Accuracy{END}
+
+Evasion{END}
+
+Weapon{END}
+
+Body{END}
+
+Shield{END}
+
+Head{END}
+
+Hand{END}
+
+Accessory{END}
+
+Accessory{END}
+
+Slash{END}
+
+Thrust{END}
+
+Accuracy{END}
+
+Agility{END}
+
+Defense{END}
+
+Evasion{END}
+
+Luck{END}
+
+Element{END}
+
+Attack  {END}
+
+Gald{END}
+
+Play Time{END}
+
+Encounters{END}
+
+Max Hits{END}
+
+Equip{END}
+
+Remove{END}
+
+Optimum{END}
+
+Slash Best{END}
+
+Thrust Best{END}
+
+Balanced{END}
+
+Key Items{END}
+
+Stock{END}
+
+Use on which item?{END}
+
+Stock{END}
+
+Undo{END}
+
+Replace{END}
+
+Loading character sprites...{END}
+
+TP{END}
+
+Mastery{END}
+
+Mastered{END}
+
+Auto{END}
+
+Semi-Auto{END}
+
+Manual{END}
+
+SC{END}
+
+Undo{END}
+
+Default{END}
+
+Message Speed{END}
+
+Window Color{END}
+
+Reverb{END}
+
+Sound Volume{END}
+
+Event Voices{END}
+
+Battle Voices{END}
+
+Menu Character Display{END}
+
+Battle Rank{END}
+
+Battle Controls{END}
+
+Combo Counter{END}
+
+Target Check Pause{END}
+
+Jump Sensitivity{END}
+
+Main Window Color{END}
+
+Enemy Window Color{END}
+
+Information Window Color{END}
+
+ R{END}
+
+ G{END}
+
+ B{END}
+
+Music Volume{END}
+
+Sound Effect Volume{END}
+
+Voiceover Volume{END}
+
+ON{END}
+
+OFF{END}
+
+Fast{END}
+
+Normal{END}
+
+Slow{END}
+
+Mono{END}
+
+Stereo{END}
+
+Sprite{END}
+
+Portrait{END}
+
+S.D. Portrait{END}
+
+Normal{END}
+
+Hard{END}
+
+Mania{END}
+
+Opaque{END}
+
+Translucent{END}
+
+Confirm{END}
+
+Random{END}
+
+Default{END}
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ      abcdefghijklmnopqrstuvwxyz      [0][1][2][3][4][5][6][7][8][9].,-=+ {END}
+
+{END}
+
+{END}
+
+{END}
+
+Total{END}
+
+Slot 1{END}
+
+Slot 2{END}
+
+None{END}
+
+ Error{END}
+
+Holy Bottle{END}
+
+Normal{END}
+
+Dark Bottle{END}
+
+Required Ingredients{END}
+
+Optional Ingredients{END}
+
+Requisite:__of the above.{END}
+
+<color_0002>☆ <color_0000>:<color_0000> Recipe Mastery{END}
+
+Ingredients Used{END}
+
+Completion{END}
+
+????????????{END}
+
+Track{END}
+
+Play Mode{END}
+
+Reverb{END}
+
+Music Volume{END}
+
+Voiceover Volume{END}
+
+Sound Effect Volume{END}
+
+Panning{END}
+
+Voiceover{END}
+
+Sound Effect{END}
+
+Song{END}
+
+Skit{END}
+
+NOW LOADING{END}
+
+Loop{END}
+
+Continuous{END}
+
+Shuffle{END}
+
+Playlist{END}
+
+OFF{END}
+
+ON{END}
+
+Stereo{END}
+
+Mono{END}
+
+Level Meter{END}
+
+Spectrum Analyzer{END}
+
+Level{END}
+
+Have{END}
+
+None{END}
+
+Add All{END}
+
+Remove All{END}
+
+Tracklist{END}
+
+Playlist{END}
+
+Add{END}
+
+Remove{END}
+
+Play{END}
+
+<color_0001>Select Button:  <color_0000>Select Bassline{END}
+
+<color_0001>Start Button:  <color_0000>Return to Items Menu{END}
+
+CPU:{END}
+
+GPU:{END}
+
+SCE:{END}
+
+PRM:{END}
+
+Debug{END}
+
+Photo{END}
+
+ER{END}
+
+EC{END}
+
+STK:{END}
+
+Encounters{END}
+
+Battle Subtitles{END}
+
+Enhanced Holy Bottles{END}
+

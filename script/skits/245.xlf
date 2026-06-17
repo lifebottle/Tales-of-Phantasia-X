@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1278">
+        <source>We're still short on information about the Tria.</source>
+        <target state="translated">We're still short on information about the Tria.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1279">
+        <source>Yeah. We'll get nowhere until we learn more.</source>
+        <target state="translated">Yeah. We'll get nowhere until we learn more.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1280">
+        <source>I have heard it encompasses the Blade of
+Flame, the Blade of Frost, and a pact ring...</source>
+        <target state="translated">I have heard it encompasses the Blade of
+Flame, the Blade of Frost, and a pact ring...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1281">
+        <source>Who told you that? The guys
+from your ninja info network thingy?</source>
+        <target state="translated">Who told you that? The guys
+from your ninja info network thingy?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1282">
+        <source>Yes. But the items' whereabouts are not known.</source>
+        <target state="translated">Yes. But the items' whereabouts are not known.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1283">
+        <source>I'm sure we can get clues at
+Alvanista's Magic Research Lab.</source>
+        <target state="translated">I'm sure we can get clues at
+Alvanista's Magic Research Lab.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_432">
+        <source>Let's hurry to Lone Valley.</source>
+        <target state="translated">Let's hurry to Lone Valley.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_433">
+        <source>Right, but I don't know where it is.</source>
+        <target state="translated">Right, but I don't know where it is.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_434">
+        <source>On the island across Euclid's east bridge.</source>
+        <target state="translated">On the island across Euclid's east bridge.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_435">
+        <source>The man we need to speak
+with lives there with his daughter.</source>
+        <target state="translated">The man we need to speak
+with lives there with his daughter.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_436">
+        <source>He holds the keys to magic, or so I thought.</source>
+        <target state="translated">He holds the keys to magic, or so I thought.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_437">
+        <source>Well, that's close enough.</source>
+        <target state="translated">Well, that's close enough.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

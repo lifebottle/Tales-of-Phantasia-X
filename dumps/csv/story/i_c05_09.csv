@@ -1,0 +1,1768 @@
+アルヴァニスタ城{END},Alvanista Castle{END}
+"<Cless>
+「固く閉ざされている」{END}","<Cless>:<nl>
+ It's closed tight...{END}"
+"<audio_16D5>門番
+「何だ、貴様らは！？」
+<pause>
+<audio_16D6>門番
+「ここは、貴様らのような者達が
+　来る所ではない！」
+<pause>
+<audio_16D7>門番
+「さっさと帰れ！」
+<pause>
+<audio_16D8><Klarth>
+「しかし我々はハリソン殿に頼ま
+　れて・・・」
+<pause>
+<audio_16D9>門番
+「黙れ！！」
+<pause>
+<audio_16DA>？？？
+「待ちなさい」{END}","<audio_16D5>Gatekeeper:<nl>
+ Who are you!?
+ What do you want!?
+<pause>
+<audio_16D6>Gatekeeper:<nl>
+ We don't allow random peasants to
+ waltz in!
+<pause>
+<audio_16D7>Gatekeeper:<nl>
+ Get lost!
+<pause>
+<audio_16D8><Klarth>:<nl>
+ We're here per Sir Harrison's
+ reques--
+<pause>
+<audio_16D9>Gatekeeper:<nl>
+ Silence!!!
+<pause>
+<audio_16DA>???:<nl>
+ At ease.{END}"
+"<audio_16DB>門番
+「ハリソン殿！」
+<pause>
+<audio_16DC>ハリソン
+「その方達が、この間話した人達
+　です」
+<pause>
+<audio_16DD>ハリソン
+「丁重にお通ししなさい」<wait>{END}","<audio_16DB>Gatekeeper:<nl>
+ Sir Harrison!
+<pause>
+<audio_16DC>Harrison:<nl>
+ These are the people I informed
+ you of the other day.
+<pause>
+<audio_16DD>Harrison:<nl>
+ Let them through, and treat them
+ with courtesy.<wait>{END}"
+"<audio_16DE>門番
+「この者達がですか！？」
+<pause>
+<audio_16DF>門番
+「こ、これは失礼しました」{END}","<audio_16DE>Gatekeeper:<nl>
+ These people?
+ Seriously!?
+<pause>
+<audio_16DF>Gatekeeper:<nl>
+ E-Excuse us.{END}"
+"<audio_16E0>ハリソン
+「部下の非礼をお許し下さい」
+<pause>
+<audio_16E1>ハリソン
+「どうぞ、こちらです」{END}","<audio_16E0>Harrison:<nl>
+ Please forgive their incivility.
+<pause>
+<audio_16E1>Harrison:<nl>
+ Come this way.{END}"
+"<audio_16E2>門番
+「あいつらがダオスを倒せる奴ら
+　だってよ」
+<pause>
+<audio_16E3>門番
+「まだ子供じゃねぇか？」
+<pause>
+<audio_16E4>門番
+「大丈夫なのか？」{END}","<audio_16E2>Gatekeeper:<nl>
+ They're the ones with the power to
+ defeat Dhaos!?
+<pause>
+<audio_16E3>Gatekeeper:<nl>
+ A bunch of kids!?
+ How's that possible!?
+<pause>
+<audio_16E4>Gatekeeper:<nl>
+ Has our king gone mad!?{END}"
+"レアード
+「私もまだまだ未熟です」
+<pause>
+レアード
+「早く父上のような、立派な人に
+　なって民のために尽くしたいと
+　思います」{END}","Laird:<nl>
+ I still have much to learn about
+ ruling a country.
+<pause>
+Laird:<nl>
+ I yearn for the day I can become a
+ great man like my father and
+ serve my people.{END}"
+"牢屋番
+「今、この牢屋には海賊の残党が
+　入れられている」
+<pause>
+牢屋番
+「彼らと話しても構わないが、鉄
+　格子の鍵は開けられないよ」{END}","Prison Guard:<nl>
+ We've got some pirates stewing in
+ the cells right now.
+<pause>
+Prison Guard:<nl>
+ Feel free to talk to them, but don't
+ pick the locks open!{END}"
+"牢屋番
+「あ〜あ、退屈・・・」{END}","Prison Guard:<nl>
+ Yawn... This position is so boring.
+ Stand, stand, stand, and we don't
+ even have any prisoners locked up
+ in here!{END}"
+"牢屋番
+「異常無し、と・・・」{END}","Prison Guard:<nl>
+ All is well, as usual...{END}"
+"海賊
+「何だ、お前は？」
+<pause>
+海賊
+「俺らは泣く子も黙る海賊<speed_0010>・・・
+　<speed_0001>の残党だ・・・」{END}","Pirate:<nl>
+ What'cha lookin' at, ye landlubbers?
+<pause>
+Pirate:<nl>
+ Yar, we be the remnants of the
+ once dreaded pirates of the high
+ seas. The day of the corsair be
+ past, it seems...{END}"
+"海賊
+「お前らに話すことなんてねぇ」
+<pause>
+海賊
+「ここはガキの来る所じゃねえん
+　だよ」<wait>{END}","Pirate:<nl>
+ I've nothing te say to ye's.
+<pause>
+Pirate:<nl>
+ This ain't the sorta place fer
+ ignorant little children.<wait>{END}"
+"海賊
+「なにぃ？」
+<pause>
+海賊
+「かしらの息子に頼まれた？」
+<pause>
+海賊
+「『真の宝』か・・・」
+<pause>
+海賊
+「う〜ん、俺にはさっぱりわから
+　んな・・・」{END}","Pirate:<nl>
+ Whaaat?
+<pause>
+Pirate:<nl>
+ The cap'n's little one asked fer yer
+ help?
+<pause>
+Pirate:<nl>
+ About a “true treasure”...?
+<pause>
+Pirate:<nl>
+ Errrr... Sorry, mate, I haven't a
+ clue.{END}"
+"海賊
+「大海原を航海した古き良き日々
+　がなつかしい」{END}","Pirate:<nl>
+ I miss the good ol' days of sailin'
+ the seas...{END}"
+"海賊
+「お前らに話すことなんてねぇ」
+<pause>
+海賊
+「とっとと帰りな」<wait>{END}","Pirate:<nl>
+ I got nothin' te say te ye.
+<pause>
+Pirate:<nl>
+ Bugger off.<wait>{END}"
+"海賊
+「なにぃ？」
+<pause>
+海賊
+「かしらの息子に頼まれた？」
+<pause>
+海賊
+「『真の宝』か・・・」
+<pause>
+海賊
+「聞いたことはあるが・・・」
+<pause>
+海賊
+「何でも、かしらの奥さんの形見
+　だったそうだぜ」
+<pause>
+海賊
+「どんなのかは知らないけどな」{END}","Pirate:<nl>
+ Whaaat?
+<pause>
+Pirate:<nl>
+ The cap'n's little one asked fer yer
+ help?
+<pause>
+Pirate:<nl>
+ About a “true treasure”...?
+<pause>
+Pirate:<nl>
+ Methinks I heard a few words
+ about that...
+<pause>
+Pirate:<nl>
+ Meheard one o' the mates sayin' it
+ was somethin' belongin' te the
+ cap'n's wife.
+<pause>
+Pirate:<nl>
+ But I've nary a clue as to what it
+ may be.{END}"
+"海賊
+「出してくれない？」{END}","Pirate:<nl>
+ Unless ye're here te break us out
+ o' this place.{END}"
+"魔術師
+「やはり、この図形のデザインに
+　何か関係が・・・」{END}","Mage:<nl>
+ As I thought, the design of this
+ shape is somehow related...{END}"
+"魔術師
+「もっと念を強くして・・・」{END}","Mage:<nl>
+ If I concentrate a bit harder...{END}"
+"魔術師
+「眠い・・・」
+<pause>
+魔術師
+「徹夜してます・・・」{END}","Mage:<nl>
+ Sleepy...
+<pause>
+Mage:<nl>
+ Pulled an all-nighter...{END}"
+"魔術師
+「モンスター図鑑の説明を聞きた
+　いの？」{END}","Mage:<nl>
+ Would you like a detailed
+ explanation of the Monster Book?{END}"
+"魔術師
+「何を聞きたいのかしら？」
+<pause>
+<color_0002>１。モンスターの記録方法
+２。攻撃属性について
+３。防御属性について
+４。落とすアイテムの記録方法<color_0000>{END}","Mage:<nl>
+ What would you like to ask about?<speed_0000>
+<pause>
+<color_0002>1. How to Record Monsters<nl>
+2. About Attack Element<nl>
+3. About Elemental Resistance<nl>
+4. Recording dropped items<color_0000><speed_FFFF>{END}"
+"魔術師
+「モンスターと遭遇すると、その
+　データがモンスター図鑑に記録
+　されるようになっているの」
+<pause>
+魔術師
+「でも、それだけでは属性や細か
+　な数値は表示されないわよね？」
+<pause>
+魔術師
+「それらを知るためには戦闘中に
+　スペクタクルズを使わなければ
+　ならないって知ってた？」
+<pause>
+魔術師
+「一度調べた情報はモンスター図
+　鑑にちゃんと記録されるように
+　なっているから安心してね」
+<pause>
+{END}","Mage:<nl>
+ Once you encounter a monster,
+ data pertaining to it is recorded in
+ the Monster Book.
+<pause>
+Mage:<nl>
+ However, as you'll see, only a few
+ basics attributes will be registered.
+<pause>
+Mage:<nl>
+ If you want to see the rest of the
+ monster's statistics, you'll need to
+ use a Magic Lens on it.
+<pause>
+Mage:<nl>
+ Now...
+<pause>
+{END}"
+"魔術師
+「攻撃属性とは文字どおりモンス
+　ターの攻撃の属性です」
+<pause>
+魔術師
+「モンスターが属性を持っている
+　場合、それに対応した防御属性
+　を持つ防具を探しましょう」
+<pause>
+魔術師
+「その防具を装備していれば、きっ
+　とそのモンスターとの戦いが有
+　利になるはずだから」
+<pause>
+{END}","Mage:<nl>
+ Attack Element is the elemental
+ attribute of the monster's attack.
+<pause>
+Mage:<nl>
+ This, combined with the defense
+ attribute of the character being
+ attacked, has a large influence on
+ the damage inflicted.
+<pause>
+Mage:<nl>
+ When equipped with proper
+ consideration, one has a
+ tremendous advantage against
+ monsters with elemental attacks.
+<pause>
+Mage:<nl>
+ Now...
+<pause>
+{END}"
+"魔術師
+「防御属性には『弱い』『強い』
+　『無効化』『回復』の４種類が
+　あるわ」
+<pause>
+魔術師
+「防御属性が『弱い』の場合は、
+　その属性の攻撃で大きなダメー
+　ジを与えられるということ」
+<pause>
+魔術師
+「逆に『強い』の場合は、その属
+　性の攻撃では少しのダメージし
+　か与えられないということ」
+<pause>
+魔術師
+「『無効化』はその属性の攻撃を
+　文字どおり無効化してしまうと
+　いうこと」
+<pause>
+魔術師
+「『回復』はその属性の攻撃を受
+　けるとＨＰが回復してしまうと
+　いうことを示しているのよ」
+<pause>
+魔術師
+「それぞれの文字の色が、水色に
+　近いほど、効果が小さく・・・」
+<pause>
+魔術師
+「白に近い文字は効果が大きいと
+　いう意味よ」
+<pause>
+{END}","Mage:<nl>
+ There are four classes of defense
+ attribute: Weak, Resist, Invalid, and
+ Absorb.
+<pause>
+Mage:<nl>
+ If the element's defense attribute
+ is “Weak,” attacking with that
+ element will inflict greater damage.
+<pause>
+Mage:<nl>
+ As you might expect, if it is
+ “Strong,” attacks of that
+ element will inflict less damage.
+<pause>
+Mage:<nl>
+ “Invalid” means attacks of that
+ element have a chance of being
+ completely negated.
+<pause>
+Mage:<nl>
+ “Absorb” means that attacks of
+ that element will restore HP
+ instead of dealing damage.
+<pause>
+Mage:<nl>
+ The text color used for each class
+ represents the degree of the
+ attribute, as follows:
+<pause>
+Mage:<nl>
+ A bluer text color indicates a
+ weaker attribute, while a whiter
+ text color indicates a stronger one.
+<pause>
+Mage:<nl>
+ Now...
+<pause>
+{END}"
+"魔術師
+「落とすアイテムはモンスターが
+　実際にアイテムを落とした時に
+　記録されるのよ」
+<pause>
+魔術師
+「あいている場所を無くすために
+　は同じモンスターと何度も戦う
+　必要があるようね」
+<pause>
+{END}","Mage:<nl>
+ Dropped items are only recorded
+ when the defeated monster leaves
+ them behind.
+<pause>
+Mage:<nl>
+ Recording drops to fill the empty
+ slots may require fighting the same
+ monster many times, as some
+ items can be very rare.
+<pause>
+Mage:<nl>
+ Now...
+<pause>
+{END}"
+"魔術師
+「参考になったかしら？」{END}","Mage:<nl>
+ Was that helpful?{END}"
+"魔術師
+「では、また・・・」{END}","Mage:<nl>
+ See ya, then...{END}"
+"魔術師
+「では、またの機会に・・・」{END}","Mage:<nl>
+ Maybe some other time, then...{END}"
+"魔術師
+「精霊？」
+<pause>
+魔術師
+「そうだなぁ・・・」
+<pause>
+魔術師
+「北海の孤島の<color_0002>浸食洞<color_0000>に住むとい
+　われる水の精霊<var_D000>と
+　か・・・」
+<pause>
+魔術師
+「ベルアダムの東の<color_0002>精霊の洞窟<color_0000>に
+　住んでいると言われる地の精霊
+　<var_D100>とか・・・」
+<pause>
+魔術師
+「参考になった？」
+<pause>
+魔術師
+「たしか、精霊の洞窟へはアル
+　ヴァニスタ港から船が出てい
+　て・・・」
+<pause>
+魔術師
+「浸食洞へはベネツィア港から
+　船でいけるはずだよ」{END}","<Klarth>:<nl>
+ Got any juicy info on the location
+ of any spirits?
+<pause>
+Mage:<nl>
+ I think so.
+ Let's see...
+<pause>
+Mage:<nl>
+ ...Right.
+ The information we have places
+ Undine, the Spirit of Water, in the
+ <color_0002>Eroded Grotto<color_0000>.
+<pause>
+Mage:<nl>
+ That place is located on a solitary
+ island in the North Sea.
+<pause>
+Mage:<nl>
+ Our information also places Gnome,
+ the Spirit of Earth, in the <color_0002>Cave of
+ Spirits<color_0000>.
+<pause>
+Mage:<nl>
+ And that place is in a cavern east
+ of Belladam.
+<pause>
+Mage:<nl>
+ I hope that helps.
+<pause>
+Mage:<nl>
+ I believe there should be a ship to the Cave of Spirits in the harbor in Alvanista.
+<pause>
+Mage:<nl>
+ And I'm pretty sure you can get a ship to the Eroded Grotto from the harbor in Venezia.{END}"
+"魔術師
+「魔科学っていうのは実用化でき
+　ればすごく便利な物らしいよ」
+<pause>
+魔術師
+「でも何かうさんくさいよな」
+<pause>
+魔術師
+「反動が大きそうだからな」{END}","Mage:<nl>
+ The practical application of
+ magitechnology would be
+ wonderfully convenient, but its
+ safety is still uncertain.
+<pause>
+Mage:<nl>
+ There could be some serious
+ consequences for its use.{END}"
+"魔術師
+「精霊？」
+<pause>
+魔術師
+「フレイランドの砂漠にある<color_0002>熱砂
+　の洞窟<color_0000>には、炎の精霊<var_D200>
+　がいるという話ですよ」
+<pause>
+魔術師
+「フレイランドには、ここから
+　南東にある港から行けますよ」{END}","Mage:<nl>
+ Spirits?
+<pause>
+Mage:<nl>
+ We theorize that Efreet, the Spirit
+ of Fire, lives in the <color_0002>Cave of Searing
+ Sand<color_0000> on the continent of Freyland.
+<pause>
+Mage:<nl>
+ You can reach Freyland from the port
+ southeast of here.{END}"
+"ルーングロム
+「ユグドラシル？」
+<pause>
+ルーングロム
+「何だい、それは？」
+<pause>
+ルーングロム
+「・・・・・・」
+<pause>
+ルーングロム
+「ほう、そんな森があるのか」{END}","Lundgrom:<nl>
+ Yggdrasill?
+<pause>
+Lundgrom:<nl>
+ I've never heard of it.
+ Can you fill me in?
+<pause>
+<color_0002>(You tell him about it.)<color_0000>
+<pause>
+Lundgrom:<nl>
+ Really? There is truly a forest out
+ there with something like that?
+ Fascinating...{END}"
+"ルーングロム
+「どうだい？」
+<pause>
+ルーングロム
+「呪文探索は進んでいるかい？」
+<pause>
+ルーングロム
+「精霊の情報か・・・」
+<pause>
+ルーングロム
+「う〜ん、これはあまり信用性が
+　ないんだが・・・」
+<pause>
+ルーングロム
+「モーリア坑道には<var_D300>
+　の精霊がいるというんだ」
+<pause>
+<Klarth>
+「<var_D300>！？」
+<pause>
+<Klarth>
+「あの四大精霊を統治していると
+　いう？」
+<pause>
+ルーングロム
+「ああ・・・」
+<pause>
+ルーングロム
+「だが別に根拠となる古文書があ
+　るわけじゃない」
+<pause>
+ルーングロム
+「あくまで風の噂だからな」
+<pause>
+ルーングロム
+「他の精霊の情報なら、ここに
+　いる魔術師達に聞いてみると
+　いい」{END}","Lundgrom:<nl>
+ Greetings.
+<pause>
+Lundgrom:<nl>
+ How's your search for spells going?
+<pause>
+<Klarth>:<nl>
+ Actually, we're targeting spirits at
+ the moment.
+<pause>
+Lundgrom:<nl>
+ Really? Hmm...<nl>
+ Well, I can't say how
+ credible this is, but...
+<pause>
+Lundgrom:<nl>
+ For the past week, there has been
+ much chatter around the lab
+ speculating the existence of a spirit
+ called Maxwell in the Moria Mine.
+<pause>
+<Klarth>:<nl>
+ Maxwell!?
+<pause>
+<Klarth>:<nl>
+ The ruler of the Four Great Spirits?
+<pause>
+Lundgrom:<nl>
+ Why yes...
+<pause>
+Lundgrom:<nl>
+ I'm afraid there's no documented
+ evidence of it, though.
+<pause>
+Lundgrom:<nl>
+ Just speculation that's been
+ blowing around the lab lately.
+<pause>
+Lundgrom:<nl>
+ If you want more information
+ about other spirits, you can
+ ask the mages here.{END}"
+"ルーングロム
+「モーリア坑道の入坑許可証はも
+　うもらったのかい？」
+<pause>
+ルーングロム
+「何だ、まだなのか」
+<pause>
+ルーングロム
+「<color_0002>冒険者ギルド<color_0000>は町の西側、薬屋
+　の地下にあるよ」{END}","Lundgrom:<nl>
+ Have you picked up your permit to
+ the Moria Mine yet?
+<pause>
+Lundgrom:<nl>
+ ...No?
+<pause>
+Lundgrom:<nl>
+ It's waiting for you at the
+ <color_0002>Adventurer's Guild<color_0000>, located on the
+ west side of town, in the lower
+ level of the Houttuynia pharmacy.{END}"
+"<audio_1585>ルーングロム
+「無事、戻ってきたんだな」
+<pause>
+<audio_1586>ルーングロム
+「その顔を見ると何か成果があっ
+　たらしいな」
+<pause>
+<audio_1587><Cless>
+「ええ、モーリア坑道の最下層ま
+　で行ってきました」
+<pause>
+<audio_1588>ルーングロム
+「ほう、それはすごい！」
+<pause>
+<audio_1589>ルーングロム
+「最下層といえば、かなりの難所
+　だからな」
+<pause>
+<audio_158A><Klarth>
+「そこで精霊と契約するための指
+　輪を見つけたのですが・・・」
+<pause>
+<audio_158B>ルーングロム
+「そうか、ついに<var_D400>と契約でき
+　るな」
+<pause>
+<audio_158C><Klarth>
+「・・・・・・」
+<pause>
+<audio_158D>ルーングロム
+「うかない顔をしているようだが
+　何か問題でも？」
+<pause>
+<audio_158E><Klarth>
+「ここでは何ですから、外でお話
+　ししましょう」{END}","<audio_1585>Lundgrom:<nl>
+ I see you have returned unharmed.
+<pause>
+<audio_1586>Lundgrom:<nl>
+ You also seem to be in high spirits.
+ I take it your search of the mine
+ was successful?
+<pause>
+<audio_1587><Cless>:<nl>
+ Yeah.
+ We managed to slog our way to
+ the bottom level.
+<pause>
+<audio_1588>Lundgrom:<nl>
+ Ah, I'm glad to hear it!
+<pause>
+<audio_1589>Lundgrom:<nl>
+ From all the anecdotes I've listened
+ to, it sounds like it must have been
+ a pretty rough expedition.
+<pause>
+<audio_158A><Klarth>:<nl>
+ Amongst the treasures we found,
+ there were two pact rings, but,
+ er...
+<pause>
+<audio_158B>Lundgrom:<nl>
+ So you found the one necessary to
+ secure a pact with Luna, at last?
+<pause>
+<audio_158C><Klarth>:<nl>
+ ......
+<pause>
+<audio_158D>Lundgrom:<nl>
+ ...I'm assuming things didn't go as
+ well as I was led to believe.
+<pause>
+<audio_158E><Klarth>:<nl>
+ Can we take it outside?
+ I'd rather no one overhear us.{END}"
+"ルーングロム
+「エドワードによろしく言ってお
+　いてくれ」{END}","Lundgrom:<nl>
+ Give my regards to Ed.{END}"
+"<audio_15A9><Klarth>
+「ルーングロム殿、お時間よろし
+　いですか？」
+<pause>
+<audio_15AA>ルーングロム
+「ああ、構わないが・・・」
+<pause>
+<audio_15AB>ルーングロム
+「もうエドワードには会ったのか
+　い？」
+<pause>
+<audio_15AC><Klarth>
+「そのことについて、お話があり
+　ます」
+<pause>
+<audio_15AD>ルーングロム
+「そうか、それじゃ話は外でうか
+　がうことにしよう」{END}","<audio_15A9><Klarth>:<nl>
+ Sir Lundgrom, do you have a
+ moment?
+<pause>
+<audio_15AA>Lundgrom:<nl>
+ Yes, no worries...
+<pause>
+<audio_15AB>Lundgrom:<nl>
+ But first, I was wondering: Have
+ you met Ed yet?
+<pause>
+<audio_15AC><Klarth>:<nl>
+ Actually, that's exactly what we
+ came to talk to you about.
+<pause>
+<audio_15AD>Lundgrom:<nl>
+ I see.
+ Let's take it outside, then.{END}"
+"ルーングロム
+「今、ユミルの森の入森許可証を
+　陛下に頼んでいるところだよ」{END}","Lundgrom:<nl>
+ I'm just about to ask His Majesty
+ to get the ball rolling on the
+ permit. Come back tomorrow.{END}"
+"<audio_15B3>ルーングロム
+「待たせたね」
+<pause>
+<audio_15B4>ルーングロム
+「これを胸につけて行くといい」
+<pause>
+<audio_15B5>ルーングロム
+「それと、断っておくが、ハーフ
+　エルフはユミルの森には絶対に
+　入れないからな」<wait>{END}","<audio_15B3>Lundgrom:<nl>
+ Sorry it couldn't be done sooner,
+ but here it is.
+<pause>
+<audio_15B4>Lundgrom:<nl>
+ Just pin it to your chest and the
+ guards'll let you through.
+<pause>
+<audio_15B5>Lundgrom:<nl>
+ I must warn you. Even with this
+ crest, the elves of Ymir Forest will
+ absolutely not allow a half-elf into
+ their territory.<wait>{END}"
+<color_0002>アルヴァニスタ王家の<item_3900>を手に入れました。<color_0000><wait>{END},"<color_0002>Acquired the Royal Crest of
+Alvanista.<color_0000><wait>{END}"
+"ルーングロム
+「ユミルの森はここから<color_0002>東の橋を
+　渡り、南西に向かった所<color_0000>にある
+　よ」{END}","Lundgrom:<nl>
+ To reach Ymir Forest, go <color_0002>across the
+ eastern bridge and then head
+ southwest<color_0000>.{END}"
+"ルーングロム
+「ついに契約の指輪を手に入れた
+　か」
+<pause>
+ルーングロム
+「あとは呪文探索だな・・・」
+<pause>
+ルーングロム
+「陛下も申されるように、ある程
+　度呪文の探索が進んだら戦に手
+　を貸して欲しい」
+<pause>
+ルーングロム
+「すでに我々の魔術部隊もミッド
+　ガルズに向かっているんだ」{END}","Lundgrom:<nl>
+ Now that you've obtained the pact
+ rings...
+<pause>
+Lundgrom:<nl>
+ ...you just need to find more spells.
+<pause>
+Lundgrom:<nl>
+ As His Majesty also said, we'll do all
+ we can to help you with that while
+ providing assistance to the war
+ effort.
+<pause>
+Lundgrom:<nl>
+ We're making progress.
+ A mage unit has been already been
+ deployed to Midgard.{END}"
+"ルーングロム
+「君達、こんな所にいて大丈夫な
+　のかい？」
+<pause>
+ルーングロム
+「まだ戦争は終わってはいないん
+　だぞ」{END}","Lundgrom:<nl>
+ Should you be here at a time like
+ this?
+<pause>
+Lundgrom:<nl>
+ The war hasn't concluded yet, and
+ Dhaos is still at large.{END}"
+"魔術師
+「あっと、そこの女の子は魔術師
+　なのね」
+<pause>
+魔術師
+「呪文書売ってあげましょうか？」
+<pause>
+<color_0002><speed_0000>１。<var_CC00>
+２。<var_BC00>
+３。サンダーソード
+４。サンダービーム<color_0000><speed_FFFF>{END}","Mage:<nl>
+ That pink-haired girl is a mage,
+ huh?
+<pause>
+Mage:<nl>
+ In that case, would you like to buy
+ her a spell book?
+<pause>
+<color_0002><speed_0000>1. <var_CC00><nl>
+2. <var_BC00><nl>
+3. Thunder Sword<nl>
+4. Thunder Beam<color_0000><speed_FFFF>{END}"
+"魔術師
+「４０００ガルドになるけど、い
+　い？」{END}","Mage:<nl>
+ That'll be 4000 gald.{END}"
+<color_0002><Arche>は<var_CC00>を覚えました。<color_0000>{END},<color_0002><Arche> learned <var_CC00>.<color_0000>{END}
+"魔術師
+「１２０００ガルドになるけど、
+　いい？」{END}","Mage:<nl>
+ Does 12000 gald sound okay?{END}"
+<color_0002><Arche>は<var_BC00>を覚えました。<color_0000>{END},<color_0002><Arche> learned <var_BC00>.<color_0000>{END}
+"魔術師
+「あっ、それは無し！！」
+<pause>
+魔術師
+「もう、売れちゃったのよね」
+<pause>
+魔術師
+「エプロンドレスを着た、おさげ
+　の女の子が買ってったわよ」
+<pause>
+魔術師
+「たしか、リリなんとかって言う
+　名前だと思ったけど・・・」{END}","Mage:<nl>
+ Oh no!!!
+ I can't find it!!!
+<pause>
+Mage:<nl>
+ Ah! That's right.
+ Apologies for the outburst.
+ I remember selling that one a
+ while ago.
+<pause>
+Mage:<nl>
+ Yes, I remember her appearance
+ quite vividly. She was a cute young
+ girl with braided, blonde hair and a
+ pink apron dress.
+<pause>
+Mage:<nl>
+ She introduced herself, but I don't
+ remember her name so clearly.
+ It sounded something like...Lily?{END}"
+"魔術師
+「あっ、それは無し！！」
+<pause>
+魔術師
+「間違いだから」
+<pause>
+魔術師
+「役に立つから買えって
+　言われた？」
+<pause>
+魔術師
+「誰に？」{END}","Mage:<nl>
+ Oh, no!!!
+ I can't find it!!!
+<pause>
+Mage:<nl>
+ Ah, that's right.
+ My mistake.
+<pause>
+Mage:<nl>
+ A middle-aged-looking man
+ wearing a...oh, what was it? It
+ looked like a yellow raincoat or
+ something.
+<pause>
+Mage:<nl>
+ Well, anyway, a human matching
+ that description was the one who
+ took it. He didn't tell me his name
+ or where he was from. Sorry.{END}"
+"魔術師
+「あ、そう」{END}","Mage:<nl>
+ Oh, I see.{END}"
+"魔術師
+「お金が足りないよ」{END}","Mage:<nl>
+ This isn't enough cash.{END}"
+"魔術師
+「この魔術はもう覚えてるじゃな
+　いの」{END}","Mage:<nl>
+ Oh, no!!!
+ I can't find it!!!
+<pause>
+Mage:<nl>
+ Wait--didn't you buy that one
+ from me?{END}"
+"魔術師
+「呪文書、誰か買ってくれないか
+　しら・・・」{END}","Mage:<nl>
+ I'm sure having a hard time selling
+ these spell books...{END}"
+"門番
+「異常無し！」{END}","Gatekeeper:<nl>
+ All is well!{END}"
+"門番
+「異常無し」{END}","Gatekeeper:<nl>
+ All is well.{END}"
+"魔術師
+「三種の武具？」
+<pause>
+魔術師
+「トールの文献によると、炎の剣
+　と氷の剣、それと契約の指輪ら
+　しいね」{END}","Mage:<nl>
+ According to a file found in Thor,
+ the Tria consists of three
+ armaments: the Blade of Flame, the
+ Blade of Frost, and a pact ring.{END}"
+"魔術師
+「超古代の大国であるフェンリル
+　は、現在の<color_0002>フリーズキールの町<color_0000>
+　にあったという話よ」
+<pause>
+魔術師
+「そこに行けば三種の武具の話が
+　聞けるんじゃないかなぁ」
+<pause>
+魔術師
+「フリーズキールの町は、このア
+　ルヴァニスタの真北にある大陸
+　にあるんだけど・・・」
+<pause>
+魔術師
+「海を越えないとね・・・」{END}","Mage:<nl>
+ I heard that Fenrir, one of the
+ ancient superpowers, used to exist
+ where the town of <color_0002>Freezekiel<color_0000>
+ stands today.
+<pause>
+Mage:<nl>
+ It's one of the last places around
+ connected to the Age of Antiquity.
+ Definitely a good place to start if
+ you're looking for the Tria.
+<pause>
+Mage:<nl>
+ Do you know the icy continent due north of here?
+ That's where it is, but...
+<pause>
+Mage:<nl>
+ ...don't complain to me about the
+ long voyage...or the cold.{END}"
+"魔術師
+「超古代の大国であるオーディー
+　ンは、<color_0002>フレイランドの火山地帯
+<color_0000>　にあったらしいよ」
+<pause>
+魔術師
+「文献ではそこは当時、緑豊かな
+　大地だったらしいね」{END}","Mage:<nl>
+ It seems that Odin, one of the
+ ancient superpowers, existed in
+ <color_0002>Freyland's volcanic area<color_0000>.
+<pause>
+Mage:<nl>
+ Documents suggest there was
+ abundant vegetation in that area
+ back then.{END}"
+"魔術師
+「<color_0002>フレイランドの火山地帯<color_0000>には超
+　古代の建造物が、今でもそびえ
+　立っているらしいの」{END}","Mage:<nl>
+ A structure built during antiquity
+ still seems to dominate <color_0002>Freyland's
+ volcanic area<color_0000>.{END}"
+"エルフ
+「もうちょっと開発環境を良くし
+　て欲しいよなぁ」{END}","Elf:<nl>
+ Would it kill the King to appropriate
+ some money for the renovation of
+ this lab? The research environment
+ here is stifling.{END}"
+"魔術師
+「最近、忍者の魔物が現れてきた
+　よ」
+<pause>
+魔術師
+「ダオスに操られているのか、作
+　り出されたのか・・・」{END}","Mage:<nl>
+ Recently, there have been many
+ sightings of malicious ninja being
+ reported.
+<pause>
+Mage:<nl>
+ Could Dhaos be controlling an army of them?
+ Or perhaps...creating one?{END}"
+"エルフ
+「トールの文献では三種の武具の
+　融合に<var_D800>を使うと書いて
+　あったよ」
+<pause>
+エルフ
+「でも<var_D800>って伝説上の精霊
+　だろ？」
+<pause>
+エルフ
+「いったいどういうことだろう？」
+<pause>
+エルフ
+「でも三種の武具の内の一つが、
+　精霊契約の指輪ダイヤモンドら
+　しいから・・・」
+<pause>
+エルフ
+「何らかの関係があるのは間違い
+　ないようだよ」{END}","Elf:<nl>
+ A relic from Thor states that the
+ fusion of the Tria requires Origin's
+ power.
+<pause>
+Elf:<nl>
+ What could this mean?
+<pause>
+Elf:<nl>
+ I thought Origin was just a
+ mythical spirit...
+<pause>
+Elf:<nl>
+ Hmmm... Yet it is also true that one
+ of the components of the Tria is
+ the pact ring of diamond...
+<pause>
+Elf:<nl>
+ This can't be a coincidence...{END}"
+"王女
+「父上から聞いております」
+<pause>
+王女
+「たいへんでしょうが、がんばっ
+　て下さいね」{END}","Princess:<nl>
+ Father told me all about you.
+<pause>
+Princess:<nl>
+ I wish you the best on your
+ difficult journey.{END}"
+"侍女
+「王女様はいつ見てもおきれいで
+　いらっしゃいますわ」{END}","Attendant:<nl>
+ Whenever I lay my eyes on her,
+ the princess' stunning beauty never
+ fails to make an impression.{END}"
+"<audio_0B35><Cless>
+「ここは？」
+<pause>
+<audio_0B36><Klarth>
+「暗くて何も見えないな・・・」
+<pause>
+<audio_0B37>？？？
+「何の用だい？」{END}","<audio_0B35><Cless>:<nl>
+ Where are we?
+<pause>
+<audio_0B36><Klarth>:<nl>
+ If my night vision was any better
+ than yours, I'd tell you...
+<pause>
+<audio_0B37>???:<nl>
+ You there!
+ State your business!{END}"
+"<audio_0B38>？？？
+「この国の王子である私の部屋に
+　忍び込むとは、いい度胸してい
+　るな」
+<pause>
+<audio_0B39><Klarth>
+「あんたがレアード王子か？」<wait>{END}","<audio_0B38>???:<nl>
+ You've quite some nerve, sneaking
+ into the room of the Crown Prince.
+<pause>
+<audio_0B39><Klarth>:<nl>
+ For the time being, I think Puppet
+ Prince is a more suitable title, eh
+ Laird?<wait>{END}"
+"<audio_0B3A>レアード
+「侵入者だ！！！」{END}","<audio_0B3A>Laird:<nl>
+ GUARDS!!! GUARDS!!{END}"
+"<audio_0B3B><Klarth>
+「くそっ！」
+<pause>
+<audio_0B3C><Cless>
+「人が来るよ！」{END}","<audio_0B3B><Klarth>:<nl>
+ Ah, crap!
+<pause>
+<audio_0B3C><Cless>:<nl>
+ We're in trouble!{END}"
+"<audio_0B3D>レアード
+「はっはっはっ！」
+<pause>
+<audio_0B3E>レアード
+「ほらほら、兵が来るぞ」
+<pause>
+<audio_0B3F>レアード
+「どうするんだ？」<wait>{END}","<audio_0B3D>Laird:<nl>
+ Hah hah hah!
+<pause>
+<audio_0B3E>Laird:<nl>
+ The soldiers are coming!
+ The soldiers are coming!
+<pause>
+<audio_0B3F>Laird:<nl>
+ What are you going to do now?
+ You've got nowhere to run, and
+ nowhere to hide!<wait>{END}"
+"<audio_0B40><Arche>
+「どうすんの？<panic>」
+<pause>
+<audio_0B41><Arche>
+「やばいじゃん！<panic>」
+<pause>
+<audio_0B42><Klarth>
+「近くに操っている奴がいるはず
+　なんだが<speed_0010>・・・」<wait>{END}","<audio_0B40><Arche>:<nl>
+ What ARE we gonna do now? <panic>
+<pause>
+<audio_0B41><Arche>:<nl>
+ We're totally screwed now,
+ huh!? <panic>
+<pause>
+<audio_0B42><Klarth>:<nl>
+ Whatever's controlling him should
+ be nearby, but, uh<speed_0010>...<wait>{END}"
+"<audio_0B43><Klarth>
+「ん！？」
+<pause>
+<audio_0B44><Klarth>
+「何だ、あのインコは？」{END}","<audio_0B43><Klarth>:<nl>
+ Mmm!?
+<pause>
+<audio_0B44><Klarth>:<nl>
+ Is it just me, or does that
+ parakeet look awfully out of
+ place...{END}"
+"<audio_0B45><Klarth>
+「それだっ！」{END}","<audio_0B45><Klarth>:<nl>
+ Aha! Gotcha!{END}"
+"<audio_0B46><Arche>
+「げぇ〜っ！？」
+<pause>
+<audio_0B47><Arche>
+「インコがあんなのに！」
+<pause>
+<audio_0B48><Arche>
+「もう、かわいいインコなんて信
+　じらんない！」
+<pause>
+<audio_0B49>ジャミル
+「私の名はジャミル、以後お見知
+　りおきを・・・」
+<pause>
+<audio_0B4A>ジャミル
+「と言っても、あなた達はすぐこ
+　の世の者ではなくなるけどね」
+<pause>
+<audio_0B4B>ジャミル
+「このままあなた達が捕らえられ
+　るのを見物しようと思ったんだ
+　けど・・・」
+<pause>
+<audio_0B4C>ジャミル
+「気が変わったわ」
+<pause>
+<audio_0B4D>ジャミル
+「覚悟するがいい！！」{END}","<audio_0B46><Arche>:<nl>
+ Whaaaa!?
+<pause>
+<audio_0B47><Arche>:<nl>
+ The parakeet turned into THAT!?
+<pause>
+<audio_0B48><Arche>:<nl>
+ I can't trust cute little birdies
+ anymore!
+<pause>
+<audio_0B49>Jahmir:<nl>
+ My name is Jahmir.
+ I am very pleased to make your
+ acquaintance.
+<pause>
+<audio_0B4A>Jahmir:<nl>
+ I would dearly love to get to you
+ know you better, but alas, some
+ things just aren't meant to be.
+<pause>
+<audio_0B4B>Jahmir:<nl>
+ A shame... Had you been captured
+ as planned, you could have enjoyed
+ a long, exciting life as my
+ playthings...
+<pause>
+<audio_0B4C>Jahmir:<nl>
+ I'm so sorry, but it ends here.
+<pause>
+<audio_0B4D>Jahmir:<nl>
+ Time to die, my pretties!{END}"
+"<audio_0B4E><Cless>
+「ふぅ・・・」
+<pause>
+<audio_0B4F><Cless>
+「やったか？」
+<pause>
+<audio_0B50><Mint>
+「王子様は？」{END}","<audio_0B4E><Cless>:<nl>
+ Whew...
+<pause>
+<audio_0B4F><Cless>:<nl>
+ We got her, right?
+<pause>
+<audio_0B50><Mint>:<nl>
+ How is the prince?{END}"
+"<audio_0B51>レアード
+「私はいったい<speed_0010>・・・」<wait>{END}","<audio_0B51>Laird:<nl>
+ What have I been<speed_0010>--<wait>{END}"
+"<audio_0B52>レアード
+「な、何だお前達は！？」
+<pause>
+<audio_0B53><Mint>
+「私達は・・・」<wait>{END}","<audio_0B52>Laird:<nl>
+ Wh-Who are you!?
+<pause>
+<audio_0B53><Mint>:<nl>
+ We--<wait>{END}"
+"<audio_0B54>レアード
+「侵入者だ！！！」
+<pause>
+<audio_0B55><Mint>
+「えっ？」{END}","<audio_0B54>Laird:<nl>
+ GUARDS!!! GUARDS!!!
+<pause>
+<audio_0B55><Mint>:<nl>
+ Huh?{END}"
+"<audio_0B56>衛兵
+「殿下、ご無事ですか！」
+<pause>
+<audio_0B57>レアード
+「私は大丈夫だ」
+<pause>
+<audio_0B58>レアード
+「それより、その者達を引っ捕ら
+　えろ！！」
+<pause>
+<audio_0B59>衛兵
+「はっ！！」{END}","<audio_0B56>Guard:<nl>
+ Your Majesty, are you safe!?
+<pause>
+<audio_0B57>Laird:<nl>
+ I'm fine.
+<pause>
+<audio_0B58>Laird:<nl>
+ But that's not important.
+ Guards! Arrest these intruders!
+<pause>
+<audio_0B59>Guard:<nl>
+ Yes, sir!!{END}"
+"<audio_0B5A><Klarth>
+「しょうがないな」
+<pause>
+<audio_0B5B><Klarth>
+「事情を話しても聞いてもらえそ
+　うにないから、いったんおとな
+　しく捕まろう」<wait>{END}","<audio_0B5A><Klarth>:<nl>
+ Don't bother pleading with them.
+<pause>
+<audio_0B5B><Klarth>:<nl>
+ They won't give a damn about
+ what “criminals” like us have to
+ say. So let's just behave like good
+ little boys and girls and go along.<wait>{END}"
+"<audio_0B5C><Arche>
+「えっ、やだよ！」
+<pause>
+<audio_0B5D><Arche>
+「臭い飯食べちゃうわけ？」
+<pause>
+<audio_0B5E><Klarth>
+「たぶん事情を知っているのは国
+　王やその側近の重臣連中だけだ
+　ろう」<wait>{END}","<audio_0B5C><Arche>:<nl>
+ Aw man, this SUCKS!
+<pause>
+<audio_0B5D><Arche>:<nl>
+ Does this mean we gotta eat icky
+ food?
+<pause>
+<audio_0B5E><Klarth>:<nl>
+ I expect the King and his chief
+ statesmen to carefully analyze the
+ situation and figure out precisely
+ what's been going on.<wait>{END}"
+"<audio_0B5F><Mint>
+「王子が元に戻ったことさえわ
+　かれば、釈放されるということ
+　ですね？」
+<pause>
+<audio_0B60><Klarth>
+「そうだ」<wait>{END}","<audio_0B5F><Mint>:<nl>
+ You're saying we'll be released
+ when they realize the prince has
+ returned to his true self?
+<pause>
+<audio_0B60><Klarth>:<nl>
+ Yeah.<wait>{END}"
+"<audio_0B61><Arche>
+「ブゥ〜・・・」
+<pause>
+<audio_0B62>衛兵
+「何ごちゃごちゃ言ってる！」
+<pause>
+<audio_0B63>衛兵
+「おとなしくしろ！」
+<pause>
+<audio_0B64><Arche>
+「ハイハイ・・・」{END}","<audio_0B61><Arche>:<nl>
+ Booooooo...
+<pause>
+<audio_0B62>Guard:<nl>
+ What are you complaining about!?
+<pause>
+<audio_0B63>Guard:<nl>
+ Shut up!
+<pause>
+<audio_0B64><Arche>:<nl>
+ Fine, fine...{END}"
+"<audio_0B65><Arche>
+「ねぇ、あたし達、これからどう
+　なっちゃうの？」
+<pause>
+<audio_0B66><Klarth>
+「心配ないさ」
+<pause>
+<audio_0B67><Klarth>
+「王子が正気に戻ったとわかれば、
+　きっと出してくれる」<wait>{END}","<audio_0B65><Arche>:<nl>
+ So, like...<nl>
+ Whadda we do now?
+<pause>
+<audio_0B66><Klarth>:<nl>
+ Just calm down.
+<pause>
+<audio_0B67><Klarth>:<nl>
+ They'll probably come knocking any
+ second. I don't think it's going to
+ take them long to realize the
+ prince's change of demeanor.<wait>{END}"
+"<audio_0B68><Arche>
+「あー、もぅ！！」
+<pause>
+<audio_0B69><Arche>
+「こんな所にいたら、お肌が荒れ
+　ちゃうよ・・・」{END}","<audio_0B68><Arche>:<nl>
+ Grr!!!
+ They better hurry up, then!!!
+<pause>
+<audio_0B69><Arche>:<nl>
+ If they make me stay here any
+ longer, my skin's gonna get all dry,
+ and pasty, and gross...{END}"
+"<audio_0B6A>？？？
+「この者達を謁見の間にお連れし
+　なさい」
+<pause>
+<audio_0B6B>？？？
+「それから、丁重に扱うように」<wait>{END}","<audio_0B6A>???:<nl>
+ I want you to escort these people
+ to the throne room.
+<pause>
+<audio_0B6B>???:<nl>
+ Treat them with courtesy.<wait>{END}"
+"<audio_0B6C>衛兵
+「え、謁見の間にですか？」
+<pause>
+<audio_0B6D>衛兵
+「は、はい！」<wait>{END}","<audio_0B6C>Guard:<nl>
+ To the throne room?
+<pause>
+<audio_0B6D>Guard:<nl>
+ A-As you wish, sir!<wait>{END}"
+"<audio_0B6E>？？？
+「私はアルヴァニスタの宮廷魔術
+　師を務めるルーングロムという
+　者だ」
+<pause>
+<audio_0B6F>ルーングロム
+「この度のそなたらの行動につい
+　て、国王陛下より直々にご下問
+　なさるとのこと」
+<pause>
+<audio_0B70>ルーングロム
+「謁見の間までお通しいたそう」{END}","<audio_0B6E>???:<nl>
+ My name is Lundgrom.
+ I serve this kingdom
+ as Court Mage.
+<pause>
+<audio_0B6F>Lundgrom:<nl>
+ His Majesty invites you to the
+ throne room.
+<pause>
+<audio_0B70>Lundgrom:<nl>
+ He wishes to personally question
+ you regarding your actions on this
+ occasion.{END}"
+"<audio_0B71><Arche>
+「思ったとおりじゃん！」{END}","<audio_0B71><Arche>:<nl>
+ Yay! <Klarth> was right!{END}"
+"<audio_0C06>ルーングロム
+「なるほど、話はだいたいわかっ
+　たよ」
+<pause>
+<audio_0C07>ルーングロム
+「その壊れた指輪を直せないか、
+　ということだね・・・」
+<pause>
+<audio_0C08><Mint>
+「何とかならないでしょうか？」{END}","<audio_0C06>Lundgrom:<nl>
+ I see.
+ I think I understand the gist of
+ your situation.
+<pause>
+<audio_0C07>Lundgrom:<nl>
+ A way to get those broken rings
+ repaired... Hmm...
+<pause>
+<audio_0C08><Mint>:<nl>
+ Do you have any ideas?{END}"
+"<audio_0C09>ルーングロム
+「私の親友で、我が国の良き助言
+　者でもあるエドワードという魔
+　術師がいるんだが」
+<pause>
+<audio_0C0A>ルーングロム
+「あやつは以前指輪の研究をして
+　いたことがあるんだ」
+<pause>
+<audio_0C0B><Klarth>
+「その方は今どこに？」
+<pause>
+<audio_0C0C>ルーングロム
+「<color_0002>アルヴァニスタの南西の橋を渡
+　り、西に行った所<color_0000>に館を構えて
+　住んでいるよ」
+<pause>
+<audio_0C0D>ルーングロム
+「どれ、手紙を書いてあげよう」
+<pause>
+<audio_0C0E><Klarth>
+「ありがとうございます」<wait>{END}","<audio_0C09>Lundgrom:<nl>
+ I have a good friend named
+ Edward. He is a mage, as well as
+ an invaluable advisor to our
+ country.
+<pause>
+<audio_0C0A>Lundgrom:<nl>
+ He's also done extensive research
+ on rings.
+<pause>
+<audio_0C0B><Klarth>:<nl>
+ Where might we find him?
+<pause>
+<audio_0C0C>Lundgrom:<nl>
+ Ed lives in a mansion in the
+ wilderness <color_0002>far west of here, past
+ the southwestern bridge<color_0000>.
+<pause>
+<audio_0C0D>Lundgrom:<nl>
+ Allow me to compose a letter of
+ introduction for you.
+<pause>
+<audio_0C0E><Klarth>:<nl>
+ Thank you very much.<wait>{END}"
+"<color_0002>エドワードへの紹介状を手に入れました。<color_0000>
+<pause>
+<audio_0C0F>ルーングロム
+「ではこれで失礼するよ」
+<pause>
+<audio_0C10>ルーングロム
+「がんばってくれよ」{END}","<color_0002>Acquired a Letter of Introduction to Edward.<color_0000>
+<pause>
+<audio_0C0F>Lundgrom:<nl>
+ Then, if you'll please excuse me.
+ I must attend to some other
+ matters.
+<pause>
+<audio_0C10>Lundgrom:<nl>
+ Keep at it.{END}"
+"<audio_0C11><Klarth>
+「よし、それじゃあそのエドワー
+　ドとかいう人の家に行ってみる
+　か」{END}","<audio_0C11><Klarth>:<nl>
+ Okay, then.
+ We don't have any other leads, so
+ let's get moving to this Edward
+ guy's house.{END}"
+"<audio_0C12><Klarth>
+「どうした、<Cless>？」
+<pause>
+<audio_0C13><Cless>
+「いや・・・」
+<pause>
+<audio_0C14><Cless>
+「ちょっと耳鳴りが・・・」{END}","<audio_0C12><Klarth>:<nl>
+ Something the matter, <Cless>?
+<pause>
+<audio_0C13><Cless>:<nl>
+ Well...
+<pause>
+<audio_0C14><Cless>:<nl>
+ I just heard some buzzing in my
+ ears...{END}"
+"
+　　　　　そこの剣士！{END}","
+　　　　　You, mortal!{END}"
+"
+　　　　分不相応なものを
+　　　持つものではないぞ！{END}","
+　　　　That which you possess is beyond
+ your ken!{END}"
+"<unk1><audio_0C17><Mint>
+<Cless>さん、大丈夫ですか！？」
+<pause>
+{END}","<unk1><audio_0C17><Mint>:<nl>
+ <Cless>, are you sure you're all
+ right!?
+<pause>
+{END}"
+"<audio_0C18><Cless>
+「・・・・・・」
+<pause>
+<audio_0C19><Cless>
+「あっ、ああ、大丈夫・・・」
+<pause>
+<audio_0C1A><Cless>
+「ただの空耳らしい」{END}","<audio_0C18><Cless>:<nl>
+ ......
+<pause>
+<audio_0C19><Cless>:<nl>
+ Uh, yeah.
+ No worries.
+<pause>
+<audio_0C1A><Cless>:<nl>
+ My ears suddenly buzzed some
+ more.{END}"
+"<audio_15AE>ルーングロム
+「エドワードの奴め・・・」
+<pause>
+<audio_15AF>ルーングロム
+「私に一言も言わずに、そんなこ
+　とを・・・」
+<pause>
+<audio_15B0><Klarth>
+「それで、ユミルの森へ入るため
+　の紹介状を頂きたいのですが」
+<pause>
+<audio_15B1>ルーングロム
+「う〜む、一日待ってくれないか」
+<pause>
+<audio_15B2>ルーングロム
+「色々と手続きが必要なんでね」{END}","<audio_15AE>Lundgrom:<nl>
+ I can't believe him...
+<pause>
+<audio_15AF>Lundgrom:<nl>
+ Without so much as a word even to
+ me, Ed goes off on some grand
+ quest...
+<pause>
+<audio_15B0><Klarth>:<nl>
+ Well, he suggested that we come to
+ you to get a permit allowing us
+ entry into the Ymir Forest.
+<pause>
+<audio_15B1>Lundgrom:<nl>
+ No problem.
+ However, the procedure is a bit
+ more complicated than it is for the
+ Moria Mine.
+<pause>
+<audio_15B2>Lundgrom:<nl>
+ It's going to take about a day to
+ get through all the formalities.
+ Drop by the lab tomorrow and I
+ should have it ready to go.{END}"
+"<audio_15B6><Arche>
+「ハーフエルフってあたしのこと
+　じゃん？」
+<pause>
+<audio_15B7><Klarth>
+「すまないな」
+<pause>
+<audio_15B8><Arche>
+「いいってこと、あたしは宿屋で
+　待ってるから」
+<pause>
+<audio_15B9><Cless>
+「急いで戻ってくるから、待って
+　いてくれよ」
+<pause>
+<color_0002><Arche>がパーティーから離脱します。
+<pause>
+装備を変更しますか？{END}","<audio_15B6><Arche>:<nl>
+ By half-elf, he means me, doesn't
+ he?
+<pause>
+<audio_15B7><Klarth>:<nl>
+ Hate to say it.
+<pause>
+<audio_15B8><Arche>:<nl>
+ No problemo.
+ I'll just hang out at the inn 'til you
+ guys get back, I guess.
+<pause>
+<audio_15B9><Cless>:<nl>
+ Hang in there.
+ We'll try to make this
+ as quick as possible!
+<pause>
+<color_0002><Arche> has left the party.
+<pause>
+Would you like to change
+her equipment?{END}"
+"<audio_0EE3>ルーングロム
+「待っていたよ」<wait>{END}","<audio_0EE3>Lundgrom:<nl>
+ I've been anticipating your return.<wait>{END}"
+"<audio_0EE4><Mint>
+「エドワードさんのことは・・・」
+<pause>
+<audio_0EE5><Mint>
+「すみません」{END}","<audio_0EE4><Mint>:<nl>
+ Please forgive us...
+<pause>
+<audio_0EE5><Mint>:<nl>
+ ...about Mr. Morrison...{END}"
+"<audio_0EE6>ルーングロム
+「君達が悪いわけじゃない」
+<pause>
+<audio_0EE7>ルーングロム
+「憎むべき敵は別の所にいるはず
+　だろう？」{END}","<audio_0EE6>Lundgrom:<nl>
+ Don't force the blame upon
+ yourselves.
+<pause>
+<audio_0EE7>Lundgrom:<nl>
+ I believe the enemy I should hate
+ lies elsewhere.{END}"
+"<audio_0EE8>ルーングロム
+「エドワードが逝く前に、手紙を
+　預かったんだ」{END}","<audio_0EE8>Lundgrom:<nl>
+ I received an envelope from Ed
+ just before the news broke. Here...{END}"
+"<audio_0EE9><Cless>
+「これは・・・」
+<pause>
+<audio_0EEA>ルーングロム
+「その中には鍵が入っていたよ」
+<pause>
+<audio_0EEB>ルーングロム
+「私に君達の力になって欲しいと
+　言う添えつけとともにね」<wait>{END}","<audio_0EE9><Cless>:<nl>
+ What's inside?
+<pause>
+<audio_0EEA>Lundgrom:<nl>
+ Besides a letter requesting that I
+ help you...
+<pause>
+<audio_0EEB>Lundgrom:<nl>
+ ...a key is also enclosed.<wait>{END}"
+"<audio_0EEC><Cless>
+「この鍵は何ですか？」
+<pause>
+<audio_0EED>ルーングロム
+「エドワードの家に行こう」
+<pause>
+<audio_0EEE>ルーングロム
+「話はそれからだ」{END}","<audio_0EEC><Cless>:<nl>
+ Oh, what's it for?
+<pause>
+<audio_0EED>Lundgrom:<nl>
+ I don't believe Ed would appreciate
+ it if we discussed that here.
+<pause>
+<audio_0EEE>Lundgrom:<nl>
+ Why don't we respect that and
+ take this to his house?{END}"

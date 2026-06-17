@@ -1,0 +1,918 @@
+Mother Computer Room{END}
+
+Common Room{END}
+
+Robocook:<nl>
+ HAVE YOU BEEN MAKING FRUIT
+ COCKTAILS?{END}
+
+Robocook:<nl>
+ I WAS PROGRAMMED IN THE WORLD
+ OF FABULOUS FLAVORS.
+<pause>
+Robocook:<nl>
+ I WISH FOR ALL THE PEOPLE OF THE
+ WORLD TO EXPERIENCE THIS TASTE.
+<pause>
+Robocook:<nl>
+ WOULD YOU LIKE TO DOWNLOAD MY
+ DISH?{END}
+
+Robocook:<nl>
+ NOW DOWNLOADING. PLEASE WAIT.<nl>
+ <speed_0010><color_0002>......................<color_0000><speed_FFFF><nl>
+ DOWNLOAD COMPLETE.<wait>{END}
+
+<color_0002>Learned the recipe for Fruit Cocktail.<color_0000>{END}
+
+Robocook:<nl>
+ DOES NOT COMPUTE... DOES NOT...{END}
+
+<Cless>:<nl>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C900>.<color_0000>{END}
+
+<Cless>:<nl>
+ But I don't have any use for it...<nl>
+<pause>
+<Cless>:<nl>
+ I'll put it back...{END}
+
+<Cless>:<nl>
+ It's rusted shut.
+ Too bad...{END}
+
+<Cless>:<nl>
+ This door looks functional...<nl>
+<pause>
+<Cless>:<nl>
+ The heck?
+ It won't budge an inch.{END}
+
+<audio_1623><Cless>:<nl>
+ So the door only opens if you slip a
+ card into this thing...<nl>
+<pause>
+<audio_1624><Cless>:<nl>
+ That's a weird system.
+<pause>
+<audio_1625><Arche>:<nl>
+ I kinda like it.{END}
+
+<audio_1626><Cless>:<nl>
+ What's this little gadget?
+<pause>
+<audio_1627><Cless>:<nl>
+ Lots of buttons, switches and other
+ little things...<nl>
+<pause>
+<audio_1628><Mint>:<nl>
+ I wonder what the little slit in the
+ middle is for.{END}
+
+<audio_1629><Cless>:<nl>
+ Hmm... It doesn't look like
+ we can go anywhere else.
+ What the heck should we do?
+<pause>
+<audio_162A><Klarth>:<nl>
+ I just got an idea.
+<pause>
+<audio_162B><Klarth>:<nl>
+ Let me see that card we just
+ found.{END}
+
+<audio_162C>“ID card authenticated.”
+<pause>
+<audio_162D>“Security system disengaged.”{END}
+
+<audio_162E><Cless>:<nl>
+ Wh-Who said that!?
+<pause>
+<audio_162F><Mint>:<nl>
+ There's someone behind the door?
+<pause>
+<audio_1630><Arche>:<nl>
+ Uhh, guys?
+ That didn't exactly sound human.{END}
+
+<Cless>:<nl>
+ Let's try the <item_4300>...{END}
+
+<Cless>:<nl>
+ D'oh, it won't fit.{END}
+
+<Cless>:<nl>
+ It's locked.{END}
+
+<Cless>:<nl>
+ Woo!{END}
+
+<audio_161E><Cless>:<nl>
+ Hey, what's this?
+<pause>
+<audio_161F><Mint>:<nl>
+ It looks like...a card?
+<pause>
+<audio_1620><Arche>:<nl>
+ What's with the weird pattern on
+ the back, though...?
+<pause>
+<audio_1621><Arche>:<nl>
+ Did the ancients play card games,
+ too?
+<pause>
+<audio_1622><Klarth>:<nl>
+ Probably won't be of any use, but
+ hey: it might make a nice souvenir.
+<pause>
+<color_0002>Take the card?<color_0000>{END}
+
+<color_0002>Acquired a <item_3D00>.<color_0000>{END}
+
+<audio_1636><Cless>:<nl>
+ The heck is this?
+<pause>
+<audio_1637><Klarth>:<nl>
+ Some sort of special equipment, I'd
+ guess.{END}
+
+<audio_1638><Cless>:<nl>
+ Wh-What!?{END}
+
+<audio_1639><Klarth>:<nl>
+ What is this!?<wait>{END}
+
+<audio_164B>OZ:<nl>
+ “System has entered Automated
+ Management Mode.”{END}
+
+<color_0002>Select Object<nl>
+1. Time Warp<nl>
+2. Medical Treatment<nl>
+3. Data Concerning Spirit Aska<color_0000><speed_FFFF><color_0000>{END}
+
+<color_0002>Select Object<nl>
+1. Time Warp<nl>
+2. Medical Treatment<speed_FFFF><color_0000>{END}
+
+OZ:<nl>
+ “City Function System down.”
+<pause>
+OZ:<nl>
+ “All devices currently executing
+ energy conservation program.”
+<pause>
+OZ:<nl>
+ “Time Warp Device cannot be
+ activated.”<wait>{END}
+
+<audio_164C><Cless>:<nl>
+ The deepest level of the
+ mausoleum, May 21st, 102 years
+ from now!{END}
+
+<audio_163A>OZ:<nl>
+ “Insufficient Energy...”
+<pause>
+<audio_163B>OZ:<nl>
+ “City Functions must be restored.”
+<pause>
+<audio_163C>OZ:<nl>
+ “However, Mayor of Thor must
+ authorize--”
+<pause>
+<audio_163D>OZ:<nl>
+ “...Death of Mayor confirmed.”
+<pause>
+<audio_163E><Cless>:<nl>
+ ......<nl>
+<pause>
+<audio_163F>OZ:<nl>
+ “Assessing situation.”
+<pause>
+<audio_1640>OZ:<nl>
+ “Decision.”
+<pause>
+<audio_1641>OZ:<nl>
+ “Your group is accepted as Acting
+ Mayor.”
+<pause>
+<audio_1642>OZ:<nl>
+ “You are authorized to restore City
+ Functions.”
+<pause>
+<audio_1643><Arche>:<nl>
+ The heck does that mean?
+ All this alien stuff is
+ making poor little <Arche>'s
+ brain hurt!
+<pause>
+<audio_1644><Klarth>:<nl>
+ I'm not completely sure, but it
+ seems we need to restore the
+ city's functions to enable time
+ traveling.
+<pause>
+<color_0002>Restore City Functions?<color_0000>{END}
+
+<audio_1059>OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+<audio_1645>OZ:<nl>
+ “Executing City Functions
+ Restoration program.”<wait>{END}
+
+<audio_1646>OZ:<nl>
+ “Alert to citizens of Thor, alert to
+ citizens of Thor...”<wait>{END}
+
+<audio_1647><Cless>:<nl>
+ S-Something really big's happening,
+ isn't it!?{END}
+
+OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+OZ:<nl>
+ “Activating Super Metabolic
+ Acceleration Ray.”{END}
+
+<Arche>:<nl>
+ Wh-Wha?
+<pause>
+<Cless>:<nl>
+ Our wounds are healing...<nl>
+<pause>
+<Mint>:<nl>
+ A-Amazing...<nl>
+<pause>
+<Klarth>:<nl>
+ Such fantastic technology!<wait>{END}
+
+OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+OZ:<nl>
+ “Commencing database retrieval.”
+<pause>
+OZ:<nl>
+ “......”
+<pause>
+OZ:<nl>
+ “Retrieval complete.”
+<pause>
+OZ:<nl>
+ “Data Concerning Spirit Aska”
+<pause>
+OZ:<nl>
+ “Confirmation Code WOC16527”
+<pause>
+OZ:<nl>
+ “Spirit World Life Form”
+<pause>
+OZ:<nl>
+ “Main source of energy is
+ ultraviolet rays contained in
+ sunlight.”
+<pause>
+OZ:<nl>
+ “Weak to a certain level of
+ electromagnetic waves.”
+<pause>
+OZ:<nl>
+ “August 23, 2543 Solar Calendar,
+ captured in airspace above Thor at
+ 12:56 P.M.”
+<pause>
+OZ:<nl>
+ “Studied in detail over two years.”
+<pause>
+OZ:<nl>
+ “Afterward, determination that
+ examination cannot continue due to
+ incompatibility between Spirit World
+ and Physical World spatial construction.”
+<pause>
+OZ:<nl>
+ “Afterward, stored in a cryogenic,
+ super-compressed chamber until
+ present time.”<wait>{END}
+
+<Klarth>:<nl>
+ So, Aska's been sealed by their
+ technology...<nl>
+<pause>
+<Klarth>:<nl>
+ OZ! I command you!
+ Release the spirit Aska!
+<pause>
+OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+OZ:<nl>
+ “Block #3 temporarily isolated,
+ storage chamber #240317
+ disengaged.”{END}
+
+<Klarth>:<nl>
+ So, you are the spirit Aska...<nl>
+<pause>
+Aska:<nl>
+ Are you the one who released me?
+<pause>
+<Klarth>:<nl>
+ That is correct.
+ I'm afraid that the world is
+ currently in some peril.
+<pause>
+<Klarth>:<nl>
+ Would you consider lending us your
+ power to overcome it?
+<pause>
+Aska:<nl>
+ I understand the gist of your
+ circumstances.
+<pause>
+Aska:<nl>
+ I shall aid you.
+<pause>
+Aska:<nl>
+ Now, if you please, bring forward
+ the Topaz Ring.
+<pause>
+Aska:<nl>
+ Now, perform the ancient rite of
+ pact.{END}
+
+<Klarth>:<nl>
+ Here and now, I offer my request
+ to the Spirit of Light.
+<pause>
+<Klarth>:<nl>
+ By covenant of the ring, may this
+ spirit obey me...<nl>
+<pause>
+<Klarth>:<nl>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon Aska.<color_0000>{END}
+
+<audio_104B>OZ:<nl>
+ “Main System activated.<nl>
+ BioROM: Check.”<wait>{END}
+
+<audio_104B>Intercom:<nl>
+ “Main System activated.<nl>
+ BioROM: Check.”<wait>{END}
+
+<audio_104D>OZ:<nl>
+ “Welcome to the Mother Computer
+ Room.”
+<pause>
+<audio_104E>OZ:<nl>
+ “I am Mother Computer System OZ.
+ I support all of Thor City's
+ functions.”
+<pause>
+<audio_104F>OZ:<nl>
+ “Select your intended operation.”<wait>{END}
+
+Intercom:<nl>
+ “Welcome to the Mother Computer
+ Room.”<wait>{END}
+
+Intercom:<nl>
+ “I am Mother Computer System OZ.
+ I support all of Thor City's
+ functions.”<wait>{END}
+
+OZ:<nl>
+ “Please select your intended
+ operation.”<wait>{END}
+
+<audio_1051>OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+<audio_1052>OZ:<nl>
+ “Time Warp Device Driver
+ activated.”
+<pause>
+<audio_1053>OZ:<nl>
+ “Anti-Gravity Energy: Check”
+<pause>
+<audio_1054>OZ:<nl>
+ “......”<wait>{END}
+
+<audio_1055>OZ:<nl>
+ “Level of energy necessary for
+ Time Warp confirmed...”
+<pause>
+<audio_1056>OZ:<nl>
+ “State the time and place of your
+ destination.”<wait>{END}
+
+<audio_1059>OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+<audio_105A>OZ:<nl>
+ “Pre-Time-Warp Coordinate Safety
+ Check: Clear.”
+<pause>
+<audio_105B>OZ:<nl>
+ “Commencing Main Process.”
+<pause>
+<audio_105C>OZ:<nl>
+ “All personnel, please move to the
+ indicated positions.”<wait>{END}
+
+<audio_105D><Cless>:<nl>
+ Let's go, you guys!!{END}
+
+OZ:<nl>
+ “Personnel verified.”<wait>{END}
+
+OZ:<nl>
+ “Isolating warp space.”<wait>{END}
+
+<audio_1060>OZ:<nl>
+ “......”<wait>{END}
+
+OZ:<nl>
+ “Spatial isolation complete.”<wait>{END}
+
+OZ:<nl>
+ “Cutting interface from present
+ time.”<wait>{END}
+
+OZ:<nl>
+ “Anti-gravity energy released...”<wait>{END}
+
+<audio_1064>OZ:<nl>
+ “...”<wait>{END}
+
+OZ:<nl>
+ “Wormhole generated, baby
+ universe verified.”<wait>{END}
+
+OZ:<nl>
+ “Time Warp Operation System: All
+ Green.”<wait>{END}
+
+OZ:<nl>
+ “Time Warp: Start.”<wait>{END}
+
+<audio_1068>OZ:<nl>
+ “Completion of process verified.”{END}
+
+<audio_1631>“Intruders detected.
+City Defense System activated.”
+<pause>
+<audio_1632>“Eliminate intruders immediately.”
+<pause>
+<audio_1633>“Security devices, commence
+attack.”{END}
+
+<audio_1634><Cless>:<nl>
+ Those thingamabobs dropped
+ something...{END}
+
+<audio_1635><Cless>:<nl>
+ Hey, it's a pact ring!<wait>{END}
+
+<color_0002>Acquired the <item_6201> pact ring.<color_0000>{END}
+
+Voice:<nl>
+ “Welcome.”{END}
+
+Voice:<nl>
+ “Activating Holographic TV Display.”<wait>{END}
+
+<Cless>:<nl>
+ Whoa, what the!?
+<pause>
+<Klarth>:<nl>
+ An illusion?
+<pause>
+<Klarth>:<nl>
+ ......<nl>
+<pause>
+<Klarth>:<nl>
+ Aha, no...<nl>
+ It's an electronic projection
+ system!!!
+<pause>
+<Arche>:<nl>
+ Um, huh!?
+<pause>
+<Arche>:<nl>
+ What'cha talkin' about!?
+<pause>
+<Klarth>:<nl>
+ Well, it's something I read about in
+ an ancient article during my
+ research...<nl>
+<pause>
+<Klarth>:<nl>
+ First and foremost, the ancients
+ used a power called electricity for
+ countless applications in their
+ day-to-day lives.
+<pause>
+<Klarth>:<nl>
+ This projection system, known to
+ the people of the era as
+ “television,” was one of many such
+ devices to utilize it.<wait>{END}
+
+Voice:<nl>
+ “Please select a channel.”
+<pause>
+<speed_0000><color_0002>1. Game Channel<nl>
+2. Public Access Channel<nl>
+3. Science Channel<nl>
+4. News Channel<color_0000><speed_FFFF>{END}
+
+“Science Channel”
+<pause>
+The Spirit of Light, Aska, was
+recently captured.
+<pause>
+The head of biological studies
+expects to begin detailed study on it
+within a few days.<wait>{END}
+
+“Public Access Channel”
+<pause>
+As the fierce fighting in the
+Ragnarok War continues, Odin's
+search for brave warriors
+broadens.
+<pause>
+Warriors capable of withstanding
+the tests of Odin, the chief god,
+have been promised magnificent
+weapons in reward for their
+efforts.<wait>{END}
+
+“News Channel”
+<pause>
+Today, our leading story is on
+politics.
+<pause>
+At approximately 2:00 P.M. today,
+the Kingdom of Fenrir and the Odin
+Republic engaged in fierce combat
+along their military borders.
+<pause>
+King Ralph I of Fenrir and Odin's
+President Janos' declaration of
+peace broke down in three days.
+<pause>
+In response, Gargas, President of
+Thor, issued this statement:
+<pause>
+“I continue to hope that this conflict
+may yet be resolved through
+dialogue.”
+<pause>
+“However, if the situation does not
+calm, we will intervene and end it
+by means of aerial bombing.”
+<pause>
+It seems there will be further
+debate concerning President Gargas'
+military proposal.
+<pause>
+Now, for our next story...<nl>
+<pause>
+Thor's National Science Institute has
+announced that Samiel's Comet,
+whose course is expected to graze
+the planet, has almost no chance of
+striking the planet itself.
+<pause>
+We have video from the press
+conference.
+<pause>
+“At first, some said that the city of
+Thor will fall, but that was complete
+demagoguery.”
+<pause>
+“According to our Super Computer's
+calculations...”
+<pause>
+“The comet's tail will miss our
+planet by just enough distance so as
+to not disturb it in any way.”<wait>{END}
+
+“Game Channel”
+<pause>
+<color_0002>1. Start the game<nl>
+2. Read the manual<color_0000>{END}
+
+You scored <num5_C0006104> points.<wait>{END}
+
+<color_0002>
+“GROOVY <Arche>”
+<pause>
+This is a side-scrolling “shoot 'em
+up” game starring <Arche>.
+<pause>
+The basic controls are as follows:
+<pause>
+<var_0002> : Move <Arche><nl>
+<var_0102> : Shoot forward.<nl>
+<var_0202> : Shoot backward.<nl>
+<var_0102>+<var_0202> : Vertical attack.
+<pause>
+<var_0302> : Execute special attack and gain
+temporary invincibility (only
+available when ENERGY gauge is
+green).
+<pause>
+START : Pause game.<nl>
+START+<var_0602>: Quit game.<wait><color_0000>{END}
+
+<audio_0FD5><Arche>:<nl>
+ Wow...<nl>
+<pause>
+<audio_0FD6><Mint>:<nl>
+ Have we truly reached the bottom
+ of the sea?
+<pause>
+<audio_0FD7><Arche>:<nl>
+ Well, the sea's above us, not below
+ us <heart>{END}
+
+<audio_0FD8><Klarth>:<nl>
+ Hey, don't go wandering off now.{END}
+
+<audio_0FD9><Klarth>:<nl>
+ It's hard to tell from here, but it
+ seems the city is surrounded by
+ walls sturdy enough to withstand
+ the water pressure.
+<pause>
+<audio_0FDA><Cless>:<nl>
+ Can there really be a time traveling
+ device here?
+<pause>
+<audio_0FDB><Klarth>:<nl>
+ At the very least, we've just
+ discovered that the literature about
+ Thor sinking was true.
+<pause>
+<audio_0FDC><Klarth>:<nl>
+ If the finest mages of the world
+ have been right about that much,
+ then why start doubting them
+ now?{END}
+
+<audio_1648><Cless>:<nl>
+ The...the shaking stopped.
+<pause>
+<audio_1649><Klarth>:<nl>
+ To think, they even had the
+ capacity to elevate an entire
+ continent...<nl>
+<pause>
+<audio_164A><Klarth>:<nl>
+ It's just...breathtaking...{END}
+
+<audio_104A><Chester>:<nl>
+ So this is that time travel thingy
+ you were talking about, eh man?<wait>{END}
+
+<audio_104C>Harrison:<nl>
+ Ohh, how interesting...{END}
+
+<audio_1050><Cless>:<nl>
+ OZ! I command you!
+ Start the time travel process!<wait>{END}
+
+<audio_1057>Harrison:<nl>
+ Our destination is just about fifty
+ years from the present...<nl>
+<pause>
+<audio_1058><Cless>:<nl>
+ The place is the village of Totus of
+ that time.{END}
+
+<audio_1059>OZ:<nl>
+ “Speech acknowledged.”
+<pause>
+<audio_105A>OZ:<nl>
+ “Pre-Time-Warp Coordinate Safety
+ Check: Clear.”
+<pause>
+<audio_105B>OZ:<nl>
+ “Commencing Main Process.”
+<pause>
+<audio_105C>OZ:<nl>
+ “All personnel, please move to the
+ indicated positions.”<wait>{END}
+
+<audio_105D><Cless>:<nl>
+ Let's go, you guys!!{END}
+
+<audio_1068>OZ:<nl>
+ “Completion of process verified.”{END}
+
+<audio_0FDD><Cless>:<nl>
+ Whoa...{END}
+
+<audio_0FDE><Cless>:<nl>
+ H-How can this be!?{END}
+
+<audio_0FDF><Cless>:<nl>
+ There's a huge city right
+ underneath us!
+<pause>
+<audio_0FE0><Klarth>:<nl>
+ Incredible...<nl>
+ I don't believe it.
+<pause>
+<audio_0FE1><Arche>:<nl>
+ Wooow, soooo high! <heart>{END}
+
+<audio_0FE2><Klarth>:<nl>
+ Wow...<nl>
+<pause>
+<audio_0FE3><Klarth>:<nl>
+ What a building...<nl>
+<pause>
+<audio_0FE4><Mint>:<nl>
+ It's actually morning right now, but
+ it looks like midnight outside that
+ window...<nl>
+<pause>
+<audio_0FE5><Arche>:<nl>
+ Maybe it's 'cause of that Thor
+ technology stuff.
+<pause>
+<audio_0FE6><Klarth>:<nl>
+ Could be a replication of Thor's
+ former glory...{END}
+
+Enemies appear from the
+background and move to the
+foreground of the screen.
+<pause>
+Match your position up with where
+they appear and shoot them.
+<pause>
+Also, when your character's broom
+alone is struck, your character's
+head cannot be hit by enemy rounds
+as you twirl around.<wait>{END}
+
+As your rate rises with time, your
+score multiplier for defeating
+enemies increases.
+<pause>
+However, sustaining damage will
+decrease it.<wait>{END}
+
+When your vertical shots reach
+maximum level, they become a
+“Spark Wave.”
+<pause>
+A “Spark Wave” can negate normal
+black ball shots. They inflict damage,
+as well.
+<pause>
+You can use vertical obstacles to
+your advantage.<wait>{END}
+
+You can use a Special Shot when the
+upper right gauge glows green.
+<pause>
+There is a limit to how many you
+can use, so save them for when the
+time is right.
+<pause>
+You get bonus points if you raise
+the gauge until it is colored red.<wait>{END}
+
+There are three levels of weapon
+power ups.
+<pause>
+When above 100,000 points and at
+maximum level, taking damage will
+return you to the first level.<wait>{END}
+
+If you manage to avoid taking any
+damage, you will earn “No Miss
+Bonus.”
+<pause>
+If after taking damage, but you
+manage to avoid additional damage
+for an amount of time, you will
+earn “No Damage Bonus.”<wait>{END}
+
+It is wise to flee and take refuge in
+a safe location when a boss fires a
+large volley.
+<pause>
+When faced with different kinds of
+attacks, change your position
+accordingly.<wait>{END}
+
+Enemies rotating vertically are
+invulnerable until they stop.
+<pause>
+When they appear, move out of the
+way.<wait>{END}
+
+There is an item called “Rate Up”
+which increases the score multiplier.
+<pause>
+The faster you grab the item once
+it appears, the more the multiplier
+increases, so be quick!<wait>{END}
+
+If your score rate goes over X4 you
+obtain a “Rank Up Bonus.”
+<pause>
+However, the normal rounds
+appearing on the screen ramp up to
+the maximum level, so be careful.<wait>{END}
+
+The key to getting a high score is to
+not get hit.
+<pause>
+The score multiplier gradually
+increases, but will reset if you take
+damage.
+<pause>
+So do your best and aim for a “No
+Miss Clear”?<wait>{END}
+
+You can obtain a “High Speed Attack
+Bonus” by taking down enemies in
+rapid succession.
+<pause>
+All enemies will pause at some point,
+so an effective tactic is to
+memorize their stop and go
+patterns.<wait>{END}
+
+There is an additional rule to
+increasing the score multiplier.
+<pause>
+When you are not in High Speed
+Bonus mode, the multiplier increase
+is proportional to how quickly you
+defeat the enemy.
+<pause>
+This must be taken into
+consideration if you wish to attain
+No Miss Clear.<wait>{END}
+
+It's a monkey.<wait>{END}
+
+<color_0002><speed_0001><Arche> has earned the title
+“<var_AE01>.”<color_0000>{END}
+
+Robot:<nl>
+ I AM MUSICAL ROBOT.
+ I AM PROGRAMMED TO DISPLAY MUSIC
+ VIDEO.
+<pause>
+Robot:<nl>
+ WOULD YOU LIKE TO SEE RECORDED
+ CONCERT?{END}
+
+Robot:<nl>
+ UNDERSTOOD...{END}
+
+Robot:<nl>
+ COME BACK ANY TIME...{END}
+
+Tamura:<nl>
+ No, no, that's not it...{END}
+
+Supply Robot:<nl>
+ DO YOU REQUIRE SUPPLIES?
+<pause>
+<color_0002><speed_0000>1. <item_7700>s<nl>
+2. <item_7800>s<nl>
+3. <item_8700>s<nl>
+4. <item_8800>s<speed_FFFF>{END}
+
+<color_0002>Acquired a full supply of <item_7700>s.<color_0000>{END}
+
+<color_0002>Acquired a full supply of Orange
+Gels.<color_0000>{END}
+
+<color_0002>Acquired a full supply of Panacea
+Bottles.<color_0000>{END}
+
+<color_0002>Acquired a full supply of Life
+Bottles.<color_0000>{END}
+
+<color_0000>Supply Robot:<nl>
+ COME BACK ANY TIME.{END}
+

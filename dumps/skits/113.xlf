@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_519">
+        <source>My, that was a wonderfully
+soothing tune he played.</source>
+        <target state="translated">My, that was a wonderfully
+soothing tune he played.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_520">
+        <source>Wasn't it? Performances that
+good only come once in a blue moon.</source>
+        <target state="translated">Wasn't it? Performances that
+good only come once in a blue moon.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_521">
+        <source>I feel we owe the bartender of the
+Adventurer's Guild for showing us.</source>
+        <target state="translated">I feel we owe the bartender of the
+Adventurer's Guild for showing us.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_522">
+        <source>That was probably just a ploy to get
+you to spread the word about his place.</source>
+        <target state="translated">That was probably just a ploy to get
+you to spread the word about his place.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_523">
+        <source>I want to hear it again.</source>
+        <target state="translated">I want to hear it again.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_524">
+        <source>We can do that as much as we want
+later. We've got urgent work to do.</source>
+        <target state="translated">We can do that as much as we want
+later. We've got urgent work to do.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

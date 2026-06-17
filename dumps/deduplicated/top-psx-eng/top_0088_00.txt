@@ -1,0 +1,702 @@
+Miguel Fencing School{END}
+
+Church of Saint Lenios{END}
+
+Equipment Store “Tiger Blade”{END}
+
+Inn “Miguel Inn”{END}
+
+General Store “Benjamin”{END}
+
+Town of Miguel{END}
+
+Priest
+ “Live harmoniously with nature.”
+<pause>
+Priest
+ That is the teaching of Martel, the
+ Mother Goddess.{END}
+
+Nun
+ Greetings, travelers.
+<pause>
+Nun
+ May you be blessed with the
+ divine protection of the
+ goddess on your journeys.
+<pause>
+<Cless>
+ Thank you.{END}
+
+Clerk
+ Welcome to Tiger Blade!{END}
+
+Clerk
+ Thank you!{END}
+
+Innkeeper
+ Welcome to the Miguel Inn.
+<pause>
+Innkeeper
+ One night is <num1_00000060> gald.
+<pause>
+Innkeeper
+ Will you be staying?{END}
+
+Innkeeper
+ Sleep tight.{END}
+
+Innkeeper
+ I'm sorry, but you don't have
+ enough money.{END}
+
+Innkeeper
+ Please come again.{END}
+
+Man
+ Ahhh... Fishing...{END}
+
+Clerk
+ Welcome to Benjamin.{END}
+
+Clerk
+ Thanks a bunch.{END}
+
+Assistant
+ Oh, you like that statue, do you?
+<pause>
+Assistant
+ It's up for sale, but...
+<pause>
+Assistant
+ Since the owner's asking nine
+ figures, we haven't been getting
+ too many offers for it<sweat>{END}
+
+<Cless>
+ Hey...
+<pause>
+<Cless>
+ Wasn't this thing at the inn back in
+ Totus?
+<pause>
+<Chester>
+ ...Sure looks like it.{END}
+
+Citizen
+ *Grumble grumble*...{END}
+
+Citizen
+ Lady Martel, please protect the
+ world...{END}
+
+Student
+ The school building is so small that
+ some of us have to train outside.
+<pause>
+Student
+ Personally, I prefer it out here.
+ Seriously, nothing beats the feel of
+ the breeze on your back during
+ intensive sessions!{END}
+
+Student
+ Apparently, the school was bigger
+ back when Master Miguel was in
+ charge.
+<pause>
+Student
+ What fool decided to shrink it!?
+ I want his head...{END}
+
+Girl
+ Seems they hold a combat
+ tournament, like, every day at the
+ capital of Euclid.
+<pause>
+Girl
+ They're really desperate to find a
+ warrior who can defeat Dhaos.{END}
+
+Spirited <var_8201>
+ FIGHT ON! FIGHT OOONNN!!!{END}
+
+Citizen
+ This region's relatively safe with so
+ few monsters roaming about.{END}
+
+Boy
+ I wanna be a scientist
+ when I grow up.
+<pause>
+Boy
+ My dream is to work at the
+ laboratory in Euclid.{END}
+
+Receptionist
+ Welcome to the Miguel Fencing
+ School.
+<pause>
+Receptionist
+ Would you like to enroll?
+<pause>
+Receptionist
+ Or perhaps you're just visiting to
+ get a feel for the style?
+<pause>
+Receptionist
+ If you're interested, an
+ introductory membership is also
+ available.
+<pause>
+{END}
+
+<Cless>
+ Miguel Fencing School...
+<pause>
+<Cless>
+ (Did I build this when I returned
+ home?){END}
+
+Receptionist
+ Welcome to the Miguel Fencing
+ School.
+<pause>
+Receptionist
+ Are you here to enroll?
+<pause>
+<Cless>
+ N-no thanks...{END}
+
+Instructor
+ There's been a sudden influx
+ of new students lately.{END}
+
+Instructor
+ It's probably because of that damn
+ combat tournament in Euclid.
+<pause>
+Instructor
+ Most of them are undisciplined
+ fools only interested in winning the
+ prize after achieving a flashy
+ victory.{END}
+
+Student
+ Hup!{END}
+
+Student
+ Yah!{END}
+
+Student
+ Hah!{END}
+
+Student
+ So, there've been these rumors
+ going around the school...
+<pause>
+Student
+ Like, about some guys who claim to
+ have seen the spirit called <var_D800> in
+ the Treant Forest.
+<pause>
+Student
+ I thought that was just some fairy
+ tale from the ancient era, but...
+<pause>
+Student
+ If people are still talking about it,
+ maybe <var_D800> is real after all...{END}
+
+Instructor
+ My, you look like a skilled one.
+<pause>
+Instructor
+ How about it? Why not train
+ yourself further here?
+<pause>
+Instructor
+ We've got some slick deals on
+ memberships right now.<wait>{END}
+
+<Cless>
+ No thank you.
+ I can manage.
+<pause>
+Instructor
+ Looking for arcane arte books by
+ chance, then?
+<pause>
+Instructor
+ I've got one for the low, low price
+ of 20000 gald.
+<pause>
+<color_0002>Buy the arcane arte book?<color_0000>{END}
+
+Instructor
+ What a shame...{END}
+
+Instructor
+ This isn't enough.
+<pause>
+Instructor
+ Can't let it go for any less.{END}
+
+<color_0002><Cless> learned
+<var_9F00>.<color_0000>
+<pause>
+Instructor
+ Thanks!
+<pause>
+Instructor
+ Keep up your training, and we'll
+ become equals!{END}
+
+Girl
+ You're a fool, Gramps.
+ This is what happens when
+ you overwork yourself!
+<pause>
+Girl
+ What were you thinking, anyway!?
+ The combat tournament isn't for
+ someone as old and frail as you!{END}
+
+Old Man
+ Owwww...
+<pause>
+Old Man
+ M-my back...<wait>{END}
+
+Old Man
+ Oh, it's you.
+ Was that book helpful?{END}
+
+Old Man
+ It wasn't because I overworked
+ myself...{END}
+
+Old Man
+ Oh, swordsman, huh?
+<pause>
+Old Man
+ There's something in the cabinet
+ you might like.
+<pause>
+Old Man
+ I don't think I have any business
+ using it in my condition.{END}
+
+Boy
+ Tag!
+ YOU'RE IT!{END}
+
+Girl
+ Brother!
+ Behave yourself!
+<pause>
+Girl
+ Mister, don't play along with him.{END}
+
+<var_A301>
+ Some magic spells and summoning
+ artes were sealed away long ago.
+<pause>
+<var_A301>
+ Perhaps they're really dangerous,
+ but... Man, I think I could die happy
+ if I could ever witness their power.<wait>{END}
+
+<var_A301>
+ Forbidden magic must really be
+ something else...{END}
+
+<var_A301>
+ Oh, seems there's a mage like me
+ among your ranks...
+<pause>
+<var_A301>
+ I've got a spell book here that
+ I don't really need anymore.
+ You want it?
+<pause>
+<var_A301>
+ It's not all that advanced, but you
+ might find it useful.<wait>{END}
+
+<color_0002><Arche> learned <var_C700>.<color_0000>{END}
+
+Robed Woman
+ Hello.
+<pause>
+Robed Woman
+ Did you know? <color_0002>Collecting<color_0000> is all the
+ rage these days!
+<pause>
+Robed Woman
+ Would you like a rundown
+ on <color_0002>collectible<color_0000> items?{END}
+
+Robed Woman
+ Collectible items, as you might
+ imagine, are goods manufactured
+ for the enjoyment of collectors.
+<pause>
+Robed Woman
+ You can tell if an object is
+ collectible if it has a (c) symbol
+ stamped on it.
+<pause>
+Robed Woman
+ Collectibles tend to be pricey
+ because they're rare and only
+ enthusiasts want them.
+<pause>
+Robed Woman
+ It works out because they'll stop at
+ nothing to complete their
+ collections!<note><wait>{END}
+
+Robed Woman
+ Trading with other collectors is key
+ to completing one's own collection.{END}
+
+Robed Woman
+ To get you started,
+ I'll give you this.<wait>{END}
+
+<color_0002>Acquired a <item_8901>.<color_0000>{END}
+
+Robed Woman
+ Oh? Not into trendy stuff, huh?
+ Ah well...{END}
+
+Chef
+ Have you made <item_5700> Stew?{END}
+
+Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for <item_5700> Stew.<color_0000>{END}
+
+Chef
+ What!?
+ How can you reject this taste!?{END}
+
+<Cless>
+ As much as the village changes
+ over decades, this bridge is as
+ recognizable as ever...{END}
+
+<Cless>
+ This is an arcane arte book!<wait>{END}
+
+<color_0002><Cless> learned
+<var_9400>.{END}
+
+Student
+ Hey, watch where you're going!
+<pause>
+Student
+ Unless you want me to put you in a
+ WORLD OF PAIN!{END}
+
+<Chester>
+ Whoa, is this...
+<pause>
+<Chester>
+ ...what becomes of Totus in the
+ future?
+<pause>
+Harrison
+ This is the town of Miguel.
+<pause>
+<Cless>
+ Miguel...
+<pause>
+<Cless>
+ It was named after Dad?
+<pause>
+Harrison
+ For whatever reason, Dhaos has
+ refrained from attacking South
+ Euclid in this era.
+<pause>
+Harrison
+ As long as we stay around here for
+ now, we should be no in danger.<wait>{END}
+
+<Klarth>
+ With all that in mind, how is
+ Venezia doing?<wait>{END}
+
+Harrison
+ It is fine.
+<pause>
+Harrison
+ Anyway, our first objective is to
+ sail to Alvanista.
+<pause>
+Harrison
+ Second, we must have an audience
+ with His Majesty.
+<pause>
+Harrison
+ Speaking of Venezia, I shall take
+ my leave ahead of you to make
+ travel arrangements at the port
+ there.
+<pause>
+Harrison
+ Please follow me there once you've
+ finished your preparations.
+<pause>
+Harrison
+ Finally, take this map of the world.
+<pause>
+Harrison
+ It's up-to-date with the
+ information of this era,
+ so it may be of use.<wait>{END}
+
+<color_0002>Acquired a <item_9000> of the future.<color_0000>{END}
+
+<Cless>
+ All right!
+ We're five strong now!{END}
+
+<color_0002>Though you now have five party
+members, only four of them may
+participate in battle.
+<pause>
+Change the party by going to the
+Formation menu.
+<pause>
+Anyone outside of the battle still
+earns experience points, but they
+won't get any bonuses awarded by
+some accessories.{END}
+
+Town of Miguel{END}
+
+<Cless>
+ Miguel Fencing School...
+<pause>
+<Cless>
+ Did I build it when I returned
+ home?{END}
+
+Miguel
+ <var_8200>!{END}
+
+<Cless>
+ Wow! Wow! Cool!<wait>{END}
+
+Miguel
+ That one was <var_8200>.
+ It's one of the basics.
+<pause>
+<Cless>
+ Cool! Cool!
+<pause>
+<Cless>
+ Dad, you're so awesome!
+<pause>
+Miguel
+ I am, huh?
+<pause>
+<Cless>
+ Yeah!
+ Dad, do something else cool!<wait>{END}
+
+Miguel
+ All right then, let's see...
+ How about--
+<pause>
+Maria
+ Oh, what are you two up to?{END}
+
+<Cless>
+ Hey, Mom!{END}
+
+<Cless>
+ Dad's the COOLEST!
+ He's all like bam! Bam! BAAAM!
+<pause>
+Maria
+ Right...<wait>{END}
+
+<unk1>Maria
+ So you've been demonstrating your
+ artes to our son?
+<pause>
+Miguel
+ Yeah.
+ I figured I'd show him a few tricks
+ to get him interested, but...
+<pause>
+<Cless>
+ Hey, Dad!
+ Show me some more cool stuff!
+<pause>
+Miguel
+ ...Now I've got to put up with this.
+<pause>
+Miguel
+ I guess I got little too excited and
+ jumped the gun.
+<pause>
+Maria
+ So you're planning to teach him
+ about swordplay before long?
+<pause>
+Miguel
+ Yeah.
+ The sooner he starts his training,
+ the better.
+<pause>
+Miguel
+ He'll learn faster that way.
+<pause>
+Miguel
+ Besides...
+<pause>
+Miguel
+ One day, we'll have to pass down
+ our duty of protecting the pendant
+ of the seal to him...
+<pause>
+Maria
+ ...True...
+<pause>
+<Cless>
+ A pendant?
+ What's that?
+<pause>
+Maria
+ I'll show it to you when you get a
+ little older.<wait>{END}
+
+<Cless>
+ Hmmph... Well, okay.
+ But I wanna see Dad do more cool
+ artes first!
+<pause>
+Miguel
+ More cool artes... Yeah.{END}
+
+Miguel
+ ...I haven't yet mastered this one,
+ myself, but...
+<pause>
+Miguel
+ ...Here I go!
+<pause>
+Miguel
+ The greatest of all
+ Alvein Style artes!
+ <var_F000>!!{END}
+
+Miguel
+ ...Well, did you like that?<wait>{END}
+
+<Cless>
+ Yeah! Yeah!
+ You blew it to pieces!
+<pause>
+{END}
+
+Miguel
+ Still a long way to go...<wait>{END}
+
+<Cless>
+ ......<wait>{END}
+
+<unk1>Maria
+ What's wrong, <Cless>?
+<pause>
+<Cless>
+ Dad.
+<pause>
+{END}
+
+<unk1>Miguel
+ Hm?
+<pause>
+<Cless>
+ Could I do that too if I practiced?
+<pause>
+Miguel
+ Uh...yeah!
+ You sure could!
+<pause>
+<Cless>
+ Really?
+<pause>
+Miguel
+ Really!
+ If you practice enough, you'll
+ become even stronger than me!
+<pause>
+<Cless>
+ Then I'll practice a lot!
+<pause>
+Miguel
+ Good!
+ I'll keep on training myself
+ and complete this arte!
+<pause>
+Miguel
+ Then I'll be able to pass it on to
+ you!
+<pause>
+{END}
+
+<Cless>
+ Yay!{END}
+
+<Cless>
+ ......
+ Mom... Dad...
+<pause>
+<Chester>
+ You okay, dude?
+<pause>
+{END}
+
+<Cless>
+ Uh... Sorry, I had an intense dream.
+<pause>
+<Chester>
+ Ah... Well, let's pack up and go.
+<pause>
+{END}
+
+<Cless>
+ (...That arte...)
+<pause>
+<Cless>
+ (I remember having him show it to
+ me several times again after that.)
+<pause>
+<Cless>
+ (Maybe I could try it for myself...)
+<pause>
+<Cless>
+ (......)<wait>{END}
+
+<color_0002><Cless> has earned the title
+“<var_8801>.”<color_0000>{END}
+

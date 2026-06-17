@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1086">
+        <source>The world of the future...</source>
+        <target state="translated">The world of the future...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1087">
+        <source>Can't really say it's changed much.</source>
+        <target state="translated">Can't really say it's changed much.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1088">
+        <source>At least we can still fry things with magic!</source>
+        <target state="translated">At least we can still fry things with magic!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1089">
+        <source>Miguel, huh...? But that's Dad's name...</source>
+        <target state="translated">Miguel, huh...? But that's Dad's name...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1090">
+        <source>Something wrong, dude?</source>
+        <target state="translated">Something wrong, dude?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1091">
+        <source>Ah... No, not really.</source>
+        <target state="translated">Ah... No, not really.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

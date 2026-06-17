@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_044">
+        <source>Mr. Lester... I wonder what he's like.</source>
+        <target state="translated">Mr. Lester... I wonder what he's like.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_045">
+        <source>Mr. Lenios said something
+about him being “a little eccentric.”</source>
+        <target state="translated">Mr. Lenios said something
+about him being “a little eccentric.”</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_046">
+        <source>I...don't know if I like the sound of that.</source>
+        <target state="translated">I...don't know if I like the sound of that.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_047">
+        <source>I'm sure we'll have nothing to
+worry about if we speak in good faith.</source>
+        <target state="translated">I'm sure we'll have nothing to
+worry about if we speak in good faith.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_048">
+        <source>I guess that sounds reasonable.
+Okay, then! On to Euclid Village!</source>
+        <target state="translated">I guess that sounds reasonable.
+Okay, then! On to Euclid Village!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

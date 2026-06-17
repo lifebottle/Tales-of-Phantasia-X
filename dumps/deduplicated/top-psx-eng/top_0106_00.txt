@@ -1,0 +1,743 @@
+Inn “Euclid Inn”{END}
+
+Weapon Shop “Holy Knight”{END}
+
+Euclid Castle{END}
+
+Grocery Store “Flavor King”{END}
+
+General Store “Bonnet”{END}
+
+Grocery Store “Marion”{END}
+
+General Store “Baby”{END}
+
+General Store “Baby”{END}
+
+Child
+ Hurry, mama!
+ Let's go see the juggler!{END}
+
+Child
+ I heard someone who does fun
+ things is coming soon.
+<pause>
+Child
+ I'm so excited!{END}
+
+Wife
+ I can't stay out in the sun too long
+ or my beautiful skin will start to
+ look like old leather.{END}
+
+Wife
+ Yes, our door isn't locked, but that
+ doesn't mean you're welcome to
+ barge in as you please.
+<pause>
+<Cless>
+ Y-yes ma'am...p-pardon me...{END}
+
+Innkeeper
+ Howdy, pardner!
+ Welcome to the Euclid Inn!
+<pause>
+Innkeeper
+ This here inn has a history going
+ back over a hundred years!
+<pause>
+Innkeeper
+ Will ya be staying?
+<pause>
+Innkeeper
+ One night is <num1_0000000C> gald.{END}
+
+Innkeeper
+ Sorry, but y'ain't got enough
+ money.{END}
+
+Innkeeper
+ Good night, then!{END}
+
+Innkeeper
+ Much obliged!
+<pause>
+Innkeeper
+ I hope ya come again.{END}
+
+Girl
+ Okay duder, step aside...
+<pause>
+Girl
+ I'm trying to straighten up the
+ place, but I only work part time,
+ you see...
+<pause>
+Girl
+ It's a nice job, but I can't be
+ slacking off if I want to keep it.{END}
+
+<Cless>
+ He's asleep...
+<pause>
+<Cless>
+ ...with his eyes open.
+ Creepy...{END}
+
+Manager
+ Ah, hello.
+<pause>
+Manager
+ I'm the manager for Juglanlan, the
+ traveling performer.
+<pause>
+Manager
+ We've been checking out this city
+ and it looks like a good place to put
+ on a show.
+<pause>
+Manager
+ The place is big, and there's enough
+ people to get a nice crowd.
+<pause>
+Manager
+ Plus, it looks like we won't have to
+ worry about drunks getting into
+ fights with the talent.{END}
+
+Assistant
+ Would you like to learn about
+ <color_0002>cooking<color_0000>?{END}
+
+Assistant
+ Food preparation is so simple, even
+ novices can make something decent
+ on their first try.<wait>{END}
+
+<color_0002>Multiple ingredients can be combined
+into a dish for great effect.
+<pause>
+<color_0003>Cooking<color_0002> these recipes can restore
+HP, restore TP and/or cure status
+ailments.
+<pause>
+Individual ingredients can also be
+used as weak healing items, and
+have the following effects when
+used as such:
+<pause>
+<color_0002>Vegetables: 1% HP recovery
+<color_0001>Fruits: 1% TP recovery
+<color_0003>Meats: 1% HP and TP recovery
+<pause>
+<color_0002>Merchants won't buy ingredients
+from you, so you might as well try
+to use them in a dish.<wait><color_0000>{END}
+
+Assistant
+ Why don't have you have a talk
+ with the chef to get started?{END}
+
+Assistant
+ Eating is essential to your health.
+ Remember that.{END}
+
+Housewife
+ Hmm...
+<pause>
+Housewife
+ What sounds good for dinner?{END}
+
+Citizen
+ I heard something crazy.
+<pause>
+Citizen
+ Apparently, a high-ranking official
+ of Euclid's Free Knights became
+ estranged and took off with all his
+ subordinates.
+<pause>
+Citizen
+ Now why would he do that...?{END}
+
+Old Woman
+ We have everything we need in
+ this city...
+<pause>
+Old Woman
+ To think that this area was
+ completely desolate, with absolutely
+ nothing for us, some moons ago...{END}
+
+Kid
+ Agh, I'm stuffed...{END}
+
+Kid
+ I want an apple...
+<pause>
+<color_0002>Buy him an apple?<color_0000>{END}
+
+<Cless>
+ Sorry, I don't have any money to
+ spare.
+<pause>
+Kid
+ So you're a hobo, huh?{END}
+
+Kid
+ Thank you!{END}
+
+<Cless>
+ (Yeesh, maybe he should take up
+ competitive eating...){END}
+
+Kid
+ I...I could eat a horse...{END}
+
+Chef
+ Have you made <item_5300> Rolls yet?{END}
+
+Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for <item_5300>
+Rolls.<wait><color_0000>{END}
+
+Chef
+ The more you cook, the better you
+ get at it!
+<pause>
+Chef
+ You'll get <star>s to show your skill!
+<pause>
+Chef
+ If you practice every day, you'll
+ rack up the <star>s!{END}
+
+Chef
+ What!?
+ How can you reject this taste!?{END}
+
+Citizen
+ S...starving...
+<pause>
+Citizen
+ But I don't know what I wanna
+ eat...{END}
+
+Citizen
+ I'm gonna drink myself stupid
+ tonight!!{END}
+
+<Cless>
+ Whew!
+ Finally got you!{END}
+
+<Cless>
+ Gah!
+ Nimble little bugger, aren't you!?
+<pause>
+<color_0002>It escaped your clutches.{END}
+
+Clerk
+ Heeey!
+ Welcome to Holy Knight.{END}
+
+Clerk
+ Thank you!{END}
+
+<Cless>
+ Excuse me, ma'am.
+<pause>
+Clerk
+ ......
+<pause>
+<Cless>
+ EXCUUUUUUSE MEEEEE!!{END}
+
+Clerk
+ S-sorry about that.
+<pause>
+Clerk
+ Business has been so slow lately
+ that I just fall asleep after a
+ while...{END}
+
+Clerk
+ Welcome to Holy Knight.{END}
+
+Clerk
+ Thank you, come again.{END}
+
+Owner
+ Oh, I give up.
+<pause>
+Owner
+ My bush baby started causing
+ trouble again.
+<pause>
+Owner
+ I'd hate to put him on a leash, but
+ I have to do something about this...
+<pause>
+Owner
+ So, anyway...<wait>{END}
+
+Owner
+ Welcome.
+ What can I do for you?{END}
+
+Owner
+ Thanks.{END}
+
+Assistant
+ Welcome.
+ The checkout counter
+ is right over there.{END}
+
+Clerk
+ Yes, welcome.
+ What would you like?{END}
+
+Clerk
+ Thank you.{END}
+
+Gatekeeper
+ All is well!{END}
+
+Gatekeeper
+ What are you doing here?
+ This isn't a place for kids!
+<pause>
+<Cless>
+ I only wanted to ask about the
+ Free Knights...
+<pause>
+Gatekeeper
+ Uhh, I don't really know much
+ about 'em, but...
+<pause>
+Gatekeeper
+ It was all over newspaper
+ headlines when Sir Mars succeeded
+ Sir Miguel as commanding officer,
+ though.
+<pause>
+Gatekeeper
+ They were both formidable
+ swordsmen, but I don't know what
+ Sir Mars has been up to lately.
+<pause>
+Gatekeeper
+ I think I heard someone say he
+ was sick in bed, and has been
+ recovering at home...
+<pause>
+<Cless>
+ In that case, do you have any idea
+ where he lives?
+<pause>
+Gatekeeper
+ I overheard one of the knights
+ under his command mention that
+ his house is in the northeast corner
+ of the city...{END}
+
+Gatekeeper
+ You are free to enter the castle at
+ your discretion.
+<pause>
+Gatekeeper
+ If you wish, you can also sign up
+ for the combat tournament on the
+ first floor.{END}
+
+Gatekeeper
+ You may not pass!
+<pause>
+Gatekeeper
+ What? You need something?
+<pause>
+<Cless>
+ I want to cross the bridge east of
+ Euclid, but part of it collapsed...
+<pause>
+Gatekeeper
+ Yeah, the west end of it took a
+ spill into the water during that
+ earthquake last month.
+<pause>
+Gatekeeper
+ Unfortunately, a reconstruction
+ project for something like that
+ isn't really in our budget right now.{END}
+
+Child
+ My dog is the best!
+<pause>
+Child
+ He can sing!
+<pause>
+<color_0002>Listen to the dog sing?<color_0000>{END}
+
+Child
+ What!? You don't believe me!?
+ It's true! Honest!!{END}
+
+Child
+ Then listen!<wait>{END}
+
+Child
+ Was that cool or what?<wait>{END}
+
+Citizen
+ Are you entering the tournament,
+ too?{END}
+
+Citizen
+ A lot of strong people are
+ gathering here for the tournament.{END}
+
+Man
+ What should I do...?
+<pause>
+Man
+ Maybe I should enter...
+<pause>
+Man
+ Ohh, but I could get bruised...{END}
+
+Woman
+ He won't make up his mind...{END}
+
+Lady
+ Where is that good-for-nothing
+ husband of mine!?
+<pause>
+Lady
+ Hey, you.
+ Do you know where he is?<wait>{END}
+
+<color_0002>Tell her where he is?<color_0000>{END}
+
+<Cless>
+ I saw a guy who looked a little
+ suspicious standing next to the inn...
+<pause>
+<Cless>
+ Maybe that's him?
+<pause>
+Lady
+ I see.
+ Thanks.{END}
+
+Lady
+ Dammit, what am I going to do...{END}
+
+Lady
+ If you find him, let me know so I
+ can give him an earful!{END}
+
+Eldest Sister
+ We...{END}
+
+Middle Sister
+ Are...{END}
+
+Youngest Sister
+ Triplets!<heart>{END}
+
+Nutcase
+ I'm gonna tear you to pieces with
+ my super duper altered arcane
+ mystic burst arte!!
+<pause>
+Nutcase
+ Thirty-hit combo!!
+<pause>
+Nutcase
+ WHOOOAAAAAH!!!!{END}
+
+Man
+ It seems you can only fight with
+ normal weapons in the combat
+ tournament.
+<pause>
+Man
+ Do they have something against
+ spellcasters?{END}
+
+Old Man
+ Oh, fiddlesticks.
+ They won't let me use my own
+ healing items...
+<pause>
+Old Man
+ ...Not that they'd let me in either
+ way.{END}
+
+Title Judge
+ I'm a judge of titles.<wait>{END}
+
+<unk1>Title Judge
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge
+ I'm awestruck...
+ It doesn't get any better than that!{END}
+
+<unk1>Title Judge
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge
+ Marvelous!{END}
+
+<unk1>Title Judge
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge
+ Not bad at all!{END}
+
+<unk1>Title Judge
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge
+ Still have a way to go.{END}
+
+<unk1>Title Judge
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge
+ What the?
+ You'll have to tell me the
+ story behind that one...{END}
+
+<unk1>Title Judge
+ <num2_C0005112>'s title is
+ <0Dvar0080100112518E800CC000C0>?
+ 
+<pause>
+Title Judge
+ I see.{END}
+
+Citizen
+ Seems like Venezia's fallen on hard
+ times.
+<pause>
+Citizen
+ The folks there have had to deal
+ with not only the bad economy, but
+ an attack on their port!
+<pause>
+Citizen
+ It's impressive that the city is still
+ thriving.{END}
+
+Mars' Wife
+ Where could that husband of mine
+ be?{END}
+
+<Cless>
+ Are you by any chance Sir Mars'...
+<pause>
+Mars' Wife
+ Yes, I am his wife.
+<pause>
+Mars' Wife
+ Have you come with news of his
+ whereabouts?
+<pause>
+<Cless>
+ Ah... No, sorry.
+ I only heard about him from a
+ gatekeeper at the castle, and
+ learned that he might live here.
+<pause>
+<Cless>
+ My father, Miguel, was the previous
+ commander of the Free Knights.
+<pause>
+<Cless>
+ I thought it would be a good idea
+ to meet with his successor.
+<pause>
+Mars' Wife
+ Oh, that makes sense...
+<pause>
+Mars' Wife
+ But my husband has...
+<pause>
+Mars' Wife
+ ...gone missing.
+<pause>
+<Cless>
+ He has?
+<pause>
+Mars' Wife
+ It was in the middle of the night
+ just three months ago. He suddenly
+ awoke, suited up in his armor, left,
+ and never came back.
+<pause>
+Mars' Wife
+ I assumed it was just a late-night
+ assignment at work he had to
+ attend to, but...
+<pause>
+Mars' Wife
+ When I went to check on him at
+ the castle the next day, I was told
+ he hadn't even shown up for roll
+ call...
+<pause>
+<Cless>
+ I see...
+ How strange...{END}
+
+Lady
+ Oh, hello.{END}
+
+Man
+ Maaaan... Making a tidy profit from
+ business sounds like a such dream.
+<pause>
+Man
+ See, my old friend has made a
+ name for himself in the trading
+ business.
+<pause>
+Man
+ He's already made executive!
+ It's be awesome if I could get a
+ setup like his...{END}
+
+Clerk
+ Welcome to Marion.<wait>{END}
+
+Clerk
+ Oh, is something wrong, sir?<wait>{END}
+
+<Cless>
+ Well, uh...
+<pause>
+{END}
+
+<Cless>
+ ...a bush baby has snuck up behind
+ you...<wait>{END}
+
+Clerk
+ Huh!?{END}
+
+Clerk
+ ...Argh!
+ Not again!
+<pause>
+Clerk
+ That animal belongs to the owner
+ of the Baby general store.
+<pause>
+Clerk
+ But goodness, he's so sneaky.
+ How did he get in here this time?{END}
+
+Clerk
+ AIEEEE!!
+<pause>
+Clerk
+ Somebody, catch that bush baby!!{END}
+
+Customer
+ I'm starving!{END}
+
+Customer
+ A beer, please, ma'am.
+ A BEER!{END}
+
+Customer
+ What to buy, what to buy...{END}
+
+Customer
+ I wonder what sounds good for
+ dinner tonight...{END}
+
+<Suzu>
+ I shall wait here.
+ You may go on ahead.
+<pause>
+<Cless>
+ Take care.
+ We'll be back in a bit.{END}
+
+<Suzu>
+ I...
+<pause>
+<Suzu>
+ I will wait here.
+<pause>
+<Cless>
+ Is something the matter?
+<pause>
+<Suzu>
+ It is nothing for you to be
+ concerned about.
+<pause>
+<Cless>
+ ......
+<pause>
+<Suzu>
+ Pardon me, but I simply do not
+ wish to go.
+<pause>
+<Suzu>
+ This is where...
+<pause>
+<Cless>
+ Oh, that's right...
+<pause>
+<Cless>
+ I'm sorry.
+ I didn't mean to be insensitive.
+<pause>
+<Suzu>
+ Do not worry.
+ Go about your duty.
+<pause>
+<Suzu>
+ I shall await your return.
+<pause>
+<Cless>
+ I understand.
+ Then we'll try to make this quick.
+<pause>
+<Suzu>
+ Please do not hurry for my sake.{END}
+
+<Cless>
+ Thanks for waiting.
+<pause>
+<Suzu>
+ Welcome back.{END}
+

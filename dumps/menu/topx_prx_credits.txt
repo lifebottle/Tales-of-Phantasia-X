@@ -1,0 +1,760 @@
+Tales of Phantasia Staff{END}
+
+VOICE ACTORS{END}
+
+Cless Alvein{END}
+
+Takeshi Kusao{END}
+
+Mint Adnade{END}
+
+Junko Iwao{END}
+
+Klarth F. Lester{END}
+
+Kazuhiko Inoue{END}
+
+Arche Klaine{END}
+
+Mika Kanai{END}
+
+Chester Barklight{END}
+
+Kentaro Ito{END}
+
+Suzu Fujibayashi{END}
+
+Taeko Kawata{END}
+
+Edward D. Morrison{END}
+
+Unshou Ishizuka{END}
+
+Miguel Alvein{END}
+
+Yasunori Masutani{END}
+
+Maria Alvein{END}
+
+Kumiko Nishihara{END}
+
+Meryl Adnade{END}
+
+Kei Hayami{END}
+
+Ranzo Fujibayashi{END}
+
+Takkou Ishimori{END}
+
+Tristan{END}
+
+Ryuji Nakagi{END}
+
+Ami Barklight{END}
+
+Michiko Neya{END}
+
+Milard Rune{END}
+
+Yuko Sumitomo{END}
+
+Luce Klaine{END}
+
+Mami Horikoshi{END}
+
+King Alvanista{END}
+
+Yosuke Akimoto{END}
+
+Lundgrom{END}
+
+Bin Shimada{END}
+
+Lenios{END}
+
+Takashi Taguchi{END}
+
+Prince Laird{END}
+
+Motoki Takagi{END}
+
+Martel the Tree Spirit{END}
+
+Rie Tanaka{END}
+
+Brambard Milene{END}
+
+Tetsu Inada{END}
+
+Origin{END}
+
+Keiichirou Yamamoto{END}
+
+Maxwell{END}
+
+Fumihiko Goto{END}
+
+Jestona{END}
+
+Hiroki Shimowada{END}
+
+Flamberge{END}
+
+Chie Nakamura{END}
+
+Mars Uldor{END}
+
+Tessyo Genda{END}
+
+Demeter{END}
+
+Hiro Yuuki{END}
+
+Jahmir{END}
+
+Ayumi Sena{END}
+
+Dhaos{END}
+
+Toshiyuki Morikawa{END}
+
+Sound Production{END}
+
+Recording Director{END}
+
+Akira Ohkuma{END}
+
+Production Coodinator{END}
+
+Ai Sasaki{END}
+
+Recording Studio{END}
+
+Recording Mixer{END}
+
+Hisanori Ohshiro{END}
+
+Assistant Mixer{END}
+
+Shou Ohtani{END}
+
+CHARACTER DESIGN{END}
+
+Kosuke Fujishima{END}
+
+NAMCO TALES STUDIO STAFF{END}
+
+TOTAL DIRECTION{END}
+
+Kiyoshi Nagai{END}
+
+Eiji Kikuchi{END}
+
+SYSTEM PROGRAM{END}
+
+Ryuichi Ishizawa{END}
+
+SOUND MANAGEMENT{END}
+
+Shuji Ikegami{END}
+
+SOUND EFFECTS{END}
+
+Atushi Horiguchi{END}
+
+Hiroshi Tamura{END}
+
+BATTLE CHARACTER GRAPHICS{END}
+
+Keiichi Gotou{END}
+
+BATTLE SYSTEM GRAPHICS{END}
+
+Kazushige Tomita{END}
+
+MUSIC COMPOSERS{END}
+
+Motoi Sakuraba{END}
+
+PROCESS MANAGER{END}
+
+Takeshi Yokoyama{END}
+
+SPECIAL THANKS TO{END}
+
+Yoshifumi Osaki{END}
+
+Yuri Handa{END}
+
+Isao Kadowaki{END}
+
+Chiaki Sasakura{END}
+
+Keita Matui{END}
+
+Hirokazu Kagawa{END}
+
+Tatsuro Udo{END}
+
+Yasuyuki Sawadaishi{END}
+
+Yuri Suzuki{END}
+
+MINLIUSOFT STAFF{END}
+
+DIRECTOR{END}
+
+Guo Zan hua{END}
+
+MAIN PROGRAMMER {END}
+
+Kang Tian hao{END}
+
+PROGRAMMER{END}
+
+Li Jia{END}
+
+Zhao Kai{END}
+
+Sun Xiao chen{END}
+
+SOUND DESIGNER{END}
+
+Zhang Yi{END}
+
+ARTIST DESIGNER{END}
+
+He Li ping{END}
+
+ORIGINAL GAME STAFF{END}
+
+SYSTEM PROGRAM{END}
+
+Ryuichi Ishizawa{END}
+
+BATTLE PROGRAM{END}
+
+Shinji Hirachi{END}
+
+3D FIELD PROGRAM{END}
+
+Shuhei Rokumoto{END}
+
+2D MAP PROGRAM{END}
+
+Tatsuro Udo{END}
+
+VOICE DATA MAKING{END}
+
+Atushi Horiguchi{END}
+
+MAP GRAPHICS{END}
+
+Yasuyuki Sawadaishi{END}
+
+Takeharu Isogai{END}
+
+Takeshi Yabe{END}
+
+Nobuchika Miyazaki{END}
+
+Tomoko Ogawa{END}
+
+FIELD CHARACTER GRAPHICS{END}
+
+Hiromi Matsueda{END}
+
+BATTLE CHARACTER GRAPHICS{END}
+
+Keiichi Gotou{END}
+
+MONSTER GRAPHICS{END}
+
+Hirofumi Matsuo{END}
+
+BACKGROUND GRAPHICS{END}
+
+Nobuo Kanuma{END}
+
+Kouji Okada{END}
+
+Takeo Kawata{END}
+
+BATTLE EFFECT GRAPHICS{END}
+
+Reiji Kashiwagi{END}
+
+3D FIELD GRAPHICS{END}
+
+Masaomi Nishidate{END}
+
+"PlayStation" VERSION{END}
+
+DATA MAKING{END}
+
+Hiroyuki Suzuki{END}
+
+Kazufumi Kurosawa{END}
+
+Kazuya Ishizuka{END}
+
+Ken-ichi Suzuki{END}
+
+MUSIC COMPOSER{END}
+
+Motoi Sakuraba{END}
+
+Shinji Tamura{END}
+
+GAME PART DIRECTOR{END}
+
+Eiji Kikuchi{END}
+
+ANIMATION PART STAFF{END}
+
+ANIMATION PRODUCER{END}
+
+Hidekazu Terakawa{END}
+
+TOTAL ANIMATION DIRECTOR{END}
+
+Tensai Okamura{END}
+
+EVENT MOVIE DIRECTOR{END}
+
+Kou Yoshinari{END}
+
+"ANIMATION CHARACTER DESIGNER{END}
+
+OPENING & ENDING MOVIE:{END}
+
+KEY ANIMATION SUPERVISOR"{END}
+
+Tokuyuki Matsutake{END}
+
+"EVENT MOVIES:{END}
+
+KEY ANIMATION SUPERVISOR"{END}
+
+You Yoshinari{END}
+
+Kou Yoshinari{END}
+
+ART DESIGN{END}
+
+Tomonori Kato{END}
+
+Hiroshi Kato{END}
+
+COLOR SETTING{END}
+
+Nobuko Mizuta{END}
+
+KEY ANIMATION{END}
+
+Takuya Saito{END}
+
+Yoshihito Hishinuma{END}
+
+Hirofumi Suzuki{END}
+
+Tensai Okamura{END}
+
+Yasunori Miyazawa{END}
+
+Hiroshi Okubo{END}
+
+Masahiro Koyama{END}
+
+Toshihiro Kikuchi{END}
+
+Kazuchika Kise{END}
+
+Takashi Shikishima{END}
+
+Hiroya Takeda{END}
+
+You Yoshinari{END}
+
+Kanta Kamei{END}
+
+ANIMATION CHECKING{END}
+
+Chieko Ichimanda{END}
+
+INBETWEENS{END}
+
+Mika Fujita{END}
+
+Thoru Okubo{END}
+
+Yasutaka Kubota{END}
+
+Yuki Nakajima{END}
+
+Tomomi Ishikawa{END}
+
+Takashi Sato{END}
+
+Ryouichi Murata{END}
+
+Reiko Sakai{END}
+
+Kazuhiro Ota{END}
+
+Daizen Komatsuda{END}
+
+Tomoyuki Shitaya{END}
+
+Miki Shimada{END}
+
+Satsuki Wada{END}
+
+Hiroyo Izumi{END}
+
+Mika Nakabayashi{END}
+
+Sanae Hirota{END}
+
+Hiroki Ito{END}
+
+Chieko Ichimanda{END}
+
+IG NIIGATA{END}
+
+Yukiko Mita{END}
+
+Tetsuya Takeuchi{END}
+
+Humi Morita{END}
+
+Nori Morita{END}
+
+Hirotaka Naito{END}
+
+Daisuke Nakayama{END}
+
+Mieko Hayakawa{END}
+
+JCSTAFF{END}
+
+Masahiro Fujii{END}
+
+Yuichi Takahashi{END}
+
+Masumi Morisita{END}
+
+WOMBAT{END}
+
+Tomohisa Ishiyama{END}
+
+Yoshiaki Iwata{END}
+
+Mitsunao Onogi{END}
+
+STUDIO LIVE{END}
+
+Studio TAKURANKE{END}
+
+ST. SHEETA{END}
+
+GROUP DONGRI{END}
+
+JUNGLEGYM{END}
+
+STUDIO JUNIO{END}
+
+DAUME{END}
+
+A.P.P.P{END}
+
+OH! PRODUCTION{END}
+
+BACKGROUND DRAWING{END}
+
+STUDIO BIHOU{END}
+
+DIGITAL SUPERVISOR{END}
+
+Shinji Takagi{END}
+
+DIRECTOR OF PHOTOGRAPHY{END}
+
+Miki Sakuma{END}
+
+PHOTOGRAPHY{END}
+
+Makoto Kogawa{END}
+
+Kou Sakakibara{END}
+
+TRACE&PAINT{END}
+
+Tamaka Sato{END}
+
+Kouko Ito{END}
+
+Sayo Motegi{END}
+
+Rie Asano{END}
+
+Chiyomi Koyama{END}
+
+Hiromi Uchibayashi{END}
+
+Studio D-VOLT{END}
+
+Asahi Production Co. D/MaxStudio{END}
+
+3D DIRECTOR{END}
+
+Tokumitsu Kifune{END}
+
+3D WORKS{END}
+
+IKIF+{END}
+
+Akira Inagaki{END}
+
+Kazunori Suga{END}
+
+Naruhiro Baba{END}
+
+Kouji Sato{END}
+
+VISUAL EFFECTS{END}
+
+Shigenobu Kaihoko{END}
+
+Kanta Kamei{END}
+
+2D WORKS{END}
+
+Makiko Asano{END}
+
+Tsukasa Kakizakai{END}
+
+EDITOR{END}
+
+Makiko Asano{END}
+
+PRODUCTION SCHEDULING{END}
+
+Tomohiro Amagai{END}
+
+Wataru Kurosawa{END}
+
+Tsukasa Kakizakai{END}
+
+PRODUCTION STUDIO{END}
+
+EVENT MOVIE SOUND EFFECTS{END}
+
+DIRECTOR{END}
+
+Toshiki Kameyama{END}
+
+SOUND EFFECTS{END}
+
+Michiro Ito(SOUND RING){END}
+
+MIXER{END}
+
+Toru Kumakura{END}
+
+STUDIO{END}
+
+OP REQUIEM STUDIO{END}
+
+SOUND PRODUCTION{END}
+
+OMNIBUS PROMOTION Inc.{END}
+
+THEME SONG{END}
+
+"YUME-WA OWARANAI"{END}
+
+ -KOBOREOCHIRU TOKI NO SHIZUKU-{END}
+
+LYRICS{END}
+
+Shoko Fujibayashi{END}
+
+COMPOSER{END}
+
+Toshiyuki Sekiguchi{END}
+
+ARRANGER{END}
+
+Masayuki Sakamoto{END}
+
+PERFORMER{END}
+
+YOMI{END}
+
+Licensed by{END}
+
+NAMCO BANDAI Games Inc.{END}
+
+PRODUCTION STAFF{END}
+
+PACKAGE DESIGNER{END}
+
+Katsushi Obi{END}
+
+ASSISTANT PROCESS MANAGER{END}
+
+Masaki Morishita{END}
+
+PROCESS MANAGER{END}
+
+Hideki Hattori{END}
+
+SPECIAL THANKS{END}
+
+Kai Tanaka{END}
+
+Yuko Sekine{END}
+
+Ryuta Sano{END}
+
+Yohta Fukuda{END}
+
+Yuichiro Sadahiro{END}
+
+Asana Inoki{END}
+
+Co-PRODUCER{END}
+
+Shinichiro Okamoto{END}
+
+PRODUCER{END}
+
+Shinji Noguchi{END}
+
+EXECUTIVE PRODUCERS{END}
+
+Makoto Yoshidumi{END}
+
+Shin Unozawa{END}
+
+Shukuo Ishikawa{END}
+
+ENGLISH LOCALIZATION{END}
+
+Life Bottle Productions{END}
+
+PROJECT MANAGERS{END}
+
+mziab{END}
+
+Pegi{END}
+
+PROJECT COORDINATOR{END}
+
+Dragonbleapiece{END}
+
+LEAD PROGRAMMER{END}
+
+mziab{END}
+
+PROGRAMMERS{END}
+
+Ethanol{END}
+
+Julian{END}
+
+MAIN TRANSLATOR{END}
+
+Goodguy3{END}
+
+TRANSLATORS{END}
+
+Mine{END}
+
+SymphoniaLauren{END}
+
+Pegi{END}
+
+mziab{END}
+
+LEAD EDITORS{END}
+
+Dragonbleapiece{END}
+
+mziab{END}
+
+EDITORS{END}
+
+Kevan{END}
+
+gatordski{END}
+
+yoh{END}
+
+Khayyaam{END}
+
+FlamePurge{END}
+
+GRAPHIC ARTISTS{END}
+
+Amarant{END}
+
+FlamePurge{END}
+
+WilliamTBOG{END}
+
+PRE-PRODUCTION INFORMATION GATHERING{END}
+
+Kevan {END}
+
+LEAD LOCALIZATION QA{END}
+
+Dragonbleapiece{END}
+
+LEAD FUNCTIONAL QA{END}
+
+DobleC{END}
+
+QA TESTERS{END}
+
+Kevan{END}
+
+flynnforthewin{END}
+
+Nanika{END}
+
+getterdrill{END}
+
+Torasouls{END}
+
+FlamePurge{END}
+
+dotaxis{END}
+
+ryuza{END}
+
+Trixarian{END}
+
+Negi{END}
+
+bobwhite{END}
+
+edgarfigaro{END}
+
+gatordski{END}
+
+Explorer{END}
+
+TRANSLATION FEATURE CONSULTATION{END}
+
+FlamePurge{END}
+
+ORIGINAL PSX SCRIPT AND{END}
+
+TRANSLATED ASSETS{END}
+
+Phantasian Productions{END}
+
+Produced By{END}
+

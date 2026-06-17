@@ -1,0 +1,495 @@
+ユークリッド村{END},Euclid Village{END}
+"子供
+「とんぼ、とんぼ〜！」{END}","Child:<nl>
+ A dragonfly! A DRAGONFLY!{END}"
+"子供
+「戦争、終わってよかったね」{END}","Child:<nl>
+ It's good that the war is over.{END}"
+"子供
+「お兄ちゃん、本当に戦争が起こ
+　るの？」
+<pause>
+<Cless>
+「え、戦争？」
+<pause>
+子供
+「うん、遠い国の王様が戦争する
+　かもしれないって、お母さんが
+　言ってたの・・・」{END}","Child:<nl>
+ Mister, is there really a war going
+ on?
+<pause>
+<Cless>:<nl>
+ I...have no idea.
+ Where did you hear about that?
+<pause>
+Child:<nl>
+ From my mom.
+ She said a king from a far away
+ country is leading one.{END}"
+"村の人
+「ほら、こっからだとベルアダム
+　の村も見えるよ」
+<pause>
+村の人
+「その向こうにある御神木も見え
+　るな」
+<pause>
+村の人
+「昔はよく遊びに行ったもんだ」{END}","Villager:<nl>
+ Y'know, you can see pretty far
+ from up here...
+<pause>
+Villager:<nl>
+ The village of Belladam, and even
+ the sacred tree!
+<pause>
+Villager:<nl>
+ I know all about the best views up
+ here. Used to play here all the time
+ as a kid.{END}"
+"村の人
+「あれ、よくここがわかったね」
+<pause>
+村の人
+「どうだい？」
+<pause>
+村の人
+「きれいな景色だろ」{END}","Villager:<nl>
+ Whoa!
+ I thought I was the only one who
+ knew the way up here!
+<pause>
+Villager:<nl>
+ So tell me, stranger...<nl>
+ What do you think of the view?
+<pause>
+Villager:<nl>
+ I tell ya, this scenery...it can't be
+ beat!{END}"
+"<Cless>
+「あの、そんな所で何やってるん
+　ですか？」
+<pause>
+女の人
+「・・・・・・」{END}","<Cless>:<nl>
+ Um, excuse me...<nl>
+ Could you tell me why
+ you're over here?
+<pause>
+Woman:<nl>
+ ......{END}"
+"<Cless>
+「あの〜<speed_0010>・・・」
+<pause>
+<speed_FFFF>女の人
+「何か？」
+<pause>
+<Cless>
+「い、いい天気ですね・・・」{END}","<Cless>:<nl>
+ Hey, hey<speed_0010>...
+<pause>
+<speed_FFFF>Woman:<nl>
+ What?
+<pause>
+<Cless>:<nl>
+ N-Nice and sunny tod--{END}"
+"<unk1><Mint>
+<Cless>さんがナンパしてどうするんですか！」<wait>{END}","<unk1><Mint>:<nl>
+ <Cless>!
+ Why are you flirting with her!?<wait>{END}"
+"<Mint>
+「私が聞いてみることにします」{END}","<Mint>:<nl>
+ Let me handle this.{END}"
+"<Mint>
+「あの<speed_0010>・・・」
+<pause>
+<speed_FFFF><Mint>
+「もし何か悩みごとがあるなら、
+　話していただけませんか？」
+<pause>
+女の人
+「えっ？」<wait>{END}","<Mint>:<nl>
+ H-Hello there<speed_0010>...
+<pause>
+<speed_FFFF><Mint>:<nl>
+ You're not looking too well.
+ Would you tell me what's wrong?
+<pause>
+Woman:<nl>
+ Huh?<wait>{END}"
+"女の人
+「で、でも・・・」
+<pause>
+<Mint>
+「遠慮なさらずに、何でも話して
+　下さい」
+<pause>
+女の人
+「実は・・・」
+<pause>
+女の人
+「好きな人が<speed_0020>、<speed_FFFF>いるんです」<wait>{END}","Woman:<nl>
+ B-But...
+<pause>
+<Mint>:<nl>
+ Please don't be shy.
+ I want to help you.
+<pause>
+Woman:<nl>
+ To tell you the truth...
+<pause>
+Woman:<nl>
+ There's this person that I<speed_0020> um...<speed_FFFF>like.<wait>{END}"
+"<Mint>
+「やっぱり・・・」
+<pause>
+<Mint>
+「それで、そのお相手はどんな方
+　ですか？」
+<pause>
+女の人
+「今、武器屋に来てるエルウィン
+　という人なんです」
+<pause>
+<Mint>
+「武器屋ですね、わかりました」
+<pause>
+女の人
+「<speed_0010>・・・エルウィン」<speed_FFFF>{END}","<Mint>:<nl>
+ Just as I thought...
+<pause>
+<Mint>:<nl>
+ Would you tell me about him?
+<pause>
+Woman:<nl>
+ His name is Elwyn, and he's at the
+ weapon shop right now.
+<pause>
+<Mint>:<nl>
+ The weapon shop. Got it.
+ Just leave this to me, okay?
+<pause>
+Woman:<nl>
+ <speed_0010>...Elwyn.<speed_FFFF>{END}"
+"<Cless>
+「あの、あなたの名前を教えて
+　もらえませんか？」
+<pause>
+女の人
+「あ、ごめんなさい」
+<pause>
+女の人
+「私はナンシー、八百屋の娘よ」{END}","<Cless>:<nl>
+ We didn't catch your name,
+ ma'am...
+<pause>
+Woman:<nl>
+ Oh, that's right.
+ I'm sorry.
+<pause>
+Woman:<nl>
+ I'm Nancy, the daughter of this
+ village's greengrocer.{END}"
+"ナンシー
+「だめだったのね？」
+<pause>
+ナンシー
+「何となくわかってたわ」
+<pause>
+ナンシー
+「だって彼は社長の息子で、私は
+　八百屋の娘・・・」
+<pause>
+ナンシー
+「どう考えても釣り合わないわ」
+<pause>
+<Cless>
+「ナンシーさん・・・」
+<pause>
+ナンシー
+「ありがとう、もういいわ」
+<pause>
+ナンシー
+「大丈夫！平気だから・・・」{END}","Nancy:<nl>
+ It didn't work out, huh?
+<pause>
+Nancy:<nl>
+ Somehow I knew it.
+<pause>
+Nancy:<nl>
+ What with him being a big
+ businessman's son and me a lowly
+ greengrocer's daughter, and all...
+<pause>
+Nancy:<nl>
+ There's just no way it could
+ happen.
+<pause>
+<Cless>:<nl>
+ But--
+<pause>
+Nancy:<nl>
+ Thanks, but you've done enough.
+<pause>
+Nancy:<nl>
+ I'll be okay!
+ Please don't worry about me...{END}"
+"ナンシー
+「・・・・・・」{END}","Nancy:<nl>
+ ......{END}"
+"女の人
+「エルウィン・・・」{END}","Woman:<nl>
+ Elwyn...{END}"
+"ナンシー
+「エルウィン・・・」{END}","Nancy:<nl>
+ Elwyn...{END}"
+"旅芸人
+「はいはい〜、お代はこちら〜」
+<pause>
+<color_0002>いくら払いますか？
+<pause>
+<speed_0000>１。　　　１ガルド
+２。　　１０ガルド
+３。　１００ガルド
+４。１０００ガルド<color_0000><speed_FFFF>{END}","Performer:<nl>
+ Yes, yes!
+ All yer tips--give 'em heeeere!
+<pause>
+<color_0002>How much will you give?
+<pause>
+<speed_0000>1. 1 gald<nl>
+2. 10 gald<nl>
+3. 100 gald<nl>
+4. 1000 gald<color_0000><speed_FFFF>{END}"
+"旅芸人
+「これは、どうも」{END}","Performer:<nl>
+ Thanks!{END}"
+"旅芸人
+「ありがとう」
+<pause>
+旅芸人
+「ここから北東にはローンヴァレ
+　イという谷があるんだよ〜」
+<pause>
+旅芸人
+「何か怪しいとこなんだ〜」{END}","Performer:<nl>
+ Thanks!
+<pause>
+Performer:<nl>
+ There's a rrregion called Lone
+ Valleyyy to the northeast of
+ heeeere!
+<pause>
+Performer:<nl>
+ What a suspicious plaaaaace!{END}"
+"旅芸人
+「いや〜、気前いいね」
+<pause>
+旅芸人
+「今、この大陸ではユークリッド
+　共和国という国ができるかもし
+　れないよ〜」
+<pause>
+旅芸人
+「北のデロイノ族、南のメイルガ
+　ン族・・・」
+<pause>
+旅芸人
+「そしてユークリッド族の三部族
+　が話し合ってる最中なんだ〜」{END}","Performer:<nl>
+ Ohhh! How generous!
+<pause>
+Performer:<nl>
+ This continent may soooon become
+ a country called the Euclid Republic!
+<pause>
+Performer:<nl>
+ There's Deroino to the north,
+ Mailgan to the south...
+<pause>
+Performer:<nl>
+ ...aaand Euuuuclid! They're
+ discussinggg the proposal rrright
+ now!{END}"
+"旅芸人
+「いや〜、気前いいね」
+<pause>
+旅芸人
+「ダオスはミッドガルズと戦争を
+　しようとしているんだよ〜」
+<pause>
+旅芸人
+「果たしてどうなるんでしょうか
+　ね〜」{END}","Performer:<nl>
+ Ohhh, how generous!
+<pause>
+Performer:<nl>
+ Dhaos is going to warrr with
+ Midgarrrd!
+<pause>
+Performer:<nl>
+ I wonderrr what will happen!{END}"
+"旅芸人
+「ありがとうございます！」
+<pause>
+旅芸人
+「お客様は神様です！！」
+<pause>
+旅芸人
+「この世界のどこかに白馬がいる
+　んだよ〜」
+<pause>
+旅芸人
+「清らかな乙女としか会わないっ
+　ていうヘンな馬なんだ〜」{END}","Performer:<nl>
+ Thank you very much!
+<pause>
+Performer:<nl>
+ Oh, sweet patron, your charity is
+ divine!
+<pause>
+Performer:<nl>
+ Therrrre is a white horse
+ somewherrre in this worrrld!
+<pause>
+Performer:<nl>
+ It's a reaaaaaally strange one that
+ will only meeeeet with a purrrre
+ maidennnn!{END}"
+"旅芸人
+「ひやかしなら他でやってくれ」{END}","Performer:<nl>
+ Don't be such a tightwad.{END}"
+"旅芸人
+「金が足りないよ〜」{END}","Performer:<nl>
+ You don't have that much!{END}"
+"旅芸人
+「あ〜た〜しは、ヴァイオリニス
+　トよ〜タラリラ〜〜〜♪」
+<pause>
+のりのりに弾いている。{END}","Performer:<nl>
+ III aaam theee violiniiiist! Ta ra lee
+ raaaa <note>
+<pause>
+(She's playing energetically.){END}"
+"旅芸人
+「おいらのドラムを聞いて
+　おくれ〜おくれ〜♪」
+<pause>
+のりのりに叩いている。{END}","Performer:<nl>
+ III aaam theeee drummerrrrr!
+ Drrramatic drummerrrrr!
+ *boom-boom♪*
+<pause>
+(He's banging the drum
+energetically.){END}"
+"子供
+「見物人が少ないから、気の毒で
+　帰れないんだ」{END}","Child:<nl>
+ These guys are getting so little
+ attention they can't even afford
+ the trip back home.
+<pause>
+Child:<nl>
+ Are they really so bad?{END}"
+"<Cless>
+「何か見えますかー？」
+<pause>
+村の人
+「きれいな山脈が見えてるよ〜」{END}","<Cless>:<nl>
+ Hey, hey!
+ What are you checking out now?
+<pause>
+Villager:<nl>
+ The beauteous mountains,
+ my good man!{END}"
+"<Cless>
+「おーい、そんな所で、何してる
+　んですかー？」
+<pause>
+村の人
+「ここからだと遠くがよく見える
+　んだよ」
+<pause>
+<Cless>
+「どうやって、そこまで登ったん
+　ですかー？」
+<pause>
+村の人
+「内緒だよ〜っ」{END}","<Cless>:<nl>
+ Heeey!
+ What are you doing up there?
+<pause>
+Villager:<nl>
+ Soaking in the view!
+ I can see really far from up here.
+<pause>
+<Cless>:<nl>
+ How do you get up there, anyway?
+<pause>
+Villager:<nl>
+ Not telling!{END}"
+"<Cless>
+「<Mint>どうしたの？」<wait>{END}","<Cless>:<nl>
+ Something the matter, <Mint>?<wait>{END}"
+"<Mint>
+「彼女、病気にかかっています」
+<pause>
+<Cless>
+「えっ？」{END}","<Mint>:<nl>
+ That girl over there...<nl>
+ She's not feeling well.
+<pause>
+<Cless>:<nl>
+ Huh?
+ Really?{END}"
+"<Cless>
+「別に顔色も悪くないし・・・」<wait>{END}","<Cless>:<nl>
+ She looks fit as a fiddle to me...<wait>{END}"
+"<Mint>
+「違いますよ」<wait>{END}","<Mint>:<nl>
+ No, no...<nl>
+ That's not what I mean.<wait>{END}"
+"<unk1><Mint>
+<Cless>さん、わかりませんか？」<wait>{END}","<unk1><Mint>:<nl>
+ Can you not tell?<wait>{END}"
+"<Mint>
+「彼女は恋の病にかかっています」<wait>{END}","<Mint>:<nl>
+ The poor thing's suffering from
+ love sickness.<wait>{END}"
+"<Cless>
+「恋の病〜！？」<wait>{END}","<Cless>:<nl>
+ Wha!?
+ How can you tell?<wait>{END}"
+"<Mint>
+「あのうつろな瞳とほのかに漂う
+　切なさ・・・」
+<pause>
+<Mint>
+「何とかしてあげられないでしょ
+　うか？」
+<pause>
+{END}","<Mint>:<nl>
+ The vacant eyes, the
+ vague expression...<nl>
+ It's all on her face.
+<pause>
+<Mint>:<nl>
+ Can't we stop for a moment to
+ give her a hand?
+<pause>
+{END}"
+"<Cless>
+「おせっかいだと思うんだけど」<wait>{END}","<Cless>:<nl>
+ I really don't think it's any of our
+ business, bu--<wait>{END}"
+"<Mint>
+「<Cless>さん、何か？」
+<pause>
+<Cless>
+「いえ、別に<panic>」{END}","<Mint>:<nl>
+ I'm sorry, I didn't hear you.
+ Would you please speak up?
+<pause>
+<Cless>:<nl>
+ I-I was just talking to myself! <panic>{END}"

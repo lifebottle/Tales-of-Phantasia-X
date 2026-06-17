@@ -1,0 +1,260 @@
+<color_0002>It is now midnight.
+Set up camp here and rest for the
+remainder of the night?{END}
+
+Day <day>{END}
+
+Day 1{END}
+
+Valhalla Plains{END}
+
+<Cless>
+ The operation hasn't ended yet!
+<pause>
+<Cless>
+ They're depending on us!
+ If we leave now, we'll lose!{END}
+
+Leisen
+ We have little time to spare.
+<pause>
+Leisen
+ Execute the operation with all
+ haste!{END}
+
+Soldier
+ If you're tired, you can sleep in
+ this tent.
+<pause>
+<color_0002>Resting will cost you eight hours of
+time.
+<pause>
+<color_0002>Rest?<color_0000>{END}
+
+Soldier
+ I'm with the supply squad.
+<pause>
+Supply Unit
+ Need anything replenished?
+<pause>
+<color_0002>1. <item_7700>s
+2. <item_7800>s
+3. <item_8700>s
+4. <item_8800>s{END}
+
+<color_0002>Acquired a full supply of <item_7700>s.<color_0000>{END}
+
+<color_0002>Acquired a full supply of Orange
+Gels.<color_0000>{END}
+
+<color_0002>Acquired a full supply of Panacea
+Bottles.<color_0000>{END}
+
+<color_0002>Acquired a full supply of Life
+Bottles.<color_0000>{END}
+
+<color_0000>Supply Unit
+ Come back anytime.{END}
+
+<var_8201>
+ Focus your mind and you shall feel
+ warmth amidst the most brutal of
+ blizzards.{END}
+
+<var_8201>
+ Fancy meeting another swordsman
+ in these plains...
+<pause>
+<var_8201>
+ Could I interest you in this arcane
+ arte book?
+<pause>
+<Cless>
+ Oh!? Tell me more...
+<pause>
+<var_8201>
+ It was a gift.
+ But an arte of a foreign
+ school, I need not.
+<pause>
+<var_8201>
+ I only walk along my own path!!
+<pause>
+<var_8201>
+ Now, does 50000 gald sound fair to
+ you?
+<pause>
+<color_0002>Buy it?<color_0000>{END}
+
+<var_8201>
+ The Way of the Sword is difficult.
+<pause>
+<var_8201>
+ The Way of the Merchant is also
+ difficult...{END}
+
+<var_8201>
+ You are short of coin!{END}
+
+<color_0002><Cless> learned
+<var_9E00>.<color_0000>
+<pause>
+<var_8201>
+ You have my gratitude.{END}
+
+Leisen
+ Before commencing the operation, I
+ have His Majesty's words of
+ encouragement to convey.
+<pause>
+Leisen
+ “Thou art the vanguard in the
+ battle against Dhaos; the heroes
+ bearing the fate of this great war
+ on your shoulders.”
+<pause>
+Leisen
+ He asks that each and every one of
+ you contribute to Midgard's victory
+ by accomplishing your missions
+ diligently.
+<pause>
+Leisen
+ Furthermore, the one who puts
+ forth the greatest effort in this
+ mission shall be properly rewarded.
+<pause>
+{END}
+
+Commander Threeson
+ What kind of reward?
+<pause>
+{END}
+
+Commander Ones
+ Sounds like it depends on how well
+ we fight whatever Dhaos throws
+ at us.
+<pause>
+{END}
+
+Leisen
+ Good luck and godspeed in this
+ battle for our kingdom's destiny.
+<pause>
+Leisen
+ Now, commence the operation!{END}
+
+<color_0002>Your mission is to search the
+Valhalla Plains and dispatch the
+enemy forces.
+<pause>
+Unlike previous encounters, battles
+here are not random. You will enter
+battle only when you make contact
+with a visible enemy unit.
+<pause>
+Your final objective is to locate and
+defeat the commander.
+<pause>
+Execute your mission with all haste.<color_0000>{END}
+
+???
+ Mwahahahah!
+<pause>
+???
+ You have done well to make it this
+ far.
+<pause>
+???
+ I praise you.
+<pause>
+???
+ I am Ishrantu, commander of
+ Dhaos' army.
+<pause>
+Ishrantu
+ I sincerely hope that your
+ extensive sojourn through these
+ plains has been pleasant...
+<pause>
+Ishrantu
+ ...as they shall become your
+ graveyard!{END}
+
+<Cless>
+ We won!
+ The enemy should be stalled
+ for the time being.
+<pause>
+<Klarth>
+ Yeah.
+ King Midgard awaits our report.{END}
+
+<Klarth>
+ Are you all right!?
+<pause>
+Commander Twosam
+ He's a tough one!
+ Don't put your guard down!
+<pause>
+???
+ Mwahahahahah, I'm impressed such
+ small fry could make it this far!
+<pause>
+???
+ I am Ishrantu, commander of
+ Dhaos' army.
+<pause>
+Ishrantu
+ Now that I'm finished with those
+ weaklings, I shall end your
+ meaningless resistance!!{END}
+
+<Cless>
+ Are you all okay?
+<pause>
+Commander Twosam
+ Thanks to your efforts, we're fine.
+<pause>
+Commander Twosam
+ Your performance was splendid.
+ You have my utmost gratitude.
+<pause>
+<Cless>
+ This should disrupt the enemy's
+ advance for now...
+<pause>
+<Klarth>
+ Yeah.
+ Let's return to Midgard
+ and report to the king.{END}
+
+Commander Ones
+ You're too late.
+ We have already slain
+ the enemy commander!
+<pause>
+Commander Ones
+ Sorry, but we've pretty much
+ cleaned house here already.
+<pause>
+<Klarth>
+ Hmm...
+ So much for the reward.{END}
+
+Watcher
+ The area ahead is under the
+ influence of Dhaos and is too
+ dangerous for civilians.
+<pause>
+Watcher
+ You may not pass.{END}
+
+<unk1>Soldier
+ I am sorry, Sir <Cless>, but I
+ must insist you return to Midgard.
+<pause>
+Soldier
+ His Majesty awaits you.{END}
+

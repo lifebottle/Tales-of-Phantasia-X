@@ -1,0 +1,790 @@
+Eroded Grotto{END}
+
+<color_0002>Flip the lever?<color_0000>{END}
+
+<color_0002>Push the switch?<color_0000>{END}
+
+<Cless>:<nl>
+ This...
+<pause>
+<Cless>:<nl>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C000>.<color_0000>{END}
+
+<Cless>:<nl>
+ But I don't have any use for it...
+<pause>
+<Cless>:<nl>
+ I'll put it back...{END}
+
+<Cless>:<nl>
+ This...
+<pause>
+<Cless>:<nl>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C400>.<color_0000>{END}
+
+<Cless>:<nl>
+ But I don't have any use for it...
+<pause>
+<Cless>:<nl>
+ I'll put it back...{END}
+
+<audio_0BBB>???:<nl>
+ “Who is there!?”
+<pause>
+<audio_0BBC>???:<nl>
+ “Who disturbs my rest!?”{END}
+
+<audio_0BBD><Cless>:<nl>
+ Wh-Who are you!?{END}
+
+<audio_0BBE>Undine:<nl>
+ Filthy hounds!!{END}
+
+<audio_0BBF>Undine:<nl>
+ I-I beg your forgiveness...
+<pause>
+<audio_0BC0>Undine:<nl>
+ What do you desire in
+ compensation?
+<pause>
+<audio_0BC1><Klarth>:<nl>
+ A summoning pact with you.
+<pause>
+<audio_0BC2>Undine:<nl>
+ Then it shall be done...
+<pause>
+<audio_0BC3>Undine:<nl>
+ Present the Aquamarine Ring and
+ begin the ritual.{END}
+
+<audio_0BC4><Klarth>:<nl>
+ Here and now, I offer my request
+ to the Spirit of Water.
+<pause>
+<audio_0BC5><Klarth>:<nl>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<audio_0BC6><Klarth>:<nl>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon Undine.<color_0000>{END}
+
+<Cless>:<nl>
+ Hmm...<nl>
+ I can't open it...{END}
+
+<Chester>:<nl>
+ Hey, uh...<nl>
+ What'd we come here for?
+<pause>
+<Cless>:<nl>
+ Well, I thought we might find
+ something here.
+<pause>
+<Klarth>:<nl>
+ Yeah. Back in my era, I made a
+ pact with Undine here. There could
+ still be some things of use laying
+ around.
+<pause>
+<Chester>:<nl>
+ Undine's hangout, huh?
+<pause>
+<Chester>:<nl>
+ What kind of place is it?
+<pause>
+{END}
+
+<Arche>:<nl>
+ Are you stupid, or something!?
+<pause>
+{END}
+
+<Arche>:<nl>
+ It's a garotto!
+ G-A-R-O-T-T-O!
+<pause>
+{END}
+
+<Klarth>:<nl>
+ Hmm?
+<pause>
+{END}
+
+<Klarth>:<nl>
+ Did you just say GA-rotto?
+ I think you're confused.
+<pause>
+{END}
+
+<Arche>:<nl>
+ UGH!
+ Okay, grotto, whatever.
+<pause>
+{END}
+
+<Arche>:<nl>
+ Whenever I talk about grottos, for
+ some reason I start getting these
+ violent thoughts, like I just want
+ to, I dunno, strangle someone.
+<pause>
+{END}
+
+<Mint>:<nl>
+ ???
+<pause>
+<Cless>:<nl>
+ (Okay...<nl>
+ I think we need to keep
+ an eye on <Arche>.)
+<pause>
+{END}
+
+<Arche>:<nl>
+ Aww, c'mon guys!
+ Don't look at me like that!
+<pause>
+{END}
+
+<Arche>:<nl>
+ I know! How about I make
+ something SPECIAL for you all to
+ make up for freaking you out?
+ Let's stop here for some lunch!{END}
+
+<Cless>:<nl>
+ Uh, sure.
+ I guess that would be a
+ nice change of pace.
+<pause>
+{END}
+
+<Arche>:<nl>
+ Yaaay <heart>{END}
+
+<Cless>:<nl>
+ Hmm...<nl>
+ On second thought, I'm not sure
+ I trust you around the food.
+<pause>
+{END}
+
+<Arche>:<nl>
+ Awww, boo!{END}
+
+<Arche>:<nl>
+ Melons, melons...<nl>
+ Won't someone please
+ pass the melons?
+ Or did you guys eat them all?
+<pause>
+{END}
+
+<Arche>:<nl>
+ You know, I just looooove melons!
+<pause>
+{END}
+
+<Arche>:<nl>
+ Oh, and melon bread too <heart>
+<pause>
+{END}
+
+<Chester>:<nl>
+ I've heard of banana bread and
+ raisin bread, but...melon bread?
+ How the heck does that even
+ work...?
+<pause>
+{END}
+
+<Arche>:<nl>
+ Ta-daa!
+<pause>
+<Arche>:<nl>
+ Today, I present to you...<nl>
+ <Arche>'s Masterpiece!
+<pause>
+{END}
+
+<color_0002>Learned the recipe for <Arche>'s
+Masterpiece!<color_0000>
+<pause>
+{END}
+
+<Cless>:<nl>
+ Mmm, mmm, mmm!
+ Smells great!
+<pause>
+{END}
+
+<Chester>:<nl>
+ Hey, uh...
+<pause>
+{END}
+
+<Chester>:<nl>
+ You didn't mix anything that
+ might kill us into this, did you?
+ Y'know, violent thoughts, and all.
+<pause>
+{END}
+
+<Arche>:<nl>
+ I never said you HAD to eat it!
+<pause>
+<Klarth>:<nl>
+ Now, now, children...
+<pause>
+{END}
+
+<Klarth>:<nl>
+ Let's not be disrespectful
+ to our chef, shall we?
+ Let's give it a try.{END}
+
+*munch* *munch*
+
+<pause>
+<Cless>:<nl>
+ Oogh!
+<pause>
+{END}
+
+<Klarth>:<nl>
+ Hooo!
+<pause>
+{END}
+
+<Chester>:<nl>
+ BLEEEEEECHHH!!{END}
+
+<Arche>:<nl>
+ Huhhh?
+<pause>
+{END}
+
+<unk1><Arche>:<nl>
+ Uhhh, <Mint>...?
+ What's wrong with the guys!?
+<pause>
+{END}
+
+<Mint>:<nl>
+ ......
+<pause>
+{END}
+
+<unk1><Cless>:<nl>
+ <Mint>!
+ Stop eating that!
+<pause>
+{END}
+
+<Cless>:<nl>
+ You look like you're going to faint!
+<pause>
+{END}
+
+<color_0002>You burned the recipe for
+<Arche>'s Masterpiece.<color_0000>
+<pause>
+{END}
+
+<Cless>:<nl>
+ <Arche>!
+<pause>
+{END}
+
+<Cless>:<nl>
+ Did you taste test that stuff at all
+ while you were making it?
+<pause>
+{END}
+
+<Arche>:<nl>
+ Y-You mean people actually do that
+ kinda thing? <panic>{END}
+
+<Arche>:<nl>
+ *munch* *munch*
+<pause>
+<Arche>:<nl>
+ AGHHHHHHH!!!
+<pause>
+{END}
+
+<Arche>:<nl>
+ What...*what* *have* *I* *done*!?
+<pause>
+{END}
+
+<Cless>:<nl>
+ You tell *us*...
+<pause>
+{END}
+
+<Chester>:<nl>
+ Muuuugh...!
+<pause>
+{END}
+
+<Chester>:<nl>
+ Hey, <Arche>!
+<pause>
+{END}
+
+<Chester>:<nl>
+ This rubbish ain't fit for humans!
+ Even pigs wouldn't eat this crap!
+<pause>
+<Chester>:<nl>
+ You're the Worst. Chef. Ever.,
+ you hear me!?
+<pause>
+{END}
+
+<color_0002><Arche> has earned the
+disgraceful title “<var_AD01>”<color_0000>{END}
+
+<Arche>:<nl>
+ H-Hmph!
+ I'll turn over this disgraceful title in
+ no time flat!
+<pause>
+{END}
+
+<Klarth>:<nl>
+ Oh, and after all the effort we
+ took to “serve it up” for you?
+<pause>
+{END}
+
+<Klarth>:<nl>
+ ...What, you didn't like that?
+<pause>
+{END}
+
+<Arche>:<nl>
+ You're not allowed to make any
+ more jokes, mister.{END}
+
+<Chester>:<nl>
+ Hey, uh...<nl>
+ What'd we come here for?
+<pause>
+<Cless>:<nl>
+ Well, I thought we might find
+ something here.
+<pause>
+{END}
+
+<Klarth>:<nl>
+ I need to wipe the memory of this horrible cooking from my mind...
+<pause>
+{END}
+
+<Chester>:<nl>
+ No kidding...
+<pause>
+{END}
+
+<Arche>:<nl>
+ What the heck!?
+<pause>
+{END}
+
+<Arche>:<nl>
+ Are you stupid, or something!?
+<pause>
+{END}
+
+<Arche>:<nl>
+ Geez... I'm gonna get good at cooking, you'll see!
+<pause>
+{END}
+
+<Klarth>:<nl>
+ All this talk of cooking is making me hungry.
+<pause>
+{END}
+
+<Chester>:<nl>
+I don't want to repeat that
+mistake again.
+<pause>
+{END}
+
+<Arche>:<nl>
+Bah!
+<pause>
+<Arche>:<nl>
+I won't cook for you, then.
+Not even if you beg!
+<pause>
+<Klarth>:<nl>
+Come on, don't bicker over
+something silly like this...
+<pause>
+<Klarth>:<nl>
+Good grief...
+<pause>
+{END}
+
+<Cless>:<nl>
+But you know,
+I am kinda hungry...
+<pause>
+{END}
+
+<Mint>:<nl>
+Well, I could cook this time,
+would that be all right?
+<pause>
+{END}
+
+<Klarth>:<nl>
+Sounds great to me~.{END}
+
+<Klarth>:<nl>
+So what do you say, <Cless>?
+<pause>
+{END}
+
+<Klarth>:<nl>
+Shall we eat here?{END}
+
+<Cless>:<nl>
+Sounds good.
+<pause>
+{END}
+
+<Arche>:<nl>
+Woohoo! <heart> It's a picnic! ♪
+<pause>
+{END}
+
+<Mint>:<nl>
+All right, I'll get right to work
+and cook something up.{END}
+
+<Cless>:<nl>
+No, let's hurry on ahead.
+<pause>
+{END}
+
+<Klarth>:<nl>
+Yeah... I guess we should hurry.
+<pause>
+<Chester>:<nl>
+I agree, this place has nothing
+but bad memories.
+<pause>
+<Arche>:<nl>
+Hmph!{END}
+
+<Mint>:<nl>
+Here it is.
+<pause>
+<Klarth>:<nl>
+Hey!
+<pause>
+<Klarth>:<nl>
+That smells great.
+<pause>
+<Chester>:<nl>
+Yeah, but remember what
+happened the last time
+we said that.
+<pause>
+<Arche>:<nl>
+Okay, I get the hint.
+<pause>
+<Arche>:<nl>
+But enough about that.
+Let's dig in. <heart>
+<pause>
+<Cless>:<nl>
+Yeah.{END}
+
+<Cless>:<nl>
+This is amazing!
+<pause>
+<Klarth>:<nl>
+Let's see...{END}
+
+<Klarth>:<nl>
+Wow! Fantastic!
+<pause>
+<Klarth>:<nl>
+You've really outdone yourself
+this time, <Mint>.
+<pause>
+<Chester>:<nl>
+I could eat a million of these.
+<pause>
+<Cless>:<nl>
+Well done, <Mint>!
+<pause>
+{END}
+
+<Mint>:<nl>
+Oh, stop it...{END}
+
+<Mint>:<nl>
+There's plenty more.
+Have as many as you like.{END}
+
+<Cless>:<nl>
+Hm?
+<pause>
+<Cless>:<nl>
+<Arche>...?
+<pause>
+<Cless>:<nl>
+Something wrong?{END}
+
+<Arche>:<nl>
+Huh?
+<pause>
+<Arche>:<nl>
+Oh, it's nothing...{END}
+
+<Klarth>:<nl>
+What's the matter?
+<pause>
+<Klarth>:<nl>
+You haven't even taken a bite.
+<pause>
+<Chester>:<nl>
+It's great, unlike the stuff you
+made.{END}
+
+<Arche>:<nl>
+I know! You don't have to rub it in!{END}
+
+<Arche>:<nl>
+It doesn't matter anyway...{END}
+
+<Mint>:<nl>
+Oh!
+<pause>
+<Cless>:<nl>
+Hm? Something wrong?
+<pause>
+<Mint>:<nl>
+There was one other dish I
+wanted to make, but I forgot.
+<pause>
+{END}
+
+<Mint>:<nl>
+<Arche>...
+<pause>
+<Mint>:<nl>
+Would you mind giving me
+a hand?
+<pause>
+{END}
+
+<Arche>:<nl>
+Huh...?{END}
+
+<Chester>:<nl>
+I wouldn't do that if I were you.
+<pause>
+{END}
+
+<Chester>:<nl>
+Keep her away from the kitchen!
+She's a disaster waiting to happen!
+<pause>
+<Klarth>:<nl>
+<Mint>...
+<pause>
+<Klarth>:<nl>
+You don't need to go through all
+the trouble just for us.
+<pause>
+{END}
+
+<Mint>:<nl>
+Well, <Arche>.
+<pause>
+<Mint>:<nl>
+How 'bout it?{END}
+
+<Arche>:<nl>
+...Okay! <heart>{END}
+
+<Chester>:<nl>
+Uh-oh...
+<pause>
+{END}
+
+<Klarth>:<nl>
+Better brace yourselves...
+<pause>
+{END}
+
+<Cless>:<nl>
+That's not very nice.{END}
+
+
+
+　　　　　15 minutes later...
+<pause>
+{END}
+
+<Arche>:<nl>
+Here you go! <heart>{END}
+
+<Mint>:<nl>
+Something the matter?
+<pause>
+<Cless>:<nl>
+Huh? Uh, no.
+I was just about to take a bite.
+<pause>
+<Mint>:<nl>
+<Arche> practically made it
+by herself.
+<pause>
+{END}
+
+<Cless>:<nl>
+Oh, really?{END}
+
+<Klarth>:<nl>
+(Choke it down, <Cless>!)
+<pause>
+<Chester>:<nl>
+(Hang in there, buddy!)
+<pause>
+<Cless>:<nl>
+...{END}
+
+<Cless>:<nl>
+Here goes...!{END}
+
+<Cless>:<nl>
+It's delicious!{END}
+
+<Arche>:<nl>
+Really? <heart>
+<pause>
+{END}
+
+<Mint>:<nl>
+I'm so happy you like it.
+<pause>
+<Chester>:<nl>
+You're joking, right?
+<pause>
+<Klarth>:<nl>
+Let's see...{END}
+
+<Klarth>:<nl>
+Huh, it really is good.{END}
+
+<Arche>:<nl>
+I did it!!!
+<pause>
+<Chester>:<nl>
+Okay, lemme try.{END}
+
+<Chester>:<nl>
+This...isn't half bad<speed_0010>...<speed_00FF>
+<pause>
+<Arche>:<nl>
+See!
+<pause>
+<Arche>:<nl>
+I really can cook!!!
+<pause>
+<Chester>:<nl>
+Yeah, but...
+<pause>
+<Chester>:<nl>
+I bet <Mint> was the one that
+REALLY made it.
+<pause>
+<Mint>:<nl>
+That's not true.
+<pause>
+<Mint>:<nl>
+All I did was give her a few
+pointers.
+<pause>
+{END}
+
+<Arche>:<nl>
+Right. <heart>
+<pause>
+<Mint>:<nl>
+Mm-hm.
+<pause>
+{END}
+
+<Chester>:<nl>
+No way!
+<pause>
+<Chester>:<nl>
+I don't buy it.
+<pause>
+<Mint>:<nl>
+I already told you--
+<pause>
+<Chester>:<nl>
+Nope...
+<pause>
+<Chester>:<nl>
+It's only because you taught her
+so well<speed_0010>...<speed_00FF>
+<pause>
+<Chester>:<nl>
+That's the only
+logical explanation!
+<pause>
+<Klarth>:<nl>
+He has a good point there<speed_0010>...<speed_00FF>
+<pause>
+<Klarth>:<nl>
+It's amazing how far
+“a few pointers”
+can go.
+<pause>
+<Arche>:<nl>
+What's up with you guys!?
+<pause>
+{END}
+
+<Cless>:<nl>
+You're really something, <Mint>.
+<pause>
+<Mint>:<nl>
+Oh, stop it...
+<pause>
+{END}
+
+<Chester>:<nl>
+Good job, <Mint>.
+<pause>
+<Klarth>:<nl>
+Yeah, another winner.
+<pause>
+<Arche>:<nl>
+Hey! This isn't fair!{END}
+
+<Arche>:<nl>
+Come on~!{END}
+
+<color_0002><Mint> has earned the title
+“<var_9F01>.”<color_0000>{END}
+

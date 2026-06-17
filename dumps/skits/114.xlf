@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_525">
+        <source>My, that was a wonderfully
+soothing tune he played.</source>
+        <target state="translated">My, that was a wonderfully
+soothing tune he played.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_526">
+        <source>Wasn't it? Performances that
+good only come once in a blue moon.</source>
+        <target state="translated">Wasn't it? Performances that
+good only come once in a blue moon.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_527">
+        <source>He mentioned that his
+ancestors were even better...</source>
+        <target state="translated">He mentioned that his
+ancestors were even better...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_528">
+        <source>Oh, I'd love to hear them play.</source>
+        <target state="translated">Oh, I'd love to hear them play.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_529">
+        <source>Well, guess what I intend to do when I go home?</source>
+        <target state="translated">Well, guess what I intend to do when I go home?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_530">
+        <source>Hey, don't tease us!</source>
+        <target state="translated">Hey, don't tease us!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_531">
+        <source>Not my fault you weren't
+born in the good old days!</source>
+        <target state="translated">Not my fault you weren't
+born in the good old days!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

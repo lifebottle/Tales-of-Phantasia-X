@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_615">
+        <source>Well, that was a crushing blow to our reputation.</source>
+        <target state="translated">Well, that was a crushing blow to our reputation.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_616">
+        <source>How can we show our faces back at Midgard?</source>
+        <target state="translated">How can we show our faces back at Midgard?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_617">
+        <source>Please let me just crawl under a rock and die.</source>
+        <target state="translated">Please let me just crawl under a rock and die.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_618">
+        <source>I can give you a head start
+by digging a hole with a spell!</source>
+        <target state="translated">I can give you a head start
+by digging a hole with a spell!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_619">
+        <source>Uh, I didn't mean that literally...</source>
+        <target state="translated">Uh, I didn't mean that literally...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,378 @@
+Zodiac Tower (<num5_C00040A0>F){END}
+
+“I desire a song of melancholy,
+sung by one not human.”{END}
+
+“I desire a song of happiness,
+sung by one not human.”{END}
+
+“I desire a song of serenity,
+sung by one not human.”{END}
+
+“I desire a song of valor,
+sung by one not human.”{END}
+
+<Arche>:<nl>
+ Doesn't this design kinda reminds
+ you guys of the constellations?<wait>{END}
+
+<Arche>:<nl>
+ Oh, hey!
+ It says here in Elven that “Those
+ not in possession of the moon
+ fragment shall be deprived of
+ entry.”<wait>{END}
+
+<Cless>:<nl>
+ Huh!?
+<pause>
+<Cless>:<nl>
+ You mean we need to fly to one of
+ the moons now!?<wait>{END}
+
+<Arche>:<nl>
+ ......<wait>{END}
+
+<Arche>:<nl>
+ No, you silly billy.
+ It just means we'll have
+ to come back later.<wait>{END}
+
+<Cless>:<nl>
+ Oh...{END}
+
+<Cless>:<nl>
+ It seems to be sealed by some kind
+ of power.{END}
+
+<color_0002>Flip the switch?<color_0000>{END}
+
+<Cless>:<nl>
+ Nothing's happening.{END}
+
+<audio_0D5C><Cless>:<nl>
+ Is she...
+<pause>
+<audio_0D5D><Cless>:<nl>
+ ...a spirit?<wait>{END}
+
+<audio_1B32>???:<nl>
+ I am the Spirit of the Moon.
+ My name is Luna.
+<pause>
+<audio_1B33>Luna:<nl>
+ Artemis has caused you all some
+ undue trouble, has he not?
+<pause>
+<audio_1B34><Cless>:<nl>
+ The crest he took is very important
+ to us.
+<pause>
+<audio_1B35>Luna:<nl>
+ You may have it back.{END}
+
+<color_0002>The Royal Crest of Alvanista was
+returned.<color_0000>{END}
+
+<audio_1B36><Cless>:<nl>
+ Thank you.
+<pause>
+<audio_1B37>Luna:<nl>
+ I sincerely apologize that this
+ happened, but I hope you can
+ forgive Artemis.
+<pause>
+<audio_1B38>Luna:<nl>
+ He enjoys putting on mischievous
+ acts, but he actually has a heart of
+ gold.
+<pause>
+<audio_1B39><Cless>:<nl>
+ You returned our crest.
+<pause>
+<audio_1B3A><Cless>:<nl>
+ I have no reason to hold a grudge
+ against him anymore.
+<pause>
+<audio_1B3B>Luna:<nl>
+ Thank you very much.<wait>{END}
+
+<audio_0D5E>???:<nl>
+ I am Luna, Spirit of the Moon.
+<pause>
+<audio_0D5F>Luna:<nl>
+ Do you have some business with
+ me?<wait>{END}
+
+<audio_0D60><Klarth>:<nl>
+ I seek a summoning pact with you.
+<pause>
+<audio_0D61><Klarth>:<nl>
+ Your power is of chief importance
+ in our journey to overthrow Dhaos
+ and re-establish peace unto the
+ world.
+<pause>
+<audio_0D62>Luna:<nl>
+ ......
+<pause>
+<audio_0D63><Klarth>:<nl>
+ We can prove our worth if you
+ wish.
+<pause>
+<audio_0D64>Luna:<nl>
+ No. I have no desire to fight,
+ regardless of opponent.
+<pause>
+<audio_0D65>Luna:<nl>
+ However, for the sake of the
+ world...
+<pause>
+<audio_0D66>Luna:<nl>
+ I shall aid you without hesitation.
+<pause>
+<audio_0D67><Klarth>:<nl>
+ Really!?
+ You honor us.
+<pause>
+<audio_0D68><Cless>:<nl>
+ Thank you for your understanding,
+ Luna.
+<pause>
+<audio_0D69><Klarth>:<nl>
+ Now, let's ready ourselves for the
+ pact.
+<pause>
+<audio_0D6A><Klarth>:<nl>
+ <Cless>, and everyone
+ else, stand back.
+<pause>
+<audio_0D6B>Luna:<nl>
+ Artemis, you can hear me, yes?
+<pause>
+<audio_0D6C>Luna:<nl>
+ I must go with them.
+<pause>
+<audio_0D6D>Luna:<nl>
+ I know being alone must be
+ difficult, but do not falter...
+<pause>
+<audio_0D6E>Luna:<nl>
+ Now, bring the Moonstone Ring
+ forward...{END}
+
+<audio_0D6F><Klarth>:<nl>
+ Here and now, I offer my request
+ to the Spirit of the Moon.
+<pause>
+<audio_0D70><Klarth>:<nl>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<audio_0D71><Klarth>:<nl>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon Luna.<color_0000>{END}
+
+???:<nl>
+ HEEEY!!!
+ Who're YOU!?<wait>{END}
+
+<audio_0D34>???:<nl>
+ The room just up these stairs
+ belongs to my big sister, Luna!!!
+<pause>
+<audio_0D35>???:<nl>
+ You can't just waltz in there
+ anytime you like!!{END}
+
+<audio_1747>Artemis:<nl>
+ What, you people again?<wait>{END}
+
+<audio_1748><Klarth>:<nl>
+ Would you please let us pass?
+<pause>
+<audio_1749><Klarth>:<nl>
+ We have important business with
+ Luna.<wait>{END}
+
+<audio_153E><Cless>:<nl>
+ Wh-What the?
+<pause>
+<audio_174A>???:<nl>
+ Oh, it's you guys, huh?
+<pause>
+<audio_174B><Arche>:<nl>
+ Hey, it's that bug freak we met in
+ Midgard!
+<pause>
+<audio_174C>???:<nl>
+ I am not a bug, dammit!!<wait>{END}
+
+<audio_0D36><Cless>:<nl>
+ Wh-What the?<wait>{END}
+
+<audio_0D37>???:<nl>
+ I'm Luna's attendant, the faerie
+ Artemis!
+<pause>
+<audio_0D38><Klarth>:<nl>
+ Y-You're a faerie!?
+<pause>
+<audio_0D39><Mint>:<nl>
+ I thought they existed only in
+ legends.
+<pause>
+<audio_0D3A><Klarth>:<nl>
+ Faeries are ancient beings with
+ incredible lifespans.
+<pause>
+<audio_0D3B><Klarth>:<nl>
+ They were said to have gone
+ extinct during the war that
+ ended the Age of Antiquity.
+ To think some have survived!
+<pause>
+<audio_0D3C>Artemis:<nl>
+ Hmph!
+<pause>
+<audio_0D3D>Artemis:<nl>
+ Whaddya take me for!?
+ Only a blockhead would croak
+ from something as puny as that!
+<pause>
+<audio_0D3E>Artemis:<nl>
+ But that doesn't matter!
+ There's no way I'm letting
+ you through.
+<pause>
+<audio_0D3F><Klarth>:<nl>
+ Th-This is important!
+ Surely there's something we can do
+ to make you change your mind...<wait>{END}
+
+<audio_174D>Artemis:<nl>
+ Hmmm, well then...<nl>
+ You know, I've really got a
+ thing for the...heh, “energetic”
+ type of girl.
+<pause>
+<audio_174E>Artemis:<nl>
+ Bring one here, and I'll let you
+ pass.
+<pause>
+<audio_174F>Artemis:<nl>
+ So long!{END}
+
+<audio_1750><Klarth>:<nl>
+ Damn little brat!{END}
+
+<audio_0D72>Artemis:<nl>
+ Sis...{END}
+
+<audio_0D40>Artemis:<nl>
+ Hmm, maybe...<wait>{END}
+
+<audio_0D41>Artemis:<nl>
+ Well, if someone smooches that
+ pink-haired cutie, then I'll...think
+ about it.<wait>{END}
+
+<audio_0D42>Artemis:<nl>
+ And if I get to do it, all the better!<wait>{END}
+
+<audio_0D43><Arche>:<nl>
+ You talkin' about me?{END}
+
+<audio_0D44><Cless>:<nl>
+ Uh, <Arche>?
+<pause>
+<audio_0D45><Cless>:<nl>
+ Y-You're not seriously
+ thinking of...! <panic><wait>{END}
+
+<audio_0D46><Arche>:<nl>
+ Aw, don't be bashful now <heart>
+ It's to meet Luna, right?
+ So, man up <heart>
+<pause>
+<audio_0D47><Cless>:<nl>
+ B-But...! <panic><wait>{END}
+
+<audio_0D48><Arche>:<nl>
+ Argh, c'mon! You don't have to act
+ like it's such a big deal. You're not
+ twelve anymore, you know!<wait>{END}
+
+<audio_0D49><Cless>:<nl>
+ Th-That's not the problem! <panic><wait>{END}
+
+<audio_0D4A><Arche>:<nl>
+ Oh, just shut up and do it!
+ Here I come! <heart>{END}
+
+<Mint>:<nl>
+ No! Stop!<wait>{END}
+
+<audio_0D4C><Arche>:<nl>
+ But why?<wait>{END}
+
+<audio_0D4D><Mint>:<nl>
+ A kiss...
+<pause>
+<audio_0D4E><Mint>:<nl>
+ ...is not something to treat so
+ lightly!<wait>{END}
+
+<audio_0D4F><Arche>:<nl>
+ Well, being a prude right now isn't
+ gonna get us any closer to Luna.<wait>{END}
+
+<audio_0D50><Mint>:<nl>
+ Y-You mustn't, no matter the
+ reason!{END}
+
+???:<nl>
+ Artemis, cease your childish pranks.<wait>{END}
+
+<audio_0D52>Artemis:<nl>
+ Feh...<nl>
+ Okayyyyy...
+<pause>
+<audio_0D53><Klarth>:<nl>
+ Wh-Who's that?
+<pause>
+<audio_0D54>???:<nl>
+ Artemis, will you please give them
+ that old spell book?<wait>{END}
+
+<audio_0D55>Artemis:<nl>
+ You're a mage, aren't you, Sis?
+<pause>
+<audio_0D56>Artemis:<nl>
+ Here, have this.
+<pause>
+<audio_0D57><Arche>:<nl>
+ Aww, a present for me?<wait>{END}
+
+<color_0002><Arche> learned <var_CA00>.<color_0000>
+<pause>
+<audio_0D58>Artemis:<nl>
+ Sis is waiting in the room above us.
+<pause>
+<audio_0D59>Artemis:<nl>
+ Sorry, I've gotta go.
+ Bye-bye...{END}
+
+<audio_0D5A><Arche>:<nl>
+ He sounded kinda lonely...
+<pause>
+<audio_0D5B><Klarth>:<nl>
+ Not an unreasonable suspicion if
+ he's the lone survivor of his race.{END}
+
+<Cless>:<nl>
+ This is a ninja arte scroll.<wait>{END}
+
+<color_0002><Suzu> learned <var_B400>.<color_0000>{END}
+

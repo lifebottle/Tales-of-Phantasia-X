@@ -1,0 +1,654 @@
+God Bear Mark 2{END}
+
+Summon Demon{END}
+
+Giant Bee{END}
+
+Bugbear{END}
+
+Owl{END}
+
+Boar{END}
+
+Piglet{END}
+
+Slime{END}
+
+Giant Slug{END}
+
+Giant Leech{END}
+
+Clay Demon{END}
+
+Dingo{END}
+
+Skeleton{END}
+
+Triple Slash{END}
+
+Double Slash{END}
+
+Ghoul{END}
+
+Golem{END}
+
+Machinegun Knuckle{END}
+
+Machinegun Knuckle{END}
+
+Living Dead{END}
+
+Anaconda{END}
+
+Bogle{END}
+
+Hornet{END}
+
+Jackal{END}
+
+Harpy{END}
+
+Blue Sylph{END}
+
+Wight{END}
+
+Hellmaster{END}
+
+Summon Demon{END}
+
+Bone Knight{END}
+
+Triple Slash{END}
+
+Double Slash{END}
+
+Giant Frog{END}
+
+Demeter{END}
+
+Summon Demon{END}
+
+Hell Gem{END}
+
+Hell Gem{END}
+
+Arch Knight{END}
+
+Mayer{END}
+
+Cleave{END}
+
+Cleave{END}
+
+Jahmir{END}
+
+Summon Demon{END}
+
+Killer Owl{END}
+
+Ogre{END}
+
+Giant Toad{END}
+
+Giant Bat{END}
+
+Caveman{END}
+
+Winged Devil{END}
+
+Bleeb{END}
+
+Black Bat{END}
+
+Bodach{END}
+
+Lizard Fly{END}
+
+Desert King{END}
+
+Azar{END}
+
+Efreet{END}
+
+Flame Wave{END}
+
+Desert Fly{END}
+
+Gnomelette{END}
+
+Gnome{END}
+
+Squid{END}
+
+Peepit{END}
+
+Sea Slug{END}
+
+Undine{END}
+
+Maxwell{END}
+
+Molecular Attack{END}
+
+Basilisk{END}
+
+Stone Ray{END}
+
+Siren{END}
+
+Belladonna{END}
+
+Power Drain{END}
+
+Shrill Cry{END}
+
+Lizard Man{END}
+
+Dragon Knight{END}
+
+Iron Golem{END}
+
+Machinegun Knuckle{END}
+
+Machinegun Knuckle{END}
+
+Gigaton Uppercut{END}
+
+Depraved Monk{END}
+
+Shade{END}
+
+Doom Guard{END}
+
+Gazehound{END}
+
+Stone Ray{END}
+
+Ishrantu{END}
+
+Vulture{END}
+
+Python{END}
+
+Oakrot{END}
+
+Apple Dance{END}
+
+Sidewinder{END}
+
+Giant Scorpion{END}
+
+Will O' Wisp{END}
+
+Burning Dead{END}
+
+Triple Slash{END}
+
+Double Slash{END}
+
+Green Roper{END}
+
+Starfish{END}
+
+Ochre Jelly{END}
+
+Vampire Bat{END}
+
+Cave Spider{END}
+
+Giant Wasp{END}
+
+Mighty Oak{END}
+
+Apple Dance{END}
+
+Dragonfly{END}
+
+Wolfsbane{END}
+
+Power Drain{END}
+
+Shrill Cry{END}
+
+Brown Bear{END}
+
+Lizard{END}
+
+Phantom{END}
+
+Archer{END}
+
+Jack O' Lantern{END}
+
+Power Drain{END}
+
+Banshee{END}
+
+Shaman{END}
+
+Medium{END}
+
+Snow Bunny{END}
+
+Chirpee{END}
+
+Chevalier{END}
+
+Sorceress{END}
+
+Samurai{END}
+
+Kage{END}
+
+Lich{END}
+
+Summon Demon{END}
+
+Jann{END}
+
+Woodkarla{END}
+
+Apple Dance{END}
+
+Living Sword{END}
+
+3000R{END}
+
+Photon Beam{END}
+
+4400R{END}
+
+Photon Beam{END}
+
+2SH{END}
+
+Dhole{END}
+
+Predator{END}
+
+Killer Bee{END}
+
+Nightmare{END}
+
+Viper{END}
+
+Boarboar{END}
+
+Timber Wolf{END}
+
+King Cobra{END}
+
+Nebiros{END}
+
+Poison Toad{END}
+
+Red Roper{END}
+
+Power Drain{END}
+
+Shaitan{END}
+
+Thunder Dragon{END}
+
+Volt{END}
+
+Werevulture{END}
+
+Scout{END}
+
+Scavenger{END}
+
+Deathstalker{END}
+
+Cocadrille{END}
+
+Stone Ray{END}
+
+Blood Sucker{END}
+
+Troll{END}
+
+Dragon's Tooth{END}
+
+Triple Slash{END}
+
+Double Slash{END}
+
+Carcass{END}
+
+Wraith{END}
+
+Specter{END}
+
+Jinn{END}
+
+Dragonewt{END}
+
+Flame{END}
+
+Ignis Fatuus{END}
+
+Vulcan{END}
+
+Night Wing{END}
+
+A.C. Roper{END}
+
+Power Drain{END}
+
+Arch Demon{END}
+
+Giant Squid{END}
+
+Evil Star{END}
+
+Aqua Dragon{END}
+
+Blue Roper{END}
+
+Power Drain{END}
+
+Frost Bunny{END}
+
+Lesser Demon{END}
+
+Polar Bear{END}
+
+Ice Golem{END}
+
+Machinegun Knuckle{END}
+
+Machinegun Knuckle{END}
+
+Gigaton Uppercut{END}
+
+Frost King{END}
+
+Priestess{END}
+
+Kunoichi{END}
+
+Fenrir Beast{END}
+
+Treant{END}
+
+Apple Dance{END}
+
+Giant Mayfly{END}
+
+Alraune{END}
+
+Power Drain{END}
+
+Shrill Cry{END}
+
+Grizzly{END}
+
+Monk Soldier{END}
+
+Giant Lizard{END}
+
+Apache Doctor{END}
+
+Mythril Golem{END}
+
+Machinegun Knuckle{END}
+
+Machinegun Knuckle{END}
+
+Black Knight{END}
+
+Bushwhacker{END}
+
+Bishop{END}
+
+Gold Dragon{END}
+
+Red Pudding{END}
+
+Black Slime{END}
+
+White Bear{END}
+
+Psychic{END}
+
+Boggart{END}
+
+Hellhound{END}
+
+Doom Toad{END}
+
+Cawker{END}
+
+Gargoyle{END}
+
+Queen Bee{END}
+
+Merman{END}
+
+Samael{END}
+
+Summon Demon{END}
+
+Ninja Master{END}
+
+Evil Sword{END}
+
+Superstar{END}
+
+Tidal Uppercut{END}
+
+Wave Kick{END}
+
+10000R{END}
+
+Photon Beam{END}
+
+3SH{END}
+
+Inferno{END}
+
+Firebug{END}
+
+Hellcat{END}
+
+Hatamoto{END}
+
+Flame Sword{END}
+
+Balrog{END}
+
+Flamberg{END}
+
+Evil Lord{END}
+
+Summon Demon{END}
+
+Ranger{END}
+
+Arch Bishop{END}
+
+Witch Doctor{END}
+
+Prophet{END}
+
+Voodoo Priest{END}
+
+Summon Demon{END}
+
+Witch{END}
+
+Sakon{END}
+
+Hanzo{END}
+
+Galleon Sword{END}
+
+Darkeye?{END}
+
+Roameye?{END}
+
+Sealeye?{END}
+
+Dhaos{END}
+
+Dhaos Collider{END}
+
+Dhaos Laser{END}
+
+Tetra Spell{END}
+
+Tetra Assault{END}
+
+Silver Dragon{END}
+
+Dhaos{END}
+
+Conceal{END}
+
+Chaos{END}
+
+Circulate{END}
+
+Dhaos{END}
+
+Dhaos{END}
+
+Dhaos Collider{END}
+
+Dhaos Laser{END}
+
+Tetra Spell{END}
+
+Tetra Assault{END}
+
+Dhaos{END}
+
+Dhaos Collider{END}
+
+Dhaos Laser{END}
+
+Tetra Spell{END}
+
+Tetra Assault{END}
+
+Basilisk King{END}
+
+Stone Ray{END}
+
+Zombie{END}
+
+Beastmaster{END}
+
+Summon Demon{END}
+
+Kiyomasa{END}
+
+Black Dragon{END}
+
+Stormrider{END}
+
+Manticore{END}
+
+Cerberus{END}
+
+Bigfoot{END}
+
+Wyvern{END}
+
+Galf Beast{END}
+
+Pumpkin King{END}
+
+Power Drain{END}
+
+Skeleton King{END}
+
+Triple Slash{END}
+
+Double Slash{END}
+
+Clay Golem{END}
+
+Red Sylph{END}
+
+Mandrake{END}
+
+Power Drain{END}
+
+Shrill Cry{END}
+
+Dozo{END}
+
+Okiyo{END}
+
+Lycurgus{END}
+
+Summon Demon{END}
+
+Air Giant{END}
+
+Phoenix{END}
+
+Nocturnal Fly{END}
+
+Manta{END}
+
+Pharaoh{END}
+
+Mummy Combo{END}
+
+Poison Fist{END}
+
+Origin{END}
+
+Collapse{END}
+
+Tyrant{END}
+
+Lobo{END}
+
+Great Tusk{END}
+
+Kraken{END}
+
+Mummy{END}
+
+Mummy Combo{END}
+
+Zombie Giant{END}
+
+Pluto{END}
+
+Draco-Centaur{END}
+
+Odin{END}
+
+Kosuke{END}
+
+Jinpachi{END}
+
+Juzo{END}
+
+Saizo{END}
+
+Sasuke{END}
+
+Crab{END}
+
+Lilith{END}
+
+Lightning Fang{END}
+
+Thunder Sword{END}
+
+Thunder Beast{END}
+
+Thor's Hammer{END}
+
+Lightning Fist{END}
+
+Swallow Dance{END}
+
+Lilith Slash{END}
+

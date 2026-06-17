@@ -1,0 +1,200 @@
+<Klarth>
+ I see <var_CF00>'s request is so
+ important that we're going in the
+ completely wrong direction.
+<pause>
+<Klarth>
+ The enthusiasm is truly admirable,
+ but unless we turn around, we're
+ not going to the Forest of Spirits.{END}
+
+Town of Harmel{END}
+
+<Klarth>
+ The whole town's<speed_0010>...
+<pause>
+<speed_FFFF><Mint>
+ Oh my goodness, this is horrible<speed_0010>...
+<pause>
+<speed_FFFF><Klarth>
+ Are there any survivors!?
+<pause>
+<Cless>
+ ......{END}
+
+<Cless>
+ Are you okay!?{END}
+
+Girl
+ Um, I'm<speed_0010>...
+<pause>
+<speed_FFFF>Girl
+ I'm fine.
+<pause>
+<Klarth>
+ What the hell happened to this
+ town!?
+<pause>
+Girl
+ Demeter<speed_0010>...
+<pause>
+<speed_FFFF><Klarth>
+ Huh?
+<pause>
+Girl
+ The mage... He did this.
+<pause>
+Girl
+ He...
+<pause>
+Girl
+ He killed Mama and Papa<speed_0010>...{END}
+
+<Cless>
+ If you want revenge, I'll help you!<wait>{END}
+
+Girl
+ Huh?<wait>{END}
+
+<Klarth>
+ Yes, this is horrific, but
+ unfortunately, we have higher
+ priorities right now!{END}
+
+<Mint>
+ Th-that's true, but we just can't
+ leave it like this.
+<pause>
+<Klarth>
+ Oh, come on, not you too!
+<pause>
+<Cless>
+ I know we're in a big hurry, but--{END}
+
+<Klarth>
+ For the love of...
+ What's gotten into you
+ two all of a sudden?
+<pause>
+<Klarth>
+ I think you're taking this a little too
+ personally.<wait>{END}
+
+<Cless>
+ ......{END}
+
+<Cless>
+ No, that's not it.
+<pause>
+<Cless>
+ It's just that I can't let this go!{END}
+
+<unk1><Mint>
+ I feel the same way he does.
+<pause>
+<Mint>
+ I want to help this poor little girl...{END}
+
+<Klarth>
+ Hmph...
+<pause>
+<Klarth>
+ Great. Well, since both of you seem
+ to have Chronic Hero Syndrome, I
+ guess I have no choice but to play
+ along.<wait>{END}
+
+<Klarth>
+ So, young lady, can you tell us what
+ you know about this “Demeter”?
+<pause>
+<Klarth>
+ If he's really a mage, this detour
+ might actually be beneficial to us in
+ the end.<wait>{END}
+
+Girl
+ I don't know where he is, but...
+<pause>
+Girl
+ I saw him take the northern exit
+ of town.
+<pause>
+<Klarth>
+ I see...
+<pause>
+<Klarth>
+ Then we'll likely find him or
+ something about him between here
+ and Venezia.
+<pause>
+Girl
+ Um<speed_0010>...
+<pause>
+<speed_FFFF>Girl
+ I should thank you all.
+<pause>
+Girl
+ Thank you so much.
+<pause>
+Girl
+ I know it's a little late
+ for introductions, but my
+ name is Rhea Scarlet.
+ Please, just Rhea will do.
+<pause>
+<Mint>
+ I'm <Mint>.
+<pause>
+<Mint>
+ I am happy to meet you, Rhea.<wait>{END}
+
+<unk1><Mint>
+ He's <Cless>.
+ This is <Klarth>.
+<pause>
+{END}
+
+Rhea
+ I'm very happy to meet you, too.{END}
+
+Man
+ The streets are quiet right now
+ since everyone went to church to
+ pray to God.{END}
+
+Girl
+ God must be really great, huh?
+<pause>
+Girl
+ 'Cause everyone goes to church to
+ pray every day.
+<pause>
+Girl
+ Hmm... I wish people prayed to
+ *me* every day...{END}
+
+Chef
+ Have you made French Toast?{END}
+
+Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for French Toast.<color_0000>{END}
+
+Chef
+ What!?
+ How can you reject this taste!?{END}
+

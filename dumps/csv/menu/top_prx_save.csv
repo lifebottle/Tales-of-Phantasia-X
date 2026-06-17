@@ -1,0 +1,23 @@
+セーブを中止しますか？{END},Cancel save?{END}
+ロードを中止しますか？{END},Cancel load?{END}
+削除を中止しますか？{END},Cancel erase?{END}
+"テイルズ オブ ファンタジア
+クロスエディション{END}","Tales of Phantasia
+Cross Edition{END}"
+新規作成データ{END},New Save{END}
+Gald:%d  PlayTime:%d:%02d{END},Gald: %d  Play Time: %d:%02d{END}
+"メモリースティック{81}{7F}が挿されていません。
+テイルズ オブ ファンタジア クロスエディションの
+ゲームデータを保存するには、
+384KB以上の空き容量が必要です。{END}","No Memory Stick{81}{7F} is inserted.
+At least 384KB of free space is required to save
+Tales of Phantasia Cross Edition game data.{END}"
+"記録メディアの空き容量が不足しています。
+テイルズ オブ ファンタジア クロスエディションの
+ゲームデータを保存するには、
+384KB以上の空き容量が必要です。{END}","Insufficient free space on Memory Stick{81}{7F}.
+At least 384KB of free space is required to save
+Tales of Phantasia Cross Edition game data.{END}"
+"このままゲームを開始しますか？
+{END}","Do you want to start the game anyway?
+{END}"

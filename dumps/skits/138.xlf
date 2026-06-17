@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_682">
+        <source>Apparently, Efreet's living in a Freylandian cave.</source>
+        <target state="translated">Apparently, Efreet's living in a Freylandian cave.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_683">
+        <source>Yes.</source>
+        <target state="translated">Yes.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_684">
+        <source>Fire spirits like hot places, right?</source>
+        <target state="translated">Fire spirits like hot places, right?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_685">
+        <source>I'd hope so.</source>
+        <target state="translated">I'd hope so.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

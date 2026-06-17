@@ -1,0 +1,1280 @@
+"<Klarth>
+「とりあえず、エドワードのこと
+　について、行く先々で聞いてみ
+　るとしよう」{END}","<Klarth>:<nl>
+ Don't think we're going to learn
+ much about Edward at these docks.
+<pause>
+<Klarth>:<nl>
+ Let's hustle to the nearby village
+ and query some locals.{END}"
+ギースショップ{END},Aegis' Shop{END}
+"旅の剣士
+「私は修行中の身、よけいな雑念
+　は捨てるべし・・・」{END}","Traveling Swordsman:<nl>
+ As part of mine ascetic training, I
+ must cast aside needless worldly
+ thoughts...{END}"
+"旅の剣士
+「おぬし、剣士か？」
+<pause>
+旅の剣士
+「ならばこの奥義書を授けよう」
+<pause>
+旅の剣士
+「私はもう習得したからな」<wait>{END}","Traveling Swordsman:<nl>
+ Thou art a swordsman?
+<pause>
+Traveling Swordsman:<nl>
+ Then this arcane arte book is now
+ thine.
+<pause>
+Traveling Swordsman:<nl>
+ I hath memorized its contents, and
+ hath no further use of it.<wait>{END}"
+<color_0002><Cless>は<var_9600>を覚えました。<color_0000>{END},"<color_0002><Cless> learned
+<var_9600>.<color_0000>{END}"
+"旅人
+「わしゃここで悟りを開いている
+　んじゃ」
+<pause>
+旅人
+「邪魔せんでくれ」{END}","Traveler:<nl>
+ I'm attaining enlightenment here.
+<pause>
+Traveler:<nl>
+ Don't bother me.{END}"
+"旅人
+「何じゃ？」
+<pause>
+旅人
+「もしかしてこの奥義書が欲しい
+　のか？」
+<pause>
+旅人
+「なら１２０００ガルドじゃ！」
+<pause>
+<color_0002>買いますか？<color_0000>{END}","Traveler:<nl>
+ What, you're still here!?
+<pause>
+Traveler:<nl>
+ Fine, if I sold you an arcane arte
+ book, would you go away?
+<pause>
+Traveler:<nl>
+ 12000 gald!
+<pause>
+<color_0002>Buy it?<color_0000>{END}"
+"旅人
+「まったく・・・」{END}","Traveler:<nl>
+ Fngh!!{END}"
+"旅人
+「金が足りん！！」{END}","Traveler:<nl>
+ You're broke!!{END}"
+"<color_0002><Cless>は<var_9700>を覚えました。<color_0000>
+<pause>
+旅人
+「ふん！」{END}","<color_0002><Cless> learned
+<var_9700>.<color_0000>
+<pause>
+Traveler:<nl>
+ Hmph!{END}"
+"旅人
+「何じゃ、お前らは？」
+<pause>
+旅人
+「ここには何もないぞ！」{END}","Traveler:<nl>
+ Who are you and what do you
+ want!?
+<pause>
+Traveler:<nl>
+ I have nothing for you!{END}"
+"放浪者
+「私達は放浪者、自由気ままに旅
+　する者です」{END}","Vagrant:<nl>
+ We vagrants wander freely.{END}"
+"放浪者
+「あなた、剣士？」
+<pause>
+放浪者
+「じゃあこの奥義書あげるわ」
+<pause>
+放浪者
+「もう習得したからね」<wait>{END}","Vagrant:<nl>
+ Are you a swordsman?
+<pause>
+Vagrant:<nl>
+ Yeah?
+ Then take this arcane arte book.
+<pause>
+Vagrant:<nl>
+ I'm done with it.<wait>{END}"
+<color_0002><Cless>は<var_A100>を覚えました。<color_0000>{END},"<color_0002><Cless> learned
+<var_A100>.<color_0000>{END}"
+"放浪者
+「人生の目的を見つける旅を続け
+　てもう<num5_C000510C>年にもなります」
+<pause>
+放浪者
+「でもいまだに見つかりません」{END}","Vagrant:<nl>
+ I have spent <num5_C000510C> years wandering
+ the globe in search of the meaning
+ of life.
+<pause>
+Vagrant:<nl>
+ Though I have attained much
+ enlightenment, I have not yet
+ succeeded with my objective.{END}"
+"船長
+「何だ、フレイランドに行きたい
+　のか？」<wait>{END}","Captain:<nl>
+ What's that?
+ A lift to Freyland?<wait>{END}"
+"船長
+「これはアルヴァニスタ行きの船
+　だぜ」<wait>{END}","Captain:<nl>
+ Going to Alvanista?<wait>{END}"
+"船長
+「料金は運賃、食費、保険料を含
+　めて一人<num5_C000510E>ガルド、全員
+　で<num5_C0005110>ガルドになるぜ」
+<pause>
+船長
+「行くか？」{END}","Captain:<nl>
+ Fare including shipping, food, and
+ insurance is <num5_C000510E> gald per person.
+<pause>
+Captain:<nl>
+ That puts the total for all
+ of you at <num5_C0005110> gald.
+ Still coming with us?{END}"
+"船長
+「残念だが、お金がなきゃ、どう
+　しようもないな」{END}","Captain:<nl>
+ Sorry, but if you want us to make
+ room for you, you gotta have
+ every last gald.{END}"
+"船長
+「では出港〜」{END}","Captain:<nl>
+ Set sail!{END}"
+"船長
+「それじゃあ、またな」{END}","Captain:<nl>
+ Be seeing you, then.{END}"
+"船乗り
+「トレントの森には精霊様が住ん
+　でいるという話だ」
+<pause>
+船乗り
+「何て言ったっけ？」
+<pause>
+船乗り
+「たしか、おじん・・・」
+<pause>
+船乗り
+「だったかな？」
+<pause>
+<Cless>
+（<var_D800>のことかな？）{END}","Sailor:<nl>
+ They say there's a spirit living in
+ Treant Forest.
+<pause>
+Sailor:<nl>
+ What was it called, again?
+<pause>
+Sailor:<nl>
+ I think it was...
+<pause>
+Sailor:<nl>
+ Oregon?
+<pause>
+<Cless>:<nl>
+ (Does he mean Origin?){END}"
+"船乗り
+「モーリア坑道？」
+<pause>
+船乗り
+「ここから真北に向かった所に入
+　口があるよ」{END}","Sailor:<nl>
+ Many lost explorers trying to find
+ the Moria Mine wind up here.
+<pause>
+Sailor:<nl>
+ Fortunately for them,
+ it's not all that far.
+ It's just a bit further north.{END}"
+"船乗り
+「ふっ・・・」
+<pause>
+船乗り
+「海が俺を呼んでるぜ」{END}","Sailor:<nl>
+ Sigh...
+<pause>
+Sailor:<nl>
+ The ocean is calling me.{END}"
+"船乗り
+「精霊？」
+<pause>
+船乗り
+「俺は知らんが・・・」
+<pause>
+船乗り
+「オリーブヴィレッジっていう村
+　にいるんじゃないか？」
+<pause>
+船乗り
+「結構、歴史のある村だからな」{END}","Sailor:<nl>
+ Spirits?
+<pause>
+Sailor:<nl>
+ Can't say I know much about 'em,
+ but...
+<pause>
+Sailor:<nl>
+ There's this place called Olive
+ Village across the sea, on the
+ continent of Freyland.
+<pause>
+Sailor:<nl>
+ Its history goes pretty far back, so
+ it might be worth the time to
+ check it out.{END}"
+"船乗り
+「昔、ばあさんから聞いたんだけ
+　ど・・・」
+<pause>
+船乗り
+「ミッドガルズの北にある『白樺
+　の森』と呼ばれる所に不思議な
+　生き物が住んでいるらしいぜ」{END}","Sailor:<nl>
+ My grandma told me a really
+ interesting story a long time ago...
+<pause>
+Sailor:<nl>
+ It was about a mysterious
+ creature living in a wintry
+ woodland north of Midgard
+ called “Whitespire Forest.”{END}"
+"船乗り
+「モーリア坑道に行きたいのか？」
+<pause>
+船乗り
+「でもあそこは地下五階くらいで
+　行き止まりらしいよ」
+<pause>
+船乗り
+「何か特殊なアイテムでも使うの
+　かな、とか探検家が言ってたけ
+　どね」{END}","Sailor:<nl>
+ You guys on your way to explore
+ the Moria Mine?
+<pause>
+Sailor:<nl>
+ I heard there's an impassable
+ obstacle on the fifth level down.
+<pause>
+Sailor:<nl>
+ But an explorer said you could get
+ past it with a special tool.{END}"
+"船乗り
+「俺の夢は、世界中の海を回って
+　お宝を探すことなんだ」
+<pause>
+船乗り
+「こんな生活とは早くおさらばし
+　たいぜ！！」{END}","Sailor:<nl>
+ My lifelong dream has been to
+ explore the world's vast seas to
+ uncover valuable treasure.
+<pause>
+Sailor:<nl>
+ I wish I could abandon this life
+ right now and follow my true
+ calling!!{END}"
+"船乗り
+「海から吹く心地よい潮風、まぶ
+　しく照りつける太陽・・・」
+<pause>
+船乗り
+「いつかエミリと二人だけで船の
+　旅をしようと思ったんだけど」
+<pause>
+船乗り
+「ふられてしまいました・・・」<wait>{END}","Sailor:<nl>
+ I wanted to travel with Emily on a
+ ship someday; just the two of us,
+ all alone...
+<pause>
+Sailor:<nl>
+ The soothing breeze blowing from
+ the sea, the radiant sun beaming
+ down, warming our bodies...<nl>
+ It was to be perfect.
+<pause>
+Sailor:<nl>
+ But she dumped me...<wait>{END}"
+"船乗り
+「エミリーーーー」
+<pause>
+船乗り
+「カムバーーーーック！！」{END}","Sailor:<nl>
+ EMILYYYYYYYY!
+<pause>
+Sailor:<nl>
+ COME BACK TO MEEEEEEEEE!!{END}"
+"船乗り
+「海から吹く心地よい潮風、まぶ
+　しく照りつける太陽・・・」
+<pause>
+船乗り
+「いつかシンシアと二人だけで船
+　の旅をするんだ」<wait>{END}","Sailor:<nl>
+ I'm going to travel on a ship with
+ just me and Cynthia...
+<pause>
+Sailor:<nl>
+ The soothing breeze blowing from
+ the sea, the radiant sun beaming
+ down, warming our bodies...<nl>
+ It will be perfect.<wait>{END}"
+"船乗り
+「シンシアーーーー」
+<pause>
+船乗り
+「愛してるよぉーーーー！！！」{END}","Sailor:<nl>
+ CYNTHIAAAAAA!
+<pause>
+Sailor:<nl>
+ I LOVE YOUUUUUU!!!{END}"
+"旅人
+「精霊の話？」
+<pause>
+旅人
+「ああ、知ってるよ」
+<pause>
+旅人
+「昔、今のような魔物がいなかっ
+　た時代・・・」
+<pause>
+<Cless>
+「その話の最初の部分は知ってる
+　から・・・」
+<pause>
+<Cless>
+「その続きが知りたいんだ」
+<pause>
+<Cless>
+「月の精霊様が悪い人に捕まった
+　ところから・・・」
+<pause>
+旅人
+「あ、そう、え〜と・・・」
+<pause>
+旅人
+「その悪い人々は月の精霊様を月
+　の光が届かない真っ暗な地下牢
+　に閉じこめてしまった」
+<pause>
+旅人
+「そしてついに世界中に毒がばら
+　まかれ、人類は滅んでしまった
+　んだ」
+<pause>
+旅人
+「もちろんその悪い人々も」
+<pause>
+旅人
+「しかし完全に滅んだわけではな
+　かったんだ」
+<pause>
+旅人
+「ごく一部の人間が魔術で結界を
+　張り、毒が入り込まない地域を
+　作ったんだ」
+<pause>
+旅人
+「それから何百年という歳月が流
+　れた・・・」
+<pause>
+旅人
+「生き残った人々は年月とともに
+　増えていき、また国家が作られ
+　るようになったんだ」
+<pause>
+旅人
+「俺が知ってるのはここまで」
+<pause>
+旅人
+「すまんな」{END}","<Cless>:<nl>
+ Are you familiar with the Tale of
+ the Spirit?
+<pause>
+Traveler:<nl>
+ Yeah, sure am.
+<pause>
+Traveler:<nl>
+ In ages long past, there were no
+ monsters...
+<pause>
+<Cless>:<nl>
+ I've already heard the first part.
+<pause>
+<Cless>:<nl>
+ Could you tell me what happens
+ after that?
+<pause>
+<Cless>:<nl>
+ You know, after the bad people
+ captured the Spirit of the Moon...
+<pause>
+Traveler:<nl>
+ Oh, right.
+ Let's see...
+<pause>
+Traveler:<nl>
+ The evil people confined the spirit
+ in a pitch-black underground cell
+ where moonlight did not reach.
+<pause>
+Traveler:<nl>
+ The poison enveloped the surface
+ of the entire planet, and mankind,
+ including the evil people, was wiped
+ out.
+<pause>
+Traveler:<nl>
+ However, a scant few humans
+ escaped the predicament.
+<pause>
+Traveler:<nl>
+ Magic users gathered to erect a
+ large barrier to shield themselves
+ from the poison.
+<pause>
+Traveler:<nl>
+ The remnants of mankind lived
+ under its protection for hundreds
+ of years.
+<pause>
+Traveler:<nl>
+ The population steadily rose in that
+ time...
+<pause>
+Traveler:<nl>
+ Eventually, their numbers grew
+ sufficient enough to found a new
+ nation.
+<pause>
+Traveler:<nl>
+ ...And that's all I know of the story.
+<pause>
+Traveler:<nl>
+ Sorry.{END}"
+"旅人
+「邪魔しないでくれよ」
+<pause>
+旅人
+「感傷に浸ってるところなんだか
+　ら・・・」{END}","Traveler:<nl>
+ Don't interfere.
+<pause>
+Traveler:<nl>
+ I'm immersed in meditation, so...{END}"
+"船乗り
+「精霊の話？」
+<pause>
+船乗り
+「ああ、昔ばあさんから聞いたの
+　なら・・・」
+<pause>
+船乗り
+「昔々、今のような魔物がいな　
+　かった時代・・・」
+<pause>
+<Cless>
+「その話の最初の部分を聞いたん
+　だけど・・・」
+<pause>
+<Cless>
+「続きが知りたいんだ」
+<pause>
+<Cless>
+「世界中に毒がばらまかれて、何
+　百年かたった後・・・」
+<pause>
+船乗り
+「ああ、え〜と・・・」
+<pause>
+船乗り
+「結界の中の人々は結界の張られ
+　た意味さえ忘れてしまった」
+<pause>
+船乗り
+「結界の外は闇の世界で、外に出
+　た者は生きて二度と戻れないと
+　信じられていたんだ」
+<pause>
+船乗り
+「そんな時代が何百年か過ぎた頃
+　国家に忠誠を誓う、ある一人の
+　若い兵士が現れた」
+<pause>
+船乗り
+「ある日、その兵士はこの国の地
+　下にある遺跡の探索に出かけた
+　んだ」
+<pause>
+船乗り
+「そこで見つけたのが何と、月の
+　精霊様だったんだ」
+<pause>
+船乗り
+「兵士は、精霊様の美しさに心を
+　奪われてしまった」
+<pause>
+船乗り
+「月の精霊様に恋をしてしまった
+　んだ」
+<pause>
+船乗り
+「しかし、その国の王様はまたも
+　や精霊様を閉じこめてしまった」
+<pause>
+船乗り
+「精霊様の力を利用しようとした
+　んだな」
+<pause>
+船乗り
+「俺が知ってるのは、ここまでな
+　んだ」{END}","<Cless>:<nl>
+ Do you know the Tale of the Spirit?
+<pause>
+Sailor:<nl>
+ Oh yeah, Grandma told me that one
+ all the time as a tyke.
+<pause>
+Sailor:<nl>
+ Once upon a time, there were no
+ monsters--
+<pause>
+<Cless>:<nl>
+ Wait, I know the beginning.
+<pause>
+<Cless>:<nl>
+ What happens hundreds of years
+ after the poison was spread
+ around the world?
+<pause>
+Sailor:<nl>
+ Oh, let me see...
+<pause>
+Sailor:<nl>
+ After those many generations, the
+ people beneath the barrier began
+ to forget why it had been created
+ in the first place.
+<pause>
+Sailor:<nl>
+ They began to get superstitious,
+ and believed there was nothing
+ beyond but an endless,
+ all-consuming abyss.
+<pause>
+Sailor:<nl>
+ Any thought of venturing out and
+ returning was considered
+ inconceivable.
+<pause>
+Sailor:<nl>
+ Hundreds more years passed, and a
+ young soldier, quite allegiant to his
+ nation, appeared.
+<pause>
+Sailor:<nl>
+ One day, he went to investigate the
+ ruins that lie beneath the ground.
+<pause>
+Sailor:<nl>
+ He found something spectacular:
+ the Spirit of the Moon.
+<pause>
+Sailor:<nl>
+ He was instantly smitten by her
+ incomparable beauty.
+<pause>
+Sailor:<nl>
+ His heart stolen, the soldier fell in
+ love with her.
+<pause>
+Sailor:<nl>
+ However, the king disapproved of
+ this, and attempted once again to
+ confine the spirit.
+<pause>
+Sailor:<nl>
+ He wanted her power for his own
+ ends.
+<pause>
+Sailor:<nl>
+ And, uhhh... I don't remember
+ anything after that.{END}"
+"船乗り
+「海を見ていると、心が広くなっ
+　たような気がするよ」{END}","Sailor:<nl>
+ Whenever I gaze out over the
+ endless, deep blue sea, I start to
+ feel like a kid again.{END}"
+"サミー
+「いらっしゃい<heart>」
+<pause>
+サミー
+「名工ギースの店へようこそ」{END}","Sammy:<nl>
+ Hi there <heart>
+<pause>
+Sammy:<nl>
+ Welcome to the workshop of Aegis,
+ the master craftsman.{END}"
+"サミー
+「ありがとう、お兄ちゃん<heart>」{END}","Sammy:<nl>
+ Come back again, mister <heart>{END}"
+"おじさん
+「ここはドワーフの名工ギースの
+　技術を受け継いだ鍛冶屋兼お店
+　じゃよ」
+<pause>
+おじさん
+「値段は安いうえ、他の武具とは
+　比較にならないほど精巧にでき
+　ておる」
+<pause>
+おじさん
+「買って損はないぞぃ」
+<pause>
+おじさん
+「そうじゃ、おぬしらに金持ちに
+　なるコツを教えてやろう」
+<pause>
+おじさん
+「アイテムの中には『交易品』と
+　呼ばれるものがあるじゃろ？」
+<pause>
+おじさん
+「それは店によって売れる値段が
+　違うアイテムなんじゃ」
+<pause>
+おじさん
+「これを利用すれば、金儲けがで
+　きるぞぃ」{END}","Old Man:<nl>
+ This smithy was founded by the
+ successors of Aegis, the peerless
+ dwarven craftsman.
+<pause>
+Old Man:<nl>
+ Our prices are so low, and our
+ workmanship is so far ahead of
+ the pack, that there's simply no
+ competition.
+<pause>
+Old Man:<nl>
+ Buy some.
+ You've nothing to lose.
+<pause>
+Old Man:<nl>
+ And if our goods are out of your
+ price range, here's the secret to
+ becoming rich:
+<pause>
+Old Man:<nl>
+ You know about “Trade” goods?
+<pause>
+Old Man:<nl>
+ You can game the foreign market
+ and make a handsome sum with
+ them.
+<pause>
+Old Man:<nl>
+ Shop around to find out where the
+ demand is!{END}"
+"職人
+「今日は早めに仕事を終わらせよ
+　うかな・・・」{END}","Craftsman:<nl>
+ Well, that's it...<nl>
+ Maybe I should take the rest of the
+ day off...{END}"
+"職人
+「よぉ」
+<pause>
+職人
+「お前、象牙持ってないか？」
+<pause>
+職人
+「象牙で彫刻作りたいんだ」
+<pause>
+職人
+「その代わりといっては何だが、
+　お前にいいもの作ってやるぜ」<wait>{END}","Craftsman:<nl>
+ Hey there...
+<pause>
+Craftsman:<nl>
+ You got any ivory?
+ I've had an itching to carve
+ something out of the stuff lately.
+<pause>
+Craftsman:<nl>
+ Just for the pleasure, I'll make you
+ something out of it in return.<wait>{END}"
+"職人
+「おっ、象牙を持ってるじゃねぇ
+　か」
+<pause>
+職人
+「どうだこの話、のらないか？」{END}","<Cless>:<nl>
+ We've acquired some during our
+ journey.
+<pause>
+Craftsman:<nl>
+ Oh, is that right?
+ Well, how about it?
+ We have a deal?{END}"
+"職人
+「ちっ、さっさと帰りな！」{END}","Craftsman:<nl>
+ Fine, be that way!{END}"
+"職人
+「よし、商談成立だな」
+<pause>
+職人
+「ニ時間ほど待っててくれ」
+<pause>
+職人
+「先に、お前達の分を急いで作る
+　からな・・・」<wait>{END}","Craftsman:<nl>
+ Nice.
+ Just give me a little time.
+<pause>
+Craftsman:<nl>
+ A couple hours or so should do it...<wait>{END}"
+"職人
+「じいさん、ちょっと手伝ってく
+　れよ！」{END}","Craftsman:<nl>
+ Hey, Gramps!
+ Gimme a hand!{END}"
+"職人
+「象牙の乱獲で象が少なくなった
+　んだってさ」{END}","<Cless>:<nl>
+ We've been journeying for a while,
+ but it seems we haven't come
+ across any.
+<pause>
+Craftsman:<nl>
+ Figures. With the recent demand
+ for ivory, poachers are working
+ overtime. The elephants won't be
+ around much longer at this rate.{END}"
+"テン
+「ごめんよ、もうないんだ」{END}","Ten:<nl>
+ Sorry, I'm all sold out.{END}"
+"テン
+「いらっしゃい、おもしろいアイ
+　テムがあるよ」{END}","Ten:<nl>
+ Welcome.
+ I've got something really good for
+ sale.{END}"
+"テン
+「ありがとう！」
+<pause>
+テン
+「買ってくれたお礼に、僕が大切
+　にしている収集品をあげるよ」
+<pause>
+テン
+「これは、めったに手に入らない
+　品物だからね」<wait>{END}","Ten:<nl>
+ Thanks for the business!
+<pause>
+Ten:<nl>
+ To show my appreciation, I'll give
+ you my cherished collectible.
+<pause>
+Ten:<nl>
+ I doubt you'll find one anywhere
+ else.<wait>{END}"
+<color_0002><item_9001>を手に入れました。{END},<color_0002>Acquired the <item_9001>.{END}
+"テン
+「高いかもしれないけど、それだ
+　けの価値はあると思うよ」{END}","Ten:<nl>
+ I know it's pricey, but I promise
+ you it's worth it!{END}"
+"旅芸人
+「声まねコント『<heart><heart><heart>』を聞い
+　ていかない？」{END}","Vocal Impressionist:<nl>
+ Would you like to hear my
+ “<heart><heart><heart>” impression?{END}"
+"旅芸人
+「それじゃ、聞いてね」{END}","Vocal Impressionist:<nl>
+ All right, here goes!{END}"
+"旅芸人
+「どう？似てた？」{END}","Vocal Impressionist:<nl>
+ Well, what did you think?
+ Sounded like the real thing, eh?{END}"
+"旅芸人
+「次は聞いてね」{END}","Vocal Impressionist:<nl>
+ Listen next time then, okay?{END}"
+"旅芸人
+「僕達は『ものまね芸人』さ」
+<pause>
+旅芸人
+「声まねコントを聞いていかない
+　か？」{END}","Vocal Impressionist:<nl>
+ We're a group of vocal
+ impressionists.
+<pause>
+Vocal Impressionist:<nl>
+ Why don't you listen to a short tale
+ with our voices?{END}"
+"旅芸人
+「声まねコント『料理当番』を聞
+　いていかないか？」{END}","Vocal Impressionist:<nl>
+ Would you like to hear my
+ “Cooking Duty” impression?{END}"
+"旅芸人
+「それじゃ、聞いてくれ」{END}","Vocal Impressionist:<nl>
+ All right, here goes!{END}"
+"旅芸人
+「どう？似てた？」{END}","Vocal Impressionist:<nl>
+ Well, what did you think?
+ Sounded like the real thing, eh?{END}"
+"旅芸人
+「次は聞いてくれよ」{END}","Vocal Impressionist:<nl>
+ Listen next time then, okay?{END}"
+"オガエル
+「忍法、児雷也！」<wait>{END}","Frog:<nl>
+ Ninja arte!
+ Jiraiya!<wait>{END}"
+"オガエル
+「うきゅ？」{END}","Frog:<nl>
+ Ribbit?{END}"
+"ミッチェル
+「やっぱ、愛よね！」{END}","Mitchell:<nl>
+ This is the voice...of love!{END}"
+"旅芸人
+「声まねコント『？？？』を聞い
+　ていかない？」{END}","Performer:<nl>
+ Would you like to hear my
+ “???” impression?{END}"
+"旅芸人
+「それじゃ、聞いてね」{END}","Vocal Impressionist:<nl>
+ All right, here goes!{END}"
+"旅芸人
+「どう？似てた？」{END}","Vocal Impressionist:<nl>
+ Well, what did you think?
+ Sounded like the real thing, eh?{END}"
+"旅芸人
+「次は聞いてね」{END}","Vocal Impressionist:<nl>
+ Listen next time then, okay?{END}"
+"旅芸人
+「声まねコント『果てしなき闘い』
+　を聞いていかないか？」{END}","Vocal Impressionist:<nl>
+ Would you like to hear my
+ “Boundless Battle” impression?{END}"
+"旅芸人
+「それじゃ、聞いてくれ」{END}","Vocal Impressionist:<nl>
+ All right, here goes!{END}"
+"旅芸人
+「どう？似てた？」{END}","Vocal Impressionist:<nl>
+ Well, what did you think?
+ Sounded like the real thing, eh?{END}"
+"旅芸人
+「次は聞いてくれよ」{END}","Vocal Impressionist:<nl>
+ Listen next time then, okay?{END}"
+"チビッコ
+「この人達、いろいろな声を出せ
+　るんだよ」{END}","Small Child:<nl>
+ These people can make all kinds of
+ funny voices.{END}"
+"<Arche>
+「アルヴァニスタで流行ってる最
+　新のファッションって言えば、
+　やっぱり・・・」<wait>{END}","<Arche>:<nl>
+ You're saying Alvanista's fashion
+ is the latest “in” thing?
+ The more things change...<wait>{END}"
+"<Klarth>
+「よくしゃべるなぁ・・・」
+<pause>
+<Klarth>
+「私は、退屈で死にそうだよ」{END}","<Klarth>:<nl>
+ (...Good lord.
+ Is vapid, trifling nonsense
+ the only thing on the minds
+ of young women?)
+<pause>
+<Klarth>:<nl>
+ (If I had a choice between putting
+ up with this kiddie twaddle for
+ another hour or bashing my skull
+ in, I think I'd choose the latter.){END}"
+"職人
+「できたぞ〜」{END}","Craftsman:<nl>
+ All done!{END}"
+"職人
+「お待たせ！」
+<pause>
+職人
+「象牙と言えば<item_9D00>だ！」
+<pause>
+職人
+「お前の持ってきた材料から<num5_C000510C>コ
+　の<item_9D00>ができたぞ」<wait>{END}","Craftsman:<nl>
+ Thanks for waiting!
+<pause>
+Craftsman:<nl>
+ I made some <item_9D00>s out of
+ the ivory you gave me!
+<pause>
+Craftsman:<nl>
+ You get <num5_C000510C> of them.<wait>{END}"
+"<color_0002><item_9D00>を手に入れました。<color_0000>
+<pause>
+職人
+「また、象牙を手に入れたら持っ
+　てきてくれよ」{END}","<color_0002>Acquired your <item_9D00> share.<color_0000>
+<pause>
+Craftsman:<nl>
+ Bring me some more ivory and I'll
+ carve another batch.{END}"
+"<unk1><Klarth>
+よし、行くとするか」
+<pause>
+<Klarth>
+おや、<Chester>はどうしたんだ？」
+<pause>
+<Arche>
+外で待ってるって」<wait>{END}","<unk1><Klarth>:<nl>
+ Thank the gods.
+ Now let's get the hell out of here.
+<pause>
+<Klarth>:<nl>
+ Oh, hmm.
+ What happened to <Chester>?
+<pause>
+<Arche>:<nl>
+ He went outside for fresh air or
+ something.<wait>{END}"
+"<Arche>
+「じゃあまたね、サミーちゃん」
+<pause>
+サミー
+「うん、またね、お姉ちゃん」{END}","<Arche>:<nl>
+ Well, Sam-Sam, the chit-chat was
+ fun, but I gotta go now.
+<pause>
+Sammy:<nl>
+ That's okay.
+ See ya later, Sis.{END}"
+"<Chester>
+「やっと終わったのか」
+<pause>
+<Chester>
+「待ちくたびれちまったぜ」{END}","<Chester>:<nl>
+ Man, what took that guy so long?
+<pause>
+<Chester>:<nl>
+ I almost fell asleep.{END}"
+"<audio_1B05>テン
+「いらっしゃい・・・
+　おや・・・」{END}","<audio_1B05>Ten:<nl>
+Welcome... Oh?{END}"
+"<audio_1B06>テン
+「それ、""ドラグノフ""
+　じゃないか！？」
+<pause>
+<audio_1B07>ロンドリーネ
+「・・・知ってるの？」
+<pause>
+<audio_1B08>テン
+「もちろん。うちの師匠ギースが
+　エクリプスのために鍛えた伝説
+　の名剣だよ」
+<pause>
+<audio_1B09>テン
+「長らくその話を聞かないと
+　思ったら、きみみたいな美人
+　さんが持ってたなんてさ」{END}","<audio_1B06>Ten:<nl>
+Ain't that Dragunov you got there?
+<pause>
+<audio_1B07>Rondoline:<nl>
+You know these?
+<pause>
+<audio_1B08>Ten:<nl>
+'Course I do. Those are the legendary swords my master Aegis forged for the Eclipse.
+<pause>
+<audio_1B09>Ten:<nl>
+I haven't heard word of them in a long while.
+To think they were in the hands of a beauty all along.{END}"
+"<audio_1B0A>ロンドリーネ
+「いやーん、
+　美人さんだなんて<heart>」{END}","<audio_1B0A>Rondoline:<nl>
+My~ Me? A beauty? You needn't flatter me so~ <heart>{END}"
+"<audio_1B0B>テン
+「まさか、
+　きみエクリプスかい？」
+<pause>
+<audio_1B0C>ロンドリーネ
+「ううん、
+　そうじゃないけど・・・
+　そうだっていうか・・・」
+<pause>
+<audio_1B0D>テン
+「なんだ、そりゃ」
+<pause>
+<audio_1B0E>ロンドリーネ
+「君、エクリプスのこと、
+　詳しいの？」
+<pause>
+<audio_1B0F>テン
+「そうだなぁ・・・
+　噂で気になって、色々客に
+　聞いたり調べたりしたんだ」
+<pause>
+<audio_1B10>テン
+「オヤジは教えてくれないしさ
+　でもまだ知ってるほうだけど、
+　そんな詳しいわけじゃない」
+<pause>
+<audio_1B11>テン
+「それでもいいのか？」
+<pause>
+<audio_1B12>ロンドリーネ
+「それでもかまわない。一族の
+　ことを少しでも知れるなら」
+<pause>
+<audio_1B13>テン
+「オレの知ってることって
+　言えば・・・」
+<pause>
+<audio_1B14>テン
+「エクリプスってのは世界の裏側
+　から勢力バランスをとっている
+　組織らしいってことかな」
+<pause>
+<audio_1B15>テン
+「力が強くなりすぎた国を混乱に
+　陥れたり、強い力を持ったら、
+　その元を潰したり、ね」{END}","<audio_1B0B>Ten:<nl>
+Don't tell me... Are you with the Eclipse?
+<pause>
+<audio_1B0C>Rondoline:<nl>
+No, I'm not with them, but...<nl>
+Well, maybe? I dunno...
+<pause>
+<audio_1B0D>Ten:<nl>
+The hell?
+<pause>
+<audio_1B0E>Rondoline:<nl>
+How much do you know about Eclipse?
+<pause>
+<audio_1B0F>Ten:<nl>
+Hmm... The stories about it fascinated me,
+so I asked all sorts of customers about it.
+<pause>
+<audio_1B10>Ten:<nl>
+Though, the old man never mentioned them.
+I can only tell you what I know, even though it's not a whole lot.
+<pause>
+<audio_1B11>Ten:<nl>
+That fine with you?
+<pause>
+<audio_1B12>Rondoline:<nl>
+Sounds good to me. As long as I can
+learn even a little about my family.
+<pause>
+<audio_1B13>Ten:<nl>
+Well, here's what I know...
+<pause>
+<audio_1B14>Ten:<nl>
+Long story short, the Eclipse is an organization that maintains the balance of the world from the shadows.
+<pause>
+<audio_1B15>Ten:<nl>
+They say if any country amasses too much power, the organization plunges them into chaos and destroys their very foundation.{END}"
+"<audio_1B16>ロンドリーネ
+「じゃあ、ミッドガルズの国王が
+　殺されたのも・・・」
+<pause>
+<audio_1B17><Cless>
+「でも、
+　どうしてそんなことを？」
+<pause>
+<audio_1B18>テン
+「世界を裏で操るビッグなんちゃ
+　らって奴がいて、連中はそいつ
+　の命令で動くって話もある」
+<pause>
+<audio_1B19>テン
+「以前は、歴史の表舞台にいた
+　某組織がエクリプスじゃない
+　かって話もあるが」
+<pause>
+<audio_1B1A>テン
+「何よりその暗殺技を引き継ぐ才
+　能に重きを置いているらしい」
+<pause>
+<audio_1B1B>テン
+「今はどこにいて、どこで活動
+　しているのかわからない」
+<pause>
+<audio_1B1C>テン
+「普通の町に暮らし、人々の中に
+　紛れ込んでるとか、山の奥地に
+　隠れ住むとか諸説ふんぷんだ」{END}","<audio_1B16>Rondoline:<nl>
+Then the one who killed Midgard's king was...
+<pause>
+<audio_1B17><Cless>:<nl>
+But why would they do that?
+<pause>
+<audio_1B18>Ten:<nl>
+Some say there's this “mastermind” pulling the strings from the shadows, and they're all just following orders.
+<pause>
+<audio_1B19>Ten:<nl>
+I've also heard that there was a historically significant organization that might have secretly been the Eclipse.
+<pause>
+<audio_1B1A>Ten:<nl>
+And above all, they're an organization that prioritizes recruiting those skilled at assassination.
+<pause>
+<audio_1B1B>Ten:<nl>
+As for where they are and what they're doing now? That I don't know.
+<pause>
+<audio_1B1C>Ten:<nl>
+I've heard theories that they might be living normally in town amongst ordinary folk; or deep within the mountains.{END}"
+"<audio_1B1D>ロンドリーネ
+「エクリプスって暗殺者なんで
+　しょ？そんなんじゃ仕事頼め
+　なくない？」
+<pause>
+<audio_1B1E>テン
+「仕事の依頼は、どこだかの木に
+　依頼人の名前と『ＺＹＸ』と
+　刻むといいとか」
+<pause>
+<audio_1B1F>テン
+「世界のどこかにあるＥポストっ
+　てのに手紙を入れるとか、それ
+　も本当か嘘かはわからない」
+<pause>
+<audio_1B20>ロンドリーネ
+「その辺りもなんか
+　曖昧なんだね」
+<pause>
+<audio_1B21>テン
+「とにかく噂しかない連中だし」
+<pause>
+<audio_1B22>テン
+「その存在をちゃんと知っていて
+　接触できるのはほんの一握りの
+　人だっていうしね」
+<pause>
+<audio_1B23>テン
+「もしかしたら、今話したこと、
+　全部嘘かもしれないし、本当
+　かもしれない」
+<pause>
+<audio_1B24>テン
+「大体、エクリプスの存在すら僕
+　は信じてなかった、今の今、そ
+　の""ドラグノフ""を見るまで」
+<pause>
+<audio_1B25>テン
+「本人たちに会ったのはギースの
+　オヤジだけだからね」
+<pause>
+<audio_1B26>ロンドリーネ
+「そっか・・・
+　そうなんだ・・・ありがとう」{END}","<audio_1B1D>Rondoline:<nl>
+Eclipse members are assassins, aren't they? How do you even go about hiring them?
+<pause>
+<audio_1B1E>Ten:<nl>
+Simple. They say that they will contact you if you carve out your name and “ZYX” into any tree.
+<pause>
+<audio_1B1F>Ten:<nl>
+I've also heard that you can contact them by just sending a letter addressed to them through E-Post. But I can't really confirm if any of this is true.
+<pause>
+<audio_1B20>Rondoline:<nl>
+That's so vague...
+<pause>
+<audio_1B21>Ten:<nl>
+They're fraught with rumors for good reason.
+<pause>
+<audio_1B22>Ten:<nl>
+Only a few people in this world truly know the means to reach out to them.
+<pause>
+<audio_1B23>Ten:<nl>
+Heck, what I'm saying may or may NOT be true.
+<pause>
+<audio_1B24>Ten:<nl>
+To be honest, I didn't believe the Eclipse existed at all until I saw you walk in with Dragunov.
+<pause>
+<audio_1B25>Ten:<nl>
+The only one I know who has met them
+in person is old man Aegis.
+<pause>
+<audio_1B26>Rondoline:<nl>
+I see... So that's how it is... Thank you.{END}"
+"<audio_1B27><Cless>
+「結局、なんだかよくわかんな
+　かったね」{END}","<audio_1B27><Cless>:<nl>
+Looks like he didn't have much info on them.{END}"
+"<audio_1B28>ロンドリーネ
+「だね、私の知ってる父さんの
+　イメージとも全然つながらない
+　し・・・」{END}","<audio_1B28>Rondoline:<nl>
+Right. It didn't really match up with how I viewed my father either.{END}"
+"<audio_1B29>ロンドリーネ
+「ま、でも、別にいいか、
+　知らなくても
+　謎の集団ってことで」
+<pause>
+<audio_1B2A>ロンドリーネ
+「別に私はエクリプスに
+　なるつもりもないし」
+<pause>
+<audio_1B2B><Cless>
+「そういう考え方もあるね」{END}","<audio_1B29>Rondoline:<nl>
+Well, whatever. Let's just call them a secret society.
+<pause>
+<audio_1B2A>Rondoline:<nl>
+It's not like I plan on joining the Eclipse anyway.
+<pause>
+<audio_1B2B><Cless>:<nl>
+Well, that's one way to look at it.{END}"
+"<audio_1B2C><Arche>
+「あたしは謎が深まりすぎて、
+　逆に好奇心あおられまくり
+　なんですけど」
+<pause>
+<audio_1B2D><Klarth>
+「分野は違うとは言え、
+　学者魂が騒ぐな」
+<pause>
+<audio_1B2E><Chester>
+「ま、そういうことは
+　この旅が終わってから
+　追求するってことで」{END}","<audio_1B2C><Arche>:<nl>
+Actually, I'm invested after hearing all about it.
+<pause>
+<audio_1B2D><Klarth>:<nl>
+Even I, a scholar, am intrigued as well. Despite it not falling into my own field of expertise.
+<pause>
+<audio_1B2E><Chester>:<nl>
+Let's wrap this journey up first. Then we can investigate it to our heart's content?{END}"
+"<audio_1B2F><Arche>
+「それじゃあ、ぱぱっと
+　ダオスを倒しちゃお！」{END}","<audio_1B2F><Arche>:<nl>
+Damn right! Let's go douse Dhaos ASAP!{END}"
+"<audio_1B30><Chester>
+「ぱぱっとって、簡単に
+　言うなよな、まったく」
+<pause>
+<audio_1B31><Cless>
+「先を急ごう」{END}","<audio_1B30><Chester>:<nl>
+Don't jinx us! This ain't no simple journey.
+<pause>
+<audio_1B31><Cless>:<nl>
+Let's go.{END}"

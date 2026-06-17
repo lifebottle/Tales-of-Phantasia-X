@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_319">
+        <source>Your cooking tastes like
+it came out of a horse's ass.</source>
+        <target state="translated">Your cooking tastes like
+it came out of a horse's ass.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_320">
+        <source>Yeah, well what about yours!?</source>
+        <target state="translated">Yeah, well what about yours!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_321">
+        <source>Hah, mine? It's like fine wine
+compared to *someone else's*.</source>
+        <target state="translated">Hah, mine? It's like fine wine
+compared to *someone else's*.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_322">
+        <source>Oh, shut up already! Everyone has their
+strong and weak points, so who cares anyway?</source>
+        <target state="translated">Oh, shut up already! Everyone has their
+strong and weak points, so who cares anyway?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_323">
+        <source>But you'll never land a
+husband if you can't cook, will you?</source>
+        <target state="translated">But you'll never land a
+husband if you can't cook, will you?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_324">
+        <source>Hmph! You know what? I'll
+just get one who can do it for me!</source>
+        <target state="translated">Hmph! You know what? I'll
+just get one who can do it for me!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_214">
+        <source>I really wish to apologize about your parents.</source>
+        <target state="translated">I really wish to apologize about your parents.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_215">
+        <source>Please do not concern yourself.</source>
+        <target state="translated">Please do not concern yourself.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_216">
+        <source>But--!</source>
+        <target state="translated">But--!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_217">
+        <source>Do not worry. A ninja must keep a steeled heart.</source>
+        <target state="translated">Do not worry. A ninja must keep a steeled heart.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

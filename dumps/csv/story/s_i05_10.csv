@@ -1,0 +1,583 @@
+"<speed_0004><audio_06B7>マリア
+「あいつらは・・・
+　お前のペンダントを・・・」{END}","<speed_0004><audio_06B7>Maria:<nl>
+ They came for...for your pendant...{END}"
+"<Cless>
+<audio_172C>「父さんがくれた、ペンダントを
+　狙う奴ら・・・」
+<pause>
+<Cless>
+<audio_172D>「・・・・・・」{END}","<Cless>:<nl>
+ <audio_172C>(All this over the pendant Dad gave
+ me...)
+<pause>
+<Cless>:<nl>
+ <audio_172D>......{END}"
+"<Cless>
+<audio_172E>「早くここから離れよう！」
+<pause>
+{END}","<Cless>:<nl>
+ <audio_172E>(I've got to get out of here, fast!)
+<pause>
+{END}"
+"<unk1><Cless>
+<audio_172F>そうすれば、少なくとも<Chester>が狙われることはないはずだ<speed_0010>・・・」{END}","<unk1><Cless>:<nl>
+ <audio_172F>(That way, they should leave
+ <Chester> alone<speed_0010>...){END}"
+"<Cless>
+「早く家に行かないと・・・」
+<pause>
+<Cless>
+「父さんと母さんが心配だ」{END}","<Cless>:<nl>
+ (I have to get home fast, too...)
+<pause>
+<Cless>:<nl>
+ (I'm really worried about Mom and
+ Dad.){END}"
+"<audio_06AD><Cless>
+「と、父さん・・・」
+<pause>
+<audio_06AE>ミゲール
+「<Cless>・・・」
+<pause>
+<audio_06AF>ミゲール
+「母さんは<speed_0010>・・・<speed_FFFF>無事か・・・」
+<pause>
+<audio_06B0><Cless>
+「父さん、何が起きたの！？」
+<pause>
+<audio_06B1>ミゲール
+「・・・ぐふっ！」<wait>{END}","<audio_06AD><Cless>:<nl>
+ D-Dad...
+<pause>
+<audio_06AE>Miguel:<nl>
+ <Cless>...
+<pause>
+<audio_06AF>Miguel:<nl>
+ Is your mother<speed_0010>...<speed_FFFF>safe...?
+<pause>
+<audio_06B0><Cless>:<nl>
+ Dad, what happened!?
+<pause>
+<audio_06B1>Miguel:<nl>
+ ...Ugh!<wait>{END}"
+"<Cless>
+「父さん！！」{END}","<Cless>:<nl>
+ DAD!!{END}"
+"<audio_06B3><Cless>
+「母さん！！」{END}","<audio_06B3><Cless>:<nl>
+ MOM!!{END}"
+"<audio_06B4><Cless>
+「母さん、しっかり！」
+<pause>
+<audio_06B5>マリア
+「<Cless>、逃げなさい」
+<pause>
+<audio_06B6>マリア
+「伯父の住む北の都ユークリッド
+　に・・・」
+<pause>
+<audio_06B7>マリア
+「あいつらは、お前のペンダント
+　を・・・」
+<pause>
+<audio_06B8><Cless>
+「あいつらって誰！？」
+<pause>
+<audio_06B9><Cless>
+「いったい誰が・・・」
+<pause>
+<audio_06BA><Cless>
+「こんなことを・・・」
+<pause>
+<audio_06BB>マリア
+「父さんは<speed_0010>・・・<speed_FFFF>私が人質にとら
+　れなければ<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_06BC>マリア
+「ああっ・・・」{END}","<audio_06B4><Cless>:<nl>
+ Mom, hang on!
+<pause>
+<audio_06B5>Maria:<nl>
+ You must...run away...
+<pause>
+<audio_06B6>Maria:<nl>
+ Go see your uncle in...in Euclid...to
+ the north...
+<pause>
+<audio_06B7>Maria:<nl>
+ They came for...for your pendant...
+<pause>
+<audio_06B8><Cless>:<nl>
+ Who did!?
+<pause>
+<audio_06B9><Cless>:<nl>
+ Who the hell...
+<pause>
+<audio_06BA><Cless>:<nl>
+ ...could do this...?
+<pause>
+<audio_06BB>Maria:<nl>
+ If they hadn't<speed_0010>...<speed_FFFF>taken me<speed_0010>...<speed_FFFF>hostage,
+ your f<speed_0010>...<speed_FFFF>father<speed_0010>...<speed_FFFF>
+<pause>
+Maria:<nl>
+ ...wo<audio_06BC>u--agh...{END}"
+"<audio_06BD><Cless>
+「母さん、母さん！」
+<pause>
+<audio_06BE>マリア
+「・・・・・・」
+<pause>
+<audio_06BF><Cless>
+「目を、開けてよ・・・」<wait>{END}","<audio_06BD><Cless>:<nl>
+ Mom, Mom!
+<pause>
+<audio_06BE>Maria:<nl>
+ ......
+<pause>
+<audio_06BF><Cless>:<nl>
+ Open your eyes...!<wait>{END}"
+"<Cless>
+「母さん！！」{END}","<Cless>:<nl>
+ Mom...{END}"
+"<Cless>
+「うわあああああ！！！」{END}","<Cless>:<nl>
+ WAHHHHH!!!{END}"
+すでに、息絶えている・・・{END},Not breathing...{END}
+"<unk1><Chester>
+<Cless>、後から必ず行く
+から・・・」<wait>{END}","<unk1><Chester>:<nl>
+ Don't worry.
+ I'll follow you soon, <Cless>...<wait>{END}"
+"<Cless>
+「必ずだぞ」
+<pause>
+<Cless>
+「北のユークリッドで、待ってる
+　からな！」{END}","<Cless>:<nl>
+ I'm counting on you.
+<pause>
+<Cless>:<nl>
+ I'll be waiting up north, in Euclid!{END}"
+"<Cless>
+「アミィちゃん・・・」{END}","<Cless>:<nl>
+ Poor little Ami...{END}"
+すでに、息絶えている・・・{END},Not breathing...{END}
+"<Cless>
+「お姉さん・・・」
+<pause>
+<Cless>
+「どうか天国で幸せになって下さ
+　い・・・」{END}","<Cless>:<nl>
+ You were like a big sister to me...
+<pause>
+<Cless>:<nl>
+ Please find peace in Heaven...{END}"
+"<Cless>
+「来月結婚式だったのに・・・」
+<pause>
+<Cless>
+「何でこんなことに・・・」{END}","<Cless>:<nl>
+ And they were going to get
+ married next month...
+<pause>
+<Cless>:<nl>
+ How could this happen...?{END}"
+"<Cless>
+「剣術を教えてやれなくてゴメン
+　な・・・」{END}","<Cless>:<nl>
+ I'm so sorry I didn't teach you
+ about swordplay...{END}"
+"<Cless>
+「小さな子供まで・・・」
+<pause>
+<Cless>
+「いったい誰がこんなひどいこと
+　を・・・」{END}","<Cless>:<nl>
+ Even a defenseless little girl...
+<pause>
+<Cless>:<nl>
+ What kind of monster would...{END}"
+"<Cless>
+「この剣は・・・」
+<pause>
+<Cless>
+「父さんのでも僕のでもない」
+<pause>
+<Cless>
+「もしかして、ここを襲った奴ら
+　の！？」<wait>{END}","<Cless>:<nl>
+ A sword...
+<pause>
+<Cless>:<nl>
+ It doesn't belong to me or Dad...
+<pause>
+<Cless>:<nl>
+ Did the attackers leave it behind!?<wait>{END}"
+<color_0002><item_A400>を手に入れました。<color_0000>{END},<color_0002>Acquired a <item_A400>.<color_0000>{END}
+"<Cless>
+「父さん・・・」{END}","<Cless>:<nl>
+ Dad...{END}"
+"<Cless>
+「母さん・・・」{END}","<Cless>:<nl>
+ Mom...{END}"
+"『ミゲール＝アルベイン、ここに
+　眠る』
+<pause>
+<Cless>
+「父さん・・・」{END}","“Here rests Miguel Alvein.”
+<pause>
+<Cless>:<nl>
+ Dad...{END}"
+"『マリア＝アルベイン、ここに眠
+　る』
+<pause>
+<Cless>
+「母さん・・・」
+<pause>
+<Cless>
+「僕にもっと力があれば・・・」{END}","“Here rests Maria Alvein.”
+<pause>
+<Cless>:<nl>
+ Mom...
+<pause>
+<Cless>:<nl>
+ If only I were stronger...{END}"
+"『アミィ＝バークライト、ここに
+　眠る』
+<pause>
+<Cless>
+「<Chester>・・・」{END}","“Here rests Ami Barklight.”
+<pause>
+<Cless>:<nl>
+ <Chester>...{END}"
+"<Cless>
+「どうか安らかに、
+　眠って下さい・・・」{END}","<Cless>:<nl>
+ Please rest in peace...{END}"
+"扉が壊れていて、中に入ることが
+できない。{END}","The door is damaged and won't
+open.{END}"
+半鐘が壊されている。{END},The bell has been destroyed.{END}
+"<audio_06FB><Chester>
+「アミィ・・・」{END}","<audio_06FB><Chester>:<nl>
+ Ami...{END}"
+"<audio_06FC><Chester>
+「・・・・・・」
+<pause>
+<audio_06FD><Chester>
+「人が来る・・・」{END}","<audio_06FC><Chester>:<nl>
+ ......
+<pause>
+<audio_06FD><Chester>:<nl>
+ Someone's coming!{END}"
+"<audio_06FE><Chester>
+「また来たのか？」
+<pause>
+<audio_06FF><Chester>
+「・・・・・・」
+<pause>
+<audio_0700><Chester>
+「アミィ<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0701><Chester>
+「今、お前の仇をとってやるから
+　な・・・」{END}","<audio_06FE><Chester>:<nl>
+ Could it be the attackers?
+<pause>
+<audio_06FF><Chester>:<nl>
+ ......
+<pause>
+<audio_0700><Chester>:<nl>
+ Ami<speed_0010>...
+<pause>
+<speed_FFFF><audio_0701><Chester>:<nl>
+ I'm gonna get my revenge for you!{END}"
+"<speed_0004><Cless>
+「時間の剣を、よろしくお願いし
+　ます」<wait>{END}","<Cless>:<nl>
+ I'll leave the Blade of Time with
+ you.<wait>{END}"
+"<speed_0004><Klarth>
+「わかった、私が責任を持って封
+　印しよう」<wait>{END}","<Klarth>:<nl>
+ Right.
+ I'll make it my duty to seal it
+ away.<wait>{END}"
+"<speed_0004><Cless>
+「それじゃあ、お元気で・・・」<wait>{END}","<Cless>:<nl>
+ Well, take care...<wait>{END}"
+"<speed_0004><Arche>
+「みんな・・・」<wait>{END}","<Arche>:<nl>
+ Y'know, guys...<wait>{END}"
+"<speed_0004><Arche>
+「バイバイなんて言わないよ」<wait>{END}","<Arche>:<nl>
+ I'm not gonna say bye-bye.<wait>{END}"
+"<speed_0004><Arche>
+「もう会えなくなるわけじゃない
+　もんね」<wait>{END}","<Arche>:<nl>
+ 'Cause this ain't really gonna be the
+ last time we meet, right?<wait>{END}"
+"<speed_0004><Arche>
+「でも・・・」<wait>{END}","<Arche>:<nl>
+ But...<wait>{END}"
+"<speed_0004><Arche>
+「あと１００年後にしか、会えな
+　いなんて・・・」<wait>{END}","<Arche>:<nl>
+ Still, I'm gonna have to wait...<wait>{END}"
+"<speed_0004><Arche>
+「寂しすぎるよぉ・・・」<wait>{END}","<Arche>:<nl>
+ ...a lonely hundred years...<wait>{END}"
+"<speed_0004><Cless>
+「<Arche>・・・」<wait>{END}","<Cless>:<nl>
+ <Arche>...<wait>{END}"
+"<speed_0004><Klarth>
+「私は・・・もうニ度と会えない
+　な・・・」<wait>{END}","<Klarth>:<nl>
+ I...won't be seeing you again...<wait>{END}"
+"<speed_0004><Cless>
+「<Klarth>さん・・・」<wait>{END}","<Cless>:<nl>
+ <Klarth>...<wait>{END}"
+"<speed_0004><Klarth>
+「気にするな」<wait>{END}","<Klarth>:<nl>
+ Hey, don't get down over me.<wait>{END}"
+"<speed_0004><Klarth>
+「おまえ達に会えただけでも、良
+　かったと思っている」<wait>{END}","<Klarth>:<nl>
+ As I said before, I'm happy enough
+ just to have been able to meet you
+ guys.<wait>{END}"
+"<unk1><speed_0004><Klarth>
+<Chester>も<Mint>も・・・」<wait>{END}","<unk1><Klarth>:<nl>
+ Farewell, <Mint> and <Chester>...<wait>{END}"
+"<speed_0004><Klarth>
+「元気でな」<wait>{END}","<Klarth>:<nl>
+ Take care of yourselves.<wait>{END}"
+"<speed_0004><Klarth>
+「さあ、もう行こう」<wait>{END}","<Klarth>:<nl>
+ Well, time to hit the road,
+ <Arche>.<wait>{END}"
+"<speed_0004><Cless>
+「<Chester>・・・」<wait>{END}","<Cless>:<nl>
+ <Chester>...<wait>{END}"
+"<speed_0004><Cless>
+「もういいか？」<wait>{END}","<Cless>:<nl>
+ Are you gonna be okay?<wait>{END}"
+"<speed_0004><Chester>
+「・・・・・・」<wait>{END}","<Chester>:<nl>
+ ......<wait>{END}"
+"<speed_0004><Chester>
+「ああ・・・」<wait>{END}","<Chester>:<nl>
+ Yeah...<wait>{END}"
+"<speed_0004><Chester>
+「そんな・・・悲しそうな顔、す
+　んなよ」<wait>{END}","<Chester>:<nl>
+ Oh, come on...<nl>
+ Wipe that sad look off your face!<wait>{END}"
+"<speed_0004><Arche>
+「・・・・・・」<wait>{END}","<Arche>:<nl>
+ ......<wait>{END}"
+"<speed_0004><Arche>
+「・・・そうだね」<wait>{END}","<Arche>:<nl>
+ ...'kay.<wait>{END}"
+"<speed_0004><Chester>
+「またな・・・」<wait>{END}","<Chester>:<nl>
+ See ya later...<wait>{END}"
+"<speed_0004><Arche>
+「・・・・・・」<wait>{END}","<Arche>:<nl>
+ ......<wait>{END}"
+"<speed_0004><Arche>
+「うん<heart>」<wait>{END}","<Arche>:<nl>
+ ...Alligator <heart><wait>{END}"
+"<speed_0004><Klarth>
+「時間の剣よ、私達の時代へ！」<wait>{END}","<Klarth>:<nl>
+ Blade of Time!<nl>
+ Take us home!<wait>{END}"
+"<speed_0004><Chester>
+「これからどうする？」<wait>{END}","<Chester>:<nl>
+ So, what next?<wait>{END}"
+"<speed_0004><Cless>
+「まずは、村を建て直そう」<wait>{END}","<Cless>:<nl>
+ First, we rebuild our village.<wait>{END}"
+"<speed_0004><Cless>
+「それが終わったら・・・」<wait>{END}","<Cless>:<nl>
+ But perhaps when we're finished
+ with that...<wait>{END}"
+"<speed_0004><Chester>
+「終わったら？」<wait>{END}","<Chester>:<nl>
+ Yeah, man?<wait>{END}"
+"<unk1><speed_0004><Cless>
+<Arche>は・・・きっと、僕達と同じ時を過ごしているはずだ」<wait>{END}","<unk1><Cless>:<nl>
+ Well, I imagine a very lonely
+ <Arche> will be around, dying to
+ see us.<wait>{END}"
+"<speed_0004><Cless>
+「会いに行こう！」<wait>{END}","<Cless>:<nl>
+ We'll go have a nice reunion with
+ her!<wait>{END}"
+"<speed_0004><Chester>
+「ああ！」<wait>{END}","<Chester>:<nl>
+ Heck yeah!<wait>{END}"
+"<speed_0004><Mint>
+「私も・・・連れていってくれま
+　すか？」<wait>{END}","<Mint>:<nl>
+ May I...accompany you?<wait>{END}"
+"<speed_0004><Cless>
+「もちろん！」<wait>{END}","<Cless>:<nl>
+ Of course!<wait>{END}"
+"<audio_06A9><Cless>
+「そ、そんな・・・」
+<pause>
+<audio_06AA><Chester>
+「オレ・・・」
+<pause>
+<audio_06AB><Chester>
+「家を見てくる！」<wait>{END}","<audio_06A9><Cless>:<nl>
+ H-Holy...
+<pause>
+<audio_06AA><Chester>:<nl>
+ I...
+<pause>
+<audio_06AB><Chester>:<nl>
+ ...need to get home!<wait>{END}"
+"<Chester>
+「アミィ！」{END}","<Chester>:<nl>
+ AMI!!!
+ Hang on!{END}"
+"<audio_06C2><Cless>
+「・・・・・・」
+<pause>
+<audio_06C3><Cless>
+「<Chester><speed_0010>・・・」{END}","<audio_06C2><Cless>:<nl>
+ ......
+<pause>
+<audio_06C3><Cless>:<nl>
+ <Chester><speed_0010>...{END}"
+"<audio_06C4><Cless>
+「<Chester>、ここは危険だ」
+<pause>
+<audio_06C5><Cless>
+「ユークリッドの僕の伯父の所へ
+　行こう・・・」
+<pause>
+<audio_06C6><Chester>
+「<speed_0010>・・・・・・<speed_FFFF>」
+<pause>
+<audio_06C7><Chester>
+「アミィや村の人達をこのままに
+　して、逃げるっていうのか？」<wait>{END}","<audio_06C4><Cless>:<nl>
+ <Chester>, it isn't safe here.
+ We've got to run away!
+<pause>
+<audio_06C5><Cless>:<nl>
+ My uncle in Euclid can help us...
+<pause>
+<audio_06C6><Chester>:<nl>
+ <speed_0010>......<speed_FFFF>
+<pause>
+<audio_06C7><Chester>:<nl>
+ You're saying we should just leave
+ Ami and the others to rot like this?<wait>{END}"
+"<audio_06C8><Chester>
+「オレはいやだ！」
+<pause>
+<audio_06C9><Chester>
+「行くんなら一人で行け！」
+<pause>
+<audio_06CA><Chester>
+「<speed_0010>・・・・・・<speed_FFFF>」
+<pause>
+<audio_06CB><Chester>
+「みんなを弔わないと・・・」
+<pause>
+<audio_06CC><Chester>
+「オレ一人だけでも・・・」
+<pause>
+<audio_06CD><Cless>
+「村を襲った奴らが戻って来たら、
+　殺されるかもしれないんだぞ！」
+<pause>
+<audio_06CE><Chester>
+「・・・・・・」{END}","<audio_06C8><Chester>:<nl>
+ To hell with that!
+<pause>
+<audio_06C9><Chester>:<nl>
+ Go by yourself if you're that
+ heartless!
+<pause>
+<audio_06CA><Chester>:<nl>
+ <speed_0010>......<speed_FFFF>
+<pause>
+<audio_06CB><Chester>:<nl>
+ Every single person here deserves
+ a proper burial...
+<pause>
+<audio_06CC><Chester>:<nl>
+ I'm more than willing to do it alone
+ if I have to...
+<pause>
+<audio_06CD><Cless>:<nl>
+ But if the guys who attacked come
+ back, you could be killed!
+<pause>
+<audio_06CE><Chester>:<nl>
+ ......{END}"
+"<audio_06CF><Chester>
+「すまん、<Cless>・・・」
+<pause>
+<audio_06D0><Chester>
+「それでも、オレは・・・」
+<pause>
+<audio_06D1><Cless>
+「<Chester>・・・」
+<pause>
+<audio_06D2><Chester>
+「先に行っててくれ・・・」
+<pause>
+<audio_06D3><Chester>
+「ニ人とも残るのは危険だ」
+<pause>
+<audio_06D4><Chester>
+「オレは後から必ず行くから」
+<pause>
+<audio_06D5><Cless>
+「必ずだぞ・・・」<wait>{END}","<audio_06CF><Chester>:<nl>
+ Sorry, <Cless>...
+<pause>
+<audio_06D0><Chester>:<nl>
+ I just...
+<pause>
+<audio_06D1><Cless>:<nl>
+ <Chester>...
+<pause>
+<audio_06D2><Chester>:<nl>
+ Don't worry about me, man.
+ Go on ahead...
+<pause>
+<audio_06D3><Chester>:<nl>
+ It's too risky for both of us to
+ stick around here, anyway.
+<pause>
+<audio_06D4><Chester>:<nl>
+ I'll follow you soon.
+ Count on it.
+<pause>
+<audio_06D5><Cless>:<nl>
+ That's a promise...<wait>{END}"
+"<audio_06D6><Chester>
+「ああ、必ずだ・・・」
+<pause>
+<audio_06D7><Chester>
+「ニ人で必ず仇を討つぞ！」
+<pause>
+<audio_06D8><Cless>
+「ああ！！」{END}","<audio_06D6><Chester>:<nl>
+ Yeah, a promise...
+<pause>
+<audio_06D7><Chester>:<nl>
+ A promise to get the bastards who
+ did this!
+<pause>
+<audio_06D8><Cless>:<nl>
+ Yeah!!{END}"

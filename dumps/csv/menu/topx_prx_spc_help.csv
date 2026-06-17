@@ -1,0 +1,314 @@
+剣圧を飛ばして敵を攻撃する{END},"Base: Unleash a cutting shockwave
+along the ground. A base arte can
+be connected from a regular attack.{END}"
+二段蹴りから突きへとつなぐ連続技{END},"Base: Combo attack consisting of two
+flying kicks and a downward thrust.{END}"
+"周囲の敵を巻き込む落雷を
+生じさせる{END}","Base: Fry an enemy with a
+bolt of lightning and finish
+with a downward slash.{END}"
+無数の連続突きで敵を斬り刻む{END},"Base: Attack the enemy
+with multiple thrusts.{END}"
+"獲物に襲いかかる獣の牙のごとく
+敵を上下から斬りつける二段技{END}","Base: Two-hit slash slicing
+the enemy up then down.{END}"
+"不死鳥のオーラに身を包んで
+空高く舞い上がり敵に突撃する{END}","Base: Soar into enemies while
+enveloped in the flames of the
+legendary bird.{END}"
+闘気を敵に叩きつけて吹き飛ばす{END},"Base: Knock down an enemy with the
+force of a powerful, charging beast.{END}"
+闘気を上空高く巻き上げる回転突き{END},"Base: Bash an enemy with your
+shield and spin around to finish
+with a mighty thrust.{END}"
+"時空剣技の一つ
+強烈な闘気で敵を斬り刻む{END}","Base: Halt the enemy with an
+energy barrier and slice them
+up with an aura wave.{END}"
+"時空剣技の一つ
+敵の前方へ瞬間移動し連続攻撃する{END}","Base: Teleport to an enemy
+and deliver a combo attack.{END}"
+"時空剣技の一つ
+空間を歪ませて敵を一刀両断する{END}","Base: Create a distortion enlarging
+your weapon and cleave the enemy
+in two with a down slash.{END}"
+"真空破を巻き起こして敵を
+斬りつける{END}","Create a void to extend attack range
+and deliver a devasting horizontal
+slice to the enemy.{END}"
+"炎の闘気をまとった武器を
+投げつけて敵を燃やしつくす{END}","Toss an enkindled sword
+to incinerate enemies.{END}"
+"地面に武器を突き立て敵の侵入を
+阻む光の壁を作り出す{END}","Implant your weapon into the
+ground to create a barrier of
+light that repels the enemy.{END}"
+"気を集中させることによって
+一時的に攻撃力を上昇させる{END}","Focus your energy to
+temporarily increase Attack.{END}"
+"気を集中させることによって
+一時的に命中率を上昇させる{END}","Concentrate your mind to
+temporarily increase Accuracy.{END}"
+"大気中の気を体内に取り込み
+体力を回復する{END}","Absorb energy particles from the
+atmosphere to restore some HP.{END}"
+"通常攻撃をコンビネーションとして
+繰り出す連続技{END}","A deadly multi-hit combo attack.
+Requires a manually-inputted sequence
+of button presses to perform in full.{END}"
+"魔神剣と飛燕連脚を組み合わせた
+奥義{END}","Arcane: A combination of Demon Fang
+and Swallow Dance. An arcane arte
+can be connected from a base arte.{END}"
+"魔神剣と虎牙破斬を組み合わせた
+奥義{END}","Arcane: A combination of Demon Fang
+and Tiger Blade.{END}"
+魔神剣と秋沙雨を組み合わせた奥義{END},"Arcane: A combination of Demon Fang
+and Sword Rain: Alpha.{END}"
+"魔神剣と閃空裂破を組み合わせた
+奥義{END}","Arcane: A combination of Demon Fang
+and Light Spear.{END}"
+"獅子戦吼と飛燕連脚を組み合わせた
+奥義{END}","Arcane: A combination of Beast
+and Swallow Dance.{END}"
+"獅子戦吼と虎牙破斬を組み合わせた
+奥義{END}","Arcane: A combination of Beast
+and Tiger Blade.{END}"
+"獅子戦吼と秋沙雨を組み合わせた
+奥義{END}","Arcane: A combination of Beast
+and Sword Rain: Alpha.{END}"
+"獅子戦吼と閃空裂破を組み合わせた
+奥義{END}","Arcane: A combination of Beast
+and Light Spear.{END}"
+"襲爪雷斬と飛燕連脚を組み合わせた
+奥義{END}","Arcane: A combination of
+Lightning Tiger Blade and
+Swallow Dance.{END}"
+"襲爪雷斬と虎牙破斬を組み合わせた
+奥義{END}","Arcane: A combination of
+Lightning Tiger Blade and Tiger Blade.{END}"
+"襲爪雷斬と秋沙雨を組み合わせた
+奥義{END}","Arcane: A combination of
+Lightning Tiger Blade
+and Sword Rain: Alpha.{END}"
+"襲爪雷斬と閃空裂破を組み合わせた
+奥義{END}","Arcane: A combination of
+Lightning Tiger Blade and Light Spear.{END}"
+"鳳凰天駆と飛燕連脚を組み合わせた
+奥義{END}","Arcane: A combination of Rising Phoenix
+and Swallow Dance.{END}"
+"鳳凰天駆と虎牙破斬を組み合わせた
+奥義{END}","Arcane: A combination of Rising Phoenix
+and Tiger Blade.{END}"
+"鳳凰天駆と秋沙雨を組み合わせた
+奥義{END}","Arcane: A combination of Rising Phoenix
+and Sword Rain: Alpha.{END}"
+"鳳凰天駆と閃空裂破を組み合わせた
+奥義{END}","Arcane: A combination of Rising Phoenix
+and Light Spear.{END}"
+"次元斬と虚空蒼破斬を組み合わせた
+時空奥義{END}","Arcane/Eternal: A combination of
+Distortion Blade and Chaos Blade.{END}"
+"空間翔転移と虚空蒼破斬を
+組み合わせた時空奥義{END}","Arcane/Eternal: A combination of
+Void Shift and Chaos Blade.{END}"
+炎をまとった矢を放つ{END},Shoot an arrow enveloped in flames.{END}
+凍気をまとった矢を放つ{END},"Shoot an arrow enveloped
+in frigid energy.{END}"
+いかづちをまとった矢を放つ{END},"Shoot an arrow enveloped
+in electrical energy.{END}"
+貫通力を持った矢を放つ{END},Shoot an arrow with piercing strength.{END}
+素早い動きで矢を連射する{END},Barrage the enemy with arrows.{END}
+地面を吹き飛ばしダメージを与える{END},"Impact the ground with a powerful shot
+that sends debris flying at the enemy.{END}"
+"敵の頭上へ雨の様に降り注ぐ
+矢を放つ{END}","Shower the enemy with a
+full quiver of arrows.{END}"
+巨大化する矢を放つ{END},Shoot an arrow of epic proportions.{END}
+闘気を込めた強力な一撃を放つ{END},Shoot a deadly blast of energy.{END}
+分身して敵に二倍ダメージを与える{END},"Create a shadow clone to double
+damage dealt to an enemy.{END}"
+連続攻撃で敵を斬り刻む{END},"Make mincemeat of an enemy
+with multiple slashes.{END}"
+"敵の頭上に落下してダメージを
+与える{END}",A falling spin slice cuts up the enemy.{END}
+木の葉の嵐を巻き起こし逃走する{END},"Call a storm of leaves to
+flee from enemies easily.{END}"
+敵からアイテムを奪い取る{END},Snatch an item from an enemy.{END}
+炎をまとった手裏剣を投げつける{END},"Throw enkindled throwing
+stars at the enemy.{END}"
+投げつけた剣に雷を落とす{END},"Throw a sword into the ground and
+call upon lightning to strike it.{END}"
+真空破を起こして敵を斬り刻む{END},"Cut up the enemy with
+a flurry of slashes.{END}"
+大ガマを召喚して攻撃する{END},Summon a giant frog to attack.{END}
+"炎系攻撃呪文の中で最も簡単なもの
+火炎弾を発する{END}","Novice/Fire: Blast the enemy
+with spheres of flame.{END}"
+"炎系攻撃呪文の一つ
+目標の周囲に溶岩流を出現させる{END}","Intermediate/Fire: Molten rock
+jets from the ground and returns
+as large fire balls.{END}"
+"炎系攻撃呪文の一つ
+目標の周囲に炎の嵐を巻き起こす{END}","Advanced/Fire: Incinerate the enemy
+with a torrent of flame.{END}"
+"炎系攻撃呪文の一つ
+目標の周囲に大爆発を生じさせる{END}","Grandmaster/Fire: Drop a magic bomb
+with a wide blast radius at the
+target's feet.{END}"
+"雷系攻撃呪文の中で最も簡単なもの
+小さな落雷を発する{END}","Novice/Lightning: Call forth
+a tiny bolt of lightning.{END}"
+"雷系攻撃呪文の一つ
+敵の周りに落雷を生じさせる{END}","Intermediate/Lightning: Lightning
+bolts converge to fry the enemy.{END}"
+"雷系攻撃呪文の一つ
+敵の周りに神の雷を落とす{END}","Advanced/Lightning: Strike the
+enemy down with holy wrath.{END}"
+"水系攻撃呪文の中で最も簡単なもの
+無数の氷刃を発する{END}","Novice/Water: Perforate the enemy
+with a barrage of icicle spikes.{END}"
+"水系攻撃呪文の一つ
+敵を氷の嵐に巻き込む{END}","Intermediate/Water: Conjure a
+frigid vortex to pelt the enemy
+with blocks of ice.{END}"
+"水系攻撃呪文の一つ
+敵の真下に大渦巻を作り出す{END}","Advanced/Water: Transform the
+ground into a fierce whirlpool.{END}"
+"水系攻撃呪文の一つ
+敵の周りに洪水を生じさせる{END}","Grandmaster/Water: Drown the
+enemy in a great flood.{END}"
+"地系攻撃呪文の中で最も簡単なもの
+石つぶてを発する{END}","Novice/Earth: Medium-sized rocks
+rain down upon the enemy.{END}"
+"地系攻撃呪文の一つ
+地面から岩槍を出現させる{END}","Intermediate/Earth: Stone spears
+erupt from the ground.{END}"
+"地系攻撃呪文の一つ
+巨石を落下させて敵を押し潰す{END}","Advanced/Earth: Crush the enemy
+with a swarm of sizable rocks
+and finish with a giant boulder.{END}"
+"地系攻撃呪文の一つ
+大地震を起こす{END}","Grandmaster/Earth: Cause a
+devastating ground tremor.{END}"
+"風系攻撃呪文の一つ
+敵の周りに突風を巻き起こす{END}","Novice/Wind: Unleash a sudden
+squall at the enemy.{END}"
+"風系攻撃呪文の一つ
+敵の周りに竜巻を生じさせる{END}","Intermediate/Wind: Enshroud the
+enemy in a powerful tornado.{END}"
+"風系攻撃呪文の一つ
+敵の周りに大嵐を起こす{END}","Advanced/Wind: Conjure a
+raging storm.{END}"
+"風系攻撃呪文の一つ
+風圧で敵を押し潰す{END}","Grandmaster/Wind: Squash the enemy
+with extreme atmospheric pressure.{END}"
+"光系攻撃呪文の一つ
+無数のレーザーで敵を焼き尽くす{END}","Intermediate/Light: Bombard the
+enemy with beams of light.{END}"
+"光系攻撃呪文で禁呪文の一つ
+敵の周りに超爆発を生じさせる{END}","Forbidden/Light: Cause a
+grand explosion to occur.{END}"
+"無属性攻撃呪文の一つ
+地上の敵を空へ持ち上げ落下させる{END}","Intermediate/Non-element: Levitate
+the enemy and drop them.{END}"
+"無属性攻撃呪文の一つ
+敵に向かって隕石を落下させる{END}","Grandmaster/Non-element: Shower
+the enemy with meteorites.{END}"
+"闇系攻撃呪文で禁呪文の一つ
+敵を吸い込む暗黒の穴を作り出す{END}","Forbidden/Dark: Open a great
+void to engulf the enemy.{END}"
+"風の精霊シルフを召喚する
+四大元素の一つ{END}","Summon the Spirit of Wind.
+Governor of one of the
+Four Great Elements.{END}"
+"水の精霊ウンディーネを召喚する
+四大元素の一つ{END}","Summon the Spirit of Water.
+Governor of one of the
+Four Great Elements.{END}"
+"地の精霊ノームを召喚する
+四大元素の一つ{END}","Summon the Spirit of Earth.
+Governor of one of the
+Four Great Elements.{END}"
+"炎の精霊イフリートを召喚する
+四大元素の一つ{END}","Summon the Spirit of Fire.
+Governor of one of the
+Four Great Elements.{END}"
+"四大元素の精霊を統率する精霊
+マクスウェルを召喚する{END}","Summon the Spirit of Molecules.
+The ruler of the Four Great Elements.{END}"
+月の精霊ルナを召喚する{END},Summon the Spirit of the Moon.{END}
+闇の精霊シャドウを召喚する{END},Summon the Spirit of Darkness.{END}
+光の精霊アスカを召喚する{END},Summon the Spirit of Light.{END}
+雷の精霊ヴォルトを召喚する{END},Summon the Spirit of Lightning.{END}
+"万物の根源の精霊オリジンを
+召喚する{END}",Summon the Almighty Spirit of Creation.{END}
+"いにしえに封印された禁呪文の一つ
+魔界の小悪魔を無数に召喚する{END}","Forbidden: Summon countless
+fiendlings from the underworld.{END}"
+"いにしえに封印された禁呪文の一つ
+魔界の魔王を召喚する{END}","Forbidden: Summon the
+overlord of the underworld.{END}"
+味方一人のＨＰを回復させる{END},"Restore a small amount
+of HP to one ally.{END}"
+味方一人のＨＰを回復させる{END},"Restore a medium amount
+of HP to one ally.{END}"
+味方一人のＨＰを回復させる{END},"Restore a large amount
+of HP to one ally.{END}"
+味方全員のＨＰを回復させる{END},"Summon angelic nurses to restore a
+medium amount of HP to all allies.{END}"
+味方全員のＨＰを回復させる{END},"Restore a large amount
+of HP to all allies.{END}"
+味方一人の体内の毒を消しさる{END},Cure poison from one ally.{END}
+"味方一人の毒、マヒ、石化の
+状態を回復させる{END}",Cure all status ailments from one ally.{END}
+"戦闘不能になった味方一人を
+回復させる{END}",Resurrect one KOed ally.{END}
+"敵の頭上にハンマーを落として
+気絶させる{END}","A hammer falls to
+stun one enemy.{END}"
+"敵の頭上に巨大なハンマーを
+落として気絶させる{END}","An enormous hammer
+falls to stun all enemies.{END}"
+"敵の防御力を下げる酸の雨を
+降らせる{END}","Conjure an armor-corroding shower
+to reduce all enemies' Defense.{END}"
+敵の命中率を下げる霧を発生させる{END},"Envelop one enemy in a thick
+fog to reduce Accuracy.{END}"
+敵の呪文を封じる{END},Prevent one enemy from casting spells.{END}
+敵の行動を一定時間止める{END},"Suspend all enemies' movement
+for a period of time.{END}"
+味方一人にＴＰを分け与える{END},"Transfer a small amount
+of TP to one ally.{END}"
+味方一人の防御力を上昇させる{END},Increase one ally's defense.{END}
+味方一人の攻撃力を上昇させる{END},Increase one ally's attack.{END}
+味方の状態変化を解除する{END},Reverse one ally's negative status.{END}
+敵の侵入を阻む光の壁を作り出す{END},"Create a barrier of light
+to repel the enemy.{END}"
+味方一人の移動速度を上昇させる{END},Increase a single ally's mobility.{END}
+敵の移動速度を下げる{END},Decrease the enemy's mobility.{END}
+敵専用魔法{END},Enemy-exclusive magic.{END}
+"残像を残し敵の背後より襲い掛かる
+フェイント攻撃{END}","A feint attack. Leaves an after-image and
+strikes the enemy in the back.{END}"
+"手の内で高速回転させた短剣で
+敵を切り裂く技{END}","Slices the enemy to ribbons with
+a high speed spinning dagger.{END}"
+"敵を切り抜け
+背後より斬り返す二連撃{END}","Hits twice. Cuts through the enemy and then
+slashes them from behind.{END}"
+"相手の攻撃を避け
+間髪入れずに蹴り上げる体術{END}","Avoids the enemy's attack and
+immediately kicks them upwards.{END}"
+"しならせた刀身により
+地を碎き爆風を起こす技{END}","Leaps into the air and unleashes
+an eruption from the Earth.{END}"
+"短剣をブーメランの様に飛ばし
+虹色の軌跡を描く技{END}","Throws out a spinning dagger,
+carving a rainbow path upwards.{END}"
+"刀身をばらし
+遠くの敵を撫で斬る三度の斬撃{END}","A three hit whip-sword combo.
+Rips distant enemies to pieces.{END}"
+"神経を集中し無駄のない動きで
+ＴＰ消費を軽減する{END}","Focuses the senses, reducing
+TP cost for Artes.{END}"

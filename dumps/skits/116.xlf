@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_541">
+        <source>We're stuck until we explore the Zodiac Tower.</source>
+        <target state="translated">We're stuck until we explore the Zodiac Tower.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_542">
+        <source>I think it's somewhere
+between Freyland and Midgard.</source>
+        <target state="translated">I think it's somewhere
+between Freyland and Midgard.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_543">
+        <source>We're totally gonna squash that
+bug freak and get our crest back!</source>
+        <target state="translated">We're totally gonna squash that
+bug freak and get our crest back!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

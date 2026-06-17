@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1080">
+        <source>Good! The Rheairds are ready to go!</source>
+        <target state="translated">Good! The Rheairds are ready to go!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1081">
+        <source>Now we just need to fly them to Alvanista.</source>
+        <target state="translated">Now we just need to fly them to Alvanista.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1082">
+        <source>Excuse me... Will I receive
+one of these “Rheairds” as well?</source>
+        <target state="translated">Excuse me... Will I receive
+one of these “Rheairds” as well?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1083">
+        <source>Yes, of course.</source>
+        <target state="translated">Yes, of course.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1084">
+        <source>Okay... Thank you very much.</source>
+        <target state="translated">Okay... Thank you very much.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1085">
+        <source>All right guys, Harrison's
+probably wondering where we are.</source>
+        <target state="translated">All right guys, Harrison's
+probably wondering where we are.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

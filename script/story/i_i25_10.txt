@@ -1,0 +1,687 @@
+Midgard Castle{END}
+
+<audio_0ECF><Cless>:<nl>
+ Finally!!!
+<pause>
+<audio_0ED0><Cless>:<nl>
+ Time to infiltrate Dhaos' castle!!{END}
+
+<Cless>:<nl>
+ They're holding an important
+ meeting. We'd better not disturb
+ them right now.{END}
+
+<unk1><Klarth>:<nl>
+ Hey, <Cless>!
+ Where are you going?
+ They could be here any minute.{END}
+
+<audio_0D9F>Mage:<nl>
+ Lord Leisen, is it true that you
+ received an ultimatum from Dhaos?
+<pause>
+<audio_0DA0>Mage:<nl>
+ If he told us to stop our research,
+ what should we--
+<pause>
+<audio_0DA1>Leisen:<nl>
+ What are you so concerned about?
+<pause>
+<audio_0DA2>Leisen:<nl>
+ Dhaos does not rule our country.
+<pause>
+<audio_0DA3>Leisen:<nl>
+ Stay focused on your research
+ unless WE tell you to stop.{END}
+
+<audio_0DA4>Leisen:<nl>
+ Oh, you are still here?
+<pause>
+<audio_0DA5>Leisen:<nl>
+ His Majesty awaits on his throne.
+ This way...{END}
+
+<audio_15DF><Mint>:<nl>
+ Oh, hello <Klarth>.
+ Are you finished with the meeting?
+<pause>
+<audio_15E0><Klarth>:<nl>
+ Yeah.
+ You came back just in time.
+<pause>
+<audio_15E1><Cless>:<nl>
+ How'd it go?
+<pause>
+<audio_15E2><Klarth>:<nl>
+ All I can disclose right now is that
+ we've got a task ahead of us that's
+ equal parts ugly and important.
+<pause>
+<audio_15E3><Klarth>:<nl>
+ Not only that, but this lot's none
+ too happy that it's been entrusted
+ to foreigners.
+<pause>
+<audio_15E4><Arche>:<nl>
+ Don't sweat the small stuff.
+ Just forget those bozos.
+<pause>
+<audio_15E5><Klarth>:<nl>
+ Oh, they'll be quite dazzled once
+ they get a load of our fireworks.{END}
+
+<Mint>:<nl>
+ This room has a rather stuffy
+ atmosphere, doesn't it?{END}
+
+<Arche>:<nl>
+ Are they here yet?
+ Man, I'm ready to just
+ go fly off somewhere...{END}
+
+<audio_0D7B><Klarth>:<nl>
+ Any day now...<nl>
+ Did they forget about us?{END}
+
+Guard:<nl>
+ All is well!{END}
+
+Leisen:<nl>
+ Henceforth, you shall be known as
+ the Heroes of Legend to this nation.
+<pause>
+Leisen:<nl>
+ Leave the remaining monsters to
+ us. We shall eradicate every last
+ one still standing.
+<pause>
+Leisen:<nl>
+ With this, everlasting peace shall be
+ brought unto this world.{END}
+
+Leisen:<nl>
+ Our military has taken substantial
+ losses in this battle.
+<pause>
+Leisen:<nl>
+ What happens now is up to you,
+ and you alone.
+<pause>
+Leisen:<nl>
+ But fear not, we still intend to help
+ you in whatever way we can.{END}
+
+Leisen:<nl>
+ War is approaching, and we must
+ be vigilant.{END}
+
+Guard:<nl>
+ Only royalty may proceed beyond
+ this point.{END}
+
+Guard:<nl>
+ You are in the presence of His
+ Majesty.
+<pause>
+Guard:<nl>
+ Be on your best behavior.{END}
+
+King:<nl>
+ We must express our gratitude.
+<pause>
+King:<nl>
+ We are truly thankful.{END}
+
+King:<nl>
+ Dhaos has countered our victory
+ with an aerial force...
+<pause>
+King:<nl>
+ A clever move indeed, but this is no
+ time to admire our enemy.
+<pause>
+King:<nl>
+ If we hadn't been so short-sighted,
+ we could have prepared for this.
+<pause>
+King:<nl>
+ I'm at a loss as to what we should
+ do now...{END}
+
+King:<nl>
+ I await good news.{END}
+
+Weapon Shop Owner:<nl>
+ We shop owners have taken refuge
+ in the castle to avoid becoming
+ collateral damage.
+<pause>
+Weapon Shop Owner:<nl>
+ I brought some inventory
+ along just in case.
+ Need anything?{END}
+
+Weapon Shop Owner:<nl>
+ It's a nightmare trying to make a
+ living in this situation.
+<pause>
+Weapon Shop Owner:<nl>
+ Your patronage is greatly
+ appreciated.{END}
+
+Pharmacy Owner:<nl>
+ I lugged every last bottle of
+ medicine I had over here.
+<pause>
+Pharmacy Owner:<nl>
+ Wanna buy some?{END}
+
+Pharmacy Owner:<nl>
+ Thanks a lot.{END}
+
+Item Shop Clerk:<nl>
+ Oh, what's going to happen to our
+ city now? This is the end for us,
+ isn't it?
+<pause>
+Item Shop Clerk:<nl>
+ Well, I hope not. I loaded up a
+ bunch of our goods to bring here.
+ Anything have your eye?{END}
+
+Item Shop Clerk:<nl>
+ Thanks...
+<pause>
+Item Shop Clerk:<nl>
+ Even though it could be all over for
+ us...{END}
+
+Grocery Store Owner:<nl>
+ Buy some of my food if you want,
+ even though there isn't much
+ point...
+<pause>
+Grocery Store Owner:<nl>
+ ...unless you're having a
+ going-away picnic. So, what'll it be?{END}
+
+Grocery Store Owner:<nl>
+ Pessimistic I may be, but thanks
+ very much.{END}
+
+<audio_0D7C><Klarth>:<nl>
+ ...Seems someone remembered us
+ after all. How touching.{END}
+
+<audio_0D7D>???:<nl>
+ I apologize profusely for the
+ inexcusable wait.
+<pause>
+<audio_0D7E>???:<nl>
+ I am Leisen, commander of this
+ country's knights.
+<pause>
+<audio_0D7F>Leisen:<nl>
+ Sir Morrison here has told me all
+ about you.
+<pause>
+<audio_0D80>Leisen:<nl>
+ He said that, despite your age, you
+ are heroes worth a thousand
+ knights.<wait>{END}
+
+<audio_0D81><Cless>:<nl>
+ N-No way! <panic>
+ We're not that special.
+ We just want to aid you
+ on the front line.<wait>{END}
+
+<audio_0D82>Morrison:<nl>
+ Thank you for coming.
+ I trusted you'd keep your word.
+<pause>
+<audio_0D83><Cless>:<nl>
+ Yes, let's join forces and stop
+ Dhaos' twisted ambition once and
+ for all.<wait>{END}
+
+<audio_0D84><Arche>:<nl>
+ Hold it, mister!
+ Dhaos' “ambition”?{END}
+
+<audio_0D85><Arche>:<nl>
+ I can't believe I never
+ asked this before.
+ But what is it, anyway?<wait>{END}
+
+<audio_0D86>Leisen:<nl>
+ Excuse me, lady?
+ Have you been locked away
+ in a dungeon all alone?
+<pause>
+<audio_0D87>Leisen:<nl>
+ Dhaos is trying to destroy the
+ world!
+<pause>
+<audio_0D88><Arche>:<nl>
+ Oh, REALLY?<wait>{END}
+
+<unk1><audio_0D89><Mint>:<nl>
+ Um, <Arche>...?<wait>{END}
+
+<audio_0D8A><Cless>:<nl>
+ Is...there something wrong?{END}
+
+<audio_0D8B><Arche>:<nl>
+ Damn right there is!
+ What kind of lame excuse is
+ “to destroy the world”? That's all?
+ He's only doing it because he can?
+<pause>
+<audio_0D8C>Leisen:<nl>
+ That's right!<wait>{END}
+
+<audio_0D8D><Arche>:<nl>
+ ...
+<pause>
+{END}
+
+<audio_0D8E><Arche>:<nl>
+ Yeah well, whatever...<wait>{END}
+
+<audio_0D8F><Klarth>:<nl>
+ I apologize on her behalf.
+<pause>
+<audio_0D90><Klarth>:<nl>
+ She seems to be thinking too hard
+ about this.
+<pause>
+<audio_0D91>Morrison:<nl>
+ A-Anyway, I'd like to express my
+ gratitude once again for keeping
+ your word.
+<pause>
+<audio_0D92>Morrison:<nl>
+ It is reassuring to have your
+ assistance in the coming war.
+<pause>
+<audio_0D93><Klarth>:<nl>
+ When is it going to break out,
+ anyway?
+<pause>
+<audio_0D94>Leisen:<nl>
+ We will be discussing that before
+ His Majesty very shortly.
+<pause>
+<audio_0D95>Leisen:<nl>
+ He should already be anticipating
+ our audience in the throne room.
+<pause>
+<audio_0D96>Leisen:<nl>
+ Please go there soon.{END}
+
+<audio_0D97>Morrison:<nl>
+ Having just obtained some
+ information and other tidings, I
+ must report them to His Majesty
+ right away.
+<pause>
+<audio_0D98>Morrison:<nl>
+ Be seeing you.{END}
+
+<audio_0D99><Klarth>:<nl>
+ Well, I assume we're supposed to
+ follow them to the throne room.<wait>{END}
+
+<audio_0D9A><Cless>:<nl>
+ Do you know where it is?
+<pause>
+<audio_0D9B><Klarth>:<nl>
+ Uh, ummm, well...
+<pause>
+<audio_0D9C><Klarth>:<nl>
+ Beats me.{END}
+
+<audio_0D9D><Arche>:<nl>
+ Well, why don't we just wander
+ around for a while? I'm sure we'll
+ bump into it sooner or later.
+<pause>
+<audio_0D9E><Cless>:<nl>
+ I guess so...{END}
+
+<audio_0DA6>King:<nl>
+ Edward, are these the individuals
+ you spoke of?
+<pause>
+<audio_0DA7>Morrison:<nl>
+ Yes, Your Majesty.
+<pause>
+<audio_0DA8>Morrison:<nl>
+ They are the ones who freed
+ Prince Laird of Alvanista from
+ Dhaos' influence.
+<pause>
+<audio_0DA9>Morrison:<nl>
+ They excel at not only
+ swordsmanship, but magic
+ as well.
+<pause>
+<audio_0DAA>King:<nl>
+ That is reassuring.
+<pause>
+<audio_0DAB>Leisen:<nl>
+ Indeed, Sire.<wait>{END}
+
+<audio_0DAC>King:<nl>
+ Our country has scarce little
+ contact with the elves, so we are
+ severely lacking in magical power.
+<pause>
+<audio_0DAD>King:<nl>
+ A mage unit came from Alvanista,
+ but it was so small its members
+ could offer little assistance.
+<pause>
+<audio_0DAE>King:<nl>
+ We are pleased that people such as
+ yourselves would join us in our
+ struggle against evil.
+<pause>
+<audio_0DAF>Leisen:<nl>
+ We have intelligence that an army
+ of monsters has mobilized in the
+ Valhalla Mountains.
+<pause>
+<audio_0DB0>King:<nl>
+ War approaches.
+<pause>
+<audio_0DB1>Leisen:<nl>
+ We request that the lot of you stay
+ in the city and await orders.
+<pause>
+<audio_0DB2>King:<nl>
+ Ah, yes.
+ Before that...
+<pause>
+<audio_0DB3>King:<nl>
+ I wonder--are you familiar
+ with our nation's research?
+ It will be our trump card
+ in the war.<wait>{END}
+
+<audio_0DB4>Leisen:<nl>
+ Allow me, Sire.
+<pause>
+<audio_0DB5>Leisen:<nl>
+ Come, I will show you Midgard's
+ pride: the magitechnology research
+ center.
+<pause>
+<audio_0DB6><Klarth>:<nl>
+ Magi...technology?{END}
+
+<audio_0E32>Leisen:<nl>
+ First, I'm going to present our
+ strategy using this map of our
+ continent.{END}
+
+<audio_0E3B>Leisen:<nl>
+ I believe forming several small
+ special forces units to disrupt the
+ enemy force is best.<wait>{END}
+
+<audio_0E3C>Twosam:<nl>
+ You mean we're going to slow the
+ enemy down?
+<pause>
+<audio_0E3D>Leisen:<nl>
+ Precisely.
+<pause>
+<audio_0E3E>Leisen:<nl>
+ The risk is great, but success in
+ this operation shall bring certain
+ victory.
+<pause>
+<audio_0E3F>Leisen:<nl>
+ The following persons are to
+ command each of the special
+ forces units:{END}
+
+<audio_0E40>Leisen:<nl>
+ Ones! Twosam! Threeson! And...<wait>{END}
+
+<audio_0E41>Leisen:<nl>
+ ...<Klarth>!{END}
+
+<audio_0E42>Threeson:<nl>
+ Sir Leisen!
+<pause>
+<audio_0E43>Threeson:<nl>
+ Are you certain we should leave
+ such a critical strategy in the hands
+ of mercenaries?{END}
+
+<audio_0E44>Leisen:<nl>
+ Restrain yourself.
+<pause>
+<audio_0E45>Leisen:<nl>
+ This decision is mine to make.
+ I will personally take responsibility
+ for any related complications.
+<pause>
+<audio_0E46>Threeson:<nl>
+ Understood, sir...<wait>{END}
+
+<audio_0E47>Leisen:<nl>
+ Anyone whose name I did not call
+ is commanded to take their leave.
+<pause>
+<audio_0E48>Leisen:<nl>
+ The secrecy of this strategy is of
+ chief importance, and will be
+ revealed to the main forces in due
+ time.<wait>{END}
+
+<audio_0E49><Klarth>:<nl>
+ I'm getting the vibe that this is
+ going to take more than a few
+ minutes.
+<pause>
+<audio_0E4A><Klarth>:<nl>
+ You guys should take advantage of
+ this time to go into town and ready
+ our equipment for tomorrow.{END}
+
+<audio_0E65>King:<nl>
+ In the name of the god of war,
+ let us honor the great heroes who
+ have performed this important
+ task with such valor.{END}
+
+<unk1><audio_0E67>King:<nl>
+ Commander <Klarth> F. Lester.
+<pause>
+<audio_17F7><Klarth>:<nl>
+ Sire!{END}
+
+<audio_0E6A>King:<nl>
+ To recognize your deeds, we
+ present to you an appropriate
+ award.{END}
+
+<color_0002>Obtained <num5_C0006024> gald.<color_0000>
+<pause>
+<audio_0E69><Klarth>:<nl>
+ Thank you, Your Majesty.{END}
+
+<audio_0E66>King:<nl>
+ Commander Ones.
+<pause>
+<audio_0E68>Ones:<nl>
+ Sire!{END}
+
+<audio_0E6A>King:<nl>
+ To recognize your deeds, we
+ present to you an appropriate
+ award.{END}
+
+<audio_0E6B>Ones:<nl>
+ I accept with utmost respect and
+ gratitude, my lord.{END}
+
+<audio_0E6C>Leisen:<nl>
+ Well done, men.
+<pause>
+<audio_0E6D>Leisen:<nl>
+ With our victory in this battle, we
+ have essentially won the war.
+<pause>
+<audio_0E6E>Soldier:<nl>
+ YOUR MAJESTYYYYYYYYY!!!{END}
+
+<audio_0E6F>Leisen:<nl>
+ What is the meaning of this
+ intrusion!?
+<pause>
+<audio_0E70>Soldier:<nl>
+ I-It's an emergency!!!
+<pause>
+<audio_0E71>Soldier:<nl>
+ We're...we're under attack!!!
+<pause>
+<audio_0E72>Leisen:<nl>
+ What!?
+<pause>
+<audio_0E73>Leisen:<nl>
+ That cannot be!
+<pause>
+<audio_0E74>Leisen:<nl>
+ We have taken the plains!
+<pause>
+<audio_0E75>Soldier:<nl>
+ F-From the sky...
+<pause>
+<audio_0E76>Leisen:<nl>
+ An aerial force!?<wait>{END}
+
+<audio_0E77>Leisen:<nl>
+ Organize the catapults and artillery
+ units, on the double!!!
+<pause>
+<audio_0E78>Soldier:<nl>
+ Sir!{END}
+
+<audio_0E79>Leisen:<nl>
+ My lord, you must find shelter at
+ once.
+<pause>
+<audio_0E7A>King:<nl>
+ No, I shall remain here as well.
+<pause>
+<audio_0E7B>King:<nl>
+ I cannot run away like a coward
+ while leaving my subjects in
+ danger.
+<pause>
+<audio_0E7C>Leisen:<nl>
+ <speed_0010>......
+<pause>
+<speed_FFFF><audio_0E7D>Leisen:<nl>
+ I understand.
+<pause>
+<audio_0E7E>Leisen:<nl>
+ Luck is on our side...<nl>
+ This is quite the opportunity.
+<pause>
+<audio_0E7F>Leisen:<nl>
+ The time is ripe to show Dhaos the
+ might of the Mana Cannon!{END}
+
+<audio_0E80><Klarth>:<nl>
+ What a predicament...
+<pause>
+<audio_0E81><Klarth>:<nl>
+ Come on, let's help them out!
+<pause>
+<audio_0E82><Cless>:<nl>
+ But they're coming from the sky...
+<pause>
+<audio_0E83><Klarth>:<nl>
+ I'm sure we'll figure something out.{END}
+
+<audio_18C2>King of Midgard:<nl>
+ So, because you have done an impeccable job fighting in Valhalla...
+<pause>
+<audio_18C3>King of Midgard:<nl>
+ I hereby award you an impressive 10,000 Gald for your marvelous feats.
+<pause>
+<audio_18C4>Rondoline:<nl>
+ You can keep the cash. I'd rather have Dragunov instead.{END}
+
+<audio_18C5>Minister:<nl>
+ Now wait just a minute. You dare complain about the gift the King has bestowed upon you!?{END}
+
+<audio_18C6>King of Midgard:<nl>
+ That's enough. What is this “Dragunov” you speak of?{END}
+
+<audio_18C7>Rondoline:<nl>
+ It's the sword of Victor, a hero who served Midgard.
+<pause>
+<audio_18C8>Rondoline:<nl>
+ Well actually, it was something that was passed down through my family for generations, but it seems it's made its way into your hands.
+<pause>
+<audio_18C9>King of Midgard:<nl>
+ Hmmm... If we were in possession of such an article, I would be willing to bestow it upon you.
+<pause>
+<audio_18CA>King of Midgard:<nl>
+ As it stands, there is no sword of that name within these castle walls.
+<pause>
+<audio_18CB>Rondoline:<nl>
+ Huh...!?
+<pause>
+<audio_18CC>King of Midgard:<nl>
+ After all, our kingdom has been a dominant military power for ages. The era in which an individual could be ascribed the title of hero has been irrelevant for hundreds of years.
+<pause>
+<audio_18CD>Rondoline:<nl>
+ What about the hero Victor!?
+<pause>
+<audio_18CE>King of Midgard:<nl>
+ I have never heard of such a man.
+<pause>
+<audio_18CF>Rondoline:<nl>
+ Are you pulling my leg?
+<pause>
+<audio_18D0>King of Midgard:<nl>
+ I am doing no such thing.
+<pause>
+<audio_18D1>Rondoline:<nl>
+ What the...{END}
+
+<audio_18D2>King of Midgard:<nl>
+ I beseech you... Please put an end to Dhaos at once, so that my people will be kept free from his wrath.
+<pause>
+<audio_18D3><Cless>:<nl>
+ Of course.
+<pause>
+<audio_18D4><Cless>:<nl>
+ What about you, Rody?{END}
+
+<audio_18D5>Rondoline:<nl>
+ Do you even need to ask? Let's go.
+<pause>
+<audio_18D6>Rondoline:<nl>
+ I would have liked to have my dad's sword with me when we face off against Dhaos, but I guess that's not gonna happen.
+<pause>
+<audio_18D7>Rondoline:<nl>
+ No need to dillydally, now that I know that it's not here.
+<pause>
+<audio_18D8><Cless>:<nl>
+ I feel you... Let's go.
+<pause>
+<audio_18D9>Rondoline:<nl>
+ Thanks, let's head on out!{END}
+
+<audio_18DA>King of Midgard:<nl>
+ I'm counting on you!{END}
+

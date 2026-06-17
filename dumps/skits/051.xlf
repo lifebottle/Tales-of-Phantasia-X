@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_150">
+        <source>Yoohoo, &lt;Cless&gt;.
+Why do you think it rains?</source>
+        <target state="translated">Yoohoo, &lt;Cless&gt;.
+Why do you think it rains?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_151">
+        <source>I don't think we'd exist without it...</source>
+        <target state="translated">I don't think we'd exist without it...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_152">
+        <source>Not what I mean, Silly. I want
+to know what *causes* it to fall.</source>
+        <target state="translated">Not what I mean, Silly. I want
+to know what *causes* it to fall.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_153">
+        <source>Huh? I have no idea. Why don't you ask someone
+who might actually know about this stuff?</source>
+        <target state="translated">Huh? I have no idea. Why don't you ask someone
+who might actually know about this stuff?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_154">
+        <source>Oh, all righty. Thanks anyway!</source>
+        <target state="translated">Oh, all righty. Thanks anyway!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

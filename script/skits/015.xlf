@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_015">
+        <source>Losing control of one's
+motor functions is troublesome.</source>
+        <target state="translated">Losing control of one's
+motor functions is troublesome.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_016">
+        <source>I say it's time we got
+them going again, eh?</source>
+        <target state="translated">I say it's time we got
+them going again, eh?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

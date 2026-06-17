@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_915">
+        <source>Guess we're not taking home any medals, huh?</source>
+        <target state="translated">Guess we're not taking home any medals, huh?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_916">
+        <source>On the bright side, our army has come out ahead.</source>
+        <target state="translated">On the bright side, our army has come out ahead.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_917">
+        <source>Yeah, even though our
+objective was accomplished--</source>
+        <target state="translated">Yeah, even though our
+objective was accomplished--</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_918">
+        <source>Come on, let's just get back to the castle.</source>
+        <target state="translated">Come on, let's just get back to the castle.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

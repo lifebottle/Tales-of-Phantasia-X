@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1144">
+        <source>It's okay, &lt;Arche&gt;! Calm down!</source>
+        <target state="translated">It's okay, &lt;Arche&gt;! Calm down!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1145">
+        <source>Yeah, quit'cher whining!</source>
+        <target state="translated">Yeah, quit'cher whining!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1146">
+        <source>Hmph!</source>
+        <target state="translated">Hmph!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1147">
+        <source>But! Aren't you glad we made a pact with Volt?</source>
+        <target state="translated">But! Aren't you glad we made a pact with Volt?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1148">
+        <source>Yeah, but those two left the taint of
+pure, unadulterated hatred in his lair.</source>
+        <target state="translated">Yeah, but those two left the taint of
+pure, unadulterated hatred in his lair.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1149">
+        <source>I think...it will be all right...</source>
+        <target state="translated">I think...it will be all right...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1150">
+        <source>I certainly hope so.</source>
+        <target state="translated">I certainly hope so.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

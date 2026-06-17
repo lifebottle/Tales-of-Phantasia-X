@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_639">
+        <source>You've already surpassed your
+father at swordsmanship, haven't you?</source>
+        <target state="translated">You've already surpassed your
+father at swordsmanship, haven't you?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_640">
+        <source>You think so?</source>
+        <target state="translated">You think so?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_641">
+        <source>I'm not sure I'm there yet.</source>
+        <target state="translated">I'm not sure I'm there yet.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_642">
+        <source>Once you do, we'll have a bona fide case
+of “the student becoming the master.”</source>
+        <target state="translated">Once you do, we'll have a bona fide case
+of “the student becoming the master.”</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_643">
+        <source>Wait, what?</source>
+        <target state="translated">Wait, what?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_644">
+        <source>Just an old saying when the pupil or
+son surpasses his master or father.</source>
+        <target state="translated">Just an old saying when the pupil or
+son surpasses his master or father.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_645">
+        <source>So I guess it's kinda like a half-elf
+being stronger than a full-blooded one?</source>
+        <target state="translated">So I guess it's kinda like a half-elf
+being stronger than a full-blooded one?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_646">
+        <source>Hmmmm, well... In SOME ways, I suppose.</source>
+        <target state="translated">Hmmmm, well... In SOME ways, I suppose.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

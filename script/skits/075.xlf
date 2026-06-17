@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_297">
+        <source>Can't you do something about all
+those annoying “click click” noises!?</source>
+        <target state="translated">Can't you do something about all
+those annoying “click click” noises!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_298">
+        <source>For what? These clappers are
+essential for summoning artes!</source>
+        <target state="translated">For what? These clappers are
+essential for summoning artes!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_299">
+        <source>You mean you can't do your thing without them?</source>
+        <target state="translated">You mean you can't do your thing without them?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_300">
+        <source>Yes, precisely.</source>
+        <target state="translated">Yes, precisely.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_301">
+        <source>What a pain being human. If
+only you could use real magic.</source>
+        <target state="translated">What a pain being human. If
+only you could use real magic.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_302">
+        <source>An undisciplined half-elf like you can't
+appreciate the dedication my arte requires!</source>
+        <target state="translated">An undisciplined half-elf like you can't
+appreciate the dedication my arte requires!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1284">
+        <source>We have it... The Sword of Time...</source>
+        <target state="translated">We have it... The Sword of Time...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1285">
+        <source>An enemy time traveler's worst nightmare.</source>
+        <target state="translated">An enemy time traveler's worst nightmare.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1286">
+        <source>Our last remaining duty is to use it on Dhaos.</source>
+        <target state="translated">Our last remaining duty is to use it on Dhaos.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1287">
+        <source>There's only one problem... Where is the guy?</source>
+        <target state="translated">There's only one problem... Where is the guy?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1288">
+        <source>That is unclear. There is no trace of him
+anywhere in the sky, the sea, or on land...</source>
+        <target state="translated">That is unclear. There is no trace of him
+anywhere in the sky, the sea, or on land...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1289">
+        <source>Guess we can't just walk
+up to him on the street, eh?</source>
+        <target state="translated">Guess we can't just walk
+up to him on the street, eh?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,2068 @@
+エルフの集落{END},Elven Settlement{END}
+宿屋『エルフＩＮＮ』{END},Inn “Elven Inn”{END}
+食材屋『あかさたな』{END},Grocery Store “A-B-C-D-E”{END}
+武具屋『トワイライト』{END},Equipment Shop “Twilight”{END}
+雑貨屋『サンセット』{END},General Store “Sunset”{END}
+名も無き宿屋{END},Inn{END}
+名も無き食材屋{END},Grocery Store{END}
+名も無き武具屋{END},Equipment Shop{END}
+名も無き道具＆薬屋{END},Item Shop{END}
+"<Cless>
+「鍵がかかってる」
+<pause>
+<Cless>
+「どうやら倉庫みたいだな」{END}","<Cless>:<nl>
+ It's locked.
+<pause>
+<Cless>:<nl>
+ It's probably just some
+ storeroom...{END}"
+"『ハーブの特性』
+<pause>
+ハーブは非常にたくさんの種類が
+ある。
+<pause>
+なかでもセボリー、セージ、ラベ
+ンダー、ベルベーヌがもっともポ
+ピュラーなものである。
+<pause>
+これらはある特殊な薬品につける
+と赤く変色し、もっと強力なハー
+ブになるといわれている。{END}","“Special Properties of Herbs”
+<pause>
+There are many kinds of herbs...
+<pause>
+Savory, sage, lavender, and verbena
+being among the most popular.
+<pause>
+Scientists have discovered that,
+when combined with a special agent,
+they turn red and their potency
+doubles.{END}"
+"『エルフの長寿と進化論』
+<pause>
+エルフ族は人間族に比べ、たいへ
+ん長命な種族である。
+<pause>
+それにはもちろんエルフの生活習
+慣、特に食生活に起因するものと
+考えられている。
+<pause>
+エルフに限らず全ての生命の寿命
+は『生物の進化』と大きな関係が
+ある。
+<pause>
+親と子は似ているが、微妙な違い
+がある。
+<pause>
+それは『進化』の過程の末端であ
+る。
+<pause>
+この微妙な違いが何十世代という
+時を経て大きな『進化』となるの
+である。
+<pause>
+この進化が起こるということは、
+その生物はまだ『進化』の過程に
+あることを示している。
+<pause>
+それらの考えから察するに、エル
+フ族は長寿な分だけ進化が遅い。
+<pause>
+つまり、それだけ進化の必要ない
+生物であり、生物の中でも優れた
+生物と位置づけられる。{END}","“Theories on Elven Longevity
+and Evolution”
+<pause>
+The average lifespan of an elf is
+much longer than a human's.
+<pause>
+This characteristic is thought to
+have originated from the elves'
+lifestyle in general, particularly as a
+result of their diet.
+<pause>
+Like all other species, their
+lifespan is strongly correlated
+with a process known as
+“biological evolution.”
+<pause>
+Biological evolution is a theory about
+the mutations that occur in each
+successive generation.
+<pause>
+These mutations are far too subtle
+to be apparent, but after many
+generations they can accumulate
+into distinctive differences.
+<pause>
+With natural selection at work,
+higher evolution is attained.
+<pause>
+This cycle continuing in a species
+indicates that it is still evolving.
+<pause>
+Considering the elves' long lifespan,
+it can be surmised that their
+evolution is relatively slow.
+<pause>
+It may be that they are reaching
+the heights of evolution, making
+them biologically superior to all
+other creatures.{END}"
+"<audio_0CE8>ブラムバルド
+「お疲れ様でした」{END}","<audio_0CE8>Brambard:<nl>
+  Well then, here we are. I will be seeing you later.{END}"
+"<audio_0CE9>エルフの見張り
+「族長、侵入者を捕らえました」
+<pause>
+<audio_0CEA>ブラムバルド
+「人間の不法侵入者か？」
+<pause>
+<audio_0CEB>エルフの見張り
+「いえ、その、ハーフエルフでし
+　て・・・」<wait>{END}","<audio_0CE9>Elven Guard:<nl>
+ Chief Brambard, we have captured
+ an intruder.
+<pause>
+<audio_0CEA>Brambard:<nl>
+ A human trespasser, I presume?
+<pause>
+<audio_0CEB>Elven Guard:<nl>
+ No, sir.
+ It's a half-elf...<wait>{END}"
+"<audio_0CEC>ブラムバルド
+「何だと！！」{END}","<audio_0CEC>Brambard:<nl>
+ What did you say!?{END}"
+"<audio_0CED>？？？
+「ちょっとぉ、離してよっ！」
+<pause>
+<audio_0CEE>？？？
+「あ〜ら、そこのお兄さんいい男
+　ねぇん<heart>」
+<pause>
+<audio_0CEF>？？？
+「あ〜ん行かないでったらぁ！」{END}","<audio_0CED>???:<nl>
+ Waaaiit, lemme gooo!
+<pause>
+<audio_0CEE>???:<nl>
+ Hey, mister!
+ You're a nice guy, ain'tcha!? <heart>
+<pause>
+<audio_0CEF>???:<nl>
+ So, c'mon, pleeeaaase!{END}"
+"<audio_0CF0><Cless>
+「この声は・・・<sweat>」{END}","<audio_0CF0><Cless>:<nl>
+ That's a familiar voice...<sweat>{END}"
+"<audio_0CF1><Klarth>
+「<Arche>！」
+<pause>
+<audio_0CF2><Klarth>
+「あれほど、待っていろと言って
+　おいたのに、なぜ来たんだ」<wait>{END}","<audio_0CF1><Klarth>:<nl>
+ Dammit, <Arche>!
+<pause>
+<audio_0CF2><Klarth>:<nl>
+ I thought you were going
+ to wait at the inn!
+ What the hell possessed
+ you to follow us here?<wait>{END}"
+"<audio_0CF3><Arche>
+「だぁってぇ・・・」
+<pause>
+<audio_0CF4><Arche>
+「とにかく早くほどいて〜！」
+<pause>
+<audio_0CF5><Arche>
+「あたしはこんな変な趣味してな
+　いんだってばぁ！」
+<pause>
+<audio_0CF6>ブラムバルド
+「あなた方の連れですか？」<wait>{END}","<audio_0CF3><Arche>:<nl>
+ Who cares about that!?
+<pause>
+<audio_0CF4><Arche>:<nl>
+ Just hurry up and untie me!
+<pause>
+<audio_0CF5><Arche>:<nl>
+ I'm not into this kinky stuff!
+<pause>
+<audio_0CF6>Brambard:<nl>
+ This person is your companion?<wait>{END}"
+"<audio_0CF7><Mint>
+「放してあげて下さい、お願いし
+　ます！」<wait>{END}","<audio_0CF7><Mint>:<nl>
+ Please let her go!<wait>{END}"
+"<audio_0CF8>エルフの見張り
+「族長、例外を認めては他の者に
+　示しがつきませんぞ！」{END}","<audio_0CF8>Elven Guard:<nl>
+ Chief, think of the precedent it'll
+ set if we waive her punishment...{END}"
+"<audio_0CF9>ブラムバルド
+「ハーフエルフの不法侵入者は例
+　外なく極刑です」{END}","<audio_0CF9>Brambard:<nl>
+ Half-elven trespassers are put to
+ death without exception.{END}"
+"<audio_0CFA>？？？
+「待って下さい！！」{END}","<audio_0CFA>???:<nl>
+ Please wait!!{END}"
+"<audio_0CFB>？？？
+「どうか見逃してあげて下さい、
+　お願いします！」
+<pause>
+<audio_0CFC>？？？
+「この娘を殺すというのなら私が
+　身代わりになります！」
+<pause>
+<audio_0CFD>？？？
+「ですから・・・」
+<pause>
+<audio_0CFE>？？？
+「お願いします！」{END}","<audio_0CFB>???:<nl>
+ Please find some way to forgive
+ her! Please!
+<pause>
+<audio_0CFC>???:<nl>
+ If someone must die for this
+ transgression, then I will take
+ her place!
+<pause>
+<audio_0CFD>???:<nl>
+ I...
+<pause>
+<audio_0CFE>???:<nl>
+ I implore you!{END}"
+"<audio_0CFF>ブラムバルド
+「・・・・・・」
+<pause>
+<audio_0D00>ブラムバルド
+「わかりました」
+<pause>
+<audio_0D01>ブラムバルド
+「ロープをほどいてあげなさい」
+<pause>
+<audio_0D02>エルフの見張り
+「しかし・・・」<wait>{END}","<audio_0CFF>Brambard:<nl>
+ ......
+<pause>
+<audio_0D00>Brambard:<nl>
+ Very well.
+<pause>
+<audio_0D01>Brambard:<nl>
+ Release her!
+<pause>
+<audio_0D02>Elven Guard:<nl>
+ But--<wait>{END}"
+"<audio_0D03>ブラムバルド
+「族長命令です」
+<pause>
+<audio_0D04>エルフの見張り
+「・・・わかりました」<wait>{END}","<audio_0D03>Brambard:<nl>
+ This is an order.
+<pause>
+<audio_0D04>Elven Guard:<nl>
+ ...As you wish, sir.<wait>{END}"
+"<audio_0D05>？？？
+「ごめんなさい、<Arche>」
+<pause>
+<audio_0D06>？？？
+「許して・・・」
+<pause>
+<audio_0D07>？？？
+「本当にごめんなさい<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0D08>？？？
+「ごめんなさい<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0D09><Arche>
+「えっ？」
+<pause>
+<audio_0D0A><Arche>
+「いったい、なんなのさ？」{END}","<audio_0D05>???:<nl>
+ I'm sorry, <Arche>.
+<pause>
+<audio_0D06>???:<nl>
+ Forgive me...
+<pause>
+<audio_0D07>???:<nl>
+ I'm sorry<speed_0010>...
+<pause>
+<speed_FFFF><audio_0D08>???:<nl>
+ I'm so sorry<speed_0010>...
+<pause>
+<speed_FFFF><audio_0D09><Arche>:<nl>
+ Huh?
+<pause>
+<audio_0D0A><Arche>:<nl>
+ Say what?{END}"
+"<audio_0D0B><Klarth>
+「どうした？」{END}","<audio_0D0B><Klarth>:<nl>
+ <Arche>, what's wrong?{END}"
+"<audio_0D0C>エルフの見張り
+「何か？」
+<pause>
+<audio_0D0D><Arche>
+「お願い、さっきの人にもう一度
+　会わせて！」
+<pause>
+<audio_0D0E>エルフの見張り
+「だめだ！」
+<pause>
+<audio_0D0F>エルフの見張り
+「無事に出られるだけでもありが
+　たいと思え！」{END}","<audio_0D0C>Elven Guard:<nl>
+ What do you want?
+<pause>
+<audio_0D0D><Arche>:<nl>
+ That lady--please let me see her
+ again! Please...!
+<pause>
+<audio_0D0E>Elven Guard:<nl>
+ Absolutely not!
+<pause>
+<audio_0D0F>Elven Guard:<nl>
+ Get out!
+ You should be grateful that you'll
+ live to see another day!{END}"
+"<audio_0D10><Arche>
+「お母さん！！」
+<pause>
+<audio_0D11><Arche>
+「ねぇ、聞こえる！？」
+<pause>
+<audio_0D12><Arche>
+「お母さん、あたしのお母さんな
+　んでしょ？」
+<pause>
+<audio_0D13><Arche>
+「お願い、もう一度顔を見せて、
+　会わせて<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0D14><Arche>
+「お願いだから<speed_0010>・・・」{END}","<audio_0D10><Arche>:<nl>
+ MOM!!!
+<pause>
+<audio_0D11><Arche>:<nl>
+ Hey, can you hear me!?
+<pause>
+<audio_0D12><Arche>:<nl>
+ Mom...it's really you, isn't it?
+<pause>
+<audio_0D13><Arche>:<nl>
+ Please come back out here...<nl>
+ I wanna see your face again,
+ just once more<speed_0010>...
+<pause>
+<speed_FFFF><audio_0D14><Arche>:<nl>
+ Please<speed_0010>...{END}"
+"<audio_0D15><Cless>
+「<Arche><speed_0010>・・・」{END}","<audio_0D15><Cless>:<nl>
+ <Arche><speed_0010>...{END}"
+"エルフの見張り
+「残念だが、その娘がいる限り、
+　この村には入れない」
+<pause>
+エルフの見張り
+「早々に立ち去るがいい」{END}","Elven Guard:<nl>
+ I'm sorry, but that girl is to never
+ enter this village again.
+<pause>
+Elven Guard:<nl>
+ You should leave before she gets
+ caught once more.{END}"
+"<audio_0CC6><Cless>
+「ブラムバルドさん、これからど
+　うすれば？」
+<pause>
+<audio_0CC7>ブラムバルド
+「この先の森には私達にとっての
+　聖域ヘイムダールという地があ
+　ります」
+<pause>
+<audio_0CC8>ブラムバルド
+「そこにある漆黒の石盤の所まで
+　来て下さい」
+<pause>
+<audio_0CC9><Cless>
+「その石盤で何を？」
+<pause>
+<audio_0CCA>ブラムバルド
+「詳しい話は石盤の所で・・・」
+<pause>
+<audio_0CCB>ブラムバルド
+「森の動物達があなたがたを導い
+　てくれるでしょう」
+<pause>
+<audio_0CCC>ブラムバルド
+「私は先に行って待っています」{END}","<audio_0CC6><Cless>:<nl>
+ What should we do next, sir?
+<pause>
+<audio_0CC7>Brambard:<nl>
+ If your rings are to be mended,
+ you must visit the black stone
+ tablet in Heimdall.
+<pause>
+<audio_0CC8>Brambard:<nl>
+ Heimdall is, to our kind, a sacred
+ site secluded deep within the
+ forest.
+<pause>
+<audio_0CC9><Cless>:<nl>
+ What do we do there?
+<pause>
+<audio_0CCA>Brambard:<nl>
+ I will advise you further at
+ Heimdall.
+<pause>
+<audio_0CCB>Brambard:<nl>
+ Feel free to prepare yourselves at
+ the village's shops. I will go ahead
+ and await your arrival.
+<pause>
+<audio_0CCC>Brambard:<nl>
+ The animals of the forest
+ shall be your guides.
+ Take heed of them.{END}"
+"エルフの弓職人
+「こっ、これはもしかして、
+　あの神聖な丸太なのか？
+　あの人以外は・・・」{END}","Elven Bowsmith:<nl>
+ I-Is that really the Sacred Wood!?
+ Only a person like her could...{END}"
+"エルフの弓職人
+「神聖な丸太って知ってるかい？」
+<pause>
+エルフの弓職人
+「最高の弓の材料と言われている
+　んだが、トレントの森の奥地で
+　しか取れないんだ」
+<pause>
+エルフの弓職人
+「昔は石盤の所からトレントの森
+　の奥地に行けたっていう話なん
+　だけど・・・」
+<pause>
+エルフの弓職人
+「なんでも、森の奥は危険だから
+　入口を封印したんだってさ」{END}","Elven Bowsmith:<nl>
+ Have you heard of Sacred Wood?
+<pause>
+Elven Bowsmith:<nl>
+ It's said to be a component of the
+ greatest bows, but it can only be
+ found in the depths of Treant
+ Forest.
+<pause>
+Elven Bowsmith:<nl>
+ There are stories that you could
+ reach the depths of the woods from
+ where the tablet is, but...
+<pause>
+Elven Bowsmith:<nl>
+ Whoever is to set foot there is
+ fated never to return, so the
+ entrance was sealed.{END}"
+"エルフの弓職人
+「久しぶりだね」
+<pause>
+エルフの弓職人
+「アーシアには会えたのかい？」{END}","Elven Bowsmith:<nl>
+It's been awhile. How are you?
+<pause>
+Elven Bowsmith:<nl>
+Were you able to see Arsia?{END}"
+"エルフの弓職人
+「まだいるのかな？」
+<pause>
+エルフの弓職人
+「エルフと人間が交流のあった時
+　の話だからね」{END}","Elven Bowsmith:<nl>
+Is she even still around?
+<pause>
+Elven Bowsmith:<nl>
+After all, contact between
+elves and humans was cut off
+long ago.{END}"
+"<Mint>
+「あの・・・」
+<pause>
+<Mint>
+「弓を直してもらえませんか？」
+<pause>
+エルフの弓職人
+「・・・弓？」
+<pause>
+<Cless>
+「これです」{END}","<Mint>:<nl>
+Excuse me...
+<pause>
+<Mint>:<nl>
+Would you be able to fix a bow for us?
+<pause>
+Elven Bowsmith:<nl>
+A bow?
+<pause>
+<Cless>:<nl>
+Yes. This one here.{END}"
+"エルフの弓職人
+「どれどれ<speed_0010>・・・<speed_00FF>」{END}","Elven Bowsmith:<nl>
+Hmm... Let's see<speed_0010>...<speed_00FF>{END}"
+"エルフの弓職人
+「う〜ん、なんとか直るとは思う
+　けど・・・」
+<pause>
+エルフの弓職人
+「この弓<speed_0010>・・・、<speed_00FF>ポッキリ折れ
+　てるでしょ？」
+<pause>
+エルフの弓職人
+「作り直しになるかな？」{END}","Elven Bowsmith:<nl>
+Well...I think it could be fixed, but...
+<pause>
+Elven Bowsmith:<nl>
+It really is broken something
+awful, isn't it?
+<pause>
+Elven Bowsmith:<nl>
+You'd probably have to rebuild
+the whole darn thing.{END}"
+"<Mint>
+「どうにかこの弓を使えるように
+　直すことはできませんか？」
+<pause>
+エルフの弓職人
+「そうだなぁ・・・」
+<pause>
+エルフの弓職人
+「どうしてもっていうならとって
+　おきの方法があるけど」{END}","<Mint>:<nl>
+Do you think we'll ever be able
+to use it again?
+<pause>
+Elven Bowsmith:<nl>
+Hmm...
+<pause>
+Elven Bowsmith:<nl>
+There is a special method I know
+of, if you really need the bow
+that badly.{END}"
+"<Cless>
+「本当ですか！」
+<pause>
+<Cless>
+「ぜひ教えてください！」
+<pause>
+エルフの弓職人
+「ユミルの森を出て、東の方向に
+　行くと小さな館があるんだ」
+<pause>
+エルフの弓職人
+「そこに住む『アーシア』という
+　彫刻家なら直せると思うよ」
+<pause>
+エルフの弓職人
+「すごい魔力を持った天才彫刻家
+　だって話だよ」
+<pause>
+エルフの弓職人
+「ただ・・・」
+<pause>
+<Cless>
+「ただ？」
+<pause>
+エルフの弓職人
+「まだいるのかな？」
+<pause>
+エルフの弓職人
+「エルフと人間が交流のあった時
+　の話だからね」{END}","<Cless>:<nl>
+Really!?
+<pause>
+<Cless>:<nl>
+Tell us, please!
+<pause>
+Elven Bowsmith:<nl>
+Exit Ymir Forest and head east.
+You should come across a
+small manor.
+<pause>
+Elven Bowsmith:<nl>
+Arsia the Carver lives there.
+She should be able to rebuild it.
+<pause>
+Elven Bowsmith:<nl>
+She's a master of the craft and
+has exceptionally strong magical
+abilities.
+<pause>
+Elven Bowsmith:<nl>
+However...
+<pause>
+<Cless>:<nl>
+What?
+<pause>
+Elven Bowsmith:<nl>
+I'm not sure whether she still
+lives there.
+<pause>
+Elven Bowsmith:<nl>
+After all, contact between
+elves and humans was cut off
+long ago.{END}"
+"<Mint>
+「ありがとうございました」{END}","<Mint>:<nl>
+Thank you.{END}"
+"エルフの道具屋
+「いらっしゃい」{END}","Elven Shopkeeper:<nl>
+ Welcome.{END}"
+"エルフの道具屋
+「ありがとうございます」{END}","Elven Shopkeeper:<nl>
+ Thank you.{END}"
+"エルフの薬屋
+「いらっしゃい、いい薬がそろっ
+　てるよ」{END}","Elven Pharmacist:<nl>
+ Welcome.
+ We stock many excellent herbal
+ medicines cultivated from the
+ forest.{END}"
+"エルフの薬屋
+「ありがとう」{END}","Elven Pharmacist:<nl>
+ Thanks.{END}"
+"エルフの宿屋
+「あなた方は・・・」
+<pause>
+<Cless>
+「あの、何か？」
+<pause>
+エルフの宿屋
+「いえ・・・」
+<pause>
+エルフの宿屋
+「あなた方が噂に聞く勇者様の御
+　一行ですか？」
+<pause>
+<Cless>
+「いや、勇者じゃないですよ」
+<pause>
+<Cless>
+「ただの冒険者です」
+<pause>
+エルフの宿屋
+「これを・・・」
+<pause>
+エルフの宿屋
+「ピンクの髪の女の子に渡して下
+　さい」
+<pause>
+エルフの宿屋
+「私がもっていても役に立ちませ
+　んから・・・」
+<pause>
+<Cless>
+「これは、ホウキ？」<wait>{END}","Elven Innkeeper:<nl>
+ Are you the ones?
+<pause>
+<Cless>:<nl>
+ Come again?
+<pause>
+Elven Innkeeper:<nl>
+ I mean...
+<pause>
+Elven Innkeeper:<nl>
+ Are you the group of heroes I've
+ heard rumors about?
+<pause>
+<Cless>:<nl>
+ I wouldn't go that far, but...
+<pause>
+<Cless>:<nl>
+ I think of us as adventurers, at
+ least.
+<pause>
+Elven Innkeeper:<nl>
+ Would you take this to the girl with
+ the pink hair...
+<pause>
+Elven Innkeeper:<nl>
+ Please...
+<pause>
+Elven Innkeeper:<nl>
+ I'm sure she'll find it more useful
+ than I...
+<pause>
+<Cless>:<nl>
+ A broom, huh?
+ She'll be delighted.<wait>{END}"
+<color_0002><item_F800>を手に入れました。<color_0000><wait>{END},<color_0002>Acquired a <item_F800>.<color_0000><wait>{END}
+"エルフの宿屋
+「それと・・・これを・・・」<wait>{END}","Elven Innkeeper:<nl>
+ Not only that, but these too...<wait>{END}"
+<color_0002><item_4001>を手に入れました。<color_0000><wait>{END},<color_0002>Acquired <item_4001>.<color_0000><wait>{END}
+"<unk1><Cless>
+あの、やはりあなたは<Arche>の・・・」
+<pause>
+エルフの宿屋
+・・・・・・」
+<pause>
+エルフの宿屋
+どうかこれ以上は、お聞きにならないで下さい・・・」
+<pause>
+エルフの宿屋
+ところで・・・」<wait>{END}","<unk1><Cless>:<nl>
+ Pardon me, but is <Arche> really
+ your--
+<pause>
+Elven Innkeeper:<nl>
+ ......
+<pause>
+Elven Innkeeper:<nl>
+ Please don't say it...
+<pause>
+Elven Innkeeper:<nl>
+ Now, back to business...<wait>{END}"
+"エルフの宿屋
+「いらっしゃい、お泊まりになり
+　ますか？」
+<pause>
+エルフの宿屋
+「一晩<num1_00000048>ガルドになります」{END}","Elven Innkeeper:<nl>
+ Welcome to the Elven Inn.
+ Will you be staying?
+<pause>
+Elven Innkeeper:<nl>
+ One night is <num1_00000048> gald.{END}"
+"エルフの宿屋
+「お客さん、お金が足りないよう
+　ですわ」{END}","Elven Innkeeper:<nl>
+ I beg your pardon, but this isn't
+ enough money.{END}"
+"エルフの宿屋
+「ゆっくりしていってね」{END}","Elven Innkeeper:<nl>
+ Good night.{END}"
+"エルフの宿屋
+「また来て下さいね」{END}","Elven Innkeeper:<nl>
+ Please come again.{END}"
+"エルフの食材屋
+「いらっしゃい、森の自然食品が
+　いっぱいよ」{END}","Elven Grocer:<nl>
+ Welcome.
+ We are stocked full of organic food
+ from the forest.{END}"
+"エルフの食材屋
+「ありがとう」{END}","Elven Grocer:<nl>
+ Thanks.{END}"
+"エルフの男の子
+「今、かくれんぼやってるんだ」{END}","Elven Boy:<nl>
+ We're playing hide-and-seek.{END}"
+"エルフの女の子
+「みーっけ！」
+<pause>
+エルフの男の子
+「げぇ！」
+<pause>
+エルフの男の子
+「見つかっちまったじゃんか！」
+<pause>
+エルフの女の子
+「それじゃあ今度は、私が隠れる
+　番ね」{END}","Elven Girl:<nl>
+ Found you!
+<pause>
+Elven Boy:<nl>
+ No way!
+<pause>
+Elven Boy:<nl>
+ And I thought I found a good spot,
+ too!
+<pause>
+Elven Girl:<nl>
+ Hehe!
+ Now I get to hide!{END}"
+"エルフの男の子
+「ちくしょう、邪魔すんなよ！」{END}","Elven Boy:<nl>
+ Grrr!
+ Don't butt in!{END}"
+"エルフの男の子
+「今、かくれんぼやってるんだ」
+<pause>
+エルフの男の子
+「邪魔すんなよ」<wait>{END}","Elven Boy:<nl>
+ We're playing hide-and-seek.
+<pause>
+Elven Boy:<nl>
+ Don't bother me.<wait>{END}"
+"エルフの男の子
+「いーち、にー、さーん・・・」{END}","Elven Boy:<nl>
+ Ooone, twooo, threeee...{END}"
+"エルフの女の子
+「今、かくれんぼやってるの」
+<pause>
+エルフの女の子
+「今度は邪魔しないでよ」<wait>{END}","Elven Girl:<nl>
+ I'm playing hide-and-seek.
+<pause>
+Elven Girl:<nl>
+ So don't bother me!<wait>{END}"
+"エルフの女の子
+「いーち、にー、さーん・・・」{END}","Elven Girl:<nl>
+ Ooone, twooo, threeee...{END}"
+"エルフの女の子
+「今、かくれんぼやってるの」{END}","Elven Girl:<nl>
+ I'm playing hide-and-seek.{END}"
+"エルフの男の子
+「みーっけ！」
+<pause>
+エルフの女の子
+「あ〜ん、もう！」
+<pause>
+エルフの女の子
+「見つかったじゃない〜！」
+<pause>
+エルフの男の子
+「それじゃあ今度は、ボクが隠れ
+　る番だ」{END}","Elven Boy:<nl>
+ Gotcha!
+<pause>
+Elven Girl:<nl>
+ Aww, poo!
+<pause>
+Elven Girl:<nl>
+ I was so sure you'd never find me!
+<pause>
+Elven Boy:<nl>
+ Woohoo!
+ Now it's my turn to hide!{END}"
+"エルフの女の子
+「もう、邪魔しないでよ！」{END}","Elven Girl:<nl>
+ Ooooh!
+ It's all your fault!{END}"
+"男のエルフ
+「ベネツィアに残した息子達は大
+　丈夫だろうか・・・」
+<pause>
+男のエルフ
+「心配でしょうがないよ」{END}","Elven Man:<nl>
+ I wonder how the children I was
+ forced to leave behind in Venezia
+ are faring...
+<pause>
+Elven Man:<nl>
+ Are they making ends meet?
+ Are they in good health?
+ I can't stop worrying about them...{END}"
+"女のエルフ
+「いい天気ね」{END}","Elven Woman:<nl>
+ The weather's gorgeous this
+ afternoon, don't you think?{END}"
+"エルフの見張り
+「通ってよし！」{END}","Elven Guard:<nl>
+ You may pass!{END}"
+"エルフの見張り
+「秋の収穫の準備で人が少ないん
+　だ」
+<pause>
+エルフの見張り
+「お店は全部やってるよ」{END}","Elven Guard:<nl>
+ Most villagefolk are out busy
+ preparing for the autumn harvest.
+<pause>
+Elven Guard:<nl>
+ The shops are still open for
+ business, though.{END}"
+"エルフの見張り
+「今、みんな狩りに出ていて人が
+　少ないんだ」
+<pause>
+エルフの見張り
+「狩りって言っても、かなり長期
+　に渡るものだけどね」{END}","Elven Guard:<nl>
+ Most village folk are currently out
+ hunting in the forest.
+<pause>
+Elven Guard:<nl>
+ They may not be back for a while.
+ It comes with the territory.{END}"
+"男のエルフ
+「今年の収穫はかなりたいへんそ
+　うだな」
+<pause>
+男のエルフ
+「トレントやユミルの森にはけっ
+　こう手ごわい魔物が出没するそ
+　うなんだ」{END}","Elven Man:<nl>
+ I don't have a good feeling about
+ the harvest this year.
+<pause>
+Elven Man:<nl>
+ The Ymir and Treant Forests
+ recently became infested with
+ savage beasts.{END}"
+"エルフの女の子
+「トレントの森の奥に神聖な丸太
+　っていうのがあるんだよ」
+<pause>
+エルフの女の子
+「弓の材料になるんだよ」
+<pause>
+エルフの女の子
+「知ってた？」{END}","Elven Girl:<nl>
+ There's supposed to be a piece of
+ Sacred Wood somewhere deep in
+ the Treant Forest.
+<pause>
+Elven Girl:<nl>
+ You can make a very special bow
+ with it.
+<pause>
+Elven Girl:<nl>
+ Did you know that?{END}"
+"男のエルフ
+「この村の村長、ブラムバルド様
+　もかなり考えが変わったよ」
+<pause>
+男のエルフ
+「人間と交流を深めようなんて、
+　ひと昔前なら考えられなかった
+　ことさ・・・」{END}","Elven Man:<nl>
+ Chief Brambard and the council have
+ changed their minds about humans.
+<pause>
+Elven Man:<nl>
+ I never thought we would deepen
+ our contact with human society
+ again...{END}"
+"男の人
+「私はアルヴァニスタのスーパー
+　『食べすぎ』の店員です」
+<pause>
+男の人
+「エルフの集落には自然食品がた
+　くさんあって、よく仕入れに来
+　るんですよ」
+<pause>
+男の人
+「でも、ここまで遠いですから、
+　保存が効く食品や薬などを主に
+　扱っています」{END}","Man:<nl>
+ I work for the “Pig-Out”
+ supermarket in Alvanista.
+<pause>
+Man:<nl>
+ The elves grow piles of organic
+ food and medicinal herbs, so I
+ came to stock up.
+<pause>
+Man:<nl>
+ But it's quite a schlep back, so
+ making sure it all keeps on the
+ way is tough.{END}"
+"エルフの子供
+「一度でいいから都に行ってみた
+　いなぁ」{END}","Elven Child:<nl>
+ I wanna go see the capital
+ someday.{END}"
+"おばあさん
+「わたしゃぁ、保養のために来て
+　おるんじゃよ」
+<pause>
+おばあさん
+「ここは自然がたくさんあってい
+　いのう・・・」{END}","Old Woman:<nl>
+ I came here to improve my health.
+<pause>
+Old Woman:<nl>
+ The purity of the nature in this
+ place is very refreshing for these
+ old bones...{END}"
+"女の人
+「布教活動しに来ています」
+<pause>
+女の人
+「大地母神マーテル様の教えでも
+　ある自然崇拝はエルフの方々の
+　考えと似ています」
+<pause>
+女の人
+「きっと受け入れてくれるでしょ
+　う」{END}","Woman:<nl>
+ I'm a missionary.
+<pause>
+Woman:<nl>
+ I came here to spread the
+ teachings of Martel, the Mother
+ Goddess, to the elves.
+<pause>
+Woman:<nl>
+ The concepts are similar to their
+ own nature worship. I have faith
+ that they will accept them.{END}"
+"男のエルフ
+「この間、大使としてアルヴァニ
+　スタ王国に行ってきました」
+<pause>
+男のエルフ
+「王女様は、すごくきれいな方で
+　したよ」{END}","Elven Man:<nl>
+ I recently went to Alvanista as an
+ ambassador.
+<pause>
+Elven Man:<nl>
+ I have to say, I was enamored by
+ the princess' ethereal beauty.{END}"
+"男のエルフ
+「人が多くなってにぎやかになる
+　のは、この村の発展のためには
+　良いことかもしれません」
+<pause>
+男のエルフ
+「それでも、私は静かな村の方が
+　いいと思います」{END}","Elven Man:<nl>
+ Perhaps these swarms of foreigners will be better for the village's
+ development in the long run, but...
+<pause>
+Elven Man:<nl>
+ Still, I think I preferred it when it
+ was quiet around here.{END}"
+"男のエルフ
+「エルフ族のこれからについて話
+　し合っています」
+<pause>
+男のエルフ
+「人間は受け入れているのにハー
+　フエルフは受け入れないのはど
+　うしてなのだ？」{END}","Elven Man:<nl>
+ We're putting our heads together
+ about the future of our people.
+<pause>
+Elven Man:<nl>
+ My question is, why have we
+ accepted humans, but not
+ half-elves?{END}"
+"エルフ
+「エルフ族のこれからについて話
+　し合っているんじゃ」
+<pause>
+エルフ
+「わしは最初から人間を受け入れ
+　るのは反対だったんじゃ」
+<pause>
+エルフ
+「現にユミルやトレントの森の動
+　物達が少なくなっておる！」
+<pause>
+エルフ
+「ハーフエルフの受け入れは断固
+　として反対じゃ！」{END}","Elf:<nl>
+ We're having a debate about the
+ future of our people.
+<pause>
+Elf:<nl>
+ I've always been opposed to
+ allowing humans into our society.
+<pause>
+Elf:<nl>
+ Their wasteful habits would
+ endanger the wildlife in the
+ Ymir and Treant forests!
+<pause>
+Elf:<nl>
+ But the half-elves are the worst.
+ Those damned mixed-blood
+ abominations have no place
+ with us purebreeds!{END}"
+"若いエルフ
+「エルフ族のこれからについて話
+　し合っています」
+<pause>
+若いエルフ
+「エルフ族のこれからの発展のた
+　めには彼らハーフエルフの力が
+　必要だと思います」
+<pause>
+若いエルフ
+「彼らは苦境をくぐりぬけてきた
+　強い精神力があるからです」{END}","Young Elf:<nl>
+ We're having a meeting about the
+ future of our people.
+<pause>
+Young Elf:<nl>
+ I believe that the power of
+ half-elves would be a boon
+ to our development.
+<pause>
+Young Elf:<nl>
+ The hard lives they've faced
+ for so long have given them
+ a strong will.
+ That is a valuable quality.{END}"
+"ブラムバルド
+「ハーフエルフ問題は世界に平和
+　が訪れてから改めてじっくり話
+　し合いたいと思っています」{END}","Brambard:<nl>
+ I'd like to discuss the half-elf issue
+ more carefully once peace comes
+ to the world.{END}"
+"ブラムバルド
+「あなた方は！」
+<pause>
+ブラムバルド
+「お久しぶりです！この前会った
+　のは・・・」
+<pause>
+ブラムバルド
+「たしか１５０年くらい前でした
+　か？」
+<pause>
+<Cless>
+「そ、そうなりますね・・・<sweat>」
+<pause>
+<Cless>
+「何か時間の感覚が違うなぁ」<wait>{END}","Brambard:<nl>
+ It's you!
+<pause>
+Brambard:<nl>
+ A long time has passed!
+ That was about...
+<pause>
+Brambard:<nl>
+ A century and a half ago, wasn't
+ it?
+<pause>
+<Cless>:<nl>
+ Th-That's probably not too far off
+ the mark...<sweat>
+<pause>
+<Cless>:<nl>
+ Let's just say time's been a
+ bit...distorted for us.<wait>{END}"
+"ブラムバルド
+「あなた方にも話を聞いてもらい
+　たいのですが・・・」
+<pause>
+ブラムバルド
+「少しお時間を取らせていただい
+　てよろしいですか？」{END}","Brambard:<nl>
+ Since you're here, I would like to
+ talk to you about something...
+<pause>
+Brambard:<nl>
+ May I have a moment of your
+ time?{END}"
+"ブラムバルド
+「この村も、だいぶ様変りしたで
+　しょう？」
+<pause>
+ブラムバルド
+「あなた方が１５０年前に世界に
+　平和を取り戻してから私の考え
+　は変わりました」
+<pause>
+ブラムバルド
+「人間の中にも我々の理解者がい
+　るのだと・・・」
+<pause>
+ブラムバルド
+「アルヴァニスタ王もその一人で
+　した」
+<pause>
+ブラムバルド
+「かの王は積極的に我々の文化を
+　吸収し、エルフの地位の向上に
+　貢献してくれたのです」
+<pause>
+<Klarth>
+「なるほど」
+<pause>
+<Klarth>
+「しかし、相変わらずハーフエル
+　フを受け入れることはしていな
+　いようですが？」
+<pause>
+ブラムバルド
+「やはり、中には過去の過ちを繰
+　り返すことを危ぶんでいる者が
+　いるのです」
+<pause>
+<Klarth>
+「昔の過ち？」
+<pause>
+ブラムバルド
+「魔科学兵器ですよ」
+<pause>
+ブラムバルド
+「あなたがたは、ミッドガルズの
+　科学者の大半がハーフエルフだっ
+　た事実をご存知でしたか？」
+<pause>
+<Klarth>
+「ミッドガルズの科学者が！？」
+<pause>
+<Klarth>
+「しかし、あそこはエルフ族との
+　交流は、ほとんど無かったはず
+　では・・・」
+<pause>
+ブラムバルド
+「ええ、その通りです」
+<pause>
+ブラムバルド
+「私達エルフ族は必要以上の力を
+　必要としません」
+<pause>
+ブラムバルド
+「魔術を軍事的に利用するなどと
+　いうことは、許されざる暴挙と
+　考えます」
+<pause>
+ブラムバルド
+「しかし、ハーフエルフの思想は、
+　エルフよりもむしろ、人間に近
+　い」
+<pause>
+ブラムバルド
+「魔術は強力な武器となります」
+<pause>
+ブラムバルド
+「人間がその武器を持てばどうな
+　るか・・・」
+<pause>
+ブラムバルド
+「あなたがたはその目で見たはず」
+<pause>
+ブラムバルド
+「魔科学は、危うくユグドラシル
+　を枯らしてしまう所でした」
+<pause>
+ブラムバルド
+「そして、今もその危険は続いて
+　いるのです」
+<pause>
+<Mint>
+「あの・・・でも！」
+<pause>
+<Mint>
+「ハーフエルフの人達が、全てそ
+　ういった考えの方ばかりではな
+　いと思います」
+<pause>
+<Mint>
+「<Arche>さんだって・・・」
+<pause>
+ブラムバルド
+「・・・そうかもしれません」
+<pause>
+ブラムバルド
+「世の中の全てのハーフエルフが、
+　ミッドガルズに手を貸したわけ
+　ではないのですからね」
+<pause>
+ブラムバルド
+「我らは、同じ魔術の力を操るも
+　のとして、彼らを導くべきだっ
+　たのかもしれません」
+<pause>
+ブラムバルド
+「いずれにせよ、今一度ハーフエ
+　ルフについては考えてみましょ
+　う」
+<pause>
+<Mint>
+「魔科学も、不自然にマナを消費
+　する使い方ばかりではないかも
+　しれません」
+<pause>
+<Mint>
+「たとえば、レアバードや、小さ
+　なランプ・・・」
+<pause>
+<Mint>
+「そうした使い方もあるのではな
+　いでしょうか？」
+<pause>
+ブラムバルド
+「そうですね」
+<pause>
+ブラムバルド
+「ありがとう、何か良い考えが浮
+　かびそうですよ」{END}","Brambard:<nl>
+ Haven't you noticed all the change
+ in this village?
+<pause>
+Brambard:<nl>
+ After you brought peace back to
+ the world so long ago, I had a
+ change of heart.
+<pause>
+Brambard:<nl>
+ You see, we have sympathizers
+ among humans...
+<pause>
+Brambard:<nl>
+ The King of Alvanista is one such example.
+<pause>
+Brambard:<nl>
+ He's proactively integrated our
+ culture and contributed toward
+ improving the social status of
+ elves.
+<pause>
+<Klarth>:<nl>
+ I'm glad to hear that.
+<pause>
+<Klarth>:<nl>
+ Though half-elves seem to be
+ about as “accepted” as they were
+ the last time we were here.
+<pause>
+Brambard:<nl>
+ That is true.
+ Many of those among us still fear
+ that half-elves will repeat their
+ past errors.
+<pause>
+<Klarth>:<nl>
+ What sort of “past errors” are we
+ talking about, here?
+<pause>
+Brambard:<nl>
+ Magitechnology-based weaponry.
+<pause>
+Brambard:<nl>
+ Did you know that the majority of
+ Midgard's scientists were
+ half-elves?
+<pause>
+<Klarth>:<nl>
+ They were!?
+<pause>
+<Klarth>:<nl>
+ Well, I guess that's not so hard to
+ believe. Midgard had practically
+ zero interaction with elves, after
+ all...
+<pause>
+Brambard:<nl>
+ Yes, that's correct.
+<pause>
+Brambard:<nl>
+ We elves only require the power
+ necessary to sustain our way of
+ life. I do not boast when I say
+ that's not very much.
+<pause>
+Brambard:<nl>
+ It is our belief that the use of
+ magic for military purposes and
+ the like is an unforgivable
+ perversion.
+<pause>
+Brambard:<nl>
+ But because the ideology of
+ half-elves is inherently more
+ human than it is elven...
+<pause>
+Brambard:<nl>
+ ...magic was allowed to develop
+ into a very potent weapon.
+<pause>
+Brambard:<nl>
+ I believe you witnessed the result
+ of that with your own eyes.
+<pause>
+Brambard:<nl>
+ The fruits of their labor...<nl>
+ The destruction wrought by
+ human use of that weapon...
+<pause>
+Brambard:<nl>
+ ...and Yggdrasill's brush with death.
+ Yes, magitechnology was the cause
+ of that too.
+<pause>
+Brambard:<nl>
+ Such peril is nigh once more.
+<pause>
+<Mint>:<nl>
+ Please pardon me, but...!
+<pause>
+<Mint>:<nl>
+ I don't believe that applies to all
+ half-elves.
+<pause>
+<Mint>:<nl>
+ Like our friend, <Arche>...
+<pause>
+Brambard:<nl>
+ ...That may be so.
+<pause>
+Brambard:<nl>
+ It's not as though Midgard had
+ every half-elf in the world helping
+ them.
+<pause>
+Brambard:<nl>
+ Since we share the same magic
+ power, perhaps we should serve as
+ leaders and role models for them.
+<pause>
+Brambard:<nl>
+ I'm certain some kind of
+ compromise is within the realm of
+ possibility. I will consider our
+ position on them again.
+<pause>
+<Mint>:<nl>
+ And not all magitechnology
+ consumes such unnatural amounts
+ of mana.
+<pause>
+<Mint>:<nl>
+ The Rheairds, for example, or small
+ lamps...
+<pause>
+<Mint>:<nl>
+ Can't it be used for those as well?
+<pause>
+Brambard:<nl>
+ Yes, you're right.
+<pause>
+Brambard:<nl>
+ Hmm... Thank you.
+ You've given me much to
+ contemplate.{END}"
+"男のエルフ
+「やはり、お腹の赤ちゃんのため
+　にもここから出た方がいい」{END}","Elven Man:<nl>
+ We really should leave.
+ It would be best for the baby
+ you're carrying, too.{END}"
+"女の人
+「ここであなたと暮らせたら、ど
+　んなにいいか・・・」{END}","Woman:<nl>
+ Is there truly no way we can stay?
+ It's beautiful here... I love it so
+ much...{END}"
+"<Klarth>
+「不思議な質感の石盤だな・・・」{END}","<Klarth>:<nl>
+ This stone tablet is giving off a
+ mysterious air...{END}"
+"忍者
+「私の力で忍者の里までワープさ
+　せましょうか？」{END}","Ninja:<nl>
+ I can use my power to warp
+ you to the Ninja Village.
+ Want to go?{END}"
+"忍者
+「では、行きますよ」{END}","Ninja:<nl>
+ Let us go, then.{END}"
+"忍者
+「またのご利用、お待ちしており
+　ます」{END}","Ninja:<nl>
+ I await your return, should you
+ wish to utilize my service.{END}"
+"料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}","Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}"
+"料理人
+「この料理を伝授しよう！」<wait>{END}","Chef:<nl>
+ I'll teach you this dish!<wait>{END}"
+"<color_0002>フルーツパフェを料理できるよう
+になりました。<color_0000>{END}",<color_0002>Learned the recipe for Fruit Parfait.<color_0000>{END}
+"料理人
+「おお、なんということだ！」{END}","Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}"
+"料理人
+「・・・実は、私は『すばらしき
+　味の世界』を二つ持っている」
+<pause>
+料理人
+「私の『もう一つの世界』に触れ
+　てみないか？」{END}","Chef:<nl>
+ ...Actually, I have another World of
+ Fabulous Flavors!
+<pause>
+Chef:<nl>
+ Don't you wish to taste the flavors
+ of my Other World, too?{END}"
+"料理人
+「さあ、この料理を伝授しよう！」<wait>{END}","Chef:<nl>
+ Great! I'll teach you this dish!<wait>{END}"
+"<color_0002>やさいサラダを料理できるように
+なりました。<color_0000>{END}",<color_0002>Learned the recipe for Salad.<color_0000>{END}
+"料理人
+「私のもう一つの世界は、待って
+　いるぞ！」{END}","Chef:<nl>
+ My Other World is waiting!{END}"
+"料理人
+「フルーツパフェとやさいサラダ
+　作ってるかい？」{END}","Chef:<nl>
+ Have you made Fruit Parfait and
+ Salad yet?{END}"
+"<audio_0CB2>エルフの見張り
+「何だ、お前達は！？」
+<pause>
+<audio_0CB3>エルフの見張り
+「ここはエルフ族以外の者は立入
+　禁止だ！」{END}","<audio_0CB2>Elven Guard:<nl>
+ Humans!
+ What are you doing here!?
+<pause>
+<audio_0CB3>Elven Guard:<nl>
+ Only full-blooded elves are
+ permitted into our settlement!{END}"
+"<audio_0CB4><Klarth>
+「この<item_3900>が目に入らない
+　のか？」
+<pause>
+<audio_0CB5><Klarth>
+「族長に会わせてくれ」
+<pause>
+<audio_0CB6>エルフの見張り
+「それはアルヴァニスタ王国のエ
+　ンブレム・・・」
+<pause>
+<audio_0CB7>エルフの見張り
+「失礼しました、それではこちら
+　へどうぞ」{END}","<audio_0CB4><Klarth>:<nl>
+ So much for the famous
+ eagle eyes of the elves.
+ Don't you see this crest?
+<pause>
+<audio_0CB5><Klarth>:<nl>
+ We're here to meet your chief.
+<pause>
+<audio_0CB6>Elven Guard:<nl>
+ That's the royal crest of Alvanista...
+<pause>
+<audio_0CB7>Elven Guard:<nl>
+ Forgive my insolence.
+ Please follow me.{END}"
+"<audio_0CB8>族長
+「みなさん、お待たせして申し訳
+　ありませんでした」
+<pause>
+<audio_0CB9>族長
+「初めまして、私が族長のブラム
+　バルドです」<wait>{END}","<audio_0CB8>Chief:<nl>
+ I apologize for the hold up.
+<pause>
+<audio_0CB9>Chief:<nl>
+ I am this village's chief, Brambard.<wait>{END}"
+"<unk1><audio_0CBA><Klarth>
+私は<Klarth>、それから<Cless>に<Mint>です」{END}","<unk1><audio_0CBA><Klarth>:<nl>
+ I'm <Klarth>.
+ This is <Cless> and <Mint>.
+{END}"
+"<audio_0CBB><Klarth>
+「さっそくですが、これを見てい
+　ただけますか？」<wait>{END}","<audio_0CBB><Klarth>:<nl>
+ Well, let's get to it, then.
+ Can you have a look at these?<wait>{END}"
+"<audio_0CBC>ブラムバルド
+「これは契約の指輪ですね」
+<pause>
+<audio_0CBD>ブラムバルド
+「しかし、見たところ壊れている
+　ようですが・・・」
+<pause>
+<audio_0CBE><Cless>
+「これを修復する方法があると聞
+　いてここまで来ました」
+<pause>
+<audio_0CBF>ブラムバルド
+「なるほど・・・」
+<pause>
+<audio_0CC0>ブラムバルド
+「石盤の力が必要ですね」
+<pause>
+<audio_0CC1>ブラムバルド
+「村の北側に行っておりますので
+　詳しい話はその時に・・・」{END}","<audio_0CBC>Brambard:<nl>
+ These are pact rings.
+<pause>
+<audio_0CBD>Brambard:<nl>
+ But they appear to be damaged...
+<pause>
+<audio_0CBE><Cless>:<nl>
+ Yes.
+ We were told your kind might have
+ the knowledge to repair them, so...
+<pause>
+<audio_0CBF>Brambard:<nl>
+ I see.
+<pause>
+<audio_0CC0>Brambard:<nl>
+ The stone tablet's power is
+ necessary.
+<pause>
+<audio_0CC1>Brambard:<nl>
+ Meet me at the north side of the
+ village. I'll tell you more there.{END}"
+"<audio_0CC2><Cless>
+「ここでは直せないみたいですね」
+<pause>
+<audio_0CC3><Klarth>
+「そうみたいだな」
+<pause>
+<audio_0CC4><Klarth>
+「なにやら、石盤とか言っていた
+　が・・・」
+<pause>
+<audio_0CC5><Cless>
+「行ってみましょう」{END}","<audio_0CC2><Cless>:<nl>
+ Guess they can't actually fix them
+ by themselves.
+<pause>
+<audio_0CC3><Klarth>:<nl>
+ Sounds that way to me too.
+<pause>
+<audio_0CC4><Klarth>:<nl>
+ He did say something about a stone
+ tablet, though...
+<pause>
+<audio_0CC5><Cless>:<nl>
+ Better go catch up with him.{END}"
+"<unk1>エルフの弓職人
+まさか、君達が持っているのは神聖な丸太じゃないか？」
+<pause>
+エルフの弓職人
+それを使って、前に修理した<item_DC00>を強化してあげようか？」{END}","<unk1>Elven Bowsmith:<nl>
+ I don't believe it...<nl>
+ You managed to find a piece of
+ Sacred Wood?
+<pause>
+Elven Bowsmith:<nl>
+ If you don't mind giving it up, I
+ can use it to greatly strengthen
+ the bow I repaired for you earlier.
+ What do you say?{END}"
+"エルフの弓職人
+「よし、ちょっと待っててくれ」{END}","Elven Bowsmith:<nl>
+ Very well.
+ I'll have it ready in a short while.{END}"
+"エルフの弓職人
+「お待たせ」
+<pause>
+エルフの弓職人
+「自分で言うのも何だけど、これ
+　はすごい弓だよ」<wait>{END}","Elven Bowsmith:<nl>
+ Thank you for your patience.
+<pause>
+Elven Bowsmith:<nl>
+ By any standard, what I have here
+ is an incredible bow.<wait>{END}"
+<color_0002><item_DF00>を手に入れました。<color_0000>{END},<color_0002>Acquired the legendary Elven Bow.<color_0000>{END}
+"エルフの弓職人
+「そうか、残念だな・・・」{END}","Elven Bowsmith:<nl>
+ Oh...<nl>
+ What a shame...{END}"
+"エルフの弓職人
+「神聖な丸太って知ってるかい？」
+<pause>
+エルフの弓職人
+「最高の弓の材料と言われている
+　んだが、トレントの森の奥地で
+　しか取れないんだ」
+<pause>
+エルフの弓職人
+「昔は石盤の所からトレントの森
+　の奥地に行けたっていう話なん
+　だけど・・・」
+<pause>
+エルフの弓職人
+「なんでも、森の奥は危険だから
+　入口を封印したんだってさ」{END}","Elven Bowsmith:<nl>
+ Have you heard of Sacred Wood?
+<pause>
+Elven Bowsmith:<nl>
+ It's said to be a component of the
+ greatest bows, but it can only be
+ found in the depths of Treant
+ Forest.
+<pause>
+Elven Bowsmith:<nl>
+ There are stories that you could
+ reach the depths of the woods from
+ where the tablet is, but...
+<pause>
+Elven Bowsmith:<nl>
+ Whoever is to set foot there is
+ fated never to return, so the
+ entrance was sealed.{END}"
+"<Cless>
+「鉄製の宝箱がある！」
+<pause>
+{END}","<Cless>:<nl>
+ Oooh!
+ An iron treasure chest!
+<pause>
+{END}"
+"エルフの弓職人
+「それに触るな！」
+<pause>
+{END}","Elven Bowsmith:<nl>
+ Don't touch that!
+<pause>
+{END}"
+"<Cless>
+「す、すみません・・・」
+<pause>
+エルフの弓職人
+「いや、わかればいいんだ・・・
+　怒鳴って悪かった」{END}","<Cless>:<nl>
+ S-Sorry...
+<pause>
+Elven Bowsmith:<nl>
+ It's okay, as long as you
+ understand...
+<pause>
+Elven Bowsmith:<nl>
+ Forgive me for the outburst.{END}"
+"<Cless>
+「触るのはやめよう・・・」{END}","<Cless>:<nl>
+ Don't want to make him mad
+ again...{END}"
+"<Cless>
+「待ってください」
+<pause>
+<Cless>
+「少しだけ、ブラムバルドさんと
+　お話ししたい事があります」
+<pause>
+エルフの見張り
+「ダメだ！」
+<pause>
+<Mint>
+「少しだけ、お願いします！」
+<pause>
+エルフの見張り
+「<speed_0010>・・・<speed_00FF>」<wait>{END}","<Cless>:<nl>
+Please, wait.
+<pause>
+<Cless>:<nl>
+We need to speak with Lord Brambard.
+It won't take long.
+<pause>
+Elven Sentry:<nl>
+Impossible!
+<pause>
+<Mint>:<nl>
+Please, just for a moment!
+<pause>
+Elven Sentry:<nl>
+<speed_0010>...<speed_00FF><wait>{END}"
+"ブラムバルド
+「どうした、騒々しいぞ！」{END}","Brambard:<nl>
+What is all the commotion!?{END}"
+"<Cless>
+「あっ、ブラムバルドさん！」{END}","<Cless>:<nl>
+Oh, Lord Brambard!{END}"
+"ブラムバルド
+「おや、あなたたちは・・・」
+<pause>
+ブラムバルド
+「このあいだは特別に許可したん
+　です・・・」
+<pause>
+ブラムバルド
+「ハーフエルフと共にいる以上は、
+　ここへは来ないで頂きたい」
+<pause>
+<Cless>
+「違うんです」
+<pause>
+<Cless>
+「前にヘイムダールの石盤の前で
+　聞いた弓の事で来たんです！」
+<pause>
+ブラムバルド
+「<speed_0010>・・・<speed_00FF>？」
+<pause>
+ブラムバルド
+「ああ、あの弓のことか！」
+<pause>
+ブラムバルド
+「確かに、ここの武器職人に見せ
+　ろといったのは私<speed_0010>・・・<speed_00FF>」{END}","Brambard:<nl>
+Oh, you folks again...
+<pause>
+Brambard:<nl>
+An exception was made last time
+by allowing you to enter...
+<pause>
+Brambard:<nl>
+I would ask that you stay away
+as long as you travel with that
+half-elf.
+<pause>
+<Cless>:<nl>
+We're not contesting that.
+<pause>
+<Cless>:<nl>
+We're here about that bow we told
+you about by the stone in
+Heimdall!
+<pause>
+Brambard:<nl>
+<speed_0010>...<speed_00FF>?
+<pause>
+Brambard:<nl>
+Oh, the bow!
+<pause>
+Brambard:<nl>
+I did mention you should show
+it to the village bowsmith<speed_0010>...<speed_00FF>{END}"
+"ブラムバルド
+「・・・そうですね、
+　わかりました」
+<pause>
+ブラムバルド
+「では、こうしましょう」
+<pause>
+ブラムバルド
+「君と彼女の二人が、私と一緒に
+　武器職人のもとに行く」
+<pause>
+ブラムバルド
+「残りの二人は、ここで待ってて
+　もらう」
+<pause>
+ブラムバルド
+「いいですね？」
+<pause>
+<Cless>
+「はい、ありがとうございます」{END}","Brambard:<nl>
+Hmmm... Very well.
+<pause>
+Brambard:<nl>
+This is what we'll do.
+<pause>
+Brambard:<nl>
+The two of you will come with
+me to the bowsmith.
+<pause>
+Brambard:<nl>
+The other two must wait here.
+<pause>
+Brambard:<nl>
+Agreed?
+<pause>
+<Cless>:<nl>
+Yes, thank you so much.{END}"
+"ブラムバルド
+「では、終わったら声をかけてく
+　ださい」{END}","Brambard:<nl>
+Let me know when you're ready.{END}"
+"ブラムバルド
+「もう良いのですか？」{END}","Brambard:<nl>
+Are you ready, now?{END}"
+"ブラムバルド
+「では、行きましょう」{END}","Brambard:<nl>
+Then let's go.{END}"
+"ブラムバルド
+「では、終わったら声をかけてく
+　ださい」{END}","Brambard:<nl>
+Let me know when you're ready.{END}"
+"エルフの弓職人
+「あんたら、冒険者かい？」
+<pause>
+エルフの弓職人
+「残念だけど、あんたらに売れる
+　武具はないよ」
+<pause>
+エルフの弓職人
+「ここにあるのは狩猟用のばかり
+　だから」{END}","Elven Bowsmith:<nl>
+ You people are adventurers,
+ I take it.
+<pause>
+Elven Bowsmith:<nl>
+ Sorry, I don't stock swords
+ or staves...
+<pause>
+Elven Bowsmith:<nl>
+ All I carry are bows made
+ for hunting.<wait>{END}"
+"<Cless>
+「わざわざありがとうございまし
+　た」
+<pause>
+<Mint>
+「本当に・・・、おかげで手がか
+　りが掴めました」
+<pause>
+ブラムバルド
+「では、頑張ってください」{END}","<Cless>:<nl>
+Thank you for going out of your
+way to help us.
+<pause>
+<Mint>:<nl>
+Yes, we have a new lead now,
+thanks to you.
+<pause>
+Brambard:<nl>
+I wish you the best of luck.{END}"
+"<Cless>
+「じゃあ、戻ろう」{END}","<Cless>:<nl>
+Well, let's head back now.{END}"
+"<Cless>
+「おまたせ」
+<pause>
+{END}","<Cless>:<nl>
+Sorry to keep you waiting.
+<pause>
+{END}"
+"<Klarth>
+「もう良いのか？」
+<pause>
+<Mint>
+「はい」{END}","<Klarth>:<nl>
+All done?
+<pause>
+<Mint>:<nl>
+Yes.{END}"
+"<Mint>
+「ブラムバルドさん！！」{END}","<Mint>:<nl>
+Lord Brambard!!{END}"
+"ブラムバルド
+「おお、あなた方は」
+<pause>
+ブラムバルド
+「旅は順調ですか？」
+<pause>
+ブラムバルド
+「<speed_0010>・・・<speed_00FF>どうかしましたか？」{END}","Brambard:<nl>
+Oh, it's you folks.
+<pause>
+Brambard:<nl>
+I trust your travels are going
+well?
+<pause>
+Brambard:<nl>
+Is something wrong<speed_0010>...<speed_00FF>?{END}"
+"<Klarth>
+「実は・・・」
+<pause>
+<Klarth>
+「あなたにお願いがありまして」
+<pause>
+{END}","<Klarth>:<nl>
+Actually...
+<pause>
+<Klarth>:<nl>
+We wanted to ask you a favor.
+<pause>
+{END}"
+"ブラムバルド
+「なんでしょう？」
+<pause>
+{END}","Brambard:<nl>
+And what might that be?
+<pause>
+{END}"
+"<Cless>
+「アーシアさんって方を、知って
+　ますか？」{END}","<Cless>:<nl>
+Do you know someone by the
+name of Arsia?{END}"
+"ブラムバルド
+「<speed_0010>・・・<speed_00FF>ええ」
+<pause>
+ブラムバルド
+「しかし・・・、なぜあなた方が
+　彼女を？」
+<pause>
+<Mint>
+「お願いです！」
+<pause>
+<Mint>
+「私たちと一緒に来てください！」
+<pause>
+<Mint>
+「<Arche>さんが！」
+<pause>
+{END}","Brambard:<nl>
+Yes, but<speed_0010>...<speed_00FF>
+<pause>
+Brambard:<nl>
+What do you folks have to do
+with her?
+<pause>
+<Mint>:<nl>
+Please!
+<pause>
+<Mint>:<nl>
+Please come with us!
+<pause>
+<Mint>:<nl>
+<Arche> has...!
+<pause>
+{END}"
+"ブラムバルド
+「ちょ、ちょっと待ってくれ！」
+<pause>
+ブラムバルド
+「あっ、あなた方は彼女に会った
+　のですか？」{END}","Brambard:<nl>
+Now hold on a moment!
+<pause>
+Brambard:<nl>
+Are you telling me you've
+met with her?{END}"
+"<Klarth>
+「<speed_0010>・・・<speed_00FF>ええ、
+　会いました」
+<pause>
+<Klarth>
+「そしてあなたを連れてきてくれ
+　と・・・」{END}","<Klarth>:<nl>
+That's right<speed_0010>...<speed_00FF>
+<pause>
+<Klarth>:<nl>
+And she asked that we bring you
+to her.{END}"
+"ブラムバルド
+「そうですか」
+<pause>
+ブラムバルド
+「彼女が・・・・・・」{END}","Brambard:<nl>
+I see.
+<pause>
+Brambard:<nl>
+She...{END}"
+"ブラムバルド
+「行きましょう・・・！」
+<pause>
+ブラムバルド
+「このままでは、きっとあなた方
+　にも迷惑がかかります」
+<pause>
+ブラムバルド
+「・・・これは私の責任です」{END}","Brambard:<nl>
+Very well, let's go!
+<pause>
+Brambard:<nl>
+I don't want to cause you people
+any further trouble.
+<pause>
+Brambard:<nl>
+This is all my fault.{END}"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_826">
+        <source>So, Edward's traveling to Freyland...</source>
+        <target state="translated">So, Edward's traveling to Freyland...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_827">
+        <source>We should follow and search for him.</source>
+        <target state="translated">We should follow and search for him.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_828">
+        <source>But Freyland's like, y'know, a desert.</source>
+        <target state="translated">But Freyland's like, y'know, a desert.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_829">
+        <source>Oh, I'm sure he'll be taking it
+easy in some town over there.</source>
+        <target state="translated">Oh, I'm sure he'll be taking it
+easy in some town over there.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

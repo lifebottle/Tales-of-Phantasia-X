@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_034">
+        <source>Where in the world are we?</source>
+        <target state="translated">Where in the world are we?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_035">
+        <source>It seems really familiar...</source>
+        <target state="translated">It seems really familiar...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_036">
+        <source>Mm...but the scent of the
+wind seems a little different.</source>
+        <target state="translated">Mm...but the scent of the
+wind seems a little different.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_037">
+        <source>What do you mean?</source>
+        <target state="translated">What do you mean?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_038">
+        <source>I'm sorry, I can't
+explain it any better...</source>
+        <target state="translated">I'm sorry, I can't
+explain it any better...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_039">
+        <source>Oh well.</source>
+        <target state="translated">Oh well.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_040">
+        <source>For now, let's just worry about
+finding a place with some people to ask.</source>
+        <target state="translated">For now, let's just worry about
+finding a place with some people to ask.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

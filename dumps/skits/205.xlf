@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1033">
+        <source>Edward... Where is he?</source>
+        <target state="translated">Edward... Where is he?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1034">
+        <source>Nothin' but dunes for miles
+and miles... Where do we start...?</source>
+        <target state="translated">Nothin' but dunes for miles
+and miles... Where do we start...?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1035">
+        <source>I'm sure he's stopped by a
+town. Let's find one and ask around.</source>
+        <target state="translated">I'm sure he's stopped by a
+town. Let's find one and ask around.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1036">
+        <source>Goodness, the daytime
+heat here is blistering... Agh...</source>
+        <target state="translated">Goodness, the daytime
+heat here is blistering... Agh...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

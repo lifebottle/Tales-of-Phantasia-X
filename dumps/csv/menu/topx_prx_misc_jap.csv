@@ -1,0 +1,186 @@
+クレス{END},Cless{END}
+ミント{END},Mint{END}
+アーチェ{END},Arche{END}
+クラース{END},Klarth{END}
+チェスター{END},Chester{END}
+すず{END},Suzu{END}
+ロンドリーネ{END},Rody{END}
+リア{END},Rhea{END}
+＝　アルベイン{END}, Alvein{END}
+＝　アドネード{END}, Adnade{END}
+＝　クライン{END}, Klaine{END}
+＝　Ｆ　＝　レスター{END}, F. Lester{END}
+＝　バークライト{END}, Barklight{END}
+ふじばやし　＝{END}, Fujibayashi{END}
+＝　Ｅ　＝　エッフェンベルグ{END}, E. Effenberg{END}
+＝　スカーレット{END}, Scarlet{END}
+<Cless>　＝　アルベイン{END},<Cless> Alvein{END}
+<Mint>　＝　アドネード{END},<Mint> Adnade{END}
+<Arche>　＝　クライン{END},<Arche> Klaine{END}
+<Klarth>　＝　Ｆ　＝　レスター{END},<Klarth> F. Lester{END}
+<Chester>　＝　バークライト{END},<Chester> Barklight{END}
+ふじばやし　＝　<Suzu>{END},<Suzu> Fujibayashi{END}
+<Rondoline>　＝　Ｅ　＝　エッフェンベルグ{END},Rondoline E. Effenberg{END}
+<Rhea>　＝　スカーレット{END},Rhea Scarlet{END}
+ＬＶ{END},Level{END}
+ＨＰ{END},HP{7F}{END}
+ＴＰ{END},TP{END}
+ＥＸＰ{END},EXP{7F}{7F}{END}
+あといくつ{END},Next{7F}{END}
+ＮＰＣ{END},Non-Playable Character{END}
+ちから{END},Strength{END}
+たいかく{END},Constitution{END}
+びんしょう{END},Agility{END}
+こううん{END},Luck{END}
+こうげき{END},Attack  {END}
+きり{END},Slash{END}
+つき{END},Thrust{END}
+ぼうぎょ{END},Defense{END}
+めいちゅう{END},Accuracy{END}
+かいひ{END},Evasion{END}
+ぶき{END},Weapon{END}
+からだ{END},Body{END}
+たて{END},Shield{END}
+あたま{END},Head{END}
+うで{END},Hand{END}
+そのた１{END},Accessory{END}
+そのた２{END},Accessory{END}
+きり{END},Slash{END}
+つき{END},Thrust{END}
+めいちゅう{END},Accuracy{END}
+びんしょう{END},Agility{END}
+ぼうぎょ{END},Defense{END}
+かいひ{END},Evasion{END}
+こううん{END},Luck{END}
+ぞくせい{END},Element{END}
+こうげき{END},Attack  {END}
+ガルド　{END},Gald{END}
+プレイタイム　{END},Play Time{END}
+エンカウント　{END},Encounters{END}
+さいだいヒット　{END},Max Hits{END}
+そうび{END},Equip{END}
+はずす{END},Remove{END}
+さいてき{END},Optimum{END}
+きり　さいきょう{END},Slash Best{END}
+つき　さいきょう{END},Thrust Best{END}
+おまかせ{END},Balanced{END}
+きちょうひんをみる{END},Key Items{END}
+のこり{END},Stock{END}
+どのアイテムにつかいますか？{END},Use on which item?{END}
+のこり{END},Stock{END}
+もどす{END},Undo{END}
+いれかえ{END},Replace{END}
+ＮＯＷ　ＬＯＡＤＩＮＧ　ＧＲＡＰＨＩＣＳ{END},Loading character sprites...{END}
+しょうひＴＰ{END},TP{END}
+しゅうとくりつ{END},Mastery{END}
+マスター{END},Mastered{END}
+オート{END},Auto{END}
+セミオート{END},Semi-Auto{END}
+マニュアル{END},Manual{END}
+ＳＣ{END},SC{END}
+もとにもどす{END},Undo{END}
+デフォルト{END},Default{END}
+メッセージスピード{END},Message Speed{END}
+ウィンドウカラー{END},Window Color{END}
+リバーブ{END},Reverb{END}
+ボリュームせってい{END},Sound Volume{END}
+イベントＶＯＩＣＥ{END},Event Voices{END}
+せんとうＶＯＩＣＥ{END},Battle Voices{END}
+パーティーひょうじ{END},Menu Character Display{END}
+せんとうランク{END},Battle Rank{END}
+せんとうキー{END},Battle Controls{END}
+コンボひょうじ{END},Combo Counter{END}
+ターゲットかくにん{END},Target Check Pause{END}
+ジャンプまちじかん{END},Jump Sensitivity{END}
+メインウィンドウカラー{END},Main Window Color{END}
+てきデータウィンドウカラー{END},Enemy Window Color{END}
+せつめいウィンドウカラー{END},Information Window Color{END}
+Ｒ{END}, R{END}
+Ｇ{END}, G{END}
+Ｂ{END}, B{END}
+ＢＧＭボリューム{END},Music Volume{END}
+ＳＥボリューム{END},Sound Effect Volume{END}
+ＶＯＩＣＥボリューム{END},Voiceover Volume{END}
+ＯＮ{END},ON{END}
+ＯＦＦ{END},OFF{END}
+はやい{END},Fast{END}
+ふつう{END},Normal{END}
+おそい{END},Slow{END}
+モノラル{END},Mono{END}
+ステレオ{END},Stereo{END}
+キャラクター{END},Sprite{END}
+フェイス{END},Portrait{END}
+デフォルメ{END},S.D. Portrait{END}
+ノーマル{END},Normal{END}
+ハード{END},Hard{END}
+マニア{END},Mania{END}
+キャラかくれる{END},Opaque{END}
+はいけいすける{END},Translucent{END}
+けってい{END},Confirm{END}
+おまかせ{END},Random{END}
+デフォルト{END},Default{END}
+あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもや　ゆ　よらりるれろＡＢＣＤＥＵＶＷＸＹ{END},"ABCDEFGHIJKLMNOPQRSTUVWXYZ      abcdefghijklmnopqrstuvwxyz      [0][1][2][3][4][5][6][7][8][9].,-=+ {END}"
+がぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽわをん　ーぁぃぅぇぉゃゅょ　っ！？・，．ＦＧＨＩＪＺ　　　　{END},{END}
+アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤ　ユ　ヨラリルレロＫＬＭＮＯ０１２３４{END},{END}
+ガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポワヲン　ヴァィゥェォャュョ　ッ：＋＝＆／ＰＱＲＳＴ５６７８９{END},{END}
+トータル{END},Total{END}
+スロット１{END},Slot 1{END}
+スロット２{END},Slot 2{END}
+なし{END},None{END}
+エラー{END}, Error{END}
+あまりしゅつげんしない{END},Holy Bottle{END}
+ふつう{END},Normal{END}
+よくしゅつげんする{END},Dark Bottle{END}
+ひつようなしょくざい{END},Required Ingredients{END}
+および{END},Optional Ingredients{END}
+から　　しゅるい{END},Requisite:__of the above.{END}
+<color_0002>☆ <color_0000>：<color_0000>りょうりじゅくれんど{END},<color_0002>☆ <color_0000>:<color_0000> Recipe Mastery{END}
+しょうひしたしょくざい{END},Ingredients Used{END}
+しゅうしゅうりつ{END},Completion{END}
+？？？？？？？？{END},????????????{END}
+ＢＧＭ{END},Track{END}
+ＰＬＡＹ　ＴＹＰＥ{END},Play Mode{END}
+ＲＥＶＥＲＢ{END},Reverb{END}
+ＢＧＭ　ＶＯＬＵＭＥ{END},Music Volume{END}
+ＶＯＩＣＥ　ＶＯＬＵＭＥ{END},Voiceover Volume{END}
+ＳＥ　ＶＯＬＵＭＥ{END},Sound Effect Volume{END}
+ＰＡＮ{END},Panning{END}
+ＶＯＩＣＥ{END},Voiceover{END}
+ＳＥ{END},Sound Effect{END}
+ＳＯＮＧ{END},Song{END}
+ＣＨＡＴ{END},Skit{END}
+ＮＯＷ　ＬＯＡＤＩＮＧ{END},NOW LOADING{END}
+ＮＯＲＭＡＬ{END},Loop{END}
+ＣＯＮＴＩＮＵＥ{END},Continuous{END}
+ＲＡＮＤＯＭ{END},Shuffle{END}
+ＰＲＯＧＲＡＭ{END},Playlist{END}
+ＯＦＦ{END},OFF{END}
+ＯＮ{END},ON{END}
+ＳＴＥＲＥＯ{END},Stereo{END}
+ＭＯＮＯ{END},Mono{END}
+ＬＥＶＥＬ　ＭＥＴＥＲ{END},Level Meter{END}
+ＳＰＥＣＴＲＵＭ　ＡＮＡＬＹＺＥＲ{END},Spectrum Analyzer{END}
+ＬＥＶＥＬ{END},Level{END}
+あり{END},Have{END}
+なし{END},None{END}
+ＡＬＬ　ＳＥＴ{END},Add All{END}
+ＡＬＬ　ＣＬＥＡＲ{END},Remove All{END}
+ＢＧＭ　ＬＩＳＴ{END},Tracklist{END}
+ＰＲＯＧＲＡＭ{END},Playlist{END}
+ＳＥＴ{END},Add{END}
+ＤＥＬＥＴＥ{END},Remove{END}
+ＰＬＡＹ{END},Play{END}
+<color_0001>ＳＥＬＥＣＴボタン　<color_0000>ベースラインせんたく{END},<color_0001>Select Button:  <color_0000>Select Bassline{END}
+<color_0001>ＳＴＡＲＴボタン　　<color_0000>アイテムメニューにもどる{END},<color_0001>Start Button:  <color_0000>Return to Items Menu{END}
+ＣＰＵ：{END},CPU:{END}
+ＧＰＵ：{END},GPU:{END}
+ＳＣＥ：{END},SCE:{END}
+ＰＲＭ：{END},PRM:{END}
+ＤＥＢＵＧ{END},Debug{END}
+ＰＨＯＴＯ{END},Photo{END}
+ＥＲ{END},ER{END}
+ＥＣ{END},EC{END}
+ＳＴＫ：{END},STK:{END}
+ＥＮＣＯＵＮＴ{END},Encounters{END}
+Battle Subtitles{END},Battle Subtitles{END}
+Enhanced Holy Bottles{END},Enhanced Holy Bottles{END}

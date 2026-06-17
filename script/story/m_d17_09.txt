@@ -1,0 +1,139 @@
+Cave of Searing Sand{END}
+
+<Cless>:<nl>
+ Maybe this where the lava key
+ goes...{END}
+
+<Cless>:<nl>
+ It's locked...{END}
+
+<audio_0BA2><Cless>:<nl>
+ Is this...
+<pause>
+<audio_0BA3><Cless>:<nl>
+ ...Efreet?
+<pause>
+<audio_0BA4>Efreet:<nl>
+ What business do you have with
+ me!?
+<pause>
+<audio_0BA5><Klarth>:<nl>
+ Why else would a summoner come
+ to this sweltering hellhole?
+ I wish to form a pact with you.
+<pause>
+<audio_0BA6>Efreet:<nl>
+ Hmhm...
+<pause>
+<audio_0BA7>Efreet:<nl>
+ Such a determined look in your
+ eyes. I like it.
+<pause>
+<audio_0BA8>Efreet:<nl>
+ Very well...
+<pause>
+<audio_0BA9><Klarth>:<nl>
+ Are you saying--
+<pause>
+<audio_0BAA>Efreet:<nl>
+ IF you can withstand the intensity
+ of my flame, that is!{END}
+
+<audio_0BAB>Efreet:<nl>
+ Mugh...
+<pause>
+<audio_0BAC>Efreet:<nl>
+ My flame is hot enough to liquefy
+ stone, but you were able resist it...
+<pause>
+<audio_0BAD><Klarth>:<nl>
+ Yes, now let's seal the pact.
+<pause>
+<audio_0BAE>Efreet:<nl>
+ So be it...
+<pause>
+<audio_0BAF>Efreet:<nl>
+ Show me the Garnet Ring.{END}
+
+<audio_0BB0><Klarth>:<nl>
+ Here and now, I offer my request
+ to the Spirit of Fire.
+<pause>
+<audio_0BB1><Klarth>:<nl>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<audio_0BB2><Klarth>:<nl>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon Efreet.<color_0000>{END}
+
+<Cless>:<nl>
+ This...
+<pause>
+<Cless>:<nl>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_B800>.<color_0000>{END}
+
+<Cless>:<nl>
+ But I don't have any use for it...
+<pause>
+<Cless>:<nl>
+ I'll put it back...{END}
+
+<Cless>:<nl>
+ This...
+<pause>
+<Cless>:<nl>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_B900>.<color_0000>{END}
+
+<Cless>:<nl>
+ But I don't have any use for it...
+<pause>
+<Cless>:<nl>
+ I'll put it back...{END}
+
+<color_0002>Acquired <item_6601>.<color_0000>{END}
+
+<audio_153A><Cless>:<nl>
+ A ring, huh...?
+<pause>
+<audio_153B><Cless>:<nl>
+ I wonder what it's good for.
+<pause>
+<audio_153C><Klarth>:<nl>
+ Doesn't appear to be a pact ring, at
+ least. I'm not so sure it's anything
+ special.
+<pause>
+<audio_153D><Cless>:<nl>
+ It seems suspicious to me...{END}
+
+<audio_153E><Cless>:<nl>
+ Wh-Whoa!!!
+<pause>
+<audio_153F><Cless>:<nl>
+ A spark flew right out of it!
+<pause>
+<audio_1540><Klarth>:<nl>
+ Well, isn't that interesting.
+<pause>
+<audio_1541><Klarth>:<nl>
+ We might be able to use that to
+ manipulate objects out of our
+ reach.{END}
+
+<Cless>:<nl>
+ Gah!{END}
+
+<Cless>:<nl>
+ It won't open...{END}
+
+<Cless>:<nl>
+ This is a ninja arte scroll.<wait>{END}
+
+<color_0002><Suzu> learned <var_B300>.<color_0000>{END}
+

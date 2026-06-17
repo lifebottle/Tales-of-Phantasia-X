@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1162">
+        <source>So I guess it's up to us to find the Tria.</source>
+        <target state="translated">So I guess it's up to us to find the Tria.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1163">
+        <source>It's just a bunch of ancient artifacts, right?</source>
+        <target state="translated">It's just a bunch of ancient artifacts, right?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1164">
+        <source>As far as we know, it's
+the key to defeating Dhaos.</source>
+        <target state="translated">As far as we know, it's
+the key to defeating Dhaos.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1165">
+        <source>Yeah, but first they need to be fused into
+that magic sword capable of manipulating time.</source>
+        <target state="translated">Yeah, but first they need to be fused into
+that magic sword capable of manipulating time.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1166">
+        <source>The “Sword of Time''...</source>
+        <target state="translated">The “Sword of Time''...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

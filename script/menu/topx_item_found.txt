@@ -1,0 +1,23 @@
+<color_0002>Acquired <a/an><num3_C000601C>.{END}
+
+<color_0002>Found <a/an><num3_C000601C>,
+but you can't hold any more.{END}
+
+<color_0002>Obtained <num5_C000601C> gald.{END}
+
+<Cless>:<nl>
+It's empty.{END}
+
+<color_0002><num2_C000601C> has earned the title
+“<0Dvar0080100118600CC000C0>.”{END}
+
+　And he was never heard from again...{END}
+
+　And they were never heard from again...{END}
+
+<color_0002><A/An><num3_C000601C>
+popped out of the pouch.{END}
+
+<color_0002><A/An><num3_C000601C>
+popped out of the pouch, but you can't hold any more.{END}
+

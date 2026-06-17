@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_563">
+        <source>Uncle Olson is out... Where did he go?</source>
+        <target state="translated">Uncle Olson is out... Where did he go?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_564">
+        <source>Perhaps he's taken a long trip
+without leaving a house sitter behind?</source>
+        <target state="translated">Perhaps he's taken a long trip
+without leaving a house-sitter behind?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_565">
+        <source>Or maybe those guys went
+back and suddenly offed him...</source>
+        <target state="translated">Or maybe those guys went
+back and suddenly offed him...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_566">
+        <source>...because he “knew too much,” or something.</source>
+        <target state="translated">...because he “knew too much,” or something.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_567">
+        <source>I think you're reaching a little too far.</source>
+        <target state="translated">I think you're reaching a little too far.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_568">
+        <source>I believe my uncle's been
+dealing with his own hardships.</source>
+        <target state="translated">I believe my uncle's been
+dealing with his own hardships.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_569">
+        <source>You know, you're being too damn soft on him.</source>
+        <target state="translated">You know, you're being too damn soft on him.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_570">
+        <source>I made it out alive. That's
+all that matters right now.</source>
+        <target state="translated">I made it out alive. That's
+all that matters right now.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

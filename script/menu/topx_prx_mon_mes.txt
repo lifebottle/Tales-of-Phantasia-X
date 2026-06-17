@@ -1,0 +1,48 @@
+Monster Memo{END}
+
+Monster Sheet{END}
+
+Monster Pamphlet{END}
+
+Monster Notebook{END}
+
+Monster Album{END}
+
+Monster Catalog{END}
+
+Monster Index{END}
+
+Monsterpedia{END}
+
+Item Getter{END}
+
+Dropped Item(s){END}
+
+????????{END}
+
+Element Resistance{END}
+
+None{END}
+
+Stolen Item{END}
+
+Invalid{END}
+
+Weak{END}
+
+Resist{END}
+
+Absorb{END}
+
+Attack Element{END}
+
+Battle Rank{END}
+
+Normal{END}
+
+Hard{END}
+
+Mania{END}
+
+{END}
+

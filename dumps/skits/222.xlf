@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1139">
+        <source>Now we're best friends with Volt.</source>
+        <target state="translated">Now we're best friends with Volt.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1140">
+        <source>So now we can juice up those Rheaird thingies.</source>
+        <target state="translated">So now we can juice up those Rheaird thingies.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1141">
+        <source>Let's go back to Stanley.</source>
+        <target state="translated">Let's go back to Stanley.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1142">
+        <source>Yeah, our time is limited.</source>
+        <target state="translated">Yeah, our time is limited.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1143">
+        <source>Let's not waste it.</source>
+        <target state="translated">Let's not waste it.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

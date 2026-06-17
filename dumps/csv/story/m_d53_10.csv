@@ -1,0 +1,332 @@
+"<unk1><Mint>
+<Cless>さん！」
+<pause>
+<Mint>
+よかった・・・無事だったんですね」<wait>{END}","<unk1><Mint>:<nl>
+ Oh, <Cless>!
+<pause>
+<Mint>:<nl>
+ I was so worried.
+ Thank goodness you're safe.<wait>{END}"
+"<Cless>
+「ああ、僕なら大丈夫さ」
+<pause>
+<Cless>
+「さあ、行こう」{END}","<Cless>:<nl>
+ Yeah, not a scratch.
+<pause>
+<Cless>:<nl>
+ Now let's get going.{END}"
+"<Arche>
+「もう、一時はどうなるかと思っ
+　ちゃったよ<panic>」{END}","<Arche>:<nl>
+ Man, I thought I was gonna rot in
+ here! <panic>{END}"
+"<Chester>
+「<Cless>、無事だったか」{END}","<Chester>:<nl>
+ <Cless>!
+ Man, am I glad to see
+ your face again.{END}"
+"<unk1><Klarth>
+<Cless>、どうやらあの魔法陣は特殊なアイテムが無いと通れないらしいな」{END}","<unk1><Klarth>:<nl>
+ I think I've got it: The magic circle
+ we just fell victim to is a another
+ line of defense to keep intruders
+ out.
+<pause>
+<Klarth>:<nl>
+ Dhaos' minions must be carrying
+ articles to prevent triggering it.{END}"
+"<Suzu>
+「ご無事でしたか？」{END}","<Suzu>:<nl>
+ Are you all right?{END}"
+"ロンドリーネ
+「いやはぁびっくりした・・・
+　無事だった？
+　・・・なんだったのかな？」{END}","Rondoline:<nl>
+Hoo... That scared me... Are you okay? I wonder what that was?{END}"
+"<audio_12C7>見張り
+「調査隊から話は聞いています」
+<pause>
+<audio_12C8>見張り
+「どうぞお通り下さい」{END}","<audio_12C7>Sentry:<nl>
+ I've been informed by the survey
+ team about you.
+<pause>
+<audio_12C8>Sentry:<nl>
+ Please go on through.{END}"
+"<Cless>
+「これは、呪文書だ！」<wait>{END}","<Cless>:<nl>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_CD00>を覚えました。<color_0000>{END},<color_0002><Arche> learned <var_CD00>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな、戻しておこう」{END}","<Cless>:<nl>
+ But I don't have any use for it.
+ I'll put it back.{END}"
+<color_0002><num3_C000510A>で扉をこじ開けました。<color_0000>{END},"<color_0002>Forced the door open with the
+<num3_C000510A>.<color_0000>{END}"
+"<Cless>
+「素手じゃ無理か・・・」{END}","<Cless>:<nl>
+ Can't bend the bars with my bare
+ hands...{END}"
+"<color_0002>レバーがあります。
+<pause>
+倒しますか？<color_0000>{END}",<color_0002>Pull the lever?<color_0000>{END}
+"<Cless>
+「固く閉ざされている」{END}","<Cless>:<nl>
+ It's closed tight...{END}"
+"<Cless>
+「よし、先に進むぞ！」{END}","<Cless>:<nl>
+ All right, let's move ahead!{END}"
+"<Cless>
+「仲間が足りないぞ」
+<pause>
+<Cless>
+「助けなきゃ」{END}","<Cless>:<nl>
+ Not yet...
+<pause>
+<Cless>:<nl>
+ I have to find my friends first!{END}"
+"<color_0002>レバーがあります。
+<pause>
+倒しますか？<color_0000>{END}",<color_0002>Pull the lever?<color_0000>{END}
+"『この階に隠し通路あり』
+『この部屋に隠し宝箱あり』{END}","“There lies a hidden passage on
+this floor. In that room there's
+a hidden treasure chest.”{END}"
+"<audio_12C9><Cless>
+「ここらしいですね」
+<pause>
+<audio_12CA><Cless>
+「でも城なんてどこにも・・・」
+<pause>
+<audio_12CB><Klarth>
+「ああ・・・」
+<pause>
+<audio_12CC><Klarth>
+「だがルーングロムさんの話から
+　察するに・・・」
+<pause>
+<audio_12CD><Klarth>
+「やはり、時の狭間に城を隠して
+　この世界からは見えないように
+　していると思う」
+<pause>
+<audio_12CE><Klarth>
+「そして、奴の操る魔物が出入り
+　する時のみ、姿を現す・・・」
+<pause>
+<audio_12CF><Mint>
+「とすると、時間の剣を使って？」
+<pause>
+<audio_12D0><Klarth>
+「そう！」
+<pause>
+<audio_12D1><Klarth>
+「時を操る剣だから、ダオスの城
+　を見えるようにできる、という
+　わけだ」
+<pause>
+<audio_12D2><Cless>
+「よし、やってみよう！」{END}","<audio_12C9><Cless>:<nl>
+ This looks like the place.
+<pause>
+<audio_12CA><Cless>:<nl>
+ But I don't see a castle anywhere...
+<pause>
+<audio_12CB><Klarth>:<nl>
+ Neither do I...
+<pause>
+<audio_12CC><Klarth>:<nl>
+ But based on that story Lundgrom
+ told, we shouldn't be too surprised.
+<pause>
+<audio_12CD><Klarth>:<nl>
+ He must be hiding his castle within
+ a temporal rift to keep outsiders
+ from seeing it.
+<pause>
+<audio_12CE><Klarth>:<nl>
+ It probably only reveals itself when
+ the monsters he controls need to
+ come and go...
+<pause>
+<audio_12CF><Mint>:<nl>
+ Would the Blade of Time be of
+ some help?
+<pause>
+<audio_12D0><Klarth>:<nl>
+ Oh, indeed!
+<pause>
+<audio_12D1><Klarth>:<nl>
+ Since it controls time itself, it
+ should be able to stabilize the rift,
+ making Dhaos' castle visible.
+<pause>
+<audio_12D2><Cless>:<nl>
+ Okay, here goes!{END}"
+"<audio_12D3><Cless>
+「時間の剣よ！」
+<pause>
+<audio_12D4><Cless>
+「ダオスの城を時の狭間から引き
+　出してくれ！！」{END}","<audio_12D3><Cless>:<nl>
+ Blade of Time!
+<pause>
+<audio_12D4><Cless>:<nl>
+ Pull Dhaos' castle out from the
+ temporal rift!!{END}"
+"<audio_12D5><Klarth>
+「よし、推測通りだ！」
+<pause>
+<audio_12D6><Klarth>
+「こんなにうまくいくとは思わな
+　かったな」
+<pause>
+<audio_12D7><Cless>
+「ところで、どうやってあそこま
+　で行くんですか？」
+<pause>
+<audio_12D8><Klarth>
+「あっ・・・<sweat>」{END}","<audio_12D5><Klarth>:<nl>
+ Hahah, well! How about that!?
+ I was right!
+<pause>
+<audio_12D6><Klarth>:<nl>
+ Not bad for a mere guess, eh!?
+<pause>
+<audio_12D7><Cless>:<nl>
+ Sooo...<nl>
+ How do you suppose we reach the
+ castle from here?
+<pause>
+<audio_12D8><Klarth>:<nl>
+ Uh...<sweat>{END}"
+"<audio_12D9><Klarth>
+「風が強すぎて、レアバードじゃ
+　無理だな・・・」
+<pause>
+<audio_12DA><Cless>
+「あれ！？」
+<pause>
+<audio_12DB><Cless>
+「時間の剣が白く輝いて・・・」{END}","<audio_12D9><Klarth>:<nl>
+ ...Good question.
+ Storm-force winds like these
+ will just blow the Rheairds
+ away, which means--
+<pause>
+<audio_12DA><Cless>:<nl>
+ H-Hey!
+<pause>
+<audio_12DB><Cless>:<nl>
+ The Blade of Time is glowing...{END}"
+"忍者
+「はっはっはっは！」
+<pause>
+忍者
+「俺達を倒さないと、先に進めな
+　いぞ！！」{END}","Ninja:<nl>
+ Hah hah hah hah!
+<pause>
+Ninja:<nl>
+ We's gonna kill you DEAD, sucka!!{END}"
+"忍者
+「ふっふっふっふ！」
+<pause>
+忍者
+「我らを倒さぬ限り、先には進め
+　ぬぞ！！」{END}","Ninja:<nl>
+ Hm hm hm hm!
+<pause>
+Ninja:<nl>
+ This is where WE fight!
+ This is where YOU die!!{END}"
+"忍者
+「ほっほっほっほ！」
+<pause>
+忍者
+「私達を倒さないと、先には進め
+　ませんわよ！！」{END}","Ninja:<nl>
+ Hoh hoh hoh hoh!
+<pause>
+Ninja:<nl>
+ Without the proper use of force
+ applied to our persons, the
+ intruders, i.e. you (plural), will be
+ incapable of progressing!!{END}"
+"忍者
+「ひっひっひっひ！」
+<pause>
+忍者
+「俺達を倒さねぇと、先には進め
+　ねぇぞ！！」{END}","Ninja:<nl>
+ Hee hee hee hee!
+<pause>
+Ninja:<nl>
+ So, uh, yeah, you guys, like, can't
+ come any further until you,
+ uhhhh...right, until you, like, beat
+ us...I think.{END}"
+"<audio_12DE>ＤＡＲＫＥＹＥ？
+「ギヒヒヒヒヒ・・・」
+<pause>
+<audio_12DF>ＤＡＲＫＥＹＥ？
+「お前達も洗脳してやろう！」
+<pause>
+<audio_12E0>ＤＡＲＫＥＹＥ？
+「そして、あのお方・・・ダオス
+　様に仕えるのだ！！」
+<pause>
+<audio_12E1>ＤＡＲＫＥＹＥ？
+「何より、私の手柄になるのだ！
+　ギヒヒヒヒヒ・・・」{END}","<audio_12DE>Darkeye?:<nl>
+ Ghihehehehe...
+<pause>
+<audio_12DF>Darkeye?:<nl>
+ Let's brainwash all of you, too!
+<pause>
+<audio_12E0>Darkeye?:<nl>
+ Then you will serve our lord:
+ Dhaos!!!
+<pause>
+<audio_12E1>Darkeye?:<nl>
+ Which means more glory for ME!
+ Ghihehehehe...{END}"
+"<audio_12E2>ＳＥＡＬＥＹＥ？
+「来たか、下等な生物達よ・・・」{END}","<audio_12E2>Sealeye?:<nl>
+ Ssso you have come, lowly
+ knavesss!{END}"
+"<audio_12E3>ＳＥＡＬＥＹＥ？
+「お前達には・・・」
+<pause>
+<audio_12E4>ＳＥＡＬＥＹＥ？
+「この世で最も美しい光景」
+<pause>
+<audio_12E5>ＳＥＡＬＥＹＥ？
+「血みどろの死を与えよう・・・」{END}","<audio_12E3>Sealeye?:<nl>
+ Ffforrr you fffoolsss...
+<pause>
+<audio_12E4>Sealeye?:<nl>
+ Thhherrre will be the grrreatessst
+of sssightsss.
+<pause>
+<audio_12E5>Sealeye?:<nl>
+ A deathhh overrrffflowing in
+ crrrimssson...{END}"
+"<Cless>
+「よかった、無事だったか」{END}","<Cless>:<nl>
+ Thank goodness you're safe.{END}"
+"見張り
+「すまぬが、ここから先はまだ調
+　査中なのだ」
+<pause>
+見張り
+「早々に立ち去られよ」{END}","Sentry:<nl>
+ This area is currently undergoing a
+ survey.
+<pause>
+Sentry:<nl>
+ We cannot allow anyone entry until
+ the team conducting it has finished.{END}"

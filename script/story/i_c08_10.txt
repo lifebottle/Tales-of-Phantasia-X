@@ -1,0 +1,754 @@
+Town of Freezekiel{END}
+
+Supermarket “Freezer”{END}
+
+Armor Shop “Iced Coffee”{END}
+
+Inn “Snow Bunny”{END}
+
+Fenrir Church{END}
+
+<color_0002>Look at the stained glass?<color_0000>{END}
+
+<audio_16E5><Cless>:<nl>
+ Is this the Fenrir Church?
+<pause>
+<audio_16E6><Klarth>:<nl>
+ Huh. The door is sealed shut.
+<pause>
+<audio_16E7><Klarth>:<nl>
+ How to get it open...{END}
+
+<audio_16E8>“You who defile this sacred place...<nl>
+If you have any respect for your
+lives, and do not wish to die cold,
+alone, and afraid, you will remove
+yourselves at once!”<wait>{END}
+
+<audio_16E9>“But if your will to live is feeble,
+then by all means enter!”<wait>{END}
+
+<audio_16EA><Cless>:<nl>
+ Wh-What was that?
+<pause>
+<audio_16EB><Klarth>:<nl>
+ I assume it had some relation to
+ the door, since the seal's been
+ lifted...
+<pause>
+<audio_16EC><Klarth>:<nl>
+ Let's get this thing open, shall we?
+<pause>
+<audio_16ED><Arche>:<nl>
+ Leave it to me!{END}
+
+<audio_16EE><Arche>:<nl>
+ Yaargh...{END}
+
+<audio_16EF><Cless>:<nl>
+ Hey, uh...<nl>
+ You broke it.{END}
+
+<audio_16F0><Arche>:<nl>
+ Yeah well, whatever...<wait>{END}
+
+<audio_16F1><Arche>:<nl>
+ Whatever!
+ It's just some crusty old church!
+<pause>
+<audio_16F2><Arche>:<nl>
+ Let's just find the sword and get
+ out of here. It's so cold!{END}
+
+<audio_16F3><Cless>:<nl>
+ It's shut tight.{END}
+
+<audio_16F4><Cless>:<nl>
+ Whoooah, this stained glass is a
+ real piece of work!{END}
+
+<audio_16F5>???:<nl>
+ Hmhmhm...<nl>
+ So...
+<pause>
+<audio_16F6>???:<nl>
+ You reckless fools had the audacity
+ to enter...{END}
+
+<audio_16F7><Cless>:<nl>
+ Who are you!?
+<pause>
+<audio_16F8>???:<nl>
+ I am the guardian of the Blade of
+ Frost.
+<pause>
+<audio_16F9>???:<nl>
+ Only death awaits those who
+ intrude upon the sacred land of
+ biting cold...
+<pause>
+<audio_16FA><Cless>:<nl>
+ We can't back down! We're on an
+ important mission!
+<pause>
+<audio_16FB><Cless>:<nl>
+ A mission more important than our
+ own lives!
+<pause>
+<audio_16FC>???:<nl>
+ If you fools are truly so careless
+ of your own souls...
+<pause>
+<audio_16FD>???:<nl>
+ ...then come! Approach the altar!{END}
+
+<audio_16FE><Klarth>:<nl>
+ Looks like we enter from here.
+<pause>
+<audio_16FF><Cless>:<nl>
+ Okay, forward!{END}
+
+Innkeeper:<nl>
+ It's a chilly one out there, wouldn't
+ you say?
+<pause>
+Innkeeper:<nl>
+ Our warm and cozy rooms are
+ just <num1_0000006E> gald a night.
+ Will you be staying with us?{END}
+
+Innkeeper:<nl>
+ I'm sorry, sir, but this is not
+ enough money.{END}
+
+Innkeeper:<nl>
+ Sleep tight!{END}
+
+Innkeeper:<nl>
+ We look forward to your next visit.{END}
+
+Clerk:<nl>
+ Come on in!
+ How can Iced Coffee serve you
+ today?{END}
+
+Clerk:<nl>
+ Thanks.
+ Please come again.{END}
+
+Clerk:<nl>
+ Welcome to Freezer, food
+ department. What can we get for
+ you?{END}
+
+Clerk:<nl>
+ Thank you very much!
+<pause>
+Clerk:<nl>
+ How about some 'taters with that?{END}
+
+Clerk:<nl>
+ Welcome to Freezer, accessory
+ department.{END}
+
+Clerk:<nl>
+ Thank you, come again!{END}
+
+Pharmacist:<nl>
+ I got a mess o' medicine over here.
+<pause>
+Pharmacist:<nl>
+ Lookin' fer anythin' in particular?{END}
+
+Pharmacist:<nl>
+ Come back now, 'ya hear?{END}
+
+Boy:<nl>
+ Woohoo! Snooow!{END}
+
+Girl:<nl>
+ This is the town of Freezekiel.
+<pause>
+Girl:<nl>
+ Did you know that it's a winter
+ wonderland for well over half the
+ year?{END}
+
+Boy:<nl>
+ I'm gonna build the biggest and
+ bestest snowman ever!{END}
+
+Citizen:<nl>
+ Whoa, you guys figured out how to
+ get into the church!?
+<pause>
+<Arche>:<nl>
+ Tee-hee, it's more like the door
+ went all BOOM and fell apart.
+<pause>
+Citizen:<nl>
+ Oh, just like that, eh...?
+<pause>
+Citizen:<nl>
+ So tell me: There was stained
+ glass in there, right?
+ How was it? Pretty?
+<pause>
+Citizen:<nl>
+ Well, maybe I should just go take a
+ little peek for myself now that the
+ place's open.{END}
+
+Citizen:<nl>
+ Welcome to the Fenrir Church.
+<pause>
+Citizen:<nl>
+ Place is kind of eerie, isn't it?
+<pause>
+Citizen:<nl>
+ The door's sealed with some weird
+ ice that no one can melt, so
+ nobody's ever seen the inside.{END}
+
+Citizen:<nl>
+ They say this church was built way
+ back in the Age of Antiquity.
+<pause>
+Citizen:<nl>
+ If you think about it for a second,
+ it's not all that surprising.
+<pause>
+Citizen:<nl>
+ After all, Fenrir is the name of one
+ of the three great nations of the
+ era.{END}
+
+Citizen:<nl>
+ This continent is neutral territory.
+<pause>
+Citizen:<nl>
+ We don't answer to any other
+ country in the world.
+<pause>
+Citizen:<nl>
+ Well, I guess that's probably
+ because a continent covered in ice
+ isn't exactly prime real estate.
+<pause>
+Citizen:<nl>
+ I imagine it would also be hard to
+ wage a land war here.{END}
+
+Swordsman:<nl>
+ A land as harsh and unforgiving as
+ this is the perfect place to train
+ one's body...{END}
+
+Swordsman:<nl>
+ Hey, fellow swordsman, huh?
+<pause>
+Swordsman:<nl>
+ Right, so I bought this arcane arte
+ book from some other guy.
+<pause>
+<Cless>:<nl>
+ Oh? Did you say arcane arte book!?
+<pause>
+Swordsman:<nl>
+ Yeah. I read it, but it left me more
+ confused afterward...
+<pause>
+Swordsman:<nl>
+ I suppose that's what I get for
+ trying a book that came from
+ some fencing school I've never
+ heard of.
+<pause>
+Swordsman:<nl>
+ You interested in it?
+ 33000 gald ought to do.
+<pause>
+<color_0002>Buy it for 33000 gald?<color_0000>{END}
+
+Swordsman:<nl>
+ I see...{END}
+
+Swordsman:<nl>
+ Aw, c'mon man, this isn't 33k!{END}
+
+<color_0002><Cless> learned
+<var_9A00>.<color_0000>
+<pause>
+Swordsman:<nl>
+ Thank you!{END}
+
+Man:<nl>
+ The magic power of ice cannot
+ manifest itself in a warm place.
+<pause>
+Man:<nl>
+ The opposite goes for flame, which
+ cannot manifest itself in a cold
+ place.
+<pause>
+Man:<nl>
+ So basically, if you're searching for
+ a particular piece of elemental
+ equipment, you must seek out the
+ appropriate environment.
+<pause>
+Man:<nl>
+ You got that?{END}
+
+Man:<nl>
+ Heat melts ice--that's just
+ common sense.
+<pause>
+Man:<nl>
+ But even the white-hot flames of
+ my love can't melt her heart!
+<pause>
+Man:<nl>
+ I can't take this anymore!!{END}
+
+Old Man:<nl>
+ The three great ancient
+ civilizations--Fenrir, Thor, and
+ Odin--were named after the god
+ their rulers each worshipped.{END}
+
+Girl:<nl>
+ They say that Fenrir was also
+ known as the “Wolf Lord.”
+<pause>
+Girl:<nl>
+ And they also say that his ghost
+ still haunts our town!
+<pause>
+Girl:<nl>
+ You can hear him howling from the
+ church during the nights of a snow
+ storm--
+<pause>
+Girl:<nl>
+ EEEEK!!! It's so scary!!{END}
+
+Woman:<nl>
+ There's a country of everlasting
+ summer, you say?
+<pause>
+Woman:<nl>
+ Oh, how I'd love to move there and
+ work on a nice tan...{END}
+
+Child:<nl>
+ Snooowman! Snowmaaan!{END}
+
+Woman:<nl>
+ Yet another chilly, depressing day...
+<pause>
+<Cless>:<nl>
+ (I wonder if she's a descendant of
+ Elwyn and Nancy.)
+<pause>
+Woman:<nl>
+ Is there something on my face?
+<pause>
+<Cless>:<nl>
+ Uh, no...<nl>
+ Sorry, I mistook you for someone
+ else...{END}
+
+Stephen:<nl>
+ Hahahah, not bad!{END}
+
+<Cless>:<nl>
+ Elwyn!?
+<pause>
+???:<nl>
+ Huh?
+<pause>
+???:<nl>
+ Elwyn...?
+<pause>
+???:<nl>
+ You must be mistaken.
+ My name's Stephen.
+<pause>
+Stephen:<nl>
+ Wait, Elwyn sounds familiar...
+<pause>
+Stephen:<nl>
+ Yeah, that's right!
+ A grandfather from generations
+ back had that name!
+<pause>
+Stephen:<nl>
+ There's a family story about how
+ he eloped with his wife here and
+ built a home, or something.
+<pause>
+<Cless>:<nl>
+ Oh, um... Is that so?
+ Sorry, but we have to get going...{END}
+
+???:<nl>
+ Oh, hey!
+ I've been looking for adventurers!
+<pause>
+???:<nl>
+ I have a favor to ask.
+ Would you hear it?{END}
+
+???:<nl>
+ I see... That's too bad.
+<pause>
+???:<nl>
+ It's nothing detestable, honest.{END}
+
+???:<nl>
+ Great!
+<pause>
+???:<nl>
+ Then let me introduce myself.
+<pause>
+???:<nl>
+ I'm Graham--Graham Aifread.
+<pause>
+Graham:<nl>
+ Does my family name ring a bell?
+<pause>
+Graham:<nl>
+ What I'm trying to say is, I'm the
+ son of the infamous pirate captain,
+ Aifread.
+<pause>
+Graham:<nl>
+ Though I'm afraid I have no tale as
+ glorious as my father's...
+<pause>
+Graham:<nl>
+ I put his ship on the market and
+ am currently living off the
+ proceeds.
+<pause>
+<Cless>:<nl>
+ So, ah... What about this favor of
+ yours?
+<pause>
+<Cless>:<nl>
+ Do you need adventurers to search
+ for your father's treasure?
+<pause>
+Graham:<nl>
+ Um, yes, actually.
+ That's correct.
+<pause>
+Graham:<nl>
+ But please don't misunderstand.
+<pause>
+Graham:<nl>
+ What I'm seeking is not for its
+ monetary value, if it even has any.
+<pause>
+Graham:<nl>
+ Here, have a look at this old scroll.
+<pause>
+Graham:<nl>
+ I inherited it from my father.
+<pause>
+<Cless>:<nl>
+ Huh? This is weird...
+<pause>
+Graham:<nl>
+ It's a coded message that conceals
+ the location of my father's secret
+ hideaway.
+<pause>
+<Cless>:<nl>
+ So, it's like a riddle?
+ I should read it more carefully...
+<pause>
+“In the center of the world, with
+Odin in your gaze, and Fenrir to
+where your left hand points, lies
+true treasure.”
+<pause>
+Graham:<nl>
+ Feel free to take any booty or cash
+ you come across.
+<pause>
+Graham:<nl>
+ In exchange, I only ask for this
+ “true treasure” that the scroll
+ mentions.
+<pause>
+<Cless>:<nl>
+ It's a deal.
+ We'll try not to let you down!<wait>{END}
+
+<color_0002>Acquired the Ancient Scroll.<color_0000>{END}
+
+<Cless>:<nl>
+ Graham, does this dress look
+ familiar?
+<pause>
+Graham:<nl>
+ My...my mother used to wear that...
+<pause>
+<Cless>:<nl>
+ In those piles of loot we found,
+ it stuck out like a sore thumb.
+ We believe it's the “true treasure.”
+<pause>
+Graham:<nl>
+ My father's greatest treasure is
+ just an old, tattered dress that
+ belonged to my mother?
+<pause>
+Graham:<nl>
+ Wow... I just can't believe it...
+<pause>
+Graham:<nl>
+ Out of the countless number of
+ treasures he had acquired...
+<pause>
+<Klarth>:<nl>
+ It's simple.
+ Think not of the item, but of what
+ it represents: his wife.
+<pause>
+Graham:<nl>
+ She was a treasure that money
+ cannot buy...
+<pause>
+Graham:<nl>
+ Thank you...
+<pause>
+Graham:<nl>
+ I really mean it...
+<pause>
+Graham:<nl>
+ Please accept this as a token of my
+ gratitude.<wait>{END}
+
+<color_0002>Acquired a <item_6F01>.<wait><color_0000>{END}
+
+<color_0002><Klarth> has earned the title
+“<var_BB01>.”<wait><color_0000>{END}
+
+“In the center of the world, with
+Odin in your gaze, and Fenrir to
+where your left hand points, lies
+true treasure.”
+<pause>
+Graham:<nl>
+ That is the coded message written
+ on the scroll.
+<pause>
+Graham:<nl>
+ Oh, by the way: Would you like to
+ hear about my father's other
+ secret hideouts?{END}
+
+Graham:<nl>
+ All that matters to me is the
+ “true treasure.”
+ Find it and bring it here!
+<pause>
+Graham:<nl>
+ I'm counting on you guys.{END}
+
+Graham:<nl>
+ I don't know if you could say my
+ father's exploits were always the
+ most honorable, but...
+<pause>
+Graham:<nl>
+ I'm still proud of him.
+<pause>
+Graham:<nl>
+ Do you want to hear about the rest
+ of his hideouts?{END}
+
+Graham:<nl>
+ Two of them are in northern Euclid,
+ and one other on the neighboring
+ Lone Island.
+<pause>
+Graham:<nl>
+ You'll find four more in southern
+ Euclid. Two on the mainland, and
+ two on islands.
+<pause>
+Graham:<nl>
+ Another three can be found on the
+ two icy continents of this world.
+ Two on Early, and one on Fenrir.
+<pause>
+Graham:<nl>
+ Five are in the western half of the
+ Midgard supercontinent. Three of
+ those in the Ymir region and the
+ other two east of Alvanista.
+<pause>
+Graham:<nl>
+ Another five are found in the
+ eastern half the Midgard
+ supercontinent; Midgard's former
+ jurisdiction area.
+<pause>
+Graham:<nl>
+ From Midgard's ruins, one of these
+ is west, one is north, two are
+ northeast, and one is far east.
+<pause>
+Graham:<nl>
+ The last two are located on the
+ continent of Freyland, with one
+ each on the western and eastern
+ halves of it.
+<pause>
+Graham:<nl>
+ That's 22 hideouts in all.<wait>{END}
+
+Swordsman:<nl>
+ None of the weapons in this
+ backwater region are up to my
+ rigid standards.
+<pause>
+Swordsman:<nl>
+ There's no sign of that
+ “Blade of Frost” I heard about,
+ either!{END}
+
+Shady Collector:<nl>
+ Heheheh... Thanks fer all the biz...stranger.{END}
+
+Collector:<nl>
+ Heheheh, hello...stranger.
+<pause>
+Collector:<nl>
+ Got somethin' nice for yas...
+<pause>
+Collector:<nl>
+ These <item_8801>s here, yers for
+ only 50000 gald apiece!
+<pause>
+<color_0002>Buy it for 50000 gald?<color_0000>{END}
+
+Shady Collector:<nl>
+ 'ey, these weren't easy to find, if
+ ya know what I mean...
+<pause>
+Shady Collector:<nl>
+ I gots'ta get me share...stranger.{END}
+
+Collector:<nl>
+ Not enough cash...stranger.{END}
+
+<color_0002>Acquired a <item_8801>.<color_0000>
+<pause>
+Collector:<nl>
+ Heh heh heh!{END}
+
+<unk1>Boy:<nl>
+ Yeah! Mr. Gilgamesh is here!{END}
+
+Boy:<nl>
+ Have you heard of the legend
+ where the demon Druaga was
+ thrashed by the hero, Gilgamesh?
+<pause>
+Boy:<nl>
+ It's the Legend of Ishtar
+ and it's really rad!
+ I'm the biggest fanboy there is!<wait>{END}
+
+Boy:<nl>
+ Dude! Dude! Dude!
+ You've got them all!
+ All the legendary items!
+<pause>
+Boy:<nl>
+ You're now worthy of the name
+ Gilgamesh, the name of the
+ greatest hero that ever lived!<wait>{END}
+
+<color_0002><Cless> has earned the title
+“<var_8F01>.”<wait><color_0000>{END}
+
+Boy:<nl>
+ I want you to have my most
+ cherished collectible!
+<pause>
+Boy:<nl>
+ You're not likely to find another
+ one anywhere else!<wait>{END}
+
+<color_0002>Acquired a <item_8D01>.<color_0000>{END}
+
+Boy:<nl>
+ Do you believe in it too, mister?{END}
+
+Chef:<nl>
+ Nothing beats a nice hot bowl of
+ Beef Stew on a cold day!{END}
+
+Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef:<nl>
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Beef Stew.<color_0000>{END}
+
+Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}
+
+Ghost:<nl>
+ To counteract the magical power
+ of ice, you must use flame.
+ The same principle also applies to
+ the reverse.
+<pause>
+Ghost:<nl>
+ There may come a day when this
+ knowledge will save your life.<wait>{END}
+
+Ghost:<nl>
+ Be careful...{END}
+
+Ghost:<nl>
+ Money makes the world go 'round
+ in hell, as well.{END}
+
+Ghost:<nl>
+ From here lies the path to death...
+<pause>
+Ghost:<nl>
+ Would you like to buy a lifeline for
+ 100000 gald?{END}
+
+<color_0002>Acquired <a/an><num3_C0005106>.
+<pause>
+<color_0000>Ghost:<nl>
+ The path ahead will not be an easy
+ one for those trapped in physical
+ bodies.{END}
+
+Ghost:<nl>
+ If you have that much faith in your
+ own power, you will triumph
+ without one.{END}
+

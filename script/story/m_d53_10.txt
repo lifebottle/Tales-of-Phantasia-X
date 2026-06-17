@@ -1,0 +1,224 @@
+<unk1><Mint>:<nl>
+ Oh, <Cless>!
+<pause>
+<Mint>:<nl>
+ I was so worried.
+ Thank goodness you're safe.<wait>{END}
+
+<Cless>:<nl>
+ Yeah, not a scratch.
+<pause>
+<Cless>:<nl>
+ Now let's get going.{END}
+
+<Arche>:<nl>
+ Man, I thought I was gonna rot in
+ here! <panic>{END}
+
+<Chester>:<nl>
+ <Cless>!
+ Man, am I glad to see
+ your face again.{END}
+
+<unk1><Klarth>:<nl>
+ I think I've got it: The magic circle
+ we just fell victim to is a another
+ line of defense to keep intruders
+ out.
+<pause>
+<Klarth>:<nl>
+ Dhaos' minions must be carrying
+ articles to prevent triggering it.{END}
+
+<Suzu>:<nl>
+ Are you all right?{END}
+
+Rondoline:<nl>
+Hoo... That scared me... Are you okay? I wonder what that was?{END}
+
+<audio_12C7>Sentry:<nl>
+ I've been informed by the survey
+ team about you.
+<pause>
+<audio_12C8>Sentry:<nl>
+ Please go on through.{END}
+
+<Cless>:<nl>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_CD00>.<color_0000>{END}
+
+<Cless>:<nl>
+ But I don't have any use for it.
+ I'll put it back.{END}
+
+<color_0002>Forced the door open with the
+<num3_C000510A>.<color_0000>{END}
+
+<Cless>:<nl>
+ Can't bend the bars with my bare
+ hands...{END}
+
+<color_0002>Pull the lever?<color_0000>{END}
+
+<Cless>:<nl>
+ It's closed tight...{END}
+
+<Cless>:<nl>
+ All right, let's move ahead!{END}
+
+<Cless>:<nl>
+ Not yet...
+<pause>
+<Cless>:<nl>
+ I have to find my friends first!{END}
+
+<color_0002>Pull the lever?<color_0000>{END}
+
+“There lies a hidden passage on
+this floor. In that room there's
+a hidden treasure chest.”{END}
+
+<audio_12C9><Cless>:<nl>
+ This looks like the place.
+<pause>
+<audio_12CA><Cless>:<nl>
+ But I don't see a castle anywhere...
+<pause>
+<audio_12CB><Klarth>:<nl>
+ Neither do I...
+<pause>
+<audio_12CC><Klarth>:<nl>
+ But based on that story Lundgrom
+ told, we shouldn't be too surprised.
+<pause>
+<audio_12CD><Klarth>:<nl>
+ He must be hiding his castle within
+ a temporal rift to keep outsiders
+ from seeing it.
+<pause>
+<audio_12CE><Klarth>:<nl>
+ It probably only reveals itself when
+ the monsters he controls need to
+ come and go...
+<pause>
+<audio_12CF><Mint>:<nl>
+ Would the Blade of Time be of
+ some help?
+<pause>
+<audio_12D0><Klarth>:<nl>
+ Oh, indeed!
+<pause>
+<audio_12D1><Klarth>:<nl>
+ Since it controls time itself, it
+ should be able to stabilize the rift,
+ making Dhaos' castle visible.
+<pause>
+<audio_12D2><Cless>:<nl>
+ Okay, here goes!{END}
+
+<audio_12D3><Cless>:<nl>
+ Blade of Time!
+<pause>
+<audio_12D4><Cless>:<nl>
+ Pull Dhaos' castle out from the
+ temporal rift!!{END}
+
+<audio_12D5><Klarth>:<nl>
+ Hahah, well! How about that!?
+ I was right!
+<pause>
+<audio_12D6><Klarth>:<nl>
+ Not bad for a mere guess, eh!?
+<pause>
+<audio_12D7><Cless>:<nl>
+ Sooo...<nl>
+ How do you suppose we reach the
+ castle from here?
+<pause>
+<audio_12D8><Klarth>:<nl>
+ Uh...<sweat>{END}
+
+<audio_12D9><Klarth>:<nl>
+ ...Good question.
+ Storm-force winds like these
+ will just blow the Rheairds
+ away, which means--
+<pause>
+<audio_12DA><Cless>:<nl>
+ H-Hey!
+<pause>
+<audio_12DB><Cless>:<nl>
+ The Blade of Time is glowing...{END}
+
+Ninja:<nl>
+ Hah hah hah hah!
+<pause>
+Ninja:<nl>
+ We's gonna kill you DEAD, sucka!!{END}
+
+Ninja:<nl>
+ Hm hm hm hm!
+<pause>
+Ninja:<nl>
+ This is where WE fight!
+ This is where YOU die!!{END}
+
+Ninja:<nl>
+ Hoh hoh hoh hoh!
+<pause>
+Ninja:<nl>
+ Without the proper use of force
+ applied to our persons, the
+ intruders, i.e. you (plural), will be
+ incapable of progressing!!{END}
+
+Ninja:<nl>
+ Hee hee hee hee!
+<pause>
+Ninja:<nl>
+ So, uh, yeah, you guys, like, can't
+ come any further until you,
+ uhhhh...right, until you, like, beat
+ us...I think.{END}
+
+<audio_12DE>Darkeye?:<nl>
+ Ghihehehehe...
+<pause>
+<audio_12DF>Darkeye?:<nl>
+ Let's brainwash all of you, too!
+<pause>
+<audio_12E0>Darkeye?:<nl>
+ Then you will serve our lord:
+ Dhaos!!!
+<pause>
+<audio_12E1>Darkeye?:<nl>
+ Which means more glory for ME!
+ Ghihehehehe...{END}
+
+<audio_12E2>Sealeye?:<nl>
+ Ssso you have come, lowly
+ knavesss!{END}
+
+<audio_12E3>Sealeye?:<nl>
+ Ffforrr you fffoolsss...
+<pause>
+<audio_12E4>Sealeye?:<nl>
+ Thhherrre will be the grrreatessst
+of sssightsss.
+<pause>
+<audio_12E5>Sealeye?:<nl>
+ A deathhh overrrffflowing in
+ crrrimssson...{END}
+
+<Cless>:<nl>
+ Thank goodness you're safe.{END}
+
+Sentry:<nl>
+ This area is currently undergoing a
+ survey.
+<pause>
+Sentry:<nl>
+ We cannot allow anyone entry until
+ the team conducting it has finished.{END}
+

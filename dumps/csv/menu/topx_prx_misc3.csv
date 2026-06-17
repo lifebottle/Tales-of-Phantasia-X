@@ -1,0 +1,42 @@
+ＣＰＵ{END},CPU{END}
+ＧＰＵ{END},GPU{END}
+ＰＲＭ{END},PRM{END}
+ＭＧＣ{END},MGC{END}
+ステータス{END},Status{END}
+てきうごく{END},Move Enemy{END}
+てきとまる{END},Stop Enemy{END}
+あたりみえない{END},Hide Hitbox{END}
+あたりみえる{END},Show Hitbox{END}
+ＥＸＰふつう{END},EXP Normal{END}
+ＥＸＰ２０ばい{END},EXP x20{END}
+カメラふつう{END},Camera Normal{END}
+カメラむりやり{END},Camera Dynamic{END}
+じかんみえない{END},Hide Time{END}
+じかんみえる{END},Show Time{END}
+ポーズひょうじ{END},Show Pause{END}
+ポーズなし{END},No Pause{END}
+ＥＸＩＴ{END},EXIT{END}
+すで{END},Attack{END}
+きり{END},Slash{END}
+つき{END},Thrust{END}
+ぼうぎょ{END},Defense{END}
+すばやさ{END},Agility{END}
+めいちゅう{END},Accuracy{END}
+かいひ{END},Evasion{END}
+うん{END},Luck{END}
+ＬＶ{END},Level{END}
+おもさ{END},Weight{END}
+わんりょく{END},Strength{END}
+クリティカル{END},Critical{END}
+きぜつ{END},Faint{END}
+ぞくせい{END},Element{END}
+ＨＰ{END},HP{END}
+ＴＰ{END},TP{END}
+しょうひＴＰ{END},TP{END}
+マスター{END},Mastered{END}
+もどす{END},Undo{END}
+ＰＡＵＳＥ{END},PAUSE{END}
+オート{END},Auto{END}
+セミオート{END},Semi-Auto{END}
+マニュアル{END},Manual{END}
+{END},{END}

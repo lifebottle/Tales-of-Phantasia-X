@@ -1,0 +1,1170 @@
+フリーズキールの町{END},Town of Freezekiel{END}
+スーパー『フリーザー』{END},Supermarket “Freezer”{END}
+武具屋『アイスコーヒー』{END},Armor Shop “Iced Coffee”{END}
+宿屋『雪泣手（せつなくて）』{END},Inn “Snow Bunny”{END}
+フェンリル教会{END},Fenrir Church{END}
+<color_0002>ステンドグラスを見ますか？<color_0000>{END},<color_0002>Look at the stained glass?<color_0000>{END}
+"<audio_16E5><Cless>
+「ここがフェンリル教会か？」
+<pause>
+<audio_16E6><Klarth>
+「扉が封印されているな」
+<pause>
+<audio_16E7><Klarth>
+「どうやって開けるんだ？」{END}","<audio_16E5><Cless>:<nl>
+ Is this the Fenrir Church?
+<pause>
+<audio_16E6><Klarth>:<nl>
+ Huh. The door is sealed shut.
+<pause>
+<audio_16E7><Klarth>:<nl>
+ How to get it open...{END}"
+"<audio_16E8>『聖なる地を汚す者達よ、汝らの
+　命が惜しくばそのまま立ち去れ
+　い！』<wait>{END}","<audio_16E8>“You who defile this sacred place...<nl>
+If you have any respect for your
+lives, and do not wish to die cold,
+alone, and afraid, you will remove
+yourselves at once!”<wait>{END}"
+"<audio_16E9>『命を捨てるというのなら、この
+　中に入るがいい！！』<wait>{END}","<audio_16E9>“But if your will to live is feeble,
+then by all means enter!”<wait>{END}"
+"<audio_16EA><Cless>
+「な、何だ今の？」
+<pause>
+<audio_16EB><Klarth>
+「どうやら封印が解かれたようだ
+　な・・・」
+<pause>
+<audio_16EC><Klarth>
+「よし、入ってみよう」
+<pause>
+<audio_16ED><Arche>
+「それじゃ、開けるよ」{END}","<audio_16EA><Cless>:<nl>
+ Wh-What was that?
+<pause>
+<audio_16EB><Klarth>:<nl>
+ I assume it had some relation to
+ the door, since the seal's been
+ lifted...
+<pause>
+<audio_16EC><Klarth>:<nl>
+ Let's get this thing open, shall we?
+<pause>
+<audio_16ED><Arche>:<nl>
+ Leave it to me!{END}"
+"<audio_16EE><Arche>
+「よっと・・・」{END}","<audio_16EE><Arche>:<nl>
+ Yaargh...{END}"
+"<audio_16EF><Cless>
+「壊しちゃったよ・・・」{END}","<audio_16EF><Cless>:<nl>
+ Hey, uh...<nl>
+ You broke it.{END}"
+"<audio_16F0><Arche>
+「ま、いっか」<wait>{END}","<audio_16F0><Arche>:<nl>
+ Yeah well, whatever...<wait>{END}"
+"<audio_16F1><Arche>
+「気にしない気にしない」
+<pause>
+<audio_16F2><Arche>
+「さ、行こうよ！」{END}","<audio_16F1><Arche>:<nl>
+ Whatever!
+ It's just some crusty old church!
+<pause>
+<audio_16F2><Arche>:<nl>
+ Let's just find the sword and get
+ out of here. It's so cold!{END}"
+"<audio_16F3><Cless>
+「固く閉ざされている」{END}","<audio_16F3><Cless>:<nl>
+ It's shut tight.{END}"
+"<audio_16F4><Cless>
+「うわ〜、すごいステンドグラス
+　だなぁ・・・」{END}","<audio_16F4><Cless>:<nl>
+ Whoooah, this stained glass is a
+ real piece of work!{END}"
+"<audio_16F5>？？？
+『ふふふ、来たな・・・』
+<pause>
+<audio_16F6>？？？
+『命知らずな者どもよ・・・』{END}","<audio_16F5>???:<nl>
+ Hmhmhm...<nl>
+ So...
+<pause>
+<audio_16F6>???:<nl>
+ You reckless fools had the audacity
+ to enter...{END}"
+"<audio_16F7><Cless>
+「お前は！？」
+<pause>
+<audio_16F8>？？？
+『我は氷の剣を守護する者』
+<pause>
+<audio_16F9>？？？
+『聖なる極寒の地に近づけば、必
+　ず死が訪れるであろう・・・』
+<pause>
+<audio_16FA><Cless>
+「僕達はやらなければならないこ
+　とがあるんだ！」
+<pause>
+<audio_16FB><Cless>
+「命をかけても、やることが！」
+<pause>
+<audio_16FC>？？？
+『死をも恐れぬ愚か者よ』
+<pause>
+<audio_16FD>？？？
+『祭壇の元へ来るがよい！』{END}","<audio_16F7><Cless>:<nl>
+ Who are you!?
+<pause>
+<audio_16F8>???:<nl>
+ I am the guardian of the Blade of
+ Frost.
+<pause>
+<audio_16F9>???:<nl>
+ Only death awaits those who
+ intrude upon the sacred land of
+ biting cold...
+<pause>
+<audio_16FA><Cless>:<nl>
+ We can't back down! We're on an
+ important mission!
+<pause>
+<audio_16FB><Cless>:<nl>
+ A mission more important than our
+ own lives!
+<pause>
+<audio_16FC>???:<nl>
+ If you fools are truly so careless
+ of your own souls...
+<pause>
+<audio_16FD>???:<nl>
+ ...then come! Approach the altar!{END}"
+"<audio_16FE><Klarth>
+「どうやらここが入口らしいな」
+<pause>
+<audio_16FF><Cless>
+「よし、行こう！」{END}","<audio_16FE><Klarth>:<nl>
+ Looks like we enter from here.
+<pause>
+<audio_16FF><Cless>:<nl>
+ Okay, forward!{END}"
+"主人
+「いらっしゃい、今日も一段と冷
+　えますね」
+<pause>
+主人
+「一泊<num1_0000006E>ガルドになります」
+<pause>
+主人
+「お泊まりですね」{END}","Innkeeper:<nl>
+ It's a chilly one out there, wouldn't
+ you say?
+<pause>
+Innkeeper:<nl>
+ Our warm and cozy rooms are
+ just <num1_0000006E> gald a night.
+ Will you be staying with us?{END}"
+"主人
+「お客さん、お金が足りないみた
+　いですよ」{END}","Innkeeper:<nl>
+ I'm sorry, sir, but this is not
+ enough money.{END}"
+"主人
+「ごゆっくり」{END}","Innkeeper:<nl>
+ Sleep tight!{END}"
+"主人
+「またのおこしをお待ちしており
+　ます」{END}","Innkeeper:<nl>
+ We look forward to your next visit.{END}"
+"売子
+「らっしゃい、よく来たね」{END}","Clerk:<nl>
+ Come on in!
+ How can Iced Coffee serve you
+ today?{END}"
+"売子
+「ありがと、また来て下さい」{END}","Clerk:<nl>
+ Thanks.
+ Please come again.{END}"
+"売子
+「いらっしゃいませ、何にいたし
+　ましょう？」{END}","Clerk:<nl>
+ Welcome to Freezer, food
+ department. What can we get for
+ you?{END}"
+"売子
+「ありがとうございます」
+<pause>
+売子
+「ポテトもいかがですか？」{END}","Clerk:<nl>
+ Thank you very much!
+<pause>
+Clerk:<nl>
+ How about some 'taters with that?{END}"
+"売子
+「いらっしゃい」{END}","Clerk:<nl>
+ Welcome to Freezer, accessory
+ department.{END}"
+"売子
+「ありがとやんした」{END}","Clerk:<nl>
+ Thank you, come again!{END}"
+"薬売り
+「私は薬を売り歩いている者なん
+　ですが・・・」
+<pause>
+薬売り
+「何かお入り用ですか？」{END}","Pharmacist:<nl>
+ I got a mess o' medicine over here.
+<pause>
+Pharmacist:<nl>
+ Lookin' fer anythin' in particular?{END}"
+"薬売り
+「おおきに」{END}","Pharmacist:<nl>
+ Come back now, 'ya hear?{END}"
+"男の子
+「わ〜い、雪ぃ〜！」{END}","Boy:<nl>
+ Woohoo! Snooow!{END}"
+"女の子
+「ここはフリーズキールっていう
+　町なの・・・」
+<pause>
+女の子
+「一年の半分以上が銀世界なの」{END}","Girl:<nl>
+ This is the town of Freezekiel.
+<pause>
+Girl:<nl>
+ Did you know that it's a winter
+ wonderland for well over half the
+ year?{END}"
+"男の子
+「でっかい雪だるま作ろうと思っ
+　てるんだ！」{END}","Boy:<nl>
+ I'm gonna build the biggest and
+ bestest snowman ever!{END}"
+"男の人
+「え、君達フェンリル教会の扉を
+　開けたの！？」
+<pause>
+男の人
+「え、開けたんじゃなくて壊した
+　の・・・」
+<pause>
+男の人
+「中にすごく奇麗なステンドグラ
+　スがあったの？」
+<pause>
+男の人
+「僕も入ってみようかなぁ」{END}","Citizen:<nl>
+ Whoa, you guys figured out how to
+ get into the church!?
+<pause>
+<Arche>:<nl>
+ Tee-hee, it's more like the door
+ went all BOOM and fell apart.
+<pause>
+Citizen:<nl>
+ Oh, just like that, eh...?
+<pause>
+Citizen:<nl>
+ So tell me: There was stained
+ glass in there, right?
+ How was it? Pretty?
+<pause>
+Citizen:<nl>
+ Well, maybe I should just go take a
+ little peek for myself now that the
+ place's open.{END}"
+"町の人
+「フェンリル教会へようこそ」
+<pause>
+町の人
+「不気味な教会でしょう？」
+<pause>
+町の人
+「扉に氷の封印がなされていて、
+　誰も入れないんですよ・・・」{END}","Citizen:<nl>
+ Welcome to the Fenrir Church.
+<pause>
+Citizen:<nl>
+ Place is kind of eerie, isn't it?
+<pause>
+Citizen:<nl>
+ The door's sealed with some weird
+ ice that no one can melt, so
+ nobody's ever seen the inside.{END}"
+"町の人
+「ここは超古代文明の時代に建て
+　られた、と言われています」
+<pause>
+町の人
+「名前からして間違いないでしょ
+　うね」
+<pause>
+町の人
+「三大超古代文明のうちの一つが
+　フェンリルという名前ですから
+　ね」{END}","Citizen:<nl>
+ They say this church was built way
+ back in the Age of Antiquity.
+<pause>
+Citizen:<nl>
+ If you think about it for a second,
+ it's not all that surprising.
+<pause>
+Citizen:<nl>
+ After all, Fenrir is the name of one
+ of the three great nations of the
+ era.{END}"
+"町の人
+「この大陸は中立領土でしてね」
+<pause>
+町の人
+「どの国にも属さないんです」
+<pause>
+町の人
+「まぁ、もっともこんな厳しい気
+　候の土地が欲しいなんて国はあ
+　りませんがね」{END}","Citizen:<nl>
+ This continent is neutral territory.
+<pause>
+Citizen:<nl>
+ We don't answer to any other
+ country in the world.
+<pause>
+Citizen:<nl>
+ Well, I guess that's probably
+ because a continent covered in ice
+ isn't exactly prime real estate.
+<pause>
+Citizen:<nl>
+ I imagine it would also be hard to
+ wage a land war here.{END}"
+"剣士
+「このような厳しい環境こそ、修
+　行の場にふさわしい・・・」{END}","Swordsman:<nl>
+ A land as harsh and unforgiving as
+ this is the perfect place to train
+ one's body...{END}"
+"剣士
+「君、剣士か？」
+<pause>
+剣士
+「この奥義書を買わないか？」
+<pause>
+<Cless>
+「え、奥義書！？」
+<pause>
+剣士
+「読んではみたが、意味がわから
+　ん」
+<pause>
+剣士
+「どこかの流派の奥義らしいのだ
+　が・・・」
+<pause>
+剣士
+「どうだ、３３０００ガルドでい
+　いよ」
+<pause>
+<color_0002>３３０００ガルドで買いますか？<color_0000>{END}","Swordsman:<nl>
+ Hey, fellow swordsman, huh?
+<pause>
+Swordsman:<nl>
+ Right, so I bought this arcane arte
+ book from some other guy.
+<pause>
+<Cless>:<nl>
+ Oh? Did you say arcane arte book!?
+<pause>
+Swordsman:<nl>
+ Yeah. I read it, but it left me more
+ confused afterward...
+<pause>
+Swordsman:<nl>
+ I suppose that's what I get for
+ trying a book that came from
+ some fencing school I've never
+ heard of.
+<pause>
+Swordsman:<nl>
+ You interested in it?
+ 33000 gald ought to do.
+<pause>
+<color_0002>Buy it for 33000 gald?<color_0000>{END}"
+"剣士
+「そうか・・・」{END}","Swordsman:<nl>
+ I see...{END}"
+"剣士
+「金が足りないよ」{END}","Swordsman:<nl>
+ Aw, c'mon man, this isn't 33k!{END}"
+"<color_0002><Cless>は<var_9A00>を覚えました。<color_0000>
+<pause>
+剣士
+「ありがとう」{END}","<color_0002><Cless> learned
+<var_9A00>.<color_0000>
+<pause>
+Swordsman:<nl>
+ Thank you!{END}"
+"男の人
+「氷の魔力は寒い所でしか生まれ
+　ません」
+<pause>
+男の人
+「炎の魔力も同様に暑い所でしか
+　生まれることはありません」
+<pause>
+男の人
+「つまり、特別な武器が欲しけれ
+　ばどこへ行けば手に入るか？」
+<pause>
+男の人
+「もうお分かりですね？」{END}","Man:<nl>
+ The magic power of ice cannot
+ manifest itself in a warm place.
+<pause>
+Man:<nl>
+ The opposite goes for flame, which
+ cannot manifest itself in a cold
+ place.
+<pause>
+Man:<nl>
+ So basically, if you're searching for
+ a particular piece of elemental
+ equipment, you must seek out the
+ appropriate environment.
+<pause>
+Man:<nl>
+ You got that?{END}"
+"男の人
+「氷は熱で溶かす、これは当然」
+<pause>
+男の人
+「だけど、彼女のハートはおいら
+　が溶かす！」
+<pause>
+男の人
+「もうメロメロ！！」{END}","Man:<nl>
+ Heat melts ice--that's just
+ common sense.
+<pause>
+Man:<nl>
+ But even the white-hot flames of
+ my love can't melt her heart!
+<pause>
+Man:<nl>
+ I can't take this anymore!!{END}"
+"おじいさん
+「三大超古代文明のフェンリル、
+　トール、オーディーン」
+<pause>
+おじいさん
+「彼らはそれぞれが崇拝する神の
+　名を自分達の国名にしていたと
+　いうことじゃ」{END}","Old Man:<nl>
+ The three great ancient
+ civilizations--Fenrir, Thor, and
+ Odin--were named after the god
+ their rulers each worshipped.{END}"
+"女の子
+「フェンリルって別名『狼王』と
+　も呼ばれていたんだって」
+<pause>
+女の子
+「その王は今でもこの町に幽霊と
+　なってさまよっているのよ」
+<pause>
+女の子
+「吹雪の晩には必ず教会から狼の
+　鳴き声が聞こえるの・・・」
+<pause>
+女の子
+「きゃ〜、こわ〜い！！」{END}","Girl:<nl>
+ They say that Fenrir was also
+ known as the “Wolf Lord.”
+<pause>
+Girl:<nl>
+ And they also say that his ghost
+ still haunts our town!
+<pause>
+Girl:<nl>
+ You can hear him howling from the
+ church during the nights of a snow
+ storm--
+<pause>
+Girl:<nl>
+ EEEEK!!! It's so scary!!{END}"
+"女の人
+「常夏の国があるんですって？」
+<pause>
+女の人
+「こんな寒い所からそこへ引っ越
+　して日焼けしたいわ」{END}","Woman:<nl>
+ There's a country of everlasting
+ summer, you say?
+<pause>
+Woman:<nl>
+ Oh, how I'd love to move there and
+ work on a nice tan...{END}"
+"子供
+「ゆ〜きだ〜るま、雪だるま〜」{END}","Child:<nl>
+ Snooowman! Snowmaaan!{END}"
+"女の人
+「今日も冷えますね」
+<pause>
+<Cless>
+「やっぱりエルウィンさんとナン
+　シーさんの子孫なのかなぁ？」
+<pause>
+女の人
+「何か？」
+<pause>
+<Cless>
+「いえ何でもありません・・・」{END}","Woman:<nl>
+ Yet another chilly, depressing day...
+<pause>
+<Cless>:<nl>
+ (I wonder if she's a descendant of
+ Elwyn and Nancy.)
+<pause>
+Woman:<nl>
+ Is there something on my face?
+<pause>
+<Cless>:<nl>
+ Uh, no...<nl>
+ Sorry, I mistook you for someone
+ else...{END}"
+"スティーブン
+「ははは、うまくできたなぁ」{END}","Stephen:<nl>
+ Hahahah, not bad!{END}"
+"<Cless>
+「エルウィンさん！？」
+<pause>
+？？？
+「はぁ？」
+<pause>
+？？？
+「エルウィンって・・・」
+<pause>
+？？？
+「僕の名前はスティーブンですけ
+　ど・・・」
+<pause>
+スティーブン
+「待てよ・・・」
+<pause>
+スティーブン
+「確か先々代のおじいさんの名前
+　がエルウィンだったかな？」
+<pause>
+スティーブン
+「なんでもおばあさんと駆け落ち
+　してこの町に移り住んだとか」
+<pause>
+<Cless>
+「あ、な、何でもありません」{END}","<Cless>:<nl>
+ Elwyn!?
+<pause>
+???:<nl>
+ Huh?
+<pause>
+???:<nl>
+ Elwyn...?
+<pause>
+???:<nl>
+ You must be mistaken.
+ My name's Stephen.
+<pause>
+Stephen:<nl>
+ Wait, Elwyn sounds familiar...
+<pause>
+Stephen:<nl>
+ Yeah, that's right!
+ A grandfather from generations
+ back had that name!
+<pause>
+Stephen:<nl>
+ There's a family story about how
+ he eloped with his wife here and
+ built a home, or something.
+<pause>
+<Cless>:<nl>
+ Oh, um... Is that so?
+ Sorry, but we have to get going...{END}"
+"？？？
+「やあ、君達冒険者かい？」
+<pause>
+？？？
+「一つ、私の頼みをきいてはもら
+　えないだろうか？」{END}","???:<nl>
+ Oh, hey!
+ I've been looking for adventurers!
+<pause>
+???:<nl>
+ I have a favor to ask.
+ Would you hear it?{END}"
+"？？？
+「そうか、残念だな・・・」
+<pause>
+？？？
+「悪くない話なんだが」{END}","???:<nl>
+ I see... That's too bad.
+<pause>
+???:<nl>
+ It's nothing detestable, honest.{END}"
+"？？？
+「そうか、きいてくれるか」
+<pause>
+？？？
+「私の名はグラハム・・・」
+<pause>
+グラハム
+「グラハム＝アイフリードだ」
+<pause>
+グラハム
+「アイフリードの噂くらいは聞い
+　たことあるだろう？」
+<pause>
+グラハム
+「私は、海賊アイフリードの息子
+　なんだ」
+<pause>
+グラハム
+「もっとも、昔の栄光は消滅して
+　しまったがね」
+<pause>
+グラハム
+「今は父が残してくれた船を売り
+　払って、どうにか暮らしている
+　んだ」
+<pause>
+<Cless>
+「頼みというのは・・・」
+<pause>
+<Cless>
+「もしかして、あなたの父親の財
+　宝探しですか？」
+<pause>
+グラハム
+「その通り・・・」
+<pause>
+グラハム
+「でも、勘違いしないでくれ」
+<pause>
+グラハム
+「金目当てじゃあないんだ」
+<pause>
+グラハム
+「この古文書を見てくれ」
+<pause>
+<Cless>
+「古文書？」
+<pause>
+グラハム
+「父が私に託したものだ」
+<pause>
+グラハム
+「それには海賊アイフリードのか
+　くれアジトの場所と・・・」
+<pause>
+グラハム
+「謎の言葉が記されている」
+<pause>
+<Cless>
+「謎の言葉・・・えっと・・・」
+<pause>
+『オーディーンを正面に見据え、
+　フェンリルが左手で仰げる所、
+　世界の中央に我が真の宝あり』
+<pause>
+グラハム
+「隠されている宝のうち、金品は
+　あなたに差し上げる」
+<pause>
+グラハム
+「そのかわり、古文書の『真の宝』
+　は、私に届けてもらいたい」
+<pause>
+<Cless>
+「わかりました、探しましょう」<wait>{END}","???:<nl>
+ Great!
+<pause>
+???:<nl>
+ Then let me introduce myself.
+<pause>
+???:<nl>
+ I'm Graham--Graham Aifread.
+<pause>
+Graham:<nl>
+ Does my family name ring a bell?
+<pause>
+Graham:<nl>
+ What I'm trying to say is, I'm the
+ son of the infamous pirate captain,
+ Aifread.
+<pause>
+Graham:<nl>
+ Though I'm afraid I have no tale as
+ glorious as my father's...
+<pause>
+Graham:<nl>
+ I put his ship on the market and
+ am currently living off the
+ proceeds.
+<pause>
+<Cless>:<nl>
+ So, ah... What about this favor of
+ yours?
+<pause>
+<Cless>:<nl>
+ Do you need adventurers to search
+ for your father's treasure?
+<pause>
+Graham:<nl>
+ Um, yes, actually.
+ That's correct.
+<pause>
+Graham:<nl>
+ But please don't misunderstand.
+<pause>
+Graham:<nl>
+ What I'm seeking is not for its
+ monetary value, if it even has any.
+<pause>
+Graham:<nl>
+ Here, have a look at this old scroll.
+<pause>
+Graham:<nl>
+ I inherited it from my father.
+<pause>
+<Cless>:<nl>
+ Huh? This is weird...
+<pause>
+Graham:<nl>
+ It's a coded message that conceals
+ the location of my father's secret
+ hideaway.
+<pause>
+<Cless>:<nl>
+ So, it's like a riddle?
+ I should read it more carefully...
+<pause>
+“In the center of the world, with
+Odin in your gaze, and Fenrir to
+where your left hand points, lies
+true treasure.”
+<pause>
+Graham:<nl>
+ Feel free to take any booty or cash
+ you come across.
+<pause>
+Graham:<nl>
+ In exchange, I only ask for this
+ “true treasure” that the scroll
+ mentions.
+<pause>
+<Cless>:<nl>
+ It's a deal.
+ We'll try not to let you down!<wait>{END}"
+<color_0002><item_4100>を手に入れました。<color_0000>{END},<color_0002>Acquired the Ancient Scroll.<color_0000>{END}
+"<Cless>
+「グラハムさん、このドレスに見
+　覚えはありませんか？」
+<pause>
+グラハム
+「これは・・・母さんの・・・」
+<pause>
+<Cless>
+「どうやらこれが『真の宝』みた
+　いですね」
+<pause>
+グラハム
+「これが、親父の真の宝？」
+<pause>
+グラハム
+「こんな、こんなものが・・・」
+<pause>
+グラハム
+「幾億の宝に勝ると・・・」
+<pause>
+<Klarth>
+「たぶん、あなたの父親・・・」
+<pause>
+<Klarth>
+「海賊アイフリードは、自分の妻
+　が、一番大切な『宝』だと考え
+　たのでしょう」
+<pause>
+グラハム
+「お金では買えない宝・・・」
+<pause>
+グラハム
+「ありがとう・・・」
+<pause>
+グラハム
+「本当にありがとう・・・」
+<pause>
+グラハム
+「これはお礼です」<wait>{END}","<Cless>:<nl>
+ Graham, does this dress look
+ familiar?
+<pause>
+Graham:<nl>
+ My...my mother used to wear that...
+<pause>
+<Cless>:<nl>
+ In those piles of loot we found,
+ it stuck out like a sore thumb.
+ We believe it's the “true treasure.”
+<pause>
+Graham:<nl>
+ My father's greatest treasure is
+ just an old, tattered dress that
+ belonged to my mother?
+<pause>
+Graham:<nl>
+ Wow... I just can't believe it...
+<pause>
+Graham:<nl>
+ Out of the countless number of
+ treasures he had acquired...
+<pause>
+<Klarth>:<nl>
+ It's simple.
+ Think not of the item, but of what
+ it represents: his wife.
+<pause>
+Graham:<nl>
+ She was a treasure that money
+ cannot buy...
+<pause>
+Graham:<nl>
+ Thank you...
+<pause>
+Graham:<nl>
+ I really mean it...
+<pause>
+Graham:<nl>
+ Please accept this as a token of my
+ gratitude.<wait>{END}"
+<color_0002><item_6F01>を手に入れました。<wait><color_0000>{END},<color_0002>Acquired a <item_6F01>.<wait><color_0000>{END}
+<color_0002><Klarth>は『<var_BB01>』の称号を得ました。<color_0000>{END},"<color_0002><Klarth> has earned the title
+“<var_BB01>.”<wait><color_0000>{END}"
+"『オーディーンを正面に見据え、
+　フェンリルが左手で仰げる所、
+　世界の中央に我が真の宝あり』
+<pause>
+グラハム
+「これが、古文書の謎の言葉だ」
+<pause>
+グラハム
+「ついでに隠しアジトもチェック
+　してみるか？」{END}","“In the center of the world, with
+Odin in your gaze, and Fenrir to
+where your left hand points, lies
+true treasure.”
+<pause>
+Graham:<nl>
+ That is the coded message written
+ on the scroll.
+<pause>
+Graham:<nl>
+ Oh, by the way: Would you like to
+ hear about my father's other
+ secret hideouts?{END}"
+"グラハム
+「ぜひ『真の宝』を見つけて欲し
+　い」
+<pause>
+グラハム
+「頼んだよ」{END}","Graham:<nl>
+ All that matters to me is the
+ “true treasure.”
+ Find it and bring it here!
+<pause>
+Graham:<nl>
+ I'm counting on you guys.{END}"
+"グラハム
+「父の功績、と言っていいかどう
+　かはわからないが・・・」
+<pause>
+グラハム
+「それは、俺にとって誇りだ」
+<pause>
+グラハム
+「アジトの位置を教えようか？」{END}","Graham:<nl>
+ I don't know if you could say my
+ father's exploits were always the
+ most honorable, but...
+<pause>
+Graham:<nl>
+ I'm still proud of him.
+<pause>
+Graham:<nl>
+ Do you want to hear about the rest
+ of his hideouts?{END}"
+"グラハム
+「北ユークリッド大陸にニつ、　
+　ローン島に一つ」
+<pause>
+グラハム
+「南ユークリッドに四つ、この内
+　三つは島にある」
+<pause>
+グラハム
+「アーリィ大陸にニつ、　　　　
+　フェンリル大陸に一つ」
+<pause>
+グラハム
+「ミッドガルズ大陸ユミル地方に
+　三つ」
+<pause>
+グラハム
+「アルヴァニスタ北東部にニつ、
+　フレイランド東部と西部に一つ
+　ずつ・・・」
+<pause>
+グラハム
+「ミッドガルズ大陸の極東地区に
+　一つ、同じくミッドガルズ大陸
+　北部に四つ・・・」
+<pause>
+グラハム
+「合計して２２ヶ所になる」<wait>{END}","Graham:<nl>
+ Two of them are in northern Euclid,
+ and one other on the neighboring
+ Lone Island.
+<pause>
+Graham:<nl>
+ You'll find four more in southern
+ Euclid. Two on the mainland, and
+ two on islands.
+<pause>
+Graham:<nl>
+ Another three can be found on the
+ two icy continents of this world.
+ Two on Early, and one on Fenrir.
+<pause>
+Graham:<nl>
+ Five are in the western half of the
+ Midgard supercontinent. Three of
+ those in the Ymir region and the
+ other two east of Alvanista.
+<pause>
+Graham:<nl>
+ Another five are found in the
+ eastern half the Midgard
+ supercontinent; Midgard's former
+ jurisdiction area.
+<pause>
+Graham:<nl>
+ From Midgard's ruins, one of these
+ is west, one is north, two are
+ northeast, and one is far east.
+<pause>
+Graham:<nl>
+ The last two are located on the
+ continent of Freyland, with one
+ each on the western and eastern
+ halves of it.
+<pause>
+Graham:<nl>
+ That's 22 hideouts in all.<wait>{END}"
+"剣士
+「やはり、こんな辺境の地に私を
+　満足させる武器はないか」
+<pause>
+剣士
+「この大陸に『氷の剣』があると
+　いう話を聞いたのだが・・・」{END}","Swordsman:<nl>
+ None of the weapons in this
+ backwater region are up to my
+ rigid standards.
+<pause>
+Swordsman:<nl>
+ There's no sign of that
+ “Blade of Frost” I heard about,
+ either!{END}"
+"収集家　失格の人
+「へへへ・・・がっぽり儲かった
+　な」{END}","Shady Collector:<nl>
+ Heheheh... Thanks fer all the biz...stranger.{END}"
+"収集家
+「なぁ・・・」
+<pause>
+収集家
+「いい話があるんだ・・・」
+<pause>
+収集家
+「この<item_8801>を、５００
+　００ガルドで買わないか？」
+<pause>
+<color_0002>５００００ガルドで買いますか？<color_0000>{END}","Collector:<nl>
+ Heheheh, hello...stranger.
+<pause>
+Collector:<nl>
+ Got somethin' nice for yas...
+<pause>
+Collector:<nl>
+ These <item_8801>s here, yers for
+ only 50000 gald apiece!
+<pause>
+<color_0002>Buy it for 50000 gald?<color_0000>{END}"
+"収集家　失格の人
+「ちぇ、せっかく買い占めたのに」
+<pause>
+収集家　失格の人
+「儲けそこねたぜ・・・」{END}","Shady Collector:<nl>
+ 'ey, these weren't easy to find, if
+ ya know what I mean...
+<pause>
+Shady Collector:<nl>
+ I gots'ta get me share...stranger.{END}"
+"収集家
+「金が足りないぜ」{END}","Collector:<nl>
+ Not enough cash...stranger.{END}"
+"<color_0002><item_8801>を手に入れました。<color_0000>
+<pause>
+収集家
+「へっへっへ」{END}","<color_0002>Acquired a <item_8801>.<color_0000>
+<pause>
+Collector:<nl>
+ Heh heh heh!{END}"
+"<unk1>男の子
+ギルガメスの<Cless>兄ちゃんだ！」{END}","<unk1>Boy:<nl>
+ Yeah! Mr. Gilgamesh is here!{END}"
+"男の子
+「勇者ギルガメスが、ドルアーガ
+　という悪魔と戦った伝説知って
+　る？」
+<pause>
+男の子
+「僕は、イシュタル伝説にとても
+　興味があるんだ」<wait>{END}","Boy:<nl>
+ Have you heard of the legend
+ where the demon Druaga was
+ thrashed by the hero, Gilgamesh?
+<pause>
+Boy:<nl>
+ It's the Legend of Ishtar
+ and it's really rad!
+ I'm the biggest fanboy there is!<wait>{END}"
+"男の子
+「すごい！イシュタル伝説のアイ
+　テムを全部持ってるんだね」
+<pause>
+男の子
+「お兄ちゃんこそ、ギルガメスを
+　名乗るにふさわしいよ！」<wait>{END}","Boy:<nl>
+ Dude! Dude! Dude!
+ You've got them all!
+ All the legendary items!
+<pause>
+Boy:<nl>
+ You're now worthy of the name
+ Gilgamesh, the name of the
+ greatest hero that ever lived!<wait>{END}"
+<color_0002><Cless>は『<var_8F01>』の称号を得ました。<wait><color_0000>{END},"<color_0002><Cless> has earned the title
+“<var_8F01>.”<wait><color_0000>{END}"
+"男の子
+「お兄ちゃんに、僕が大切にして
+　いる収集品をあげるよ」
+<pause>
+男の子
+「これは、めったに手に入らない
+　品物だからね」<wait>{END}","Boy:<nl>
+ I want you to have my most
+ cherished collectible!
+<pause>
+Boy:<nl>
+ You're not likely to find another
+ one anywhere else!<wait>{END}"
+<color_0002><item_8D01>を手に入れました。<color_0000>{END},<color_0002>Acquired a <item_8D01>.<color_0000>{END}
+"男の子
+「イシュタル伝説って、本当だと
+　思う？」{END}","Boy:<nl>
+ Do you believe in it too, mister?{END}"
+"料理人
+「寒いときには、ビーフシチュー
+　が一番だな」{END}","Chef:<nl>
+ Nothing beats a nice hot bowl of
+ Beef Stew on a cold day!{END}"
+"料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}","Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}"
+"料理人
+「この料理を伝授しよう！」<wait>{END}","Chef:<nl>
+ I'll teach you this dish!<wait>{END}"
+"<color_0002>ビーフシチューを料理できるように
+なりました。<color_0000>{END}",<color_0002>Learned the recipe for Beef Stew.<color_0000>{END}
+"料理人
+「おお、なんということだ！」{END}","Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}"
+"亡霊
+「魔力による転換は氷は炎へ、
+　その逆もしかり・・・」
+<pause>
+亡霊
+「命を守る鍵となろう」<wait>{END}","Ghost:<nl>
+ To counteract the magical power
+ of ice, you must use flame.
+ The same principle also applies to
+ the reverse.
+<pause>
+Ghost:<nl>
+ There may come a day when this
+ knowledge will save your life.<wait>{END}"
+"亡霊
+「気をつけてな・・・」{END}","Ghost:<nl>
+ Be careful...{END}"
+"亡霊
+「地獄のサタも金しだいとはよく
+　言ったもんじゃ」{END}","Ghost:<nl>
+ Money makes the world go 'round
+ in hell, as well.{END}"
+"亡霊
+「ここから先は死出の道・・・」
+<pause>
+亡霊
+「１０万ガルドで命を買うかい？」{END}","Ghost:<nl>
+ From here lies the path to death...
+<pause>
+Ghost:<nl>
+ Would you like to buy a lifeline for
+ 100000 gald?{END}"
+"<color_0002><num3_C0005106>を手に入れました。
+<pause>
+<color_0000>亡霊
+「この先は人の身には厳しい道程
+　じゃ」{END}","<color_0002>Acquired <a/an><num3_C0005106>.
+<pause>
+<color_0000>Ghost:<nl>
+ The path ahead will not be an easy
+ one for those trapped in physical
+ bodies.{END}"
+"亡霊
+「買わぬか、それも良し・・・」
+<pause>
+亡霊
+「己の力を信じて進むがいい」{END}","Ghost:<nl>
+ If you have that much faith in your
+ own power, you will triumph
+ without one.{END}"

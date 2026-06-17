@@ -1,0 +1,202 @@
+ Training Map{END}
+
+<audio_164D><Cless>:<nl>
+ <Chester>...<nl>
+ Can we talk for a few minutes?<wait>{END}
+
+<audio_164E><Chester>:<nl>
+ <Cless>...?<wait>{END}
+
+<unk1><audio_164F><Cless>:<nl>
+ Is it what <Arche> said
+ that's bothering you?{END}
+
+<audio_1650><Chester>:<nl>
+ That's only part of it...{END}
+
+<audio_1651><Chester>:<nl>
+ Truth is, it's more about you.{END}
+
+<audio_1652><Cless>:<nl>
+ ...?<wait>{END}
+
+<audio_1653><Chester>:<nl>
+ It used to be that you and I stayed
+ neck-and-neck in our training. Our
+ only difference was our weapon of
+ choice. Good times, those.<wait>{END}
+
+<audio_1654><Chester>:<nl>
+ But in all of what seemed like only
+ a few minutes to me, you got
+ insanely strong.<wait>{END}
+
+<audio_1655><Chester>:<nl>
+ You're suddenly so far ahead that I
+ just feel sorta...left out, y'know?{END}
+
+<audio_1656><Chester>:<nl>
+ Say... Do you have dreams about
+ everyone in Totus?
+<pause>
+<audio_1657><Cless>:<nl>
+ Yeah...<wait>{END}
+
+<audio_1658><Chester>:<nl>
+ Not a single night goes by without
+ me having one.<wait>{END}
+
+<audio_1659><Chester>:<nl>
+ I'm suddenly awoken by intense
+ thoughts of everyone being
+ massacred! I'll be so furious I can't
+ go back to sleep!<wait>{END}
+
+<audio_165A><Chester>:<nl>
+ I have to go out and shoot some
+ arrows to help me cool off a little.{END}
+
+<unk1><audio_165B><Chester>:<nl>
+ One last thing, <Cless>...<nl>
+ Did you know?
+<pause>
+<audio_165C><Chester>:<nl>
+ My little sister, Ami...she really liked
+ you...{END}
+
+<Chester> has gained additional
+experience from his training.<wait>{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New arte!{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New arte!{END}
+
+<color_0002><Chester> has earned the title
+“<var_CA01>.”<color_0000>{END}
+
+<audio_165D><Arche>:<nl>
+ Sooo...<nl>
+ What're YOU doin' out here?
+<pause>
+<audio_165E><Chester>:<nl>
+ Nothing.
+<pause>
+<audio_165F><Arche>:<nl>
+ Oh? In the middle of the night?{END}
+
+<audio_1660><Chester>:<nl>
+ What, you got a problem with that?
+ I can do whatever I want.
+<pause>
+<audio_1661><Arche>:<nl>
+ ...I bet you're still annoyed over
+ what I said when we met.{END}
+
+<audio_1662><Chester>:<nl>
+ You'd be losing that bet, then.
+<pause>
+<audio_1663><Arche>:<nl>
+ So tell me, then.<wait>{END}
+
+<audio_1664><Chester>:<nl>
+ What part of “nothing” didn't you
+ understand!? If you don't have
+ anything else to do, then buzz off!{END}
+
+<audio_1665><Arche>:<nl>
+ ......<nl>
+<pause>
+<audio_1666><Arche>:<nl>
+ ...I get it...I'll leave.{END}
+
+<audio_1667><Chester>:<nl>
+ Hold up...<nl>
+<pause>
+<audio_1668><Chester>:<nl>
+ I...didn't mean to say all that...{END}
+
+<audio_1669><Arche>:<nl>
+ ...I...<nl>
+<pause>
+<audio_166A><Arche>:<nl>
+ ...think I should apologize to y--{END}
+
+<audio_166B><Chester>:<nl>
+ What was that?<wait>{END}
+
+<audio_166C><Arche>:<nl>
+ Oh, just forget it!<wait>{END}
+
+<audio_166D><Arche>:<nl>
+ I'll say this, though: don't go getting
+ yourself a cold or anything out
+ here! You'll just hold us all back
+ even more.
+<pause>
+<audio_166E><Chester>:<nl>
+ Yeah, well, why don't you try not
+ stuffing your face so much every
+ night!? Nobody likes listening to you
+ whine about your stomach aches!<wait>{END}
+
+<audio_166F><Arche>:<nl>
+ La-la-la!
+ I'm-not-listening!
+<pause>
+<audio_1670><Arche>:<nl>
+ G'night!{END}
+
+<Chester> has gained additional
+experience from his training.{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New arte!{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New arte!{END}
+
+<audio_1671><Chester>:<nl>
+ What a bunch of garbage...{END}
+
+<audio_1672><Chester>:<nl>
+ I'm “wussy,” huh?{END}
+
+<audio_1673><Chester>:<nl>
+ She's so full of it!{END}
+
+<audio_1674><Chester>:<nl>
+ That stupid, dumbass, immature
+ little...ugh!{END}
+
+<audio_1675><Chester>:<nl>
+ No way in hell I'm going to hold
+ everyone back!{END}
+
+<audio_1676><Chester>:<nl>
+ That's a promise!{END}
+
+<audio_1677><Chester>:<nl>
+ Just you watch, girl...{END}
+
+<audio_1678><Chester>:<nl>
+ I'll make you eat your words!{END}
+
+<Chester> has gained additional
+experience from his training.
+<pause>
+{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New arte!{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New arte!{END}
+

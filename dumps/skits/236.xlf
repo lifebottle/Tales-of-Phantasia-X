@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1216">
+        <source>Some battered up old dress was
+Aifread's “true treasure''... It's nuts.</source>
+        <target state="translated">Some battered up old dress was
+Aifread's “true treasure''... It's nuts.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1217">
+        <source>But it makes sense to me.</source>
+        <target state="translated">But it makes sense to me.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1218">
+        <source>Very much.</source>
+        <target state="translated">Very much.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1219">
+        <source>I still say it's kind of lame, though...</source>
+        <target state="translated">I still say it's kind of lame, though...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1220">
+        <source>To Aifread, his wife was the greatest treasure.</source>
+        <target state="translated">To Aifread, his wife was the greatest treasure.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1221">
+        <source>It may be underwhelming to us, but to
+him, that dress was a beautiful memento.</source>
+        <target state="translated">It may be underwhelming to us, but to
+him, that dress was a beautiful memento.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,792 @@
+? Sword{END}
+
+? Sword{END}
+
+? Sword{END}
+
+? Sword{END}
+
+? Sword{END}
+
+? Sword{END}
+
+? Sword{END}
+
+? Sword{END}
+
+? Sword{END}
+
+? Sword{END}
+
+? Sword{END}
+
+? Spear{END}
+
+? Axe{END}
+
+? Axe{END}
+
+? Halberd{END}
+
+? Bow{END}
+
+? Bow{END}
+
+? Bow{END}
+
+? Bow{END}
+
+? Bow{END}
+
+? Bow{END}
+
+? Bow{END}
+
+? Rod{END}
+
+? Rod{END}
+
+? Rod{END}
+
+? Grimoire{END}
+
+? Grimoire{END}
+
+? Grimoire{END}
+
+? Grimoire{END}
+
+? Grimoire{END}
+
+? Grimoire{END}
+
+? Clothing{END}
+
+? Clothing{END}
+
+? Armor{END}
+
+? Armor{END}
+
+? Armor{END}
+
+? Armor{END}
+
+? Helmet{END}
+
+? Helmet{END}
+
+? Helmet{END}
+
+? Hat{END}
+
+? Spear{END}
+
+? Axe{END}
+
+? Bow{END}
+
+Pendant{END}
+
+Stuffed <Cless>{END}
+
+Unicorn Earring{END}
+
+Wraith Ruby{END}
+
+Morrison's Book{END}
+
+Broken Bow{END}
+
+Elemental Orb{END}
+
+Demeter's Key{END}
+
+Moria Mine Permit{END}
+
+Royal Crest{END}
+
+Lundgrom's Letter{END}
+
+Broken Rings{END}
+
+Lava Key{END}
+
+Card{END}
+
+Mysterious Mirror{END}
+
+Golden Key{END}
+
+Wing Pack{END}
+
+Ancient Scroll{END}
+
+Rozania's Dress{END}
+
+Common Key{END}
+
+Sacred Wood{END}
+
+Quicksilver{END}
+
+Agalloch Incense{END}
+
+Ukiyo-e{END}
+
+Coral{END}
+
+Marble{END}
+
+Earthenware Pot{END}
+
+Tapestry{END}
+
+Ebony Wood{END}
+
+Pelt{END}
+
+Caterpillar Fungus{END}
+
+Teacup{END}
+
+Shamisen{END}
+
+Ivory{END}
+
+Carrot{END}
+
+Cabbage{END}
+
+Lettuce{END}
+
+Radish{END}
+
+Cucumber{END}
+
+Potato{END}
+
+Tomato{END}
+
+Onion{END}
+
+Apple{END}
+
+Lemon{END}
+
+Strawberry{END}
+
+Banana{END}
+
+Pineapple{END}
+
+Melon{END}
+
+Grapes{END}
+
+Mangosteen{END}
+
+Prune{END}
+
+Tuna{END}
+
+Mackerel{END}
+
+Sardine{END}
+
+Squid{END}
+
+Octopus{END}
+
+Shrimp{END}
+
+Chicken{END}
+
+Beef{END}
+
+Pork{END}
+
+Milk{END}
+
+Cheese{END}
+
+Konjac{END}
+
+Kelp{END}
+
+Egg{END}
+
+Miso{END}
+
+Bread{END}
+
+Rice{END}
+
+Seaweed{END}
+
+Spices{END}
+
+Pasta{END}
+
+Apple Gel{END}
+
+Orange Gel{END}
+
+Melange Gel{END}
+
+Lemon Gel{END}
+
+Pineapple Gel{END}
+
+Miracle Gel{END}
+
+Elixir{END}
+
+Basilisk Scale{END}
+
+Sage{END}
+
+Savory{END}
+
+Verbena{END}
+
+Lavender{END}
+
+Red Sage{END}
+
+Red Savory{END}
+
+Red Verbena{END}
+
+Red Lavender{END}
+
+Panacea Bottle{END}
+
+Life Bottle{END}
+
+Flare Bottle{END}
+
+Liqueur Bottle{END}
+
+Holy Bottle{END}
+
+Dark Bottle{END}
+
+Rune Bottle{END}
+
+Charm Bottle{END}
+
+Miracle Charm{END}
+
+World Map{END}
+
+Scout Orb{END}
+
+Hourglass{END}
+
+Chronos' Hourglass{END}
+
+Combo Counter{END}
+
+Magic Lens{END}
+
+Pickaxe{END}
+
+Magical Rouge{END}
+
+Red Lantern{END}
+
+Green Torch{END}
+
+Blue Candle{END}
+
+Rope{END}
+
+Drum Set{END}
+
+Mahjong Tile{END}
+
+Monster Book{END}
+
+Collector's Book{END}
+
+Ticket{END}
+
+Long Sword{END}
+
+Saber{END}
+
+Rapier{END}
+
+Knight's Saber{END}
+
+Verdun{END}
+
+Colichemarde{END}
+
+Fine Saber{END}
+
+Walloon Sword{END}
+
+Fame and Faith{END}
+
+Slayer Sword{END}
+
+Moon Falx{END}
+
+Damascus Sword{END}
+
+Sinclair Saber{END}
+
+Destroyer{END}
+
+Holy Sword{END}
+
+Dragon's Tooth{END}
+
+Flare Basilard{END}
+
+Ice Coffin{END}
+
+Laser Blade{END}
+
+Duelist's Sword{END}
+
+Blessed Blade{END}
+
+Muramasa{END}
+
+Vizier's Rapier{END}
+
+Saint's Rapier{END}
+
+Doom Blade{END}
+
+Excalibur{END}
+
+Vorpal Sword{END}
+
+Flamberge{END}
+
+Swordian Dymlos{END}
+
+Corsesca{END}
+
+Gungnir{END}
+
+Bisento{END}
+
+Vanguard{END}
+
+Arc Wind{END}
+
+Gungnir{END}
+
+Gungnir{END}
+
+Battle Axe{END}
+
+Crescent Axe{END}
+
+Bardiche{END}
+
+Strike Axe{END}
+
+Labrys{END}
+
+Bahamut's Tear{END}
+
+Halberd{END}
+
+Pole Axe{END}
+
+Mechanical Halberd{END}
+
+Saint's Halberd{END}
+
+Self Shortbow{END}
+
+Self Longbow{END}
+
+Composite Bow{END}
+
+Cranequin{END}
+
+Aqua Spreader{END}
+
+Flare Spreader{END}
+
+Sand Spreader{END}
+
+Gale Spreader{END}
+
+Crescent Bow{END}
+
+Elven Bow{END}
+
+Merciless Bow{END}
+
+Berserker Bow{END}
+
+Elven Bow{END}
+
+Rod{END}
+
+Gem Rod{END}
+
+Ruby Wand{END}
+
+Rune Staff{END}
+
+Unicorn Horn{END}
+
+Holy Staff{END}
+
+Star Mace{END}
+
+Blue Crystal Rod{END}
+
+Naughty Magazine{END}
+
+N.G.{END}
+
+Necronomicon{END}
+
+The King in Yellow{END}
+
+Celaeno Fragments{END}
+
+Liber Ivonis{END}
+
+Cthaat Aquadingen{END}
+
+G'harne Fragments{END}
+
+Seven Books of Hsan{END}
+
+Massa di Requiem{END}
+
+True Magic{END}
+
+Broom{END}
+
+Mystic Broom{END}
+
+Magical Broom{END}
+
+Sylphic Broom{END}
+
+Wonder Broom{END}
+
+Star Broom{END}
+
+Deck Brush{END}
+
+Botan{END}
+
+Ayame{END}
+
+Kikyo{END}
+
+Kuroyuri{END}
+
+Chizakura{END}
+
+Eternal Sword{END}
+
+Leather Armor{END}
+
+Chain Mail{END}
+
+Ring Mail{END}
+
+Splint Mail{END}
+
+Breastplate{END}
+
+Plate Mail{END}
+
+Mythril Plate{END}
+
+Reflex{END}
+
+Silver Plate{END}
+
+Rare Plate{END}
+
+Mumbane{END}
+
+Gold Armor{END}
+
+Cloak{END}
+
+Amber Cloak{END}
+
+Silver Cloak{END}
+
+Holy Cloak{END}
+
+Star Cloak{END}
+
+Mythril Mesh{END}
+
+Witch Dress{END}
+
+Kisaragi{END}
+
+Yayoi{END}
+
+Nagatsuki{END}
+
+Kannazuki{END}
+
+Wooden Shield{END}
+
+Round Shield{END}
+
+Kite Shield{END}
+
+Tower Shield{END}
+
+Fine Shield{END}
+
+Ankh Shield{END}
+
+Rare Shield{END}
+
+Red Shield{END}
+
+Star Shield{END}
+
+Blue Shield{END}
+
+Shield Ring{END}
+
+Leather Helm{END}
+
+Iron Sallet{END}
+
+Armet{END}
+
+Close Helm{END}
+
+Duelist's Helm{END}
+
+Rare Helm{END}
+
+Golden Helm{END}
+
+Star Helm{END}
+
+Beret{END}
+
+Mitre{END}
+
+Straw Hat{END}
+
+Fine Hat{END}
+
+Star Cap{END}
+
+Ninja Hood{END}
+
+Ninja Mask{END}
+
+Blue Ribbon{END}
+
+Long Blue Ribbon{END}
+
+Striped Ribbon{END}
+
+Pretty Ribbon{END}
+
+Magical Ribbon{END}
+
+Leather Gloves{END}
+
+Iron Gloves{END}
+
+Gauntlets{END}
+
+Mythril Gloves{END}
+
+Rare Gauntlets{END}
+
+Star Gloves{END}
+
+Hyper Gauntlets{END}
+
+Claw Gauntlet{END}
+
+Oven Mitts{END}
+
+Pretty Mittens{END}
+
+Mother's Mittens{END}
+
+Bridal Gloves{END}
+
+Stone Charm{END}
+
+Talisman{END}
+
+Blue Talisman{END}
+
+Paralysis Charm{END}
+
+Stun Bracelet{END}
+
+Poison Charm{END}
+
+Rabbit's Foot{END}
+
+Flame Charm{END}
+
+Ice Charm{END}
+
+Manji Symbol{END}
+
+Silver Cape{END}
+
+Princess Cape{END}
+
+Heavy Boots{END}
+
+Elven Boots{END}
+
+Jet Boots{END}
+
+Persian Boots{END}
+
+Succubus Boots{END}
+
+Water Spiders{END}
+
+Cape{END}
+
+Leather Cape{END}
+
+Thief's Cape{END}
+
+Elven Cape{END}
+
+Flare Cape{END}
+
+Aqua Cape{END}
+
+<ring>Aquamarine{END}
+
+<ring>Amethyst{END}
+
+<ring>Emerald{END}
+
+<ring>Opal{END}
+
+<ring>Garnet{END}
+
+<ring>Sardonyx{END}
+
+<ring>Sapphire{END}
+
+<ring>Turquoise{END}
+
+<ring>Diamond{END}
+
+<ring>Topaz{END}
+
+<ring>Moonstone{END}
+
+<ring>Ruby{END}
+
+Sorcerer's Ring{END}
+
+Emerald Ring{END}
+
+Faerie Ring{END}
+
+Spirit Ring{END}
+
+Protect Ring{END}
+
+Force Ring{END}
+
+Resist Ring{END}
+
+Reflect Ring{END}
+
+Channeling Ring{END}
+
+Dash Ring{END}
+
+Technical Ring{END}
+
+Rebirth Doll{END}
+
+Sephira{END}
+
+Blue Sephira{END}
+
+Gravity Stone{END}
+
+Black Onyx{END}
+
+Orb of White Mist{END}
+
+Orb of Magical Mist{END}
+
+Moon Crystal{END}
+
+Derris Emblem{END}
+
+Warrior Symbol{END}
+
+Attack Symbol{END}
+
+Holy Symbol{END}
+
+Mystic Symbol{END}
+
+Dark Seal{END}
+
+Demon's Seal{END}
+
+Unicorn Earring{END}
+
+Combo Command{END}
+
+Rock Breaker{END}
+
+Magical Pouch{END}
+
+Mystic Pouch{END}
+
+Mirror Image Patch{END}
+
+(c)Curio's Mirror{END}
+
+(c)Red Card{END}
+
+(c)Green Card{END}
+
+(c)Blue Card{END}
+
+(c)Yellow Card{END}
+
+(c)White Card{END}
+
+(c)Brown Card{END}
+
+(c)Black Card{END}
+
+(c)Statue of Bravery{END}
+
+(c)Statue of Justice{END}
+
+(c)Statue of Friendship{END}
+
+(c)Statue of Love{END}
+
+(c)Statue of Dreams{END}
+
+(c)Special Flag{END}
+

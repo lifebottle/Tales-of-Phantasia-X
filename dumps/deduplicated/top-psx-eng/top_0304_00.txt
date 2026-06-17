@@ -1,0 +1,371 @@
+Eroded Grotto{END}
+
+<color_0002>Flip the lever?<color_0000>{END}
+
+<color_0002>Push the switch?<color_0000>{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C000>.<color_0000>{END}
+
+<Cless>
+ But I don't have any use for it...
+<pause>
+<Cless>
+ I'll put it back...{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C400>.<color_0000>{END}
+
+<Cless>
+ But I don't have any use for it...
+<pause>
+<Cless>
+ I'll put it back...{END}
+
+???
+ “Who is there!?”
+<pause>
+???
+ “Who disturbs my rest!?”{END}
+
+<Cless>
+ Wh-who are you!?{END}
+
+<var_D000>
+ Filthy hounds!!{END}
+
+<var_D000>
+ I-I beg your forgiveness...
+<pause>
+<var_D000>
+ What do you desire in
+ compensation?
+<pause>
+<Klarth>
+ A summoning pact with you.
+<pause>
+<var_D000>
+ Then it shall be done...
+<pause>
+<var_D000>
+ Present the Aquamarine ring and
+ begin the ritual.{END}
+
+<Klarth>
+ Here and now, I offer my request
+ to the Spirit of Water.
+<pause>
+<Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon <var_D000>.<color_0000>{END}
+
+<Cless>
+ Hmm...
+ I can't open it...{END}
+
+<Chester>
+ Hey, uh...
+ What'd we come here for?
+<pause>
+<Cless>
+ Well, I thought we might find
+ something here.
+<pause>
+<Klarth>
+ Yeah. Back in my era, I made a
+ pact with <var_D000> here. There could
+ still be some things of use laying
+ around.
+<pause>
+<Chester>
+ <var_D000>'s hangout, huh?
+<pause>
+<Chester>
+ What kind of place is it?
+<pause>
+{END}
+
+<Arche>
+ Are you stupid, or something!?
+<pause>
+{END}
+
+<Arche>
+ It's a garotto!
+ G-A-R-O-T-T-O!
+<pause>
+{END}
+
+<Klarth>
+ Hmm?
+<pause>
+{END}
+
+<Klarth>
+ Did you just say GA-rotto?
+ I think you're confused.
+<pause>
+{END}
+
+<Arche>
+ UGH!
+ Okay, grotto, whatever.
+<pause>
+{END}
+
+<Arche>
+ Whenever I talk about grottos, for
+ some reason I start getting these
+ violent thoughts, like I just want
+ to, I dunno, strangle someone.
+<pause>
+{END}
+
+<Mint>
+ ???
+<pause>
+<Cless>
+ (Okay...
+ I think we need to keep
+ an eye on <Arche>.)
+<pause>
+{END}
+
+<Arche>
+ Aww, c'mon guys!
+ Don't look at me like that!
+<pause>
+{END}
+
+<Arche>
+ I know! How about I make
+ something SPECIAL for you all to
+ make up for freaking you out?
+ Let's stop here for some lunch!{END}
+
+<Cless>
+ Uh, sure.
+ I guess that would be a
+ nice change of pace.
+<pause>
+{END}
+
+<Arche>
+ Yaaay<heart>{END}
+
+<Cless>
+ Hmm...
+ On second thought, I'm not sure
+ I trust you around the food.
+<pause>
+{END}
+
+<Arche>
+ Awww, boo!{END}
+
+<Arche>
+ <item_5F00>s, melons...
+ Won't someone please
+ pass the melons?
+ Or did you guys eat them all?
+<pause>
+{END}
+
+<Arche>
+ You know, I just looooove melons!
+<pause>
+{END}
+
+<Arche>
+ Oh, and melon bread too<heart>
+<pause>
+{END}
+
+<Chester>
+ I've heard of banana bread and
+ raisin bread, but...melon bread?
+ How the heck does that even
+ work...?
+<pause>
+{END}
+
+<Arche>
+ Ta-daa!
+<pause>
+<Arche>
+ Today, I present to you...
+ <Arche>'s Masterpiece!
+<pause>
+{END}
+
+<color_0002>Learned the recipe for <Arche>'s
+Masterpiece!<color_0000>
+<pause>
+{END}
+
+<Cless>
+ Mmm, mmm, mmm!
+ Smells great!
+<pause>
+{END}
+
+<Chester>
+ Hey, uh...
+<pause>
+{END}
+
+<Chester>
+ You didn't mix anything that
+ might kill us into this, did you?
+ Y'know, violent thoughts, and all.
+<pause>
+{END}
+
+<Arche>
+ I never said you HAD to eat it!
+<pause>
+<Klarth>
+ Now, now, children...
+<pause>
+{END}
+
+<Klarth>
+ Let's not be disrespectful
+ to our chef, shall we?
+ Let's give it a try.{END}
+
+*munch* *munch*
+
+<pause>
+<Cless>
+ Oogh!
+<pause>
+{END}
+
+<Klarth>
+ Hooo!
+<pause>
+{END}
+
+<Chester>
+ BLEEEEEECHHH!!{END}
+
+<Arche>
+ Huhhh?
+<pause>
+{END}
+
+<unk1><Arche>
+ Uhhh, <Mint>...?
+ What's wrong with the guys!?
+<pause>
+{END}
+
+<Mint>
+ ......
+<pause>
+{END}
+
+<unk1><Cless>
+ <Mint>!
+ Stop eating that!
+<pause>
+{END}
+
+<Cless>
+ You look like you're going to faint!
+<pause>
+{END}
+
+<color_0002>You burned the recipe for
+<Arche>'s Masterpiece.<color_0000>
+<pause>
+{END}
+
+<Cless>
+ <Arche>!
+<pause>
+{END}
+
+<Cless>
+ Did you taste test that stuff at all
+ while you were making it?
+<pause>
+{END}
+
+<Arche>
+ Y-you mean people actually do that
+ kinda thing?<panic>{END}
+
+<Arche>
+ *munch* *munch*
+<pause>
+<Arche>
+ AGHHHHHHH!!!
+<pause>
+{END}
+
+<Arche>
+ What...*what* *have* *I* *done*!?
+<pause>
+{END}
+
+<Cless>
+ You tell *us*...
+<pause>
+{END}
+
+<Chester>
+ Muuuugh...!
+<pause>
+{END}
+
+<Chester>
+ Hey, <Arche>!
+<pause>
+{END}
+
+<Chester>
+ This rubbish ain't fit for humans!
+ Even pigs wouldn't eat this crap!
+<pause>
+<Chester>
+ You're the Worst. Chef. Ever.,
+ you hear me!?
+<pause>
+{END}
+
+<color_0002><Arche> has earned the
+disgraceful title “Worst. Chef. Ever.”<color_0000>{END}
+
+<Arche>
+ H-hmph!
+ I'll turn over this disgraceful title in
+ no time flat!
+<pause>
+{END}
+
+<Klarth>
+ Oh, and after all the effort we
+ took to “serve it up” for you?
+<pause>
+{END}
+
+<Klarth>
+ ...What, you didn't like that?
+<pause>
+{END}
+
+<Arche>
+ You're not allowed to make any
+ more jokes, mister.{END}
+

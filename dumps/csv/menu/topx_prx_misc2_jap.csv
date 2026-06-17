@@ -1,0 +1,227 @@
+"システム
+ＩＮＩＴＩＡＬＩＺＥを
+終了した{END}",D10{END}
+手に入れました。{END},was found.{END}
+"<volt1><volt2><volt3><volt4>ヴォルトの言葉<heart><sweat>、。<panic>、<ring>。<star>わ
+{END}",D20{END}
+"？？？
+<var_0100>
+<color_0001><var_0400>
+<color_0002><var_0201>
+<color_0003><var_8401>
+{END}",D30{END}
+<var_0002>＋<var_0202>で特技を使用。{END},D40{END}
+店{END},Shop{END}
+特技{END},Artes{END}
+装備{END},Equipment{END}
+アイテム{END},Items{END}
+作戦{END},Strategy{END}
+隊列{END},Formation{END}
+称号{END},Titles{END}
+料理{END},Cooking{END}
+ステータス{END},Status{END}
+カスタム{END},Customize{END}
+セーブ{END},Save{END}
+貴重品{END},Key Items{END}
+名前入力{END},Name Entry{END}
+コンティニュー{END},Load{END}
+ルーンボトル{END},Rune Bottle{END}
+ドラムセット{END},Drum Set{END}
+コレクター図鑑{END},Collector's Book{END}
+はい{END},Yes{END}
+いいえ{END},No{END}
+を捨てますか？{END},Discard %s?{END}
+誰に使用しますか？{END},Use on whom?{END}
+誰に装備しますか？{END},Equip on whom?{END}
+もうありません{END},Stock of consumable has been depleted.{END}
+"外すことは出来ません
+{END}","Cannot remove weapon.
+{END}"
+<Cless>が嫌がっています{END},<Cless> is hesitant to fight bare-handed.{END}
+を捨てますか？{END},Discard %s?{END}
+誰をいれかえますか？{END},Who will be replaced?{END}
+<Cless>と誰をいれかえますか？{END},Replace <Cless> with whom?{END}
+"斬り・突きの数値を総合的に判断し、最も
+優れていると思われる武器を装備します{END}","The most powerful balanced weapon will be chosen
+and equipped.{END}"
+斬り攻撃が最も優れた武器を装備します{END},"The weapon with the greatest Slash stat will be chosen
+and equipped.{END}"
+突き攻撃が最も優れた武器を装備します{END},"The weapon with the greatest Thrust stat will be chosen
+and equipped.{END}"
+<var_0102>で特技を使用できます{END},Use artes with <var_0102>.{END}
+"<var_0002>の各方向とＳＣに特技を設定します
+（ＳＣはショートカットの略、<var_0402>で解除）{END}","Assign artes to the desired <var_0002> inputs and SC (shortcut).
+Clear with <var_0402>.{END}"
+"<var_0302>で特技使用を禁止、または許可します
+<var_0402>でＳＣに登録、または解除します{END}","In the arte menu, press <var_0302> to toggle that arte on or off.
+Press <var_0402> to set that arte as a shortcut.{END}"
+ＡＤＪＵＳＴ　ＳＣＲＥＥＮ{END},ADJUST SCREEN POSITION{END}
+画面の位置を調整してください{END},Set position with the directional pad.{END}
+決定{END},Select{END}
+元にもどす{END},Undo{END}
+デフォルト{END},Default{END}
+ＴＰがたりません{END},Not enough TP.{END}
+"『マヒ・石化・戦闘不能』の
+ひかえメンバーをいれかえの
+対象にすることはできません{END}","Paralyzed, petrified or KOed allies
+cannot be swapped into the active party.{END}"
+ここでは使えません{END},That cannot be used here.{END}
+装備できるアイテムがありません{END},"You are not carrying anything (or anything else) that
+can be equipped in this slot.{END}"
+アイテムの所持数がいっぱいで外せません{END},"Your inventory is already stocked full of this item.
+You must discard or sell your excess supply before
+it can be removed.{END}"
+アイテムを装備していません{END},There is nothing to remove!{END}
+また、<var_0102>で特技を使用できます{END},Use artes with <var_0102>.{END}
+（ＳＣはショートカットの略）{END},{END}
+戦闘キーカスタマイズ{END},Battle Controls{END}
+攻撃／決定{END},Attack/Select{END}
+特技／キャンセル{END},Arte/Cancel{END}
+防御{END},Defend{END}
+メニュー{END},Open Menu{END}
+特技ショートカット１{END},Arte Shortcut 1{END}
+特技ショートカット２{END},Arte Shortcut 2{END}
+買う{END},Buy{END}
+売る{END},Sell{END}
+装備{END},Equip{END}
+店を出る{END},Exit{END}
+アイテムを選ぶ{END},Choose Item{END}
+数を増やす{END},Increase Quantity{END}
+数を減らす{END},Decrease Quantity{END}
+決定{END},Select{END}
+説明切り替え{END},Details{END}
+ガルドが足りません{END},You don't have enough gald.{END}
+これでよろしいですか？{END},Is this okay?{END}
+アイテムがいっぱいで買えません{END},You can't carry any more.{END}
+"売ることができるアイテムを
+持っていません{END}",You are not carrying any items of monetary value.{END}
+メニューを終了しますか？{END},Exit the menu?{END}
+これでよろしいですか？{END},Is this okay?{END}
+中断してよろしいですか？{END},"Now breaking, is this okay?{END}"
+セーブを終了しますか？{END},Finished saving?{END}
+"<color_0001>エンディングデータを保存します。
+セーブしたデータはストーリー開始
+時のデータになりますので御注意下
+さい。
+{END}","<color_0001>You can now create a clear data file. A clear data
+file unlocks the grade shop, which allows you to
+choose what to carry over into your new
+playthrough. It also fully unlocks the sound test.{END}"
+メモリーカード差込口１{END},Memory Card Slot 1{END}
+メモリーカード差込口２{END},Memory Card Slot 2{END}
+メモリーカード１{END},Memory Card 1{END}
+メモリーカード２{END},Memory Card 2{END}
+"メモリーカード差込口を
+選択してください{END}",Please choose a memory card slot.{END}
+"メモリーカードがフォーマット
+されていません{END}",Your memory card is not formatted.{END}
+"メモリーカードに空きブロックが
+ありません{END}",Your memory card is full.{END}
+"メモリーカードがありません
+{END}",No memory card detected.{END}
+"メモリーカードがフォーマット
+されていません
+フォーマットしますか？{END}","Your memory card is not formatted.
+Format it?{END}"
+"フォーマットしています
+メモリーカードを抜かないでください{END}","Now formatting...
+Please don't remove the memory card.{END}"
+フォーマットに失敗しました{END},Formatting failed.{END}
+"データをチェックしています
+メモリーカードを抜かないでください{END}","Checking data...
+Please don't remove the memory card.{END}"
+"『テイルズ　オブ　ファンタジア』の
+データがありません{END}",Tales of Phantasia data not found.{END}
+セーブしてよろしいですか？{END},Save data here?{END}
+"データをセーブしています
+メモリーカードを抜かないでください{END}","Now saving...
+Please don't remove the memory card.{END}"
+データをセーブしました{END},Data saved successfully.{END}
+データのセーブに失敗しました{END},Saving failed.{END}
+"メモリーカードの空きブロックが
+足りません{END}",Your memory card is full.{END}
+ロードしてよろしいですか？{END},Load this data?{END}
+"データをロードしています
+メモリーカードを抜かないでください{END}","Now loading...
+Please don't remove the memory card.{END}"
+データのロードに失敗しました{END},Loading failed.{END}
+データが破壊されています{END},The data is corrupted.{END}
+みんな、美人になりました{END},Everyone became beautiful.{END}
+みんな、魅力的になりました{END},Everyone became gorgeous.{END}
+みんな、とても素敵になりました{END},Everyone became lovely.{END}
+全身に聖気をまとったような気がする{END},A holy aura surrounds the party.{END}
+全身に邪気をまとったような気がする{END},An evil aura surrounds the party.{END}
+敵の出現率を選択してください{END},Please select desired enemy encounter rate.{END}
+<item_0100>に変化しました{END},Changed into <item_0100>.{END}
+"変化後のアイテムがいっぱいです
+（<item_0100>）{END}",Can't hold any more <item_0100>.{END}
+<item_0100>を点けました{END},<item_0100> has been lit.{END}
+<item_0100>を消しました{END},<item_0100>'s light was extinguished.{END}
+誰が調理しますか？{END},Who will prepare the recipe?{END}
+知らない料理です{END},You haven't learned that recipe.{END}
+食材が足りません{END},You don't have all the necessary ingredients.{END}
+食べたばかりで、お腹がいっぱいです{END},We just ate! Anything more would only fatten us up.{END}
+<Cless>は料理に失敗しました{END},<Cless> messed up...{END}
+さあ、今日からあなたもドラマーだ！！{END},"Now, you too can be a drummer!!{END}"
+バスドラム{END},Bass Drum{END}
+スネアドラム{END},Snare Drum{END}
+クローズハイハット{END},Closed Hi-hat{END}
+オープンハイハット{END},Open Hi-hat{END}
+ハイタム{END},High Tom{END}
+ロータム{END},Low Tom{END}
+シンバル（Ｌ）{END},Cymbal (left){END}
+シンバル（Ｒ）{END},Cymbal (right){END}
+ホイッスル{END},Whistle{END}
+ハンドクラップ{END},Hand Clap{END}
+不確定品{END},Unidentified{END}
+貴重品{END},Key Item{END}
+交易品{END},Trade{END}
+食料{END},Food{END}
+道具{END},Tool{END}
+薬{END},Medicine{END}
+壺・瓶{END},Bottle{END}
+剣<color_0000>／<color_0002>武器{END},Weapon: Sword{END}
+槍<color_0000>／<color_0002>武器{END},Weapon: Spear{END}
+斧<color_0000>／<color_0002>武器{END},Weapon: Axe{END}
+斧槍<color_0000>／<color_0002>武器{END},Weapon: Halberd{END}
+弓<color_0000>／<color_0002>武器{END},Weapon: Bow{END}
+杖<color_0000>／<color_0002>武器{END},Weapon: Rod{END}
+本<color_0000>／<color_0002>武器{END},Weapon: Grimoire{END}
+ホウキ<color_0000>／<color_0002>武器{END},Weapon: Broom{END}
+短剣<color_0000>／<color_0002>武器{END},Weapon: Ninja Blade{END}
+特殊剣<color_0000>／<color_0002>武器{END},Weapon: Special Sword{END}
+鎧<color_0000>／<color_0002>体{END},Body Armor: Armor{END}
+服<color_0000>／<color_0002>体{END},Body Armor: Clothing{END}
+楯<color_0000>／<color_0002>楯{END},Shield: Shield{END}
+兜<color_0000>／<color_0002>頭{END},Headgear: Helmet{END}
+帽子<color_0000>／<color_0002>頭{END},Headgear: Hat{END}
+リボン<color_0000>／<color_0002>頭{END},Headgear: Ribbon{END}
+篭手<color_0000>／<color_0002>腕{END},Handwear: Gauntlets{END}
+手袋<color_0000>／<color_0002>腕{END},Handwear: Gloves{END}
+お守り<color_0000>／<color_0002>その他{END},Accessory: Charm{END}
+ケープ<color_0000>／<color_0002>その他{END},Accessory: Cape{END}
+ブーツ<color_0000>／<color_0002>その他{END},Accessory: Boots{END}
+マント<color_0000>／<color_0002>その他{END},Accessory: Cape{END}
+召喚具<color_0000>／<color_0002>その他{END},Accessory: Pact Ring{END}
+指輪<color_0000>／<color_0002>その他{END},Accessory: Ring{END}
+人形<color_0000>／<color_0002>その他{END},Accessory: Doll{END}
+宝石<color_0000>／<color_0002>その他{END},Accessory: Gem{END}
+紋章<color_0000>／<color_0002>その他{END},Accessory: Symbol{END}
+装飾品<color_0000>／<color_0002>その他{END},Accessory: Special{END}
+収集品{END},Collectible{END}
+"新たに入手したアイテムを先頭に持って
+来ます{END}",Sort recently acquired items first.{END}
+"戦闘で使用できるアイテムを先頭に持って
+来ます{END}",Sort battle-consumable items first.{END}
+アイテムの種類別に並び替えします{END},Sort items by type.{END}
+"現在、使用できるアイテムを先頭に持って
+来ます{END}",Sort consumable items first.{END}
+あいうえお順に並び替えします{END},Sort items alphabetically.{END}
+武器を先頭に持って来ます{END},Sort weapons first.{END}
+体の装備品を先頭に持って来ます{END},Sort body armor first.{END}
+楯・頭・腕の装備品を先頭に持って来ます{END},"Sort shields, headgear, and handwear first.{END}"
+その他の装備品を先頭に持って来ます{END},Sort accessories first.{END}
+食料を先頭に持って来ます{END},Sort food first.{END}
+薬・壺・瓶を先頭に持って来ます{END},Sort recovery items first.{END}
+道具を先頭に持って来ます{END},Sort tools first.{END}
+{END},{END}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_742">
+        <source>Traveling with you guys is fun, y'know?</source>
+        <target state="translated">Traveling with you guys is fun, y'know?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_743">
+        <source>Don't get the wrong idea. This
+journey is not a leisurely activity.</source>
+        <target state="translated">Don't get the wrong idea. This
+journey is not a leisurely activity.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_744">
+        <source>Is something wrong? I don't think being a
+stick-in-the-mud is going to do us any good.</source>
+        <target state="translated">Is something wrong? I don't think being a
+stick-in-the-mud is going to do us any good.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_745">
+        <source>I agree.</source>
+        <target state="translated">I agree.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_746">
+        <source>Three against one! The young defeat the OLD!</source>
+        <target state="translated">Three against one! The young defeat the OLD!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_747">
+        <source>Wha!?</source>
+        <target state="translated">Wha!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_748">
+        <source>So you don't have to be
+such a humorless geezer, 'kay?</source>
+        <target state="translated">So you don't have to be
+such a humorless geezer, 'kay?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_749">
+        <source>Okay, fine. As you say.</source>
+        <target state="translated">Okay, fine. As you say.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_750">
+        <source>...If she weren't a mage,
+I'd mail her back to Daddy.</source>
+        <target state="translated">...If she weren't a mage,
+I'd mail her back to Daddy.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

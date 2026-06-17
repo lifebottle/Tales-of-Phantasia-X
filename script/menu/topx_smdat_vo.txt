@@ -1,0 +1,3998 @@
+Narration 1{END}
+
+Narration 2{END}
+
+Narration 3{END}
+
+Narration 4{END}
+
+Narration 5{END}
+
+Narration 6{END}
+
+Narration 7{END}
+
+Narration 8{END}
+
+Narration 9{END}
+
+Narration 10{END}
+
+Narration 11{END}
+
+Narration 12{END}
+
+Narration 13{END}
+
+Narration 14{END}
+
+Narration 15{END}
+
+Narration 16{END}
+
+Game Over 1{END}
+
+Game Over 2{END}
+
+Prologue/Morrison 1{END}
+
+Prologue/Morrison 2{END}
+
+Prologue/Morrison 3{END}
+
+Prologue/Morrison 4{END}
+
+Prologue/Morrison 5{END}
+
+Prologue/Morrison 6{END}
+
+Prologue/Morrison 7{END}
+
+Prologue/Dhaos 1{END}
+
+Prologue/Dhaos 2{END}
+
+Prologue/Dhaos 3{END}
+
+Prologue/Dhaos 4{END}
+
+Martel 1{END}
+
+Martel 2{END}
+
+Martel 3{END}
+
+<Chester>/Ami!{END}
+
+<Cless>/Dad!{END}
+
+<Cless>/Mom!{END}
+
+<Cless>/Waahhhhhhhhh!{END}
+
+<Cless>/Poisoned{END}
+
+Lenios/Flames, come forth!!{END}
+
+<Arche>/Hauu{END}
+
+<Arche>/Aiii{END}
+
+<Arche>/Don't do that{END}
+
+<Arche>/No touching allowed{END}
+
+<Arche>/Stop that{END}
+
+<Arche>/Idiot{END}
+
+<Arche>/Faai{END}
+
+Valkyrie 1{END}
+
+Valkyrie 2{END}
+
+<Mint>/Healing Event 1{END}
+
+<Mint>/Healing Event 2{END}
+
+<Mint>/Healing Event 3{END}
+
+<Mint>/Healing Event 4{END}
+
+<Mint>/Healing Event 5{END}
+
+<Mint>/Healing Event 6{END}
+
+<Mint>/Healing Event 7{END}
+
+<Suzu>/Igaguri-style{END}
+
+<Suzu>/Ninja Arte{END}
+
+<Suzu>/Igaguri-Style Ninja Arte{END}
+
+Dhaos/Event 1{END}
+
+Dhaos/Event 2{END}
+
+Dhaos/Event 3{END}
+
+Dhaos/Event 4{END}
+
+Dhaos/Event 5{END}
+
+Dhaos/Event 6{END}
+
+Dhaos/Event 7{END}
+
+Dhaos/Event 8{END}
+
+Dhaos/Event 9{END}
+
+Dhaos/Event 10{END}
+
+Dhaos/Event 11{END}
+
+Dhaos/Event 12{END}
+
+<Cless>/Cooking 1{END}
+
+<Cless>/Cooking 2{END}
+
+<Mint>/Cooking{END}
+
+<Arche>/Cooking 1{END}
+
+<Arche>/Cooking 2{END}
+
+<Klarth>/Cooking{END}
+
+<Chester>/Cooking{END}
+
+<Suzu>/Cooking{END}
+
+<Cless>/Shout A 1{END}
+
+<Cless>/Shout A 2{END}
+
+<Cless>/Shout A 3{END}
+
+<Cless>/Shout A 4{END}
+
+<Cless>/Shout A 5{END}
+
+<Cless>/Shout A 6{END}
+
+<Cless>/Shout A 7{END}
+
+<Cless>/Shout A 8{END}
+
+<Cless>/Shout A 9{END}
+
+<Cless>/Shout A 10{END}
+
+<Cless>/Shout A 11{END}
+
+<Cless>/Shout A 12{END}
+
+<Cless>/Shout A 13{END}
+
+<Cless>/Shout A 14{END}
+
+<Cless>/Shout A 15{END}
+
+<Cless>/Shout A 16{END}
+
+<Cless>/Shout A 17{END}
+
+<Cless>/Shout A 18{END}
+
+<Cless>/Shout A 19{END}
+
+<Cless>/Shout A 20{END}
+
+<Cless>/Shout A 21{END}
+
+<Cless>/Shout A 22{END}
+
+<Cless>/Shout B 1{END}
+
+<Cless>/Shout B 2{END}
+
+<Cless>/Shout B 3{END}
+
+<Cless>/Shout B 4{END}
+
+<Cless>/Shout B 5{END}
+
+<Cless>/Shout B 6{END}
+
+<Cless>/Shout B 7{END}
+
+<Cless>/Shout B 8{END}
+
+<Cless>/Shout B 9{END}
+
+<Cless>/Shout B 10{END}
+
+<Cless>/Shout B 11{END}
+
+<Cless>/Command 1{END}
+
+<Cless>/Command 2{END}
+
+<Cless>/Command 3{END}
+
+<Cless>/Command 4{END}
+
+<Cless>/Command 5{END}
+
+<Cless>/Command 6{END}
+
+<Cless>/Command 7{END}
+
+<Cless>/Victory 1{END}
+
+<Cless>/Victory 2{END}
+
+<Cless>/Victory 3{END}
+
+<Cless>/Victory 4{END}
+
+<Cless>/Victory 5{END}
+
+<Cless>/Victory 6{END}
+
+<Cless>/Victory 7{END}
+
+<Cless>/Victory 8{END}
+
+<Cless>/Victory 9{END}
+
+<Cless>/Victory 10{END}
+
+<Cless>/Victory 11{END}
+
+<Cless>/Victory 12{END}
+
+<Cless>/Victory 13{END}
+
+<Cless>/Victory 14{END}
+
+<Cless>/Victory 15{END}
+
+<Cless>/Victory 16{END}
+
+<Cless>/Shortcut 1{END}
+
+<Cless>/Shortcut 2{END}
+
+<Cless>/Shortcut 3{END}
+
+<Cless>/Injury 1{END}
+
+<Cless>/Injury 2{END}
+
+<Cless>/Injury 3{END}
+
+<Cless>/Injury 4{END}
+
+<Cless>/Injury 5{END}
+
+<Cless>/Injury 6{END}
+
+<Cless>/Injury 7{END}
+
+<Cless>/Injury 8{END}
+
+<Cless>/Injury 9{END}
+
+<Cless>/Injury 10{END}
+
+<Cless>/Injury 11{END}
+
+<Cless>/Injury 12{END}
+
+<Cless>/Base Arte 1{END}
+
+<Cless>/Base Arte 2{END}
+
+<Cless>/Base Arte 3{END}
+
+<Cless>/Base Arte 4{END}
+
+<Cless>/Base Arte 5{END}
+
+<Cless>/Base Arte 6{END}
+
+<Cless>/Base Arte 7{END}
+
+<Cless>/Base Arte 8{END}
+
+<Cless>/Base Arte 9{END}
+
+<Cless>/Base Arte 10{END}
+
+<Cless>/Base Arte 11{END}
+
+<Cless>/Base Arte 12{END}
+
+<Cless>/Base Arte 13{END}
+
+<Cless>/Base Arte 14{END}
+
+<Cless>/Base Arte 15{END}
+
+<Cless>/Base Arte 16{END}
+
+<Cless>/Base Arte 17{END}
+
+<Cless>/Base Arte 18{END}
+
+<Cless>/Base Arte 19{END}
+
+<Cless>/Arcane Arte 1{END}
+
+<Cless>/Arcane Arte 2{END}
+
+<Cless>/Arcane Arte 3{END}
+
+<Cless>/Arcane Arte 4{END}
+
+<Cless>/Arcane Arte 5{END}
+
+<Cless>/Arcane Arte 6{END}
+
+<Cless>/Arcane Arte 7{END}
+
+<Cless>/Arcane Arte 8{END}
+
+<Cless>/Arcane Arte 9{END}
+
+<Cless>/Arcane Arte 10{END}
+
+<Cless>/Arcane Arte 11{END}
+
+<Cless>/Arcane Arte 12{END}
+
+<Cless>/Arcane Arte 13{END}
+
+<Cless>/Arcane Arte 14{END}
+
+<Cless>/Arcane Arte 15{END}
+
+<Cless>/Arcane Arte 16{END}
+
+<Cless>/Arcane Arte 17{END}
+
+<Cless>/Arcane Arte 18{END}
+
+<Cless>/Arcane Arte 19{END}
+
+<Cless>/Arcane Arte 20{END}
+
+<Cless>/Arcane Arte 21{END}
+
+<Cless>/Arcane Arte 22{END}
+
+<Cless>/Arcane Arte 23{END}
+
+<Cless>/Arcane Arte 24{END}
+
+<Cless>/Arcane Arte 25{END}
+
+<Cless>/Arcane Arte 26{END}
+
+<Cless>/Arcane Arte 27{END}
+
+<Cless>/Arcane Arte 28{END}
+
+<Cless>/Arcane Arte 29{END}
+
+<Cless>/Arcane Arte 30{END}
+
+<Cless>/Arcane Arte 31{END}
+
+<Cless>/Arcane Arte 32{END}
+
+<Cless>/Arcane Arte 33{END}
+
+<Cless>/Arcane Arte 34{END}
+
+<Cless>/Arcane Arte 35{END}
+
+<Cless>/Arcane Arte 36{END}
+
+<Mint>/Shout A 1{END}
+
+<Mint>/Shout A 2{END}
+
+<Mint>/Shout A 3{END}
+
+<Mint>/Shout A 4{END}
+
+<Mint>/Shout A 5{END}
+
+<Mint>/Shout A 6{END}
+
+<Mint>/Shout A 7{END}
+
+<Mint>/Shout A 8{END}
+
+<Mint>/Shout A 9{END}
+
+<Mint>/Shout B 1{END}
+
+<Mint>/Shout B 2{END}
+
+<Mint>/Shout B 3{END}
+
+<Mint>/Shout B 4{END}
+
+<Mint>/Command 1{END}
+
+<Mint>/Command 2{END}
+
+<Mint>/Command 3{END}
+
+<Mint>/Command 4{END}
+
+<Mint>/Command 5{END}
+
+<Mint>/Command 6{END}
+
+<Mint>/Command 7{END}
+
+<Mint>/Victory 1{END}
+
+<Mint>/Victory 2{END}
+
+<Mint>/Victory 3{END}
+
+<Mint>/Victory 4{END}
+
+<Mint>/Victory 5{END}
+
+<Mint>/Mistake 1{END}
+
+<Mint>/Mistake 2{END}
+
+<Mint>/Mistake 3{END}
+
+<Mint>/Shortcut 1{END}
+
+<Mint>/Shortcut 2{END}
+
+<Mint>/Shortcut 3{END}
+
+<Mint>/Injury 1{END}
+
+<Mint>/Injury 2{END}
+
+<Mint>/Injury 3{END}
+
+<Mint>/Injury 4{END}
+
+<Mint>/Injury 5{END}
+
+<Mint>/Injury 6{END}
+
+<Mint>/Injury 7{END}
+
+<Mint>/Injury 8{END}
+
+<Mint>/Injury 9{END}
+
+<Mint>/Injury 10{END}
+
+<Mint>/Injury 11{END}
+
+<Mint>/Injury 12{END}
+
+<Mint>/Injury 13{END}
+
+<Mint>/Injury 14{END}
+
+<Mint>/Clerical Arte 1{END}
+
+<Mint>/Clerical Arte 2{END}
+
+<Mint>/Clerical Arte 3{END}
+
+<Mint>/Clerical Arte 4{END}
+
+<Mint>/Clerical Arte 5{END}
+
+<Mint>/Clerical Arte 6{END}
+
+<Mint>/Clerical Arte 7{END}
+
+<Mint>/Clerical Arte 8{END}
+
+<Mint>/Clerical Arte 9{END}
+
+<Mint>/Clerical Arte 10{END}
+
+<Mint>/Clerical Arte 11{END}
+
+<Mint>/Clerical Arte 12{END}
+
+<Mint>/Clerical Arte 13{END}
+
+<Mint>/Clerical Arte 14{END}
+
+<Mint>/Clerical Arte 15{END}
+
+<Mint>/Clerical Arte 16{END}
+
+<Mint>/Clerical Arte 17{END}
+
+<Mint>/Clerical Arte 18{END}
+
+<Mint>/Clerical Arte 19{END}
+
+<Mint>/Clerical Arte 20{END}
+
+<Mint>/Clerical Arte 21{END}
+
+<Arche>/Shout A 1{END}
+
+<Arche>/Shout A 2{END}
+
+<Arche>/Shout A 3{END}
+
+<Arche>/Shout A 4{END}
+
+<Arche>/Shout A 5{END}
+
+<Arche>/Shout A 6{END}
+
+<Arche>/Shout A 7{END}
+
+<Arche>/Shout A 8{END}
+
+<Arche>/Shout A 9{END}
+
+<Arche>/Shout A 10{END}
+
+<Arche>/Shout A 11{END}
+
+<Arche>/Shout B 1{END}
+
+<Arche>/Shout B 2{END}
+
+<Arche>/Shout B 3{END}
+
+<Arche>/Shout B 4{END}
+
+<Arche>/Shout B 5{END}
+
+<Arche>/Shout B 6{END}
+
+<Arche>/Shout B 7{END}
+
+<Arche>/Shout B 8{END}
+
+<Arche>/Shout B 9{END}
+
+<Arche>/Command 1{END}
+
+<Arche>/Command 2{END}
+
+<Arche>/Command 3{END}
+
+<Arche>/Command 4{END}
+
+<Arche>/Command 5{END}
+
+<Arche>/Command 6{END}
+
+<Arche>/Command 7{END}
+
+<Arche>/Victory 1{END}
+
+<Arche>/Victory 2{END}
+
+<Arche>/Victory 3{END}
+
+<Arche>/Victory 4{END}
+
+<Arche>/Victory 5{END}
+
+<Arche>/Victory 6{END}
+
+<Arche>/Victory 7{END}
+
+<Arche>/Mistake 1{END}
+
+<Arche>/Mistake 2{END}
+
+<Arche>/Mistake 3{END}
+
+<Arche>/Mistake 4{END}
+
+<Arche>/Mistake 5{END}
+
+<Arche>/Mistake 6{END}
+
+<Arche>/Shortcut 1{END}
+
+<Arche>/Shortcut 2{END}
+
+<Arche>/Shortcut 3{END}
+
+<Arche>/Shortcut 4{END}
+
+<Arche>/Injury 1{END}
+
+<Arche>/Injury 2{END}
+
+<Arche>/Injury 3{END}
+
+<Arche>/Injury 4{END}
+
+<Arche>/Injury 5{END}
+
+<Arche>/Injury 6{END}
+
+<Arche>/Injury 7{END}
+
+<Arche>/Injury 8{END}
+
+<Arche>/Injury 9{END}
+
+<Arche>/Injury 10{END}
+
+<Arche>/Injury 11{END}
+
+<Arche>/Injury 12{END}
+
+<Arche>/Injury 13{END}
+
+<Arche>/Injury 14{END}
+
+<Arche>/Injury 15{END}
+
+<Arche>/Injury 16{END}
+
+<Arche>/Injury 17{END}
+
+<Arche>/Injury 18{END}
+
+<Arche>/Injury 19{END}
+
+<Arche>/Spell 1{END}
+
+<Arche>/Spell 2{END}
+
+<Arche>/Spell 3{END}
+
+<Arche>/Spell 4{END}
+
+<Arche>/Spell 5{END}
+
+<Arche>/Spell 6{END}
+
+<Arche>/Spell 7{END}
+
+<Arche>/Spell 8{END}
+
+<Arche>/Spell 9{END}
+
+<Arche>/Spell 10{END}
+
+<Arche>/Spell 11{END}
+
+<Arche>/Spell 12{END}
+
+<Arche>/Spell 13{END}
+
+<Arche>/Spell 14{END}
+
+<Arche>/Spell 15{END}
+
+<Arche>/Spell 16{END}
+
+<Arche>/Spell 17{END}
+
+<Arche>/Spell 18{END}
+
+<Arche>/Spell 19{END}
+
+<Arche>/Spell 20{END}
+
+<Arche>/Spell 21{END}
+
+<Arche>/Spell 22{END}
+
+<Arche>/Spell 23{END}
+
+<Arche>/Spell 24{END}
+
+<Klarth>/Shout A 1{END}
+
+<Klarth>/Shout A 2{END}
+
+<Klarth>/Shout A 3{END}
+
+<Klarth>/Shout A 4{END}
+
+<Klarth>/Shout A 5{END}
+
+<Klarth>/Shout A 6{END}
+
+<Klarth>/Shout A 7{END}
+
+<Klarth>/Shout A 8{END}
+
+<Klarth>/Shout A 9{END}
+
+<Klarth>/Shout A 10{END}
+
+<Klarth>/Shout A 11{END}
+
+<Klarth>/Shout A 12{END}
+
+<Klarth>/Shout A 13{END}
+
+<Klarth>/Shout A 14{END}
+
+<Klarth>/Shout A 15{END}
+
+<Klarth>/Shout A 16{END}
+
+<Klarth>/Shout A 17{END}
+
+<Klarth>/Shout A 18{END}
+
+<Klarth>/Shout A 19{END}
+
+<Klarth>/Shout A 20{END}
+
+<Klarth>/Shout A 21{END}
+
+<Klarth>/Shout B 1{END}
+
+<Klarth>/Shout B 2{END}
+
+<Klarth>/Shout B 3{END}
+
+<Klarth>/Shout B 4{END}
+
+<Klarth>/Shout B 5{END}
+
+<Klarth>/Shout B 6{END}
+
+<Klarth>/Shout B 7{END}
+
+<Klarth>/Shout B 8{END}
+
+<Klarth>/Shout B 9{END}
+
+<Klarth>/Shout B 10{END}
+
+<Klarth>/Shout B 11{END}
+
+<Klarth>/Command 1{END}
+
+<Klarth>/Command 2{END}
+
+<Klarth>/Command 3{END}
+
+<Klarth>/Command 4{END}
+
+<Klarth>/Command 5{END}
+
+<Klarth>/Command 6{END}
+
+<Klarth>/Command 7{END}
+
+<Klarth>/Victory 1{END}
+
+<Klarth>/Victory 2{END}
+
+<Klarth>/Victory 3{END}
+
+<Klarth>/Victory 4{END}
+
+<Klarth>/Victory 5{END}
+
+<Klarth>/Victory 6{END}
+
+<Klarth>/Shortcut 1{END}
+
+<Klarth>/Shortcut 2{END}
+
+<Klarth>/Shortcut 3{END}
+
+<Klarth>/Mistake 1{END}
+
+<Klarth>/Mistake 2{END}
+
+<Klarth>/Mistake 3{END}
+
+<Klarth>/Injury 1{END}
+
+<Klarth>/Injury 2{END}
+
+<Klarth>/Injury 3{END}
+
+<Klarth>/Injury 4{END}
+
+<Klarth>/Injury 5{END}
+
+<Klarth>/Injury 6{END}
+
+<Klarth>/Injury 7{END}
+
+<Klarth>/Injury 8{END}
+
+<Klarth>/Injury 9{END}
+
+<Klarth>/Injury 10{END}
+
+<Klarth>/Injury 11{END}
+
+<Klarth>/Injury 12{END}
+
+<Klarth>/Injury 13{END}
+
+<Klarth>/Injury 14{END}
+
+<Klarth>/Injury 15{END}
+
+<Klarth>/Summon 1{END}
+
+<Klarth>/Summon 2{END}
+
+<Klarth>/Summon 3{END}
+
+<Klarth>/Summon 4{END}
+
+<Klarth>/Summon 5{END}
+
+<Klarth>/Summon 6{END}
+
+<Klarth>/Summon 7{END}
+
+<Klarth>/Summon 8{END}
+
+<Klarth>/Summon 9{END}
+
+<Klarth>/Summon 10{END}
+
+<Klarth>/Summon 11{END}
+
+<Klarth>/Summon 12{END}
+
+<Chester>/Shout A 1{END}
+
+<Chester>/Shout A 2{END}
+
+<Chester>/Shout A 3{END}
+
+<Chester>/Shout A 4{END}
+
+<Chester>/Shout A 5{END}
+
+<Chester>/Shout A 6{END}
+
+<Chester>/Shout A 7{END}
+
+<Chester>/Shout A 8{END}
+
+<Chester>/Shout A 9{END}
+
+<Chester>/Shout A 10{END}
+
+<Chester>/Shout A 11{END}
+
+<Chester>/Shout A 12{END}
+
+<Chester>/Shout A 13{END}
+
+<Chester>/Shout A 14{END}
+
+<Chester>/Shout A 15{END}
+
+<Chester>/Shout A 16{END}
+
+<Chester>/Shout A 17{END}
+
+<Chester>/Shout A 18{END}
+
+<Chester>/Shout A 19{END}
+
+<Chester>/Shout A 20{END}
+
+<Chester>/Shout A 21{END}
+
+<Chester>/Shout A 22{END}
+
+<Chester>/Shout B 1{END}
+
+<Chester>/Shout B 2{END}
+
+<Chester>/Shout B 3{END}
+
+<Chester>/Shout B 4{END}
+
+<Chester>/Shout B 5{END}
+
+<Chester>/Shout B 6{END}
+
+<Chester>/Shout B 7{END}
+
+<Chester>/Shout B 8{END}
+
+<Chester>/Shout B 9{END}
+
+<Chester>/Shout B 10{END}
+
+<Chester>/Shout B 11{END}
+
+<Chester>/Shout B 12{END}
+
+<Chester>/Shout B 13{END}
+
+<Chester>/Shout B 14{END}
+
+<Chester>/Shout B 15{END}
+
+<Chester>/Shout B 16{END}
+
+<Chester>/Shout B 17{END}
+
+<Chester>/Shout B 18{END}
+
+<Chester>/Shout B 19{END}
+
+<Chester>/Shout B 20{END}
+
+<Chester>/Shout B 21{END}
+
+<Chester>/Command 1{END}
+
+<Chester>/Command 2{END}
+
+<Chester>/Command 3{END}
+
+<Chester>/Command 4{END}
+
+<Chester>/Command 5{END}
+
+<Chester>/Command 6{END}
+
+<Chester>/Command 7{END}
+
+<Chester>/Victory 1{END}
+
+<Chester>/Victory 2{END}
+
+<Chester>/Victory 3{END}
+
+<Chester>/Victory 4{END}
+
+<Chester>/Victory 5{END}
+
+<Chester>/Shortcut 1{END}
+
+<Chester>/Shortcut 2{END}
+
+<Chester>/Shortcut 3{END}
+
+<Chester>/Injury 1{END}
+
+<Chester>/Injury 2{END}
+
+<Chester>/Injury 3{END}
+
+<Chester>/Injury 4{END}
+
+<Chester>/Injury 5{END}
+
+<Chester>/Injury 6{END}
+
+<Chester>/Injury 7{END}
+
+<Chester>/Injury 8{END}
+
+<Chester>/Injury 9{END}
+
+<Chester>/Injury 10{END}
+
+<Chester>/Injury 11{END}
+
+<Chester>/Injury 12{END}
+
+<Chester>/Injury 13{END}
+
+<Chester>/Injury 14{END}
+
+<Chester>/Injury 15{END}
+
+<Chester>/Arte 1{END}
+
+<Chester>/Arte 2{END}
+
+<Chester>/Arte 3{END}
+
+<Chester>/Arte 4{END}
+
+<Chester>/Arte 5{END}
+
+<Chester>/Arte 6{END}
+
+<Chester>/Arte 7{END}
+
+<Chester>/Arte 8{END}
+
+<Chester>/Arte 9{END}
+
+<Chester>/Arte 10{END}
+
+<Chester>/Arte 11{END}
+
+<Chester>/Arte 12{END}
+
+<Chester>/Arte 13{END}
+
+<Chester>/Arte 14{END}
+
+<Suzu>/Shout A 1{END}
+
+<Suzu>/Shout A 2{END}
+
+<Suzu>/Shout A 3{END}
+
+<Suzu>/Shout A 4{END}
+
+<Suzu>/Shout A 5{END}
+
+<Suzu>/Shout A 6{END}
+
+<Suzu>/Shout A 7{END}
+
+<Suzu>/Shout A 8{END}
+
+<Suzu>/Shout A 9{END}
+
+<Suzu>/Shout A 10{END}
+
+<Suzu>/Shout A 11{END}
+
+<Suzu>/Shout A 12{END}
+
+<Suzu>/Shout A 13{END}
+
+<Suzu>/Shout A 14{END}
+
+<Suzu>/Shout A 15{END}
+
+<Suzu>/Shout A 16{END}
+
+<Suzu>/Shout A 17{END}
+
+<Suzu>/Shout A 18{END}
+
+<Suzu>/Shout A 19{END}
+
+<Suzu>/Shout A 20{END}
+
+<Suzu>/Shout B1{END}
+
+<Suzu>/Shout B2{END}
+
+<Suzu>/Shout B3{END}
+
+<Suzu>/Shout B4{END}
+
+<Suzu>/Shout B5{END}
+
+<Suzu>/Shout B6{END}
+
+<Suzu>/Shout B7{END}
+
+<Suzu>/Shout B8{END}
+
+<Suzu>/Shout B9{END}
+
+<Suzu>/Shout B10{END}
+
+<Suzu>/Shout B11{END}
+
+<Suzu>/Shout B12{END}
+
+<Suzu>/Command 1{END}
+
+<Suzu>/Command 2{END}
+
+<Suzu>/Command 3{END}
+
+<Suzu>/Command 4{END}
+
+<Suzu>/Command 5{END}
+
+<Suzu>/Command 6{END}
+
+<Suzu>/Command 7{END}
+
+<Suzu>/Victory 1{END}
+
+<Suzu>/Victory 2{END}
+
+<Suzu>/Victory 3{END}
+
+<Suzu>/Victory 4{END}
+
+<Suzu>/Victory 5{END}
+
+<Suzu>/Victory 6{END}
+
+<Suzu>/Shortcut 1{END}
+
+<Suzu>/Shortcut 2{END}
+
+<Suzu>/Shortcut 3{END}
+
+<Suzu>/Injury 1{END}
+
+<Suzu>/Injury 2{END}
+
+<Suzu>/Injury 3{END}
+
+<Suzu>/Injury 4{END}
+
+<Suzu>/Injury 5{END}
+
+<Suzu>/Injury 6{END}
+
+<Suzu>/Injury 7{END}
+
+<Suzu>/Injury 8{END}
+
+<Suzu>/Injury 9{END}
+
+<Suzu>/Injury 10{END}
+
+<Suzu>/Injury 11{END}
+
+<Suzu>/Injury 12{END}
+
+<Suzu>/Injury 13{END}
+
+<Suzu>/Injury 14{END}
+
+<Suzu>/Injury 15{END}
+
+<Suzu>/Ninjutsu 1{END}
+
+<Suzu>/Ninjutsu 2{END}
+
+<Suzu>/Ninjutsu 3{END}
+
+<Suzu>/Ninjutsu 4{END}
+
+<Suzu>/Ninjutsu 5{END}
+
+<Suzu>/Ninjutsu 6{END}
+
+<Suzu>/Ninjutsu 7{END}
+
+<Suzu>/Ninjutsu 8{END}
+
+<Suzu>/Ninjutsu 9{END}
+
+<Suzu>/Ninjutsu 10{END}
+
+<Suzu>/Ninjutsu 11{END}
+
+<Suzu>/Ninjutsu 12{END}
+
+<Suzu>/Ninjutsu 13{END}
+
+<Suzu>/Ninjutsu 14{END}
+
+<Suzu>/Ninjutsu 15{END}
+
+<Suzu>/Ninjutsu 16{END}
+
+<Suzu>/Ninjutsu 17{END}
+
+<Suzu>/Ninjutsu 18{END}
+
+<Suzu>/Ninjutsu 19{END}
+
+<Suzu>/Ninjutsu 20{END}
+
+<Suzu>/Ninjutsu 21{END}
+
+<Suzu>/Ninjutsu 22{END}
+
+<Suzu>/Ninjutsu 23{END}
+
+<Suzu>/Ninjutsu 24{END}
+
+<Suzu>/Ninjutsu 25{END}
+
+<Suzu>/Ninjutsu 26{END}
+
+<Suzu>/Ninjutsu 27{END}
+
+<Suzu>/Ninjutsu 28{END}
+
+Dhaos/Shout A 1{END}
+
+Dhaos/Shout A 2{END}
+
+Dhaos/Shout A 3{END}
+
+Dhaos/Shout A 4{END}
+
+Dhaos/Shout A 5{END}
+
+Dhaos/Shout A 6{END}
+
+Dhaos/Shout A 7{END}
+
+Dhaos/Shout A 8{END}
+
+Dhaos/Shout A 9{END}
+
+Dhaos/Shout A 10{END}
+
+Dhaos/Shout A 11{END}
+
+Dhaos/Shout A 12{END}
+
+Dhaos/Shout A 13{END}
+
+Dhaos/Shout A 14{END}
+
+Dhaos/Shout A 15{END}
+
+Dhaos/Shout A 16{END}
+
+Dhaos/Shout A 17{END}
+
+Dhaos/Shout B 1{END}
+
+Dhaos/Shout B 2{END}
+
+Dhaos/Shout B 3{END}
+
+Dhaos/Shout B 4{END}
+
+Dhaos/Shout B 5{END}
+
+Dhaos/Shout B 6{END}
+
+Dhaos/Shout B 7{END}
+
+Dhaos/Shout B 8{END}
+
+Dhaos/Shout B 9{END}
+
+Dhaos/Shout B 10{END}
+
+Dhaos/Shout B 11{END}
+
+Dhaos/Victory 1{END}
+
+Dhaos/Victory 2{END}
+
+Dhaos/Victory 3{END}
+
+Dhaos/Injury 1{END}
+
+Dhaos/Injury 2{END}
+
+Dhaos/Injury 3{END}
+
+Dhaos/Injury 4{END}
+
+Dhaos/Injury 5{END}
+
+Dhaos/Injury 6{END}
+
+Dhaos/Injury 7{END}
+
+Dhaos/Injury 8{END}
+
+Dhaos/Injury 9{END}
+
+Dhaos/Injury 10{END}
+
+Dhaos/Injury 11{END}
+
+Dhaos/Injury 12{END}
+
+Dhaos/Injury 13{END}
+
+Dhaos/Injury 14{END}
+
+Dhaos/Injury 15{END}
+
+Dhaos/Arte 1{END}
+
+Dhaos/Arte 2{END}
+
+Dhaos/Arte 3{END}
+
+Dhaos/Arte 4{END}
+
+Dhaos/Arte 5{END}
+
+Dhaos/Arte 6{END}
+
+Dhaos/Arte 7{END}
+
+Dhaos/Arte 8{END}
+
+Dhaos/Arte 9{END}
+
+Dhaos/Spell 1{END}
+
+Dhaos/Spell 2{END}
+
+Dhaos/Spell 3{END}
+
+Dhaos/Spell 4{END}
+
+Dhaos/Spell 5{END}
+
+Dhaos/Spell 6{END}
+
+Dhaos/Spell 7{END}
+
+Dhaos/Spell 8{END}
+
+Dhaos/Spell 9{END}
+
+Dhaos/Spell 10{END}
+
+Dhaos/Spell 11{END}
+
+Dhaos/Spell 12{END}
+
+Dhaos/Spell 13{END}
+
+Dhaos/Spell 14{END}
+
+Dhaos/Spell 15{END}
+
+Dhaos/Spell 16{END}
+
+Dhaos/Spell 17{END}
+
+Dhaos/Spell 18{END}
+
+Dhaos/Spell 19{END}
+
+Dhaos/Spell 20{END}
+
+Dhaos/Spell 21{END}
+
+Dhaos/Spell 22{END}
+
+Dhaos/Spell 23{END}
+
+Dhaos/Spell 24{END}
+
+Dhaos/Spell 25{END}
+
+Dhaos/Spell 26{END}
+
+Dhaos/Spell 27{END}
+
+Dhaos/Spell 28{END}
+
+Dhaos/Spell 29{END}
+
+Dhaos/Spell 30{END}
+
+Dhaos/Spell 31{END}
+
+Dhaos/Spell 32{END}
+
+Dhaos/Spell 33{END}
+
+Dhaos/Spell 34{END}
+
+Dhaos/Spell 35{END}
+
+Dhaos/Spell 36{END}
+
+Dhaos/Spell 37{END}
+
+Dhaos/Spell 38{END}
+
+Dhaos/Spell 39{END}
+
+Dhaos/Spell 40{END}
+
+Dhaos/Spell 41{END}
+
+Dhaos/Spell 42{END}
+
+Dhaos/Spell 43{END}
+
+Dhaos/Spell 44{END}
+
+Dhaos/Spell 45{END}
+
+Demeter/Shout A 1{END}
+
+Demeter/Shout A 2{END}
+
+Demeter/Shout A 3{END}
+
+Demeter/Shout A 4{END}
+
+Demeter/Shout A 5{END}
+
+Demeter/Shout A 6{END}
+
+Demeter/Shout A 7{END}
+
+Demeter/Shout A 8{END}
+
+Demeter/Shout A 9{END}
+
+Demeter/Shout A 10{END}
+
+Demeter/Shout A 11{END}
+
+Demeter/Shout A 12{END}
+
+Demeter/Shout A 13{END}
+
+Demeter/Shout A 14{END}
+
+Demeter/Shout A 15{END}
+
+Demeter/Shout A 16{END}
+
+Demeter/Shout A 17{END}
+
+Demeter/Shout A 18{END}
+
+Demeter/Shout B 1{END}
+
+Demeter/Shout B 2{END}
+
+Demeter/Shout B 3{END}
+
+Demeter/Shout B 4{END}
+
+Demeter/Shout B 5{END}
+
+Demeter/Shout B 6{END}
+
+Demeter/Shriek 1{END}
+
+Demeter/Shriek 2{END}
+
+Demeter/Shriek 3{END}
+
+Demeter/Shriek 4{END}
+
+Demeter/Shriek 5{END}
+
+Demeter/Shriek 6{END}
+
+Demeter/Shriek 7{END}
+
+Demeter/Shriek 8{END}
+
+Demeter/Shriek 9{END}
+
+Demeter/Shriek 10{END}
+
+Demeter/Shriek 11{END}
+
+Demeter/Shriek 12{END}
+
+Demeter/Shriek 13{END}
+
+Jahmir/Shout A 1{END}
+
+Jahmir/Shout A 2{END}
+
+Jahmir/Shout A 3{END}
+
+Jahmir/Shout A 4{END}
+
+Jahmir/Shout A 5{END}
+
+Jahmir/Shout A 6{END}
+
+Jahmir/Shout A 7{END}
+
+Jahmir/Shout A 8{END}
+
+Jahmir/Shout A 9{END}
+
+Jahmir/Shout A 10{END}
+
+Jahmir/Shout B 1{END}
+
+Jahmir/Shout B 2{END}
+
+Jahmir/Shout B 3{END}
+
+Jahmir/Shout B 4{END}
+
+Jahmir/Shout B 5{END}
+
+Jahmir/Shout B 6{END}
+
+Jahmir/Shout B 7{END}
+
+Jahmir/Laugh 1{END}
+
+Jahmir/Spell 1{END}
+
+Jahmir/Spell 2{END}
+
+Jahmir/Spell 3{END}
+
+Jahmir/Spell 4{END}
+
+Jahmir/Spell 5{END}
+
+Jahmir/Spell 6{END}
+
+Jahmir/Spell 7{END}
+
+Jahmir/Spell 8{END}
+
+Jahmir/Spell 9{END}
+
+Jahmir/Spell 10{END}
+
+Jahmir/Spell 11{END}
+
+Jahmir/Shriek 1{END}
+
+Jahmir/Shriek 2{END}
+
+Jahmir/Shriek 3{END}
+
+Jahmir/Shriek 4{END}
+
+Jahmir/Shriek 5{END}
+
+Jahmir/Shriek 6{END}
+
+Jahmir/Shriek 7{END}
+
+Jahmir/Shriek 8{END}
+
+Efreet/Shout A 1{END}
+
+Efreet/Shout A 2{END}
+
+Efreet/Shout A 3{END}
+
+Efreet/Shout A 4{END}
+
+Efreet/Shout A 5{END}
+
+Efreet/Shout A 6{END}
+
+Efreet/Shout A 7{END}
+
+Efreet/Shout A 8{END}
+
+Efreet/Shout A 9{END}
+
+Efreet/Shout A10{END}
+
+Efreet/Shout B 1{END}
+
+Efreet/Shout B 2{END}
+
+Efreet/Shout B 3{END}
+
+Efreet/Shout B 4{END}
+
+Efreet/Shout B 5{END}
+
+Efreet/Shout B 6{END}
+
+Efreet/Arte 1{END}
+
+Efreet/Arte 2{END}
+
+Efreet/Arte 3{END}
+
+Efreet/Arte 4{END}
+
+Efreet/Arte 5{END}
+
+Efreet/Arte 6{END}
+
+Efreet/Arte 7{END}
+
+Efreet/Shriek 1{END}
+
+Efreet/Shriek 2{END}
+
+Efreet/Shriek 3{END}
+
+Efreet/Shriek 4{END}
+
+Efreet/Shriek 5{END}
+
+Efreet/Shriek 6{END}
+
+Efreet/Shriek 7{END}
+
+Efreet/Shriek 8{END}
+
+Undine/Shout A 1{END}
+
+Undine/Shout A 2{END}
+
+Undine/Shout A 3{END}
+
+Undine/Shout A 4{END}
+
+Undine/Shout A 5{END}
+
+Undine/Shout A 6{END}
+
+Undine/Shout A 7{END}
+
+Undine/Shout A 8{END}
+
+Undine/Shout A 9{END}
+
+Undine/Shout A10{END}
+
+Undine/Shout B 1{END}
+
+Undine/Shout B 2{END}
+
+Undine/Shout B 3{END}
+
+Undine/Shout B 4{END}
+
+Undine/Shout B 5{END}
+
+Undine/Shout B 6{END}
+
+Undine/Shout B 7{END}
+
+Undine/Shout B 8{END}
+
+Undine/Shout B 9{END}
+
+Undine/Arte 1{END}
+
+Undine/Arte 2{END}
+
+Undine/Arte 3{END}
+
+Undine/Arte 4{END}
+
+Undine/Arte 5{END}
+
+Undine/Arte 6{END}
+
+Undine/Shriek 1{END}
+
+Undine/Shriek 2{END}
+
+Undine/Shriek 3{END}
+
+Undine/Shriek 4{END}
+
+Undine/Shriek 5{END}
+
+Undine/Shriek 6{END}
+
+Undine/Shriek 7{END}
+
+Undine/Shriek 8{END}
+
+Undine/Shriek 9{END}
+
+Undine/Shriek 10{END}
+
+Undine/Shriek 11{END}
+
+Undine/Shriek 12{END}
+
+Undine/Shriek 13{END}
+
+Half-Demon (Male) A/Shout 1{END}
+
+Half-Demon (Male) A/Shout 2{END}
+
+Half-Demon (Male) A/Shout 3{END}
+
+Half-Demon (Male) A/Shout 4{END}
+
+Half-Demon (Male) A/Shout 5{END}
+
+Half-Demon (Male) A/Shout 6{END}
+
+Half-Demon (Male) A/Shout 7{END}
+
+Half-Demon (Male) A/Shout 8{END}
+
+Half-Demon (Male) A/Shout 9{END}
+
+Half-Demon (Male) A/Shout 10{END}
+
+Half-Demon (Male) A/Shout 11{END}
+
+Half-Demon (Male) A/Shout 12{END}
+
+Half-Demon (Male) A/Shout 13{END}
+
+Half-Demon (Male) A/Shout 14{END}
+
+Half-Demon (Male) A/Shriek 1{END}
+
+Half-Demon (Male) A/Shriek 2{END}
+
+Half-Demon (Male) A/Shriek 3{END}
+
+Half-Demon (Male) A/Shriek 4{END}
+
+Half-Demon (Male) A/Shriek 5{END}
+
+Half-Demon (Male) A/Shriek 6{END}
+
+Half-Demon (Male) A/Shriek 7{END}
+
+Half-Demon (Male) A/Shriek 8{END}
+
+Half-Demon (Male) A/Shriek 9{END}
+
+Half-Demon (Male) A/Arte 1{END}
+
+Half-Demon (Male) A/Arte 2{END}
+
+Half-Demon (Male) A/Arte 3{END}
+
+Half-Demon (Male) A/Arte 4{END}
+
+Half-Demon (Male) A/Arte 5{END}
+
+Half-Demon (Male) A/Arte 6{END}
+
+Half-Demon (Male) A/Arte 7{END}
+
+Half-Demon (Male) A/Arte 8{END}
+
+Half-Demon (Male) A/Arte 9{END}
+
+Half-Demon (Male) A/Arte 10{END}
+
+Half-Demon (Male) A/Arte 11{END}
+
+Half-Demon (Male) A/Arte 12{END}
+
+Half-Demon (Male) A/Arte 13{END}
+
+Half-Demon (Male) A/Arte 14{END}
+
+Half-Demon (Male) A/Arte 15{END}
+
+Half-Demon (Male) A/Arte 16{END}
+
+Half-Demon (Male) A/Arte 17{END}
+
+Half-Demon (Male) A/Arte 18{END}
+
+Half-Demon (Male) A/Arte 19{END}
+
+Half-Demon (Male) A/Arte 20{END}
+
+Half-Demon (Male) A/Arte 21{END}
+
+Half-Demon (Male) A/Arte 22{END}
+
+Half-Demon (Male) A/Arte 23{END}
+
+Half-Demon (Male) A/Arte 24{END}
+
+Half-Demon (Male) A/Arte 25{END}
+
+Half-Demon (Male) A/Arte 26{END}
+
+Half-Demon (Male) A/Arte 27{END}
+
+Half-Demon (Male) A/Arte 28{END}
+
+Half-Demon (Male) A/Arte 29{END}
+
+Half-Demon (Male) A/Arte 30{END}
+
+Half-Demon (Male) A/Arte 31{END}
+
+Half-Demon (Male) A/Arte 32{END}
+
+Half-Demon (Male) A/Arte 33{END}
+
+Half-Demon (Male) A/Arte 34{END}
+
+Half-Demon (Male) A/Arte 35{END}
+
+Half-Demon (Male) A/Arte 36{END}
+
+Half-Demon (Male) A/Arte 37{END}
+
+Half-Demon (Male) A/Arte 38{END}
+
+Half-Demon (Male) A/Arte 39{END}
+
+Half-Demon (Male) A/Arte 40{END}
+
+Half-Demon (Male) A/Arte 41{END}
+
+Half-Demon (Male) A/Arte 42{END}
+
+Half-Demon (Male) A/Arte 43{END}
+
+Half-Demon (Female) A/Shout 1{END}
+
+Half-Demon (Female) A/Shout 2{END}
+
+Half-Demon (Female) A/Shout 3{END}
+
+Half-Demon (Female) A/Shout 4{END}
+
+Half-Demon (Female) A/Shout 5{END}
+
+Half-Demon (Female) A/Shout 6{END}
+
+Half-Demon (Female) A/Shout 7{END}
+
+Half-Demon (Female) A/Shout 8{END}
+
+Half-Demon (Female) A/Shout 9{END}
+
+Half-Demon (Female) A/Shout 10{END}
+
+Half-Demon (Female) A/Shout 11{END}
+
+Half-Demon (Female) A/Shout 12{END}
+
+Half-Demon (Female) A/Shout 13{END}
+
+Half-Demon (Female) A/Shriek 1{END}
+
+Half-Demon (Female) A/Shriek 2{END}
+
+Half-Demon (Female) A/Shriek 3{END}
+
+Half-Demon (Female) A/Shriek 4{END}
+
+Half-Demon (Female) A/Shriek 5{END}
+
+Half-Demon (Female) A/Arte 1{END}
+
+Half-Demon (Female) A/Arte 2{END}
+
+Half-Demon (Female) A/Arte 3{END}
+
+Half-Demon (Female) A/Arte 4{END}
+
+Half-Demon (Female) A/Arte 5{END}
+
+Half-Demon (Female) A/Arte 6{END}
+
+Half-Demon (Female) A/Arte 7{END}
+
+Half-Demon (Female) A/Arte 8{END}
+
+Half-Demon (Female) A/Arte 9{END}
+
+Half-Demon (Female) A/Arte 10{END}
+
+Half-Demon (Female) A/Arte 11{END}
+
+Half-Demon (Female) A/Arte 12{END}
+
+Half-Demon (Female) A/Arte 13{END}
+
+Half-Demon (Female) A/Arte 14{END}
+
+Half-Demon (Female) A/Arte 15{END}
+
+Half-Demon (Female) A/Arte 16{END}
+
+Half-Demon (Female) A/Arte 17{END}
+
+Half-Demon (Female) A/Arte 18{END}
+
+Half-Demon (Female) A/Arte 19{END}
+
+Half-Demon (Female) A/Arte 20{END}
+
+Half-Demon (Female) A/Arte 21{END}
+
+Half-Demon (Female) A/Arte 22{END}
+
+Half-Demon (Female) A/Arte 23{END}
+
+Half-Demon (Female) A/Arte 24{END}
+
+Half-Demon (Female) A/Arte 25{END}
+
+Half-Demon (Female) A/Arte 26{END}
+
+Half-Demon (Female) A/Arte 27{END}
+
+Half-Demon (Female) A/Arte 28{END}
+
+Half-Demon (Female) A/Arte 29{END}
+
+Half-Demon (Female) A/Arte 30{END}
+
+Half-Demon (Female) A/Arte 31{END}
+
+Half-Demon (Female) A/Arte 32{END}
+
+Half-Demon (Female) A/Arte 33{END}
+
+Half-Demon (Female) A/Arte 34{END}
+
+Half-Demon (Female) A/Arte 35{END}
+
+Half-Demon (Female) A/Arte 36{END}
+
+Half-Demon (Female) A/Arte 37{END}
+
+Half-Demon (Female) A/Arte 38{END}
+
+Half-Demon (Female) A/Arte 39{END}
+
+Half-Demon (Female) A/Arte 40{END}
+
+Half-Demon (Female) A/Arte 41{END}
+
+Half-Demon (Female) A/Arte 42{END}
+
+Half-Demon (Female) A/Arte 43{END}
+
+Half-Demon (Female) B/Shout 1{END}
+
+Half-Demon (Female) B/Shout 2{END}
+
+Half-Demon (Female) B/Shout 3{END}
+
+Half-Demon (Female) B/Shout 4{END}
+
+Half-Demon (Female) B/Shout 5{END}
+
+Half-Demon (Female) B/Shout 6{END}
+
+Half-Demon (Female) B/Shout 7{END}
+
+Half-Demon (Female) B/Shout 8{END}
+
+Half-Demon (Female) B/Shout 9{END}
+
+Half-Demon (Female) B/Shout 10{END}
+
+Half-Demon (Female) B/Shout 11{END}
+
+Half-Demon (Female) B/Shout 12{END}
+
+Half-Demon (Female) B/Shout 13{END}
+
+Half-Demon (Female) B/Shriek 1{END}
+
+Half-Demon (Female) B/Shriek 2{END}
+
+Half-Demon (Female) B/Shriek 3{END}
+
+Half-Demon (Female) B/Shriek 4{END}
+
+Half-Demon (Female) B/Shriek 5{END}
+
+Half-Demon (Female) B/Arte 1{END}
+
+Half-Demon (Female) B/Arte 2{END}
+
+Half-Demon (Female) B/Arte 3{END}
+
+Half-Demon (Female) B/Arte 4{END}
+
+Half-Demon (Female) B/Arte 5{END}
+
+Half-Demon (Female) B/Arte 6{END}
+
+Half-Demon (Female) B/Arte 7{END}
+
+Half-Demon (Female) B/Arte 8{END}
+
+Half-Demon (Female) B/Arte 9{END}
+
+Half-Demon (Female) B/Arte 10{END}
+
+Half-Demon (Female) B/Arte 11{END}
+
+Half-Demon (Female) B/Arte 12{END}
+
+Half-Demon (Female) B/Arte 13{END}
+
+Half-Demon (Female) B/Arte 14{END}
+
+Half-Demon (Female) B/Arte 15{END}
+
+Half-Demon (Female) B/Arte 16{END}
+
+Half-Demon (Female) B/Arte 17{END}
+
+Half-Demon (Female) B/Arte 18{END}
+
+Half-Demon (Female) B/Arte 19{END}
+
+Half-Demon (Female) B/Arte 20{END}
+
+Half-Demon (Female) B/Arte 21{END}
+
+Half-Demon (Female) B/Arte 22{END}
+
+Half-Demon (Female) B/Arte 23{END}
+
+Half-Demon (Female) B/Arte 24{END}
+
+Half-Demon (Female) B/Arte 25{END}
+
+Half-Demon (Female) B/Arte 26{END}
+
+Half-Demon (Female) B/Arte 27{END}
+
+Half-Demon (Female) B/Arte 28{END}
+
+Half-Demon (Female) B/Arte 29{END}
+
+Half-Demon (Female) B/Arte 30{END}
+
+Half-Demon (Female) B/Arte 31{END}
+
+Half-Demon (Female) B/Arte 32{END}
+
+Half-Demon (Female) B/Arte 33{END}
+
+Half-Demon (Female) B/Arte 34{END}
+
+Half-Demon (Female) B/Arte 35{END}
+
+Half-Demon (Female) B/Arte 36{END}
+
+Half-Demon (Female) B/Arte 37{END}
+
+Half-Demon (Female) B/Arte 38{END}
+
+Half-Demon (Female) B/Arte 39{END}
+
+Half-Demon (Female) B/Arte 40{END}
+
+Half-Demon (Female) B/Arte 41{END}
+
+Half-Demon (Female) B/Arte 42{END}
+
+Half-Demon (Female) B/Arte 43{END}
+
+Half-Demon (Male) B/Shout 1{END}
+
+Half-Demon (Male) B/Shout 2{END}
+
+Half-Demon (Male) B/Shout 3{END}
+
+Half-Demon (Male) B/Shout 4{END}
+
+Half-Demon (Male) B/Shout 5{END}
+
+Half-Demon (Male) B/Shout 6{END}
+
+Half-Demon (Male) B/Shout 7{END}
+
+Half-Demon (Male) B/Shout 8{END}
+
+Half-Demon (Male) B/Shout 9{END}
+
+Half-Demon (Male) B/Shout 10{END}
+
+Half-Demon (Male) B/Shout 11{END}
+
+Half-Demon (Male) B/Shout 12{END}
+
+Half-Demon (Male) B/Shout 13{END}
+
+Half-Demon (Male) B/Shout 14{END}
+
+Half-Demon (Male) B/Shriek 1{END}
+
+Half-Demon (Male) B/Shriek 2{END}
+
+Half-Demon (Male) B/Shriek 3{END}
+
+Half-Demon (Male) B/Shriek 4{END}
+
+Half-Demon (Male) B/Shriek 5{END}
+
+Half-Demon (Male) B/Shriek 6{END}
+
+Half-Demon (Male) B/Shriek 7{END}
+
+Half-Demon (Male) B/Shriek 8{END}
+
+Half-Demon (Male) B/Shriek 9{END}
+
+Half-Demon (Male) B/Arte 1{END}
+
+Half-Demon (Male) B/Arte 2{END}
+
+Half-Demon (Male) B/Arte 3{END}
+
+Half-Demon (Male) B/Arte 4{END}
+
+Half-Demon (Male) B/Arte 5{END}
+
+Half-Demon (Male) B/Arte 6{END}
+
+Half-Demon (Male) B/Arte 7{END}
+
+Half-Demon (Male) B/Arte 8{END}
+
+Half-Demon (Male) B/Arte 9{END}
+
+Half-Demon (Male) B/Arte 10{END}
+
+Half-Demon (Male) B/Arte 11{END}
+
+Half-Demon (Male) B/Arte 12{END}
+
+Half-Demon (Male) B/Arte 13{END}
+
+Half-Demon (Male) B/Arte 14{END}
+
+Half-Demon (Male) B/Arte 15{END}
+
+Half-Demon (Male) B/Arte 16{END}
+
+Half-Demon (Male) B/Arte 17{END}
+
+Half-Demon (Male) B/Arte 18{END}
+
+Half-Demon (Male) B/Arte 19{END}
+
+Half-Demon (Male) B/Arte 20{END}
+
+Half-Demon (Male) B/Arte 21{END}
+
+Half-Demon (Male) B/Arte 22{END}
+
+Half-Demon (Male) B/Arte 23{END}
+
+Half-Demon (Male) B/Arte 24{END}
+
+Half-Demon (Male) B/Arte 25{END}
+
+Half-Demon (Male) B/Arte 26{END}
+
+Half-Demon (Male) B/Arte 27{END}
+
+Half-Demon (Male) B/Arte 28{END}
+
+Half-Demon (Male) B/Arte 29{END}
+
+Half-Demon (Male) B/Arte 30{END}
+
+Half-Demon (Male) B/Arte 31{END}
+
+Half-Demon (Male) B/Arte 32{END}
+
+Half-Demon (Male) B/Arte 33{END}
+
+Half-Demon (Male) B/Arte 34{END}
+
+Half-Demon (Male) B/Arte 35{END}
+
+Half-Demon (Male) B/Arte 36{END}
+
+Half-Demon (Male) B/Arte 37{END}
+
+Half-Demon (Male) B/Arte 38{END}
+
+Half-Demon (Male) B/Arte 39{END}
+
+Half-Demon (Male) B/Arte 40{END}
+
+Half-Demon (Male) B/Arte 41{END}
+
+Half-Demon (Male) B/Arte 42{END}
+
+Half-Demon (Male) B/Arte 43{END}
+
+Half-Demon (Male) C/Shout 1{END}
+
+Half-Demon (Male) C/Shout 2{END}
+
+Half-Demon (Male) C/Shout 3{END}
+
+Half-Demon (Male) C/Shout 4{END}
+
+Half-Demon (Male) C/Shout 5{END}
+
+Half-Demon (Male) C/Shout 6{END}
+
+Half-Demon (Male) C/Shout 7{END}
+
+Half-Demon (Male) C/Shout 8{END}
+
+Half-Demon (Male) C/Shout 9{END}
+
+Half-Demon (Male) C/Shout 10{END}
+
+Half-Demon (Male) C/Shout 11{END}
+
+Half-Demon (Male) C/Shout 12{END}
+
+Half-Demon (Male) C/Shout 13{END}
+
+Half-Demon (Male) C/Shout 14{END}
+
+Half-Demon (Male) C/Shriek 1{END}
+
+Half-Demon (Male) C/Shriek 2{END}
+
+Half-Demon (Male) C/Shriek 3{END}
+
+Half-Demon (Male) C/Shriek 4{END}
+
+Half-Demon (Male) C/Shriek 5{END}
+
+Half-Demon (Male) C/Shriek 6{END}
+
+Half-Demon (Male) C/Shriek 7{END}
+
+Half-Demon (Male) C/Shriek 8{END}
+
+Half-Demon (Male) C/Shriek 9{END}
+
+Half-Demon (Male) C/Arte 1{END}
+
+Half-Demon (Male) C/Arte 2{END}
+
+Half-Demon (Male) C/Arte 3{END}
+
+Half-Demon (Male) C/Arte 4{END}
+
+Half-Demon (Male) C/Arte 5{END}
+
+Half-Demon (Male) C/Arte 6{END}
+
+Half-Demon (Male) C/Arte 7{END}
+
+Half-Demon (Male) C/Arte 8{END}
+
+Half-Demon (Male) C/Arte 9{END}
+
+Half-Demon (Male) C/Arte 10{END}
+
+Half-Demon (Male) C/Arte 11{END}
+
+Half-Demon (Male) C/Arte 12{END}
+
+Half-Demon (Male) C/Arte 13{END}
+
+Half-Demon (Male) C/Arte 14{END}
+
+Half-Demon (Male) C/Arte 15{END}
+
+Half-Demon (Male) C/Arte 16{END}
+
+Half-Demon (Male) C/Arte 17{END}
+
+Half-Demon (Male) C/Arte 18{END}
+
+Half-Demon (Male) C/Arte 19{END}
+
+Half-Demon (Male) C/Arte 20{END}
+
+Half-Demon (Male) C/Arte 21{END}
+
+Half-Demon (Male) C/Arte 22{END}
+
+Half-Demon (Male) C/Arte 23{END}
+
+Half-Demon (Male) C/Arte 24{END}
+
+Half-Demon (Male) C/Arte 25{END}
+
+Half-Demon (Male) C/Arte 26{END}
+
+Half-Demon (Male) C/Arte 27{END}
+
+Half-Demon (Male) C/Arte 28{END}
+
+Half-Demon (Male) C/Arte 29{END}
+
+Half-Demon (Male) C/Arte 30{END}
+
+Half-Demon (Male) C/Arte 31{END}
+
+Half-Demon (Male) C/Arte 32{END}
+
+Half-Demon (Male) C/Arte 33{END}
+
+Half-Demon (Male) C/Arte 34{END}
+
+Half-Demon (Male) C/Arte 35{END}
+
+Half-Demon (Male) C/Arte 36{END}
+
+Half-Demon (Male) C/Arte 37{END}
+
+Half-Demon (Male) C/Arte 38{END}
+
+Half-Demon (Male) C/Arte 39{END}
+
+Half-Demon (Male) C/Arte 40{END}
+
+Half-Demon (Male) C/Arte 41{END}
+
+Half-Demon (Male) C/Arte 42{END}
+
+Half-Demon (Male) C/Arte 43{END}
+
+Half-Demon (Female) C/Shout 1{END}
+
+Half-Demon (Female) C/Shout 2{END}
+
+Half-Demon (Female) C/Shout 3{END}
+
+Half-Demon (Female) C/Shout 4{END}
+
+Half-Demon (Female) C/Shout 5{END}
+
+Half-Demon (Female) C/Shout 6{END}
+
+Half-Demon (Female) C/Shout 7{END}
+
+Half-Demon (Female) C/Shout 8{END}
+
+Half-Demon (Female) C/Shout 9{END}
+
+Half-Demon (Female) C/Shout 10{END}
+
+Half-Demon (Female) C/Shout 11{END}
+
+Half-Demon (Female) C/Shout 12{END}
+
+Half-Demon (Female) C/Shout 13{END}
+
+Half-Demon (Female) C/Shriek 1{END}
+
+Half-Demon (Female) C/Shriek 2{END}
+
+Half-Demon (Female) C/Shriek 3{END}
+
+Half-Demon (Female) C/Shriek 4{END}
+
+Half-Demon (Female) C/Shriek 5{END}
+
+Half-Demon (Female) C/Arte 1{END}
+
+Half-Demon (Female) C/Arte 2{END}
+
+Half-Demon (Female) C/Arte 3{END}
+
+Half-Demon (Female) C/Arte 4{END}
+
+Half-Demon (Female) C/Arte 5{END}
+
+Half-Demon (Female) C/Arte 6{END}
+
+Half-Demon (Female) C/Arte 7{END}
+
+Half-Demon (Female) C/Arte 8{END}
+
+Half-Demon (Female) C/Arte 9{END}
+
+Half-Demon (Female) C/Arte 10{END}
+
+Half-Demon (Female) C/Arte 11{END}
+
+Half-Demon (Female) C/Arte 12{END}
+
+Half-Demon (Female) C/Arte 13{END}
+
+Half-Demon (Female) C/Arte 14{END}
+
+Half-Demon (Female) C/Arte 15{END}
+
+Half-Demon (Female) C/Arte 16{END}
+
+Half-Demon (Female) C/Arte 17{END}
+
+Half-Demon (Female) C/Arte 18{END}
+
+Half-Demon (Female) C/Arte 19{END}
+
+Half-Demon (Female) C/Arte 20{END}
+
+Half-Demon (Female) C/Arte 21{END}
+
+Half-Demon (Female) C/Arte 22{END}
+
+Half-Demon (Female) C/Arte 23{END}
+
+Half-Demon (Female) C/Arte 24{END}
+
+Half-Demon (Female) C/Arte 25{END}
+
+Half-Demon (Female) C/Arte 26{END}
+
+Half-Demon (Female) C/Arte 27{END}
+
+Half-Demon (Female) C/Arte 28{END}
+
+Half-Demon (Female) C/Arte 29{END}
+
+Half-Demon (Female) C/Arte 30{END}
+
+Half-Demon (Female) C/Arte 31{END}
+
+Half-Demon (Female) C/Arte 32{END}
+
+Half-Demon (Female) C/Arte 33{END}
+
+Half-Demon (Female) C/Arte 34{END}
+
+Half-Demon (Female) C/Arte 35{END}
+
+Half-Demon (Female) C/Arte 36{END}
+
+Half-Demon (Female) C/Arte 37{END}
+
+Half-Demon (Female) C/Arte 38{END}
+
+Half-Demon (Female) C/Arte 39{END}
+
+Half-Demon (Female) C/Arte 40{END}
+
+Half-Demon (Female) C/Arte 41{END}
+
+Half-Demon (Female) C/Arte 42{END}
+
+Half-Demon (Female) C/Arte 43{END}
+
+Half-Demon (Male) D/Shout 1{END}
+
+Half-Demon (Male) D/Shout 2{END}
+
+Half-Demon (Male) D/Shout 3{END}
+
+Half-Demon (Male) D/Shout 4{END}
+
+Half-Demon (Male) D/Shout 5{END}
+
+Half-Demon (Male) D/Shout 6{END}
+
+Half-Demon (Male) D/Shout 7{END}
+
+Half-Demon (Male) D/Shout 8{END}
+
+Half-Demon (Male) D/Shout 9{END}
+
+Half-Demon (Male) D/Shout 10{END}
+
+Half-Demon (Male) D/Shout 11{END}
+
+Half-Demon (Male) D/Shout 12{END}
+
+Half-Demon (Male) D/Shout 13{END}
+
+Half-Demon (Male) D/Shout 14{END}
+
+Half-Demon (Male) D/Shriek 1{END}
+
+Half-Demon (Male) D/Shriek 2{END}
+
+Half-Demon (Male) D/Shriek 3{END}
+
+Half-Demon (Male) D/Shriek 4{END}
+
+Half-Demon (Male) D/Shriek 5{END}
+
+Half-Demon (Male) D/Shriek 6{END}
+
+Half-Demon (Male) D/Shriek 7{END}
+
+Half-Demon (Male) D/Shriek 8{END}
+
+Half-Demon (Male) D/Shriek 9{END}
+
+Half-Demon (Male) D/Arte 1{END}
+
+Half-Demon (Male) D/Arte 2{END}
+
+Half-Demon (Male) D/Arte 3{END}
+
+Half-Demon (Male) D/Arte 4{END}
+
+Half-Demon (Male) D/Arte 5{END}
+
+Half-Demon (Male) D/Arte 6{END}
+
+Half-Demon (Male) D/Arte 7{END}
+
+Half-Demon (Male) D/Arte 8{END}
+
+Half-Demon (Male) D/Arte 9{END}
+
+Half-Demon (Male) D/Arte 10{END}
+
+Half-Demon (Male) D/Arte 11{END}
+
+Half-Demon (Male) D/Arte 12{END}
+
+Half-Demon (Male) D/Arte 13{END}
+
+Half-Demon (Male) D/Arte 14{END}
+
+Half-Demon (Male) D/Arte 15{END}
+
+Half-Demon (Male) D/Arte 16{END}
+
+Half-Demon (Male) D/Arte 17{END}
+
+Half-Demon (Male) D/Arte 18{END}
+
+Half-Demon (Male) D/Arte 19{END}
+
+Half-Demon (Male) D/Arte 20{END}
+
+Half-Demon (Male) D/Arte 21{END}
+
+Half-Demon (Male) D/Arte 22{END}
+
+Half-Demon (Male) D/Arte 23{END}
+
+Half-Demon (Male) D/Arte 24{END}
+
+Half-Demon (Male) D/Arte 25{END}
+
+Half-Demon (Male) D/Arte 26{END}
+
+Half-Demon (Male) D/Arte 27{END}
+
+Half-Demon (Male) D/Arte 28{END}
+
+Half-Demon (Male) D/Arte 29{END}
+
+Half-Demon (Male) D/Arte 30{END}
+
+Half-Demon (Male) D/Arte 31{END}
+
+Half-Demon (Male) D/Arte 32{END}
+
+Half-Demon (Male) D/Arte 33{END}
+
+Half-Demon (Male) D/Arte 34{END}
+
+Half-Demon (Male) D/Arte 35{END}
+
+Half-Demon (Male) D/Arte 36{END}
+
+Half-Demon (Male) D/Arte 37{END}
+
+Half-Demon (Male) D/Arte 38{END}
+
+Half-Demon (Male) D/Arte 39{END}
+
+Half-Demon (Male) D/Arte 40{END}
+
+Half-Demon (Male) D/Arte 41{END}
+
+Half-Demon (Male) D/Arte 42{END}
+
+Half-Demon (Male) D/Arte 43{END}
+
+Half-Demon (Male) D/Arte 44{END}
+
+Half-Demon (Male) E/Shout 1{END}
+
+Half-Demon (Male) E/Shout 2{END}
+
+Half-Demon (Male) E/Shout 3{END}
+
+Half-Demon (Male) E/Shout 4{END}
+
+Half-Demon (Male) E/Shout 5{END}
+
+Half-Demon (Male) E/Shout 6{END}
+
+Half-Demon (Male) E/Shout 7{END}
+
+Half-Demon (Male) E/Shout 8{END}
+
+Half-Demon (Male) E/Shout 9{END}
+
+Half-Demon (Male) E/Shout 10{END}
+
+Half-Demon (Male) E/Shout 11{END}
+
+Half-Demon (Male) E/Shout 12{END}
+
+Half-Demon (Male) E/Shout 13{END}
+
+Half-Demon (Male) E/Shout 14{END}
+
+Half-Demon (Male) E/Shriek 1{END}
+
+Half-Demon (Male) E/Shriek 2{END}
+
+Half-Demon (Male) E/Shriek 3{END}
+
+Half-Demon (Male) E/Shriek 4{END}
+
+Half-Demon (Male) E/Shriek 5{END}
+
+Half-Demon (Male) E/Shriek 6{END}
+
+Half-Demon (Male) E/Shriek 7{END}
+
+Half-Demon (Male) E/Shriek 8{END}
+
+Half-Demon (Male) E/Shriek 9{END}
+
+Half-Demon (Male) E/Arte 1{END}
+
+Half-Demon (Male) E/Arte 2{END}
+
+Half-Demon (Male) E/Arte 3{END}
+
+Half-Demon (Male) E/Arte 4{END}
+
+Half-Demon (Male) E/Arte 5{END}
+
+Half-Demon (Male) E/Arte 6{END}
+
+Half-Demon (Male) E/Arte 7{END}
+
+Half-Demon (Male) E/Arte 8{END}
+
+Half-Demon (Male) E/Arte 9{END}
+
+Half-Demon (Male) E/Arte 10{END}
+
+Half-Demon (Male) E/Arte 11{END}
+
+Half-Demon (Male) E/Arte 12{END}
+
+Half-Demon (Male) E/Arte 13{END}
+
+Half-Demon (Male) E/Arte 14{END}
+
+Half-Demon (Male) E/Arte 15{END}
+
+Half-Demon (Male) E/Arte 16{END}
+
+Half-Demon (Male) E/Arte 17{END}
+
+Half-Demon (Male) E/Arte 18{END}
+
+Half-Demon (Male) E/Arte 19{END}
+
+Half-Demon (Male) E/Arte 20{END}
+
+Half-Demon (Male) E/Arte 21{END}
+
+Half-Demon (Male) E/Arte 22{END}
+
+Half-Demon (Male) E/Arte 23{END}
+
+Half-Demon (Male) E/Arte 24{END}
+
+Half-Demon (Male) E/Arte 25{END}
+
+Half-Demon (Male) E/Arte 26{END}
+
+Half-Demon (Male) E/Arte 27{END}
+
+Half-Demon (Male) E/Arte 28{END}
+
+Half-Demon (Male) E/Arte 29{END}
+
+Half-Demon (Male) E/Arte 30{END}
+
+Half-Demon (Male) E/Arte 31{END}
+
+Half-Demon (Male) E/Arte 32{END}
+
+Half-Demon (Male) E/Arte 33{END}
+
+Half-Demon (Male) E/Arte 34{END}
+
+Half-Demon (Male) E/Arte 35{END}
+
+Half-Demon (Male) E/Arte 36{END}
+
+Half-Demon (Male) E/Arte 37{END}
+
+Half-Demon (Male) E/Arte 38{END}
+
+Half-Demon (Male) E/Arte 39{END}
+
+Half-Demon (Male) E/Arte 40{END}
+
+Half-Demon (Male) E/Arte 41{END}
+
+Half-Demon (Male) E/Arte 42{END}
+
+Half-Demon (Male) E/Arte 43{END}
+
+Lilith/Shout A 1{END}
+
+Lilith/Shout A 2{END}
+
+Lilith/Shout A 3{END}
+
+Lilith/Shout A 4{END}
+
+Lilith/Shout A 5{END}
+
+Lilith/Shout A 6{END}
+
+Lilith/Shout A 7{END}
+
+Lilith/Shout A 8{END}
+
+Lilith/Shout A 9{END}
+
+Lilith/Shout A10{END}
+
+Lilith/Shout A11{END}
+
+Lilith/Shout A12{END}
+
+Lilith/Shout A13{END}
+
+Lilith/Shout A14{END}
+
+Lilith/Shout A15{END}
+
+Lilith/Shout A16{END}
+
+Lilith/Shout A17{END}
+
+Lilith/Shout A18{END}
+
+Lilith/Shout A19{END}
+
+Lilith/Shout A20{END}
+
+Lilith/Shout A21{END}
+
+Lilith/Shout A22{END}
+
+Lilith/Shout B 1{END}
+
+Lilith/Shout B 2{END}
+
+Lilith/Shout B 3{END}
+
+Lilith/Shout B 4{END}
+
+Lilith/Shout B 5{END}
+
+Lilith/Arte 1{END}
+
+Lilith/Arte 2{END}
+
+Lilith/Arte 3{END}
+
+Lilith/Arte 4{END}
+
+Lilith/Arte 5{END}
+
+Lilith/Arte 6{END}
+
+Lilith/Arte 7{END}
+
+Lilith/Shriek 1{END}
+
+Lilith/Shriek 2{END}
+
+Lilith/Shriek 3{END}
+
+Lilith/Shriek 4{END}
+
+Lilith/Shriek 5{END}
+
+Lilith/Shriek 6{END}
+
+Lilith/Shriek 7{END}
+
+Lilith/Shriek 8{END}
+
+Lilith/Shriek 9{END}
+
+Lilith/Shriek 10{END}
+
+Lilith/Shriek 11{END}
+
+Lilith/Shriek 12{END}
+
+Lilith/Shriek 13{END}
+
+Opening 1{END}
+
+Opening 2{END}
+
+Opening 3{END}
+
+Opening 4{END}
+
+Opening 5{END}
+
+Opening 6{END}
+
+Opening 7{END}
+
+Opening 8{END}
+
+Opening 9{END}
+
+Opening 10{END}
+
+Opening 11{END}
+
+Opening 12{END}
+
+Opening 13{END}
+
+Opening 14{END}
+
+Victory{END}
+
+<Arche>/Kiss Event{END}
+
+Flamberg 1{END}
+
+Flamberg 2{END}
+
+Flamberg 3{END}
+
+Flamberg 4{END}
+
+Fenrir Beast 1{END}
+
+Fenrir Beast 2{END}
+
+Fenrir Beast 3{END}
+
+Fenrir Beast 4{END}
+
+Fenrir Beast 5{END}
+
+Fenrir Beast 6{END}
+
+Origin 1{END}
+
+Origin 2{END}
+
+Maxwell 1{END}
+
+Maxwell 2{END}
+
+Maxwell 3{END}
+
+Luna{END}
+
+Artemis 1{END}
+
+Artemis 2{END}
+
+OZ 1{END}
+
+OZ 2{END}
+
+OZ 3{END}
+
+OZ 4{END}
+
+OZ 5{END}
+
+OZ 6{END}
+
+OZ 7{END}
+
+OZ 8{END}
+
+OZ 9{END}
+
+OZ10{END}
+
+OZ11{END}
+
+Minigame (Kanai) 1{END}
+
+Minigame (Kanai) 2{END}
+
+Minigame (Kanai) 3{END}
+
+Minigame (Kanai) 4{END}
+
+Minigame (Kanai) 5{END}
+
+Minigame (Kanai) 6{END}
+
+Minigame (Kanai) 7{END}
+
+Minigame (Kanai) 8{END}
+
+Minigame (Kanai) 9{END}
+
+Minigame (Kanai) 10{END}
+
+Minigame (Kanai) 11{END}
+
+Minigame (Kanai) 12{END}
+
+Minigame (Kanai) 13{END}
+
+Minigame Come Here{END}
+
+Minigame (Kanai) 14{END}
+
+Minigame (Kanai) 15{END}
+
+Minigame (Kanai) 16{END}
+
+Minigame (Kanai) 17{END}
+
+Minigame (Kanai) 18{END}
+
+Minigame (Kanai) 19{END}
+
+Minigame (Kanai) 20{END}
+
+Minigame (Kanai) 21{END}
+
+Minigame (Kanai) 22{END}
+
+Minigame (Itou) 23{END}
+
+Minigame (Itou) 24{END}
+
+Minigame (Itou) 25{END}
+
+Minigame (Itou) 26{END}
+
+Minigame (Itou) 27{END}
+
+Minigame (Itou) 28{END}
+
+Minigame (Itou) 29{END}
+
+<Mint>/Kiss Event{END}
+
+Martel 1{END}
+
+Martel 2{END}
+
+Martel 3{END}
+
+Martel 4{END}
+
+Martel 5{END}
+
+Martel 6{END}
+
+Ending 1-01{END}
+
+Ending 1-02{END}
+
+Ending 1-03{END}
+
+Ending 1-04{END}
+
+Ending 1-05{END}
+
+Ending 1-06{END}
+
+Ending 1-07{END}
+
+Ending 1-08{END}
+
+Ending 1-09{END}
+
+Ending 1-10{END}
+
+Ending 1-11{END}
+
+Ending 1-12{END}
+
+Ending 1-13{END}
+
+Ending 1-14{END}
+
+Ending 1-15{END}
+
+Ending 1-16{END}
+
+Ending 1-17{END}
+
+Ending 1-18{END}
+
+Ending 1-19{END}
+
+Ending 1-20{END}
+
+Ending 1-21{END}
+
+Ending 1-22{END}
+
+Ending 1-23{END}
+
+Ending 2-01{END}
+
+Ending 2-02{END}
+
+Ending 2-03{END}
+
+Ending 2-04{END}
+
+Ending 2-05{END}
+
+Ending 2-06{END}
+
+Ending 2-07{END}
+
+Ending 2-08{END}
+
+Ending 2-09{END}
+
+Ending 2-10{END}
+
+Ending 2-11{END}
+
+Ending 2-12{END}
+
+Ending 2-13{END}
+
+Ending 2-14{END}
+
+Ending 2-15{END}
+
+Ending 2-16{END}
+
+Ending 2-17{END}
+
+Ending 2-18{END}
+
+Ending 2-19{END}
+
+Ending 2-20{END}
+
+Ending 2-21{END}
+
+Ending 1-24{END}
+
+Ending 1-25{END}
+
+Ending 1-26{END}
+
+Ending 1-27{END}
+
+Ending 1-28{END}
+
+Ending 3-01{END}
+
+Ending 3-02{END}
+
+Ending 3-03{END}
+
+Ending 3-04{END}
+
+Ending 3-05{END}
+
+Ending 3-06{END}
+
+Ending 3-07{END}
+
+Ending 3-08{END}
+
+Ending 3-09{END}
+
+Applause{END}
+
+Crow{END}
+
+Rooster{END}
+
+Wolf{END}
+
+Cheer{END}
+
+???-1{END}
+
+???-2{END}
+
+???-3{END}
+
+???-4{END}
+
+Galloping Horse{END}
+
+ＳＶ００－００１－００１{END}
+
+ＳＶ００－００１－００２{END}
+
+ＳＶ００－００１－００３{END}
+
+ＳＶ００－００１－００４{END}
+
+ＳＶ００－００１－００５{END}
+
+ＳＶ００－００１－００６{END}
+
+ＳＶ００－００１－００７{END}
+
+ＳＶ００－００１－００８{END}
+
+ＳＶ００－００１－００９{END}
+
+ＳＶ０１－００１－０１０{END}
+
+ＳＶ０１－００１－０１１{END}
+
+ＳＶ０１－００１－０１２{END}
+
+ＳＶ０１－００１－０１３{END}
+
+ＳＶ０１－００１－０１４{END}
+
+ＳＶ０１－００１－０１５{END}
+
+ＳＶ０１－００１－０１６{END}
+
+ＳＶ０１－００１－０１７{END}
+
+ＳＶ０１－００１－０１８{END}
+
+ＳＶ０１－００１－０１９{END}
+
+ＳＶ０２－００１－０２０{END}
+
+SV02-001-021{END}
+
+SV02-001-022{END}
+
+SV02-001-023{END}
+
+SV02-001-024{END}
+
+SV02-001-025{END}
+
+SV02-001-026{END}
+
+SV02-001-027{END}
+
+SV02-001-028{END}
+
+SV02-001-029{END}
+
+SV03-001-030{END}
+
+SV03-001-031{END}
+
+SV03-001-032{END}
+
+SV03-001-033{END}
+
+SV03-001-034{END}
+
+SV03-001-035{END}
+
+SV03-001-036{END}
+
+SV03-001-037{END}
+
+SV03-001-038{END}
+
+SV03-001-039{END}
+
+SV04-001-040{END}
+
+SV04-001-041{END}
+
+SV04-001-042{END}
+
+SV04-001-043{END}
+
+SV04-001-044{END}
+
+SV04-001-045{END}
+
+SV04-001-046{END}
+
+SV04-001-047{END}
+
+SV04-001-048{END}
+
+SV04-001-049{END}
+
+SV05-001-050{END}
+
+SV05-001-051{END}
+
+SV05-001-052{END}
+
+SV05-001-053{END}
+
+SV05-001-054{END}
+
+SV05-001-055{END}
+
+SV05-001-056{END}
+
+SV05-001-057{END}
+
+SV05-001-058{END}
+
+SV05-001-059{END}
+
+SV06-001-060{END}
+
+SV06-001-061{END}
+
+SV06-001-062{END}
+
+SV06-001-063{END}
+
+SV06-001-064{END}
+
+SV07-002-001{END}
+
+SV07-002-002{END}
+
+SV07-002-003{END}
+
+SV07-002-004{END}
+
+SV07-002-005{END}
+
+SV07-002-006{END}
+
+SV07-002-007{END}
+
+SV07-002-008{END}
+
+SV07-002-009{END}
+
+SV08-002-010{END}
+
+SV08-002-011{END}
+
+SV08-002-012{END}
+
+SV08-002-013{END}
+
+SV08-002-014{END}
+
+SV08-002-015{END}
+
+SV08-002-016{END}
+
+SV08-002-017{END}
+
+SV08-002-018{END}
+
+SV08-002-019{END}
+
+SV09-003-001{END}
+
+SV09-003-002{END}
+
+SV09-003-003{END}
+
+SV09-003-004{END}
+
+SV09-003-005{END}
+
+SV09-003-006{END}
+
+SV09-003-007{END}
+
+SV09-003-008{END}
+
+SV09-003-009{END}
+
+SV10-003-010{END}
+
+SV10-003-011{END}
+
+SV10-003-012{END}
+
+SV10-003-013{END}
+
+SV10-003-014{END}
+
+SV10-003-015{END}
+
+SV10-003-016{END}
+
+SV10-003-017{END}
+
+SV10-003-018{END}
+
+SV10-003-019{END}
+
+SV11-003-020{END}
+
+SV11-003-021{END}
+
+SV11-003-022{END}
+
+SV11-003-023{END}
+
+SV11-003-024{END}
+
+SV11-003-025{END}
+
+SV11-003-026{END}
+
+SV11-003-027{END}
+
+SV11-003-028{END}
+
+SV11-003-029{END}
+
+SV12-003-030{END}
+
+SV12-003-031{END}
+
+SV12-003-032{END}
+
+SV12-003-033{END}
+
+SV12-003-034{END}
+
+SV12-003-035{END}
+
+SV12-003-036{END}
+
+SV12-003-037{END}
+
+SV12-003-038{END}
+
+SV12-003-039{END}
+
+SV13-003-040{END}
+
+SV13-003-041{END}
+
+SV13-003-042{END}
+
+SV13-003-043{END}
+
+SV13-003-044{END}
+
+SV13-003-045{END}
+
+SV13-003-046{END}
+
+SV13-003-047{END}
+
+SV13-003-048{END}
+
+SV14-004-001{END}
+
+SV14-004-002{END}
+
+SV14-004-003{END}
+
+SV14-004-004{END}
+
+SV14-004-005{END}
+
+SV14-004-006{END}
+
+SV14-004-007{END}
+
+SV14-004-008{END}
+
+SV14-004-009{END}
+
+SV15-004-010{END}
+
+SV15-004-011{END}
+
+SV15-004-012{END}
+
+SV15-004-013{END}
+
+SV15-004-014{END}
+
+SV15-004-015{END}
+
+SV15-004-016{END}
+
+SV15-004-017{END}
+
+SV15-004-018{END}
+
+SV15-004-019{END}
+
+SV16-004-020{END}
+
+SV16-004-021{END}
+
+SV16-004-022{END}
+
+SV16-004-023{END}
+
+SV16-004-024{END}
+
+SV16-004-025{END}
+
+SV16-004-026{END}
+
+SV16-004-027{END}
+
+SV16-004-028{END}
+
+SV16-004-029{END}
+
+SV17-004-030{END}
+
+SV17-004-031{END}
+
+SV17-004-032{END}
+
+SV17-004-033{END}
+
+SV17-004-034{END}
+
+SV17-004-035{END}
+
+SV17-004-036{END}
+
+SV17-004-037{END}
+
+SV17-004-038{END}
+
+SV17-004-039{END}
+
+SV18-004-040{END}
+
+SV18-004-041{END}
+
+SV19-005-001{END}
+
+SV19-005-002{END}
+
+SV19-005-003{END}
+
+SV19-005-004{END}
+
+SV19-005-005{END}
+
+SV19-005-006{END}
+
+SV19-005-007{END}
+
+SV19-005-008{END}
+
+SV19-005-009{END}
+
+SV20-005-010{END}
+
+SV21-005-011{END}
+
+SV21-005-012{END}
+
+SV22-006-001{END}
+
+SV22-006-002{END}
+
+SV22-006-003{END}
+
+SV22-006-004{END}
+
+SV22-006-005{END}
+
+SV22-006-006{END}
+
+SV22-006-007{END}
+
+SV22-006-008{END}
+
+SV22-006-009{END}
+
+SV23-006-010{END}
+
+SV23-006-011{END}
+
+SV23-006-012{END}
+
+SV23-006-013{END}
+
+SV23-006-014{END}
+
+SV23-006-015{END}
+
+SV23-006-016{END}
+
+SV23-006-017{END}
+
+SV23-006-018{END}
+
+SV23-006-019{END}
+
+SV24-006-020{END}
+
+SV24-006-021{END}
+
+SV24-006-022{END}
+
+SV24-006-023{END}
+
+SV24-006-024{END}
+
+SV24-006-025{END}
+
+SV24-006-026{END}
+
+SV24-006-027{END}
+
+SV24-006-028{END}
+
+SV24-006-029{END}
+
+SV25-006-030{END}
+
+SV25-006-031{END}
+
+SV25-006-032{END}
+
+SV25-006-033{END}
+
+SV25-006-034{END}
+
+SV25-006-035{END}
+
+SV25-006-036{END}
+
+SV25-006-037{END}
+
+SV25-006-038{END}
+
+SV25-006-039{END}
+
+SV26-006-040{END}
+
+SV26-006-041{END}
+
+SV26-006-042{END}
+
+SV26-006-043{END}
+
+SV26-006-044{END}
+
+SV26-006-045{END}
+
+SV26-006-046{END}
+
+SV26-006-047{END}
+
+SV26-006-048{END}
+
+SV26-006-049{END}
+
+SV27-006-050{END}
+
+SV27-006-051{END}
+
+SV27-006-052{END}
+
+SV27-006-053{END}
+
+SV27-006-054{END}
+
+SV27-006-055{END}
+
+SV27-006-056{END}
+
+SV27-006-057{END}
+
+SV28-007-001{END}
+
+SV28-007-002{END}
+
+SV28-007-003{END}
+
+SV28-007-004{END}
+
+SV28-007-005{END}
+
+SV28-007-006{END}
+
+SV28-007-007{END}
+
+SV28-007-008{END}
+
+SV28-007-009{END}
+
+SV29-007-010{END}
+
+SV29-007-011{END}
+
+SV29-007-012{END}
+
+SV29-007-013{END}
+
+SV29-007-014{END}
+
+SV29-007-015{END}
+
+SV29-007-016{END}
+
+SV29-007-017{END}
+
+SV29-007-018{END}
+
+SV29-007-019{END}
+
+SV30-007-020{END}
+
+SV30-007-021{END}
+
+SV30-007-022{END}
+
+SV30-007-023{END}
+
+SV30-007-024{END}
+
+SV30-007-025{END}
+
+SV30-007-026{END}
+
+SV30-007-027{END}
+
+SV30-007-028{END}
+
+SV30-007-029{END}
+
+SV31-007-030{END}
+
+SV31-007-031{END}
+
+SV31-007-032{END}
+
+SV31-007-033{END}
+
+SV31-007-034{END}
+
+SV31-007-035{END}
+
+SV31-007-036{END}
+
+SV31-007-037{END}
+
+SV31-007-038{END}
+
+SV31-007-039{END}
+
+SV32-007-040{END}
+
+SV32-007-041{END}
+
+SV32-007-042{END}
+
+SV32-007-043{END}
+
+SV32-007-044{END}
+
+SV32-007-045{END}
+
+SV32-007-046{END}
+
+SV32-007-047{END}
+
+SV32-007-048{END}
+
+SV32-007-049{END}
+
+SV33-007-050{END}
+
+SV33-007-051{END}
+
+SV33-007-052{END}
+
+SV33-007-053{END}
+
+SV33-007-054{END}
+
+SV33-007-055{END}
+
+SV33-007-056{END}
+
+SV33-007-057{END}
+
+SV33-007-058{END}
+
+SV33-007-059{END}
+
+SV34-007-060{END}
+
+SV34-007-061{END}
+
+SV34-007-062{END}
+
+SV34-007-063{END}
+
+SV34-007-064{END}
+
+SV34-007-065{END}
+
+SV34-007-066{END}
+
+SV34-007-067{END}
+
+SV34-007-068{END}
+
+SV34-007-069{END}
+
+SV35-007-070{END}
+
+SV35-007-071{END}
+
+SV35-007-072{END}
+
+SV35-007-073{END}
+
+SV35-007-074{END}
+
+SV35-007-075{END}
+
+SV35-007-076{END}
+
+SV35-007-077{END}
+
+SV35-007-078{END}
+
+SV35-007-079{END}
+
+SV36-007-080{END}
+
+SV36-007-081{END}
+
+SV36-007-082{END}
+
+SV36-007-083{END}
+
+SV36-007-084{END}
+
+SV36-007-085{END}
+
+SV36-007-086{END}
+
+SV36-007-087{END}
+
+SV36-007-088{END}
+
+SV36-007-089{END}
+
+SV37-007-090{END}
+
+SV37-007-091{END}
+
+SV37-007-092{END}
+
+SV37-007-093{END}
+
+SV37-007-094{END}
+
+SV37-007-095{END}
+
+SV37-007-096{END}
+
+SV37-007-097{END}
+
+SV37-007-098{END}
+
+SV37-007-099{END}
+
+SV38-007-100{END}
+
+SV38-007-101{END}
+
+SV38-007-102{END}
+
+SV38-007-103{END}
+
+SV38-007-104{END}
+
+SV38-007-105{END}
+
+SV38-007-106{END}
+
+SV38-007-107{END}
+
+SV38-007-108{END}
+
+SV38-007-109{END}
+
+SV39-007-110{END}
+
+SV39-007-111{END}
+
+SV39-007-112{END}
+
+SV39-007-113{END}
+
+SV39-007-114{END}
+
+SV39-007-115{END}
+
+SV39-007-116{END}
+
+SV39-007-117{END}
+
+SV39-007-118{END}
+
+SV39-007-119{END}
+
+SV40-007-120{END}
+
+SV40-007-121{END}
+
+SV40-007-122{END}
+
+SV40-007-123{END}
+
+SV40-007-124{END}
+
+SV40-007-125{END}
+
+SV40-007-126{END}
+
+SV40-007-127{END}
+
+SV40-007-128{END}
+
+SV40-007-129{END}
+
+SV41-007-130{END}
+
+SV41-007-131{END}
+
+SV41-007-132{END}
+
+SV41-007-133{END}
+
+SV41-007-134{END}
+
+SV41-007-135{END}
+
+SV41-007-136{END}
+
+SV41-007-137{END}
+
+SV41-007-138{END}
+
+SV41-007-139{END}
+
+SV42-007-140{END}
+
+SV42-007-141{END}
+
+SV42-007-142{END}
+
+SV42-007-143{END}
+
+SV42-007-144{END}
+
+SV42-007-145{END}
+
+SV42-007-146{END}
+
+SV42-007-147{END}
+
+SV42-007-148{END}
+
+SV42-007-149{END}
+
+SV43-007-150{END}
+
+SV43-007-151{END}
+
+SV43-007-152{END}
+
+SV43-007-153{END}
+
+SV43-007-154{END}
+
+SV43-007-155{END}
+
+SV43-007-156{END}
+
+SV43-007-157{END}
+
+SV44-008-001{END}
+
+SV44-008-002{END}
+
+SV44-008-003{END}
+
+SV44-008-004{END}
+
+SV44-008-005{END}
+
+SV44-008-006{END}
+
+SV44-008-007{END}
+
+SV44-008-008{END}
+
+SV44-008-009{END}
+
+SV45-008-010{END}
+
+SV45-008-011{END}
+
+SV45-008-012{END}
+
+SV45-008-013{END}
+
+SV45-008-014{END}
+
+SV45-008-015{END}
+
+SV45-008-016{END}
+
+SV45-008-017{END}
+
+SV45-008-018{END}
+
+SV45-008-019{END}
+
+SV46-008-020{END}
+
+SV46-008-021{END}
+
+SV46-008-022{END}
+
+SV46-008-023{END}
+
+SV46-008-024{END}
+
+SV46-008-025{END}
+
+SV46-008-026{END}
+
+SV46-008-027{END}
+
+SV46-008-028{END}
+
+SV46-008-029{END}
+
+SV47-008-030{END}
+
+SV47-008-031{END}
+
+SV47-008-032{END}
+
+SV47-008-033{END}
+
+SV47-008-034{END}
+
+SV47-008-035{END}
+

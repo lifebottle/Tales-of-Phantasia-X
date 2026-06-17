@@ -1,0 +1,479 @@
+Moria Mine (B<num5_000040A0>F){END}
+
+<center>--Moria Mine--<endalign>
+Entry without the permission of
+King Alvanista is expressly
+forbidden.{END}
+
+<color_0002>Flip the lever?<color_0000>{END}
+
+“The stairs past the corridor on the
+right lead to the third floor down.”{END}
+
+<Cless>
+ Huh?
+<pause>
+<Cless>
+ Now that I get a closer look, this
+ might be some kind of lever.
+<pause>
+<color_0002>Try pulling on the torch like a lever?<color_0000>{END}
+
+<Cless>
+ Nah, that's just silly...{END}
+
+<Cless>
+ This one isn't lit like the others.{END}
+
+“UP UP DOWN DOWN LEFT RIGHT LEFT
+RIGHT”{END}
+
+<Cless>
+ So lighting this one triggers a magic
+ circle, huh. This place is just full of
+ weird stuff...{END}
+
+<Cless>
+ This torch isn't lit.
+<pause>
+<Cless>
+ Don't think it's a lever like that last
+ one, though...{END}
+
+“If thou wouldst claim the prize,
+keep thy distance.”{END}
+
+<Cless>
+ Last time I checked, I didn't have
+ fists of steel.{END}
+
+<color_0002>Flip the switch?<color_0000>{END}
+
+<Cless>
+ ...Game over, my ass!!{END}
+
+<Klarth>
+ That would be us.
+<pause>
+<Klarth>
+ We've obtained a permit signed by
+ King Alvanista himself.
+<pause>
+Sentry
+ Ho, a permit?
+<pause>
+Sentry
+ Let's see it, then.
+<pause>
+<Klarth>
+ Here.
+<pause>
+Sentry
+ Hmm... Yes, interesting...
+<pause>
+Sentry
+ This thing looks incredibly
+ old-fashioned.
+<pause>
+Sentry
+ Really, it's got to be an antique.
+<pause>
+Sentry
+ Well, whatever.
+ There's no expiration date,
+ and it still looks legit.
+ Go on through.{END}
+
+<Klarth>
+ That would be us.
+<pause>
+<Klarth>
+ We've obtained a permit signed by
+ King Alvanista himself.
+<pause>
+Sentry
+ Oh, pardon me.
+<pause>
+Sentry
+ Please come on through.
+<pause>
+Sentry
+ Oh, hold on.
+ I just remembered something you
+ might find interesting.
+<pause>
+Sentry
+ A surveyor said something about an
+ altar to the Four Great Spirits at
+ the bottom of this place.{END}
+
+Sentry
+ Turn back.{END}
+
+Sentry
+ Halt!
+ Authorized personnel only.<wait>{END}
+
+Sentry
+ Several years ago, some dwarven
+ ruins were discovered in the
+ deeper levels of the mine.
+<pause>
+Sentry
+ There's a tunnel leading to them on
+ ninth floor down.{END}
+
+Sentry
+ Most adventurers give up and
+ complain about being outwitted by
+ a puzzle on the fifth floor down.{END}
+
+<Cless>
+ Urrrrrghhh...!!
+ Forget it! It won't budge!{END}
+
+Adventurer
+ I know there's a hidden passage in
+ here somewhere, but I can't find
+ the blasted thing!{END}
+
+Adventurer
+ Man, you've got to be kidding.
+ That was it? Gee, why didn't I think
+ of that before...{END}
+
+Adventurer
+ Hmmmmm... Something tells me
+ there's treasure in this room, but it
+ eludes me...{END}
+
+Adventurer
+ You notice the button in the room
+ through that door?
+<pause>
+Adventurer
+ Betcha it's the key to the next level
+ down, but I can't reach it.{END}
+
+<Cless>
+ A button on the wall, eh?
+<pause>
+<Mint>
+ But I don't think any of us have
+ arms long enough to reach it from
+ here.<wait>{END}
+
+<Klarth>
+ And thank goodness for that.
+ Don't we have anything else?
+ Like a tool, or something?<wait>{END}
+
+<Cless>
+ Such as...?
+ A ten-foot pole?<wait>{END}
+
+<Klarth>
+ Don't be so negative.
+ Now let me see...<wait>{END}
+
+<Cless>
+ Hey! Who gave you a license to go
+ fishing through my stuff!?
+<pause>
+{END}
+
+<Klarth>
+ WHUH-HO!!
+<pause>
+{END}
+
+<Klarth>
+ I would truly appreciate you taking
+ more care when organizing our
+ tools, thank you very much.<wait>{END}
+
+<Arche>
+ Ohhh yeah!
+ I totally forgot about that!<wait>{END}
+
+<Mint>
+ Yes. It may be just the thing.
+<pause>
+<Cless>
+ Ah! That's right!!
+<pause>
+<Cless>
+ Come on, let's give it a shot!{END}
+
+<Cless>
+ <Arche> has that broom of
+ hers, but it looks like it'll
+ only reach about halfway,
+ if that...
+<pause>
+<Klarth>
+ Not many options besides turning
+ around, I suppose.
+<pause>
+<Klarth>
+ Maybe we missed something that'll
+ let us press it from here.<wait>{END}
+
+<Mint>
+ Come to think, we really don't have
+ much information about this place.
+<pause>
+<Mint>
+ Perhaps we should leave for now
+ and return once we've prepared
+ ourselves better.
+<pause>
+<Arche>
+ Hey, we're totally on the same
+ page, <Mint>!
+<pause>
+<Arche>
+ Let's blow this popsicle stand and
+ go somewhere else for now.<wait>{END}
+
+<Cless>
+ “Somewhere else”?<wait>{END}
+
+<Arche>
+ Uh-huh!
+<pause>
+<Arche>
+ 'Cause dark places like this just
+ kinda gimme the creeps, y'know?
+<pause>
+<Arche>
+ ......<wait>{END}
+
+<Arche>
+ Hey, I got it!
+ Let's go laze in the
+ sun around Ollie!<wait>{END}
+
+<Cless>
+ Ollie?
+<pause>
+<Cless>
+ Who's that?
+ A friend of yours?
+<pause>
+<Arche>
+ No no, you silly goose.
+ I mean Olive Village!
+<pause>
+<Arche>
+ We can hitch a ride there from the
+ port just south of this gloomy
+ dump.<wait>{END}
+
+<Klarth>
+ Hey, are you out of your mind!?
+ We don't have time for that!
+<pause>
+<Arche>
+ But we have time to loaf around
+ here? Can't you see we've hit a
+ dead end?<wait>{END}
+
+<Klarth>
+ That MIGHT be true, but--
+<pause>
+<Mint>
+ I agree with <Arche>.
+ Putting this search on hold for now
+ would be for the best.
+<pause>
+<Klarth>
+ Fine, you've said your piece.
+<pause>
+{END}
+
+<unk1><Klarth>
+ Well, <Cless>, we know
+ how those two feel.
+ What do you think?<wait>{END}
+
+<Klarth>
+ Unlike them, I'd prefer to continue
+ searching around a little more to
+ make sure we haven't overlooked
+ anything, but...
+<pause>
+<Klarth>
+ You're the one in charge here.
+<pause>
+<Cless>
+ Well, let's see...{END}
+
+<unk1><Mint>
+ Oh, did you get an
+ idea, <Cless>?<wait>{END}
+
+<Cless>
+ Not exactly...
+<pause>
+<Arche>
+ Then why did we come back here?
+ We're stuck 'til we find something
+ to plunk that button with!<wait>{END}
+
+<Klarth>
+ As loathe as I am to admit it, she's
+ right.<wait>{END}
+
+<Cless>
+ Y-yeah, I know<panic><wait>{END}
+
+<Cless>
+ If only we had something that
+ could fly through the air.
+<pause>
+{END}
+
+<Cless>
+ Wait.
+<pause>
+<Cless>
+ Something that can fly...<wait>{END}
+
+<Cless>
+ ...through the air?<wait>{END}
+
+<Arche>
+ Um, um...
+<pause>
+{END}
+
+<Arche>
+ Y-you're giving me that creepy
+ look again!
+<pause>
+{END}
+
+<Cless>
+ ......
+<pause>
+<Klarth>
+ Aha, yes indeed.
+<pause>
+{END}
+
+<Arche>
+ Okay, fine!
+ You win.
+<pause>
+<Arche>
+ I just gotta zoom over there and
+ punch it...
+<pause>
+<Arche>
+ ...and everything'll be all hunky
+ dory, yeah?
+<pause>
+<Cless>
+ We're counting
+ on you, <Arche>!
+<pause>
+<Arche>
+ Time for lift-off, then<heart>{END}
+
+<Arche>
+ A little jab, and...
+<pause>
+<Arche>
+ ......
+<pause>
+<Arche>
+ What the?
+ It didn't budge an inch!
+<pause>
+<Arche>
+ Who made this piece of crap!?{END}
+
+<Arche>
+ I'm baaack<heart>
+<pause>
+<Cless>
+ Sorry for asking you to do
+ something that didn't work.<wait>{END}
+
+<Arche>
+ Oh, you owe me big time, big boy.
+<pause>
+<Cless>
+ How about I take you out for some
+ Mabo Curry the next time we're in
+ town?<wait>{END}
+
+<Arche>
+ Ewww! BARRRRF!<wait>{END}
+
+<Arche>
+ Take me out for a honey parfait
+ instead, would you?<heart>
+<pause>
+<Klarth>
+ Hey, I'll treat you to a double if it'll
+ get you to stop whining.
+<pause>
+{END}
+
+<Arche>
+ Oh, I'll hold you to that, then<heart>
+<pause>
+<Klarth>
+ Sheh...
+ Time to pack up and go, I guess.<wait>{END}
+
+<Arche>
+ Yay, it's settled!
+ Time to go get nice and
+ crispy after all!<wait>{END}
+
+<Cless>
+ But we still have to do something
+ about this button!
+<pause>
+<Klarth>
+ Yes indeed...
+<pause>
+<Arche>
+ Come on guys, give it up already!
+ Ollie! Ollie! Onto Ollie!<heart>
+<pause>
+<Klarth>
+ You realize the condition of you
+ getting that parfait is not talking,
+ correct?
+<pause>
+<Arche>
+ Aww, booooo...{END}
+
+Sentry
+ Several years ago, ruins of a
+ dwarven civilization were
+ excavated.
+<pause>
+<Cless>
+ Whoa, really?
+ Where at?
+<pause>
+Sentry
+ Tunnel's on the ninth floor down.
+<pause>
+<Klarth>
+ Ooh, dwarven ruins...
+<pause>
+{END}
+
+<Cless>
+ This could be pretty neat.
+ How about we take a look?
+<pause>
+<Klarth>
+ No objections here!{END}
+

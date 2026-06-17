@@ -1,0 +1,643 @@
+<Klarth>
+ Don't think we're going to learn
+ much about Edward at these docks.
+<pause>
+<Klarth>
+ Let's hustle to the nearby village
+ and query some locals.{END}
+
+Aegis' Shop{END}
+
+Traveling <var_8201>
+ As part of mine ascetic training, I
+ must cast aside needless worldly
+ thoughts...{END}
+
+Traveling <var_8201>
+ Thou art a swordsman?
+<pause>
+Traveling <var_8201>
+ Then this arcane arte book is now
+ thine.
+<pause>
+Traveling <var_8201>
+ I hath memorized its contents, and
+ hath no further use of it.<wait>{END}
+
+<color_0002><Cless> learned
+<var_9600>.<color_0000>{END}
+
+Traveler
+ I'm attaining enlightenment here.
+<pause>
+Traveler
+ Don't bother me.{END}
+
+Traveler
+ What, you're still here!?
+<pause>
+Traveler
+ Fine, if I sold you an arcane arte
+ book, would you go away?
+<pause>
+Traveler
+ 12000 gald!
+<pause>
+<color_0002>Buy it?<color_0000>{END}
+
+Traveler
+ Fngh!!{END}
+
+Traveler
+ You're broke!!{END}
+
+<color_0002><Cless> learned
+<var_9700>.<color_0000>
+<pause>
+Traveler
+ Hmph!{END}
+
+Traveler
+ Who are you and what do you
+ want!?
+<pause>
+Traveler
+ I have nothing for you!{END}
+
+Vagrant
+ We vagrants wander freely.{END}
+
+Vagrant
+ Are you a swordsman?
+<pause>
+Vagrant
+ Yeah?
+ Then take this arcane arte book.
+<pause>
+Vagrant
+ I'm done with it.<wait>{END}
+
+<color_0002><Cless> learned
+<var_A100>.<color_0000>{END}
+
+Vagrant
+ I have spent <num5_0000510C> years wandering
+ the globe in search of the meaning
+ of life.
+<pause>
+Vagrant
+ Though I have attained much
+ enlightenment, I have not yet
+ succeeded with my objective.{END}
+
+Captain
+ What's that?
+ A lift to Freyland?<wait>{END}
+
+Captain
+ Going to Alvanista?<wait>{END}
+
+Captain
+ Fare including shipping, food, and
+ insurance is <num5_0000510E> gald per person.
+<pause>
+Captain
+ That puts the total for all
+ of you at <num5_00005110> gald.
+ Still coming with us?{END}
+
+Captain
+ Sorry, but if you want us to make
+ room for you, you gotta have
+ every last gald.{END}
+
+Captain
+ Set sail!{END}
+
+Captain
+ Be seeing you, then.{END}
+
+Sailor
+ They say there's a spirit living in
+ Treant Forest.
+<pause>
+Sailor
+ What was it called, again?
+<pause>
+Sailor
+ I think it was...
+<pause>
+Sailor
+ Oregon?
+<pause>
+<Cless>
+ (Does he mean <var_D800>?){END}
+
+Sailor
+ Many lost explorers trying to find
+ the Moria Mine wind up here.
+<pause>
+Sailor
+ Fortunately for them,
+ it's not all that far.
+ It's just a bit further north.{END}
+
+Sailor
+ Sigh...
+<pause>
+Sailor
+ The ocean is calling me.{END}
+
+Sailor
+ Spirits?
+<pause>
+Sailor
+ Can't say I know much about 'em,
+ but...
+<pause>
+Sailor
+ There's this place called Olive
+ Village across the sea, on the
+ continent of Freyland.
+<pause>
+Sailor
+ Its history goes pretty far back, so
+ it might be worth the time to
+ check it out.{END}
+
+Sailor
+ My grandma told me a really
+ interesting story a long time ago...
+<pause>
+Sailor
+ It was about a mysterious
+ creature living in a wintry
+ woodland north of Midgard
+ called “Whitespire Forest.”{END}
+
+Sailor
+ You guys on your way to explore
+ the Moria Mine?
+<pause>
+Sailor
+ I heard there's an impassable
+ obstacle on the fifth level down.
+<pause>
+Sailor
+ But an explorer said you could get
+ past it with a special tool.{END}
+
+Sailor
+ My lifelong dream has been to
+ explore the world's vast seas to
+ uncover valuable treasure.
+<pause>
+Sailor
+ I wish I could abandon this life
+ right now and follow my true
+ calling!!{END}
+
+Sailor
+ I wanted to travel with Emily on a
+ ship someday; just the two of us,
+ all alone...
+<pause>
+Sailor
+ The soothing breeze blowing from
+ the sea, the radiant sun beaming
+ down, warming our bodies...
+ It was to be perfect.
+<pause>
+Sailor
+ But she dumped me...<wait>{END}
+
+Sailor
+ EMILYYYYYYYY!
+<pause>
+Sailor
+ COME BACK TO MEEEEEEEEE!!{END}
+
+Sailor
+ I'm going to travel on a ship with
+ just me and Cynthia...
+<pause>
+Sailor
+ The soothing breeze blowing from
+ the sea, the radiant sun beaming
+ down, warming our bodies...
+ It will be perfect.<wait>{END}
+
+Sailor
+ CYNTHIAAAAAA!
+<pause>
+Sailor
+ I LOVE YOUUUUUU!!!{END}
+
+<Cless>
+ Are you familiar with the Tale of
+ the Spirit?
+<pause>
+Traveler
+ Yeah, sure am.
+<pause>
+Traveler
+ In ages long past, there were no
+ monsters...
+<pause>
+<Cless>
+ I've already heard the first part.
+<pause>
+<Cless>
+ Could you tell me what happens
+ after that?
+<pause>
+<Cless>
+ You know, after the bad people
+ captured the Spirit of the Moon...
+<pause>
+Traveler
+ Oh, right.
+ Let's see...
+<pause>
+Traveler
+ The evil people confined the spirit
+ in a pitch-black underground cell
+ where moonlight did not reach.
+<pause>
+Traveler
+ The poison enveloped the surface
+ of the entire planet, and mankind,
+ including the evil people, was wiped
+ out.
+<pause>
+Traveler
+ However, a scant few humans
+ escaped the predicament.
+<pause>
+Traveler
+ Magic users gathered to erect a
+ large barrier to shield themselves
+ from the poison.
+<pause>
+Traveler
+ The remnants of mankind lived
+ under its protection for hundreds
+ of years.
+<pause>
+Traveler
+ The population steadily rose in that
+ time...
+<pause>
+Traveler
+ Eventually, their numbers grew
+ sufficient enough to found a new
+ nation.
+<pause>
+Traveler
+ ...And that's all I know of the story.
+<pause>
+Traveler
+ Sorry.{END}
+
+Traveler
+ Don't interfere.
+<pause>
+Traveler
+ I'm immersed in meditation, so...{END}
+
+<Cless>
+ Do you know the Tale of the Spirit?
+<pause>
+Sailor
+ Oh yeah, Grandma told me that one
+ all the time as a tyke.
+<pause>
+Sailor
+ Once upon a time, there were no
+ monsters--
+<pause>
+<Cless>
+ Wait, I know the beginning.
+<pause>
+<Cless>
+ What happens hundreds of years
+ after the poison was spread
+ around the world?
+<pause>
+Sailor
+ Oh, let me see...
+<pause>
+Sailor
+ After those many generations, the
+ people beneath the barrier began
+ to forget why it had been created
+ in the first place.
+<pause>
+Sailor
+ They began to get superstitious,
+ and believed there was nothing
+ beyond but an endless,
+ all-consuming abyss.
+<pause>
+Sailor
+ Any thought of venturing out and
+ returning was considered
+ inconceivable.
+<pause>
+Sailor
+ Hundreds more years passed, and a
+ young soldier, quite allegiant to his
+ nation, appeared.
+<pause>
+Sailor
+ One day, he went to investigate the
+ ruins that lie beneath the ground.
+<pause>
+Sailor
+ He found something spectacular:
+ the Spirit of the Moon.
+<pause>
+Sailor
+ He was instantly smitten by her
+ incomparable beauty.
+<pause>
+Sailor
+ His heart stolen, the soldier fell in
+ love with her.
+<pause>
+Sailor
+ However, the king disapproved of
+ this, and attempted once again to
+ confine the spirit.
+<pause>
+Sailor
+ He wanted her power for his own
+ ends.
+<pause>
+Sailor
+ And, uhhh... I don't remember
+ anything after that.{END}
+
+Sailor
+ Whenever I gaze out over the
+ endless, deep blue sea, I start to
+ feel like a kid again.{END}
+
+Sammy
+ Hi there<heart>
+<pause>
+Sammy
+ Welcome to the workshop of Aegis,
+ the master craftsman.{END}
+
+Sammy
+ Come back again, mister<heart>{END}
+
+Old Man
+ This smithy was founded by the
+ successors of Aegis, the peerless
+ dwarven craftsman.
+<pause>
+Old Man
+ Our prices are so low, and our
+ workmanship is so far ahead of
+ the pack, that there's simply no
+ competition.
+<pause>
+Old Man
+ Buy some.
+ You've nothing to lose.
+<pause>
+Old Man
+ And if our goods are out of your
+ price range, here's the secret to
+ becoming rich:
+<pause>
+Old Man
+ You know about “Trade” goods?
+<pause>
+Old Man
+ You can game the foreign market
+ and make a handsome sum with
+ them.
+<pause>
+Old Man
+ Shop around to find out where the
+ demand is!{END}
+
+Craftsman
+ Well, that's it...
+ Maybe I should take the rest of the
+ day off...{END}
+
+Craftsman
+ Hey there...
+<pause>
+Craftsman
+ You got any ivory?
+ I've had an itching to carve
+ something out of the stuff lately.
+<pause>
+Craftsman
+ Just for the pleasure, I'll make you
+ something out of it in return.<wait>{END}
+
+<Cless>
+ We've acquired some during our
+ journey.
+<pause>
+Craftsman
+ Oh, is that right?
+ Well, how about it?
+ We have a deal?{END}
+
+Craftsman
+ Fine, be that way!{END}
+
+Craftsman
+ Nice.
+ Just give me a little time.
+<pause>
+Craftsman
+ A couple hours or so should do it...<wait>{END}
+
+Craftsman
+ Hey, Gramps!
+ Gimme a hand!{END}
+
+<Cless>
+ We've been journeying for a while,
+ but it seems we haven't come
+ across any.
+<pause>
+Craftsman
+ Figures. With the recent demand
+ for Ivory, poachers are working
+ overtime. The elephants won't be
+ around much longer at this rate.{END}
+
+Ten
+ Sorry, I'm all sold out.{END}
+
+Ten
+ Welcome.
+ I've got something really good for
+ sale.{END}
+
+Ten
+ Thanks for the business!
+<pause>
+Ten
+ To show my appreciation, I'll give
+ you my cherished collectible.
+<pause>
+Ten
+ I doubt you'll find one anywhere
+ else.<wait>{END}
+
+<color_0002>Acquired the <item_8D01>.{END}
+
+Ten
+ I know it's pricey, but I promise
+ you it's worth it!{END}
+
+Vocal Impressionist
+ Would you like to hear my
+ “<heart><heart><heart>” impression?{END}
+
+Vocal Impressionist
+ All right, here goes!{END}
+
+Vocal Impressionist
+ Well, what did you think?
+ Sounded like the real thing, eh?{END}
+
+Vocal Impressionist
+ Listen next time then, okay?{END}
+
+Vocal Impressionist
+ We're a group of vocal
+ impressionists.
+<pause>
+Vocal Impressionist
+ Why don't you listen to a short tale
+ with our voices?{END}
+
+Vocal Impressionist
+ Would you like to hear my
+ “Cooking Duty” impression?{END}
+
+Vocal Impressionist
+ All right, here goes!{END}
+
+Vocal Impressionist
+ Well, what did you think?
+ Sounded like the real thing, eh?{END}
+
+Vocal Impressionist
+ Listen next time then, okay?{END}
+
+Frog
+ Ninja arte!
+ Jiraiya!<wait>{END}
+
+Frog
+ Ribbit?{END}
+
+Mitchell
+ This is the voice...of love!{END}
+
+Performer
+ Would you like to hear my
+ “???” impression?{END}
+
+Vocal Impressionist
+ All right, here goes!{END}
+
+Vocal Impressionist
+ Well, what did you think?
+ Sounded like the real thing, eh?{END}
+
+Vocal Impressionist
+ Listen next time then, okay?{END}
+
+Vocal Impressionist
+ Would you like to hear my
+ “Boundless Battle” impression?{END}
+
+Vocal Impressionist
+ All right, here goes!{END}
+
+Vocal Impressionist
+ Well, what did you think?
+ Sounded like the real thing, eh?{END}
+
+Vocal Impressionist
+ Listen next time then, okay?{END}
+
+Small Child
+ These people can make all kinds of
+ funny voices.{END}
+
+<Arche>
+ You're saying Alvanista's fashion
+ is the latest “in” thing?
+ The more things change...<wait>{END}
+
+<Klarth>
+ (...Good lord.
+ Is vapid, trifling nonsense
+ the only thing on the minds
+ of young women?)
+<pause>
+<Klarth>
+ (If I had a choice between putting
+ up with this kiddie twaddle for
+ another hour or bashing my skull
+ in, I think I'd choose the latter.){END}
+
+Craftsman
+ All done!{END}
+
+Craftsman
+ Thanks for waiting!
+<pause>
+Craftsman
+ I made some <item_9D00>s out of
+ the ivory you gave me!
+<pause>
+Craftsman
+ You get <num5_0000510C> of them.<wait>{END}
+
+<color_0002>Acquired your <item_9D00> share.<color_0000>
+<pause>
+Craftsman
+ Bring me some more ivory and I'll
+ carve another batch.{END}
+
+<unk1><Klarth>
+ Thank the gods.
+ Now let's get the hell out of here.
+<pause>
+<Klarth>
+ Oh, hmm.
+ What happened to <Chester>?
+<pause>
+<Arche>
+ He went outside for fresh air or
+ something.<wait>{END}
+
+<Arche>
+ Well, Sam-Sam, the chit-chat was
+ fun, but I gotta go now.
+<pause>
+Sammy
+ That's okay.
+ See ya later, Sis.{END}
+
+<Chester>
+ Man, what took that guy so long?
+<pause>
+<Chester>
+ I almost fell asleep.{END}
+

@@ -1,0 +1,97 @@
+Depths of Treant Forest{END}
+
+<Cless>:<nl>
+ Is this it? That “Sacred Wood” the
+ elven bowsmith mentioned?
+<pause>
+<Chester>:<nl>
+ Dude, just look at it...
+<pause>
+<Chester>:<nl>
+ It's unreal.
+ A bow made from this would
+ be the stuff of legends.
+<pause>
+<Cless>:<nl>
+ And that bow could be yours!
+ Let's take it to the smith!
+<pause>
+<Chester>:<nl>
+ Hell yeah!
+ Now we're talkin'!<wait>{END}
+
+<color_0002>Acquired the <item_4400>.<color_0000>{END}
+
+<Cless>:<nl>
+ Should we go back?
+<pause>
+<speed_0000><color_0002>Return to the stone tablet?<color_0000><speed_FFFF>{END}
+
+<color_0002><Klarth> has run out of TP.
+<pause>
+Origin's power cannot be maintained
+for much longer.<wait>{END}
+
+<color_0002><speed_0000>What will you do?<nl>
+1. Open the menu<nl>
+2. Return to the stone tablet{END}
+
+Bush Baby:<nl>
+ You wanna go back?{END}
+
+Bush Baby:<nl>
+ When you take one treasure,
+ another will vanish.{END}
+
+Bush Baby:<nl>
+ There might be treasure chests
+ hidden in unseen places.{END}
+
+Bush Baby:<nl>
+ There are others of my kind here
+ who can speak the human tongue.{END}
+
+Bush Baby:<nl>
+ I wouldn't go opening treasure
+ chests recklessly.{END}
+
+Bush Baby:<nl>
+ This forest has a mysterious magic
+ cast upon it.{END}
+
+Bush Baby:<nl>
+ The treasure in this forest is not
+ unique, so don't worry if one
+ escapes you.{END}
+
+Bush Baby:<nl>
+ It's thanks to the strange power of
+ this forest that we can speak with
+ humans.{END}
+
+Bush Baby:<nl>
+ The treasure chests in this forest
+ are bound by the forest's
+ mysterious power.{END}
+
+Bush Baby:<nl>
+ Be careful that you haven't
+ forgotten any treasure chests
+ before you move on.{END}
+
+Guardian Deity:<nl>
+ “The heart of Treant this way lies.”{END}
+
+Guardian Deity:<nl>
+ “The guide through this sea of
+ trees, are we.”{END}
+
+Guardian Deity:<nl>
+ “Fortuitous, east is.”{END}
+
+Guardian Deity:<nl>
+ “Near, near! Treasure, treasure!”{END}
+
+Guardian Deity:<nl>
+ Getting warmer you are!{END}
+

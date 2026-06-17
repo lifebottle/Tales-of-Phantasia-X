@@ -1,0 +1,132 @@
+Cave of Spirits{END}
+
+<color_0002>Turn the dial?<color_0000>{END}
+
+“If thou dost desire to repeal the
+seal, speaketh the keyword.”
+<pause>
+<speed_0000>1. G
+2. D
+3. B
+4. Y{END}
+
+<speed_0000>1. A
+2. E
+3. I
+4. O{END}
+
+<speed_0000>1. M
+2. F
+3. E
+4. L{END}
+
+<speed_0000>1. I
+2. L
+3. T
+4. N{END}
+
+“The door is open...”{END}
+
+“Incorrect!”{END}
+
+“Thou hast provided some meaning,
+but are still incorrect!”{END}
+
+<var_D100>lette
+ Ohhh...
+ There you are...{END}
+
+<Cless>
+ What is this place?{END}
+
+<var_D100>
+ Check it, brah, some dudes are
+ homin' in on our turf!{END}
+
+<var_D100>
+ Totally bogus dudes...
+ We got rocked to the max.
+<pause>
+<Klarth>
+ Yyyyyeah.
+ Now, can we seal the pact?
+<pause>
+<var_D100>
+ Hey, that's some nice
+ schwag you got there.
+ That ruby ring is SICK, brah!{END}
+
+<Klarth>
+ Here and now, I offer my request
+ to the Spirit of Earth.
+<pause>
+<Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon <var_D100>.<color_0000>{END}
+
+<var_D100>lette
+ I'm lost, dudes! Lost!{END}
+
+<var_D100>lette
+ I'm a total lamer, dudes.
+ I have, like, NO idea where I am.
+<pause>
+<var_D100>lette
+ Help a brah out?
+<pause>
+<color_0002>Bring it with you?<color_0000>{END}
+
+<var_D100>lette
+ Schwuh? That's like, totally
+ not cool, dudes.{END}
+
+<var_D100>lette
+ Righteous, dudes.{END}
+
+<var_D100>lette
+ We're TOTALLY missin' someone,
+ dudes.
+<pause>
+<var_D100>lette
+ Hey, have you scoped a little dude
+ all by his lonesome?<wait>{END}
+
+<var_D100>lette
+ ...Dude, you serious?
+<pause>
+<var_D100>lette
+ You wanna get all aggro with us?
+ Why you bein' such a hater?
+<pause>
+<color_0002>Fight with it?<color_0000>{END}
+
+<var_D100>lette
+ Totally weaksauce, dudes.{END}
+
+<var_D100>lette
+ You dudes are total nutters.
+ You can't do jack to us, man!{END}
+
+<var_D100>lette
+ Schwuh?
+<pause>
+<var_D100>lette
+ Why's the alarm goin' all spazz on
+ us?{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C300>.<color_0000>{END}
+
+<Cless>
+ But I don't have any use for it...
+<pause>
+<Cless>
+ I'll put it back...{END}
+

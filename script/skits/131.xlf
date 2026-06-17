@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_631">
+        <source>So, they're now calling us the Heroes of Legend...</source>
+        <target state="translated">So, they're now calling us the Heroes of Legend...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_632">
+        <source>Like they say, history is created by great men.</source>
+        <target state="translated">Like they say, history is created by great men.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_633">
+        <source>Ehehe... Arrogant much?</source>
+        <target state="translated">Ehehe... Arrogant much?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_634">
+        <source>But, really, Edward should
+have been the one to defeat Dhaos.</source>
+        <target state="translated">But, really, Edward should
+have been the one to defeat Dhaos.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_635">
+        <source>Fame was not his objective.
+Of course, neither was ours.</source>
+        <target state="translated">Fame was not his objective.
+Of course, neither was ours.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_636">
+        <source>Let them call us whatever they like.</source>
+        <target state="translated">Let them call us whatever they like.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_637">
+        <source>Okay... But it still doesn't seem right to me.</source>
+        <target state="translated">Okay... But it still doesn't seem right to me.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_638">
+        <source>C'mon, lighten up a little.</source>
+        <target state="translated">C'mon, lighten up a little.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

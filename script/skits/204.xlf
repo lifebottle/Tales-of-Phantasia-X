@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1025">
+        <source>I got you! Demon Fang!</source>
+        <target state="translated">I got you! Demon Fang!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1026">
+        <source>Eat this! Ice Needles!</source>
+        <target state="translated">Eat this! Ice Needles!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1027">
+        <source>This is the end! Go! Efreet!</source>
+        <target state="translated">This is the end! Go! Efreet!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="skit_1028">
+        <source></source>
+        <target/>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1029">
+        <source>Yeah!</source>
+        <target state="translated">Yeah!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="skit_1030">
+        <source></source>
+        <target/>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1031">
+        <source>We did it!</source>
+        <target state="translated">We did it!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1032">
+        <source>Please, everyone--it's only a cockroach.</source>
+        <target state="translated">Please, everyone--it's only a cockroach.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

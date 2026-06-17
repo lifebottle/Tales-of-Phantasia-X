@@ -1,0 +1,102 @@
+The sign reads:
+
+<center>“The Tree of Spirits”<endalign>
+<pause>
+“It is said that a spirit inhabits this
+tree.”
+<pause>
+“We request everyone's cooperation
+in preserving it for future
+generations.”
+<right>-Euclid Tourism Association”<endalign>{END}
+
+<Cless>
+ Huh. This side's blank.{END}
+
+<Cless>
+ Huh?
+<pause>
+<Cless>
+ I lost sight of it...
+<pause>
+<Chester>
+ Well, not like it could have gone
+ very far...<wait>{END}
+
+<Chester>
+ I'm gonna backtrack a little.{END}
+
+<Cless>
+ But didn't it run back here...?{END}
+
+<speed_0000>???
+ <speed_0004>Do not...
+<center>...harm the tree...<endalign><speed_FFFF>{END}
+
+<Chester>
+ No luck.
+<pause>
+<Chester>
+ How about you?
+<pause>
+<Chester>
+ Hey, everything all right, buddy?
+ You look like you just saw a ghost
+ or something.
+<pause>
+<Cless>
+ Yeah...{END}
+
+<Chester>
+ There it is!{END}
+
+<Cless>
+ Wow!
+ We got a huge one!<wait>{END}
+
+<Chester>
+ Yeah!
+ Ami won't be disappointed by this
+ sucker!
+<pause>
+<Chester>
+ Well, time to go home and share
+ the wealth!<wait>{END}
+
+<Chester>
+ Wh...what the!?
+<pause>
+<Cless>
+ That's<speed_0010>...<speed_FFFF>
+<pause>
+<Cless>
+ ...the village's bell!!
+<pause>
+<Cless>
+ What's going on!?
+<pause>
+<Chester>
+ We've gotta hurry!{END}
+
+<Chester>
+ Dude, look!
+ A boar!{END}
+
+<Chester>
+ After it!{END}
+
+<Cless>
+ Ahead!!{END}
+
+<Chester>
+ Hahah!
+ You ain't gettin' away from us!{END}
+
+<Chester>
+ You want to go home already?
+<pause>
+<Chester>
+ Come on, man.
+ We haven't even caught anything
+ yet!{END}
+

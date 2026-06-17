@@ -1,0 +1,985 @@
+宿屋『アルヴァニスタＩＮＮ』{END},Inn “Alvanista Inn”{END}
+スーパー『食べすぎ』{END},Supermarket “Pig-Out”{END}
+冒険者ギルド『パニック』{END},Adventurer's Guild “Panic”{END}
+"<Arche>
+「早く帰ってきてね<heart>」{END}","<Arche>:<nl>
+ Don't keep little ol' me waiting <heart>
+ So hurry back, 'kay?{END}"
+"食材屋
+「いらっしゃい」{END}","Clerk:<nl>
+ Welcome to Pig-Out.{END}"
+"食材屋
+「ありがとうございました」{END}","Clerk:<nl>
+ Thank you very much.{END}"
+"宿の主人
+「いらっしゃい、一晩<num1_0000003C>ガルド
+　になります」
+<pause>
+宿の主人
+「泊まりますか？」{END}","Innkeeper:<nl>
+ Welcome to the Alvanista Inn.
+ One night is <num1_0000003C> gald.
+<pause>
+Innkeeper:<nl>
+ Will you be staying?{END}"
+"宿の主人
+「お客さん、お金が足りませんよ」{END}","Innkeeper:<nl>
+ Sir, you don't have enough money.{END}"
+"宿の主人
+「ゆっくりしていって下さい」{END}","Innkeeper:<nl>
+ Good night.{END}"
+"宿の主人
+「また来て下さいね」{END}","Innkeeper:<nl>
+ Please come again.{END}"
+"町の人
+「魔術の源であるマナは魔術的光
+　合成によって生まれる、なんて
+　説があるんだ」
+<pause>
+町の人
+「けど、魔術的光合成ってなんな
+　んだ？」{END}","Citizen:<nl>
+ There's a theory that mana, the
+ source of magic, is created by a
+ process called magical
+ photosynthesis.
+<pause>
+Citizen:<nl>
+ Sounds pretty fancy, but what the
+ heck differentiates it from normal
+ photosynthesis?{END}"
+"料理人
+「ナポリタン作ってるかい？」{END}","Chef:<nl>
+ Have you made Spaghetti?{END}"
+"料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}","Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}"
+"料理人
+「この料理を伝授しよう！」<wait>{END}","Chef:<nl>
+ I'll teach you this dish!<wait>{END}"
+"<color_0002>ナポリタンを料理できるようになり
+ました。<color_0000>{END}",<color_0002>Learned the recipe for Spaghetti.<color_0000>{END}
+"料理人
+「おお、なんということだ！」{END}","Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}"
+"料理人
+「さかななべ作ってるかい？」{END}","Chef:<nl>
+ Have you made Seafood Stew?{END}"
+"料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}","Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}"
+"料理人
+「この料理を伝授しよう！」<wait>{END}","Chef:<nl>
+ I'll teach you this dish!<wait>{END}"
+"<color_0002>さかななべを料理できるようになり
+ました。<color_0000>{END}","<color_0002>Learned the recipe for Seafood
+Stew.<color_0000>{END}"
+"料理人
+「おお、なんということだ！」{END}","Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}"
+"町の人
+「アルヴァニスタの王族の系図を
+　たどっていくと途中でエルフが
+　いるって話だよ」{END}","Citizen:<nl>
+ If you look at the King of Alvanista's
+ family tree, you'll find some elves
+ a ways back.{END}"
+"町の人
+「エルフは美形だ」
+<pause>
+町の人
+「エルフは美人だ」
+<pause>
+町の人
+「キィーッくやしい！！」
+<pause>
+町の人
+「でもおいらも捨てたもんじゃな
+　いだろう？」
+<pause>
+町の人
+「へへへっ、何しろ毎日自然食品
+　ばっかり食べてるからな」{END}","Citizen:<nl>
+ Elves are so beautiful, so majestic,
+ and...damn are they hot!
+<pause>
+Citizen:<nl>
+ I need to date one, NOW!!!
+<pause>
+Citizen:<nl>
+ With my luck, though, I bet they'd
+ just shoot me down...
+<pause>
+Citizen:<nl>
+ I bet they're so foxy because of all
+ those organic foods they eat! Oh
+ man, hubba-hubba!{END}"
+"マスター
+「いや〜、しみじみするねぇ」{END}","Bartender:<nl>
+ At least you're honest.{END}"
+"マスター
+「一流の冒険者ってのは戦ってば
+　かりじゃいけねえな」
+<pause>
+マスター
+「ピアノの演奏でも聞いて心を落
+　ち着けていかねえか？」<wait>{END}","Bartender:<nl>
+ You upper-rank adventurers
+ fight too much.
+ It's not good for your nerves.
+<pause>
+Bartender:<nl>
+ How about a soothing piano
+ performance to help you loosen
+ up?<wait>{END}"
+"マスター
+「サクラバ五世っていうすごいピ
+　アニストが来てるんだ」<wait>{END}","Bartender:<nl>
+ The great pianist Sakuraba V is
+ performing today.<wait>{END}"
+"マスター
+「サクラバっていうすごいピアニ
+　ストが来てるんだ」<wait>{END}","Bartender:<nl>
+ The great pianist Sakuraba is
+ performing today.<wait>{END}"
+"マスター
+「聞いてって損はないぜ」
+<pause>
+<color_0002>ピアノを聞きますか？<color_0000>{END}","Bartender:<nl>
+ Wouldn't you like
+ to hear him play?
+ It's on the house!
+<pause>
+<color_0002>Listen to the piano?<color_0000>{END}"
+"マスター
+「まあ無理にとは言わないさ」{END}","Bartender:<nl>
+ Well, I won't force you.{END}"
+"マスター
+「おい、サクラバ、一つ頼むぜ」{END}","Bartender:<nl>
+ Hey, Sakuraba!
+ Play us a song.{END}"
+"サクラバ五世
+「新曲があるんだ。聞いてくれな
+　いか？」{END}","Sakuraba V:<nl>
+ I just wrote a new song.
+ Do you want to hear it?{END}"
+"サクラバ五世
+「じゃあ、いつものやつを」{END}","Sakuraba V:<nl>
+ Oh well.{END}"
+"サクラバ五世
+「じゃあ、新曲のほうを」{END}","Sakuraba V:<nl>
+ Well, here it is.{END}"
+"マスター
+「あんたらにはこの芸術は理解で
+　きなかったかな？」{END}","Bartender:<nl>
+ You don't understand this whole art
+ thing?{END}"
+"マスター
+「どうだい、すごいだろ？」
+<pause>
+マスター
+「いや〜何て言うか、心に染み渡
+　る曲だよな」{END}","Bartender:<nl>
+ What do you think?
+ Great, huh?
+<pause>
+Bartender:<nl>
+ No, it's more than that.
+ It...it penetrates the heart.{END}"
+"<Cless>
+「モーリア坑道の入坑許可証が届
+　いてると思うんですけど」
+<pause>
+マスター
+「おう、来てるぜ」<wait>{END}","<Cless>:<nl>
+ Excuse me, but I was wondering if
+ any Moria Mine permits came in
+ recently.
+<pause>
+Bartender:<nl>
+ Yeah, they dropped one off not too
+ long ago. Let's see...<wait>{END}"
+"<unk1>マスター
+<Cless>さんってぇのは、あんたかい？」<wait>{END}","<unk1>Bartender:<nl>
+ Yeah, this one says it's
+ for a Mr. <Cless> Alvein.
+ Would that happen to be you?
+<pause>
+<Cless>:<nl>
+ Yes, that's correct.<wait>{END}"
+"マスター
+「それじゃあ、ここに受け取りの
+　サインをしてくれ」<wait>{END}","Bartender:<nl>
+ Well, then.
+ Just sign here and it's yours.<wait>{END}"
+"<color_0002>モーリア坑道の入坑許可証を手に
+入れました。<color_0000><wait>{END}","<color_0002>Acquired a permit of entry to the
+Moria Mine.<color_0000><wait>{END}"
+"<Cless>
+「ありがとう」{END}","<Cless>:<nl>
+ Thank you.{END}"
+"<unk1>マスター
+だが今行っても仕方ないぜ」
+<pause>
+マスター
+途中で行き止まりになってるらしいんだ」
+<pause>
+<Cless>
+行き止まり？」
+<pause>
+<Klarth>
+一度行ってみないと、どんな状況かわからんな・・・」
+<pause>
+<Mint>
+モーリア坑道の前に、別な所を探索してみませんか？」
+<pause>
+<Klarth>
+そうだなぁ・・・」
+<pause>
+<Klarth>
+<Cless>、ここは君の判断にまかせるよ」{END}","<unk1>Bartender:<nl>
+ Sounds like there isn't much reason
+ to go right now, though.
+<pause>
+Bartender:<nl>
+ The guys who come back keep
+ talking about a snag somewhere
+ along the way.
+<pause>
+<Cless>:<nl>
+ I don't know if I like the sound of
+ that...
+<pause>
+<Klarth>:<nl>
+ Personally, I think we should go
+ check the place out for ourselves,
+ just to be sure.
+<pause>
+<Mint>:<nl>
+ I don't know...<nl>
+ Maybe it would be better if we
+ explored some other places before
+ we go there.
+<pause>
+<Klarth>:<nl>
+ I suppose that's an option...
+<pause>
+<Klarth>:<nl>
+ Well, <Cless>, you're the leader.
+ We'll leave this up to your
+ judgment.{END}"
+"マスター
+「ここはあんたらのような子供が
+　来る所じゃねえよ」
+<pause>
+マスター
+「さっさと帰るがいいさ・・・」{END}","Bartender:<nl>
+ This isn't a place for kids like you.
+<pause>
+Bartender:<nl>
+ Beat it!{END}"
+"女の人
+「ねえ、お兄さん」
+<pause>
+女の人
+「私といいことしない？」<wait>{END}","Woman:<nl>
+ Hey, big boy.
+<pause>
+Woman:<nl>
+ You looking for a good time?<wait>{END}"
+"男の人
+「ねえ、彼女」
+<pause>
+男の人
+「僕といい所に行かない？」<wait>{END}","Man:<nl>
+ Hey, babe.
+<pause>
+Man:<nl>
+ How about we blow this popsicle
+ stand and go someplace nice?<wait>{END}"
+"<Cless>
+（ナンパしているようだ・・・）{END}","<Cless>:<nl>
+ (Flirting...){END}"
+"男の人
+「あ、あの、結構です・・・」{END}","Man:<nl>
+ Uh--um...<nl>
+ I-I'm f-fine, th-thanks...{END}"
+"女の人
+「しつこい男はきらいだよ」
+<pause>
+女の人
+「また出直しておいで！」{END}","Woman:<nl>
+ I hate this stubborn jerk!
+<pause>
+Woman:<nl>
+ I wish he'd leave me alone already!{END}"
+"町の人
+「モーリア坑道にはまだまだ深い
+　謎が隠されているっていう話だ
+　よ」{END}","Citizen:<nl>
+ I bet they haven't uncovered all
+ the mysteries of the Moria Mine.{END}"
+"町の人
+「今はもう見ることのないドワー
+　フ族の鉱山」
+<pause>
+町の人
+「それがモーリア坑道跡さ」{END}","Citizen:<nl>
+ You know the Moria Mine?
+<pause>
+Citizen:<nl>
+ It once belonged to the now extinct
+ dwarven race.{END}"
+"兵士
+「ドワーフ族はその器用な手で、
+　へんてこりんなアイテムを作っ
+　ていたらしいぜ」{END}","Soldier:<nl>
+ The dwarves had incredibly
+ dexterous hands that enabled them
+ to create fascinating and exotic
+ items.{END}"
+"兵士
+「モーリア坑道には、たいそうな
+　お宝が眠ってるっていう話だぜ」{END}","Soldier:<nl>
+ Some people believe that there's
+ great treasure yet to be unearthed
+ from the Moria Mine.{END}"
+"サクラバ五世
+「私の家系代々はすばらしいピ
+　アニストでした」
+<pause>
+サクラバ五世
+「私もピアノを弾きますが、まだ
+　まだ彼らにはおよびません」{END}","Sakuraba V:<nl>
+ My family consists of generations
+ and generations of marvelous
+ pianists.
+<pause>
+Sakuraba V:<nl>
+ I play the piano too, but I still have
+ a ways to go before I can match
+ my ancestors.{END}"
+"サクラバ
+「酒飲んでるほうが調子がいいん
+　だよなぁ」<wait>{END}","Sakuraba:<nl>
+ My rhythm's even better when I'm
+ tipsy.<wait>{END}"
+"サクラバ
+「秘密の言葉で扉よ開け」{END}","Sakuraba:<nl>
+ Open the door with the secret
+ word.{END}"
+"サクラバ
+「ところで、秘密の言葉を買わな
+　いかい？」
+<pause>
+サクラバ
+「１０００ガルドでいいよ」
+<pause>
+<color_0002>秘密の言葉を買いますか？<color_0000>{END}","Sakuraba:<nl>
+ By the way, do you want to buy
+ the secret word?
+<pause>
+Sakuraba:<nl>
+ It'll be 1000 gald.
+<pause>
+<color_0002>Buy the secret word?<color_0000>{END}"
+"サクラバ
+「あ、そう」{END}","Sakuraba:<nl>
+ Ah, I see.{END}"
+"サクラバ
+「お金足りないよ」{END}","Sakuraba:<nl>
+ You don't have the money.{END}"
+"サクラバ
+「それは『ヨチイダ』だ」
+<pause>
+サクラバ
+「探検家から聞いたものなんだけ
+　ど・・・」
+<pause>
+サクラバ
+「これは、ある洞窟の入口を開け
+　るための呪文と言われているん
+　だってさ」{END}","Sakuraba:<nl>
+ It's “Y-O-M-I.”
+<pause>
+Sakuraba:<nl>
+ I heard it from an explorer.
+<pause>
+Sakuraba:<nl>
+ He said there's some cave entrance
+ you can open by saying those
+ letters in that order.{END}"
+"町の人
+「召喚術の中には、魔界の者の力
+　を借りるものもあるそうな」
+<pause>
+町の人
+「どこで手に入れるんだろう？」{END}","Citizen:<nl>
+ Apparently, summoning artes can
+ also draw power from the beings
+ of Daemonium.
+<pause>
+Citizen:<nl>
+ I wonder how you can set that up.
+ Sounds pretty badass.{END}"
+"冒険者
+「モーリア坑道には王国が発行す
+　る許可証がないと入れないんだ」
+<pause>
+冒険者
+「許可証はギルドを通じて申請す
+　るんだけど・・・」
+<pause>
+冒険者
+「審査が厳しくてなかなか発行し
+　てもらえないんだ」
+<pause>
+冒険者
+「俺も審査を待ってるんだ」{END}","Adventurer:<nl>
+ You can't enter the Moria Mine
+ without a permit issued by the
+ kingdom.
+<pause>
+Adventurer:<nl>
+ You can apply for one right here at
+ the guild, but...
+<pause>
+Adventurer:<nl>
+ They don't hand the
+ things out like candy.
+ The background check is
+ very strict and thorough.
+<pause>
+Adventurer:<nl>
+ I'm still waiting for them to finish
+ mine.{END}"
+"冒険者
+「フレイランドの溶岩地帯には、
+　いにしえの塔があるっていう話
+　だよ」{END}","Adventurer:<nl>
+ I've heard people saying there's
+ some ancient tower in the lava
+ zone of Freyland.{END}"
+"冒険者
+「モーリア坑道の入坑許可証って
+　すごく高いらしいの」
+<pause>
+冒険者
+「まぁコネでもあれば別らしいけ
+　どね」{END}","Adventurer:<nl>
+ I guess a permit for entering the
+ Moria Mine costs a pretty penny.
+<pause>
+Adventurer:<nl>
+ Unless you have connections, that
+ is.{END}"
+"兵士
+「うええ・・・」
+<pause>
+兵士
+「気持ち悪い・・・」
+<pause>
+兵士
+「飲みすぎました・・・」<wait>{END}","Soldier:<nl>
+ Bleeech...!
+<pause>
+Soldier:<nl>
+ Feel like crap...
+<pause>
+Soldier:<nl>
+ Drank too much...<wait>{END}"
+"兵士
+「お、奥義書・・・」
+<pause>
+兵士
+「お、おええぇぇ〜・・・」{END}","Soldier:<nl>
+ A-Arcane arte book...
+<pause>
+Soldier:<nl>
+ Hu-hurrrr...{END}"
+"兵士
+「き、君、剣士？」
+<pause>
+兵士
+「この・・・」
+<pause>
+兵士
+「奥義書、売ってやろうか？」
+<pause>
+<Cless>
+「え、奥義書！？」
+<pause>
+兵士
+「う、うう・・・」
+<pause>
+兵士
+「６０００ガルドで、いいぜ」
+<pause>
+<color_0002>買いますか？<color_0000>{END}","Soldier:<nl>
+ Y-You, a swordsman?
+<pause>
+Soldier:<nl>
+ Wanna...
+<pause>
+Soldier:<nl>
+ ...buy this...arcane arte book?
+<pause>
+<Cless>:<nl>
+ Did you say arcane arte book!?
+<pause>
+Soldier:<nl>
+ Ooh, ugh...
+<pause>
+Soldier:<nl>
+ 6000 gald...is good.
+<pause>
+<color_0002>Buy it?<color_0000>{END}"
+"兵士
+「うう・・・」{END}","Soldier:<nl>
+ Ugh...{END}"
+"兵士
+「金が・・・」
+<pause>
+兵士
+「足りないじゃないか・・・」{END}","Soldier:<nl>
+ Money...
+<pause>
+Soldier:<nl>
+ No money...{END}"
+"<color_0002><Cless>は<var_9500>を覚えました。<color_0000>
+<pause>
+兵士
+「ど、どうも・・・」
+<pause>
+<Cless>
+（よく商売できるなぁ）{END}","<color_0002><Cless> learned
+<var_9500>.<color_0000>
+<pause>
+Soldier:<nl>
+ Th-Thanks...
+<pause>
+<Cless>:<nl>
+ (Wow.
+ Not a bad deal at all.){END}"
+"主婦
+「最近物価が高くなって困るわ」{END}","Housewife:<nl>
+ Inflation is spiraling out of control...<nl>
+ It's seriously making life difficult.
+<pause>
+Housewife:<nl>
+ We've had to let go of many
+ modern conveniences just to
+ afford basic necessities.{END}"
+"町の人
+「卵焼きはちゃんと『だし』に卵
+　をまぜて焼かなきゃね」
+<pause>
+町の人
+「卵？」
+<pause>
+町の人
+「あれはオリーブヴィレッジの特
+　産品なんだ」
+<pause>
+町の人
+「あそこの卵は黄身がしっかりし
+　ててうまいよ〜」{END}","Citizen:<nl>
+ Frying eggs isn't that simple.
+ They need to be made just right!
+<pause>
+Citizen:<nl>
+ Undercooked, they become runny.
+ Overcooked, they become rubbery.
+<pause>
+<Cless>:<nl>
+ Do you where we could buy some?
+<pause>
+Citizen:<nl>
+ They're farmed in Olive Village.
+<pause>
+Citizen:<nl>
+ Try scrambling them in bacon
+ grease sometime!{END}"
+"町の人
+「ダオスさえいなければのぅ」{END}","Citizen:<nl>
+ If only Dhaos wasn't around...{END}"
+"子供
+「お菓子食べたいな〜」{END}","Child:<nl>
+ I wanna eat cake!{END}"
+"冒険者
+「私は三種の武具を求めて、旅を
+　しています」
+<pause>
+冒険者
+「この世界には三種の武具と呼ば
+　れるものがあって、一つは指輪
+　残りは剣なんだそうです」
+<pause>
+冒険者
+「その内の一つである剣がフリー
+　ズキール大陸にあるという話な
+　んですが・・・」
+<pause>
+冒険者
+「それらしいものは何一つありま
+　せんでした・・・」{END}","Adventurer:<nl>
+ I've been traveling around in
+ search of something called the
+ “Tria.”
+<pause>
+Adventurer:<nl>
+ Apparently, it's a triad of
+ armaments consisting of a ring and
+ two swords. Each item can still be
+ found somewhere in the world.
+<pause>
+Adventurer:<nl>
+ There was a rumor that one might
+ be hidden somewhere on the
+ Freezekiel continent, but...
+<pause>
+Adventurer:<nl>
+ I couldn't find anything like that at
+ all when I went there...{END}"
+"兵士
+「モーリア坑道？」
+<pause>
+兵士
+「それなら、ここから南東方向に
+　進んだ所に入口がある」
+<pause>
+兵士
+「フレイランド行きの船着き場の
+　真北だ」{END}","<Klarth>:<nl>
+ Excuse me, but can you give us
+ directions to the Moria Mine?
+<pause>
+Soldier:<nl>
+ Yeah, just take the eastern bridge,
+ go south along the mountains, and
+ go east when you get to the
+ southern end of the range.
+<pause>
+Soldier:<nl>
+ When you reach the port to
+ Freyland, turn north and you'll go
+ straight there.{END}"
+"<audio_0B1D><Klarth>
+「考えたんだが・・・」
+<pause>
+<audio_0B1E><Klarth>
+「王室内にダオスの息がかかって
+　いるとすると・・・」
+<pause>
+<audio_0B1F><Klarth>
+「ヘタに動くのは相手の思うツボ
+　だと思う」
+<pause>
+<audio_0B20><Klarth>
+「魔術に関する情報をつかむどこ
+　ろか、我々の命も危なくなる」
+<pause>
+<audio_0B21><Mint>
+「それでは、どうしたら良いので
+　しょうか？」
+<pause>
+<audio_0B22><Klarth>
+「ずばり、ダオスの側近に操られ
+　ている王子を助ける」
+<pause>
+<audio_0B23><Cless>
+「えっ、城に侵入するってことで
+　すか？」
+<pause>
+<audio_0B24><Klarth>
+「そうだ」
+<pause>
+<audio_0B25><Klarth>
+「しかし、問題はどうやって忍び
+　込むかだが・・・」{END}","<audio_0B1D><Klarth>:<nl>
+ I've been thinking...
+<pause>
+<audio_0B1E><Klarth>:<nl>
+ If we are to believe that Dhaos is
+ indeed influencing the ruling
+ family...
+<pause>
+<audio_0B1F><Klarth>:<nl>
+ We'll need to be extremely careful
+ about our next move.
+<pause>
+<audio_0B20><Klarth>:<nl>
+ Even if we're just gathering
+ information on magic, we'll
+ draw attention to ourselves.
+ If Dhaos learned of our purpose...
+<pause>
+<audio_0B21><Mint>:<nl>
+ What do you suggest we do, then?
+<pause>
+<audio_0B22><Klarth>:<nl>
+ Clearly, we first need to release
+ the prince from Dhaos' influence
+ by finding and defeating the
+ responsible henchman.
+<pause>
+<audio_0B23><Cless>:<nl>
+ So we're going to infiltrate the
+ castle?
+<pause>
+<audio_0B24><Klarth>:<nl>
+ Precisely.
+<pause>
+<audio_0B25><Klarth>:<nl>
+ Of course, we still need to find a
+ way in, first...{END}"
+"<audio_0B26><Arche>
+「な、何かなぁ？」
+<pause>
+<audio_0B27><Arche>
+「何なのよぉ、みんなして真剣な
+　目で・・・」
+<pause>
+<audio_0B28><Arche>
+「ま、まさか・・・」
+<pause>
+<audio_0B29><Arche>
+「あたしのホウキで？」{END}","<audio_0B26><Arche>:<nl>
+ A-And?
+<pause>
+<audio_0B27><Arche>:<nl>
+ Hey, why are you guys staring at
+ me with such creepy faces all of a
+ sudden...?
+<pause>
+<audio_0B28><Arche>:<nl>
+ W-Wait...
+<pause>
+<audio_0B29><Arche>:<nl>
+ You don't mean...<nl>
+ On my broom!?{END}"
+"<audio_0B2A><Arche>
+「ちょ、ちょっと、マジィ〜？」
+<pause>
+<audio_0B2B><Klarth>
+「頼む、王子の近くに必ずダオス
+　の側近がいるはずなんだ」
+<pause>
+<audio_0B2C><Arche>
+「・・・わかった」
+<pause>
+<audio_0B2D><Arche>
+「よーし！そうと決まれば今夜に
+　でも忍びこむ？」
+<pause>
+<audio_0B2E><Arche>
+「早いほうがいいじゃん？」
+<pause>
+<audio_0B2F><Mint>
+「いきなり乗り込むのは危険だと
+　思います」
+<pause>
+<audio_0B30><Mint>
+「準備を整えた方が・・・」<wait>{END}","<audio_0B2A><Arche>:<nl>
+ H-Hold on guys, are you for real!?
+<pause>
+<audio_0B2B><Klarth>:<nl>
+ The rest of us can't fly, and
+ somehow I doubt that the castle
+ guards will fall for any of your
+ flirtatious shenanigans.
+<pause>
+<audio_0B2C><Arche>:<nl>
+ ...'Kay.
+<pause>
+<audio_0B2D><Arche>:<nl>
+ Well then!
+ Since that's settled, should we get
+ this show on right now?
+<pause>
+<audio_0B2E><Arche>:<nl>
+ Faster is better, ain't it?
+<pause>
+<audio_0B2F><Mint>:<nl>
+ We only have one chance to do this
+ safely, and correctly...
+<pause>
+<audio_0B30><Mint>:<nl>
+ It would be best to make sure
+ we're prepared, even if it costs us
+ a day.<wait>{END}"
+<color_0002>城に忍び込みますか？<color_0000>{END},<color_0002>Sneak into the castle?<color_0000>{END}
+<color_0002>本当によろしいですか？<color_0000>{END},<color_0002>Absolutely sure?<color_0000>{END}
+"<audio_0B31><Cless>
+「よし、行こう！！」{END}","<audio_0B31><Cless>:<nl>
+ I'm prepared.
+ Let's go!!{END}"
+"<Cless>
+<audio_1785>「また明日にしよう」{END}","<Cless>:<nl>
+ <audio_1785>I don't feel up for this right now.
+ Let's do it tomorrow instead.{END}"
+"よーみ
+「よーみです。『夢は終らない』
+　きいて下さい」{END}","Yomi:<nl>
+ Yomi here!
+ I'm so glad to see you all today!
+ I'll sing “The Dream Will Never Die.”
+ Please enjoy!{END}"
+"よーみ
+「みんな、ありがとう」{END}","Yomi:<nl>
+ Thank you, everyone.{END}"
+"もぎりの男
+「お帰りですか？」{END}","Ticket Collector:<nl>
+ Please wait, sir!{END}"
+"もぎりの男
+「では、チケットはお返ししてお
+　きます」
+<pause>
+もぎりの男
+「またのご来場、お待ちしており
+　ます」{END}","Ticket Collector:<nl>
+ Are you leaving?
+<pause>
+<Cless>:<nl>
+ Yes.
+ I don't think we have the time for
+ this right now.
+<pause>
+Ticket Collector:<nl>
+ Oh, that's a shame.
+ Here, I'll return your ticket.
+<pause>
+Ticket Collector:<nl>
+ You can use it at her next show.
+ We hope to see you then.{END}"
+"もぎりの男
+「本日は歌手よーみのコンサート
+　を行っております」
+<pause>
+もぎりの男
+「ご入場なされますか？」{END}","Ticket Collector:<nl>
+ This pub is hosting a concert for
+ Yomi today.
+<pause>
+Ticket Collector:<nl>
+ Have you come to watch her sing?{END}"
+"もぎりの男
+「ではチケットを拝見します！」
+<pause>
+{END}","Ticket Collector:<nl>
+ Then show me your ticket!
+<pause>
+{END}"
+"もぎりの男
+「結構です。お通り下さい」{END}","Ticket Collector:<nl>
+ Looks good.
+ Feel free to watch from wherever
+ you like.{END}"
+"<Cless>
+「え、えーと、それは・・・」
+<pause>
+もぎりの男
+「・・・大変申し訳ありません。
+　チケットをお持ちでない方は入
+　場することができません」
+<pause>
+もぎりの男
+「お引取り下さい」{END}","<Cless>:<nl>
+ Uh...<nl>
+ I...don't seem to have one...
+<pause>
+Ticket Collector:<nl>
+ ...I apologize, but I can only admit
+ concert-goers with a ticket into
+ the pub at this time.
+<pause>
+Ticket Collector:<nl>
+ I must request that you leave until
+ Yomi's concert is over.{END}"
+"もぎりの男
+「では、またの機会に」{END}","Ticket Collector:<nl>
+ Oh.
+ Then perhaps we'll see
+ you next time.{END}"
+"もぎりの男
+「奥の方へどうぞ。もうすぐ始ま
+　ります」{END}","Ticket Collector:<nl>
+ Please find your places.
+ The show will begin shortly.{END}"
+"もぎりの男
+「お引き取り下さい」{END}","Ticket Collector:<nl>
+ I must request that you leave until
+ Yomi's concert is over.{END}"
+"もぎりの男
+「本日はご来場いただき、まこと
+　にありがとうございました」{END}","Ticket Collector:<nl>
+ Thank you for your attendance
+ today.{END}"
+"親衛隊
+「よーみちゃーん！」{END}","Groupies:<nl>
+ Yomi! Yomi!!{END}"
+"マスター
+「あの娘、よーみって言うんだ。
+　どうだい、いい歌い手だろ？」{END}","Bartender:<nl>
+ What did you think?
+ That Yomi girl sure is something,
+ isn't she?{END}"
+"<speed_0000>　　　親衛隊
+　　　「よーみちゃーん！」{END}","<speed_0000>Groupies:<nl>
+ YOMI! YOMI! YOMI!{END}"
+"<speed_0000>　　親衛隊
+　　「キース！キス！キス！」{END}","<speed_0000>Groupies:<nl>
+ Kiss! Kiss! Kiss!{END}"
+"<speed_0000>　　　　親衛隊
+　　　　「気付いて！」{END}","<speed_0000>Groupies:<nl>
+ Realize!{END}"
+"<speed_0000>　　　　親衛隊
+　　　　「ひざーし！」{END}","<speed_0000>Groupies:<nl>
+ Sunliiiight!{END}"
+"<speed_0000>　　　　親衛隊
+　　　　「きおーく！」{END}","<speed_0000>Groupies:<nl>
+ Memoryyyy!{END}"
+"<speed_0000>　　　親衛隊
+　　　「Ｌ・Ｏ・Ｖ・Ｅ！」{END}","<speed_0000>Groupies:<nl>
+ L. O. V. E.!{END}"
+"<speed_0000>　親衛隊
+　「ＷＥ　ＬＯＶＥ　よーみ！」{END}","<speed_0000>Groupies:<nl>
+ WE LOVE YOU, YOMI!{END}"

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_593">
+        <source>No matter how many weddings I go
+to, it's always a moving experience.</source>
+        <target state="translated">No matter how many weddings I go
+to, it's always a moving experience.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_594">
+        <source>So when are you going to marry Mirald?</source>
+        <target state="translated">So when are you going to marry Mirald?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_595">
+        <source>D-don't be stupid! How many times
+have I told you that she's just my assistant...!</source>
+        <target state="translated">D-don't be stupid! How many times
+have I told you that she's just my assistant...!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_596">
+        <source>Ooh! You're blushing! Blushing!</source>
+        <target state="translated">Ooh! You're blushing! Blushing!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_597">
+        <source>Q-quiet, you!</source>
+        <target state="translated">Q-quiet, you!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

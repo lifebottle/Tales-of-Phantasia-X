@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1019">
+        <source>It's cooking...</source>
+        <target state="translated">It's cooking...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1020">
+        <source>Truly, it is... Can't we find shelter
+underneath a tree anywhere?</source>
+        <target state="translated">Truly, it is... Can't we find shelter
+underneath a tree anywhere?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1021">
+        <source>Ughhh... I'm gonna be broiled alive
+if I don't get some ice cream soon...</source>
+        <target state="translated">Ughhh... I'm gonna be broiled alive
+if I don't get some ice cream soon...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1022">
+        <source>Shade? Ice cream?
+Summer is about *watermelon*.</source>
+        <target state="translated">Shade? Ice cream?
+Summer is about *watermelon*.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1023">
+        <source>Summer? This is just a hot desert...</source>
+        <target state="translated">Summer? This is just a hot desert...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1024">
+        <source>All I ask for is a simple glass of water...</source>
+        <target state="translated">All I ask for is a simple glass of water...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

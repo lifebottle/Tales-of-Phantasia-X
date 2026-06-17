@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1237">
+        <source>It's freezing...</source>
+        <target state="translated">It's freezing...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1238">
+        <source>A hot spring would be
+great right about now, huh?</source>
+        <target state="translated">A hot spring would be
+great right about now, huh?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1239">
+        <source>No, in the wintertime, it's all
+about hot sake. That's non-negotiable.</source>
+        <target state="translated">No, in the wintertime, it's all
+about hot sake. That's non-negotiable.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1240">
+        <source>A nice stew over a warm
+fireplace would do it for me.</source>
+        <target state="translated">A nice stew over a warm
+fireplace would do it for me.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1241">
+        <source>And if wishes were fishes, we'd swim in the sea!</source>
+        <target state="translated">And if wishes were fishes, we'd swim in the sea!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1242">
+        <source>What we CAN do is find a nice,
+cozy room and get some rest.</source>
+        <target state="translated">What we CAN do is find a nice,
+cozy room and get some rest.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1243">
+        <source>Now that sounds reasonable!</source>
+        <target state="translated">Now that sounds reasonable!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

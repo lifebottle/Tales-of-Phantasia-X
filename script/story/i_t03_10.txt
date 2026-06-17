@@ -1,0 +1,1337 @@
+Early, The Twilit Town{END}
+
+Inn “Night Dream”{END}
+
+Equipment Shop “3:00 A.M.”{END}
+
+Item Shop “Midnight”{END}
+
+Tea House “Noonwalker”{END}
+
+<audio_1215>Innkeeper:<nl>
+ Welcome to the Night Dream Inn.
+ Will you be staying with us tonight?
+<pause>
+<audio_1216>Innkeeper:<nl>
+ One night is <num1_00000078> gald.{END}
+
+<audio_1217>Innkeeper:<nl>
+ Checkout is at 9:00 A.M. tomorrow
+ morning.
+<pause>
+<audio_1218>Innkeeper:<nl>
+ Good night.{END}
+
+Innkeeper:<nl>
+ I'm sorry, but you don't have
+ enough money.{END}
+
+Innkeeper:<nl>
+ Come again, traveler.{END}
+
+Shopkeeper:<nl>
+ Welcome to 3:00 A.M.{END}
+
+Shopkeeper:<nl>
+ Thanks.{END}
+
+Shopkeeper:<nl>
+ Hello.
+ I sell medicines as well.{END}
+
+Shopkeeper:<nl>
+ Thank you.{END}
+
+Shopkeeper:<nl>
+ Welcome to the “Noonwalker” tea
+ house.
+<pause>
+Shopkeeper:<nl>
+ It don't matter if it's day or
+ night--we serve great tea, coffee,
+ and meals!{END}
+
+Shopkeeper:<nl>
+ Thanks.
+ Please come again.{END}
+
+Chef:<nl>
+ Have you made Hayashi Rice yet?{END}
+
+Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef:<nl>
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Hayashi Rice.<color_0000>{END}
+
+Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}
+
+Maid:<nl>
+ Would you like some coffee?
+<pause>
+Maid:<nl>
+ It'll warm you right up!{END}
+
+Investigator:<nl>
+ I'm part of an investigation team
+ dispatched from Alvanista.
+<pause>
+Investigator:<nl>
+ We hope to find out something
+ about this gloomy sky.{END}
+
+Citizen:<nl>
+ The sky's been like this
+ for several years now.
+ Not a moment of sunshine since.
+<pause>
+Citizen:<nl>
+ Maybe it's just a coincidence, but I
+ remember Dhaos showing up
+ around the same time it all started.{END}
+
+Citizen:<nl>
+ This town used to be a stopover
+ for miners, and had a bustling
+ population.
+<pause>
+Citizen:<nl>
+ When everyone realized the sky
+ went dark for good, many became
+ depressed and left.{END}
+
+Swordsman:<nl>
+ The cave to the northwest used to
+ be part of a much larger mine.
+<pause>
+Swordsman:<nl>
+ But when Dhaos appeared, he blew
+ up the whole confounded mountain,
+ mine and all.{END}
+
+Investigator:<nl>
+ Mmm...<nl>
+ So warm...
+<pause>
+Investigator:<nl>
+ Nothing like a swig of this shop's
+ amazing coffee after a hard day
+ of slaving in this brutal cold!<wait>{END}
+
+Investigator:<nl>
+ The cold isn't the real problem,
+ though. The darkness makes it
+ almost impossible to get anything
+ done...{END}
+
+Investigator:<nl>
+ Oh, excuse me, sir...
+<pause>
+{END}
+
+<unk1>Investigator:<nl>
+ You're <Cless> Alvein, correct?<wait>{END}
+
+Investigator:<nl>
+ I'm from the investigation team.
+ The King of Alvanista sent me an order to
+ keep an eye out for you.
+<pause>
+Investigator:<nl>
+ It's my understanding that you're
+ currently seeking Dhaos'
+ whereabouts.
+<pause>
+<Cless>:<nl>
+ Yes.
+ Have you picked up on any leads?
+<pause>
+Investigator:<nl>
+ 'Fraid not. The sky conditions here
+ are naturally suspect, and while
+ our team's been scrambling to find
+ evidence linking them to Dhaos...
+<pause>
+Investigator:<nl>
+ ...the investigation itself has been
+ nothing more than a wild goose
+ chase.
+<pause>
+<Cless>:<nl>
+ All that work for nothing...
+<pause>
+Investigator:<nl>
+ Yeah.
+ Wish I had better news to deliver.
+<pause>
+Investigator:<nl>
+ Oh, wait!
+ A monster I defeated left an
+ emblem behind. Whatever it's
+ good for, I don't know.
+<pause>
+Investigator:<nl>
+ Here, you can have it.
+ Perhaps you'll find a purpose for it.
+<pause>
+<Cless>:<nl>
+ Th-Thank you.<wait>{END}
+
+<color_0002>Acquired a <item_7801>.<color_0000>{END}
+
+Citizen:<nl>
+ Brrrr!!!
+ This icy weather is giving me goose
+ bumps! I just wanna go for a dip
+ in a hot spring...
+<pause>
+Citizen:<nl>
+ Supposedly, the Ninja Village has
+ one to help with poor circulation.
+<pause>
+Citizen:<nl>
+ Say, it'd be pretty cool if there
+ were also ones that could help with
+ poverty, love sickness, and all the
+ world's other problems.{END}
+
+Citizen:<nl>
+ Brrrr!!!
+ This icy weather is giving me goose
+ bumps! I just wanna go for a dip
+ in a hot spring...
+<pause>
+Citizen:<nl>
+ Supposedly, the Ninja Village has
+ one to help with poor circulation.
+<pause>
+Citizen:<nl>
+ It's my dream to get a chance to
+ take a dip and relax in it.
+<pause>
+<Cless>:<nl>
+ Excuse me, but what's this about a
+ Ninja Village...?
+<pause>
+Citizen:<nl>
+ The rumors say it's a place hidden
+ away in Treant Forest...{END}
+
+Sentry:<nl>
+ I'm freezing my helm off!
+ Sometimes I regret taking this
+ job...
+<pause>
+Sentry:<nl>
+ But there's something interesting
+ about all this...
+<pause>
+Sentry:<nl>
+ There's a local legend about a bug
+ known as Stardust that starts
+ flying around when the temperature dips a bit below zero.
+<pause>
+Sentry:<nl>
+ A bug that shows itself
+ only in the most frigid
+ days of winter, huh?
+ That's really something else.{END}
+
+Sentry:<nl>
+ There sure are lot of monsters
+ around here.{END}
+
+Swordswoman:<nl>
+ Tsk, this training is just too much
+ for me!!{END}
+
+Swordswoman:<nl>
+ Excuse me, sir.
+ You look like a swordsman.
+<pause>
+Swordswoman:<nl>
+ Are you interested in arcane arte
+ books?
+<pause>
+<Cless>:<nl>
+ Did you say arcane arte books!?
+<pause>
+Swordswoman:<nl>
+ I cast everything in my life aside
+ and journeyed to this forsaken
+ land to train myself, only to find
+ I'm just not cut out for this.
+<pause>
+Swordswoman:<nl>
+ I figured I'd try to sell this one so
+ I can afford the return trip and
+ living expenses while I try to find
+ employment.
+<pause>
+Swordswoman:<nl>
+ I think 50000 gald should be
+ enough.
+<pause>
+Swordswoman:<nl>
+ Will you help me out?
+<pause>
+<color_0002>Buy it?<color_0000>{END}
+
+Swordswoman:<nl>
+ Tsk, if I don't sell this, I'm going to
+ be stranded here...{END}
+
+Swordswoman:<nl>
+ I'm sorry, but I won't be able to
+ get by with this much.{END}
+
+<color_0002><Cless> learned
+<var_A200>.<color_0000>
+<pause>
+Swordswoman:<nl>
+ Thank you SO much! I really
+ appreciate this! If I had anything
+ else of worth, I'd give it to you.
+ Now, I must prepare my return.{END}
+
+Girl:<nl>
+ Stardust, envoy of the Spirit of
+ Snow...
+<pause>
+Girl:<nl>
+ ...is a sublime creature that is both
+ beautiful and ephemeral, living only
+ for a single day.
+<pause>
+Girl:<nl>
+ Some think of it as a spirit as well,
+ but it really isn't.
+<pause>
+Girl:<nl>
+ On the coldest of mornings, you'll
+ catch a phenomenal sight of
+ something floating in the sky that
+ glitters like the stars.
+<pause>
+Girl:<nl>
+ That's something is Stardust.{END}
+
+Citizen:<nl>
+ I refuse to believe the spirit, Origin,
+ is a mere legend.
+<pause>
+Citizen:<nl>
+ If a man just accepts that
+ something is a legend, then
+ that's it!
+ There's no LIFE to a legend!
+<pause>
+Citizen:<nl>
+ You can stuff your legends!
+ What we need are DREAMS!
+ D-R-E-A-M-S!
+<pause>
+Citizen:<nl>
+ A man's gotta have dreams or he'd
+ be DEAD!{END}
+
+Assistant:<nl>
+ Good day.
+<pause>
+Assistant:<nl>
+ A traveler told me he saw the
+ Spirit of Darkness somewhere on
+ this island.
+<pause>
+Assistant:<nl>
+ Is it true?
+ Or was he just trying to impress
+ me...?{END}
+
+Stubborn Craftsman:<nl>
+ How are you, young'un?{END}
+
+Stubborn Craftsman:<nl>
+ Hey, young'un.
+<pause>
+Stubborn Craftsman:<nl>
+ Answer my questions, would 'ya?{END}
+
+Stubborn Craftsman:<nl>
+ See 'ya.{END}
+
+Stubborn Craftsman:<nl>
+ What do you believe is the most
+ important aspect of armor?
+<pause>
+<color_0002>1. Price.<nl>
+2. Quality.<nl>
+3. Appearance.<nl>
+4. WARMTH!!<color_0000>{END}
+
+Stubborn Craftsman:<nl>
+ If you weren't satisfied with
+ something you created, what would
+ you do?
+<pause>
+<color_0002>1. Sell it like normal.<nl>
+2. Sell it at a discount.<nl>
+3. Scrap it.<nl>
+4. Vow to try harder next time.<color_0000>{END}
+
+Stubborn Craftsman:<nl>
+ What do you have a weapon for?
+<pause>
+<color_0002>1. To defeat my opponents.<nl>
+2. To protect myself.<nl>
+3. To show off my power.<nl>
+4. To snazz up my walls.<color_0000>{END}
+
+Stubborn Craftsman:<nl>
+ You know, young'un, I think we can
+ really relate to each other.
+<pause>
+Stubborn Craftsman:<nl>
+ Take this.<wait>{END}
+
+<color_0002>Acquired a <item_8901>.<color_0000>{END}
+
+Stubborn Craftsman:<nl>
+ Hmph...<nl>
+ I see.{END}
+
+Young Lady:<nl>
+ My father makes lots of fancy
+ weapons, but he loathes violence.
+<pause>
+Young Lady:<nl>
+ He seems to prefer thinking of his
+ creations as art more than
+ anything else.{END}
+
+<unk1><audio_12BD>???:<nl>
+ Sir <Cless>?
+ Sir <Cless>, are you here!?{END}
+
+<audio_12BE><Cless>:<nl>
+ Who are you?
+<pause>
+<audio_12BF>Team Member:<nl>
+ I'm one of the investigators from
+ Alvanista.
+<pause>
+<audio_12C0>Team Member:<nl>
+ We can't confirm this, but we've
+ received word of someone sighting
+ a giant castle from the ruins of the
+ old northwestern mine.
+<pause>
+<audio_12C1><Cless>:<nl>
+ Really?
+<pause>
+<audio_12C2>Team Member:<nl>
+ The claimant said he got about
+ halfway up the mountain, and
+ there it was in plain view: a huge
+ castle.
+<pause>
+<audio_12C3><Klarth>:<nl>
+ I'll be damned if that's not
+ suspicious.
+<pause>
+<audio_12C4><Cless>:<nl>
+ I agree.
+ We need to see this for ourselves.
+<pause>
+<audio_12C5>Team Member:<nl>
+ Remember, it's <color_0002>northwest<color_0000> of this
+ town.
+<pause>
+<audio_12C6>Team Member:<nl>
+ Good luck.
+ I must return to the rest of the
+ team.{END}
+
+<audio_1219><Klarth>:<nl>
+ Brrrr...
+<pause>
+<audio_121A><Klarth>:<nl>
+ Hearth, hearth...come to <Klarth>...{END}
+
+<audio_121B><Cless>:<nl>
+ You okay, <Mint>?{END}
+
+<audio_121C><Mint>:<nl>
+ <Cless>...
+<pause>
+<audio_121D><Cless>:<nl>
+ Huh?
+ What's up?
+<pause>
+{END}
+
+<unk1><audio_121E><Mint>:<nl>
+ Um, actually...there's something...I
+ wanted to talk to you about.<wait>{END}
+
+<audio_121F><Mint>:<nl>
+ Not right here, but at the side of
+ the inn...
+<pause>
+<audio_1220><Mint>:<nl>
+ Would you...come out there later?
+ I'll wait.
+<pause>
+<audio_1221><Cless>:<nl>
+ Um, er, sure thing...{END}
+
+<unk1><audio_1222><Arche>:<nl>
+ Huh?
+ Where'd <Mint> go?<wait>{END}
+
+<audio_1223><Cless>:<nl>
+ Um...
+<pause>
+<audio_1224><Cless>:<nl>
+ I think she said she was going for
+ a walk or something <panic>
+<pause>
+<audio_1225><Arche>:<nl>
+ A *walk*?
+<pause>
+<audio_1226><Cless>:<nl>
+ Th-That's right!
+<pause>
+<audio_1227><Cless>:<nl>
+ Sh-She went for a little walk <panic>
+<pause>
+<audio_1228><Arche>:<nl>
+ Seriously, why would she want to
+ do that in this kinda weather!?
+<pause>
+<audio_1229><Chester>:<nl>
+ Maybe she just felt like it.
+<pause>
+<audio_122A><Arche>:<nl>
+ What about a nice bath instead?
+<pause>
+<audio_122B><Arche>:<nl>
+ I mean, really!
+<pause>
+<audio_122C><Arche>:<nl>
+ It would make way more sense if
+ she wanted to do something warm!
+<pause>
+<audio_122D><Chester>:<nl>
+ What do you care?
+ If she wants to go for a walk, it's
+ not going to hurt anything.
+<pause>
+<audio_122E><Arche>:<nl>
+ I'm just sayin'...<nl>
+ Anyway, it's no fun to take a walk
+ by yourself.
+<pause>
+<audio_122F><Chester>:<nl>
+ ......
+<pause>
+<audio_1230><Klarth>:<nl>
+ Instead of worrying about
+ <Mint>, let's get cozy, all
+ right...?
+<pause>
+<audio_1231><Klarth>:<nl>
+ This place is mind-bogglingly cold...<nl>
+ Brrrr!
+<pause>
+<audio_1232><Klarth>:<nl>
+ I swear my hat's gonna freeze to
+ my head at this rate.{END}
+
+<audio_1233><Klarth>:<nl>
+ Something on your mind, <Cless>?<wait>{END}
+
+<audio_1234><Cless>:<nl>
+ Uh, well, don't mind me...
+<pause>
+<audio_1235><Cless>:<nl>
+ I-I feel like taking a little walk,
+ myself...{END}
+
+<audio_1236><Arche>:<nl>
+ Ooh!!!
+ Then I'm going with!!<wait>{END}
+
+<audio_1237><Cless>:<nl>
+ Actually, umm... I-I want to go
+ alone...yeah...bye!{END}
+
+<audio_1238><Arche>:<nl>
+ WEIRDO!
+<pause>
+{END}
+
+<unk1><audio_1239><Klarth>:<nl>
+ It's quite miserable to be cold all
+ by oneself...
+<pause>
+{END}
+
+<audio_123A><Klarth>:<nl>
+ It must be nice to be young...<wait>{END}
+
+<audio_123B><Arche>:<nl>
+ Stop grumbling like an old fart.
+ You're not that old.
+<pause>
+<audio_123C><Klarth>:<nl>
+ Says the girl who calls me “old
+ man.”
+<pause>
+<audio_123D><Arche>:<nl>
+ You're not even thirty yet, are
+ you?
+<pause>
+<audio_123E><Klarth>:<nl>
+ Well, no, but I'm wise beyond my
+ years...{END}
+
+<audio_123F><Klarth>:<nl>
+ Hmm...<nl>
+ Still some time to kill...{END}
+
+<audio_1240><Arche>:<nl>
+ What's with that goofy look on
+ your face?
+<pause>
+<audio_1241><Klarth>:<nl>
+ Oh, nothing.
+ Just came up with a little mischief
+ to entertain myself...{END}
+
+<audio_1242><Klarth>:<nl>
+ Origin, amongst your powers is the
+ ability to scry across time, correct?
+<pause>
+<audio_1243>Origin:<nl>
+ ...That is certainly possible.
+<pause>
+<audio_1244>Origin:<nl>
+ However, I will not
+ show you the future.
+ That is forbidden.
+<pause>
+<audio_1245><Klarth>:<nl>
+ That's fine.
+ What I wish to see is in the past...
+<pause>
+<audio_1246><Klarth>:<nl>
+ Something that's been troubling me
+ for some time...
+<pause>
+<audio_1247>Origin:<nl>
+ ......
+<pause>
+<audio_1248>Origin:<nl>
+ Since this is your first request as
+ my master...
+<pause>
+<audio_1249>Origin:<nl>
+ ...I will allow it just this once.
+<pause>
+<audio_124A><Klarth>:<nl>
+ I only get one shake at this, huh?
+<pause>
+<audio_124B><Klarth>:<nl>
+ Oh well.
+ Fair enough.{END}
+
+<audio_124C><Arche>:<nl>
+ Just...what are you doing?{END}
+
+<audio_124D>Origin:<nl>
+ What is the time and place you
+ desire to see?{END}
+
+<audio_124E><Klarth>:<nl>
+ ...I'm sorry, but could you two step
+ out of the room?
+<pause>
+<audio_124F><Arche>:<nl>
+ Huh!? Whaaat!?
+<pause>
+<audio_1250><Arche>:<nl>
+ Do you want me to freeze to
+ death!?<wait>{END}
+
+<audio_1251><Klarth>:<nl>
+ I beg you...
+<pause>
+<audio_1252><Klarth>:<nl>
+ I'll treat you to whatever you want
+ later. Just...please go now.
+<pause>
+<audio_1253><Arche>:<nl>
+ GAAAAH!!!
+ What's up with you guys!?
+ Did we move to crazytown!?{END}
+
+<audio_1254>Origin:<nl>
+ Well then?
+<pause>
+<audio_1255><Klarth>:<nl>
+ *whisper* *whisper*
+ ......
+<pause>
+<audio_1256>Origin:<nl>
+ Hmm?<wait>{END}
+
+<audio_1257><Klarth>:<nl>
+ *whisper* *whisper*
+ ......
+<pause>
+<audio_1258>Origin:<nl>
+ ...Hmph. Understood.
+<pause>
+<audio_1259>Origin:<nl>
+ But why do you whisper, as though
+ you had reason to be ashamed?
+<pause>
+<audio_125A>Origin:<nl>
+ Surely you are beyond the age to
+ be embarrassed by such things.
+<pause>
+<audio_125B>Origin:<nl>
+ Hmph, in any case, let it be done...{END}
+
+<unk1><audio_126B><Chester>:<nl>
+ So, <Arche>.
+<pause>
+<audio_126C><Arche>:<nl>
+ Wh-Wh-Whaddya want!?
+<pause>
+<audio_126D><Chester>:<nl>
+ Did I scare you?
+ I bet you're planning
+ to go spy on <Cless>.
+<pause>
+<audio_126E><Chester>:<nl>
+ Could you be any more predictable?{END}
+
+<unk1><audio_126F><Arche>:<nl>
+ Shove it!
+<pause>
+<audio_1270><Arche>:<nl>
+ What I'm gonna do is none of your
+ business!
+<pause>
+<audio_1271><Chester>:<nl>
+ Oh yeah?
+ Wanna make a bet!?
+<pause>
+<audio_1272><Chester>:<nl>
+ <Cless> is my best friend!
+ Whatever concerns him, concerns
+ me!{END}
+
+<audio_1273><Arche>:<nl>
+ Ugh!
+<pause>
+<audio_1274><Arche>:<nl>
+ ......
+<pause>
+<audio_1275><Arche>:<nl>
+ Why do we keep getting into these
+ fights, anyway!?<wait>{END}
+
+<audio_1276><Chester>:<nl>
+ Because YOU keep picking 'em!
+<pause>
+<audio_1277><Arche>:<nl>
+ Oh, c'mon!
+<pause>
+<audio_1278><Arche>:<nl>
+ YOU'RE the one I only ever fight
+ with!
+<pause>
+<audio_1279><Arche>:<nl>
+ ...Look, I don't care if you hate
+ me...
+<pause>
+<audio_127A><Arche>:<nl>
+ But I want to put an end to this.
+ It's gone on for too long...
+<pause>
+<audio_127B><Chester>:<nl>
+ Wh-Who said anything about hating
+ you!?<wait>{END}
+
+<audio_127C><Chester>:<nl>
+ I mean, from the moment I first
+ laid eyes on you, I...<wait>{END}
+
+<audio_127D><Arche>:<nl>
+ *gasp*...
+<pause>
+<audio_127E><Arche>:<nl>
+ D-Do you m-mean<speed_0010>...<speed_FFFF>you
+ th-thought<speed_0010>...<speed_FFFF>I-I was--
+<pause>
+<audio_127F><Chester>:<nl>
+ !!!{END}
+
+<audio_1280><Chester>:<nl>
+ ...Don't say any more.{END}
+
+<audio_1281><Arche>:<nl>
+ Hmmm...
+<pause>
+<audio_1282><Arche>:<nl>
+ ......
+<pause>
+<audio_1283><Arche>:<nl>
+ Hey, <Chester>...
+<pause>
+<audio_1284><Arche>:<nl>
+ Let's go outside, too <heart>
+<pause>
+<audio_1285><Chester>:<nl>
+ Nah, I'm fine...
+<pause>
+<audio_1286><Arche>:<nl>
+ Then I'm just gonna have to drag
+ you out!{END}
+
+<audio_1287><Cless>:<nl>
+ Sorry, I hope I didn't keep you
+ waiting too long.
+<pause>
+<audio_1288><Mint>:<nl>
+ It's okay.
+<pause>
+<audio_1289><Cless>:<nl>
+ It's just they were making it hard
+ for me to leave sooner...{END}
+
+<audio_128A><Cless>:<nl>
+ ...Mind if I sit next to you?
+<pause>
+<audio_128B><Mint>:<nl>
+ Not at all.{END}
+
+<audio_128C><Cless>:<nl>
+ So...
+<pause>
+<audio_128D><Cless>:<nl>
+ What did you want to talk about?
+<pause>
+<audio_128E><Mint>:<nl>
+ I...found this.
+ Do you recognize it?{END}
+
+<audio_128F><Cless>:<nl>
+ Isn't this the earring that I...{END}
+
+<audio_1290><Cless>:<nl>
+ ......
+<pause>
+<audio_1291><Cless>:<nl>
+ An...earring?
+<pause>
+<audio_1292>???:<nl>
+ Hold it against the wall...
+<pause>
+<audio_1293>???:<nl>
+ Afterward, I beg you to save the
+ girl held captive in the cell nearby...
+<pause>
+<audio_1294>???:<nl>
+ Together, I'm sure you will be able
+ to escape this place...
+<pause>
+<audio_1295><Cless>:<nl>
+ W-Wait a minute!
+<pause>
+<audio_1296><Cless>:<nl>
+ Who are you...?
+<pause>
+<audio_1297>???:<nl>
+ <speed_0010>...<speed_FFFF>Please<speed_0020>...
+<pause>
+<audio_1298><speed_FFFF><Cless>:<nl>
+ ......
+<pause>
+<audio_1299><Cless>:<nl>
+ I guess all I can do is give what
+ she said a try...{END}
+
+<audio_129A><Mint>:<nl>
+ An earring in the image of the
+ unicorn is quite unique, don't you
+ think?
+<pause>
+<audio_129B><Mint>:<nl>
+ This one proves the identity of a
+ true cleric...
+<pause>
+<audio_129C><Mint>:<nl>
+ ...and is exactly like the one my
+ mother always wore.{END}
+
+<audio_129D><Mint>:<nl>
+ My mother<speed_0010>...<speed_FFFF>is gone.<wait>{END}
+
+<audio_129E><Cless>:<nl>
+ ......
+<pause>
+<audio_129F><Cless>:<nl>
+ <Mint><speed_0010>...<speed_FFFF>I'm so sorry<speed_0010>...<speed_FFFF><wait>{END}
+
+<audio_12A0><Mint>:<nl>
+ Please don't.
+ You have nothing to apologize for.<wait>{END}
+
+<unk1><audio_12A1><Mint>:<nl>
+ Back then, if you hadn't kept my
+ mother's death a secret from me,
+ I...<wait>{END}
+
+<audio_12A2><Mint>:<nl>
+ I wouldn't have been able to go
+ on<speed_0010>...<wait>{END}
+
+<audio_12A3><Cless>:<nl>
+ I...
+<pause>
+<audio_12A4><Mint>:<nl>
+ Thank you<speed_0010>...
+<pause>
+<speed_FFFF><audio_12A5><Mint>:<nl>
+ ...so much<speed_0010>...{END}
+
+<audio_12A6><Arche>:<nl>
+ Poor <Mint>...
+<pause>
+<audio_12A7><Chester>:<nl>
+ Hey, don't you think we should go
+ back in now?
+<pause>
+<audio_12A8><Chester>:<nl>
+ The snow's starting to come down
+ again...
+<pause>
+<audio_12A9><Arche>:<nl>
+ B-But I'm not done yet...{END}
+
+<audio_1212><Cless>:<nl>
+ Brrr, it's freezing...
+<pause>
+<audio_1213><Klarth>:<nl>
+ Better not waste any time.
+ To the inn!
+<pause>
+<audio_1214><Chester>:<nl>
+ You can say that again...{END}
+
+<audio_12AA><Suzu>:<nl>
+ (Mother, Father...)
+<pause>
+<audio_12AB><Suzu>:<nl>
+ (The decisive battle against Dhaos is
+ imminent.)
+<pause>
+<audio_12AC><Suzu>:<nl>
+ (......)<wait>{END}
+
+<unk3><audio_12AD><Suzu>:<nl>
+ (Mother, Father...)
+<pause>
+<audio_12AE><Suzu>:<nl>
+ (I am confused right now.)<wait>{END}
+
+<unk3><audio_12AF><Suzu>:<nl>
+ (...Father, must a true ninja always
+ act with a heart of steel?)
+<pause>
+<audio_12B0><Suzu>:<nl>
+ (I feel different when I am with
+ <Cless> and the others.)
+<pause>
+<audio_12B1><Suzu>:<nl>
+ (Does that...)
+<pause>
+<audio_12B2><Suzu>:<nl>
+ (Does that signify weakness in my
+ heart?)
+<pause>
+<audio_12B3><Suzu>:<nl>
+ (...Mother, do you know these
+ feelings?)<wait>{END}
+
+<audio_12B4><Suzu>:<nl>
+ (......)
+<pause>
+<audio_12B5><Suzu>:<nl>
+ (...They are...)
+<pause>
+<audio_12B6><Suzu>:<nl>
+ (...unfamiliar to me.)
+<pause>
+<audio_12B7><Suzu>:<nl>
+ (......)<wait>{END}
+
+<unk3><audio_12B8><Suzu>:<nl>
+ (But...)
+<pause>
+<audio_12B9><Suzu>:<nl>
+ (But, even if it shows weakness as
+ a ninja...during the final battle, I...)
+<pause>
+<audio_12BA><Suzu>:<nl>
+ (...I would like to fight with my
+ heart fully united with those of
+ <Cless> and the others.)<wait>{END}
+
+<audio_12BB><Suzu>:<nl>
+ (That way, should this body fall...)
+<pause>
+<audio_12BC><Suzu>:<nl>
+ (...I will feel no shame.){END}
+
+<color_0002>Acquired the Unicorn Earring.
+<pause>
+As it is meant for clerics, this
+accessory can only be worn by
+<Mint>.<color_0000>{END}
+
+<color_0002><Klarth> has earned a new title.<color_0000>{END}
+
+<audio_1A49>???:<nl>
+Uwaaaah!{END}
+
+<audio_1A4A><Cless>:<nl>
+Monsters inside the city??{END}
+
+<audio_1A4B>???:<nl>
+Was that “Swallow Turn” just now!?
+You... You're--!!{END}
+
+<audio_1A4C><Cless>:<nl>
+Hey wait, aren't you...?{END}
+
+<audio_1A4D>Arms Dealer:<nl>
+Oho? I remember you! We met back in Euclid...{END}
+
+<audio_1A4E>Arms Dealer:<nl>
+But enough about that! You! You must be...! Aaaah!
+<pause>
+<audio_1A4F>Arms Dealer:<nl>
+You're the Daughter of the Eclipse! I knew it all along!!{END}
+
+<audio_1A50>Rondoline:<nl>
+Huh? ...Um, no, I'm not. You
+said so yourself, didn't you?
+<pause>
+<audio_1A51>Arms Dealer:<nl>
+It's not a question of whether or not
+you're a member of that clan!
+<pause>
+<audio_1A52>Arms Dealer:<nl>
+It's whether or not you're really the one
+who inherited the techniques of the Eclipse!{END}
+
+<audio_1A53>Rondoline:<nl>
+The Eclipse's...techniques...{END}
+
+<audio_1A54>Arms Dealer:<nl>
+Yes, the arte you just used!
+Swallow Turn!? That's one of the Eclipse's artes, isn't it? I saw it in a book once!
+<pause>
+<audio_1A55>Arms Dealer:<nl>
+Amaaaaazing!!! I really have to thank you
+for showing me the real deal! Here, take this sword, I insist! Free of charge!!{END}
+
+<audio_1A56>Arms Dealer:<nl>
+Today really has been an amazing day!
+It's just as that fortune teller said!
+Hohohoh, well, take care now~!{END}
+
+<audio_1A57><Cless>:<nl>
+What was with that guy, anyway?
+<pause>
+<audio_1A58><Chester>:<nl>
+Who knows? At least you finally got what you were looking for all this time though, right?
+<pause>
+<audio_1A59>Rondoline:<nl>
+............
+<pause>
+<audio_1A5A><Arche>:<nl>
+Seriously though, what's with all this “inherited techniques” talk?{END}
+
+<audio_1A5B>Rondoline:<nl>
+I honestly have no clue...
+<pause>
+<audio_1A5C>Rondoline:<nl>
+I just...used the skills my father taught me...
+<pause>
+<audio_1A5D><Klarth>:<nl>
+So basically, he must have been teaching you
+the Eclipse's techniques without
+you knowing it.{END}
+
+<audio_1A5E>Rondoline:<nl>
+No... Was he raising me to be
+an assassin...?
+<pause>
+<audio_1A5F>Rondoline:<nl>
+Was Father silently preparing me to
+take over the Eclipse?
+<pause>
+<audio_1A60><Klarth>:<nl>
+Well, we can't say that for certain...
+<pause>
+<audio_1A61><Arche>:<nl>
+Hold on a minute! If he was raising her to take over the Eclipse, then wouldn't he have explained what it is?
+<pause>
+<audio_1A62><Mint>:<nl>
+Perhaps he was refraining from telling her at a young age for fear of frightening her.
+<pause>
+<audio_1A63><Cless>:<nl>
+Well, since your father is gone now,
+there's no need to get too worked up
+about it, right?
+<pause>
+<audio_1A64>Rondoline:<nl>
+Right. I have no intention of running off
+to join the Eclipse or anything like that.
+<pause>
+<audio_1A65>Rondoline:<nl>
+...But still...To think that the sword artes my father taught me were made for killing...{END}
+
+<audio_1A66><Cless>:<nl>
+It's not the artes, but how you use them.
+They're a good thing as long as you don't use them for evil.
+<pause>
+<audio_1A67><Cless>:<nl>
+...Your father probably believed the same, that you'd use your skills for the right reason.
+<pause>
+<audio_1A68>Rondoline:<nl>
+How I use them...{END}
+
+<audio_1A69>Rondoline<nl>
+(Father told me to believe in my own justice...but what really is justice? I just don't know, Father...){END}
+
+<audio_1A6A><Cless>:<nl>
+Rody!? What are you doing...?{END}
+
+<audio_1A6B>Rondoline:<nl>
+I'm leaving this sword, and with it, all this talk about the Eclipse, right here.
+<pause>
+<audio_1A6C>Rondoline:<nl>
+If I took this sword with me, the memories it carries would distract me from fighting at my best.
+<pause>
+<audio_1A6D><Arche>:<nl>
+It seems kinda wasteful, but... Oh well, what can ya do?
+<pause>
+<audio_1A6E><Chester>:<nl>
+Yeah. Not like any of us could handle a
+weapon like that, anyway.
+<pause>
+<audio_1A6F><Cless>:<nl>
+...Well, if Rody can let it go, then so can I.
+<pause>
+<audio_1A70>Rondoline:<nl>
+Mhm... Okay, let's go.{END}
+
+<audio_1A71>Rondoline<nl>
+(...I do want to know the truth, but at the same time, I'm too afraid of it.){END}
+
+<audio_1A72>Rondoline<nl>
+(...No, that won't do. Dhaos was the same way. He shut his eyes, and looked away from reality.)
+<pause>
+<audio_1A73>Rondoline<nl>
+(Still, though...){END}
+
+<audio_1AA5>Rondoline:<nl>
+It's almost time...
+<pause>
+<audio_1AA6>Rondoline:<nl>
+I wonder what I'm feeling... I want to learn the truth, but at the same time, I'm hesitating...
+<pause>
+<audio_1AA7>Rondoline:<nl>
+How can my heart have such contradictions?
+It's so strange.
+<pause>
+<audio_1AA8>Rondoline:<nl>
+But...I guess it must be better to know the truth than to stay ignorant, huh?
+<pause>
+<audio_1AA9>Rondoline:<nl>
+I don't want it to be like how it was with Dad. To learn everything too late and wallow in loneliness.
+<pause>
+<audio_1AAA>Rondoline:<nl>
+I want to hear the truth directly from your mouth.
+<pause>
+<audio_1AAB>Rondoline:<nl>
+I want to talk to you properly.{END}
+
+<audio_1AA5>Rondoline:<nl>
+It's almost time...
+<pause>
+<audio_1AA6>Rondoline:<nl>
+I wonder what I'm feeling... I want to learn the truth, but at the same time, I'm hesitating...
+<pause>
+<audio_1AA7>Rondoline:<nl>
+How can my heart have such contradictions?
+It's so strange.
+<pause>
+<audio_1AA8>Rondoline:<nl>
+But... I guess it must be better to know the truth than to stay ignorant, huh?
+<pause>
+<audio_1AAA>Rondoline:<nl>
+I want to hear the truth directly from your mouth.
+<pause>
+<audio_1AAB>Rondoline:<nl>
+I want to talk to you properly.{END}
+
+<audio_1AAC>Rondoline:<nl>
+Who's there!?
+<pause>
+<audio_1AAD>Stranger in Black:<nl>
+I am the one who has inherited the same skills as yours... Your ally, if I might say.
+<pause>
+<audio_1AAE>Rondoline:<nl>
+Could it be... Are you a member of the Eclipse?
+<pause>
+<audio_1AAF>Stranger in Black:<nl>
+Indeed.
+<pause>
+<audio_1AB0>Rondoline:<nl>
+Then I'm afraid I'm no ally of yours.
+<pause>
+<audio_1AB1>Stranger in Black:<nl>
+Is that so...? After all the paths I've crossed to come welcome you into our ranks...
+<pause>
+<audio_1AB2>Stranger in Black:<nl>
+...Our organization has always been searching for you, Miss Rondoline.
+<pause>
+<audio_1AB3>Rondoline:<nl>
+For me?{END}
+
+<audio_1AB4>Stranger in Black:<nl>
+In order to develop the clan, we searched all over for even a shred of information.
+<pause>
+<audio_1AB5>Stranger in Black:<nl>
+And today we've finally found it...
+<pause>
+<audio_1AB6>Stranger in Black:<nl>
+We found a message left by the great Victor in the Forest of Spirits. It had your name in it.
+<pause>
+<audio_1AB7>Stranger in Black:<nl>
+So we sought you, the one who directly inherited his techniques.
+<pause>
+<audio_1AB8>Stranger in Black:<nl>
+Still... I never expected to meet you in person.
+<pause>
+<audio_1AB9>Rondoline:<nl>
+This “great Victor” you mentioned...<nl>
+Are you talking about my father?
+<pause>
+<audio_1ABA>Stranger in Black:<nl>
+Indeed. The story of his magnificent feats has long been passed down through the Eclipse.
+<pause>
+<audio_1ABB>Stranger in Black:<nl>
+Thus, I came here to welcome you--his daughter--to the Eclipse, but...
+<pause>
+<audio_1ABC>Stranger in Black:<nl>
+It's a shame.
+<pause>
+<audio_1ABD>Rondoline:<nl>
+......
+<pause>
+<audio_1ABE>Stranger in Black:<nl>
+You must be traveling with that young group of warriors, seeking to eliminate Dhaos.
+<pause>
+<audio_1ABF>Rondoline:<nl>
+It is as you said.
+<pause>
+<audio_1AC0>Stranger in Black:<nl>
+Take the sword.
+<pause>
+<audio_1AC1>Rondoline:<nl>
+You don't have to tell me. I was
+gonna do that from the start.
+<pause>
+<audio_1AC2>Stranger in Black:<nl>
+We shall allow you to do as you please for now.
+<pause>
+<audio_1AC3>Stranger in Black:<nl>
+However, we implore you to remember that we shall need your services in the future.
+<pause>
+<audio_1AC4>Stranger in Black:<nl>
+I shall return one day, with another invitation.{END}
+
+<audio_1AC5>Rondoline:<nl>
+...Wait! Who on earth are you guys, anyway!?
+<pause>
+<audio_1AC6>Rondoline:<nl>
+...Dammit. What the hell... {END}
+
+<audio_1AC7>Rondoline:<nl>
+Save your breath. My answer isn't going to change.{END}
+
+<audio_1AC8>Rondoline:<nl>
+After all, it was my father who told me to seek out my own path. And it is him I trust.{END}
+
+<audio_1ACC>Rondoline:<nl>
+I'll be taking this, Father, as proof that I am your one and only child.
+<pause>
+<audio_1ACD>Rondoline:<nl>
+Please lend me strength to face that man.{END}
+
+<color_0002>Acquired Dragunov.<color_0000>{END}
+
+<color_0002>Rondoline has earned the title “<var_E401>.”<color_0000>{END}
+
+<audio_1ACE>Rondoline:<nl>
+Dhaos... With these hands, I shall stop you.{END}
+
+<audio_1ACF><Arche>:<nl>
+Oh, there you are!{END}
+
+<audio_1AD0><Arche>:<nl>
+Good morning, Rody! Why are you up so early?{END}
+
+<audio_1AD1>Rondoline:<nl>
+Morning. I'm just warming up before everyone else wakes up.
+<pause>
+<audio_1AD2><Arche>:<nl>
+Ohhh~ I see! You're a morning person!{END}
+
+<audio_1AD3><Chester>:<nl>
+A little dark to be called “morning”, though.{END}
+
+<audio_1AD4>Rondoline:<nl>
+Are <Cless> and the others awake yet?{END}
+
+<audio_1AD5><Arche>:<nl>
+Yep. We're preparing to head out right now.
+<pause>
+<audio_1AD6>Rondoline:<nl>
+Oops. Okay, we should head back then.
+<pause>
+<audio_1AD7><Chester>:<nl>
+Right. Let's get ready.{END}
+

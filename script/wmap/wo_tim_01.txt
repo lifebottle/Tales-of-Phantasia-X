@@ -1,0 +1,20 @@
+Village of Belladam{END}
+
+Town of Harmel{END}
+
+Capital of Alvanista{END}
+
+Midgard Castle{END}
+
+Ocean Liner{END}
+
+Euclid Village{END}
+
+Venezia City{END}
+
+Olive Village{END}
+
+Elven Settlement{END}
+
+Ocean Liner{END}
+

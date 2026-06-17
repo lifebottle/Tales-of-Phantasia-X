@@ -1,0 +1,377 @@
+D10{END}
+
+was found.{END}
+
+D20{END}
+
+D30{END}
+
+D40{END}
+
+Shop{END}
+
+Artes{END}
+
+Equipment{END}
+
+Items{END}
+
+Strategy{END}
+
+Formation{END}
+
+Titles{END}
+
+Cooking{END}
+
+Status{END}
+
+Customize{END}
+
+Save{END}
+
+Key Items{END}
+
+Name Entry{END}
+
+Load{END}
+
+Rune Bottle{END}
+
+Drum Set{END}
+
+Collector's Book{END}
+
+Yes{END}
+
+No{END}
+
+Throw away2 {END}
+
+Use on whom?{END}
+
+Equip on whom?{END}
+
+Stock of consumable has been depleted.{END}
+
+Cannot remove weapon.
+{12}<Cless> is hesitant to
+fight bare-handed.{END}
+
+{12}<Cless> is hesitant to
+fight bare-handed.{END}
+
+Discard <a/an>{END}
+
+Who will be replaced?{END}
+
+Replace <Cless> with whom?{END}
+
+The most powerful balanced weapon will
+be chosen and equipped.{END}
+
+The weapon with the greatest Slash stat
+will be chosen and equipped.{END}
+
+The weapon with the greatest Thrust stat
+will be chosen and equipped.{END}
+
+Use artes with [O button].{END}
+
+Assign artes to the desired [D-pad] inputs.
+Use in conjunction with the arte button to
+execute them in battle. Clear with [Tri button].{END}
+
+Customize the artes your ally uses by moving
+the cursor to an arte and pressing [[] button].
+Light = Allowed. <graytext>Dark</colortext> = Restricted.{END}
+
+ADJUST SCREEN POSITION{END}
+
+Set position with the directional pad.{END}
+
+Save Position{END}
+
+Undo Change{END}
+
+Restore Default{END}
+
+Not enough TP.{END}
+
+Paralyzed, petrified or KOed
+allies cannot be swapped into
+the active party.{END}
+
+That cannot be used here.{END}
+
+You are not carrying anything (or anything
+else) that can be equipped in this slot.{END}
+
+Your inventory is already stocked full of this
+item. You must discard or sell your excess
+supply before it can be removed.{END}
+
+There is nothing to remove!{END}
+
+Battle Controls{END}
+
+Attack/Select{END}
+
+Arte/Cancel{END}
+
+Defend{END}
+
+Open Menu{END}
+
+Formation{END}
+
+Targeting{END}
+
+Arte Shortcut 1{END}
+
+Arte Shortcut 2{END}
+
+Buy{END}
+
+Sell{END}
+
+Equip{END}
+
+Exit{END}
+
+Choose Item{END}
+
+Increase Quantity{END}
+
+Decrease Quantity{END}
+
+Select{END}
+
+Details{END}
+
+You don't have enough gald.{END}
+
+Complete the transaction?{END}
+
+You can't carry anymore.{END}
+
+You are not carrying any items
+of monetary value.{END}
+
+Exit the menu?{END}
+
+Is this okay?{END}
+
+Now breaking, is this okay?{END}
+
+Finished saving?{END}
+
+<?colortext>You can now create a clear data file.
+A clear data file starts a new game with
+your Monster Book and Collector's Book
+data retained. Having a clear data file
+will also fully unlock the sound test.
+
+<redtext>WARNING:<?colortext> If you value your original
+data, don't overwrite it! It will be lost!{END}
+
+Memory Card Slot 1{END}
+
+Memory Card Slot 2{END}
+
+Memory Card 1{END}
+
+Memory Card 2{END}
+
+Please choose a memory card slot.{END}
+
+Your memory card is not formatted.{END}
+
+Your memory card is full.{END}
+
+No memory card detected.{END}
+
+Your memory card is not formatted.
+Format it?{END}
+
+Now formatting...
+Please don't remove the memory card.{END}
+
+Formatting failed.{END}
+
+Checking data...
+Please don't remove the memory card.{END}
+
+Tales of Phantasia data not found.{END}
+
+Save data here?{END}
+
+Now saving...
+Please don't remove the memory card.{END}
+
+Data saved successfully.{END}
+
+Saving failed.{END}
+
+Your memory card is full.{END}
+
+Load this data?{END}
+
+Now loading...
+Please don't remove the memory card.{END}
+
+Loading failed.{END}
+
+The data is corrupted.{END}
+
+Everyone became beautiful.{END}
+
+Everyone became gorgeous.{END}
+
+Everyone became lovely.{END}
+
+A holy aura surrounds the party.{END}
+
+An evil aura surrounds the party.{END}
+
+Please select desired enemy encounter rate.{END}
+
+Changed into <item_0100>.{END}
+
+Can't hold anymore <item_0100>.<unk6><item_0100> has been lit.<unk6><item_0100>'s light was extinguished.{END}
+
+{12}<item_0100> has been lit.<unk6><item_0100>'s light was extinguished.{END}
+
+{12}<item_0100>'s light was extinguished.{END}
+
+Who will prepare the recipe?{END}
+
+You haven't learned that recipe.{END}
+
+You don't have all the necessary ingredients.{END}
+
+We just ate! Anything more would
+only fatten us up.<unk6><Cless> messed up...{END}
+
+{12}<Cless> messed up...{END}
+
+Now, you too can be a drummer!!{END}
+
+Bass Drum{END}
+
+Snare Drum{END}
+
+Closed Hi-hat{END}
+
+Open Hi-hat{END}
+
+High Tom{END}
+
+Low Tom{END}
+
+Cymbal (left){END}
+
+Cymbal (right){END}
+
+Whistle{END}
+
+Hand Clap{END}
+
+Unidentified{END}
+
+Key Item{END}
+
+Trade{END}
+
+Food{END}
+
+Tool{END}
+
+Medicine{END}
+
+Bottle{END}
+
+Weapon: Sword{END}
+
+Weapon: Spear{END}
+
+Weapon: Axe{END}
+
+Weapon: Halberd{END}
+
+Weapon: Bow{END}
+
+Weapon: Rod{END}
+
+Weapon: Grimoire{END}
+
+Weapon: Broom{END}
+
+Weapon: Ninja Blade{END}
+
+Weapon: Special Sword{END}
+
+Body Armor: Armor{END}
+
+Body Armor: Clothing{END}
+
+Shield: Shield{END}
+
+Headgear: Helmet{END}
+
+Headgear: Hat{END}
+
+Headgear: Ribbon{END}
+
+Handwear: Gauntlets{END}
+
+Handwear: Gloves{END}
+
+Accessory: Charm{END}
+
+Accessory: Cape{END}
+
+Accessory: Boots{END}
+
+Accessory: Cape{END}
+
+Accessory: Pact Ring{END}
+
+Accessory: Ring{END}
+
+Accessory: Doll{END}
+
+Accessory: Gem{END}
+
+Accessory: Symbol{END}
+
+Accessory: Special{END}
+
+Collectible{END}
+
+Sort recently acquired items first.{END}
+
+Sort battle-consumable items first.{END}
+
+Sort items by type.{END}
+
+Sort consumable items first.{END}
+
+Sort items alphabetically.{END}
+
+Sort weapons first.{END}
+
+Sort body armor first.{END}
+
+Sort shields, headgear, and handwear first.{END}
+
+Sort accessories first.{END}
+
+Sort food first.{END}
+
+Sort recovery items first.{END}
+
+Sort tools first.{END}
+
+D10{END}
+

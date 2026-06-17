@@ -1,0 +1,350 @@
+<Cless>
+ Her voice is coming from this hole!
+<pause>
+???
+ Your hand...
+<pause>
+<Cless>
+ Who<speed_0010>...<speed_FFFF>are you?
+<pause>
+???
+ Your hand...
+<pause>
+???
+ ...please, put it through the hole...
+<pause>
+???
+ I want...to help you...
+<pause>
+<color_0002>Put your hand through the hole?<color_0000>{END}
+
+<Cless>
+ ......
+<pause>
+<Cless>
+ An...earring?
+<pause>
+???
+ Hold it against the wall...
+<pause>
+???
+ Afterward, I beg you to save the
+ girl held captive in the cell nearby...
+<pause>
+???
+ Together, I'm sure you will be able
+ to escape this place...
+<pause>
+<Cless>
+ W-wait a minute!
+<pause>
+<Cless>
+ Who are you...?
+<pause>
+???
+ <speed_0010>...<speed_FFFF>Please<speed_0020>...
+<pause>
+<speed_FFFF><Cless>
+ ......
+<pause>
+<Cless>
+ I guess all I can do is give what
+ she said a try...{END}
+
+<Cless>
+ I can get out now...
+<pause>
+<Cless>
+ I'd better give that person my
+ thanks...{END}
+
+???
+ Put your hand through the hole...
+<pause>
+???
+ Please...{END}
+
+<Cless>
+ Hmm, it's too small to crawl
+ through...{END}
+
+<color_0002>Forced the cell door open with the
+<num3_0000511E>.<color_0000>{END}
+
+<Cless>
+ Can't bend the bars with my bare
+ hands...{END}
+
+<Cless>
+ Umm...
+<pause>
+<Cless>
+ Looks like a dead end...{END}
+
+<Mint>
+ I think this connects to the
+ waterway.
+<pause>
+<Mint>
+ Do we have any way of getting
+ past these bars?{END}
+
+<Cless>
+ YAH!!<wait>{END}
+
+<color_0002>Forced the bars open with the
+<item_C500>.<color_0000>
+<pause>
+<color_0002>The shaft of the axe splintered
+from the impact. The remains have
+been discarded.<wait>{END}
+
+<Cless>
+ Now we can get out of here.
+<pause>
+<Mint>
+ Well done, Mr. Alvein!<wait>{END}
+
+<color_0002><Cless> rearmed himself
+with the <item_A100>.<wait>{END}
+
+<Cless>
+ An ordinary sword is too light to
+ break the bars.
+<pause>
+<Cless>
+ Maybe there's something heavier I
+ can use to smash them with...{END}
+
+<Cless>
+ We should be able to get out
+ through the underground
+ waterway from here...{END}
+
+<Cless>
+ I'll be spotted if I go any further...{END}
+
+<Cless>
+ (It's best she doesn't see that
+ horrifying sight.){END}
+
+<Cless>
+ (She doesn't know that her
+ mother's been stabbed to death.)
+<pause>
+<Cless>
+ (If she finds out now, her heart
+ will be crushed...){END}
+
+<Cless>
+ Oh my god...
+<pause>
+<Cless>
+ Then what was that warm hand I
+ felt...?{END}
+
+<Cless>
+ Are you all right?
+<pause>
+<Cless>
+ Have you been hurt?
+<pause>
+???
+ ...!
+<pause>
+<Cless>
+ Don't be afraid.
+ I have come to help you.
+<pause>
+<Cless>
+ My name is <Cless> Alvein.
+ What's yours?<wait>{END}
+
+???
+ I am <Mint>...
+<pause>
+???
+ ...<Mint> Adnade.
+<pause>
+<Mint>
+ Um...
+<pause>
+<Mint>
+ Thank you very much for saving
+ me, Mr. Alvein.
+<pause>
+<Cless>
+ Well, they captured me too.
+ I broke out of my cell just
+ a few moments ago.
+<pause>
+<Cless>
+ We should escape from this place
+ together.
+<pause>
+<Mint>
+ Um--
+<pause>
+<Cless>
+ We can't stay here any longer.
+ They're going to find us.
+<pause>
+<Mint>
+ Um<speed_0010>...<speed_FFFF>please wait.
+<pause>
+<Mint>
+ I beg you...
+ We must save my mother
+ before we go!
+<pause>
+<Mint>
+ She should be in one of the cells on
+ the other side.<wait>{END}
+
+<Cless>
+ Huh?{END}
+
+<Cless>
+ ......
+<pause>
+<Cless>
+ That's where I was locked up, but I
+ didn't see anyone else on my way
+ out.
+<pause>
+<Cless>
+ We've got no more time!
+ Come on, hurry!!
+<pause>
+<Mint>
+ B-but...
+<pause>
+<Mint>
+ I'm sure I heard my mother's
+ voice!
+<pause>
+<Mint>
+ She told me to be strong<speed_0010>...<speed_FFFF>
+<pause>
+<Mint>
+ I-I'm certain it was Mother<speed_0010>...<speed_FFFF>{END}
+
+<Cless>
+ Forgive me, <Mint>, but we
+ can't dawdle anymore.
+ We'll be caught if we debate
+ this any longer...
+<pause>
+<Mint>
+ ......<wait>{END}
+
+<Mint>
+ I understand...{END}
+
+<Cless>
+ She was run through with this
+ sword...
+<pause>
+<Cless>
+ How awful...
+<pause>
+<color_0002>Pull out the sword?<color_0000>{END}
+
+<Cless>
+ I'm so sorry...
+ Please rest in peace.<wait>{END}
+
+<color_0002>Acquired a <item_A100>.<color_0000>{END}
+
+<Cless>
+ I-I just can't...{END}
+
+Guard
+ Get in there!{END}
+
+Guard
+ Move it!!{END}
+
+Guard
+ If you don't want me to slit your
+ miserable little throat, then you'll
+ do as we say!{END}
+
+<Cless>
+ Dammit!{END}
+
+Soldier
+ Sir! We have returned with
+ the son of Miguel Alvein,
+ as ordered!{END}
+
+???
+ Splendid.{END}
+
+???
+ Hmph, so it was in the hands of a
+ little brat like this...
+<pause>
+<Cless>
+ You're the one who attacked the
+ village, aren't you!?
+<pause>
+???
+ So what if I was?
+ What could you hope to
+ do about it, Pipsqueak?
+<pause>
+<Cless>
+ Ugh!{END}
+
+<Cless>
+ G-give that back!!
+<pause>
+???
+ Ha!
+ This pendant is mine now...
+<pause>
+???
+ You!
+ Disarm this runt and throw
+ him in the dungeon.{END}
+
+???
+ Hmhm...
+<pause>
+???
+ Only one thing left, and finally...{END}
+
+<Cless>
+ (Wh-what's with his reflection!?){END}
+
+???
+ <speed_0010>Can you...<speed_FFFF>hear my<speed_0020>...<speed_FFFF>voice?{END}
+
+<Cless>
+ Huh?
+<pause>
+<Cless>
+ Did I just hear...
+<pause>
+<Cless>
+ ...a woman's voice?{END}
+
+<Cless>
+ How horrible...{END}
+
+<Cless>
+ These are the robes of a cleric!
+<pause>
+<Cless>
+ Who could do such a thing!?{END}
+
+<unk1><Cless>
+ Uhh...
+ On second thought, I'm probably
+ going to need this...
+<pause>
+<color_0002>Picked the <num3_0000511E> back up.{END}
+
+<color_0002>Acquired a <item_C500>.{END}
+

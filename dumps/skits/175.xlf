@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_869">
+        <source>So, where to next?</source>
+        <target state="translated">So, where to next?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_870">
+        <source>The Zodiac Tower.</source>
+        <target state="translated">The Zodiac Tower.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_871">
+        <source>It's supposedly between Freyland and Midgard.</source>
+        <target state="translated">It's supposedly between Freyland and Midgard.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_872">
+        <source>We need to make a pact there
+with one of the newly-repaired rings.</source>
+        <target state="translated">We need to make a pact there
+with one of the newly-repaired rings.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_873">
+        <source>Oh yeah.</source>
+        <target state="translated">Oh yeah.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

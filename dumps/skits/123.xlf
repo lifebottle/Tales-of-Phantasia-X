@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_583">
+        <source>Dhaos won't be fleeing from us this time!</source>
+        <target state="translated">Dhaos won't be fleeing from us this time!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_584">
+        <source>Yeah. We'll give him a
+beatdown he'll never forget!</source>
+        <target state="translated">Yeah. We'll give him a
+beatdown he'll never forget!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_585">
+        <source>We can do it!</source>
+        <target state="translated">We can do it!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_485">
+        <source>I wonder what made
+Demeter move to that island?</source>
+        <target state="translated">I wonder what made
+Demeter move to that island?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_486">
+        <source>Might have something to do
+with his own magic research...</source>
+        <target state="translated">Might have something to do
+with his own magic research...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_487">
+        <source>At least we know where
+he is. Let's chase him by ship.</source>
+        <target state="translated">At least we know where
+he is. Let's chase him by ship.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_488">
+        <source>Yeah, you got it. There's no other way.</source>
+        <target state="translated">Yeah, you got it. There's no other way.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_489">
+        <source>Then let's hurry to the port!</source>
+        <target state="translated">Then let's hurry to the port!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_490">
+        <source>The longer Demeter's free, the
+more likely he'll repeat his crimes.</source>
+        <target state="translated">The longer Demeter's free, the
+more likely he'll repeat his crimes.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

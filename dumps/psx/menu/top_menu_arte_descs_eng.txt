@@ -1,0 +1,331 @@
+Base: Unleash a cutting shockwave
+along the ground. A base arte can
+be connected from a regular attack.{END}
+
+Base: Combo attack consisting of two
+flying kicks and a downward thrust.{END}
+
+Base: Fry an enemy with a
+bolt of lightning and finish
+with a downward slash.{END}
+
+Base: Attack the enemy
+with multiple thrusts.{END}
+
+Base: Two-hit slash slicing
+the enemy up then down.{END}
+
+Base: Soar into enemies while
+enveloped in the flames of the
+legendary bird.{END}
+
+Base: Knock down an enemy with the
+force of a powerful, charging beast.{END}
+
+Base: Bash an enemy with your
+shield and spin around to finish
+with a mighty thrust.{END}
+
+Base: Halt the enemy with an
+energy barrier and slice them
+up with an aura wave.{END}
+
+Base: Teleport to an enemy
+and deliver a combo attack.{END}
+
+Base: Create a distortion enlarging
+your weapon and cleave the enemy
+in two with a down slash.{END}
+
+Create a void to extend attack range
+and deliver a devasting horizontal
+slice to the enemy.{END}
+
+Toss an enkindled sword
+to incinerate enemies.{END}
+
+Implant your weapon into the
+ground to create a barrier of
+light that repels the enemy.{END}
+
+<Focus> your energy to
+temporarily increase Attack.{END}
+
+Concentrate your mind to
+temporarily increase Accuracy.{END}
+
+Absorb energy particles from the
+atmosphere to restore some HP.{END}
+
+A deadly multi-hit combo attack.
+Requires a manually-inputted sequence
+of button presses to perform in full.{END}
+
+Arcane: A combination of Demon Fang
+and Swallow Dance. An arcane arte
+can be connected from a base arte.{END}
+
+Arcane: A combination of Demon Fang
+and Tiger Blade.{END}
+
+Arcane: A combination of Demon Fang
+and Sword Rain: Alpha.{END}
+
+Arcane: A combination of Demon Fang
+and Light Spear.{END}
+
+Arcane: A combination of <Beast>
+and Swallow Dance.{END}
+
+Arcane: A combination of <Beast>
+and Tiger Blade.{END}
+
+Arcane: A combination of <Beast>
+and Sword Rain: Alpha.{END}
+
+Arcane: A combination of <Beast>
+and Light Spear.{END}
+
+Arcane: A combination of
+Lightning Tiger Blade and
+Swallow Dance.{END}
+
+Arcane: A combination of
+Lightning Tiger Blade and Tiger Blade.{END}
+
+Arcane: A combination of
+Lightning Tiger Blade
+and Sword Rain: Alpha.{END}
+
+Arcane: A combination of
+Lightning Tiger Blade and Light Spear.{END}
+
+Arcane: A combination of Rising Phoenix
+and Swallow Dance.{END}
+
+Arcane: A combination of Rising Phoenix
+and Tiger Blade.{END}
+
+Arcane: A combination of Rising Phoenix
+and Sword Rain: Alpha.{END}
+
+Arcane: A combination of Rising Phoenix
+and Light Spear.{END}
+
+Arcane/Eternal: A combination of
+Distortion Blade and Chaos Blade.{END}
+
+Arcane/Eternal: A combination of
+Void Shift and Chaos Blade.{END}
+
+Shoot an arrow enveloped in flames.{END}
+
+Shoot an arrow enveloped
+in frigid energy.{END}
+
+Shoot an arrow enveloped
+in electrical energy.{END}
+
+Shoot an arrow with piercing strength.{END}
+
+Barrage the enemy with arrows.{END}
+
+Impact the ground with a powerful shot
+that sends debris flying at the enemy.{END}
+
+Shower the enemy with a
+full quiver of arrows.{END}
+
+Shoot an arrow of epic proportions.{END}
+
+Shoot a deadly blast of energy.{END}
+
+Create a shadow clone to double
+damage dealt to an enemy.{END}
+
+Make mincemeat of an enemy
+with multiple slashes.{END}
+
+A falling spin slice cuts up the enemy.{END}
+
+Call a storm of leaves to
+flee from enemies easily.{END}
+
+Snatch an item from an enemy.{END}
+
+Throw enkindled throwing
+stars at the enemy.{END}
+
+Throw a sword into the ground and
+call upon lightning to strike it.{END}
+
+Cut up the enemy with
+a flurry of slashes.{END}
+
+Summon a giant frog to attack.{END}
+
+Novice/Fire: Blast the enemy
+with spheres of flame.{END}
+
+Intermediate/Fire: Molten rock
+jets from the ground and returns
+as large fire balls.{END}
+
+Advanced/Fire: Incinerate the enemy
+with a torrent of flame.{END}
+
+Grandmaster/Fire: Drop a magic bomb
+with a wide blast radius at the
+target's feet.{END}
+
+Novice/Lightning: Call forth
+a tiny bolt of lightning.{END}
+
+Intermediate/Lightning: Lightning
+bolts converge to fry the enemy.{END}
+
+Advanced/Lightning: Strike the
+enemy down with holy wrath.{END}
+
+Novice/Water: Perforate the enemy
+with a barrage of icicle spikes.{END}
+
+Intermediate/Water: Conjure a
+frigid vortex to pelt the enemy
+with blocks of ice.{END}
+
+Advanced/Water: Transform the
+ground into a fierce whirlpool.{END}
+
+Grandmaster/Water: Drown the
+enemy in a great flood.{END}
+
+Novice/Earth: Medium-sized rocks
+rain down upon the enemy.{END}
+
+Intermediate/Earth: Stone spears
+erupt from the ground.{END}
+
+Advanced/Earth: Crush the enemy
+with a swarm of sizable rocks
+and finish with a giant boulder.{END}
+
+Grandmaster/Earth: Cause a
+devastating ground tremor.{END}
+
+Novice/Wind: Unleash a sudden
+squall at the enemy.{END}
+
+Intermediate/Wind: Enshroud the
+enemy in a powerful tornado.{END}
+
+Advanced/Wind: Conjure a
+raging storm.{END}
+
+Grandmaster/Wind: Squash the enemy
+with extreme atmospheric pressure.{END}
+
+Intermediate/Light: Bombard the
+enemy with beams of light.{END}
+
+Forbidden/Light: Cause a
+grand explosion to occur.{END}
+
+Intermediate/Non-element: Levitate
+the enemy and drop them.{END}
+
+Grandmaster/Non-element: Shower
+the enemy with meteorites.{END}
+
+Forbidden/Dark: Open a great
+void to engulf the enemy.{END}
+
+Summon the Spirit of Wind.
+Governor of one of the
+Four Great Elements.{END}
+
+Summon the Spirit of Water.
+Governor of one of the
+Four Great Elements.{END}
+
+Summon the Spirit of Earth.
+Governor of one of the
+Four Great Elements.{END}
+
+Summon the Spirit of Fire.
+Governor of one of the
+Four Great Elements.{END}
+
+Summon the Spirit of Molecules.
+The ruler of the Four Great Elements.{END}
+
+Summon the Spirit of the Moon.{END}
+
+Summon the Spirit of Darkness.{END}
+
+Summon the Spirit of Light.{END}
+
+Summon the Spirit of Lightning.{END}
+
+Summon the Almighty Spirit of Creation.{END}
+
+Forbidden: Summon countless
+fiendlings from the underworld.{END}
+
+Forbidden: Summon the
+overlord of the underworld.{END}
+
+Restore a small amount
+of HP to one ally.{END}
+
+Restore a medium amount
+of HP to one ally.{END}
+
+Restore a large amount
+of HP to one ally.{END}
+
+Summon angelic nurses to restore a
+medium amount of HP to all allies.{END}
+
+Restore a large amount
+of HP to all allies.{END}
+
+Cure poison from one ally.{END}
+
+Cure all status ailments from one ally.{END}
+
+Resurrect one KOed ally.{END}
+
+A hammer falls to
+stun one enemy.{END}
+
+An enornmous hammer
+falls to stun all enemies.{END}
+
+Conjure an armor-corroding shower
+to reduce all enemies' Defense.{END}
+
+Envelop one enemy in a thick
+fog to reduce Accuracy.{END}
+
+Prevent one enemy from casting spells.{END}
+
+Suspend all enemies' movement
+for a period of time.{END}
+
+Transfer a small amount
+of TP to one ally.{END}
+
+Increase one ally's defense.{END}
+
+Increase one ally's attack.{END}
+
+Reverse one ally's negative status.{END}
+
+Create a barrier of light
+to repel the enemy.{END}
+
+Increase a single ally's mobility.{END}
+
+Decrease the enemy's mobility.{END}
+

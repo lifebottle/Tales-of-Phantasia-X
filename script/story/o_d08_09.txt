@@ -1,0 +1,640 @@
+Treant Forest{END}
+
+<audio_11A0><Klarth>:<nl>
+ Origin's definitely here, all right.
+<pause>
+<audio_11A1><Cless>:<nl>
+ You're absolutely sure?
+<pause>
+<audio_11A2><Klarth>:<nl>
+ Yeah.
+ Remember when we had those
+ pact rings repaired here back in
+ my era?
+<pause>
+<audio_11A3><Klarth>:<nl>
+ It was in the blink of an eye, but I
+ saw him then.{END}
+
+<audio_11A4><Chester>:<nl>
+ <Arche>!<wait>{END}
+
+<audio_11A5><Cless>:<nl>
+ Huh!?{END}
+
+<audio_11A6><Arche>:<nl>
+ Tee-hee <heart>
+<pause>
+<audio_11A7><Arche>:<nl>
+ I was starting to get bored, so
+ here I am!
+<pause>
+<audio_11A8><Klarth>:<nl>
+ Swept clean past elven
+ security this time, I see.
+ Score one for <Arche>!
+<pause>
+<audio_11A9><Mint>:<nl>
+ ...And one for Volt's sparkly
+ powers, right?<wait>{END}
+
+<audio_11AA><Klarth>:<nl>
+ I'll say!<wait>{END}
+
+<color_0002><Arche> has returned.
+You can change your formation.{END}
+
+<audio_11AB><Klarth>:<nl>
+ All right, time to put on your
+ serious faces.{END}
+
+Origin:<nl>
+ You, who have undone the seals of
+ flame and frost; you, who stand
+ brazen upon this sacred site...<wait>{END}
+
+Origin:<nl>
+ I trust you are prepared?<wait>{END}
+
+<audio_11AE><Klarth>:<nl>
+ I could ask you the very same!{END}
+
+<audio_11AF>Origin:<nl>
+ Ugh...
+<pause>
+<audio_11B0>Origin:<nl>
+ Th-That I must yield...and to
+ mortals...
+<pause>
+<audio_11B1>Origin:<nl>
+ ...Tell me--what is your desire?
+<pause>
+<audio_11B2><Klarth>:<nl>
+ To establish a summoning pact
+ between us.
+<pause>
+<audio_11B3><Klarth>:<nl>
+ However, before we begin the
+ ritual, we'd like to borrow your
+ powers of creation again.
+<pause>
+<audio_11B4><Klarth>:<nl>
+ We have learned that you alone
+ possess the power necessary to
+ forge the legendary Blade of Time.
+<pause>
+<audio_11B5><Klarth>:<nl>
+ The necessary components, the
+ Blades of Flame and Frost, have
+ been obtained and mastered by my
+ companion.
+<pause>
+<audio_11B6>Origin:<nl>
+ The Blade of Time...?
+<pause>
+<audio_11B7>Origin:<nl>
+ Young man, why do you want such
+ a thing?
+<pause>
+<audio_11B8><Cless>:<nl>
+ To defeat Dhaos once and for all!
+<pause>
+<audio_11B9><Cless>:<nl>
+ He has powers of time travel, and
+ without the Blade of Time, he'll
+ simply use them to flee into the
+ future.
+<pause>
+<audio_11BA>Origin:<nl>
+ The being called Dhaos...
+<pause>
+<audio_11BB>Origin:<nl>
+ ...who presently endangers this
+ world...
+<pause>
+<audio_11BC>Origin:<nl>
+ Hmhmhm...
+<pause>
+<audio_11BD><Chester>:<nl>
+ What's so funny!?
+<pause>
+<audio_11BE><Chester>:<nl>
+ This is serious, dammit!
+<pause>
+<audio_11BF>Origin:<nl>
+ Has it occurred to any of you to
+ consider Dhaos' reasons for
+ appearing in this world?
+<pause>
+<audio_11C0>Origin:<nl>
+ Who might he be?
+<pause>
+<audio_11C1>Origin:<nl>
+ From whence did he come?
+<pause>
+<audio_11C2>Origin:<nl>
+ Why does he harbor such hatred
+ for humans?
+<pause>
+<audio_11C3><Mint>:<nl>
+ I-It's true that we understand
+ nothing of Dhaos' nature or
+ intentions...
+<pause>
+<audio_11C4><Mint>:<nl>
+ But we cannot ignore the suffering his actions have caused.
+ Many have been sacrificed on
+ the altar of his ambitions.
+<pause>
+<audio_11C5><Cless>:<nl>
+ Please, Origin!
+ We only want the power
+ to protect this world!
+<pause>
+<audio_11C6><Cless>:<nl>
+ For ourselves and everyone else
+ who inhabits it!{END}
+
+<audio_11C7>Origin:<nl>
+ ......
+<pause>
+<audio_11C8>Origin:<nl>
+ Very well...
+<pause>
+<audio_11C9>Origin:<nl>
+ The defeated have no right to
+ resist, after all...
+<pause>
+<audio_11CA>Origin:<nl>
+ Henceforth, I am now yours to
+ command.
+<pause>
+<audio_11CB>Origin:<nl>
+ As requested, I shall first forge the
+ Blade of Time.
+<pause>
+<audio_11CC>Origin:<nl>
+ Place the two swords and the
+ Diamond Ring before the tablet, and
+ I will begin the synthesis.{END}
+
+<audio_11CD><Cless>:<nl>
+ Wow...<nl>
+ The legendary Blade of Time...<wait>{END}
+
+<color_0002>Acquired <item_FF00>.<color_0000>{END}
+
+<audio_11CE><Cless>:<nl>
+ Wh-What!?
+<pause>
+<audio_11CF><Cless>:<nl>
+ Something is...speaking to me...
+<pause>
+<audio_11D0>Blade of Time, Eternal Sword:<nl>
+ “Wielder of this blade that cuts
+ even the fabric of time, unite thy
+ power with mine, and vanquish
+ those possessed of evil hearts.”{END}
+
+<audio_11D1><Cless>:<nl>
+ It feels as if something is rushing
+ into my head...<wait>{END}
+
+<color_0002><Cless> learned
+<var_8A00>,
+<var_A300>,
+and <var_A400>.<color_0000><wait>{END}
+
+<color_0002><Cless> has earned the title
+“<var_8E01>.”<wait><color_0000>{END}
+
+<audio_11D2>Origin:<nl>
+ Now, the summoning pact.
+<pause>
+<audio_11D3>Origin:<nl>
+ Hold up the Diamond Ring...{END}
+
+<audio_11D4><Klarth>:<nl>
+ Here and now, I offer my request
+ to the Almighty Spirit of Creation.
+<pause>
+<audio_11D5><Klarth>:<nl>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<audio_11D6><Klarth>:<nl>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon Origin.<color_0000><wait>{END}
+
+<color_0002><Klarth> has earned the title
+“<var_B401>.”<wait><color_0000>{END}
+
+<audio_11D7><Klarth>:<nl>
+ All that's left is to give Dhaos a
+ good skewering.
+<pause>
+<audio_11D8><Mint>:<nl>
+ But where could he be?
+<pause>
+<audio_11D9><Arche>:<nl>
+ When all else fails, ask Lundgrom!
+<pause>
+<audio_11DA><Cless>:<nl>
+ Then we're off to Alvanista!
+<pause>
+<audio_11DB><Arche>:<nl>
+ Quick-jump is ready to go!
+<pause>
+<color_0002>What will you do?<nl>
+<speed_0000>1. Quick-jump there<nl>
+2. Walk there<color_0000><speed_FFFF>{END}
+
+<audio_0CE6><Arche>:<nl>
+ Well, I'm gonna go back to the
+ entrance of Ymir Forest, then.
+ Don't forget about me <heart>{END}
+
+<audio_0CCD><Cless>:<nl>
+ We've arrived, sir.{END}
+
+<audio_0CCE><Mint>:<nl>
+ Then, about this stone tablet...
+<pause>
+<audio_0CCF>Brambard:<nl>
+ According to legend, it is where the
+ spirit governing the wellspring of
+ creation, Origin, rests.
+<pause>
+<audio_0CD0>Brambard:<nl>
+ The name of the forest, Ymir, too
+ shares a meaning with the name of
+ the spirit.
+<pause>
+<audio_0CD1><Cless>:<nl>
+ Hmm, Origin...
+<pause>
+<audio_0CD2>Brambard:<nl>
+ He is known as the
+ King of Spirits.
+<pause>
+<audio_0CD3>Brambard:<nl>
+ He is only known to have shown
+ himself to the world once, long
+ ago<speed_0010>...
+<pause>
+<speed_FFFF><audio_0CD4>Brambard:<nl>
+ ...amidst the war we elves have
+ dubbed “Ragnarok”...
+<pause>
+<audio_0CD5>Brambard:<nl>
+ ...the war that brought the Age of
+ Antiquity to conclusion.<wait>{END}
+
+<audio_0CD6>Brambard:<nl>
+ I know not whether the legend
+ surrounding the tablet is true, but...
+<pause>
+<audio_0CD7>Brambard:<nl>
+ It is engraved upon it that it has
+ the power to restore deteriorated
+ physical matter to its former glory.
+<pause>
+<audio_0CD8><Klarth>:<nl>
+ Hrm...
+<pause>
+<audio_0CD9><Klarth>:<nl>
+ The power to literally return an
+ object to its “origins,” huh?
+<pause>
+<audio_0CDA>Brambard:<nl>
+ Very astute.
+ Perhaps it is because of this that
+ the ancients chose the name.{END}
+
+<audio_0CDB><Mint>:<nl>
+ Then, if you would please try it on
+ the rings...
+<pause>
+<audio_0CDC>Brambard:<nl>
+ Stand back...{END}
+
+<audio_0CDD>Brambard:<nl>
+ The process is complete.
+<pause>
+<audio_0CDE><Mint>:<nl>
+ Amazing...<nl>
+ The rings are absolutely
+ marvelous now.
+<pause>
+<audio_0CDF><Klarth>:<nl>
+ Next up, we need to find Luna, the
+ Spirit of the Moon.
+<pause>
+<audio_0CE0><Mint>:<nl>
+ Right, so that we can assist Mr.
+ Morrison.
+<pause>
+<audio_0CE1>Brambard:<nl>
+ It may be in your interest to
+ ascend the <color_0002>Zodiac Tower<color_0000>, located
+ between Freyland and Midgard.
+<pause>
+<audio_0CE2>Brambard:<nl>
+ There are many tales of a spirit
+ inhabiting it.
+<pause>
+<audio_0CE3>Brambard:<nl>
+ It may or may not be the one you
+ are seeking, but one living in that
+ place should be of considerable
+ military value if summoned.
+<pause>
+<audio_0CE4><Klarth>:<nl>
+ Thanks.
+ This helps us greatly.{END}
+
+<audio_1751><Cless>:<nl>
+Hey, wait!
+<pause>
+<audio_1752><Cless>:<nl>
+How about this!?{END}
+
+<audio_1753><Klarth>:<nl>
+Where'd you get that old bow?
+<pause>
+<audio_1754><Klarth>:<nl>
+It looks like a pile of scrap wood.
+<pause>
+{END}
+
+<audio_1755><Cless>:<nl>
+Can this bow be fixed, too?
+<pause>
+{END}
+
+<audio_1756><Cless>:<nl>
+I know it's a lot to ask.
+<pause>
+<audio_1757><Cless>:<nl>
+But...
+<pause>
+{END}
+
+<audio_1758><Cless>:<nl>
+It's very special to me, and I
+really need it repaired!{END}
+
+<audio_1759><Mint>:<nl>
+<Cless>...
+<pause>
+<audio_175A><Cless>:<nl>
+I beg you!
+<pause>
+<audio_175B><Cless>:<nl>
+Please, fix this bow!
+<pause>
+{END}
+
+<audio_175C>Brambard:<nl>
+<speed_0010>......<speed_00FF>
+<pause>
+<audio_175D>Brambard:<nl>
+I am sorry, but that would be
+impossible.{END}
+
+<audio_175E><Cless>:<nl>
+Oh... I see<speed_0010>...<speed_00FF>
+<pause>
+{END}
+
+<audio_175F><Cless>:<nl>
+Sorry for asking the impossible.
+<pause>
+<audio_1760>Brambard:<nl>
+No, I simply mean it would be
+impossible for me to mend.
+<pause>
+{END}
+
+<audio_1761>Brambard:<nl>
+You see, I can mend items with
+magical power, like pact rings.
+<pause>
+<audio_1762>Brambard:<nl>
+However, the black stone simply returns
+things to their original form.{END}
+
+<audio_1763>Brambard:<nl>
+That bow was created by a
+normal human, yes?
+<pause>
+<audio_1764>Brambard:<nl>
+Therefore, I assume its
+original form...
+<pause>
+<audio_1765>Brambard:<nl>
+...was a stave of wood.
+<pause>
+<audio_1766><Cless>:<nl>
+Huh?
+<pause>
+<audio_1767>Brambard:<nl>
+In other words, since it is broken,
+just have someone fix it.
+<pause>
+<audio_1768>Brambard:<nl>
+A skilled bowsmith should be
+up to the task.
+<pause>
+<audio_1769>Brambard:<nl>
+It's simple.
+<pause>
+<audio_176A>Brambard:<nl>
+I believe the village weapon shop
+might even be able to fix it.
+<pause>
+<audio_176B><Mint>:<nl>
+Really!?
+<pause>
+<audio_176C><Mint>:<nl>
+That's wonderful news.{END}
+
+<audio_176D><Klarth>:<nl>
+<Cless>... What's so special about
+that bow, anyway?{END}
+
+<audio_176E><Cless>:<nl>
+It's something I have to return to
+a very close friend.
+<pause>
+<audio_176F><Cless>:<nl>
+And I will, someday...
+<pause>
+{END}
+
+<audio_1770><Cless>:<nl>
+I will see him again!
+I swear it!{END}
+
+<audio_1771><Mint>:<nl>
+Let's go.
+<pause>
+<audio_1772><Mint>:<nl>
+Now that the rings are fixed,
+we can take care of the bow!
+<pause>
+<audio_1773>Brambard:<nl>
+It appears things are settled.
+<pause>
+<audio_1774>Brambard:<nl>
+If you must visit the weapon shop,
+I will accompany you.{END}
+
+<color_0002>Acquired the <item_6301> and
+<item_6401> pact rings.<color_0000>{END}
+
+<Cless>:<nl>
+ Hey!
+ Little <Suzu>!
+<pause>
+<Cless>:<nl>
+ ...But why are you here?
+ This all seems a bit random.
+<pause>
+<Suzu>:<nl>
+ I have been waiting for you.<wait>{END}
+
+<Suzu>:<nl>
+ ......<wait>{END}
+
+<Suzu>:<nl>
+ Please come with me.
+<pause>
+<Arche>:<nl>
+ Waiiiiiit!<wait>{END}
+
+<Arche>:<nl>
+ Don't go without me! <panic>{END}
+
+<Cless>:<nl>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C500>.<color_0000>{END}
+
+<Cless>:<nl>
+ But I don't have any use for it. I'll
+ put it back...{END}
+
+<Klarth>:<nl>
+ This stone tablet is giving off a
+ mysterious air...{END}
+
+<Cless>:<nl>
+ The entrance to the forest depths
+ is supposedly right around here,
+ but--
+<pause>
+<Arche>:<nl>
+ I know!
+ Let's ask Origin!
+<pause>
+<Klarth>:<nl>
+ Okay.
+ Here goes...{END}
+
+<unk1><Klarth>:<nl>
+ Origin, can you tell us how we
+ might venture into the hidden
+ region of this forest?
+<pause>
+Origin:<nl>
+ Hmph.
+ Know this: The depths are a place
+ absolutely none should enter.
+<pause>
+<Klarth>:<nl>
+ And the reason for that is?
+<pause>
+Origin:<nl>
+ There is no escape.
+ Those who enter the depths of
+ Treant Forest are trapped for
+ eternity, without exception.
+<pause>
+<Arche>:<nl>
+ How come?
+<pause>
+Origin:<nl>
+ The concepts involved are far
+ beyond the understanding of beings
+ as ignorant as yourselves, but to
+ put it simply...
+<pause>
+Origin:<nl>
+ ...the area beyond this tablet was
+ sealed off long ago. It exists now
+ in a pocket dimension, parallel to
+ this one.
+<pause>
+<Klarth>:<nl>
+ That's absolutely ridiculous...
+<pause>
+<Klarth>:<nl>
+ Do you know of any way to get
+ around this?
+<pause>
+Origin:<nl>
+ I can create a bridge for a short
+ time, but--
+<pause>
+<Arche>:<nl>
+ Wh-Whoa!
+ For HOW long!?
+<pause>
+Origin:<nl>
+ A short time.
+<pause>
+Origin:<nl>
+ More specifically, it depends on the
+ capacity of <color_0002><Klarth><'s/'> willpower<color_0000>.
+<pause>
+Origin:<nl>
+ If you wish to put your trust in
+ such rash measures, I will send you
+ there.<wait>{END}
+
+<speed_0000><color_0002>Enter the depths of Treant Forest?{END}
+
+<Arche>:<nl>
+ Wait for meeeeeee!!{END}
+
+Origin:<nl>
+ For you to have found a piece of
+ Sacred Wood... I must say, I'm
+ somewhat impressed.
+<pause>
+Origin:<nl>
+ It's my understanding that many
+ more treasures lie within the
+ depths.
+<pause>
+Origin:<nl>
+ You may well be the only people
+ capable of obtaining them.{END}
+
+Origin:<nl>
+ Do not be unreasonable.
+<pause>
+Origin:<nl>
+ My power is not limitless.
+<pause>
+Origin:<nl>
+ It would have been best for you to
+ never have come to this place.{END}
+
+<audio_0CE6><Arche>:<nl>
+ Well, I'm gonna go back to the
+ entrance of Ymir Forest, then.
+ Don't forget about me <heart>{END}
+

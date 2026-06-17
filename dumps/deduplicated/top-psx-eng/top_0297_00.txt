@@ -1,0 +1,127 @@
+Cave of Darkness{END}
+
+<Cless>
+ Could this thing possibly be...
+<pause>
+<Cless>
+ ...some kind of spirit?{END}
+
+???
+ My...name...<var_D500>.
+<pause>
+<var_D500>
+ I...Dark...Spirit...of...world...
+ Enemy...Dhaos...control...my...
+ dark...residents...
+<pause>
+<Cless>
+ His speech is all broken up.
+<pause>
+<Klarth>
+ Hmm...
+ I think I see what
+ he's trying to say.
+<pause>
+<Klarth>
+ Basically, the other residents of the
+ darkness--<var_D500>'s friends, that
+ is--have been brainwashed by
+ Dhaos.
+<pause>
+<Klarth>
+ That's what I presume, anyway.
+<pause>
+<Klarth>
+ Perhaps he'll become our ally--
+<pause>
+<var_D500>
+ We...allies...not.
+<pause>
+<var_D500>
+ Only...save...my...dark...residents.
+<pause>
+<Klarth>
+ Very well.
+<pause>
+<Klarth>
+ Once your friends are free, the
+ pact is annulled.
+<pause>
+<var_D500>
+ Then...show...Amethyst.
+<pause>
+<Klarth>
+ ...Now, the ritual.{END}
+
+<Klarth>
+ Here and now, I offer my request
+ to the Spirit of Darkness.
+<pause>
+<Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon <var_D500>.<color_0000>{END}
+
+“Illuminate the darkness with ruby
+light.”{END}
+
+“Illuminate the darkness with
+amethyst light.”{END}
+
+“Illuminate the darkness with pearly
+light.”{END}
+
+“Release fire at 4:48.”{END}
+
+“Elevate...hand...sinister.”{END}
+
+“Lower...arm...strength.”{END}
+
+“Center...meditate...patience.”{END}
+
+“The way of Darkness is open to
+those who possess the instruments
+of Light.”
+<pause>
+“For Light is the left hand of
+Darkness, and Darkness the right
+hand of Light.”{END}
+
+“Light is necessary to counteract
+the darkness ahead.”{END}
+
+Ninja
+ May I interest you in something?{END}
+
+Ninja
+ I am a ninja in the midst of my
+ training.
+<pause>
+Ninja
+ Would you like me to teach you the
+ ninja arte I have learned while in
+ this place?{END}
+
+Ninja
+ However, it will be <num1_00000036>000 gald.
+<pause>
+<speed_0000><color_0002>Pay <num1_0000D2F0> gald?<color_0000><speed_FFFF>{END}
+
+<color_0002><Suzu> learned <var_B600>.
+<pause>
+<color_0000>Ninja
+ Thank you.{END}
+
+Ninja
+ You do not have enough money.{END}
+
+Ninja
+ Buy it.{END}
+
+Ninja
+ A shame I could not serve you.{END}
+

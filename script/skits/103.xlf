@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_473">
+        <source>As far as we know, Demeter took off north, so...</source>
+        <target state="translated">As far as we know, Demeter took off north, so...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_474">
+        <source>North to Venezia City?</source>
+        <target state="translated">North to Venezia City?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_475">
+        <source>Do you think that's where he went?</source>
+        <target state="translated">Do you think that's where he went?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_476">
+        <source>It's our only lead. We'll start looking there, then.</source>
+        <target state="translated">It's our only lead. We'll start looking there, then.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

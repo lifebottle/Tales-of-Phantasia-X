@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_317">
+        <source>&lt;wait_91&gt;Wussy...
+wussy...wussy...</source>
+        <target state="translated">&lt;wait_91&gt;Wussy...
+wussy...wussy...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_318">
+        <source>&lt;wait_A0&gt;Stupid little--! Just look at me
+now! Tonight you dine on crow!</source>
+        <target state="translated">&lt;wait_A0&gt;Stupid little--! Just look at me
+now! Tonight you dine on crow!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

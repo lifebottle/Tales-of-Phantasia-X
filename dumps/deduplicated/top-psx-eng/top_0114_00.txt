@@ -1,0 +1,1094 @@
+Inn “Euclid Inn”{END}
+
+Greengrocer “Veggie”{END}
+
+Tool Shop “Cat's Eye”{END}
+
+Equipment Shop “<var_9401>”{END}
+
+<Klarth><'s/'> Magic Research Center
+{END}
+
+Trader
+ These shops have some of the
+ nicest stuff you'll find anywhere!
+<pause>
+Trader
+ Of course, that's because it's
+ imported straight from Venezia,
+ the trading city.{END}
+
+<Cless>
+ Excuse me, sir.
+ Are you Elwyn, by chance?
+<pause>
+Elwyn
+ Yes, that's right.
+<pause>
+Elwyn
+ But how do you know?
+<pause>
+<Cless>
+ Well, you see...
+ There's this lady outside who has a
+ crush on you.
+<pause>
+Elwyn
+ Heh, I'm honored.
+<pause>
+Elwyn
+ What's she like?
+ What's her name?
+<pause>
+<Cless>
+ Oh yeah...<panic> 
+ Uh, be right back<panic>{END}
+
+Elwyn
+ I wonder what she's like...{END}
+
+<Cless>
+ She said her name is Nancy, and
+ that she's the daughter of this
+ village's greengrocer.
+<pause>
+Elwyn
+ Nancy, is it...
+<pause>
+Elwyn
+ Huh, well...
+ This could be tough...
+<pause>
+<Mint>
+ What's wrong?
+<pause>
+Elwyn
+ Unfortunately, I'm very short on
+ time.
+<pause>
+Elwyn
+ I work for a Venezian import
+ company, and came to this village
+ on business.
+<pause>
+Elwyn
+ My job here's almost done, and I'm
+ scheduled to begin my return trip
+ to Venezia shortly after.
+<pause>
+Elwyn
+ Besides, the president of my
+ company--my dad, that is--would
+ never allow it.
+<pause>
+<Cless>
+ You can't set aside even a minute
+ to at least get acquainted?
+<pause>
+Elwyn
+ I'm a little afraid that if I see her
+ even once, it may be hard for me
+ to just leave and forget about her.
+<pause>
+Elwyn
+ Give her my regards, would you?
+<pause>
+Elwyn
+ I have to get back to work.{END}
+
+Elwyn
+ I have to get back to work.{END}
+
+Boy
+ I wanna play outsiiiide!
+<pause>
+Boy
+ But dad's making me help out in
+ the store...{END}
+
+Boy
+ Elwyn's gone back to Venezia.{END}
+
+Clerk
+ Welcome to Cat's Eye.{END}
+
+Clerk
+ Thanks.
+ Please come again.{END}
+
+Clerk
+ Welcome to <var_9401>.{END}
+
+Clerk
+ Thank you, traveler.{END}
+
+(Nancy's mother, Maggie)
+ Nancy has left me for the man she
+ loves.
+<pause>
+Maggie
+ I'm happy for her, though. She will
+ be able to live without regrets.
+<pause>
+Maggie
+ My life has remained stagnant
+ throughout all these years.
+<pause>
+Maggie
+ I've never had the opportunity to
+ change its course.
+<pause>
+Maggie
+ Anyway, back to business...<wait>{END}
+
+Maggie
+ Welcome to Veggie.
+ Take a look and see all
+ we have to offer.{END}
+
+Maggie
+ Thanks.{END}
+
+Owner
+ Welcome to Veggie.
+ Take a look and see all
+ we have to offer.{END}
+
+Owner
+ Thanks.{END}
+
+Villager
+ Let's see...
+ Tonight's dinner will be...
+<pause>
+Villager
+ Oh, I just can't make up my mind!{END}
+
+Villager
+ A rumor's been spreading around
+ that a distant country is amassing
+ an enormous army.{END}
+
+Traveler
+ Hi there. I'm a traveler.
+ Let me tell you something
+ interesting.
+<pause>
+Traveler
+ As I went by a region called Lone
+ Valley, there was an unnaturally
+ violent tempest blowing from it.
+<pause>
+Traveler
+ A man named Bart actually lives
+ in that crazy place.
+ Seems he has a talent for
+ predicting the weather.
+<pause>
+Traveler
+ The guy's made a name for himself
+ in the town of Harmel for his
+ astounding accuracy.{END}
+
+Chef
+ Have you made a Sandwich?{END}
+
+Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Sandwich.<color_0000>{END}
+
+Chef
+ What!?
+ How can you reject this taste!?{END}
+
+Innkeeper
+ Welcome to the Euclid Inn.
+ Are you staying with us?
+<pause>
+Innkeeper
+ One night is <num1_00000018> gald.{END}
+
+Innkeeper
+ Good night.{END}
+
+Innkeeper
+ Sorry, you don't have enough
+ money.{END}
+
+Innkeeper
+ Please come again.{END}
+
+Housewife
+ Oh, I'm sorry.
+<pause>
+Housewife
+ I'm preparing lunch for the cats.
+<pause>
+<Cless>
+ ...Must be tough.
+<pause>
+Housewife
+ Oh, it's no trouble.
+ They're my children, after all.{END}
+
+Dog Dude
+ I prefer dogs, myself...{END}
+
+<Cless>
+ ...Isn't this one a dog!?{END}
+
+Cat-Crazy Coot
+ I'm the old man who likes kitty
+ cats.<wait>{END}
+
+Cat-Crazy Coot
+ Here, kitty-kittyyyyy<heart>{END}
+
+<Klarth>
+ So where's my pie, woman?
+<pause>
+Mirald
+ Hohoh...
+<pause>
+Mirald
+ Saved the World Tree
+ and all that, huh?
+ So you're finally back?
+<pause>
+<Klarth>
+ Actually, no.
+ There's still one thing left, but I
+ thought I'd stop by one last time
+ before we get onto it.
+<pause>
+<Klarth>
+ If by some chance...
+<pause>
+Mirald
+ “If by some chance,” *what*?
+<pause>
+<Klarth>
+ Bah, never mind.
+<pause>
+<Klarth>
+ Just keep holding the
+ fort while I'm gone.
+ That's good enough.
+<pause>
+Mirald
+ Yeah, sure...{END}
+
+Mirald
+ Hmm...
+ How to save the sacred tree...
+<pause>
+Mirald
+ Honestly, I haven't got a clue.
+ Maybe there's something in the
+ library I've forgotten about?
+<pause>
+Mirald
+ I'm really sorry.
+ I wish I could help.{END}
+
+Mirald
+ Well, be careful.<wait>{END}
+
+<unk1>Mirald
+ Take good care of <Klarth>.<wait>{END}
+
+<Klarth>
+ Hey, hey!
+ I'm too old for this
+ kind of treatment!
+<pause>
+Mirald
+ Maybe you should ACT like it, then!<wait>{END}
+
+Mirald
+ Hey, by the way: I have little
+ parting gift for you.
+<pause>
+<Klarth>
+ ......
+<pause>
+<Klarth>
+ I'm waiting.
+ Hand it over already.<wait>{END}
+
+<color_0002>Acquired a <item_6A01>.
+<pause>
+<color_0000>Mirald
+ I see you're still not going to win
+ any prizes for your graciousness
+ anytime soon.<wait>{END}
+
+Villager
+ There's an interesting cavern east
+ of Belladam.
+<pause>
+Villager
+ Some chap told me he saw a bunch
+ of midgets when he went inside.
+<pause>
+Villager
+ Could they be spirits?{END}
+
+Traveler
+ I just traveled all the way here
+ from Venezia.
+<pause>
+<Cless>
+ A-are you sure that's safe?
+ Are you able to defend yourself?
+<pause>
+<Cless>
+ No offense, but you don't look like
+ the fighting sort.
+<pause>
+Traveler
+ The divine protection of God keeps
+ me out of harm's way.
+<pause>
+Traveler
+ That is, I carry a surplus of Holy
+ Bottles on my journeys.
+<pause>
+Traveler
+ A sacred power is sealed within
+ them.
+<pause>
+Traveler
+ If you expend one, that power will
+ surround you and repel wicked
+ creatures.{END}
+
+<Cless>
+ I've always wondered what a
+ toasted marshmallow feels like...{END}
+
+<Cless>
+ OUCH!!{END}
+
+<center>“The Four Great Elements<endalign>
+<center>and Spirits”<endalign>
+<pause>
+Spirits govern the principal elements
+of Earth, Water, Fire, and Wind;
+collectively known as the Four Great
+Elements.{END}
+
+<center>“Defining the<endalign>
+<center>Spirit/Element Relationship”<endalign>
+<pause>
+There are many types of spirits.
+<pause>
+Some of the more prominent spirits
+belong to the Four Great Elements
+(Earth, Water, Fire, and Wind).
+<pause>
+But there are also spirits of things
+like stars, moons, darkness, and
+light existing in the Spirit World.{END}
+
+<center>“Spirits and the Physical World”<endalign>
+<pause>
+The four main spirits--the Four
+Great Spirits--manifest themselves
+in our physical world as follows:
+<pause>
+<var_D100>, of Earth;
+<var_D000>, of Water;
+<var_D200>, of Fire;
+<var_CF00>, of Wind.
+<pause>
+In addition, their leader is known as
+<var_D300>, the Spirit of Molecules.
+<pause>
+Others include <var_D400>, the Spirit of the
+Moon, <var_D500>, the Spirit of
+Darkness, and <var_D600>, the Spirit of
+Light.
+<pause>
+Also, it's thought that there are
+other spirits whose existence has
+yet to be confirmed.{END}
+
+<center>“Spirit Social Order I”<endalign>
+<pause>
+When viewing the social order of
+the world of spirits, it becomes
+apparent that spirits are divided
+into an upper and lower class.
+<pause>
+As of now, however, the only spirits
+we know for certain to exist are
+the Four Great Spirits and <var_D300>,
+who leads them.{END}
+
+<center>“Spirit Social Order II”<endalign>
+<pause>
+It has not been proven, but there is
+evidence that the spirits <var_D400>,
+<var_D500>, and <var_D600> exist, as well as
+other, lesser spirits.
+<pause>
+There are also unverified reports
+stating that spirits of a completely
+different social order exist.{END}
+
+(An old document. It reads...)
+<pause>
+What you're looking for might be
+deep underground, in the Moria
+Mine.
+<pause>
+King Alvanista has announced plans
+to send a research team soon. 
+<pause>
+Archaeologists claim they've found
+remnants of a dwarven settlement
+down there.{END}
+
+<center>“Spirits and Rings”<endalign>
+<pause>
+One requires a special ring to make
+a pact with a spirit.
+<pause>
+These items were crafted by an elf
+named Leonardo, and a dwarf
+named Aegis.{END}
+
+(Found a letter. It says...)<wait>{END}
+
+<unk1>“Dear <Klarth>,
+
+I'm sorry to inform you that the
+craft of making pact rings has been
+lost.”
+<pause>
+“We have searched many ruins, but
+information pertaining to pact rings
+is exceedingly scarce.”
+<pause>
+“However, that is not to say there
+is no hope.”
+<pause>
+“There's the Moria Mine in the
+Kingdom of Alvanista.”
+<pause>
+“Unused rings that have yet to be
+discovered may exist in the
+dwarven ruins there.”
+<pause>
+“Why don't you look into that?”{END}
+
+(Found some money...)
+<pause>
+<Klarth>
+ H-hey!<panic>
+ What the hell are you doing!?<panic>
+<pause>
+(Looks like his secret stash.
+Let's put it back.){END}
+
+<Cless>
+ Looks like a bunch of reference
+ books.{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C200>.<color_0000>{END}
+
+<Cless>
+ There's nothing else here.{END}
+
+<Cless>
+ Wh-what...?
+<pause>
+<Cless>
+ A children's picture book?
+ Whose is this?{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned Ice Tornado.<color_0000>{END}
+
+<Cless>
+ There's nothing else here.{END}
+
+<Cless>
+ But I don't have any use for it.
+ I'll put it back.{END}
+
+???
+ Mirald?
+<pause>
+???
+ Just set the tea on the table.<wait>{END}
+
+<unk1><Mint>
+ Excuse me sir, are you
+ Mr. <Klarth> F. Lester?<wait>{END}
+
+???
+ Hmm?{END}
+
+<Klarth>
+ That's right...<wait>{END}
+
+<Klarth>
+ What sort of business would a
+ sweetie like you have with me?<wait>{END}
+
+<unk1><Mint>
+ We were hoping you could teach us
+ about magic, sir.<wait>{END}
+
+<Klarth>
+ Magic?
+<pause>
+<Klarth>
+ So you've heard about my
+ research, huh?<wait>{END}
+
+<Klarth>
+ In that case, go over there and tell
+ Mirald.
+<pause>
+<Klarth>
+ The lecture fee is <num5_0000610C>0000 gald,
+ paid in advance.
+<pause>
+<Mint>
+ Goodness...
+ That's a lot of money...
+<pause>
+<Mint>
+ We can't afford that much<speed_0010>...{END}
+
+<Klarth>
+ Oh. Well, that's a shame.
+ Seems I have nothing to teach you.
+<pause>
+<Klarth>
+ Come back when you've got the
+ money, Sweetie.
+<pause>
+<Mint>
+ ......
+<pause>
+<Mint>
+ Please stop calling me that!
+<pause>
+<Klarth>
+ Well, excuse me, Princess.<wait>{END}
+
+<Klarth>
+ If I had your name to begin with, I
+ might've been able to use it.
+<pause>
+<Klarth>
+ If you're so mannerless that you
+ can't even introduce yourselves,
+ what do you expect from me?<wait>{END}
+
+<unk1><Mint>
+ Ah<speed_0020>, <speed_FFFF>I<speed_0020>-<speed_FFFF>I beg your forgiveness!
+<pause>
+<Mint>
+ My name is <Mint> Adnade.
+<pause>
+<Mint>
+ And this is Mr. <Cless> Alvein.{END}
+
+<unk1><Cless>
+ Mr. Lester, we need magic at any
+ cost!
+<pause>
+<Cless>
+ We need it to defeat Dhaos!<wait>{END}
+
+<Klarth>
+ Defeat Dhaos?
+ What?
+<pause>
+<Klarth>
+ So you're just a couple of
+ comedians, huh?{END}
+
+<Klarth>
+ Hmph, nice try. Now hand over the
+ money or get out of here. I
+ haven't got all day.<wait>{END}
+
+<Cless>
+ Wha--!!
+<pause>
+<Mint>
+ How heartless...<wait>{END}
+
+???
+ <Klarth> F. Lester!
+<pause>
+???
+ How dare you talk to our guests
+ like that!{END}
+
+<Klarth>
+ Mirald!
+<pause>
+Mirald
+ I mean, really!
+<pause>
+Mirald
+ Why must you always be so curt,
+ rude, and inconsiderate?
+<pause>
+Mirald
+ Isn't this the first time you've met
+ these people?
+<pause>
+Mirald
+ Aren't they depending on you?
+<pause>
+Mirald
+ Would it kill you to show some
+ manners!?
+<pause>
+Mirald
+ You're such an egotistical,
+ self-centered moron sometimes!
+<pause>
+Mirald
+ Argh...
+ You insufferable man!{END}
+
+Mirald
+ I'm very sorry.
+<pause>
+Mirald
+ Beneath that thick skull of his, he's
+ just a spoiled child.{END}
+
+Mirald
+ Oh, I know!
+<pause>
+Mirald
+ Let me introduce you to someone
+ more reliable; not a person like
+ him.<wait>{END}
+
+Mirald
+ <speed_0010>Not...a...person...<speed_FFFF><wait>{END}
+
+Mirald
+ ...like HIM!
+<pause>
+<Klarth>
+ Wha!?<wait>{END}
+
+<Klarth>
+ HEY!!
+<pause>
+<Klarth>
+ A person like HIM!?
+<pause>
+<Klarth>
+ A person like WHO!?<wait>{END}
+
+Mirald
+ What's the big deal?
+<pause>
+Mirald
+ Hmph...
+ I don't see a need to explain
+ myself to such an unreliable dolt.<wait>{END}
+
+<Klarth>
+ What do you mean “unreliable”!?
+<pause>
+<Klarth>
+ You're saying there's someone
+ around here besides me!?<wait>{END}
+
+Mirald
+ Oh, finally coming around, are you?<wait>{END}
+
+<Klarth>
+ (The hell is she going on about...?)<wait>{END}
+
+Mirald
+ (Pssst! You two!
+ Give him another push!)
+<pause>
+{END}
+
+<unk1><Mint>
+ Um, please sir...
+<pause>
+<Cless>
+ You're the only one who can help
+ us.<wait>{END}
+
+<Klarth>
+ Help?
+<pause>
+<Mint>
+ Yes, sir.
+ We've heard of your devotion to
+ magic and have come a long way
+ seeking your help...{END}
+
+<Klarth>
+ Feh...
+ Well, you seem to have your
+ reasons for badgering me so
+ persistently...
+<pause>
+<Klarth>
+ So why don't you tell me what the
+ hell they are, already?{END}
+
+<Klarth>
+ Uh-huh, riiiight...
+ You're from the future.
+<pause>
+<Klarth>
+ Maybe you kids really are
+ comedians.
+<pause>
+<Cless>
+ Yeah, I know it sounds crazy...
+<pause>
+<Cless>
+ I also had a hard time believing
+ before realizing it...
+<pause>
+<Cless>
+ But whether it's true or not, the
+ fact is we need the power of
+ magic to stand any chance against
+ Dhaos.
+<pause>
+<Mint>
+ Please, can you lend us your
+ strength?{END}
+
+<Klarth>
+ Hoh hoh, who said I could use
+ magic?
+<pause>
+<Klarth>
+ I'm just your average human;
+ neither elf nor half-elf.
+<pause>
+<Klarth>
+ My ears aren't pointed, see?<wait>{END}
+
+<Mint>
+ Yes, that's what the chief of
+ Belladam told us, but...<wait>{END}
+
+<unk1><Mint>
+ ...he still has a lot of confidence in
+ you, Mr. Lester.
+<pause>
+{END}
+
+<Klarth>
+ ......
+<pause>
+<Klarth>
+ ...Actually, magic isn't completely
+ limited to elves.
+<pause>
+<Klarth>
+ The spirits also have a power equal
+ to magic.
+<pause>
+<Klarth>
+ My research is centered around
+ finding a way to use magic
+ indirectly by borrowing the power
+ of spirits.<wait>{END}
+
+<Klarth>
+ That is, to summon them via
+ summoning artes, as I call them...
+<pause>
+Mirald
+ Not that you've gone beyond just
+ the theory yet, right?<wait>{END}
+
+<Klarth>
+ I would be ever so appreciative if
+ you would be quiet, woman.<wait>{END}
+
+<Klarth>
+ Anyway, yes--it's theoretically
+ possible.
+<pause>
+<Klarth>
+ If I succeed in making a pact with
+ a spirit, I'll be able to use a power
+ equal to magic.
+<pause>
+<Klarth>
+ ...However, making a pact is easier
+ said than done.<wait>{END}
+
+<unk1><Klarth>
+ Spirits tend to stay in dangerous
+ places where humans can't easily
+ set foot.
+<pause>
+<Klarth>
+ How does that sound to the two of
+ you?
+<pause>
+{END}
+
+<Klarth>
+ To put it simply...
+<pause>
+<Klarth>
+ You scratch my back, and I'll
+ scratch yours.
+<pause>
+<Klarth>
+ That is, if you help me with my
+ summoning artes, I'll return the
+ favor by supporting your cause
+ with them.
+<pause>
+<Klarth>
+ Do we have ourselves a deal?<wait>{END}
+
+<Cless>
+ Y-yes, sir!
+<pause>
+<Mint>
+ Thank you very much!!
+<pause>
+<Klarth>
+ In that case, I don't mean to rush,
+ but let's head for Lone Valley
+ straight away.
+<pause>
+<Klarth>
+ <var_CF00>, the Spirit of Wind, lives
+ there.<wait>{END}
+
+<Klarth>
+ Mirald, fetch my hat.<wait>{END}
+
+<unk1><Klarth>
+ ......
+<pause>
+<Klarth>
+ I probably won't be returning for a
+ while...
+<pause>
+Mirald
+ I'll live.
+<pause>
+Mirald
+ Oh, right...
+ I've had this new pie in mind.
+ How about I bake it for you
+ when you get back?
+<pause>
+<Klarth>
+ Hmph.
+ It had better be the best
+ damn pie I've ever had.
+<pause>
+<Klarth>
+ Well then, I'm off.
+<pause>
+Mirald
+ Wait up, Speedy.
+ Don't forget this.<wait>{END}
+
+<color_0002>Acquired the <item_9F00>.<color_0000>{END}
+
+<unk1>Mirald
+ By the way, you two...
+<pause>
+Mirald
+ Our library is all about magic and
+ spirits.
+<pause>
+Mirald
+ Perhaps you might find it helpful.
+<pause>
+Mirald
+ Oh, and one more thing.
+ You should avoid addressing
+ <Klarth> so formally.
+<pause>
+Mirald
+ We don't want to inflate that big
+ head of his any more, now do we?
+<pause>
+<Klarth>
+ Shut up, Mirald.
+<pause>
+<Klarth>
+ But yeah, just <Klarth> is fine.{END}
+
+<Mint>
+ Mommy?{END}
+
+(<Mint><'s/'> mother, Meryl)
+ Yes, darling?
+<pause>
+<Mint>
+ Those things on your ears...
+ They're so pretty.
+<pause>
+Meryl
+ Oh, my earrings?
+<pause>
+<Mint>
+ Yeah.
+<pause>
+<Mint>
+ Can I have them?{END}
+
+Meryl
+ I'm sorry, honey.
+<pause>
+Meryl
+ I can't give them to you...
+<pause>
+<Mint>
+ Why?
+<pause>
+Meryl
+ They're precious keepsakes given
+ to me by my mommy's mommy.
+ They represent my status as a
+ cleric.{END}
+
+<Mint>
+ So that means they're REAL
+ important to you, Mommy?
+<pause>
+Meryl
+ Very much.{END}
+
+<Mint>
+ How come they're shaped like
+ horsies?
+<pause>
+Meryl
+ They're unicorns, dear.
+<pause>
+Meryl
+ The unicorn symbolizes the
+ Order of <var_9201>s.
+<pause>
+<Mint>
+ Sim-bowl-eyes-es?
+<pause>
+Meryl
+ Instead of my earrings,
+ you can have my cap.
+ Hold still.{END}
+
+<unk1><Mint>
+ Thank you, Mommy.
+ I love it!
+<pause>
+Meryl
+ It's a little big...
+<pause>
+Meryl
+ But it looks good and you'll grow
+ right into it.
+<pause>
+Meryl
+ It's proof you will also become a
+ wonderful cleric.
+<pause>
+<Mint>
+ Yeah!{END}
+
+<Mint>
+ I want to be just like you when I
+ grow up, Mommy!{END}
+
+Mirald
+ ...And that concludes today's lesson.
+<pause>
+Mirald
+ We got through the fundamentals
+ today.
+<pause>
+Student
+ Thank you, Miss Rune.
+<pause>
+Student
+ By the way...<wait>{END}
+
+<unk1>Student
+ When is Mr. Lester coming back?<wait>{END}
+
+Student
+ He beat up that Dhaos guy, right?
+<pause>
+Student
+ His return will be so exciting that
+ even the village chief will want to
+ throw a party.
+<pause>
+Mirald
+ I suppose so...
+<pause>
+Mirald
+ Anyway, he's as stubborn as a
+ zombie, so he'll be back sooner or
+ later.
+<pause>
+Student
+ Hahah, that's true.
+<pause>
+Student
+ Well, see you tomorrow.
+<pause>
+Mirald
+ Yeah.
+ Don't stay up too late tonight.{END}
+
+Mirald
+ Sigh...
+ That fool just had to go
+ wander off and disappear...
+<pause>
+Mirald
+ Is there anything I
+ can do to help him?
+ Even just a little?{END}
+
+Mirald
+ Well, I suppose I'll just have to
+ wait patiently for the day he
+ returns.{END}
+

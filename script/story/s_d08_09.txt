@@ -1,0 +1,107 @@
+Ice Cave{END}
+
+<Cless>:<nl>
+ This...<nl>
+<pause>
+<Cless>:<nl>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C100>.<color_0000>{END}
+
+<Cless>:<nl>
+ But I don't have any use for it...<nl>
+<pause>
+<Cless>:<nl>
+ I'll put it back...{END}
+
+<Cless>:<nl>
+ It's frozen to the ground...{END}
+
+<color_0002>Press the button?<color_0000>{END}
+
+<Cless>:<nl>
+ Ouch!!!
+<pause>
+<Cless>:<nl>
+ That's cold!{END}
+
+<Cless>:<nl>
+ It's iced over and won't budge.{END}
+
+<Cless>:<nl>
+ I wonder what this hole's for.
+<pause>
+<Cless>:<nl>
+ There's no way I'll be able to fit
+ through, but...<nl>
+<pause>
+<Cless>:<nl>
+ ...what's with the strong draft
+ coming from it?{END}
+
+<Cless>:<nl>
+ Huh?
+<pause>
+<Cless>:<nl>
+ The button won't budge...{END}
+
+<Cless>:<nl>
+ Huh?
+<pause>
+<Cless>:<nl>
+ The button won't budge...{END}
+
+???:<nl>
+ I am called Fenrir Beast.<wait>{END}
+
+Fenrir Beast:<nl>
+ This cave of ice is sacrosanct holy
+ ground!<wait>{END}
+
+Fenrir Beast:<nl>
+ Lord Fenrir's soul rests here, sealed
+ within the core of my sacred blade!<wait>{END}
+
+Fenrir Beast:<nl>
+ You shall not have it!!<wait>{END}
+
+<audio_118F>Fenrir Beast:<nl>
+ Hmph...<nl>
+ So be it...<nl>
+<pause>
+<audio_1190>Fenrir Beast:<nl>
+ My life is henceforth in your
+ hands...<nl>
+<pause>
+<audio_1191>Fenrir Beast:<nl>
+ Now, wield it...<nl>
+<pause>
+<audio_1192>Fenrir Beast:<nl>
+ ...the Blade of Frost!!{END}
+
+<color_0002>Acquired the <item_BB00>.<color_0000>{END}
+
+<audio_1193><Cless>:<nl>
+ Wh-What?
+<pause>
+<audio_1194><Cless>:<nl>
+ I hear a voice in my head...{END}
+
+<audio_1195>Fenrir Beast:<nl>
+ “Hmhmhmhm, the power you
+ possess is quite impressive...”
+<pause>
+<audio_1196>Fenrir Beast:<nl>
+ “I have no doubt that you have the
+ capacity to master this arte...”
+<pause>
+<audio_1197>Fenrir Beast:<nl>
+ “Now, accept it!!!”{END}
+
+<audio_1198><Cless>:<nl>
+ It feels as if something is rushing
+ into my head...<wait>{END}
+
+<color_0002><Cless> learned
+<var_8B00>.<color_0000>{END}
+

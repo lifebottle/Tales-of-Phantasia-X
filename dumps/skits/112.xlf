@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_512">
+        <source>This can't be happening... We're
+actually going to visit the Elven Village...</source>
+        <target state="translated">This can't be happening... We're
+actually going to visit the Elven Village...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_513">
+        <source>Do you have a problem with elves?</source>
+        <target state="translated">Do you have a problem with elves?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_514">
+        <source>Where'd you get such a silly idea?</source>
+        <target state="translated">Where'd you get such a silly idea?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_515">
+        <source>I mean, they're COMPLETELY superior
+to us; they're so SMART, and can use MAGIC.</source>
+        <target state="translated">I mean, they're COMPLETELY superior
+to us; they're so SMART, and can use MAGIC.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_516">
+        <source>Agh... Why was I born human...</source>
+        <target state="translated">Agh... Why was I born human...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_517">
+        <source>Totally jealous of them.</source>
+        <target state="translated">Totally jealous of them.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_518">
+        <source>Yes, I think you're right.</source>
+        <target state="translated">Yes, I think you're right.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

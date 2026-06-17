@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_061">
+        <source>What are your plans once this is all over?</source>
+        <target state="translated">What are your plans once this is all over?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_062">
+        <source>I haven't made any yet.</source>
+        <target state="translated">I haven't made any yet.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_063">
+        <source>I guess it'd be nice to take after
+my father and teach the Alvein Style.</source>
+        <target state="translated">I guess it'd be nice to take after
+my father and teach the Alvein Style.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_064">
+        <source>Then, uh...maybe get married, pass
+down my skills to the kids, and...</source>
+        <target state="translated">Then, uh...maybe get married, pass
+down my skills to the kids, and...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_065">
+        <source>Er...ah...uh...what am I saying!?</source>
+        <target state="translated">Er...ah...uh...what am I saying!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_066">
+        <source>That's...a beautiful dream.</source>
+        <target state="translated">That's...a beautiful dream.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_067">
+        <source>Ah, um, BUT FIRST we've 
+got to defeat Dhaos, right!?</source>
+        <target state="translated">Ah, um, BUT FIRST we've 
+got to defeat Dhaos, right!?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

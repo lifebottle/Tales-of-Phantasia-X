@@ -1,0 +1,325 @@
+Euclid Village{END}
+
+Child
+ A dragonfly! A DRAGONFLY!{END}
+
+Child
+ It's good that the war is over.{END}
+
+Child
+ Mister, is there really a war going
+ on?
+<pause>
+<Cless>
+ I...have no idea.
+ Where did you hear about that?
+<pause>
+Child
+ From my mom.
+ She said a king from a far away
+ country is leading one.{END}
+
+Villager
+ Y'know, you can see pretty far
+ from up here...
+<pause>
+Villager
+ The village of Belladam, and even
+ the sacred tree!
+<pause>
+Villager
+ I know all about the best views up
+ here. Used to play here all the time
+ as a kid.{END}
+
+Villager
+ Whoa!
+ I thought I was the only one who
+ knew the way up here!
+<pause>
+Villager
+ So tell me, stranger...
+ What do you think of the view?
+<pause>
+Villager
+ I tell ya, this scenery...it can't be
+ beat!{END}
+
+<Cless>
+ Um, excuse me...
+ Could you tell me why
+ you're over here?
+<pause>
+Woman
+ ......{END}
+
+<Cless>
+ Hey, hey<speed_0010>...
+<pause>
+<speed_FFFF>Woman
+ What?
+<pause>
+<Cless>
+ N-nice and sunny tod--{END}
+
+<unk1><Mint>
+ <Cless>!
+ Why are you flirting with her!?<wait>{END}
+
+<Mint>
+ Let me handle this.{END}
+
+<Mint>
+ H-hello there<speed_0010>...
+<pause>
+<speed_FFFF><Mint>
+ You're not looking too well.
+ Would you tell me what's wrong?
+<pause>
+Woman
+ Huh?<wait>{END}
+
+Woman
+ B-but...
+<pause>
+<Mint>
+ Please don't be shy.
+ I want to help you.
+<pause>
+Woman
+ To tell you the truth...
+<pause>
+Woman
+ There's this person that I<speed_0020> um...<speed_FFFF>like.<wait>{END}
+
+<Mint>
+ Just as I thought...
+<pause>
+<Mint>
+ Would you tell me about him?
+<pause>
+Woman
+ His name is Elwyn, and he's at the
+ weapon shop right now.
+<pause>
+<Mint>
+ The weapon shop. Got it.
+ Just leave this to me, okay?
+<pause>
+Woman
+ <speed_0010>...Elwyn.<speed_FFFF>{END}
+
+<Cless>
+ We didn't catch your name,
+ ma'am...
+<pause>
+Woman
+ Oh, that's right.
+ I'm sorry.
+<pause>
+Woman
+ I'm Nancy, the daughter of this
+ village's greengrocer.{END}
+
+Nancy
+ It didn't work out, huh?
+<pause>
+Nancy
+ Somehow I knew it.
+<pause>
+Nancy
+ What with him being a big
+ businessman's son and me a lowly
+ greengrocer's daughter, and all...
+<pause>
+Nancy
+ There's just no way it could
+ happen.
+<pause>
+<Cless>
+ But--
+<pause>
+Nancy
+ Thanks, but you've done enough.
+<pause>
+Nancy
+ I'll be okay!
+ Please don't worry about me...{END}
+
+Nancy
+ ......{END}
+
+Woman
+ Elwyn...{END}
+
+Nancy
+ Elwyn...{END}
+
+Performer
+ Yes, yes!
+ All yer tips--give 'em heeeere!
+<pause>
+<color_0002>How much will you give?
+<pause>
+<speed_0000>1. 1 gald
+2. 10 gald
+3. 100 gald
+4. 1000 gald<color_0000><speed_FFFF>{END}
+
+Performer
+ Thanks!{END}
+
+Performer
+ Thanks!
+<pause>
+Performer
+ There's a rrregion called Lone
+ Valleyyy to the northeast of
+ heeeere!
+<pause>
+Performer
+ What a suspicious plaaaaace!{END}
+
+Performer
+ Ohhh! How generous!
+<pause>
+Performer
+ This continent may soooon become
+ a country called the Euclid Republic!
+<pause>
+Performer
+ There's Deroino to the north,
+ Mailgan to the south...
+<pause>
+Performer
+ ...aaand Euuuuclid! They're
+ discussinggg the proposal rrright
+ now!{END}
+
+Performer
+ Ohhh, how generous!
+<pause>
+Performer
+ Dhaos is going to warrr with
+ Midgarrrd!
+<pause>
+Performer
+ I wonderrr what will happen!{END}
+
+Performer
+ Thank you very much!
+<pause>
+Performer
+ Oh, sweet patron, your charity is
+ divine!
+<pause>
+Performer
+ Therrrre is a white horse
+ somewherrre in this worrrld!
+<pause>
+Performer
+ It's a reaaaaaally strange one that
+ will only meeeeet with a purrrre
+ maidennnn!{END}
+
+Performer
+ Don't be such a tightwad.{END}
+
+Performer
+ You don't have that much!{END}
+
+Performer
+ III aaam theee violiniiiist! Ta ra lee
+ raaaa<note>
+<pause>
+(She's playing energetically.){END}
+
+Performer
+ III aaam theeee drummerrrrr!
+ Drrramatic drummerrrrr!
+ *boom-boom<note>*
+<pause>
+(He's banging the drum
+energetically.){END}
+
+Child
+ These guys are getting so little
+ attention they can't even afford
+ the trip back home.
+<pause>
+Child
+ Are they really so bad?{END}
+
+<Cless>
+ Hey, hey!
+ What are you checking out now?
+<pause>
+Villager
+ The beauteous mountains,
+ my good man!{END}
+
+<Cless>
+ Heeey!
+ What are you doing up there?
+<pause>
+Villager
+ Soaking in the view!
+ I can see really far from up here.
+<pause>
+<Cless>
+ How do you get up there, anyway?
+<pause>
+Villager
+ Not telling!{END}
+
+<Cless>
+ Something the matter, <Mint>?<wait>{END}
+
+<Mint>
+ That girl over there...
+ She's not feeling well.
+<pause>
+<Cless>
+ Huh?
+ Really?{END}
+
+<Cless>
+ She looks fit as a fiddle to me...<wait>{END}
+
+<Mint>
+ No, no...
+ That's not what I mean.<wait>{END}
+
+<unk1><Mint>
+ Can you not tell?<wait>{END}
+
+<Mint>
+ The poor thing's suffering from
+ love sickness.<wait>{END}
+
+<Cless>
+ Wha!?
+ How can you tell?<wait>{END}
+
+<Mint>
+ The vacant eyes, the
+ vague expression...
+ It's all on her face.
+<pause>
+<Mint>
+ Can't we stop for a moment to
+ give her a hand?
+<pause>
+{END}
+
+<Cless>
+ I really don't think it's any of our
+ business, bu--<wait>{END}
+
+<Mint>
+ I'm sorry, I didn't hear you.
+ Would you please speak up?
+<pause>
+<Cless>
+ I-I was just talking to myself!<panic>{END}
+

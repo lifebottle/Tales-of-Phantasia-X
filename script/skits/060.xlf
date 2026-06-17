@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_193">
+        <source>Hey, &lt;Chester&gt;. What do you plan to do
+after we're done here and go back home?</source>
+        <target state="translated">Hey, &lt;Chester&gt;. What do you plan to do
+after we're done here and go back home?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_194">
+        <source>Just go back to everyday life.</source>
+        <target state="translated">Just go back to everyday life.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_195">
+        <source>That's all...?</source>
+        <target state="translated">That's all...?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_196">
+        <source>Has this journey been meaningless?</source>
+        <target state="translated">Has this journey been meaningless?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_197">
+        <source>No way. It's just, no matter what's happened,
+I want to be the same guy I've always been.</source>
+        <target state="translated">No way. It's just, no matter what's happened,
+I want to be the same guy I've always been.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_198">
+        <source>But...without your sister--</source>
+        <target state="translated">But...without your sister--</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_199">
+        <source>Don't say her name. I never said it wouldn't
+be lonely, but...just let me do my own thing.</source>
+        <target state="translated">Don't say her name. I never said it wouldn't
+be lonely, but...just let me do my own thing.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

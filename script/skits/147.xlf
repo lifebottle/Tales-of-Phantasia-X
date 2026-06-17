@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_737">
+        <source>Bart gave us two more pact
+rings. Lady luck is on our side.</source>
+        <target state="translated">Bart gave us two more pact
+rings. Lady luck is on our side.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_738">
+        <source>It really shows how much
+his daughter means to him.</source>
+        <target state="translated">It really shows how much
+his daughter means to him.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_739">
+        <source>Don't be careless, &lt;Arche&gt;.
+This is a serious mission, not a vacation.</source>
+        <target state="translated">Don't be careless, &lt;Arche&gt;.
+This is a serious mission, not a vacation.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_740">
+        <source>Hey, no problemo! You can count on me!</source>
+        <target state="translated">Hey, no problemo! You can count on me!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_741">
+        <source>Now that we're done here,
+let's go forward to Alvanista.</source>
+        <target state="translated">Now that we're done here,
+let's go forward to Alvanista.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

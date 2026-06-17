@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_257">
+        <source>I really like your ponytail.</source>
+        <target state="translated">I really like your ponytail.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_258">
+        <source>Thanks! The ribbon keeping it
+together was a gift from Rhea.</source>
+        <target state="translated">Thanks! The ribbon keeping it
+together was a gift from Rhea.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_259">
+        <source>Is that so?</source>
+        <target state="translated">Is that so?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_260">
+        <source>Yeah. She's not here anymore, but
+wearing it make me feel by her side.</source>
+        <target state="translated">Yeah. She's not here anymore, but
+wearing it make me feel by her side.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_261">
+        <source>&lt;wait_C0&gt;I...understand how you feel.</source>
+        <target state="translated">&lt;wait_C0&gt;I...understand how you feel.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_262">
+        <source>Teehee... Why am I acting all depressed?
+I'm supposed to be the cheerleader!</source>
+        <target state="translated">Teehee... Why am I acting all depressed?
+I'm supposed to be the cheerleader!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_263">
+        <source>Rah, rah, sis boom bah!</source>
+        <target state="translated">Rah, rah, sis boom bah!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_264">
+        <source>&lt;wait_A0&gt;Yes, that's our &lt;Arche&gt;!</source>
+        <target state="translated">&lt;wait_A0&gt;Yes, that's our &lt;Arche&gt;!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,599 @@
+<Klarth>
+ Okay, let's try this again...{END}
+
+<Cless>
+ Another puzzle room...
+<pause>
+<Klarth>
+ I presume I'm supposed to summon
+ the spirits here...
+<pause>
+<Mint>
+ I thought the same.
+<pause>
+<Mint>
+ The four rooms are a rather
+ obvious clue, don't you think?
+<pause>
+<Klarth>
+ Just wait here and I'll solve all this
+ in a flash.{END}
+
+Moria Mine (B<num5_000040A0>F){END}
+
+<color_0002>Flip the lever?<color_0000>{END}
+
+<center>“Dead End”<endalign>{END}
+
+“The spirit governing Water, <var_D000>,
+dwells on the solitary island in the
+North Sea.”<wait>{END}
+
+<Klarth>
+ Yeah...
+ Remind me never to wake her up
+ from a nap again.{END}
+
+<Klarth>
+ The solitary island in the North Sea
+ is...that uninhabited rock north of
+ Venezia, I suppose.
+<pause>
+<Klarth>
+ It wouldn't hurt to hit up one of
+ the captains for a ride.{END}
+
+“The spirit governing Fire, <var_D200>,
+prowls the Cave of Searing Sand.”<wait>{END}
+
+<Klarth>
+ All I could think of in that inferno
+ was how much I wanted some ice
+ cream, maybe with a slice of pie...
+ Focus <Klarth>, focus!{END}
+
+<Klarth>
+ Cave of Searing Sand? Hmm...
+<pause>
+<Klarth>
+ Simple logic and deduction would
+ place that in Freyland, the world's
+ one and only desert...{END}
+
+“The spirit governing Earth, <var_D100>,
+resides in the Cave of Spirits.”<wait>{END}
+
+<Klarth>
+ He sure looks strange; not like a
+ gnome at all. And what's with that
+ lingo?{END}
+
+<Klarth>
+ The Cave of Spirits is east of
+ Belladam.
+<pause>
+<Klarth>
+ Not much guesswork involved with
+ that one.{END}
+
+<Klarth>
+ Cave of Spirits...Cave of Spirits...
+ Nope, not ringing any bells here...
+<pause>
+<Klarth>
+ Looks like we'll have to hop back to
+ Alvanista for some enlightenment.{END}
+
+“The spirit that governs Wind, <var_CF00>,
+dances at the Valley of
+Lamentations.”
+<pause>
+<Klarth>
+ My very first pact.
+ I hope we never encounter
+ anything as putrid as that miasma
+ again!
+<pause>
+<Klarth>
+ It made the aftermath of Mirald's
+ baked beans seem like roses...{END}
+
+<color_0002>Go back?<color_0000>{END}
+
+<color_0002>Which spirit will you summon?
+<speed_0000>1. <var_D200>
+2. <var_D100>
+3. <var_CF00>
+4. <var_D000><color_0000><speed_FFFF>{END}
+
+<color_0002>That spirit is the one already
+summoned here.{END}
+
+<color_0002>A spirit has already been summoned
+here.
+<pause>
+Replace it?<color_0000>{END}
+
+<color_0002>That spirit has already been
+summoned to the northern altar.
+<pause>
+Move it here?<color_0000>{END}
+
+<color_0002>That spirit has already been
+summoned to the eastern altar.
+<pause>
+Move it here?<color_0000>{END}
+
+<color_0002>That spirit has already been
+summoned to the southern altar.
+<pause>
+Move it here?<color_0000>{END}
+
+<color_0002>That spirit has already been
+summoned to the western altar.
+<pause>
+Move it here?<color_0000>{END}
+
+???
+ “What's all this racket?!”<wait>{END}
+
+???
+ “Who calls me!?”<wait>{END}
+
+<Klarth>
+ H-huh!?
+<pause>
+<Klarth>
+ Who said that!?{END}
+
+???
+ “Hohoh...
+ I await you at the stone tablet...”<wait>{END}
+
+<unk1><Cless>
+ Could that be...um, <var_D300>?{END}
+
+<Klarth>
+ You are <var_D300>, the one who rules
+ the Four Great Spirits, I take it.
+<pause>
+<var_D300>
+ Indeed...
+<pause>
+<var_D300>
+ Would you young'uns be...
+<pause>
+<var_D300>
+ ...the ones who called out to me,
+ perchance?
+<pause>
+<Klarth>
+ That is correct.
+<pause>
+<var_D300>
+ And what is it that you want, eh?
+<pause>
+<Klarth>
+ If you would unseal the door
+ behind you, that'd help us
+ immensely.
+<pause>
+<Klarth>
+ We've been looking up and down
+ this old mine for a ring to forge a
+ pact with <var_D400>, and that door is
+ our last hope!
+<pause>
+<var_D300>
+ I see, I see...
+<pause>
+<var_D300>
+ Just beyond is an undisturbed
+ treasure vault.
+<pause>
+<var_D300>
+ I reckon it might contain what you
+ seek, but...
+<pause>
+<var_D300>
+ I can't just let any old vagabond
+ raid it, y'see? Show me what
+ you're made of, and don't hold
+ back just because I look like a<wait>
+ fossil!{END}
+
+<unk1><var_D300>
+ Guagh...
+<pause>
+<var_D300>
+ I-I suppose that was to be
+ expected...
+<pause>
+<Klarth>
+ Now, <var_D300>!
+ I request you uphold your
+ end of the bargain.
+<pause>
+<var_D300>
+ V-very well.
+ I will break the seal.
+<pause>
+<var_D300>
+ Hoh hoh hoh...
+<pause>
+<var_D300>
+ Y'know, I rather like you, young'un.
+<pause>
+<var_D300>
+ It's only appropriate that I, too, aid
+ you with my strength...
+<pause>
+<Klarth>
+ ...!?
+<pause>
+<var_D300>
+ Come now, this surprises you?
+<pause>
+<var_D300>
+ You've making pacts with spirits
+ left and right, have you not?
+<pause>
+<Klarth>
+ W-wow!
+<pause>
+<Klarth>
+ A pact with the leader of
+ the Four Great Spirits!
+ What an incredible honor!
+<pause>
+<Arche>
+ Aww, you're the best, Maxi-poo<heart>{END}
+
+<var_D300>
+ (M-Maxi-poo!?)
+<pause>
+<var_D300>
+ Ahem!
+<pause>
+<var_D300>
+ N-now then, out with the
+ Turquoise Ring...{END}
+
+<Klarth>
+ Here and now, I offer my request
+ to the Spirit of Molecules.
+<pause>
+<Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon <var_D300>.<wait><color_0000>{END}
+
+<color_0002><Klarth> has earned the title
+“<var_B301>.”<wait><color_0000>{END}
+
+<Cless>
+ S-something's happening to
+ Gungnir...
+<pause>
+<var_D300>
+ Hoh hoh hoh.
+<pause>
+<var_D300>
+ The true power of that spear is
+ far greater than you may realize.
+<pause>
+<var_D300>
+ I drew out an additional smidgeon
+ of its latent strength.<wait>{END}
+
+<color_0002>A part of Gungnir's power has been
+released.<color_0000>{END}
+
+<Mint>
+ Goodness, another puzzle.
+ Perhaps those signs might provide
+ hints? I can't read them from here.{END}
+
+<Arche>
+ Don't ask me.
+ Puzzles always make
+ my head hurt.{END}
+
+<Cless>
+ I don't think we'll be attacked
+ down here, so take all the time you
+ need.{END}
+
+<unk1><Cless>
+ <Arche>'s the only one who
+ can translate this stuff,
+ but she's somewhere else...{END}
+
+“The direction suggested by the
+dead beckons that which governs
+Destruction.”
+<pause>
+“Where one feels the breath of life
+is the place for that which governs
+Birth.”
+<pause>
+“The maiden who mourns the
+departed beckons the feeling of
+death to her left hand.”
+<pause>
+“When wind flows toward the
+maiden, it blows itself out with
+equal force.”
+<pause>
+<Arche>
+ Well, that's what it says.
+ Literally, anyway.<wait>{END}
+
+<Arche>
+ I guess it means something like...
+ uh...the door will open if you
+ summon the Earth, Water, Fire, 
+ and Wind spirits somewhere?<wait>{END}
+
+<Klarth>
+ Supposing your interpretation is
+ correct, where exactly should they
+ be summoned, then...?{END}
+
+<Klarth>
+ The whole band of Four Great
+ Spirits, huh?
+<pause>
+<Klarth>
+ I haven't finished making pacts
+ with them all yet.
+<pause>
+<Mint>
+ Mr. Lundgrom advised us to visit
+ the Magic Research Lab for
+ information on their whereabouts
+ back in Alvanista, didn't he?
+<pause>
+<Klarth>
+ You're right. I don't have all of the
+ information myself. Let's be on our
+ way.{END}
+
+Quartermaster
+ I'm a Quartermaster.
+ My duty is to supply provisions
+ to the Alvanista Army.
+<pause>
+Quartermaster
+ However, regulation allows me to
+ sell them to the general public for
+ retail price.
+<pause>
+Quartermaster
+ Can I get you anything?{END}
+
+Quartermaster
+ All in the line of duty...{END}
+
+Adventurer
+ This is the dwarven ruin survey
+ team's base camp.
+<pause>
+Adventurer
+ But you people are welcome to
+ rest in the quarters set up down
+ here as well.{END}
+
+Adventurer
+ I don't know if it's natural or
+ man-made, but...
+<pause>
+Adventurer
+ There's a very wide and deep
+ vertical chamber going down the
+ center of the ruins.
+<pause>
+Adventurer
+ The dwarves seem to have built a
+ residential area in the lower parts
+ of it.{END}
+
+Soldier
+ We can't go very deep.
+ The monsters down there...
+ it's a damn freak show! 
+ We're totally outclassed.{END}
+
+Adventurer
+ The dwarves had a unique, innate
+ ability that enabled them to create
+ unusual items.{END}
+
+Sentry
+ Are you surveyors too, by chance?
+<pause>
+Sentry
+ If you're looking for the entrance
+ to the dwarven ruins, it's located in
+ the room northeast of here.{END}
+
+Soldier
+ The newly discovered dwarven
+ ruins are down these stairs.{END}
+
+Soldier
+ Don't be reckless...{END}
+
+Adventurer
+ You can rest here.
+<pause>
+<color_0002>Rest?<color_0000>{END}
+
+<Cless> 
+ What's this?{END}
+
+<Klarth>
+ Looks like an ancient stone slab...
+<pause>
+<Mint>
+ Oh, how fascinating.
+<pause>
+<Mint>
+ There are some engravings.
+ Perhaps the writings of an ancient
+ language?{END}
+
+<Klarth>
+ ......Huh.
+<pause>
+<Klarth>
+ This is completely unlike anything
+ I'm familiar with...
+<pause>
+<Arche>
+ Lemme see it...<wait>{END}
+
+<Klarth>
+ You can read this moon language!?<wait>{END}
+
+<Arche>
+ Umm, yeah.
+ It's just Primal Elven Lore.
+<pause>
+<Arche>
+ The elves used it like
+ forever ago or something.
+ Wayyy before us.
+<pause>
+<Arche>
+ I guess it makes sense you guys
+ don't know anything about it, eh?{END}
+
+<Cless>
+ I'm really impressed, <Arche>!
+<pause>
+<Cless>
+ I'm seeing you in a new light.<wait>{END}
+
+<Arche>
+ It's no biggie, really.
+ I'm a half-elf, so it just kinda
+ comes naturally to me!
+<pause>
+<Arche>
+ ......
+<pause>
+<Arche>
+ Wait a sec, mister...
+ I'm impressive to you only just
+ NOW? Was I only some chump to
+ you before!?{END}
+
+<Klarth>
+ C-calm down, now.
+<pause>
+<Klarth>
+ Anyway, can you translate for
+ those of us without inexplicable
+ magic language skills?{END}
+
+<Arche>
+ Bleh, fine.
+ Lemme think about it for a sec...{END}
+
+<Cless>
+ Why don't we go check them out?
+<pause>
+<Klarth>
+ Sounds like a plan.{END}
+
+Sentry
+ Are you surveyors too?
+<pause>
+Sentry
+ The entrance to the dwarven ruins
+ is in a room northeast of here.
+<pause>
+<Cless>
+ Is that right?
+<pause>
+Sentry
+ Yeah.
+<pause>
+<Klarth>
+ Dwarven ruins, huh?
+ I'm intrigued...
+<pause>
+{END}
+
+Adventurer
+ There's news that dwarven ruins
+ have been discovered further
+ down.
+<pause>
+<Klarth>
+ That's...very interesting.
+<pause>
+{END}
+
+<Arche>
+ Wow, we hit the jackpot!<heart>
+<pause>
+<Arche>
+ Time to dig in!{END}
+
+<Cless>
+ I've got it!<wait>{END}
+
+<Klarth>
+ You do!?{END}
+
+<Klarth>
+ ......<wait>{END}
+
+<Klarth>
+ Eh... These are pretty ordinary
+ trinkets.
+<pause>
+<Klarth>
+ Not a single pact ring among them.<wait>{END}
+
+<Arche>
+ Hey, guys! Over here! A ring!<wait>{END}
+
+<Mint>
+ I have found one as well.{END}
+
+<Cless>
+ But it looks like they're...
+<pause>
+<Cless>
+ ...broken...
+<pause>
+<Klarth>
+ Is that all?
+ Any others?
+<pause>
+<Mint>
+ I'm afraid that was the only one I
+ could find.<wait>{END}
+
+<Klarth>
+ ......<wait>{END}
+
+<Arche>
+ Whadda we do about 'em?
+<pause>
+<Klarth>
+ I can't repair them myself.
+<pause>
+<Klarth>
+ Maybe Lundgrom has an idea, so
+ let's hoof it to <color_0002>Alvanista<color_0000>...<wait>{END}
+
+<color_0002>Acquired a pair of <item_3B00>.<color_0000>{END}
+

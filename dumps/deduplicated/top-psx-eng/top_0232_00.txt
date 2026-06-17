@@ -1,0 +1,1383 @@
+General Shop “Tenderloin”{END}
+
+Weapons Shop “Garlic”{END}
+
+Food Store “Sirloin”{END}
+
+Inn “Spaghetti”{END}
+
+Inn “Salisbury Steak”{END}
+
+Olive Village{END}
+
+Villager
+ Hey, stranger!
+ Anyone warned you about
+ basilisks yet?
+<pause>
+Villager
+ They're the kings of the desert.
+ Approach one that opens its eye,
+ and you'll become a stone statue!
+ Don't face them unprepared!{END}
+
+Chef
+ Have you made Tenderloin?{END}
+
+Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Tenderloin.<color_0000>{END}
+
+Chef
+ What!?
+ How can you reject this taste!?{END}
+
+Chef
+ Have you made...Fruit Juice...?{END}
+
+Chef
+ I come from the...World of...
+ Fabulous Flavors... Oh...throat
+ burns...*hah*...*hah*
+<pause>
+Chef
+ I wish...*hah*...for all the people
+ to...experience this...*hah*...
+ *hah*...taste...
+<pause>
+Chef
+ Come, don't you wanna...*hah*...
+ *hah*...taste the flavors...of my
+ world...?{END}
+
+Chef
+ I'll teach you this dish...*hah*<wait>{END}
+
+<color_0002>Learned the recipe for Fruit Juice.<wait><color_0000>{END}
+
+Chef
+ *hah*...*hah*...throat's...an inferno...
+ need...Fruit Juice...{END}
+
+Chef
+ *hah*...*hah*...I'm melting... Now I
+ understand...how butter must feel...{END}
+
+<Cless>
+ Say, have you heard the Tale of
+ the Spirit?
+<pause>
+Villager
+ Ah, yeah.
+ That's an interesting one.
+ I think it went like this:
+<pause>
+Villager
+ Once upon time, before monst--
+<pause>
+<Cless>
+ Wait--I already know the first
+ few parts.
+<pause>
+<Cless>
+ Could you skip ahead to where the
+ king re-captured the Spirit of the
+ Moon after the soldier discovered
+ her in the underground ruins?
+<pause>
+Villager
+ Hmm... Let's see... Ah, yes.
+<pause>
+Villager
+ The soldier looked upon the Spirit
+ of the Moon with such compassion
+ that he'd commit treason to rescue
+ her.
+<pause>
+Villager
+ He was too smitten to be
+ concerned that such an act
+ against his kingdom would
+ be punishable by death.
+<pause>
+Villager
+ After securing the assistance of
+ rebels amongst the kingdom's
+ populace, the now ex-soldier
+ successfully freed the spirit.
+<pause>
+Villager
+ The king responded by sending his
+ army on a relentless pursuit of the
+ two.
+<pause>
+Villager
+ 'Twas a small world with the
+ barrier in place; there were but
+ few safe places to hide.
+<pause>
+Villager
+ The only way to avoid detection
+ was to make a daring gamble.
+<pause>
+Villager
+ The ex-soldier resolved to do the
+ implausible: exit the barrier.
+<pause>
+Villager
+ He thought that, surely, the spirit
+ had the power to protect him from
+ being poisoned outside.
+<pause>
+Villager
+ So the ex-soldier went on to carry
+ the spirit to safety, knowing well
+ the consequences on his life if he
+ had assumed wrong.
+<pause>
+Villager
+ Annnnnd, that's as far as I know it.
+<pause>
+Villager
+ Sorry.{END}
+
+Villager
+ This grocery store has a built-in
+ cafe. It's darn convenient!{END}
+
+Villager
+ If you ever get petrified, just have
+ your friend pour a <color_0002><item_8700><color_0000>
+ over you. You'll soften right up!
+<pause>
+Villager
+ But if you ask me, gulping down a
+ <color_0002><item_8A00><color_0000> beforehand is the
+ best way to go. An ounce of
+ prevention and all that.{END}
+
+Villager
+ It's not uncommon for groups to
+ get wiped out by petrification or
+ paralysis.
+<pause>
+Villager
+ You guys had better be prepared,
+ or you'll be next!{END}
+
+Villager
+ A lot of desert creatures are
+ resistant to fire attacks.
+ Doesn't take a lot of brain power
+ to figure that out, though.{END}
+
+Villager
+ Say, what would you do if you
+ encountered a basilisk in the
+ desert?
+<pause>
+Villager
+ If it was me, I'd cluck like a
+ chicken and run away from it.
+<pause>
+Villager
+ Assuming it's not too fast to catch
+ my tail, that is!{END}
+
+Villager
+ None of the locals dare try their
+ luck against basilisks.
+<pause>
+Villager
+ You ever notice all the stone
+ statues strewn about the desert?
+<pause>
+Villager
+ They're the remains of reckless
+ hotshot outsiders who thought they
+ could take them on...{END}
+
+Customer
+ What a madhouse!
+ What's everyone here for?{END}
+
+Innkeeper
+ Oh, picked yourself some basilisk
+ scales I see.<wait>{END}
+
+Innkeeper
+ Don't think that's enough, though.
+<pause>
+Innkeeper
+ I believe you'll need about five, or
+ perhaps six to yield a sufficient
+ amount of medicine from them.
+<pause>
+Innkeeper
+ That said...<wait>{END}
+
+Innkeeper
+ That should be enough.
+ How about you take it easy and
+ stay here for the night?
+<pause>
+Innkeeper
+ It's on the house, so make
+ yourselves comfortable.
+<pause>
+Innkeeper
+ Edward won't be back until
+ sometime tomorrow anyway.
+<pause>
+<color_0002>Stay?<color_0000>{END}
+
+Innkeeper
+ Right. Then I'll let the villagers
+ know about this immediately. Word
+ should reach Edward soon enough!{END}
+
+Innkeeper
+ I see...{END}
+
+Innkeeper
+ That said...<wait>{END}
+
+Innkeeper
+ Welcome.
+ Would you like to stay?
+<pause>
+Innkeeper
+ It's <num1_00000054> gald for one night.{END}
+
+Innkeeper
+ This is not enough, good sir.{END}
+
+Innkeeper
+ Take it easy.{END}
+
+Innkeeper
+ Come again.{END}
+
+Clerk
+ Welcome to Sirloin.
+ Can I get you anything?{END}
+
+Clerk
+ Thank you very much.{END}
+
+Clerk
+ Welcome to Tenderloin.{END}
+
+Clerk
+ Come again.{END}
+
+Pharmacist
+ Welcome to Lil' Nymph.{END}
+
+Pharmacist
+ Did we have all the medicine you
+ were looking for?{END}
+
+Pharmacist
+ Since you found the way back here,
+ I'll let you in on something nice.
+<pause>
+Pharmacist
+ Yeah, so, I guess the warehouse
+ manager stuffed some spiffy
+ things inside these treasure chests.
+<pause>
+Pharmacist
+ She probably won't let you back
+ here again, so this might be your
+ only chance to bag all the goods...{END}
+
+Owner
+ Welcome to Garlic.
+ All of our products are genuine
+ imports from Alvanista!{END}
+
+Owner
+ C'mon in!
+<pause>
+Owner
+ Since we're on the border of
+ Alvanista and Midgard, we get all
+ the best stuff from both!{END}
+
+Owner
+ Come again!{END}
+
+Assistant
+ C'mon in.
+<pause>
+Assistant
+ Huh? My clothes?
+ I'm not actually a sailor
+ or anything.
+<pause>
+Assistant
+ I just like their style!{END}
+
+Villager
+ I guess a spirit lives in the cave to
+ the east or something.
+<pause>
+Villager
+ It's a hellish place brimming with
+ lava.
+<pause>
+Villager
+ Think you can take the heat?{END}
+
+Villager
+ Maaaaaan, I swear it's like an oven
+ out here.{END}
+
+Villager
+ I think Edward went to the oasis
+ southeast of here.{END}
+
+<Mint>
+ I apologize for disturbing you, sir,
+ but have you seen a man named
+ Edward recently?
+<pause>
+Traveler
+ Yeah, you just missed him.
+ He went to the oasis northeast
+ of here.{END}
+
+Traveler
+ Ahh...
+ It's so relaxing here.{END}
+
+<Cless>
+ Excuse me, but I was wondering if
+ you've seen a man named Edward
+ come through here.
+<pause>
+Old Man
+ Huh?
+<pause>
+Old Man
+ Say that again?
+<pause>
+<Cless>
+ I was wondering if a man called
+ Edward came through here.
+<pause>
+Old Man 
+ Eh, you makin' fun of me?
+<pause>
+<Cless>
+ Umm, what?
+<pause>
+Old Man
+ You called me absurd just now,
+ didn't you?
+<pause>
+<Cless>
+ No, I said “EDWARD”!
+<pause>
+<Cless>
+ I'm! Looking! For! Edward!
+<pause>
+Old Man
+ Calm down, boy.
+ I'm kidding.
+<pause>
+Old Man
+ Edward's gone to the oasis to the
+ northwest of here.{END}
+
+Old Man
+ So, did you find Edwin?
+<pause>
+<Cless>
+ E-D-W-A-R-D!! EDWARD!!{END}
+
+Villager
+ Sooo hot...
+ I'm sweatin' up a storm...{END}
+
+<Arche>
+ Hey there, mister<heart>
+ Have you seen Edward around?
+<pause>
+Young Man
+ He was here a few minutes ago.
+ He said he was on his way back to
+ Olive Village.
+<pause>
+<Arche>
+ Booo...
+ He's always a step ahead of us.
+<pause>
+<Cless>
+ Ugh, okay. Let's turn around.
+ If we're fast enough, maybe we
+ can catch up this time.{END}
+
+<Cless>
+ There sure are a lot
+ of bush babies here.
+<pause>
+Young Man
+ That's because they're my friends,
+ you see.{END}
+
+Villager
+ The next time I run into one of
+ those hotheaded bastards, they're
+ gettin' a bucket of water to the
+ face!{END}
+
+Villager
+ Have you ever heard of Aegis, the
+ master craftsman?
+<pause>
+Villager
+ He was given the nickname
+ “Adamant Aegis” for his
+ incredible ability to forge
+ steel with his bare fists.
+<pause>
+Villager
+ I don't know what happened,
+ but he suddenly disappeared.
+ Wonder where to...{END}
+
+Villager
+ Today's yet another scorcher...
+<pause>
+Villager
+ Maybe I should look into the town I
+ heard about that was built on an
+ icy continent.
+<pause>
+Villager
+ A life there would surely be a
+ lovely change of pace from this
+ miserable sauna.{END}
+
+Villager
+ Beyond the Elven Settlement, and
+ within the Treant Forest, lies
+ Heimdall; a sacred elven site where
+ a spirit sleeps.
+<pause>
+Villager
+ It's said to be a legend in an
+ ancient file, but the spirit actually
+ exists!
+<pause>
+Villager
+ I'm not pulling your leg!{END}
+
+Villager
+ Word is, Aegis actually moved to a
+ small island to get out of the
+ public's eye.{END}
+
+Villager
+ I wonder if there's a way to
+ transform endless acres of desert
+ sand into fertile soil...{END}
+
+Herbalist
+ I made <speed_0010>A L L <speed_FFFF>the medicine
+ here by myself!
+<pause>
+Herbalist
+ I'm very proud of it!{END}
+
+<item_7000> Seller
+ Heya, need some eggs?
+<pause>
+<item_7000> Seller
+ They're all nice and freshly laid!
+<pause>
+<item_7000> Seller
+ All yers fer 20 gald apiece!
+<pause>
+<color_0002>Buy an egg?<color_0000>{END}
+
+<item_7000> Seller
+ Come back and buy more, y'hear?{END}
+
+<item_7000> Seller
+ Yer short on money.{END}
+
+<item_7000> Seller
+ It seems ya can't hold any more.{END}
+
+<item_7000> Seller
+ Much obliged!{END}
+
+<var_8201>
+ Focus your mind and you shall feel
+ cool amidst even the fiercest of
+ flames.{END}
+
+<var_8201>
+ Oh, if isn't a fellow swordsman.
+<pause>
+<var_8201>
+ I've got a spare arcane arte book
+ for sale...
+<pause>
+<Cless>
+ Huh? An arcane arte book!?
+<pause>
+<var_8201>
+ It's useless to me.
+ I picked it up some time ago,
+ but I don't know any of the
+ prerequisite base artes...
+<pause>
+<var_8201>
+ It was pretty expensive.
+ My price is 40000 gald.
+<pause>
+<color_0002>Buy it?<color_0000>{END}
+
+<var_8201>
+ Oh, too bad...{END}
+
+<Cless>
+ Um...
+ I don't seem enough have enough<sweat>
+ Sorry sir, but I'll have to pass for
+ now.{END}
+
+<color_0002><Cless> learned
+<var_A000>.<color_0000>
+<pause>
+<var_8201>
+ You have my gratitude.{END}
+
+Old Woman
+ There's a tower in the lava field
+ east of here.
+<pause>
+Old Woman
+ The inside is a raging inferno.
+ In all my years, I've never heard
+ of anyone returning from it alive.
+<pause>
+Old Woman
+ To think of the piles and piles of
+ precious, undiscovered treasure
+ lying around...
+<pause>
+Old Woman
+ Hweh heh heh...{END}
+
+Villager
+ A monster in the Cave of Searing
+ Sand carries a bow of flame.{END}
+
+Villager
+ This continent used to be ruled by
+ the ancient superpower of Odin.
+<pause>
+Villager
+ But a loooong time ago, it was
+ ravaged by war so badly that it
+ eventually turned into a desert.
+<pause>
+Villager
+ I learned all of this from an
+ archaeologist.{END}
+
+Collector
+ Hey guy...
+<pause>
+Collector
+ Do you have a <item_8801>!?<wait>{END}
+
+<Klarth>
+ Why yes, I do.
+<pause>
+Collector
+ I've gotta have it!
+ Then you can have one of my
+ <item_8701>s for it!{END}
+
+Collector
+ Yesss!
+ I've got the whole set now!<wait>{END}
+
+<color_0002>Acquired a <item_8701>.<color_0000>{END}
+
+Collector
+ Your pockets are overflowing with
+ <item_8701>s too, huh?{END}
+
+Collector
+ Aww, no way!
+ Well, y'know where to find
+ me if you change your mind.{END}
+
+Collector
+ I've been looking all over for one...{END}
+
+Man
+ If you meet a basilisk, you'd best
+ chug a <color_0002><item_8A00><color_0000> if you want
+ to live.{END}
+
+“Here Lies The Heroic Basilisk
+Exterminator”{END}
+
+(There's nothing engraved on the
+back.){END}
+
+Edward
+ Yes, my surname is Morrison, but...
+<pause>
+Edward
+ Why is that such a shock to you?
+<pause>
+<Cless> & <Mint>
+ Ahhh, um, um...
+<pause>
+<Klarth>
+ You two look like you're facing a
+ ghost.<wait>{END}
+
+<Klarth>
+ Edward, before we talk about the
+ scales, please read this letter.
+<pause>
+Edward
+ An introduction from the 'Grom, is
+ it?
+<pause>
+Edward
+ Then you must have a good reason
+ to follow me this far.
+<pause>
+<Klarth>
+ Indeed.
+ Let's talk somewhere
+ more private...{END}
+
+Edward
+ Aha!
+<pause>
+Edward
+ So you were the ones who saved
+ Prince Laird.
+<pause>
+<Klarth>
+ Yep, and they showed us their
+ gratitude by throwing us in the
+ slammer!
+<pause>
+Edward
+ Hah hah hah, saved the punchline
+ for last, did you?
+<pause>
+Edward
+ Well, anyway, I understand the gist
+ of your story.
+<pause>
+<Klarth>
+ So what would you recommend we
+ do about these rings?
+<pause>
+Edward
+ They appear to be suitable for
+ pacts with mighty spirits, indeed.
+<pause>
+Edward
+ Going out to find replacements will
+ be no easy task...
+<pause>
+Edward
+ ...as such things are one-of-a-kind.
+ But don't lose hope.
+<pause>
+Edward
+ Pact Rings are the fruit of
+ collaborative work of the elves
+ and the late dwarven race.
+<pause>
+<Klarth>
+ What are you getting at, exactly?
+<pause>
+Edward
+ Your best bet is to go meet the
+ elves of Ymir Forest.
+<pause>
+Edward
+ If anyone in this world would know
+ how to repair these, it's them.
+<pause>
+<Klarth>
+ The elves!?
+<pause>
+<Klarth>
+ There's no way they'd let us into
+ their settlement!
+<pause>
+Edward
+ Just ask Lundgrom.
+<pause>
+Edward
+ If Alvanista vouches for you, they
+ shouldn't give you any grief.
+<pause>
+<Klarth>
+ Hmm...
+<pause>
+Edward
+ Well, then. I gratefully accept your
+ basilisk scales.
+<pause>
+Edward
+ Also, I intend to gather companions
+ before war breaks out in Midgard.
+<pause>
+Edward
+ If possible...
+<pause>
+<Klarth>
+ Huh?
+<pause>
+Edward
+ Well, to be frank, I was hoping
+ those companions would be
+ yourselves, but...
+<pause>
+Edward
+ I can't make that decision for you.
+<pause>
+Edward
+ Well, may we meet again if the
+ opportunity presents itself.{END}
+
+<Cless>
+ Mr. Morrison!
+ Please wait!<wait>{END}
+
+Morrison
+ Is there something else?
+<pause>
+<Cless>
+ Take a look at this.
+<pause>
+<Cless>
+ I'm sure it'll help you!{END}
+
+Morrison
+ Well now, it's quite worn, isn't it?
+<pause>
+Morrison
+ ......
+<pause>
+Morrison
+ Hmm, is this...
+<pause>
+Morrison
+ ...my handwriting!?
+<pause>
+Morrison
+ My signature, as well!?
+<pause>
+<Cless>
+ The man who entrusted us with
+ this book...
+<pause>
+<Cless>
+ ...is named Trinicus D. Morrison.
+<pause>
+Morrison
+ “Morrison,” you say?
+<pause>
+<Cless>
+ He's your descendant.
+<pause>
+<Cless>
+ We've been thrown here across
+ time. We came from the future.
+<pause>
+Morrison
+ By time travel?
+<pause>
+Morrison
+ Hmph, hahahahahah!
+<pause>
+Morrison
+ Cut the jokes.
+ I'm still researching that.
+<pause>
+<Cless>
+ That must mean you completed it,
+ and the future Morrison--
+<pause>
+Morrison
+ Well, if what you say is true, then I
+ should by no means read this book!
+<pause>
+<Cless>
+ Huh?
+ Why do you say that?{END}
+
+<unk1><Mint>
+ <Arche>, I haven't spoken to you
+ about this yet, but...
+<pause>
+<Mint>
+ <Cless> and I are from the
+ world of a hundred years
+ into the future.
+<pause>
+<Mint>
+ I know it's hard to believe, but...<wait>{END}
+
+<Arche>
+ Whuh?
+<pause>
+<Arche>
+ Sooo, in other words...
+<pause>
+<Arche>
+ That means...{END}
+
+<Arche>
+ ...I'm like, a wrinkly century old
+ granny in your world, then?<wait>{END}
+
+<Mint>
+ Edward's descendant sent us back
+ here with his power...{END}
+
+Morrison
+ I suppose this means you know the
+ outcome of the war.
+<pause>
+Morrison
+ Not only that, but what happens
+ afterward and beyond...
+<pause>
+Morrison
+ I would prefer not to
+ know how it all ends up.
+ There would be little reason
+ to go on if I did...
+<pause>
+Morrison
+ You're working to save my
+ descendant and your good
+ friend, are you not?
+<pause>
+Morrison
+ Yes, you wish to change history...
+<pause>
+Morrison
+ I feel the same way.
+<pause>
+Morrison
+ Even if we cannot fathom the
+ results...<wait>{END}
+
+<Cless>
+ I never said anything like--
+<pause>
+Morrison
+ Oh, I'm sure you feel very much
+ the same as I.
+<pause>
+Morrison
+ The proof lies within our common
+ goal of defeating Dhaos.
+<pause>
+<Cless>
+ ......{END}
+
+<Cless>
+ Mr. Morrison!
+<pause>
+<Cless>
+ Please wait at Midgard for us.
+<pause>
+<Cless>
+ We'll meet up with you there...
+<pause>
+<Cless>
+ ...and join forces!<wait>{END}
+
+Morrison
+ Before I go...
+<pause>
+Morrison
+ Do you have any means of
+ returning to your own time?
+<pause>
+<Cless>
+ Actually, we're still trying to figure
+ that out...
+<pause>
+Morrison
+ All right.
+ Next time we meet, I'll
+ see what I can do.
+<pause>
+Morrison
+ I believe that if my descendant can
+ send you back here, there's no
+ reason I couldn't do the same in
+ reverse.
+<pause>
+Morrison
+ Heh heh, to think...
+ I was actually just about to give
+ up on my time travel research, too.
+<pause>
+<Cless>
+ I'm sure you can do it!
+<pause>
+Morrison
+ Yes.
+ Good luck with the rings.{END}
+
+<Klarth>
+ And back to Alvanista we go.
+<pause>
+<Cless>
+ Yeah.
+ Let's see what Lundgrom
+ can do for us.{END}
+
+<Cless>
+ Wow, this town is roasting.
+<pause>
+<Klarth>
+ Everyone traveling through
+ this desert must stop here.
+ Surely even Edward...
+<pause>
+<Mint>
+ Why don't we start by asking the
+ gentleman underneath that tree?{END}
+
+<Cless>
+ Excuse me, sir.<wait>{END}
+
+Villager
+ Yeah?
+<pause>
+<Cless>
+ I was wondering if you've seen a
+ man named Edward around here
+ recently?
+<pause>
+Villager
+ Hmm, Edward....
+<pause>
+Villager
+ Ah, yeah.
+ You just missed the guy.
+<pause>
+<Cless>
+ Do you have any idea where he
+ went?
+<pause>
+Villager
+ Guess he had some sort of urgent
+ business, as he ran straight off.
+ No idea about his destination, but...
+<pause>
+Villager
+ He kept going south.
+ The only thing that
+ way is an oasis.
+<pause>
+<Cless>
+ Sounds like a good start.
+ Thanks.
+<pause>
+<Klarth>
+ If we follow him post-haste, we
+ might catch up. Onward!{END}
+
+Olive Village{END}
+
+<Cless>
+ I bet we just missed him. Again.
+<pause>
+<Mint>
+ Why don't we ask that gentleman
+ if he's seen him again?{END}
+
+<Cless>
+ Excuse me again, sir.<wait>{END}
+
+Villager
+ Yeah?
+<pause>
+<Cless>
+ Did the man I asked you about
+ before, Edward, return here?
+<pause>
+Villager
+ Yup.
+ I saw him set foot in the
+ inn just a spell ago.
+<pause>
+<Cless>
+ Thanks for your help again.{END}
+
+Olive Village{END}
+
+<Cless>
+ Yawwwwn...!
+ Slept like a log, for once...<wait>{END}
+
+<Cless>
+ Good morning, <Mint>.
+ You're up bright and early today.
+<pause>
+<Cless>
+ Did you sleep well too?{END}
+
+<Cless>
+ Is something the matter?{END}
+
+<Klarth>
+ Morning, you two...{END}
+
+<Klarth>
+ Hm?
+ What's with the silent treatment?{END}
+
+<Mint>
+ Everyone, please listen.
+ I have something important to say.
+<pause>
+<Cless>
+ Go on...
+<pause>
+<Mint>
+ I have been thinking about a means
+ of revitalizing Yggdrasill.
+<pause>
+<Mint>
+ Perhaps my clerical artes might be
+ one way...
+<pause>
+<Mint>
+ ...but I'm simply not powerful
+ enough to handle it alone.
+<pause>
+<Klarth>
+ Oh?
+<pause>
+<Mint>
+ Maybe if we borrowed the power
+ of the unicorn...
+<pause>
+<Cless>
+ The what?
+<pause>
+<Mint>
+ The unicorn.
+ It is the embodiment of
+ my Order's power.
+<pause>
+<Mint>
+ I believe it exists somewhere in
+ this world.
+<pause>
+<Klarth>
+ Hmm...
+<pause>
+<Klarth>
+ So if we meet this unicorn of
+ yours, it'll just gleefully hand over
+ whatever it is we need and let us
+ go on our merry way?<wait>{END}
+
+<Mint>
+ That...I don't know.
+<pause>
+<Mint>
+ I really don't know...
+<pause>
+<Cless>
+ Well, don't worry about it.
+ <var_9201>al artes are probably our only
+ hope of pulling this off.
+<pause>
+<Cless>
+ Come on, <Mint>!
+<pause>
+<Cless>
+ Let's go out and look for the
+ unicorn! Even if we have to search
+ the four corners of the world, I
+ know we'll find it together!<wait>{END}
+
+<Mint>
+ Thank you so much, <Cless>.
+<pause>
+<Klarth>
+ Well, if that's the plan, then there's
+ no point in sticking around here
+ any longer.{END}
+
+<Klarth>
+ Hey, <Arche>!
+ Wakey-wakey!
+<pause>
+<Klarth>
+ It's time to leeeaaave!<wait>{END}
+
+<Arche>
+ Mmm<heart>, just a little more...
+<pause>
+<Klarth>
+ On your feet, NOW!!{END}
+
+<Arche>
+ You're all up already...?
+ The sun's not even coming up yet...
+<pause>
+<Arche>
+ What's wrong with you guys!?{END}
+
+<Cless>
+ Excuse me, but did a man named
+ Edward stop by here recently?
+<pause>
+Innkeeper
+ You're looking for Mr. Edward?
+<pause>
+Innkeeper
+ Fortune smiles upon you, lad.
+ He was just here.
+<pause>
+Innkeeper
+ The man needs basilisk scales.
+ He's been combing the desert in
+ search of them.
+<pause>
+<Klarth>
+ To make that special medicine, I
+ presume?
+<pause>
+Innkeeper
+ Yes, yes.
+ You're familiar with it, are you?
+<pause>
+Innkeeper
+ Then you probably know that the
+ stuff's not readily available in bulk.
+<pause>
+<Mint>
+ What are basiliks, if I may ask?
+<pause>
+<Mint>
+ They're the talk of the
+ town, it seems.
+<pause>
+<Klarth>
+ The basilisk is a species of monster
+ that rules this desert. They are
+ feared for their ability to petrify
+ even seasoned warriors.
+<pause>
+Innkeeper
+ In any case...
+<pause>
+Innkeeper
+ Edward told me to get the word
+ out if anyone with basilisk scales
+ happened to drop by.
+<pause>
+Innkeeper
+ He'll be over here the instant he
+ hears about it.
+<pause>
+<Klarth>
+ It's dirty work, but we can get
+ scales of our own by hunting the
+ beasts.<wait>{END}
+
+<unk1>Innkeeper
+ Riiise and shiiine, Mr. Alvein!
+ Edward has arrived!{END}
+
+Edward
+ You're the ones?
+<pause>
+Edward
+ The people who provided these
+ precious scales?
+<pause>
+<Klarth>
+ Edward's the name, isn't it?
+<pause>
+<Klarth>
+ Actually--<wait>{END}
+
+<Cless> & <Mint>
+ Mr. Morrison!?{END}
+
+<Cless>
+ There's a door here with a sign
+ posted on it...
+<pause>
+“Unauthorized Personnel May Not
+Enter”{END}
+
+Woman
+ This is our warehouse.
+ Please don't touch what
+ isn't yours. Unless...{END}
+
+Woman
+ I manage the shop's inventory.{END}
+
+<unk1>Woman
+ The <num3_00005118> will
+ be <num5_00006104> gald.<wait>{END}
+
+<unk1>Woman
+ Oh, never mind.
+ I see you left it on the floor.{END}
+
+<unk1>Woman
+ Oh, wallet's too light?
+ Then I'll be taking
+ it back, thank you.{END}
+
+<color_0002>Pay <num5_00006104> gald?<color_0000>{END}
+
+Woman
+ Thank you very much.{END}
+
+<unk1>Woman
+ Oh, never mind.
+ I see you left it on the floor.{END}
+
+<unk1>Woman
+ No?
+ Then hand it over, thank you.{END}
+
+ <num2_C000510C> gave the
+<num3_00005118> back.<wait>{END}
+
+Woman
+ Employees only!{END}
+
+Man
+ I'm the Wandering Chef.
+<pause>
+Wandering Chef
+ After ten years of intensive
+ training, I've finally mastered spicy
+ cuisine.
+<pause>
+Wandering Chef
+ Have you eaten genuine curry
+ cuisine before?
+<pause>
+<Cless>
+ Well, yes.
+ Of course we have.
+<pause>
+<Cless>
+ I mean, you can get it anywhere,
+ so...
+<pause>
+Wandering Chef
+ Tsk! Tsk! Tsk!
+ I said GENUINE curry!
+<pause>
+Wandering Chef
+ The spices for genuine curry are
+ totally different from all those
+ poor imitations!!
+<pause>
+Wandering Chef
+ Wanna sample the REAL THING!?{END}
+
+Wandering Chef
+ It's garnished with the most
+ exquisite spices.<wait>{END}
+
+<Suzu>
+ I will pass.
+<pause>
+Wandering Chef
+ That's a shame.<wait>{END}
+
+<Cless>
+ Whoah!
+ This is almost as hot
+ as Madam Curie!<wait>{END}
+
+<color_0002>Learned the recipe for Curry.<wait><color_0000>{END}
+
+Wandering Chef
+ That's a shame.{END}
+
+<unk1><Suzu>
+ I have never eaten this
+ type of cuisine before.
+ What is it like, <Cless>?<wait>{END}
+
+<Cless>
+ Uh...
+ It's hard to explain...<wait>{END}
+
+Wandering Chef
+ Miss, I believe the exquisiteness of
+ genuine curry is truly beyond
+ words.
+<pause>
+Wandering Chef
+ Here, why don't you try some!?
+ You'll love it!
+<pause>
+<Suzu>
+ You think so...?{END}
+
+<unk1><Cless>
+ <Suzu>, are you okay?
+<pause>
+<Suzu>
+ ......
+<pause>
+<Suzu>
+ ...Yes.
+<pause>
+<Suzu>
+ I will survive<speed_0020>...<speed_FFFF>I think...
+<pause>
+<Suzu>
+ I...
+<pause>
+<Suzu>
+ I prefer sweet things.<wait>{END}
+
+<color_0002><Suzu> has earned the title
+“<var_DB01>.”<color_0000>{END}
+

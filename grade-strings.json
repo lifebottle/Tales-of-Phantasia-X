@@ -1,0 +1,113 @@
+{
+    "grade_01": {
+        "gradient": 2,
+        "strings": [
+            {
+                "posx": 2,
+                "posy": 1
+            },
+            {
+                "posx": 2,
+                "posy": 21
+            },
+            {
+                "posx": 2,
+                "posy": 41
+            },
+            {
+                "posx": 2,
+                "posy": 61
+            },
+            {
+                "posx": 2,
+                "posy": 81
+            },
+            {
+                "posx": 2,
+                "posy": 101
+            },
+            {
+                "posx": 2,
+                "posy": 121
+            },
+            {
+                "posx": 2,
+                "posy": 141
+            },
+            {
+                "posx": 2,
+                "posy": 161
+            },
+            {
+                "posx": 2,
+                "posy": 181
+            },
+            {
+                "posx": 2,
+                "posy": 201
+            },
+            {
+                "posx": 2,
+                "posy": 221
+            },
+            {
+                "posx": 2,
+                "posy": 240
+            }
+        ]
+    },
+    "grade_02": {
+        "gradient": 2,
+        "strings": [
+            {
+                "posx": 3,
+                "posy": 1
+            },
+            {
+                "posx": 2,
+                "posy": 21
+            },
+            {
+                "posx": 2,
+                "posy": 41
+            },
+            {
+                "posx": 2,
+                "posy": 61
+            },
+            {
+                "posx": 2,
+                "posy": 81
+            },
+            {
+                "posx": 2,
+                "posy": 101
+            },
+            {
+                "posx": 2,
+                "posy": 121
+            },
+            {
+                "posx": 2,
+                "posy": 141
+            },
+            {
+                "posx": 2,
+                "posy": 161
+            },
+            {
+                "posx": 2,
+                "posy": 181
+            },
+            {
+                "posx": 2,
+                "posy": 201
+            },
+            {
+                "posx": 2,
+                "posy": 218,
+                "offset": 1
+            }
+        ]
+    }
+}

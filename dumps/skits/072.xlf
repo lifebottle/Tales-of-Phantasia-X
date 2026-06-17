@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_273">
+        <source>Ahh... Feels so liberating
+to fly like this thanks to Volt.</source>
+        <target state="translated">Ahh... Feels so liberating
+to fly like this thanks to Volt.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_274">
+        <source>Wait, you saying any other spirit couldn't do it?</source>
+        <target state="translated">Wait, you saying any other spirit couldn't do it?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_275">
+        <source>No, not at all. Remember
+that time with Pegasus?</source>
+        <target state="translated">No, not at all. Remember
+that time with Pegasus?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_276">
+        <source>Oh yeah, duh. Then what makes Volt so special?</source>
+        <target state="translated">Oh yeah, duh. Then what makes Volt so special?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_277">
+        <source>His strong electrical affinity allows
+us to keep this up for long spans of time.</source>
+        <target state="translated">His strong electrical affinity allows
+us to keep this up for long spans of time.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_278">
+        <source>Hmmm... Now my head hurts. Oh well!</source>
+        <target state="translated">Hmmm... Now my head hurts. Oh well!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

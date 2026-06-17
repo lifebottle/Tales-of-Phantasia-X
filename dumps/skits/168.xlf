@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_838">
+        <source>According to the innkeeper,
+Edward is tracking down basilisk scales.</source>
+        <target state="translated">According to the innkeeper,
+Edward is tracking down basilisk scales.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_839">
+        <source>So if we gather some for him,
+maybe he'll quit moving around...</source>
+        <target state="translated">So if we gather some for him,
+maybe he'll quit moving around...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_840">
+        <source>Wait! I don't wanna become a rock!</source>
+        <target state="translated">Wait! I don't wanna become a rock!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_841">
+        <source>D-don't worry! If we're
+prepared, that won't happen.</source>
+        <target state="translated">D-don't worry! If we're
+prepared, that won't happen.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_842">
+        <source>Indeed. Besides, basilisk bashing is the
+only reliable way of getting their skins.</source>
+        <target state="translated">Indeed. Besides, basilisk bashing is the
+only reliable way of getting their skins.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

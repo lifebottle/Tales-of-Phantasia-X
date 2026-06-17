@@ -1,0 +1,96 @@
+Dummy Recipe Description{END}
+
+Grilled meat patty sandwiched
+between two bun halves.
+Restores a small amount of HP.{END}
+
+A ball of rice lovingly wrapped in
+seaweed. Restores a small amount
+of HP. Cures Poison._<color_0002>(J)<color_0000>{END}
+
+Cabbage leaves wrapped around juicy
+meat. Restores a small amount of HP.{END}
+
+Steamed eggs and broth. The jiggly texture is to die for!
+Restores a small amount of HP. Cures Poison. <color_0002>(J)<color_0000>{END}
+
+Various toppings wrapped in a rice and
+seaweed roll. Restores a small amount
+of HP. Cures Paralysis and Petrification. <color_0002>(J)<color_0000>{END}
+
+Burger supersized with melted cheese.
+Restores a moderate amount of HP.{END}
+
+Milk and eggs create a curious harmony.
+Restores a moderate amount of HP.
+Cures Poison.{END}
+
+No lunch is complete without one.
+Restores a moderate amount of HP.
+Cures Paralysis.{END}
+
+A pasta dish best shared with a lover.
+Restores a moderate amount of HP.
+Cures Petrification.{END}
+
+Rounded steak cut grilled to
+perfection and topped with gravy.
+Restores a moderate amount of HP.{END}
+
+Refreshing, vitamin-rich beverage
+made from nature's candy.
+Restores a small amount of TP.{END}
+
+Fresh raw fish neatly sliced into thin
+strips. A Japanese delicacy. Restores a
+moderate amount of HP. Cures Poison. <color_0002>(J)<color_0000>{END}
+
+Tastes of childhood nostalgia.
+Restores a moderate amount of HP. <color_0002>(J)<color_0000>{END}
+
+Mouthwatering prime-grade
+ribeye seared medium rare.
+Restores a large amount of HP.{END}
+
+Spaghetti stuffed with seafood.
+Restores a moderate amount of HP.
+Cures Poison and Paralysis.{END}
+
+Pasta baked in rich, creamy white sauce.
+Restores a moderate amount of HP and a
+small amount of TP.{END}
+
+Tender meat and tasty vegetables stewed
+together in broth. Restores a moderate
+amount of HP. Resurrects from KO. <color_0002>(J)<color_0000>{END}
+
+Swimming in omega-3s for the health-conscious seaman. Restores a moderate
+amount of HP and a small amount of TP. <color_0002>(J)<color_0000>{END}
+
+Beef and vegetables slow-cooked
+in a succulent gravy.
+Restores a large amount of HP.{END}
+
+A dreamy combo of fruit and cream.
+Be careful not to fall into a sugar coma.
+Restores a moderate amount of TP.{END}
+
+The spicy sauce titillates the taste buds!
+Restores a large amount of HP.
+Cures Poison and Paralysis.{END}
+
+A utopia of fruit adrift
+in an ocean of syrup.
+Restores a large amount of TP.{END}
+
+A dish blessed by Mother Nature.
+Restores a moderate amount of HP and
+a small amount of TP.{END}
+
+Beef, onion and sauce served over rice.
+Restores a large amount of HP.{END}
+
+A stew with a unique flavor originating
+from Japon. Also known as oden. Fully
+restores HP and TP. Resurrects from KO. <color_0002>(J)<color_0000>{END}
+

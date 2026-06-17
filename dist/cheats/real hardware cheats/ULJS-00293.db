@@ -1,0 +1,6062 @@
+;====================================================
+;                 TALES OF PHANTASIA
+;                   CROSS EDITION
+;          CHEAT CODES PSP / PSVITA VERSION
+;====================================================
+;
+;  Created by DobleC  (@Dev_DobleC)
+;  For the Life Bottle Productions
+;  English translation project
+;
+;  Special thanks:
+;    - Ethanol
+;    - mziab
+;
+;  Your help with memory addresses, offsets,
+;  and technical insight made this possible.
+;
+;  Additional thanks to countless forgotten
+;  Japanese websites, buried by time, that
+;  still preserved invaluable information.
+;
+; --------------------------------------------------
+;
+;  Feel free to use, modify, or share any of
+;  these codes however you like.
+;
+;  My only hope is that they help you enjoy
+;  the most modern incarnation of one of the
+;  greatest games ever made.
+;
+;====================================================
+
+_S ULJS-00293
+_G Tales of Phantasia Cross Edition
+
+
+;BATTLE FPS CODES
+;Change the framerate at which the battle system is executed
+
+_C0 TOPX Battle FPS Modifier
+_M 0xCF000000 0x00000002
+
+;Makes the battles run at 60 FPS
+;Set the prefix to "_C1" (in any code actually) to have it on by default
+_C0 60FPS Battles
+_L 0x201600D4 0x00000000
+_L 0x2007210C 0x10000064
+_L 0x20072110 0x00000000
+_L 0x2004D188 0x00000000
+_L 0x2007B5A8 0x1000020F
+_L 0x2007F108 0x100000A7
+_L 0x2007F558 0x10000036
+_L 0x20072BD0 0x10000013
+_L 0x20072E30 0x10000013
+_L 0x200757F4 0x1000007E
+_L 0x2007CB74 0x10000155
+_L 0x2007DB70 0x10000069
+_L 0x2007E06C 0x1000007B
+_L 0x2007E928 0x10000076
+_L 0x2007FCD8 0x10000064
+_L 0x2007D600 0x100000A0
+_L 0x20079844 0x100000FD
+_L 0x20078D6C 0x1000004D
+_L 0x201BBAAC 0x08996000
+_L 0x20196000 0x27BDFFF0
+_L 0x20196004 0xAFBF000C
+_L 0x20196008 0x3404014D
+_L 0x2019600C 0x3405014D
+_L 0x20196010 0x0E265842
+_L 0x20196014 0x340600A6
+_L 0x20196018 0x0E22BAE3
+_L 0x2019601C 0x00000000
+_L 0x20196020 0x340400DE
+_L 0x20196024 0x340500DE
+_L 0x20196028 0x0E265842
+_L 0x2019602C 0x3406006F
+_L 0x20196030 0x8FBF000C
+_L 0x20196034 0x03E00008
+_L 0x20196038 0x27BD0010
+
+;Standart battle framerate, you can restart the game to have the same effect
+_C0 30FPS Battles
+_L 0x201600D4 0x0E25803F
+_L 0x2007210C 0x0E2572DF
+_L 0x20072110 0x00000000
+_L 0x2004D188 0x14430070
+_L 0x2007B5A8 0x0E222BDC
+_L 0x2007F108 0x0E222BDC
+_L 0x2007F558 0x0E222BDC
+_L 0x20072BD0 0x0E20C12D
+_L 0x20072E30 0x0E20C12D
+_L 0x200757F4 0x0E222BDC
+_L 0x2007CB74 0x0E222BDC
+_L 0x2007DB70 0x0E222BDC
+_L 0x2007E06C 0x0E222BDC
+_L 0x2007E928 0x0E222BDC
+_L 0x2007FCD8 0x0E222BDC
+_L 0x2007D600 0x0E222BDC
+_L 0x20079844 0x0E222BDC
+_L 0x20078D6C 0x0E222BDC
+_L 0x201BBAAC 0x088AEB8C
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;DISPLAY RESOLUTION CODES
+;Modifies the resolution at what 2D Maps are displayed
+;To create custom resolutions modify the 4 initial lines
+;
+;0x20125784 0x####XXXX
+;0x20125788 0x####YYYY
+;0x20125794 0x####WWWW
+;0x201257AC 0x####HHHH
+;
+;XXXX - X pos
+;YYYY - Y pos
+;WWWW - Width
+;HHHH - Height
+;
+;Rest of the lines clean the framebuffer on the black bars
+
+_C0 TOPX Resolution Modifier
+_M 0xCF000000 0x00000005
+
+;PSX native resolution
+;Has horizontal black bars
+_C0 8:7 style Scaling Pixel Perfect
+_L 0x20125784 0x34040048
+_L 0x20125788 0x34050010
+_L 0x20125794 0x34060150
+_L 0x201257AC 0x340700F0
+_L 0x2012577C 0x10000024
+_L 0x20125780 0x00000000
+_L 0x20125808 0x1000000A
+_L 0x2012580C 0x00000000
+_L 0x20125810 0x0E264E39
+_L 0x20125814 0x34040001
+_L 0x20125818 0x3C0208CA
+_L 0x2012581C 0x1000FFD9
+_L 0x20125820 0x8C48A228
+
+;PSX native resolution
+;Stretched to best fit PSP screen
+ _C0 8:7 style Scaling
+_L 0x20125784 0x34040020
+_L 0x20125788 0x34050000
+_L 0x20125794 0x3406019F
+_L 0x201257AC 0x34070110
+_L 0x2012577C 0x10000024
+_L 0x20125780 0x00000000
+_L 0x20125808 0x1000000A
+_L 0x2012580C 0x00000000
+_L 0x20125810 0x0E264E39
+_L 0x20125814 0x34040001
+_L 0x20125818 0x3C0208CA
+_L 0x2012581C 0x1000FFD9
+_L 0x20125820 0x8C48A228
+
+;CRT Corrected PSX native resolution
+;Has horizontal black bars
+_C0 4:3 style Scaling Pixel Perfect
+_L 0x20125784 0x3404002B
+_L 0x20125788 0x34050010
+_L 0x20125794 0x34060189
+_L 0x201257AC 0x340700F0
+_L 0x2012577C 0x10000024
+_L 0x20125780 0x00000000
+_L 0x20125808 0x1000000A
+_L 0x2012580C 0x00000000
+_L 0x20125810 0x0E264E39
+_L 0x20125814 0x34040001
+_L 0x20125818 0x3C0208CA
+_L 0x2012581C 0x1000FFD9
+_L 0x20125820 0x8C48A228
+
+;CRT Corrected PSX native resolution
+;Stretched to best fit PSP screen
+ _C0 4:3 style Scaling
+_L 0x20125784 0x34040011
+_L 0x20125788 0x34050000
+_L 0x20125794 0x340601BD
+_L 0x201257AC 0x34070110
+_L 0x2012577C 0x10000024
+_L 0x20125780 0x00000000
+_L 0x20125808 0x1000000A
+_L 0x2012580C 0x00000000
+_L 0x20125810 0x0E264E39
+_L 0x20125814 0x34040001
+_L 0x20125818 0x3C0208CA
+_L 0x2012581C 0x1000FFD9
+_L 0x20125820 0x8C48A228
+
+;Default resolution on PSP
+;Just 4:3 stretched also on the X axis
+_C0 30:17 style Default
+_L 0x20125784 0x34040000
+_L 0x20125788 0x34050000
+_L 0x20125794 0x340601E0
+_L 0x201257AC 0x34070110
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;DEBUG CODES
+;Restore debug functionalities left by the developers
+
+_C0 TOPX Debug Tools
+_M 0xCF000002 0x00000006
+
+;Also gives you the Sorcerer's Ring shot ability
+_C0 Walk through Walls (Press [])
+_L 0x200F3358 0x14000004
+_L 0x200F48E8 0x14000006
+_L 0x200F4974 0x53E00006
+
+;Set next map to be loaded to be the Debug Room
+_C0 Next Map is Debug Room
+_L 0x10889AAC 0x00000005
+
+;Extra menu option (5th) in battle with debug commands
+_C0 Debug Battle Menu
+_L 0x20071A28 0x24030001
+
+;You'll also Walk through everything
+_C0 Overworld Speed Up (Press X)
+_L 0x2014E2F0 0x57E00002
+
+;Press X to start flying
+_C0 Unlock Rheairds
+_L 0x2014DCF0 0x10400001
+
+
+;This code only works on the LBP Patch
+;
+;Resumed Controls
+;Square + Select     Enable debug (in main menu), don't need the cheat
+;Square + R          Flags
+;Square + L          Skits (field) / movies (in maps)
+;Cross  + R          Mini-games
+;Cross  + L          Encounters
+;L                   Battles
+;R                   Map warp
+;
+;Full Explanation
+;To enable debug options:
+;Go to △ menu and press □+SELECT to cycle the debug modes, either nothing, debug or photo mode
+;There's a few menus available in debug mode, the values change with LEFT and RIGHT
+;and holding □ makes the counters change in 10s, X leaves the menu and O confirms the values
+;
+;Now "DEBUG" appears as an option in the title screen
+;It takes you to the debug room
+;
+;Battle Menu:  
+;Press L to bring it up
+;Allows to start a battle, by selecting a stage and group ID
+;
+;Map Menu:
+;Press R to bring it up
+;Allows to teleport to any map ID
+;
+;Encounter Menu:
+;Press X+L to bring it up
+;Allows to set next encounter type
+;
+;Minigame Menu:
+;Press X+R to bring it up
+;
+;Movie Menu:
+;Press □+L to bring it up, only works on the 2D maps
+;Allows to view any fmv
+;
+;Skit Menu:
+;Press □+L to bring it up, only works on the 3D field
+;Allows to view any skit
+;
+;Flags Menu:
+;Press □+R to bring it up
+;Allows to set the value of some flags:
+;SCEN flag for event processing
+;DEMO flag for cutscenes
+;FADE as the name says
+;WAIT as the name says
+;INTER interrupts
+;MENU flag for △ menu availability
+;
+;In Photo mode you can:
+;[2D Map] Move the camera, logic will pause and no entities will be rendered
+;[3D field] Enable the camera menu with □+SELECT
+;
+;Moreover, while the debug mode is enabled you can:
+;Get some info in the △ menu
+;Always eat
+;Something about damage (?)
+;Skip encounter
+;Skip all skits
+;Something in sound menu (?)
+;See map zones in the mini map
+;See the frame counter in the in-game cutscenes
+;Always fly
+;See the camera lines and coordinates in the overworld
+;Ignore collision in the overworld by holding □
+;Run faster and ignore collision in the overworld by holding X
+;Run faster and ignore collision in the 2d maps by holding □
+;Get debug powers when entering a battle
+;Do funky stuff in the 2dmaps with L+ARROW
+;
+;Some of these effects are covered by other debug cheats
+_C0 Full Debug Mode
+_L 0x0088A0A4 0x00000001
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;OUTSIDE BATTLE EFFECT CODE
+;Codes that modify aspects of how the normal game works
+
+_C0 TOPX Outside Battle Effects
+_M 0xCF000002 0x00000007
+
+_C0 Save Anywhere
+_L 0x200B3614 0x10000005
+_L 0x200B3E8C 0x50000002
+
+;Press □ to have an encounter
+_C0 Turn Off encounters
+_L 0x10889AB8 0x00000000
+_L 0xD082E889 0x20000080
+_L 0x10889AB8 0x00000001
+
+;Protects from the outside damage in Tower of Flames and Ice Cave
+_C0 Ice / Fire Charm effect
+_L 0x200D0D8C 0x57E00005
+_L 0x200D0DA4 0x17E00004
+
+;Makes Moria's floors 19th and 20th have permanent light
+_C0 Light On in Moria's Depths
+_L 0x10917510 0x00001100
+
+;Item count cannot be lowered by any means 
+_C0 Infinite Items
+_L 0x200CE0E4 0x00000000
+
+;You'll get Max Level upon leveling up without the required experience
+_C0 Level 999 after Level Up
+_L 0x100A73D4 0x00000000
+
+;This code only works on the LBP Patch
+;Makes the aura of the Enhanced Holy Bottles Blue
+_C0 Blue Aura Enhanced Bottles
+_L 0x201514D8 0xA0C9002A
+_L 0x201514DC 0xA0C90029
+_L 0x201514E0 0xA0C9001E
+_L 0x201514E4 0xA0C9001D
+_L 0x201514E8 0x14600005
+_L 0x201514EC 0x3C010909
+_L 0x201514F0 0x90219C90
+_L 0x201514F4 0x30210010
+_L 0x201514F8 0x54200001
+_L 0x201514FC 0x34090000
+_L 0x20151500 0xA0C90028
+_L 0x20151504 0xA0C9001C
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;BATTLE EFFECT CODES
+;Codes that modify aspects of how the battle system works
+
+_C0 TOPX Battle Effects
+_M 0xCF000002 0x00000012
+
+;Cancel every arte at every frame with every other arte
+;Similar to turbo modes in fighting games
+_C0 Turbo Cancelling
+_L 0x1059D714 0x00000100
+
+;You still need 100 TP and press □ + X + O
+;Rody: Demon's Lance Rain
+;Klarth: Round Yellow Amazing Guy
+;Cless:
+;-Stygian Blade
+;-Burning Phoenix (also press ← or →)
+;-Eternal Blade (also press ↓)
+_C0 Mystic Arte with Full HP
+_L 0x2003A79C 0x00000000
+_L 0x2003A77C 0x10000009
+_L 0x2003A7AC 0x57E30004
+_L 0x2003A7C4 0x50000007
+_L 0x2003A830 0x00000000
+_L 0x2003AA1C 0x10000007
+_L 0x2003AA70 0x1000000A
+_L 0x0059D8B0 0x00000001
+_L 0x00889A5F 0x00000001
+
+;Don't need to input the attack manually
+;Also doesn't need Swordian Dymlos equipped
+;Inputs: O, X, ↑+O, ↓+X, ↑+□, O, O, ↓+□
+_C0 Automatic Final Fury
+_L 0x20042D2C 0x53E00007
+_L 0x20043454 0x54000009
+
+;Allows Base->Base, Arcane->Base, Arcane->Arcane
+;Basically ignores the Arte Type order (A -> B -> C -> D)
+_C0 Arte Canceling ignores Type
+_L 0x20037214 0x10000033
+
+;Halves casting time
+;Affects also enemies' casting time
+_C0 Mystic Symbol Effect
+_L 0x2002FAE4 0x53E00009
+_L 0x2002FB00 0x24030001
+
+;Periodically recover 1 TP
+_C0 Spirit Ring Effect
+_L 0x2002C6CC 0x10600001
+
+;Afterimage effect
+_C0 Mirror Patch Effect
+_L 0x2002B244 0x24020001
+_L 0x2002B248 0xA2820235
+
+_C0 No TP use
+_L 0x2008C2E4 0x00601821
+_L 0x200B4F5C 0x00401023
+
+;Special interaction when using the Arte Jiraya
+_C0 Suzu's Jiraiya always fails
+_L 0x20045D34 0x10000010
+
+;Get resurrected with 50% HP
+_C0 Rebirth Doll Effect
+_L 0x0059D8B8 0x0000000F
+_L 0x0059DB80 0x0000000F
+_L 0x0059DE48 0x0000000F
+_L 0x0059E110 0x0000000F
+
+;Absorb every damage type
+_C0 Damage Absorption
+_L 0x1059D806 0x0000F0F0
+_L 0x2059D808 0xF0F0F0F0
+_L 0x2059D80C 0x00F0F0F0
+_L 0x1059DACE 0x0000F0F0
+_L 0x2059DAD0 0xF0F0F0F0
+_L 0x2059DAD4 0x00F0F0F0
+_L 0x1059DD96 0x0000F0F0
+_L 0x2059DD98 0xF0F0F0F0
+_L 0x2059DD9C 0x00F0F0F0
+_L 0x1059E05E 0x0000F0F0
+_L 0x2059E060 0xF0F0F0F0
+_L 0x2059E064 0x00F0F0F0
+
+_C0 Always Critical Hit
+_L 0x0059D833 0x00000064
+_L 0x0059DAFB 0x00000064
+_L 0x0059DDC3 0x00000064
+_L 0x0059E08B 0x00000064
+
+;Eliminates the restrictions that Dark Seal, Demon Seal and Mirror Image (Suzu's arte) impose
+_C0 Artes cannot be Disabled
+_L 0x0059D8A5 0x00000000
+_L 0x0059D8A6 0x00000000
+_L 0x0059DB6D 0x00000000
+_L 0x0059DB6E 0x00000000
+_L 0x0059DE35 0x00000000
+_L 0x0059DE36 0x00000000
+_L 0x0059E0FD 0x00000000
+_L 0x0059E0FE 0x00000000
+
+_C0 Super High Jump
+_L 0x0059D74D 0x00000000
+
+;Hourglass, Chronos' Hourglass and Time Stop effect last forever
+_C0 Time Stop last forever
+_L 0x200708E8 0x24840000
+
+;+90% faster flee
+_C0 Faster Flee Speed
+_L 0x0059D8B7 0x00000009
+
+;Makes Klarth's Mystic Arte actually useful
+_C0 Klarth's MA recovers 7650HP
+_L 0x10054A2C 0x00001DE2
+_L 0x10054A44 0x00001DE2
+
+;Restores Suzu's inputs as they were in japanese TOPX
+;O + ← / → becomes kunai throw
+;O + ↓ becomes aerial 3 hit combo
+_C0 Suzu unmodified Inputs
+_L 0x001AF2C3 0x00000047
+_L 0x001AF2C5 0x0000004B
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;PARTY FORMATION CODES
+;Each pair of lines represents a position in the formation
+;The value is the Character (ID)
+
+_C0 TOPX Party Formation Modifier
+_M 0xCF000000 0x00000004  
+
+;Cless (1), Chester (5), Suzu (6), Rody (7), Mint (2), Arche (3), Klarth (4)
+_C0 Fighters Party
+_L 0x008893D0 0x00000001
+_L 0x00889AC4 0x00000001
+_L 0x008893D2 0x00000005
+_L 0x00889AC6 0x00000005
+_L 0x008893D4 0x00000006
+_L 0x00889AC8 0x00000006
+_L 0x008893D6 0x00000007
+_L 0x00889ACA 0x00000007
+_L 0x008893D8 0x00000002
+_L 0x00889ACC 0x00000002
+_L 0x008893DA 0x00000003
+_L 0x00889ACE 0x00000003
+_L 0x008893DC 0x00000004
+_L 0x00889AD0 0x00000004
+
+;Cless (1), Mint (2), Arche (3), Klarth (4), Chester (5), Suzu (6), Rody (7)
+_C0 Magic Party
+_L 0x008893D0 0x00000001
+_L 0x00889AC4 0x00000001
+_L 0x008893D2 0x00000002
+_L 0x00889AC6 0x00000002
+_L 0x008893D4 0x00000003
+_L 0x00889AC8 0x00000003
+_L 0x008893D6 0x00000004
+_L 0x00889ACA 0x00000004
+_L 0x008893D8 0x00000005
+_L 0x00889ACC 0x00000005
+_L 0x008893DA 0x00000006
+_L 0x00889ACE 0x00000006
+_L 0x008893DC 0x00000007
+_L 0x00889AD0 0x00000007
+
+;This will delete all of the other characters, useful for solo runs
+;You can add them back in the Debug Room or with codes
+;Cless (1)
+_C0 Solo Cless
+_L 0x008893D0 0x00000001
+_L 0x00889AC4 0x00000001
+_L 0x008893D2 0x00000000
+_L 0x00889AC6 0x00000000
+_L 0x008893D4 0x00000000
+_L 0x00889AC8 0x00000000
+_L 0x008893D6 0x00000000
+_L 0x00889ACA 0x00000000
+_L 0x008893D8 0x00000000
+_L 0x00889ACC 0x00000000
+_L 0x008893DA 0x00000000
+_L 0x00889ACE 0x00000000
+_L 0x008893DC 0x00000000
+_L 0x00889AD0 0x00000000
+
+;Useful for adding Rody to the party after the instances where she leaves
+;7th position so she doesn't overwrite anyone
+;Change character positions in formation at least once to bring her to the first available space
+;Your Party, Rody (7)
+_C0 Rody in 7th position
+_L 0x008893DC 0x00000007
+_L 0x00889AD0 0x00000007
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;EQUIPMENT CODES
+;These codes will delete the items currently equipped by the characters
+
+_C0 TOPX Equipment Modifier
+_M 0xCF000002 0x00000007
+
+;Excalibur, Gold Armor, Blue Shield, Golden Helm, Hyper Gauntlets, Faerie Ring, Persian Boots
+_C0 Best equipment Cless
+_L 0x10888F0C 0x000000BA
+_L 0x10888F0E 0x0000010B
+_L 0x10888F10 0x00000120
+_L 0x10888F12 0x00000128
+_L 0x10888F14 0x0000013C
+_L 0x10888F16 0x00000168
+_L 0x10888F18 0x00000151
+
+;Blue Crystal Rod, Star Cloak, Shield Ring, Star Cap, Bridal Gloves, Unicorn Earring, Persian Boots
+_C0 Best equipment Mint
+_L 0x10888FAC 0x000000E7
+_L 0x10888FAE 0x00000110
+_L 0x10888FB0 0x00000121
+_L 0x10888FB2 0x0000012E
+_L 0x10888FB4 0x00000141
+_L 0x10888FB6 0x0000017F
+_L 0x10888FB8 0x00000151
+
+;Star Broom, Witch Dress, Shield Ring, Magical Ribbon, Mother's Mittens, Faerie Ring, Mystic Symbol
+_C0 Best equipment Arche
+_L 0x1088904C 0x000000F8
+_L 0x1088904E 0x00000112
+_L 0x10889050 0x00000121
+_L 0x10889052 0x00000135
+_L 0x10889054 0x00000140
+_L 0x10889056 0x00000168
+_L 0x10889058 0x0000017C
+
+;True Magic, Star Cloak, Shield Ring, Star Cap, ---, Emerald (Pact Ring), Mystic Symbol
+_C0 Best equipment Klarth
+_L 0x108890EC 0x000000F2
+_L 0x108890EE 0x00000110
+_L 0x108890F0 0x00000121
+_L 0x108890F2 0x0000012E
+_L 0x108890F4 0x00000000
+_L 0x108890F6 0x0000015C
+_L 0x108890F8 0x0000017C
+
+;Elven Bow II, Mumbane, Shield Ring, Star Cap, Star Gloves, Faerie Ring, Persian Boots
+_C0 Best equipment Chester
+_L 0x1088918C 0x000000DF
+_L 0x1088918E 0x0000010A
+_L 0x10889190 0x00000121
+_L 0x10889192 0x0000012E
+_L 0x10889194 0x0000013B
+_L 0x10889196 0x00000168
+_L 0x10889198 0x00000151
+
+;Chizakura, Kannazuki, Shield Ring, Ninja Mask, Claw Gauntlet, Faerie Ring, Persian Boots
+_C0 Best equipment Suzu
+_L 0x1088922C 0x000000FE
+_L 0x1088922E 0x00000116
+_L 0x10889230 0x00000121
+_L 0x10889232 0x00000130
+_L 0x10889234 0x0000013D
+_L 0x10889236 0x00000168
+_L 0x10889238 0x00000151
+
+;Dragunov, Star Cloak, Shield Ring, Star Cap, Bridal Gloves, Faerie Ring, Persian Boots
+_C0 Best equipment Rody
+_L 0x108892CC 0x000000C1
+_L 0x108892CE 0x00000110
+_L 0x108892D0 0x00000121
+_L 0x108892D2 0x0000012E
+_L 0x108892D4 0x00000141
+_L 0x108892D6 0x00000168
+_L 0x108892D8 0x00000151
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;SKILL CODES
+;These codes will unlock all Artes / Spells of the selected character
+
+_C0 TOPX Skills Modifier
+_M 0xCF000002 0x00000008
+
+_C0 All Skills Cless
+_L 0x20888F20 0x04030201
+_L 0x20888F24 0x0E061005
+_L 0x20888F28 0x0F07110C
+_L 0x20888F2C 0x0A090D08
+_L 0x20888F30 0x1413120B
+_L 0x20888F34 0x18171615
+_L 0x20888F38 0x1C1B1A19
+_L 0x20888F3C 0x201F1E1D
+_L 0x20888F40 0x24232221
+
+
+;Give 100% mastery in every Cless' Base Arte
+_C0 Skills 100% Cless
+_L 0x20889A40 0xFFFFFFFF
+_L 0x20889A44 0xFFFFFFFF
+_L 0x20889A48 0x00FFFFFF
+_L 0x20889A4C 0x01010101
+_L 0x20889A50 0x01010101
+_L 0x20889A54 0x01010101
+_L 0x20889A58 0x01010101
+_L 0x10889A5C 0x00000101
+_L 0x00889A5F 0x00000001
+
+_C0 All Skills Mint
+_L 0x20888FC0 0x6669635B 
+_L 0x20888FC4 0x6760655C 
+_L 0x20888FC8 0x6C616B5E 
+_L 0x20888FCC 0x626A645D 
+_L 0x10888FD0 0x0000685F 
+
+_C0 All Skills Arche
+_L 0x20889060 0x3B423E37 
+_L 0x20889064 0x383F4346 
+_L 0x20889068 0x4A473C4C 
+_L 0x2088906C 0x40484439 
+_L 0x20889070 0x3D3A4945 
+_L 0x20889074 0x4B4D4E41 
+
+_C0 All Skills Klarth
+_L 0x20889100 0x5251504F 
+_L 0x20889104 0x56555453 
+_L 0x20889108 0x5A595857 
+
+_C0 All Skills Chester
+_L 0x208891A0 0x2A272625 
+_L 0x208891A4 0x2C29282B 
+_L 0x008891A8 0x0000002D 
+
+_C0 All Skills Suzu
+_L 0x20889240 0x3130322E 
+_L 0x20889244 0x2F353433 
+_L 0x00889248 0x00000036 
+
+_C0 All Skills Rody
+_L 0x208892E0 0x74737271 
+_L 0x208892E4 0x77757876 
+_L 0x208892E8 0x43423E37 
+_L 0x108892EC 0x00003F4C 
+_L 0x008892EE 0x0000003C
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;SELECTED SKILL CODES
+;These codes will modify the Artes / Spells equipped 
+;to each of the 4 slots of the controlled character
+;Full list of IDs below, if you want to modify a code
+;just change the value (XX) for the ID of another skill 
+;0x000000XX -> 0x000000ID
+;You can use any attack with any character, but results may vary
+
+_C0 TOPX Selected Skills Modifier
+_M 0xCF000002 0x0000001C
+
+_C0 Cless Neutral: Chaos Distortion Blade
+_L 0x00888F44 0x00000023
+
+_C0 Cless Up: Hell Pyre
+_L 0x00888F45 0x0000000D
+
+_C0 Cless Down: Beast Sword Rain
+_L 0x00888F46 0x00000019 
+
+_C0 Cless Side: Lightning Tiger Blast
+_L 0x00888F47 0x0000001C
+
+
+_C0 Mint Neutral: Revitalize 
+_L 0x00888FE4 0x0000005F
+
+_C0 Mint Up: Resurrection 
+_L 0x00888FE5 0x00000062
+
+_C0 Mint Down: Time Stop
+_L 0x00888FE6 0x00000068
+
+_C0 Mint Side: Recover
+_L 0x00888FE7 0x00000061
+
+
+_C0 Arche Neutral: Big Bang 
+_L 0x00889084 0x0000004B
+
+_C0 Arche Up: Meteor Storm  
+_L 0x00889085 0x0000004D
+
+_C0 Arche Down: Indignation 
+_L 0x00889086 0x0000003D
+
+_C0 Arche Side: God's Breath 
+_L 0x00889087 0x00000049
+
+
+_C0 Klarth Neutral: Pluto 
+_L 0x00889124 0x0000005A
+
+_C0 Klarth Up: Aska
+_L 0x00889125 0x00000056
+
+_C0 Klarth Down: Gremlin Lair
+_L 0x00889126 0x00000059
+
+_C0 Klarth Side: Origin
+_L 0x00889127 0x00000058
+
+
+_C0 Chester Neutral: Dragon Slayer
+_L 0x008891C4 0x0000002D
+
+_C0 Chester Up: Eagle Shot
+_L 0x008891C5 0x00000028
+
+_C0 Chester Down: Sonic Bash
+_L 0x008891C6 0x0000002A
+
+_C0 Chester Side: Gale Shot
+_L 0x008891C7 0x00000029
+
+
+_C0 Suzu Neutral: Flare Blitz
+_L 0x00889264 0x00000033
+
+_C0 Suzu Up: Crow Blade
+_L 0x00889265 0x00000030
+
+_C0 Suzu Down: Hell Rush 
+_L 0x00889266 0x0000002F
+
+_C0 Suzu Side: Merciless Thunder
+_L 0x00889267 0x00000034
+
+
+_C0 Rody Neutral: Rainbow Road
+_L 0x00889304 0x00000076
+
+_C0 Rody Up: Trick Glide
+_L 0x00889305 0x00000075
+
+_C0 Rody Down: Serpent Edge
+_L 0x00889306 0x00000077
+
+_C0 Rody Side: Shallow Crescent
+_L 0x00889307 0x00000074
+
+
+;FULL ID LIST
+;+==============================+======================+=========================+
+;|      --- CLESS ---           |   --- ARCHE ---      |     --- MINT ---        |
+;| 01 = Demon Fang              | 37 = Fire Ball       | 5B = First Aid          |
+;| 02 = Swallow Dance           | 38 = Eruption        | 5C = Heal               |
+;| 03 = Lightning Tiger Blade   | 39 = Fire Storm      | 5D = Cure               |
+;| 04 = Sword Rain: Alpha       | 3A = Explosion       | 5E = Nurse              |
+;| 05 = Tiger Blade             | 3B = Lightning       | 5F = Revitalize         |
+;| 06 = Rising Phoenix          | 3C = Thunder Blade   | 60 = Antidote           |
+;| 07 = Beast                   | 3D = Indignation     | 61 = Recover            |
+;| 08 = Light Spear             | 3E = Ice Needles     | 62 = Resurrection       |
+;| 09 = Chaos Blade             | 3F = Ice Tornado     | 63 = Pow Hammer         |
+;| 0A = Void Shift              | 40 = Maelstrom       | 64 = Pow Pow Hammer     |
+;| 0B = Distortion Blade        | 41 = Tidal Wave      | 65 = Acid Rain          |
+;| 0C = Void Tempest            | 42 = Stone Blast     | 66 = Deep Mist          |
+;| 0D = Hell Pyre               | 43 = Grave           | 67 = Silence            |
+;| 0E = Guardian Field          | 44 = Rock Mountain   | 68 = Time Stop          |
+;| 0F = Coil                    | 45 = Earthquake      | 69 = Charge             |
+;| 10 = Focus                   | 46 = Storm           | 6A = Barrier            |
+;| 11 = Center                  | 47 = Cyclone         | 6B = Sharpness          |
+;| 12 = Final Fury              | 48 = Tempest         | 6C = Dispel             |
+;| 13 = Demonic Swallow Kick    | 49 = God's Breath    | 6D = Holy Wall (Dummy)  |
+;| 14 = Demonic Tiger Blade     | 4A = Ray             | 6E = Haste (Dummy)      |
+;| 15 = Demonic Sword Rain      | 4B = Big Bang        | 6F = Delay (Dummy)      |
+;| 16 = Demon Spear             | 4C = Tractor Beam    |                         |
+;| 17 = Beast Swallow Kick      | 4D = Meteor Storm    |   --- CHESTER ---       |
+;| 18 = Beast Blade             | 4E = Black Hole      | 25 = Hell Flare         |
+;| 19 = Beast Sword Rain        |                      | 26 = Ice Fang           |
+;| 1A = Beast Spear             |   --- KLARTH ---     | 27 = Thunder Blitz      |
+;| 1B = Lightning Swallow Kick  | 4F = Sylph           | 28 = Eagle Shot         |
+;| 1C = Lightning Tiger Blast   | 50 = Undine          | 29 = Gale Shot          |
+;| 1D = Lightning Tiger Thrust  | 51 = Gnome           | 2A = Sonic Bash         |
+;| 1E = Lightning Tiger Spear   | 52 = Efreet          | 2B = Wild Rain          |
+;| 1F = Phoenix Dance           | 53 = Maxwell         | 2C = Giga Fang          |
+;| 20 = Phoenix Blade           | 54 = Luna            | 2D = Dragon Slayer      |
+;| 21 = Phoenix Sword Rain      | 55 = Shadow          |                         |
+;| 22 = Phoenix Spear           | 56 = Aska            |     --- SUZU ---        |
+;| 23 = Chaos Distortion Blade  | 57 = Volt            | 2E = Mirror Image       |
+;| 24 = Chaotic Void            | 58 = Origin          | 2F = Hell Rush          |
+;|                              | 59 = Gremlin Lair    | 30 = Crow Blade         |
+;|      --- RODY ---            | 5A = Pluto           | 31 = Shadow Storm       |
+;| 71 = Swallow Turn            |                      | 32 = Secret Thief       |
+;| 72 = Swallow Fang            |                      | 33 = Flare Blitz        |
+;| 73 = Swallow Crescent        |                      | 34 = Merciless Thunder  |
+;| 74 = Shallow Crescent        |                      | 35 = Omega Storm        |
+;| 75 = Trick Glide             |                      | 36 = Jiraiya            |
+;| 76 = Rainbow Road            |                      |                         |
+;| 77 = Serpent Edge            |                      |                         |
+;| 78 = Sensitive Eyes          |                      |                         |
+;+==============================+======================+=========================+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;STATS CODES
+;Each pair of lines represents a stat in this order:
+;HP, TP, Strength, Constitution, Agility, Luck
+
+_C0 TOPX Stats Modifier
+_M 0xCF000002 0x00000007
+
+_C0 Max Stats Cless
+_L 0x10888EE6 0x0000270F
+_L 0x10888EE8 0x0000270F
+_L 0x10888EEC 0x000003E7
+_L 0x10888EEE 0x000003E7
+_L 0x10888EEF 0x000003E7
+_L 0x10888EF0 0x000003E7
+_L 0x10888EF2 0x000003E7
+_L 0x10888EF4 0x000003E7
+_L 0x10888EF8 0x000003E7
+_L 0x10888EFC 0x000003E7
+_L 0x10888EFE 0x000003E7
+_L 0x10888F00 0x000003E7
+
+_C0 Max Stats Mint
+_L 0x10888F86 0x0000270F
+_L 0x10888F88 0x0000270F
+_L 0x10888F8C 0x000003E7
+_L 0x10888F8E 0x000003E7
+_L 0x10888F8F 0x000003E7
+_L 0x10888F90 0x000003E7
+_L 0x10888F92 0x000003E7
+_L 0x10888F94 0x000003E7
+_L 0x10888F98 0x000003E7
+_L 0x10888F9C 0x000003E7
+_L 0x10888F9E 0x000003E7
+_L 0x10888FA0 0x000003E7
+
+_C0 Max Stats Arche
+_L 0x10889026 0x0000270F
+_L 0x10889028 0x0000270F
+_L 0x1088902C 0x000003E7
+_L 0x1088902E 0x000003E7
+_L 0x1088902F 0x000003E7
+_L 0x10889030 0x000003E7
+_L 0x10889032 0x000003E7
+_L 0x10889034 0x000003E7
+_L 0x10889038 0x000003E7
+_L 0x1088903C 0x000003E7
+_L 0x1088903E 0x000003E7
+_L 0x10889040 0x000003E7
+
+_C0 Max Stats Klarth
+_L 0x108890C6 0x0000270F
+_L 0x108890C8 0x0000270F
+_L 0x108890CC 0x000003E7
+_L 0x108890CE 0x000003E7
+_L 0x108890CF 0x000003E7
+_L 0x108890D0 0x000003E7
+_L 0x108890D2 0x000003E7
+_L 0x108890D4 0x000003E7
+_L 0x108890D8 0x000003E7
+_L 0x108890DC 0x000003E7
+_L 0x108890DE 0x000003E7
+_L 0x108890E0 0x000003E7
+
+_C0 Max Stats Chester
+_L 0x10889166 0x0000270F
+_L 0x10889168 0x0000270F
+_L 0x1088916C 0x000003E7
+_L 0x1088916E 0x000003E7
+_L 0x1088916F 0x000003E7
+_L 0x10889170 0x000003E7
+_L 0x10889172 0x000003E7
+_L 0x10889174 0x000003E7
+_L 0x10889178 0x000003E7
+_L 0x1088917C 0x000003E7
+_L 0x1088917E 0x000003E7
+_L 0x10889180 0x000003E7
+
+_C0 Max Stats Suzu
+_L 0x10889206 0x0000270F
+_L 0x10889208 0x0000270F
+_L 0x1088920C 0x000003E7
+_L 0x1088920E 0x000003E7
+_L 0x1088920F 0x000003E7
+_L 0x10889210 0x000003E7
+_L 0x10889212 0x000003E7
+_L 0x10889214 0x000003E7
+_L 0x10889218 0x000003E7
+_L 0x1088921C 0x000003E7
+_L 0x1088921E 0x000003E7
+_L 0x10889220 0x000003E7
+
+_C0 Max Stats Rody
+_L 0x108892A6 0x0000270F
+_L 0x108892A8 0x0000270F
+_L 0x108892AC 0x000003E7
+_L 0x108892AE 0x000003E7
+_L 0x108892AF 0x000003E7
+_L 0x108892B0 0x000003E7
+_L 0x108892B2 0x000003E7
+_L 0x108892B4 0x000003E7
+_L 0x108892B8 0x000003E7
+_L 0x108892BC 0x000003E7
+_L 0x108892BE 0x000003E7
+_L 0x108892C0 0x000003E7
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;UNLOCK CODES
+;Codes to unlock / master different game collections
+
+_C0 TOPX Full Completion
+_M 0xCF000002 0x00000008
+
+_C0 Max Gald
+_L 0x208893E8 0x0098967F
+
+_C0 Complete Collector's Book
+_L 0x20889A00 0xFFFFFFFE
+_L 0x20889A2C 0xFFFFBFFF
+_L 0x10889A30 0x0000FFFF
+_L 0x00889A32 0x00000007
+_L 0x40889A04 0x000A0001
+_L 0xFFFFFFFF 0x00000000
+
+_C0 Complete Monster Book
+_L 0x20889AF0 0x1F1F1F00
+_L 0x10889BDC 0x00001F1F
+_L 0x00889BDE 0x0000001F
+_L 0x40889AF4 0x003A0001
+_L 0x1F1F1F1F 0x00000000
+
+_C0 Unlock all Titles
+_L 0x20889AD4 0x0000FFFF
+_L 0x20889AD8 0x00007F3F
+_L 0x20889ADC 0x00007F3F
+_L 0x20889AE0 0x00007F3F
+_L 0x20889AE4 0x0000FF3F
+_L 0x20889AE8 0x00007F3F
+_L 0x20889AEC 0x0000000F
+
+_C0 Max Combo set to 999
+_L 0x20889AA8 0x000003E7
+
+_C0 Encounters set to 999999
+_L 0x20889AA4 0x000F423F
+
+;Unlocks Cless' Berserk title 
+_C0 256 Battles fought on Hard
+_L 0x10889C30 0x00000100
+
+;Savedata is set as if it's on NG+
+;Unlock Mania / Soundmode
+_C0 Clear Flag ON
+_L 0x00889C40 0x00000001
+_L 0x0088A3FC 0x00000001
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;COOKING CODES
+;Codes to unlock / master every recipe
+
+_C0 TOPX Cooking
+_M 0xCF000002 0x00000009
+
+_C0 Unlock all Recipes
+_L 0x20889C24 0x01FFFFFF
+
+_C0 Infinite Cooking
+_L 0x200C0C14 0x5000000C
+
+_C0 Recipe Mastered after 1 Meal
+_L 0x200C12B0 0x54000003
+
+_C0 All Recipes Mastered Cless
+_L 0x00888F51 0x00000064
+_L 0x10888F52 0x00006464
+_L 0x20888F54 0x64646464
+_L 0x20888F58 0x64646464
+_L 0x20888F5C 0x64646464
+_L 0x20888F60 0x64646464
+_L 0x20888F64 0x64646464
+_L 0x10888F68 0x00006464
+
+_C0 All Recipes Mastered Mint
+_L 0x00888FF1 0x00000064
+_L 0x10888FF2 0x00006464
+_L 0x20888FF4 0x64646464
+_L 0x20888FF8 0x64646464
+_L 0x20888FFC 0x64646464
+_L 0x20889000 0x64646464
+_L 0x20889004 0x64646464
+_L 0x10889008 0x00006464
+
+_C0 All Recipes Mastered Arche
+_L 0x00889091 0x00000064
+_L 0x10889092 0x00006464
+_L 0x20889094 0x64646464
+_L 0x20889098 0x64646464
+_L 0x2088909C 0x64646464
+_L 0x208890A0 0x64646464
+_L 0x208890A4 0x64646464
+_L 0x108890A8 0x00006464
+
+_C0 All Recipes Mastered Klarth
+_L 0x00889131 0x00000064
+_L 0x10889132 0x00006464
+_L 0x20889134 0x64646464
+_L 0x20889138 0x64646464
+_L 0x2088913C 0x64646464
+_L 0x20889140 0x64646464
+_L 0x20889144 0x64646464
+_L 0x10889148 0x00006464
+
+_C0 All Recipes Mastered Chester
+_L 0x008891D1 0x00000064
+_L 0x108891D2 0x00006464
+_L 0x208891D4 0x64646464
+_L 0x208891D8 0x64646464
+_L 0x208891DC 0x64646464
+_L 0x208891E0 0x64646464
+_L 0x208891E4 0x64646464
+_L 0x108891E8 0x00006464
+
+_C0 All Recipes Mastered Suzu
+_L 0x00889271 0x00000064
+_L 0x10889272 0x00006464
+_L 0x20889274 0x64646464
+_L 0x20889278 0x64646464
+_L 0x2088927C 0x64646464
+_L 0x20889280 0x64646464
+_L 0x20889284 0x64646464
+_L 0x10889288 0x00006464
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;GRADE SHOP EFFECTS CODES
+;Effects able to be selected on NG+
+
+_C0 TOPX Grade Shop
+_M 0xCF000002 0x00000007
+
+_C0 Max Grade
+_L 0x20889C3C 0x0001869F
+
+_C0 Set item capacity to 20
+_L 0x70889C41 0x00000001
+
+_C0 EXP x2
+_L 0x70889C41 0x00000004
+
+_C0 EXP x10
+_L 0x70889C41 0x00000008
+
+_C0 Grade x2
+_L 0x70889C41 0x00000010
+
+_C0 Gald x2
+_L 0x70889C41 0x00000020
+
+;Reset grade shop purchases
+_C0 Reset Grade Effects
+_L 0x00889C41 0x00000000
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;GROOVY ARCHE CODES
+;Groovy Arche is a shoot 'em up style minigame playable in Future Thor
+
+_C0 TOPX Groovy Arche
+_M 0xCF000002 0x00000005
+
+_C0 Max Score
+_L 0x21581B80 0x0098967F
+
+_C0 Invincible
+_L 0x01581B5C 0x000000FF
+
+_C0 Max Energy
+_L 0x11581B62 0x00001000
+
+_C0 Always Max Weapons
+_L 0x01581B64 0x00000002
+_L 0x01581B66 0x00000002
+_L 0x01581B68 0x00000002
+
+_C0 Crab
+_L 0x01581B9E 0x00000002
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;ITEM CODES
+;
+;Be careful to not overwrite items or duplicate them in different slots
+;
+;If you want to change the slot to 1 (not recommended):
+;Change the 2nd line address 0x108898E6 -> 0x108895F0
+;If you overwrite an item you'll need cheats to be able to see it again!!
+;If you duplicate an item on different slots, try to equip and unequip it or just delete it
+;
+;If you want to change the quantity (x1):
+;Change the 1st line value from anything between 1 to 15 (or 20 on NG+)
+;(0x00000001 to 0x00000020)
+;
+;If you already have the item and only want to edit its quantity:
+;Delete the second line entirely
+;This will avoid item duplication on different slots
+
+_C0 TOPX Item Slot 380 Modifier
+_M 0xCF000000 0x00000192     
+
+_C0 ?Sword (Long Sword)
+_L 0x008893F1 0x00000001
+_L 0x108898E6 0x00000001
+
+_C0 ?Sword (Fame and Faith)
+_L 0x008893F2 0x00000001
+_L 0x108898E6 0x00000002
+
+_C0 ?Sword (Slayer Sword)
+_L 0x008893F3 0x00000001
+_L 0x108898E6 0x00000003
+
+_C0 ?Sword (Moon Falx)
+_L 0x008893F4 0x00000001
+_L 0x108898E6 0x00000004
+
+_C0 ?Sword (Holy Sword)
+_L 0x008893F5 0x00000001
+_L 0x108898E6 0x00000005
+
+_C0 ?Sword (Dragon's Tooth)
+_L 0x008893F6 0x00000001
+_L 0x108898E6 0x00000006
+
+_C0 ?Sword (Flare Basilard)
+_L 0x008893F7 0x00000001
+_L 0x108898E6 0x00000007
+
+_C0 ?Sword (Ice Coffin)
+_L 0x008893F8 0x00000001
+_L 0x108898E6 0x00000008
+
+_C0 ?Sword (Duelist's Sword)
+_L 0x008893F9 0x00000001
+_L 0x108898E6 0x00000009
+
+_C0 ?Sword (Blessed Blade)
+_L 0x008893FA 0x00000001
+_L 0x108898E6 0x0000000A
+
+_C0 ?Sword (Vizier's Rapier)
+_L 0x008893FB 0x00000001
+_L 0x108898E6 0x0000000B
+
+_C0 ?Sword (Saint's Rapier)
+_L 0x008893FC 0x00000001
+_L 0x108898E6 0x0000000C
+
+_C0 ?Sword (Doom Blade)
+_L 0x008893FD 0x00000001
+_L 0x108898E6 0x0000000D
+
+_C0 ?Sword (Excalibur)
+_L 0x008893FE 0x00000001
+_L 0x108898E6 0x0000000E
+
+_C0 ?Spear (Arc Wind)
+_L 0x008893FF 0x00000001
+_L 0x108898E6 0x0000000F
+
+_C0 ?Axe (Strike Axe)
+_L 0x00889400 0x00000001
+_L 0x108898E6 0x00000010
+
+_C0 ?Axe (Bahamut's Tear)
+_L 0x00889401 0x00000001
+_L 0x108898E6 0x00000011
+
+_C0 ?Halberd (Saint's Halberd)
+_L 0x00889402 0x00000001
+_L 0x108898E6 0x00000012
+
+_C0 ?Bow (Self Longbow)
+_L 0x00889403 0x00000001
+_L 0x108898E6 0x00000013
+
+_C0 ?Bow (Aqua Spreader)
+_L 0x00889404 0x00000001
+_L 0x108898E6 0x00000014
+
+_C0 ?Bow (Flare Spreader)
+_L 0x00889405 0x00000001
+_L 0x108898E6 0x00000015
+
+_C0 ?Bow (Sand Spreader)
+_L 0x00889406 0x00000001
+_L 0x108898E6 0x00000016
+
+_C0 ?Bow (Gale Spreader)
+_L 0x00889407 0x00000001
+_L 0x108898E6 0x00000017
+
+_C0 ?Bow (Merciless Bow)
+_L 0x00889408 0x00000001
+_L 0x108898E6 0x00000018
+
+_C0 ?Bow (Berserker Bow)
+_L 0x00889409 0x00000001
+_L 0x108898E6 0x00000019
+
+_C0 ?Rod (Rod)
+_L 0x0088940A 0x00000001
+_L 0x108898E6 0x0000001A
+
+_C0 ?Rod (Rune Staff)
+_L 0x0088940B 0x00000001
+_L 0x108898E6 0x0000001B
+
+_C0 ?Rod (Star Mace)
+_L 0x0088940C 0x00000001
+_L 0x108898E6 0x0000001C
+
+_C0 ?Book (Naughty Magazine)
+_L 0x0088940D 0x00000001
+_L 0x108898E6 0x0000001D
+
+_C0 ?Book (The King in Yellow)
+_L 0x0088940E 0x00000001
+_L 0x108898E6 0x0000001E
+
+_C0 ?Book (Liber Ivonis)
+_L 0x0088940F 0x00000001
+_L 0x108898E6 0x0000001F
+
+_C0 ?Book (Seven Books of Hsan)
+_L 0x00889410 0x00000001
+_L 0x108898E6 0x00000020
+
+_C0 ?Book (Massa di Requiem)
+_L 0x00889411 0x00000001
+_L 0x108898E6 0x00000021
+
+_C0 ?Book (True Magic)
+_L 0x00889412 0x00000001
+_L 0x108898E6 0x00000022
+
+_C0 ?Cloth (Star Cloak)
+_L 0x00889413 0x00000001
+_L 0x108898E6 0x00000023
+
+_C0 ?Cloth (Mythril Mesh)
+_L 0x00889414 0x00000001
+_L 0x108898E6 0x00000024
+
+_C0 ?Armor (Leather Armor)
+_L 0x00889415 0x00000001
+_L 0x108898E6 0x00000025
+
+_C0 ?Armor (Reflex)
+_L 0x00889416 0x00000001
+_L 0x108898E6 0x00000026
+
+_C0 ?Armor (Mumbane)
+_L 0x00889417 0x00000001
+_L 0x108898E6 0x00000027
+
+_C0 ?Armor (Gold Armor)
+_L 0x00889418 0x00000001
+_L 0x108898E6 0x00000028
+
+_C0 ?Helmet (Leather Helm)
+_L 0x00889419 0x00000001
+_L 0x108898E6 0x00000029
+
+_C0 ?Helmet (Duelist's Helm)
+_L 0x0088941A 0x00000001
+_L 0x108898E6 0x0000002A
+
+_C0 ?Helmet (Star Helm)
+_L 0x0088941B 0x00000001
+_L 0x108898E6 0x0000002B
+
+_C0 ?Beret (Star Cap)
+_L 0x0088941C 0x00000001
+_L 0x108898E6 0x0000002C
+
+_C0 ?Spear (Corsesca)
+_L 0x0088941D 0x00000001
+_L 0x108898E6 0x0000002D
+
+_C0 ?Axe (Battle Axe)
+_L 0x0088941E 0x00000001
+_L 0x108898E6 0x0000002E
+
+_C0 ?Bow (Crescent Bow)
+_L 0x0088941F 0x00000001
+_L 0x108898E6 0x0000002F
+
+_C0 Pendant
+_L 0x00889420 0x00000001
+_L 0x108898E6 0x00000030
+
+_C0 Stuffed Cless
+_L 0x00889421 0x00000001
+_L 0x108898E6 0x00000031
+
+_C0 Unicorn Earring
+_L 0x00889422 0x00000001
+_L 0x108898E6 0x00000032
+
+_C0 Wraith Ruby
+_L 0x00889423 0x00000001
+_L 0x108898E6 0x00000033
+
+_C0 Morrison's Book
+_L 0x00889424 0x00000001
+_L 0x108898E6 0x00000034
+
+_C0 Broken Bow
+_L 0x00889425 0x00000001
+_L 0x108898E6 0x00000035
+
+_C0 Elemental Orb
+_L 0x00889426 0x00000001
+_L 0x108898E6 0x00000036
+
+_C0 Demeter's Key
+_L 0x00889427 0x00000001
+_L 0x108898E6 0x00000037
+
+_C0 Moria Mine Permit
+_L 0x00889428 0x00000001
+_L 0x108898E6 0x00000038
+
+_C0 Royal Crest
+_L 0x00889429 0x00000001
+_L 0x108898E6 0x00000039
+
+_C0 Lundgrom's Letter
+_L 0x0088942A 0x00000001
+_L 0x108898E6 0x0000003A
+
+_C0 Broken Rings
+_L 0x0088942B 0x00000001
+_L 0x108898E6 0x0000003B
+
+_C0 Lava Key
+_L 0x0088942C 0x00000001
+_L 0x108898E6 0x0000003C
+
+_C0 Card
+_L 0x0088942D 0x00000001
+_L 0x108898E6 0x0000003D
+
+_C0 Mysterious Mirror
+_L 0x0088942E 0x00000001
+_L 0x108898E6 0x0000003E
+
+_C0 Golden Key
+_L 0x0088942F 0x00000001
+_L 0x108898E6 0x0000003F
+
+_C0 Wing Pack
+_L 0x00889430 0x00000001
+_L 0x108898E6 0x00000040
+
+_C0 Ancient Scroll
+_L 0x00889431 0x00000001
+_L 0x108898E6 0x00000041
+
+_C0 Rozania's Dress
+_L 0x00889432 0x00000001
+_L 0x108898E6 0x00000042
+
+_C0 Common Key
+_L 0x00889433 0x00000001
+_L 0x108898E6 0x00000043
+
+_C0 Sacred Wood
+_L 0x00889434 0x00000001
+_L 0x108898E6 0x00000044
+
+_C0 Quicksilver
+_L 0x00889435 0x00000001
+_L 0x108898E6 0x00000045
+
+_C0 Agalloch Incense
+_L 0x00889436 0x00000001
+_L 0x108898E6 0x00000046
+
+_C0 Ukiyo-e
+_L 0x00889437 0x00000001
+_L 0x108898E6 0x00000047
+
+_C0 Coral
+_L 0x00889438 0x00000001
+_L 0x108898E6 0x00000048
+
+_C0 Marble
+_L 0x00889439 0x00000001
+_L 0x108898E6 0x00000049
+
+_C0 Earthenware Pot
+_L 0x0088943A 0x00000001
+_L 0x108898E6 0x0000004A
+
+_C0 Tapestry
+_L 0x0088943B 0x00000001
+_L 0x108898E6 0x0000004B
+
+_C0 Ebony Wood
+_L 0x0088943C 0x00000001
+_L 0x108898E6 0x0000004C
+
+_C0 Pelt
+_L 0x0088943D 0x00000001
+_L 0x108898E6 0x0000004D
+
+_C0 Caterpillar Fungus
+_L 0x0088943E 0x00000001
+_L 0x108898E6 0x0000004E
+
+_C0 Teacup
+_L 0x0088943F 0x00000001
+_L 0x108898E6 0x0000004F
+
+_C0 Shamisen
+_L 0x00889440 0x00000001
+_L 0x108898E6 0x00000050
+
+_C0 Ivory
+_L 0x00889441 0x00000001
+_L 0x108898E6 0x00000051
+
+_C0 Carrot
+_L 0x00889442 0x00000001
+_L 0x108898E6 0x00000052
+
+_C0 Cabbage
+_L 0x00889443 0x00000001
+_L 0x108898E6 0x00000053
+
+_C0 Lettuce
+_L 0x00889444 0x00000001
+_L 0x108898E6 0x00000054
+
+_C0 Radish
+_L 0x00889445 0x00000001
+_L 0x108898E6 0x00000055
+
+_C0 Cucumber
+_L 0x00889446 0x00000001
+_L 0x108898E6 0x00000056
+
+_C0 Potato
+_L 0x00889447 0x00000001
+_L 0x108898E6 0x00000057
+
+_C0 Tomato
+_L 0x00889448 0x00000001
+_L 0x108898E6 0x00000058
+
+_C0 Onion
+_L 0x00889449 0x00000001
+_L 0x108898E6 0x00000059
+
+_C0 Apple
+_L 0x0088944A 0x00000001
+_L 0x108898E6 0x0000005A
+
+_C0 Lemon
+_L 0x0088944B 0x00000001
+_L 0x108898E6 0x0000005B
+
+_C0 Strawberry
+_L 0x0088944C 0x00000001
+_L 0x108898E6 0x0000005C
+
+_C0 Banana
+_L 0x0088944D 0x00000001
+_L 0x108898E6 0x0000005D
+
+_C0 Pineapple
+_L 0x0088944E 0x00000001
+_L 0x108898E6 0x0000005E
+
+_C0 Melon
+_L 0x0088944F 0x00000001
+_L 0x108898E6 0x0000005F
+
+_C0 Grapes
+_L 0x00889450 0x00000001
+_L 0x108898E6 0x00000060
+
+_C0 Mangosteen
+_L 0x00889451 0x00000001
+_L 0x108898E6 0x00000061
+
+_C0 Prune
+_L 0x00889452 0x00000001
+_L 0x108898E6 0x00000062
+
+_C0 Tuna
+_L 0x00889453 0x00000001
+_L 0x108898E6 0x00000063
+
+_C0 Mackerel
+_L 0x00889454 0x00000001
+_L 0x108898E6 0x00000064
+
+_C0 Sardine
+_L 0x00889455 0x00000001
+_L 0x108898E6 0x00000065
+
+_C0 Squid
+_L 0x00889456 0x00000001
+_L 0x108898E6 0x00000066
+
+_C0 Octopus
+_L 0x00889457 0x00000001
+_L 0x108898E6 0x00000067
+
+_C0 Shrimp
+_L 0x00889458 0x00000001
+_L 0x108898E6 0x00000068
+
+_C0 Chicken
+_L 0x00889459 0x00000001
+_L 0x108898E6 0x00000069
+
+_C0 Beef
+_L 0x0088945A 0x00000001
+_L 0x108898E6 0x0000006A
+
+_C0 Pork
+_L 0x0088945B 0x00000001
+_L 0x108898E6 0x0000006B
+
+_C0 Milk
+_L 0x0088945C 0x00000001
+_L 0x108898E6 0x0000006C
+
+_C0 Cheese
+_L 0x0088945D 0x00000001
+_L 0x108898E6 0x0000006D
+
+_C0 Konjac
+_L 0x0088945E 0x00000001
+_L 0x108898E6 0x0000006E
+
+_C0 Kelp
+_L 0x0088945F 0x00000001
+_L 0x108898E6 0x0000006F
+
+_C0 Egg
+_L 0x00889460 0x00000001
+_L 0x108898E6 0x00000070
+
+_C0 Miso
+_L 0x00889461 0x00000001
+_L 0x108898E6 0x00000071
+
+_C0 Bread
+_L 0x00889462 0x00000001
+_L 0x108898E6 0x00000072
+
+_C0 Rice
+_L 0x00889463 0x00000001
+_L 0x108898E6 0x00000073
+
+_C0 Seaweed
+_L 0x00889464 0x00000001
+_L 0x108898E6 0x00000074
+
+_C0 Spices
+_L 0x00889465 0x00000001
+_L 0x108898E6 0x00000075
+
+_C0 Pasta
+_L 0x00889466 0x00000001
+_L 0x108898E6 0x00000076
+
+_C0 Apple Gel
+_L 0x00889467 0x00000001
+_L 0x108898E6 0x00000077
+
+_C0 Orange Gel
+_L 0x00889468 0x00000001
+_L 0x108898E6 0x00000078
+
+_C0 Melange Gel
+_L 0x00889469 0x00000001
+_L 0x108898E6 0x00000079
+
+_C0 Lemon Gel
+_L 0x0088946A 0x00000001
+_L 0x108898E6 0x0000007A
+
+_C0 Pineapple Gel
+_L 0x0088946B 0x00000001
+_L 0x108898E6 0x0000007B
+
+_C0 Miracle Gel
+_L 0x0088946C 0x00000001
+_L 0x108898E6 0x0000007C
+
+_C0 Elixir
+_L 0x0088946D 0x00000001
+_L 0x108898E6 0x0000007D
+
+_C0 Basilisk Scale
+_L 0x0088946E 0x00000001
+_L 0x108898E6 0x0000007E
+
+_C0 Sage
+_L 0x0088946F 0x00000001
+_L 0x108898E6 0x0000007F
+
+_C0 Savory
+_L 0x00889470 0x00000001
+_L 0x108898E6 0x00000080
+
+_C0 Verbena
+_L 0x00889471 0x00000001
+_L 0x108898E6 0x00000081
+
+_C0 Lavender
+_L 0x00889472 0x00000001
+_L 0x108898E6 0x00000082
+
+_C0 Red Sage
+_L 0x00889473 0x00000001
+_L 0x108898E6 0x00000083
+
+_C0 Red Savory
+_L 0x00889474 0x00000001
+_L 0x108898E6 0x00000084
+
+_C0 Red Verbena
+_L 0x00889475 0x00000001
+_L 0x108898E6 0x00000085
+
+_C0 Red Lavender
+_L 0x00889476 0x00000001
+_L 0x108898E6 0x00000086
+
+_C0 Panacea Bottle
+_L 0x00889477 0x00000001
+_L 0x108898E6 0x00000087
+
+_C0 Life Bottle
+_L 0x00889478 0x00000001
+_L 0x108898E6 0x00000088
+
+_C0 Flare Bottle
+_L 0x00889479 0x00000001
+_L 0x108898E6 0x00000089
+
+_C0 Liqueur Bottle
+_L 0x0088947A 0x00000001
+_L 0x108898E6 0x0000008A
+
+_C0 Holy Bottle
+_L 0x0088947B 0x00000001
+_L 0x108898E6 0x0000008B
+
+_C0 Dark Bottle
+_L 0x0088947C 0x00000001
+_L 0x108898E6 0x0000008C
+
+_C0 Rune Bottle
+_L 0x0088947D 0x00000001
+_L 0x108898E6 0x0000008D
+
+_C0 Charm Bottle
+_L 0x0088947E 0x00000001
+_L 0x108898E6 0x0000008E
+
+_C0 Miracle Charm
+_L 0x0088947F 0x00000001
+_L 0x108898E6 0x0000008F
+
+_C0 World Map
+_L 0x00889480 0x00000001
+_L 0x108898E6 0x00000090
+
+_C0 Scout Orb
+_L 0x00889481 0x00000001
+_L 0x108898E6 0x00000091
+
+_C0 Hourglass
+_L 0x00889482 0x00000001
+_L 0x108898E6 0x00000092
+
+_C0 Chronos' Hourglass
+_L 0x00889483 0x00000001
+_L 0x108898E6 0x00000093
+
+_C0 Combo Counter
+_L 0x00889484 0x00000001
+_L 0x108898E6 0x00000094
+
+_C0 Magic Lens
+_L 0x00889485 0x00000001
+_L 0x108898E6 0x00000095
+
+_C0 Pickaxe
+_L 0x00889486 0x00000001
+_L 0x108898E6 0x00000096
+
+_C0 Magical Rouge
+_L 0x00889487 0x00000001
+_L 0x108898E6 0x00000097
+
+_C0 Red Lantern
+_L 0x00889488 0x00000001
+_L 0x108898E6 0x00000098
+
+_C0 Green Torch
+_L 0x00889489 0x00000001
+_L 0x108898E6 0x00000099
+
+_C0 Blue Candle
+_L 0x0088948A 0x00000001
+_L 0x108898E6 0x0000009A
+
+_C0 Rope
+_L 0x0088948B 0x00000001
+_L 0x108898E6 0x0000009B
+
+_C0 Drum Set
+_L 0x0088948C 0x00000001
+_L 0x108898E6 0x0000009C
+
+_C0 Mahjong Tile
+_L 0x0088948D 0x00000001
+_L 0x108898E6 0x0000009D
+
+_C0 Monster Book
+_L 0x0088948E 0x00000001
+_L 0x108898E6 0x0000009E
+
+_C0 Collector's Book
+_L 0x0088948F 0x00000001
+_L 0x108898E6 0x0000009F
+
+_C0 Ticket
+_L 0x00889490 0x00000001
+_L 0x108898E6 0x000000A0
+
+_C0 Long Sword
+_L 0x00889491 0x00000001
+_L 0x108898E6 0x000000A1
+
+_C0 Saber
+_L 0x00889492 0x00000001
+_L 0x108898E6 0x000000A2
+
+_C0 Rapier
+_L 0x00889493 0x00000001
+_L 0x108898E6 0x000000A3
+
+_C0 Knight's Saber
+_L 0x00889494 0x00000001
+_L 0x108898E6 0x000000A4
+
+_C0 Verdun
+_L 0x00889495 0x00000001
+_L 0x108898E6 0x000000A5
+
+_C0 Colichemarde
+_L 0x00889496 0x00000001
+_L 0x108898E6 0x000000A6
+
+_C0 Fine Saber
+_L 0x00889497 0x00000001
+_L 0x108898E6 0x000000A7
+
+_C0 Walloon Sword
+_L 0x00889498 0x00000001
+_L 0x108898E6 0x000000A8
+
+_C0 Fame and Faith
+_L 0x00889499 0x00000001
+_L 0x108898E6 0x000000A9
+
+_C0 Slayer Sword
+_L 0x0088949A 0x00000001
+_L 0x108898E6 0x000000AA
+
+_C0 Moon Falx
+_L 0x0088949B 0x00000001
+_L 0x108898E6 0x000000AB
+
+_C0 Damascus Sword
+_L 0x0088949C 0x00000001
+_L 0x108898E6 0x000000AC
+
+_C0 Sinclair Saber
+_L 0x0088949D 0x00000001
+_L 0x108898E6 0x000000AD
+
+_C0 Destroyer
+_L 0x0088949E 0x00000001
+_L 0x108898E6 0x000000AE
+
+_C0 Holy Sword
+_L 0x0088949F 0x00000001
+_L 0x108898E6 0x000000AF
+
+_C0 Dragon's Tooth
+_L 0x008894A0 0x00000001
+_L 0x108898E6 0x000000B0
+
+_C0 Flare Basilard
+_L 0x008894A1 0x00000001
+_L 0x108898E6 0x000000B1
+
+_C0 Ice Coffin
+_L 0x008894A2 0x00000001
+_L 0x108898E6 0x000000B2
+
+_C0 Laser Blade
+_L 0x008894A3 0x00000001
+_L 0x108898E6 0x000000B3
+
+_C0 Duelist's Sword
+_L 0x008894A4 0x00000001
+_L 0x108898E6 0x000000B4
+
+_C0 Blessed Blade
+_L 0x008894A5 0x00000001
+_L 0x108898E6 0x000000B5
+
+_C0 Muramasa
+_L 0x008894A6 0x00000001
+_L 0x108898E6 0x000000B6
+
+_C0 Vizier's Rapier
+_L 0x008894A7 0x00000001
+_L 0x108898E6 0x000000B7
+
+_C0 Saint's Rapier
+_L 0x008894A8 0x00000001
+_L 0x108898E6 0x000000B8
+
+_C0 Doom Blade
+_L 0x008894A9 0x00000001
+_L 0x108898E6 0x000000B9
+
+_C0 Excalibur
+_L 0x008894AA 0x00000001
+_L 0x108898E6 0x000000BA
+
+_C0 Vorpal Sword
+_L 0x008894AB 0x00000001
+_L 0x108898E6 0x000000BB
+
+_C0 Flamberge
+_L 0x008894AC 0x00000001
+_L 0x108898E6 0x000000BC
+
+_C0 Swordian Dymlos
+_L 0x008894AD 0x00000001
+_L 0x108898E6 0x000000BD
+
+_C0 SPAS
+_L 0x008894AE 0x00000001
+_L 0x108898E6 0x000000BE
+
+_C0 Featherlights
+_L 0x008894AF 0x00000001
+_L 0x108898E6 0x000000BF
+
+_C0 Ninety-Nine
+_L 0x008894B0 0x00000001
+_L 0x108898E6 0x000000C0
+
+_C0 Dragunov
+_L 0x008894B1 0x00000001
+_L 0x108898E6 0x000000C1
+
+_C0 Corsesca
+_L 0x008894B2 0x00000001
+_L 0x108898E6 0x000000C2
+
+_C0 Gungnir I
+_L 0x008894B3 0x00000001
+_L 0x108898E6 0x000000C3
+
+_C0 Bisento
+_L 0x008894B4 0x00000001
+_L 0x108898E6 0x000000C4
+
+_C0 Vanguard
+_L 0x008894B5 0x00000001
+_L 0x108898E6 0x000000C5
+
+_C0 Arc Wind
+_L 0x008894B6 0x00000001
+_L 0x108898E6 0x000000C6
+
+_C0 Gungnir III
+_L 0x008894B7 0x00000001
+_L 0x108898E6 0x000000C7
+
+_C0 Gungnir II
+_L 0x008894B8 0x00000001
+_L 0x108898E6 0x000000C8
+
+_C0 Battle Axe
+_L 0x008894B9 0x00000001
+_L 0x108898E6 0x000000C9
+
+_C0 Crescent Axe
+_L 0x008894BA 0x00000001
+_L 0x108898E6 0x000000CA
+
+_C0 Bardiche
+_L 0x008894BB 0x00000001
+_L 0x108898E6 0x000000CB
+
+_C0 Strike Axe
+_L 0x008894BC 0x00000001
+_L 0x108898E6 0x000000CC
+
+_C0 Labrys
+_L 0x008894BD 0x00000001
+_L 0x108898E6 0x000000CD
+
+_C0 Bahamut's Tear
+_L 0x008894BE 0x00000001
+_L 0x108898E6 0x000000CE
+
+_C0 Halberd
+_L 0x008894BF 0x00000001
+_L 0x108898E6 0x000000CF
+
+_C0 Pole Axe
+_L 0x008894C0 0x00000001
+_L 0x108898E6 0x000000D0
+
+_C0 Mechanical Halberd
+_L 0x008894C1 0x00000001
+_L 0x108898E6 0x000000D1
+
+_C0 Saint's Halberd
+_L 0x008894C2 0x00000001
+_L 0x108898E6 0x000000D2
+
+_C0 Self Shortbow
+_L 0x008894C3 0x00000001
+_L 0x108898E6 0x000000D3
+
+_C0 Self Longbow
+_L 0x008894C4 0x00000001
+_L 0x108898E6 0x000000D4
+
+_C0 Composite Bow
+_L 0x008894C5 0x00000001
+_L 0x108898E6 0x000000D5
+
+_C0 Cranequin
+_L 0x008894C6 0x00000001
+_L 0x108898E6 0x000000D6
+
+_C0 Aqua Spreader
+_L 0x008894C7 0x00000001
+_L 0x108898E6 0x000000D7
+
+_C0 Flare Spreader
+_L 0x008894C8 0x00000001
+_L 0x108898E6 0x000000D8
+
+_C0 Sand Spreader
+_L 0x008894C9 0x00000001
+_L 0x108898E6 0x000000D9
+
+_C0 Gale Spreader
+_L 0x008894CA 0x00000001
+_L 0x108898E6 0x000000DA
+
+_C0 Crescent Bow
+_L 0x008894CB 0x00000001
+_L 0x108898E6 0x000000DB
+
+_C0 Elven Bow I
+_L 0x008894CC 0x00000001
+_L 0x108898E6 0x000000DC
+
+_C0 Merciless Bow
+_L 0x008894CD 0x00000001
+_L 0x108898E6 0x000000DD
+
+_C0 Berserker Bow
+_L 0x008894CE 0x00000001
+_L 0x108898E6 0x000000DE
+
+_C0 Elven Bow II
+_L 0x008894CF 0x00000001
+_L 0x108898E6 0x000000DF
+
+_C0 Rod
+_L 0x008894D0 0x00000001
+_L 0x108898E6 0x000000E0
+
+_C0 Gem Rod
+_L 0x008894D1 0x00000001
+_L 0x108898E6 0x000000E1
+
+_C0 Ruby Wand
+_L 0x008894D2 0x00000001
+_L 0x108898E6 0x000000E2
+
+_C0 Rune Staff
+_L 0x008894D3 0x00000001
+_L 0x108898E6 0x000000E3
+
+_C0 Unicorn Horn
+_L 0x008894D4 0x00000001
+_L 0x108898E6 0x000000E4
+
+_C0 Holy Staff
+_L 0x008894D5 0x00000001
+_L 0x108898E6 0x000000E5
+
+_C0 Star Mace
+_L 0x008894D6 0x00000001
+_L 0x108898E6 0x000000E6
+
+_C0 Blue Crystal Rod
+_L 0x008894D7 0x00000001
+_L 0x108898E6 0x000000E7
+
+_C0 Naughty Magazine
+_L 0x008894D8 0x00000001
+_L 0x108898E6 0x000000E8
+
+_C0 N.G.
+_L 0x008894D9 0x00000001
+_L 0x108898E6 0x000000E9
+
+_C0 Necronomicon
+_L 0x008894DA 0x00000001
+_L 0x108898E6 0x000000EA
+
+_C0 The King in Yellow
+_L 0x008894DB 0x00000001
+_L 0x108898E6 0x000000EB
+
+_C0 Celaeno Fragments
+_L 0x008894DC 0x00000001
+_L 0x108898E6 0x000000EC
+
+_C0 Liber Ivonis
+_L 0x008894DD 0x00000001
+_L 0x108898E6 0x000000ED
+
+_C0 Cthaat Aquadingen
+_L 0x008894DE 0x00000001
+_L 0x108898E6 0x000000EE
+
+_C0 G'harne Fragments
+_L 0x008894DF 0x00000001
+_L 0x108898E6 0x000000EF
+
+_C0 Seven Books of Hsan
+_L 0x008894E0 0x00000001
+_L 0x108898E6 0x000000F0
+
+_C0 Massa di Requiem
+_L 0x008894E1 0x00000001
+_L 0x108898E6 0x000000F1
+
+_C0 True Magic
+_L 0x008894E2 0x00000001
+_L 0x108898E6 0x000000F2
+
+_C0 Broom
+_L 0x008894E3 0x00000001
+_L 0x108898E6 0x000000F3
+
+_C0 Mystic Broom
+_L 0x008894E4 0x00000001
+_L 0x108898E6 0x000000F4
+
+_C0 Magical Broom
+_L 0x008894E5 0x00000001
+_L 0x108898E6 0x000000F5
+
+_C0 Sylphic Broom
+_L 0x008894E6 0x00000001
+_L 0x108898E6 0x000000F6
+
+_C0 Wonder Broom
+_L 0x008894E7 0x00000001
+_L 0x108898E6 0x000000F7
+
+_C0 Star Broom
+_L 0x008894E8 0x00000001
+_L 0x108898E6 0x000000F8
+
+_C0 Deck Brush
+_L 0x008894E9 0x00000001
+_L 0x108898E6 0x000000F9
+
+_C0 Botan
+_L 0x008894EA 0x00000001
+_L 0x108898E6 0x000000FA
+
+_C0 Ayame
+_L 0x008894EB 0x00000001
+_L 0x108898E6 0x000000FB
+
+_C0 Kikyo
+_L 0x008894EC 0x00000001
+_L 0x108898E6 0x000000FC
+
+_C0 Kuroyuri
+_L 0x008894ED 0x00000001
+_L 0x108898E6 0x000000FD
+
+_C0 Chizakura
+_L 0x008894EE 0x00000001
+_L 0x108898E6 0x000000FE
+
+_C0 Eternal Sword
+_L 0x008894EF 0x00000001
+_L 0x108898E6 0x000000FF
+
+_C0 Leather Armor
+_L 0x008894F0 0x00000001
+_L 0x108898E6 0x00000100
+
+_C0 Chain Mail
+_L 0x008894F1 0x00000001
+_L 0x108898E6 0x00000101
+
+_C0 Ring Mail
+_L 0x008894F2 0x00000001
+_L 0x108898E6 0x00000102
+
+_C0 Splint Mail
+_L 0x008894F3 0x00000001
+_L 0x108898E6 0x00000103
+
+_C0 Breastplate
+_L 0x008894F4 0x00000001
+_L 0x108898E6 0x00000104
+
+_C0 Plate Mail
+_L 0x008894F5 0x00000001
+_L 0x108898E6 0x00000105
+
+_C0 Mythril Plate
+_L 0x008894F6 0x00000001
+_L 0x108898E6 0x00000106
+
+_C0 Reflex
+_L 0x008894F7 0x00000001
+_L 0x108898E6 0x00000107
+
+_C0 Silver Plate
+_L 0x008894F8 0x00000001
+_L 0x108898E6 0x00000108
+
+_C0 Rare Plate
+_L 0x008894F9 0x00000001
+_L 0x108898E6 0x00000109
+
+_C0 Mumbane
+_L 0x008894FA 0x00000001
+_L 0x108898E6 0x0000010A
+
+_C0 Gold Armor
+_L 0x008894FB 0x00000001
+_L 0x108898E6 0x0000010B
+
+_C0 Cloak
+_L 0x008894FC 0x00000001
+_L 0x108898E6 0x0000010C
+
+_C0 Amber Cloak
+_L 0x008894FD 0x00000001
+_L 0x108898E6 0x0000010D
+
+_C0 Silver Cloak
+_L 0x008894FE 0x00000001
+_L 0x108898E6 0x0000010E
+
+_C0 Holy Cloak
+_L 0x008894FF 0x00000001
+_L 0x108898E6 0x0000010F
+
+_C0 Star Cloak
+_L 0x00889500 0x00000001
+_L 0x108898E6 0x00000110
+
+_C0 Mythril Mesh
+_L 0x00889501 0x00000001
+_L 0x108898E6 0x00000111
+
+_C0 Witch Dress
+_L 0x00889502 0x00000001
+_L 0x108898E6 0x00000112
+
+_C0 Kisaragi
+_L 0x00889503 0x00000001
+_L 0x108898E6 0x00000113
+
+_C0 Yayoi
+_L 0x00889504 0x00000001
+_L 0x108898E6 0x00000114
+
+_C0 Nagatsuki
+_L 0x00889505 0x00000001
+_L 0x108898E6 0x00000115
+
+_C0 Kannazuki
+_L 0x00889506 0x00000001
+_L 0x108898E6 0x00000116
+
+_C0 Wooden Shield
+_L 0x00889507 0x00000001
+_L 0x108898E6 0x00000117
+
+_C0 Round Shield
+_L 0x00889508 0x00000001
+_L 0x108898E6 0x00000118
+
+_C0 Kite Shield
+_L 0x00889509 0x00000001
+_L 0x108898E6 0x00000119
+
+_C0 Tower Shield
+_L 0x0088950A 0x00000001
+_L 0x108898E6 0x0000011A
+
+_C0 Fine Shield
+_L 0x0088950B 0x00000001
+_L 0x108898E6 0x0000011B
+
+_C0 Ankh Shield
+_L 0x0088950C 0x00000001
+_L 0x108898E6 0x0000011C
+
+_C0 Rare Shield
+_L 0x0088950D 0x00000001
+_L 0x108898E6 0x0000011D
+
+_C0 Red Shield
+_L 0x0088950E 0x00000001
+_L 0x108898E6 0x0000011E
+
+_C0 Star Shield
+_L 0x0088950F 0x00000001
+_L 0x108898E6 0x0000011F
+
+_C0 Blue Shield
+_L 0x00889510 0x00000001
+_L 0x108898E6 0x00000120
+
+_C0 Shield Ring
+_L 0x00889511 0x00000001
+_L 0x108898E6 0x00000121
+
+_C0 Leather Helm
+_L 0x00889512 0x00000001
+_L 0x108898E6 0x00000122
+
+_C0 Iron Sallet
+_L 0x00889513 0x00000001
+_L 0x108898E6 0x00000123
+
+_C0 Armet
+_L 0x00889514 0x00000001
+_L 0x108898E6 0x00000124
+
+_C0 Close Helm
+_L 0x00889515 0x00000001
+_L 0x108898E6 0x00000125
+
+_C0 Duelist's Helm
+_L 0x00889516 0x00000001
+_L 0x108898E6 0x00000126
+
+_C0 Rare Helm
+_L 0x00889517 0x00000001
+_L 0x108898E6 0x00000127
+
+_C0 Golden Helm
+_L 0x00889518 0x00000001
+_L 0x108898E6 0x00000128
+
+_C0 Star Helm
+_L 0x00889519 0x00000001
+_L 0x108898E6 0x00000129
+
+_C0 Beret
+_L 0x0088951A 0x00000001
+_L 0x108898E6 0x0000012A
+
+_C0 Mitre
+_L 0x0088951B 0x00000001
+_L 0x108898E6 0x0000012B
+
+_C0 Straw Hat
+_L 0x0088951C 0x00000001
+_L 0x108898E6 0x0000012C
+
+_C0 Fine Hat
+_L 0x0088951D 0x00000001
+_L 0x108898E6 0x0000012D
+
+_C0 Star Cap
+_L 0x0088951E 0x00000001
+_L 0x108898E6 0x0000012E
+
+_C0 Ninja Hood
+_L 0x0088951F 0x00000001
+_L 0x108898E6 0x0000012F
+
+_C0 Ninja Mask
+_L 0x00889520 0x00000001
+_L 0x108898E6 0x00000130
+
+_C0 Blue Ribbon
+_L 0x00889521 0x00000001
+_L 0x108898E6 0x00000131
+
+_C0 Long Blue Ribbon
+_L 0x00889522 0x00000001
+_L 0x108898E6 0x00000132
+
+_C0 Striped Ribbon
+_L 0x00889523 0x00000001
+_L 0x108898E6 0x00000133
+
+_C0 Pretty Ribbon
+_L 0x00889524 0x00000001
+_L 0x108898E6 0x00000134
+
+_C0 Magical Ribbon
+_L 0x00889525 0x00000001
+_L 0x108898E6 0x00000135
+
+_C0 Leather Gloves
+_L 0x00889526 0x00000001
+_L 0x108898E6 0x00000136
+
+_C0 Iron Gloves
+_L 0x00889527 0x00000001
+_L 0x108898E6 0x00000137
+
+_C0 Gauntlets
+_L 0x00889528 0x00000001
+_L 0x108898E6 0x00000138
+
+_C0 Mythril Gloves
+_L 0x00889529 0x00000001
+_L 0x108898E6 0x00000139
+
+_C0 Rare Gauntlets
+_L 0x0088952A 0x00000001
+_L 0x108898E6 0x0000013A
+
+_C0 Star Gloves
+_L 0x0088952B 0x00000001
+_L 0x108898E6 0x0000013B
+
+_C0 Hyper Gauntlets
+_L 0x0088952C 0x00000001
+_L 0x108898E6 0x0000013C
+
+_C0 Claw Gauntlet
+_L 0x0088952D 0x00000001
+_L 0x108898E6 0x0000013D
+
+_C0 Oven Mitts
+_L 0x0088952E 0x00000001
+_L 0x108898E6 0x0000013E
+
+_C0 Pretty Mittens
+_L 0x0088952F 0x00000001
+_L 0x108898E6 0x0000013F
+
+_C0 Mother's Mittens
+_L 0x00889530 0x00000001
+_L 0x108898E6 0x00000140
+
+_C0 Bridal Gloves
+_L 0x00889531 0x00000001
+_L 0x108898E6 0x00000141
+
+_C0 Stone Charm
+_L 0x00889532 0x00000001
+_L 0x108898E6 0x00000142
+
+_C0 Talisman
+_L 0x00889533 0x00000001
+_L 0x108898E6 0x00000143
+
+_C0 Blue Talisman
+_L 0x00889534 0x00000001
+_L 0x108898E6 0x00000144
+
+_C0 Paralysis Charm
+_L 0x00889535 0x00000001
+_L 0x108898E6 0x00000145
+
+_C0 Stun Bracelet
+_L 0x00889536 0x00000001
+_L 0x108898E6 0x00000146
+
+_C0 Poison Charm
+_L 0x00889537 0x00000001
+_L 0x108898E6 0x00000147
+
+_C0 Rabbit's Foot
+_L 0x00889538 0x00000001
+_L 0x108898E6 0x00000148
+
+_C0 Flame Charm
+_L 0x00889539 0x00000001
+_L 0x108898E6 0x00000149
+
+_C0 Ice Charm
+_L 0x0088953A 0x00000001
+_L 0x108898E6 0x0000014A
+
+_C0 Manji Symbol
+_L 0x0088953B 0x00000001
+_L 0x108898E6 0x0000014B
+
+_C0 Silver Cape
+_L 0x0088953C 0x00000001
+_L 0x108898E6 0x0000014C
+
+_C0 Princess Cape
+_L 0x0088953D 0x00000001
+_L 0x108898E6 0x0000014D
+
+_C0 Heavy Boots
+_L 0x0088953E 0x00000001
+_L 0x108898E6 0x0000014E
+
+_C0 Elven Boots
+_L 0x0088953F 0x00000001
+_L 0x108898E6 0x0000014F
+
+_C0 Jet Boots
+_L 0x00889540 0x00000001
+_L 0x108898E6 0x00000150
+
+_C0 Persian Boots
+_L 0x00889541 0x00000001
+_L 0x108898E6 0x00000151
+
+_C0 Succubus Boots
+_L 0x00889542 0x00000001
+_L 0x108898E6 0x00000152
+
+_C0 Water Spiders
+_L 0x00889543 0x00000001
+_L 0x108898E6 0x00000153
+
+_C0 Cape
+_L 0x00889544 0x00000001
+_L 0x108898E6 0x00000154
+
+_C0 Leather Cape
+_L 0x00889545 0x00000001
+_L 0x108898E6 0x00000155
+
+_C0 Thief's Cape
+_L 0x00889546 0x00000001
+_L 0x108898E6 0x00000156
+
+_C0 Elven Cape
+_L 0x00889547 0x00000001
+_L 0x108898E6 0x00000157
+
+_C0 Flare Cape
+_L 0x00889548 0x00000001
+_L 0x108898E6 0x00000158
+
+_C0 Aqua Cape
+_L 0x00889549 0x00000001
+_L 0x108898E6 0x00000159
+
+_C0 Aquamarine (Pact Ring)
+_L 0x0088954A 0x00000001
+_L 0x108898E6 0x0000015A
+
+_C0 Amethyst (Pact Ring)
+_L 0x0088954B 0x00000001
+_L 0x108898E6 0x0000015B
+
+_C0 Emerald (Pact Ring)
+_L 0x0088954C 0x00000001
+_L 0x108898E6 0x0000015C
+
+_C0 Opal (Pact Ring)
+_L 0x0088954D 0x00000001
+_L 0x108898E6 0x0000015D
+
+_C0 Garnet (Pact Ring)
+_L 0x0088954E 0x00000001
+_L 0x108898E6 0x0000015E
+
+_C0 Sardonyx (Pact Ring)
+_L 0x0088954F 0x00000001
+_L 0x108898E6 0x0000015F
+
+_C0 Sapphire (Pact Ring)
+_L 0x00889550 0x00000001
+_L 0x108898E6 0x00000160
+
+_C0 Turquoise (Pact Ring)
+_L 0x00889551 0x00000001
+_L 0x108898E6 0x00000161
+
+_C0 Diamond (Pact Ring)
+_L 0x00889552 0x00000001
+_L 0x108898E6 0x00000162
+
+_C0 Topaz (Pact Ring)
+_L 0x00889553 0x00000001
+_L 0x108898E6 0x00000163
+
+_C0 Moonstone (Pact Ring)
+_L 0x00889554 0x00000001
+_L 0x108898E6 0x00000164
+
+_C0 Ruby (Pact Ring)
+_L 0x00889555 0x00000001
+_L 0x108898E6 0x00000165
+
+_C0 Sorcerer's Ring
+_L 0x00889556 0x00000001
+_L 0x108898E6 0x00000166
+
+_C0 Emerald Ring
+_L 0x00889557 0x00000001
+_L 0x108898E6 0x00000167
+
+_C0 Faerie Ring
+_L 0x00889558 0x00000001
+_L 0x108898E6 0x00000168
+
+_C0 Spirit Ring
+_L 0x00889559 0x00000001
+_L 0x108898E6 0x00000169
+
+_C0 Protect Ring
+_L 0x0088955A 0x00000001
+_L 0x108898E6 0x0000016A
+
+_C0 Force Ring
+_L 0x0088955B 0x00000001
+_L 0x108898E6 0x0000016B
+
+_C0 Resist Ring
+_L 0x0088955C 0x00000001
+_L 0x108898E6 0x0000016C
+
+_C0 Reflect Ring
+_L 0x0088955D 0x00000001
+_L 0x108898E6 0x0000016D
+
+_C0 Channeling Ring / None
+_L 0x0088955E 0x00000001
+_L 0x108898E6 0x0000016E
+
+_C0 Step Ring
+_L 0x0088955F 0x00000001
+_L 0x108898E6 0x0000016F
+
+_C0 Rebirth Doll
+_L 0x00889560 0x00000001
+_L 0x108898E6 0x00000170
+
+_C0 Sephira
+_L 0x00889561 0x00000001
+_L 0x108898E6 0x00000171
+
+_C0 Blue Sephira
+_L 0x00889562 0x00000001
+_L 0x108898E6 0x00000172
+
+_C0 Gravity Stone
+_L 0x00889563 0x00000001
+_L 0x108898E6 0x00000173
+
+_C0 Black Onyx
+_L 0x00889564 0x00000001
+_L 0x108898E6 0x00000174
+
+_C0 Orb of White Mist
+_L 0x00889565 0x00000001
+_L 0x108898E6 0x00000175
+
+_C0 Orb of Magical Mist
+_L 0x00889566 0x00000001
+_L 0x108898E6 0x00000176
+
+_C0 Moon Crystal
+_L 0x00889567 0x00000001
+_L 0x108898E6 0x00000177
+
+_C0 Derris Emblem
+_L 0x00889568 0x00000001
+_L 0x108898E6 0x00000178
+
+_C0 Warrior Symbol
+_L 0x00889569 0x00000001
+_L 0x108898E6 0x00000179
+
+_C0 Attack Symbol
+_L 0x0088956A 0x00000001
+_L 0x108898E6 0x0000017A
+
+_C0 Holy Symbol
+_L 0x0088956B 0x00000001
+_L 0x108898E6 0x0000017B
+
+_C0 Mystic Symbol
+_L 0x0088956C 0x00000001
+_L 0x108898E6 0x0000017C
+
+_C0 Dark Seal
+_L 0x0088956D 0x00000001
+_L 0x108898E6 0x0000017D
+
+_C0 Demon's Seal
+_L 0x0088956E 0x00000001
+_L 0x108898E6 0x0000017E
+
+_C0 Unicorn Earring
+_L 0x0088956F 0x00000001
+_L 0x108898E6 0x0000017F
+
+_C0 Step Force
+_L 0x00889570 0x00000001
+_L 0x108898E6 0x00000180
+
+_C0 Rock Breaker
+_L 0x00889571 0x00000001
+_L 0x108898E6 0x00000181
+
+_C0 Magical Pouch
+_L 0x00889572 0x00000001
+_L 0x108898E6 0x00000182
+
+_C0 Mystic Pouch
+_L 0x00889573 0x00000001
+_L 0x108898E6 0x00000183
+
+_C0 Mirror Image Patch
+_L 0x00889574 0x00000001
+_L 0x108898E6 0x00000184
+
+_C0 (c)Curio's Mirror
+_L 0x00889575 0x00000001
+_L 0x108898E6 0x00000185
+
+_C0 (c)Red Card
+_L 0x00889576 0x00000001
+_L 0x108898E6 0x00000186
+
+_C0 (c)Green Card
+_L 0x00889577 0x00000001
+_L 0x108898E6 0x00000187
+
+_C0 (c)Blue Card
+_L 0x00889578 0x00000001
+_L 0x108898E6 0x00000188
+
+_C0 (c)Yellow Card
+_L 0x00889579 0x00000001
+_L 0x108898E6 0x00000189
+
+_C0 (c)White Card
+_L 0x0088957A 0x00000001
+_L 0x108898E6 0x0000018A
+
+_C0 (c)Brown Card
+_L 0x0088957B 0x00000001
+_L 0x108898E6 0x0000018B
+
+_C0 (c)Black Card
+_L 0x0088957C 0x00000001
+_L 0x108898E6 0x0000018C
+
+_C0 (c)Statue of Bravery
+_L 0x0088957D 0x00000001
+_L 0x108898E6 0x0000018D
+
+_C0 (c)Statue of Justice
+_L 0x0088957E 0x00000001
+_L 0x108898E6 0x0000018E
+
+_C0 (c)Statue of Friendship
+_L 0x0088957F 0x00000001
+_L 0x108898E6 0x0000018F
+
+_C0 (c)Statue of Love
+_L 0x00889580 0x00000001
+_L 0x108898E6 0x00000190
+
+_C0 (c)Statue of Dreams
+_L 0x00889581 0x00000001
+_L 0x108898E6 0x00000191
+
+_C0 (c)Special Flag
+_L 0x00889582 0x00000001
+_L 0x108898E6 0x00000192
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;BATTLE BACKGROUND CODES
+;Next battle will have the selected background
+;Some backgrounds appear in more than one place, the names are orientative
+
+_C0 TOPX Battle Background Modifier
+_M 0xCF000000 0x00000031
+
+_C0 Black Screen
+_L 0x10889AB4 0x00000001
+
+_C0 Euclid World Map
+_L 0x10889AB4 0x00000002
+
+_C0 Snow Field
+_L 0x10889AB4 0x00000003
+
+_C0 Freyland World Map
+_L 0x10889AB4 0x00000004
+
+_C0 Coast World Map
+_L 0x10889AB4 0x00000005
+
+_C0 Forest of the Spirits
+_L 0x10889AB4 0x00000006
+
+_C0 Mountain Pass
+_L 0x10889AB4 0x00000007
+
+_C0 Underground Crypt Cave
+_L 0x10889AB4 0x00000008
+
+_C0 Euclid Sewers
+_L 0x10889AB4 0x00000009
+
+_C0 Underground Crypt
+_L 0x10889AB4 0x0000000A
+
+_C0 Inner Crypt
+_L 0x10889AB4 0x0000000B
+
+_C0 Lone Valley Cave
+_L 0x10889AB4 0x0000000C
+
+_C0 Boat to Alvanista
+_L 0x10889AB4 0x0000000D
+
+_C0 Cave of Searing Sand
+_L 0x10889AB4 0x0000000E
+
+_C0 Cave of Spirits
+_L 0x10889AB4 0x0000000F
+
+_C0 Moria Mine
+_L 0x10889AB4 0x00000010
+
+_C0 Moria Mine Lower Levels
+_L 0x10889AB4 0x00000011
+
+_C0 Ymir Forest Entrance
+_L 0x10889AB4 0x00000012
+
+_C0 Zodiac Tower
+_L 0x10889AB4 0x00000013
+
+_C0 Demeter's Mansion Hall
+_L 0x10889AB4 0x00000014
+
+_C0 Battle in the Sky
+_L 0x10889AB4 0x00000015
+
+_C0 Prologue Battle
+_L 0x10889AB4 0x00000016
+
+_C0 Dhaos Castle Past
+_L 0x10889AB4 0x00000017
+
+_C0 Valhalla World Map
+_L 0x10889AB4 0x00000018
+
+_C0 Odin's Room
+_L 0x10889AB4 0x00000019
+
+_C0 Cavern of Ice
+_L 0x10889AB4 0x0000001A
+
+_C0 Tower of Flame
+_L 0x10889AB4 0x0000001B
+
+_C0 Dhaos' Castle 1st Floor
+_L 0x10889AB4 0x0000001C
+
+_C0 Dhaos' Castle Prison
+_L 0x10889AB4 0x0000001D
+
+_C0 Dhaos' Castle Tower
+_L 0x10889AB4 0x0000001E
+
+_C0 Dhaos' Castle Space
+_L 0x10889AB4 0x0000001F
+
+_C0 Dhaos' Castle Space No Floor
+_L 0x10889AB4 0x00000020
+
+_C0 Demeter's Mansion Garden
+_L 0x10889AB4 0x00000022
+
+_C0 Demeter's Mansion Downstairs
+_L 0x10889AB4 0x00000023
+
+_C0 Lone Valley
+_L 0x10889AB4 0x00000024
+
+_C0 Valhalla Plains Morning
+_L 0x10889AB4 0x00000025
+
+_C0 Valhalla Plains Afternoon
+_L 0x10889AB4 0x00000026
+
+_C0 Valhalla Plains Night
+_L 0x10889AB4 0x00000027
+
+_C0 Snowy Valhalla Plains Morning
+_L 0x10889AB4 0x00000028
+
+_C0 Snowy Valhalla Plains Afternoon
+_L 0x10889AB4 0x00000029
+
+_C0 Early World Map Night
+_L 0x10889AB4 0x0000002A
+
+_C0 Euclid Arena
+_L 0x10889AB4 0x0000002B
+
+_C0 Thor's Maze
+_L 0x10889AB4 0x0000002C
+
+_C0 Dhaos' Castle 3rd 4th Floor
+_L 0x10889AB4 0x0000002D
+
+_C0 Cave of Darkness
+_L 0x10889AB4 0x0000002E
+
+_C0 Bridge World Map 
+_L 0x10889AB4 0x0000002F
+
+_C0 Arriving to the Past
+_L 0x10889AB4 0x00000030
+
+_C0 Dhaos' Castle Bridge
+_L 0x10889AB4 0x00000031
+
+_C0 Dhaos' Castle Stairs
+_L 0x10889AB4 0x00000032
+
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;BATTLE BGM CODES
+;Next battle will have the selected song
+
+_C0 TOPX Battle BGM Modifier
+_M 0xCF000000 0x00000046
+
+_C0 Decisive
+_L 0x20028E74 0x24030001
+
+_C0 The Stream of Time
+_L 0x20028E74 0x24030002
+
+_C0 Defiance
+_L 0x20028E74 0x24030003
+
+_C0 Harmonious Moment
+_L 0x20028E74 0x24030004
+
+_C0 Hydropolis
+_L 0x20028E74 0x24030005
+
+_C0 Vigorous Town
+_L 0x20028E74 0x24030006
+
+_C0 Serene Weather
+_L 0x20028E74 0x24030007
+
+_C0 Mystic Forest
+_L 0x20028E74 0x24030008
+
+_C0 Freeze
+_L 0x20028E74 0x24030009
+
+_C0 Underground Way
+_L 0x20028E74 0x2403000A
+
+_C0 Mint
+_L 0x20028E74 0x2403000B
+
+_C0 Desolate Road
+_L 0x20028E74 0x2403000C
+
+_C0 Sylph
+_L 0x20028E74 0x2403000D
+
+_C0 Retaliation
+_L 0x20028E74 0x2403000E
+
+_C0 Moria Mine
+_L 0x20028E74 0x2403000F
+
+_C0 Sunset on the Prairie
+_L 0x20028E74 0x24030010
+
+_C0 Martel
+_L 0x20028E74 0x24030011
+
+_C0 Arche
+_L 0x20028E74 0x24030012
+
+_C0 Tasteful
+_L 0x20028E74 0x24030013
+
+_C0 Good Wine Makes Good Blood
+_L 0x20028E74 0x24030014
+
+_C0 Lake Ymir
+_L 0x20028E74 0x24030015
+
+_C0 Triumph
+_L 0x20028E74 0x24030016
+
+_C0 Abyss of Thor
+_L 0x20028E74 0x24030017
+
+_C0 Open Fire
+_L 0x20028E74 0x24030018
+
+_C0 Threatening Sky
+_L 0x20028E74 0x24030019
+
+_C0 Aviators
+_L 0x20028E74 0x2403001A
+
+_C0 Tower of Flames
+_L 0x20028E74 0x2403001B
+
+_C0 Perverse Religion
+_L 0x20028E74 0x2403001C
+
+_C0 Fulfill the Mission
+_L 0x20028E74 0x2403001D
+
+_C0 Hurry up
+_L 0x20028E74 0x2403001E
+
+_C0 Be Absentminded
+_L 0x20028E74 0x2403001F
+
+_C0 Take up the Cross
+_L 0x20028E74 0x24030020
+
+_C0 Advance a Step Further
+_L 0x20028E74 0x24030021
+
+_C0 Overcoming difficulties
+_L 0x20028E74 0x24030022
+
+_C0 Conclusion
+_L 0x20028E74 0x24030023
+
+_C0 Who is Good or Evil?
+_L 0x20028E74 0x24030024
+
+_C0 Raising a Curtain
+_L 0x20028E74 0x24030025
+
+_C0 The Second Act
+_L 0x20028E74 0x24030026
+
+_C0 Final Act
+_L 0x20028E74 0x24030027
+
+_C0 Olive Village
+_L 0x20028E74 0x24030028
+
+_C0 Awakening
+_L 0x20028E74 0x24030029
+
+_C0 Euclid
+_L 0x20028E74 0x2403002A
+
+_C0 Premonition
+_L 0x20028E74 0x2403002B
+
+_C0 As Time Goes on
+_L 0x20028E74 0x2403002C
+
+_C0 Penetrate
+_L 0x20028E74 0x2403002D
+
+_C0 Emergency
+_L 0x20028E74 0x2403002E
+
+_C0 Resurrection
+_L 0x20028E74 0x2403002F
+
+_C0 Dark Cave
+_L 0x20028E74 0x24030030
+
+_C0 Bright Moonlit Night
+_L 0x20028E74 0x24030031
+
+_C0 Oasis
+_L 0x20028E74 0x24030032
+
+_C0 Midgard
+_L 0x20028E74 0x24030033
+
+_C0 Early
+_L 0x20028E74 0x24030034
+
+_C0 Dhaos' Castle
+_L 0x20028E74 0x24030035
+
+_C0 Treant Forest
+_L 0x20028E74 0x24030036
+
+_C0 Unicorn
+_L 0x20028E74 0x24030037
+
+_C0 Cave of Illusion
+_L 0x20028E74 0x24030038
+
+_C0 Biting Cold
+_L 0x20028E74 0x24030039
+
+_C0 Mysterious Japon
+_L 0x20028E74 0x2403003A
+
+_C0 Triumph over Adversity
+_L 0x20028E74 0x2403003B
+
+_C0 Fighting of the Spirit
+_L 0x20028E74 0x2403003C
+
+_C0 Suzu
+_L 0x20028E74 0x2403003D
+
+;SFX on repeat
+_C0 Contract
+_L 0x20028E74 0x2403003E
+
+;SFX on repeat
+_C0 Honor
+_L 0x20028E74 0x2403003F
+
+;SFX on repeat
+_C0 Oh my god...
+_L 0x20028E74 0x24030040
+
+_C0 Tomorrow is a Holiday
+_L 0x20028E74 0x24030041
+
+_C0 I Miss you...
+_L 0x20028E74 0x24030042
+
+_C0 Goodbye, friends
+_L 0x20028E74 0x24030043
+
+_C0 Recovery
+_L 0x20028E74 0x24030044
+
+_C0 Lonely Twilight
+_L 0x20028E74 0x24030045
+
+_C0 Harvest Festival
+_L 0x20028E74 0x24030046
+
+
+;--------------------------------------------------------------------------------;
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+;SKIT CODES
+;Activate one to always have the same skit when pressing Select on the overworld
+;Skit structure:
+;#1   - #30  -> 1 character  skits
+;#31  - #92  -> 2 characters skits
+;#93  - #146 -> 3 characters skits
+;#147 - #218 -> 4 characters skits
+;#219 - #246 -> 5 characters skits
+;#247 - #248 -> 6 characters skits
+;#249 - #258 -> Skits added later, variable number of characters 
+
+_C0 TOPX Current Skit Modifier
+_M 0xCF000000 0x00000102    
+
+_C0 Skit #1
+_L 0x10888444 0x00000001
+
+_C0 Skit #2
+_L 0x10888444 0x00000002
+
+_C0 Skit #3
+_L 0x10888444 0x00000003
+
+_C0 Skit #4
+_L 0x10888444 0x00000004
+
+_C0 Skit #5
+_L 0x10888444 0x00000005
+
+_C0 Skit #6
+_L 0x10888444 0x00000006
+
+_C0 Skit #7
+_L 0x10888444 0x00000007
+
+_C0 Skit #8
+_L 0x10888444 0x00000008
+
+_C0 Skit #9
+_L 0x10888444 0x00000009
+
+_C0 Skit #10
+_L 0x10888444 0x0000000A
+
+_C0 Skit #11
+_L 0x10888444 0x0000000B
+
+_C0 Skit #12
+_L 0x10888444 0x0000000C
+
+_C0 Skit #13
+_L 0x10888444 0x0000000D
+
+_C0 Skit #14
+_L 0x10888444 0x0000000E
+
+_C0 Skit #15
+_L 0x10888444 0x0000000F
+
+_C0 Skit #16
+_L 0x10888444 0x00000010
+
+_C0 Skit #17
+_L 0x10888444 0x00000011
+
+_C0 Skit #18
+_L 0x10888444 0x00000012
+
+_C0 Skit #19
+_L 0x10888444 0x00000013
+
+_C0 Skit #20
+_L 0x10888444 0x00000014
+
+_C0 Skit #21
+_L 0x10888444 0x00000015
+
+_C0 Skit #22
+_L 0x10888444 0x00000016
+
+_C0 Skit #23
+_L 0x10888444 0x00000017
+
+_C0 Skit #24
+_L 0x10888444 0x00000018
+
+_C0 Skit #25
+_L 0x10888444 0x00000019
+
+_C0 Skit #26
+_L 0x10888444 0x0000001A
+
+_C0 Skit #27
+_L 0x10888444 0x0000001B
+
+_C0 Skit #28
+_L 0x10888444 0x0000001C
+
+_C0 Skit #29
+_L 0x10888444 0x0000001D
+
+_C0 Skit #30
+_L 0x10888444 0x0000001E
+
+_C0 Skit #31
+_L 0x10888444 0x0000001F
+
+_C0 Skit #32
+_L 0x10888444 0x00000020
+
+_C0 Skit #33
+_L 0x10888444 0x00000021
+
+_C0 Skit #34
+_L 0x10888444 0x00000022
+
+_C0 Skit #35
+_L 0x10888444 0x00000023
+
+_C0 Skit #36
+_L 0x10888444 0x00000024
+
+_C0 Skit #37
+_L 0x10888444 0x00000025
+
+_C0 Skit #38
+_L 0x10888444 0x00000026
+
+_C0 Skit #39
+_L 0x10888444 0x00000027
+
+_C0 Skit #40
+_L 0x10888444 0x00000028
+
+_C0 Skit #41
+_L 0x10888444 0x00000029
+
+_C0 Skit #42
+_L 0x10888444 0x0000002A
+
+_C0 Skit #43
+_L 0x10888444 0x0000002B
+
+_C0 Skit #44
+_L 0x10888444 0x0000002C
+
+_C0 Skit #45
+_L 0x10888444 0x0000002D
+
+_C0 Skit #46
+_L 0x10888444 0x0000002E
+
+_C0 Skit #47
+_L 0x10888444 0x0000002F
+
+_C0 Skit #48
+_L 0x10888444 0x00000030
+
+_C0 Skit #49
+_L 0x10888444 0x00000031
+
+_C0 Skit #50
+_L 0x10888444 0x00000032
+
+_C0 Skit #51
+_L 0x10888444 0x00000033
+
+_C0 Skit #52
+_L 0x10888444 0x00000034
+
+_C0 Skit #53
+_L 0x10888444 0x00000035
+
+_C0 Skit #54
+_L 0x10888444 0x00000036
+
+_C0 Skit #55
+_L 0x10888444 0x00000037
+
+_C0 Skit #56
+_L 0x10888444 0x00000038
+
+_C0 Skit #57
+_L 0x10888444 0x00000039
+
+_C0 Skit #58
+_L 0x10888444 0x0000003A
+
+_C0 Skit #59
+_L 0x10888444 0x0000003B
+
+_C0 Skit #60
+_L 0x10888444 0x0000003C
+
+_C0 Skit #61
+_L 0x10888444 0x0000003D
+
+_C0 Skit #62
+_L 0x10888444 0x0000003E
+
+_C0 Skit #63
+_L 0x10888444 0x0000003F
+
+_C0 Skit #64
+_L 0x10888444 0x00000040
+
+_C0 Skit #65
+_L 0x10888444 0x00000041
+
+_C0 Skit #66
+_L 0x10888444 0x00000042
+
+_C0 Skit #67
+_L 0x10888444 0x00000043
+
+_C0 Skit #68
+_L 0x10888444 0x00000044
+
+_C0 Skit #69
+_L 0x10888444 0x00000045
+
+_C0 Skit #70
+_L 0x10888444 0x00000046
+
+_C0 Skit #71
+_L 0x10888444 0x00000047
+
+_C0 Skit #72
+_L 0x10888444 0x00000048
+
+_C0 Skit #73
+_L 0x10888444 0x00000049
+
+_C0 Skit #74
+_L 0x10888444 0x0000004A
+
+_C0 Skit #75
+_L 0x10888444 0x0000004B
+
+_C0 Skit #76
+_L 0x10888444 0x0000004C
+
+_C0 Skit #77
+_L 0x10888444 0x0000004D
+
+_C0 Skit #78
+_L 0x10888444 0x0000004E
+
+_C0 Skit #79
+_L 0x10888444 0x0000004F
+
+_C0 Skit #80
+_L 0x10888444 0x00000050
+
+_C0 Skit #81
+_L 0x10888444 0x00000051
+
+_C0 Skit #82
+_L 0x10888444 0x00000052
+
+_C0 Skit #83
+_L 0x10888444 0x00000053
+
+_C0 Skit #84
+_L 0x10888444 0x00000054
+
+_C0 Skit #85
+_L 0x10888444 0x00000055
+
+_C0 Skit #86
+_L 0x10888444 0x00000056
+
+_C0 Skit #87
+_L 0x10888444 0x00000057
+
+_C0 Skit #88
+_L 0x10888444 0x00000058
+
+_C0 Skit #89
+_L 0x10888444 0x00000059
+
+_C0 Skit #90
+_L 0x10888444 0x0000005A
+
+_C0 Skit #91
+_L 0x10888444 0x0000005B
+
+_C0 Skit #92
+_L 0x10888444 0x0000005C
+
+_C0 Skit #93
+_L 0x10888444 0x0000005D
+
+_C0 Skit #94
+_L 0x10888444 0x0000005E
+
+_C0 Skit #95
+_L 0x10888444 0x0000005F
+
+_C0 Skit #96
+_L 0x10888444 0x00000060
+
+_C0 Skit #97
+_L 0x10888444 0x00000061
+
+_C0 Skit #98
+_L 0x10888444 0x00000062
+
+_C0 Skit #99
+_L 0x10888444 0x00000063
+
+_C0 Skit #100
+_L 0x10888444 0x00000064
+
+_C0 Skit #101
+_L 0x10888444 0x00000065
+
+_C0 Skit #102
+_L 0x10888444 0x00000066
+
+_C0 Skit #103
+_L 0x10888444 0x00000067
+
+_C0 Skit #104
+_L 0x10888444 0x00000068
+
+_C0 Skit #105
+_L 0x10888444 0x00000069
+
+_C0 Skit #106
+_L 0x10888444 0x0000006A
+
+_C0 Skit #107
+_L 0x10888444 0x0000006B
+
+_C0 Skit #108
+_L 0x10888444 0x0000006C
+
+_C0 Skit #109
+_L 0x10888444 0x0000006D
+
+_C0 Skit #110
+_L 0x10888444 0x0000006E
+
+_C0 Skit #111
+_L 0x10888444 0x0000006F
+
+_C0 Skit #112
+_L 0x10888444 0x00000070
+
+_C0 Skit #113
+_L 0x10888444 0x00000071
+
+_C0 Skit #114
+_L 0x10888444 0x00000072
+
+_C0 Skit #115
+_L 0x10888444 0x00000073
+
+_C0 Skit #116
+_L 0x10888444 0x00000074
+
+_C0 Skit #117
+_L 0x10888444 0x00000075
+
+_C0 Skit #118
+_L 0x10888444 0x00000076
+
+_C0 Skit #119
+_L 0x10888444 0x00000077
+
+_C0 Skit #120
+_L 0x10888444 0x00000078
+
+_C0 Skit #121
+_L 0x10888444 0x00000079
+
+_C0 Skit #122
+_L 0x10888444 0x0000007A
+
+_C0 Skit #123
+_L 0x10888444 0x0000007B
+
+_C0 Skit #124
+_L 0x10888444 0x0000007C
+
+_C0 Skit #125
+_L 0x10888444 0x0000007D
+
+_C0 Skit #126
+_L 0x10888444 0x0000007E
+
+_C0 Skit #127
+_L 0x10888444 0x0000007F
+
+_C0 Skit #128
+_L 0x10888444 0x00000080
+
+_C0 Skit #129
+_L 0x10888444 0x00000081
+
+_C0 Skit #130
+_L 0x10888444 0x00000082
+
+_C0 Skit #131
+_L 0x10888444 0x00000083
+
+_C0 Skit #132
+_L 0x10888444 0x00000084
+
+_C0 Skit #133
+_L 0x10888444 0x00000085
+
+_C0 Skit #134
+_L 0x10888444 0x00000086
+
+_C0 Skit #135
+_L 0x10888444 0x00000087
+
+_C0 Skit #136
+_L 0x10888444 0x00000088
+
+_C0 Skit #137
+_L 0x10888444 0x00000089
+
+_C0 Skit #138
+_L 0x10888444 0x0000008A
+
+_C0 Skit #139
+_L 0x10888444 0x0000008B
+
+_C0 Skit #140
+_L 0x10888444 0x0000008C
+
+_C0 Skit #141
+_L 0x10888444 0x0000008D
+
+_C0 Skit #142
+_L 0x10888444 0x0000008E
+
+_C0 Skit #143
+_L 0x10888444 0x0000008F
+
+_C0 Skit #144
+_L 0x10888444 0x00000090
+
+_C0 Skit #145
+_L 0x10888444 0x00000091
+
+_C0 Skit #146
+_L 0x10888444 0x00000092
+
+_C0 Skit #147
+_L 0x10888444 0x00000093
+
+_C0 Skit #148
+_L 0x10888444 0x00000094
+
+_C0 Skit #149
+_L 0x10888444 0x00000095
+
+_C0 Skit #150
+_L 0x10888444 0x00000096
+
+_C0 Skit #151
+_L 0x10888444 0x00000097
+
+_C0 Skit #152
+_L 0x10888444 0x00000098
+
+_C0 Skit #153
+_L 0x10888444 0x00000099
+
+_C0 Skit #154
+_L 0x10888444 0x0000009A
+
+_C0 Skit #155
+_L 0x10888444 0x0000009B
+
+_C0 Skit #156
+_L 0x10888444 0x0000009C
+
+_C0 Skit #157
+_L 0x10888444 0x0000009D
+
+_C0 Skit #158
+_L 0x10888444 0x0000009E
+
+_C0 Skit #159
+_L 0x10888444 0x0000009F
+
+_C0 Skit #160
+_L 0x10888444 0x000000A0
+
+_C0 Skit #161
+_L 0x10888444 0x000000A1
+
+_C0 Skit #162
+_L 0x10888444 0x000000A2
+
+_C0 Skit #163
+_L 0x10888444 0x000000A3
+
+_C0 Skit #164
+_L 0x10888444 0x000000A4
+
+_C0 Skit #165
+_L 0x10888444 0x000000A5
+
+_C0 Skit #166
+_L 0x10888444 0x000000A6
+
+_C0 Skit #167
+_L 0x10888444 0x000000A7
+
+_C0 Skit #168
+_L 0x10888444 0x000000A8
+
+_C0 Skit #169
+_L 0x10888444 0x000000A9
+
+_C0 Skit #170
+_L 0x10888444 0x000000AA
+
+_C0 Skit #171
+_L 0x10888444 0x000000AB
+
+_C0 Skit #172
+_L 0x10888444 0x000000AC
+
+_C0 Skit #173
+_L 0x10888444 0x000000AD
+
+_C0 Skit #174
+_L 0x10888444 0x000000AE
+
+_C0 Skit #175
+_L 0x10888444 0x000000AF
+
+_C0 Skit #176
+_L 0x10888444 0x000000B0
+
+_C0 Skit #177
+_L 0x10888444 0x000000B1
+
+_C0 Skit #178
+_L 0x10888444 0x000000B2
+
+_C0 Skit #179
+_L 0x10888444 0x000000B3
+
+_C0 Skit #180
+_L 0x10888444 0x000000B4
+
+_C0 Skit #181
+_L 0x10888444 0x000000B5
+
+_C0 Skit #182
+_L 0x10888444 0x000000B6
+
+_C0 Skit #183
+_L 0x10888444 0x000000B7
+
+_C0 Skit #184
+_L 0x10888444 0x000000B8
+
+_C0 Skit #185
+_L 0x10888444 0x000000B9
+
+_C0 Skit #186
+_L 0x10888444 0x000000BA
+
+_C0 Skit #187
+_L 0x10888444 0x000000BB
+
+_C0 Skit #188
+_L 0x10888444 0x000000BC
+
+_C0 Skit #189
+_L 0x10888444 0x000000BD
+
+_C0 Skit #190
+_L 0x10888444 0x000000BE
+
+_C0 Skit #191
+_L 0x10888444 0x000000BF
+
+_C0 Skit #192
+_L 0x10888444 0x000000C0
+
+_C0 Skit #193
+_L 0x10888444 0x000000C1
+
+_C0 Skit #194
+_L 0x10888444 0x000000C2
+
+_C0 Skit #195
+_L 0x10888444 0x000000C3
+
+_C0 Skit #196
+_L 0x10888444 0x000000C4
+
+_C0 Skit #197
+_L 0x10888444 0x000000C5
+
+_C0 Skit #198
+_L 0x10888444 0x000000C6
+
+_C0 Skit #199
+_L 0x10888444 0x000000C7
+
+_C0 Skit #200
+_L 0x10888444 0x000000C8
+
+_C0 Skit #201
+_L 0x10888444 0x000000C9
+
+_C0 Skit #202
+_L 0x10888444 0x000000CA
+
+_C0 Skit #203
+_L 0x10888444 0x000000CB
+
+_C0 Skit #204
+_L 0x10888444 0x000000CC
+
+_C0 Skit #205
+_L 0x10888444 0x000000CD
+
+_C0 Skit #206
+_L 0x10888444 0x000000CE
+
+_C0 Skit #207
+_L 0x10888444 0x000000CF
+
+_C0 Skit #208
+_L 0x10888444 0x000000D0
+
+_C0 Skit #209
+_L 0x10888444 0x000000D1
+
+_C0 Skit #210
+_L 0x10888444 0x000000D2
+
+_C0 Skit #211
+_L 0x10888444 0x000000D3
+
+_C0 Skit #212
+_L 0x10888444 0x000000D4
+
+_C0 Skit #213
+_L 0x10888444 0x000000D5
+
+_C0 Skit #214
+_L 0x10888444 0x000000D6
+
+_C0 Skit #215
+_L 0x10888444 0x000000D7
+
+_C0 Skit #216
+_L 0x10888444 0x000000D8
+
+_C0 Skit #217
+_L 0x10888444 0x000000D9
+
+_C0 Skit #218
+_L 0x10888444 0x000000DA
+
+_C0 Skit #219
+_L 0x10888444 0x000000DB
+
+_C0 Skit #220
+_L 0x10888444 0x000000DC
+
+_C0 Skit #221
+_L 0x10888444 0x000000DD
+
+_C0 Skit #222
+_L 0x10888444 0x000000DE
+
+_C0 Skit #223
+_L 0x10888444 0x000000DF
+
+_C0 Skit #224
+_L 0x10888444 0x000000E0
+
+_C0 Skit #225
+_L 0x10888444 0x000000E1
+
+_C0 Skit #226
+_L 0x10888444 0x000000E2
+
+_C0 Skit #227
+_L 0x10888444 0x000000E3
+
+_C0 Skit #228
+_L 0x10888444 0x000000E4
+
+_C0 Skit #229
+_L 0x10888444 0x000000E5
+
+_C0 Skit #230
+_L 0x10888444 0x000000E6
+
+_C0 Skit #231
+_L 0x10888444 0x000000E7
+
+_C0 Skit #232
+_L 0x10888444 0x000000E8
+
+_C0 Skit #233
+_L 0x10888444 0x000000E9
+
+_C0 Skit #234
+_L 0x10888444 0x000000EA
+
+_C0 Skit #235
+_L 0x10888444 0x000000EB
+
+_C0 Skit #236
+_L 0x10888444 0x000000EC
+
+_C0 Skit #237
+_L 0x10888444 0x000000ED
+
+_C0 Skit #238
+_L 0x10888444 0x000000EE
+
+_C0 Skit #239
+_L 0x10888444 0x000000EF
+
+_C0 Skit #240
+_L 0x10888444 0x000000F0
+
+_C0 Skit #241
+_L 0x10888444 0x000000F1
+
+_C0 Skit #242
+_L 0x10888444 0x000000F2
+
+_C0 Skit #243
+_L 0x10888444 0x000000F3
+
+_C0 Skit #244
+_L 0x10888444 0x000000F4
+
+_C0 Skit #245
+_L 0x10888444 0x000000F5
+
+_C0 Skit #246
+_L 0x10888444 0x000000F6
+
+_C0 Skit #247
+_L 0x10888444 0x000000F7
+
+_C0 Skit #248
+_L 0x10888444 0x000000F8
+
+_C0 Skit #249
+_L 0x10888444 0x000000F9
+
+_C0 Skit #250
+_L 0x10888444 0x000000FA
+
+_C0 Skit #251
+_L 0x10888444 0x000000FB
+
+_C0 Skit #252
+_L 0x10888444 0x000000FC
+
+_C0 Skit #253
+_L 0x10888444 0x000000FD
+
+_C0 Skit #254
+_L 0x10888444 0x000000FE
+
+_C0 Skit #255
+_L 0x10888444 0x000000FF
+
+_C0 Skit #256
+_L 0x10888444 0x00000100
+
+_C0 Skit #257
+_L 0x10888444 0x00000101
+
+_C0 Skit #258
+_L 0x10888444 0x00000102
+
+;--------------------------------------------------------------------------------;
+
+_C0 --------------------------------
+_M 0xCF000001 0x00000000
+
+;BATTLE CODES
+;Activate one to always have the same battle
+;To be able to see the full list you need the latest version of TempAR (>=1.6.4)
+;https://github.com/raing3/tempar/releases/latest
+;Set in [PRX] tab "Max Cheats?" to 2000 and "Max Blocks?" to 2496, then select "Save Settings"
+
+
+_C0 TOPX Battle Modifier
+_M 0xCF000000 0x000002A8    
+
+_C0 #000 Dhaos (Prologue)
+_L 0x10889AB6 0x00000000
+
+_C0 #001 God Bear Mark 2 (Dummy Boss)
+_L 0x10889AB6 0x00000001
+
+_C0 #002 3 Giant Bee
+_L 0x10889AB6 0x00000002
+
+_C0 #003 3 Bugbear
+_L 0x10889AB6 0x00000003
+
+_C0 #004 3 Owl
+_L 0x10889AB6 0x00000004
+
+_C0 #005 2 Bugbear 1 Owl
+_L 0x10889AB6 0x00000005
+
+_C0 #006 2 Bugbear 1 Giant Bee
+_L 0x10889AB6 0x00000006
+
+_C0 #007 2 Anaconda
+_L 0x10889AB6 0x00000007
+
+_C0 #008 2 Anaconda 1 Owl (Ambush)
+_L 0x10889AB6 0x00000008
+
+_C0 #009 3 Anaconda
+_L 0x10889AB6 0x00000009
+
+_C0 #010 1 Anaconda 2 Dingo (Ambush)
+_L 0x10889AB6 0x0000000A
+
+_C0 #011 1 Boar 3 Piglet (Boss)
+_L 0x10889AB6 0x0000000B
+
+_C0 #012 4 Bugbear
+_L 0x10889AB6 0x0000000C
+
+_C0 #013 2 Bugbear
+_L 0x10889AB6 0x0000000D
+
+_C0 #014 3 Dingo
+_L 0x10889AB6 0x0000000E
+
+_C0 #015 2 Bugbear 1 Dingo (Ambush)
+_L 0x10889AB6 0x0000000F
+
+_C0 #016 1 Dingo 2 Owl
+_L 0x10889AB6 0x00000010
+
+_C0 #017 3 Owl (Behind)
+_L 0x10889AB6 0x00000011
+
+_C0 #018 3 Slime
+_L 0x10889AB6 0x00000012
+
+_C0 #019 1 Giant Slug
+_L 0x10889AB6 0x00000013
+
+_C0 #020 3 Giant Slug
+_L 0x10889AB6 0x00000014
+
+_C0 #021 3 Giant Bat
+_L 0x10889AB6 0x00000015
+
+_C0 #022 4 Giant Bat (Ambush)
+_L 0x10889AB6 0x00000016
+
+_C0 #023 2 Slime 1 Giant Slug (Ambush)
+_L 0x10889AB6 0x00000017
+
+_C0 #024 1 Clay Demon 2 Giant Bat 2 Giant Slug (Boss)
+_L 0x10889AB6 0x00000018
+
+_C0 #025 2 Skeleton (Ambush)
+_L 0x10889AB6 0x00000019
+
+_C0 #026 5 Giant Slug
+_L 0x10889AB6 0x0000001A
+
+_C0 #027 3 Giant Frog
+_L 0x10889AB6 0x0000001B
+
+_C0 #028 3 Slime (Behind)
+_L 0x10889AB6 0x0000001C
+
+_C0 #029 3 Giant Bat 2 Giant Frog (Ambush)
+_L 0x10889AB6 0x0000001D
+
+_C0 #030 2 Giant Bat 2 Giant Slug (Ambush)
+_L 0x10889AB6 0x0000001E
+
+_C0 #031 3 Slime (Ambush)
+_L 0x10889AB6 0x0000001F
+
+_C0 #032 1 Mummy
+_L 0x10889AB6 0x00000020
+
+_C0 #033 1 Mummy (Behind)
+_L 0x10889AB6 0x00000021
+
+_C0 #034 2 Skeleton
+_L 0x10889AB6 0x00000022
+
+_C0 #035 4 Skeleton
+_L 0x10889AB6 0x00000023
+
+_C0 #036 1 Clay Demon
+_L 0x10889AB6 0x00000024
+
+_C0 #037 2 Clay Demon (Ambush)
+_L 0x10889AB6 0x00000025
+
+_C0 #038 2 Skeleton 1 Clay Demon
+_L 0x10889AB6 0x00000026
+
+_C0 #039 1 Skeleton 1 Clay Demon (Ambush)
+_L 0x10889AB6 0x00000027
+
+_C0 #040 1 Golem (Boss)
+_L 0x10889AB6 0x00000028
+
+_C0 #041 2 Golem (Ambush)
+_L 0x10889AB6 0x00000029
+
+_C0 #042 2 Ghoul
+_L 0x10889AB6 0x0000002A
+
+_C0 #043 3 Ghoul (Behind)
+_L 0x10889AB6 0x0000002B
+
+_C0 #044 2 Skeleton 1 Ghoul
+_L 0x10889AB6 0x0000002C
+
+_C0 #046 2 Lizard Fly
+_L 0x10889AB6 0x0000002E
+
+_C0 #047 3 Lizard Fly (Behind)
+_L 0x10889AB6 0x0000002F
+
+_C0 #048 3 Lizard Fly (Ambush)
+_L 0x10889AB6 0x00000030
+
+_C0 #049 1 Ghoul 1 Clay Demon
+_L 0x10889AB6 0x00000031
+
+_C0 #050 1 Skeleton Ghoul 1 Clay Demon
+_L 0x10889AB6 0x00000032
+
+_C0 #051 2 Lizard Fly 1 Skeleton 1 Ghoul
+_L 0x10889AB6 0x00000033
+
+_C0 #052 1 Boar 3 Piglet
+_L 0x10889AB6 0x00000034
+
+_C0 #053 3 Hornet
+_L 0x10889AB6 0x00000035
+
+_C0 #054 3 Bogle
+_L 0x10889AB6 0x00000036
+
+_C0 #055 3 Killer Owl
+_L 0x10889AB6 0x00000037
+
+_C0 #056 2 Bogle 1 Killer Owl
+_L 0x10889AB6 0x00000038
+
+_C0 #057 2 Bogle 2 Hornet
+_L 0x10889AB6 0x00000039
+
+_C0 #058 2 Python
+_L 0x10889AB6 0x0000003A
+
+_C0 #059 2 Python 1 Killer Owl (Ambush)
+_L 0x10889AB6 0x0000003B
+
+_C0 #060 3 Python 2 Hornet
+_L 0x10889AB6 0x0000003C
+
+_C0 #061 3 Python (Behind)
+_L 0x10889AB6 0x0000003D
+
+_C0 #062 3 Jackal
+_L 0x10889AB6 0x0000003E
+
+_C0 #063 4 Jackal (Ambush)
+_L 0x10889AB6 0x0000003F
+
+_C0 #064 2 Bogle 2 Jackal (Ambush)
+_L 0x10889AB6 0x00000040
+
+_C0 #065 2 Killer Owl 1 Jackal (Behind)
+_L 0x10889AB6 0x00000041
+
+_C0 #066 2 Bogle 2 Jackal
+_L 0x10889AB6 0x00000042
+
+_C0 #067 4 Bogle (Behind)
+_L 0x10889AB6 0x00000043
+
+_C0 #068 2 Bogle 2 Killer Owl (Behind)
+_L 0x10889AB6 0x00000044
+
+_C0 #069 2 Vulture
+_L 0x10889AB6 0x00000045
+
+_C0 #070 2 Vulture (Behind)
+_L 0x10889AB6 0x00000046
+
+_C0 #071 2 Vulture 2 Killer Owl (Ambush)
+_L 0x10889AB6 0x00000047
+
+_C0 #072 2 Bogle 1 Vulture
+_L 0x10889AB6 0x00000048
+
+_C0 #073 2 Harpy
+_L 0x10889AB6 0x00000049
+
+_C0 #074 2 Harpy (Behind)
+_L 0x10889AB6 0x0000004A
+
+_C0 #075 2 Peepit
+_L 0x10889AB6 0x0000004B
+
+_C0 #076 2 Peepit (Behind)
+_L 0x10889AB6 0x0000004C
+
+_C0 #077 2 Harpy 2 Peepit (Ambush)
+_L 0x10889AB6 0x0000004D
+
+_C0 #078 3 Peepit
+_L 0x10889AB6 0x0000004E
+
+_C0 #079 3 Harpy (Ambush)
+_L 0x10889AB6 0x0000004F
+
+_C0 #080 2 Blue Sylph 2 Red Sylph (Boss)
+_L 0x10889AB6 0x00000050
+
+_C0 #081 5 Giant Leech
+_L 0x10889AB6 0x00000051
+
+_C0 #082 3 Giant Leech
+_L 0x10889AB6 0x00000052
+
+_C0 #083 3 Giant Leech (Behind)
+_L 0x10889AB6 0x00000053
+
+_C0 #084 3 Living Dead
+_L 0x10889AB6 0x00000054
+
+_C0 #085 3 Living Dead (Behind)
+_L 0x10889AB6 0x00000055
+
+_C0 #086 2 Lizard Man
+_L 0x10889AB6 0x00000056
+
+_C0 #087 2 Lizard Man (Behind)
+_L 0x10889AB6 0x00000057
+
+_C0 #088 2 Living Dead 1 Lizard Man
+_L 0x10889AB6 0x00000058
+
+_C0 #089 5 Giant Leech (Ambush)
+_L 0x10889AB6 0x00000059
+
+_C0 #090 Hellmaster (Avoid)
+_L 0x10889AB6 0x0000005A
+
+_C0 #091 2 Blue Sylph 1 Red Sylph (Cave Boss)
+_L 0x10889AB6 0x0000005B
+
+_C0 #092 2 Jackal 1 Vulture
+_L 0x10889AB6 0x0000005C
+
+_C0 #093 2 Jackal 2 Vulture (Ambush)
+_L 0x10889AB6 0x0000005D
+
+_C0 #094 2 Jackal 2 Vulture (Behind)
+_L 0x10889AB6 0x0000005E
+
+_C0 #095 2 Viper
+_L 0x10889AB6 0x0000005F
+
+_C0 #096 2 Viper (Ambush)
+_L 0x10889AB6 0x00000060
+
+_C0 #097 2 Bone Knight
+_L 0x10889AB6 0x00000061
+
+_C0 #098 2 Bone Knight (Behind)
+_L 0x10889AB6 0x00000062
+
+_C0 #099 2 Bone Knight (Ambush)
+_L 0x10889AB6 0x00000063
+
+_C0 #100 2 Wraith
+_L 0x10889AB6 0x00000064
+
+_C0 #101 2 Wraith (Behind)
+_L 0x10889AB6 0x00000065
+
+_C0 #102 2 Wraith (Ambush)
+_L 0x10889AB6 0x00000066
+
+_C0 #103 3 Bone Knight
+_L 0x10889AB6 0x00000067
+
+_C0 #104 2 Bone Knight 1 Wraith
+_L 0x10889AB6 0x00000068
+
+_C0 #105 2 Oakrot (Garden Boss)
+_L 0x10889AB6 0x00000069
+
+_C0 #106 Demeter 2 Golem 2 Wraith (Boss)
+_L 0x10889AB6 0x0000006A
+
+_C0 #107 Mayer (Boss)
+_L 0x10889AB6 0x0000006B
+
+_C0 #108 3 Vulture
+_L 0x10889AB6 0x0000006C
+
+_C0 #109 4 Vulture (Ambush)
+_L 0x10889AB6 0x0000006D
+
+_C0 #110 5 Hornet
+_L 0x10889AB6 0x0000006E
+
+_C0 #111 Jahmir 2 Arch Knight (Boss)
+_L 0x10889AB6 0x0000006F
+
+_C0 #112 3 Desert Fly
+_L 0x10889AB6 0x00000070
+
+_C0 #113 3 Desert Fly (Behind)
+_L 0x10889AB6 0x00000071
+
+_C0 #114 2 Sidewinder
+_L 0x10889AB6 0x00000072
+
+_C0 #115 2 Sidewinder (Behind)
+_L 0x10889AB6 0x00000073
+
+_C0 #116 2 Desert King
+_L 0x10889AB6 0x00000074
+
+_C0 #117 2 Desert King (Behind)
+_L 0x10889AB6 0x00000075
+
+_C0 #118 3 Giant Scorpion
+_L 0x10889AB6 0x00000076
+
+_C0 #119 3 Giant Scorpion (Behind)
+_L 0x10889AB6 0x00000077
+
+_C0 #120 2 Sidewinder 1 Desert King 2 Giant Scorpion (Ambush)
+_L 0x10889AB6 0x00000078
+
+_C0 #121 2 Desert Fly 1 Desert King
+_L 0x10889AB6 0x00000079
+
+_C0 #122 3 Desert King 2 Giant Scorpion (Ambush)
+_L 0x10889AB6 0x0000007A
+
+_C0 #123 3 Dragon Knight
+_L 0x10889AB6 0x0000007B
+
+_C0 #124 4 Dragon Knight (Ambush)
+_L 0x10889AB6 0x0000007C
+
+_C0 #125 2 Azar
+_L 0x10889AB6 0x0000007D
+
+_C0 #126 2 Azar (Behind)
+_L 0x10889AB6 0x0000007E
+
+_C0 #127 3 Burning Dead
+_L 0x10889AB6 0x0000007F
+
+_C0 #128 3 Burning Dead (Behind)
+_L 0x10889AB6 0x00000080
+
+_C0 #129 Will O' Wisp
+_L 0x10889AB6 0x00000081
+
+_C0 #130 2 Azar 2 Burning Dead (Ambush)
+_L 0x10889AB6 0x00000082
+
+_C0 #131 2 Will O' Wisp 1 Burning Dead
+_L 0x10889AB6 0x00000083
+
+_C0 #132 2 Dragon Knight 1 Azar (Behind)
+_L 0x10889AB6 0x00000084
+
+_C0 #133 2 Will O' Wisp 1 Azar
+_L 0x10889AB6 0x00000085
+
+_C0 #134 Efreet (Boss)
+_L 0x10889AB6 0x00000086
+
+_C0 #135 4 Black Bat
+_L 0x10889AB6 0x00000087
+
+_C0 #136 3 Black Bat (Behind)
+_L 0x10889AB6 0x00000088
+
+_C0 #137 3 Giant Toad
+_L 0x10889AB6 0x00000089
+
+_C0 #138 3 Giant Toad (Behind)
+_L 0x10889AB6 0x0000008A
+
+_C0 #139 2 Green Roper
+_L 0x10889AB6 0x0000008B
+
+_C0 #140 2 Green Roper (Behind)
+_L 0x10889AB6 0x0000008C
+
+_C0 #141 3 Black Bat 2 Giant Toad
+_L 0x10889AB6 0x0000008D
+
+_C0 #142 1 Black Bat 3 Giant Toad 1 Green Roper (Ambush)
+_L 0x10889AB6 0x0000008E
+
+_C0 #143 4 Gnomelette
+_L 0x10889AB6 0x0000008F
+
+_C0 #144 Gnome (Boss)
+_L 0x10889AB6 0x00000090
+
+_C0 #145 6 Sea Slug
+_L 0x10889AB6 0x00000091
+
+_C0 #146 4 Sea Slug
+_L 0x10889AB6 0x00000092
+
+_C0 #147 2 Squid
+_L 0x10889AB6 0x00000093
+
+_C0 #148 2 Squid (Behind)
+_L 0x10889AB6 0x00000094
+
+_C0 #149 2 Starfish
+_L 0x10889AB6 0x00000095
+
+_C0 #150 2 Starfish (Ambush)
+_L 0x10889AB6 0x00000096
+
+_C0 #151 3 Sea Slug 2 Squid (Ambush)
+_L 0x10889AB6 0x00000097
+
+_C0 #152 3 Squid (Ambush)
+_L 0x10889AB6 0x00000098
+
+_C0 #153 2 Sea Slug 2 Starfish 1 Squid
+_L 0x10889AB6 0x00000099
+
+_C0 #154 2 Starfish 1 Squid (Behind)
+_L 0x10889AB6 0x0000009A
+
+_C0 #155 2 Starfish 1 Squid (Ambush)
+_L 0x10889AB6 0x0000009B
+
+_C0 #156 Undine 2 Squid 3 Sea Slug (Boss)
+_L 0x10889AB6 0x0000009C
+
+_C0 #157 4 Ochre Jelly
+_L 0x10889AB6 0x0000009D
+
+_C0 #158 5 Ochre Jelly (Ambush)
+_L 0x10889AB6 0x0000009E
+
+_C0 #159 5 Vampire Bat
+_L 0x10889AB6 0x0000009F
+
+_C0 #160 4 Vampire Bat (Behind)
+_L 0x10889AB6 0x000000A0
+
+_C0 #161 2 Belladonna
+_L 0x10889AB6 0x000000A1
+
+_C0 #162 2 Belladonna (Behind)
+_L 0x10889AB6 0x000000A2
+
+_C0 #163 3 Ochre Jelly 3 Vampire Bat (Ambush)
+_L 0x10889AB6 0x000000A3
+
+_C0 #164 3 Ochre Jelly 1 Belladonna (Behind)
+_L 0x10889AB6 0x000000A4
+
+_C0 #165 4 Vampire Bat 2 Belladonna
+_L 0x10889AB6 0x000000A5
+
+_C0 #166 2 Ochre Jelly 3 Vampire Bat 1 Belladonna (Ambush)
+_L 0x10889AB6 0x000000A6
+
+_C0 #167 4 Caveman
+_L 0x10889AB6 0x000000A7
+
+_C0 #168 5 Caveman (Ambush)
+_L 0x10889AB6 0x000000A8
+
+_C0 #169 4 Vampire Bat 2 Caveman (Behind)
+_L 0x10889AB6 0x000000A9
+
+_C0 #170 Belladonna 3 Caveman
+_L 0x10889AB6 0x000000AA
+
+_C0 #171 3 Vampire Bat 1 Belladonna 1 Caveman (Ambush)
+_L 0x10889AB6 0x000000AB
+
+_C0 #172 2 Ogre
+_L 0x10889AB6 0x000000AC
+
+_C0 #173 3 Ogre (Ambush)
+_L 0x10889AB6 0x000000AD
+
+_C0 #174 3 Winged Devil
+_L 0x10889AB6 0x000000AE
+
+_C0 #175 3 Winged Devil (Behind)
+_L 0x10889AB6 0x000000AF
+
+_C0 #176 2 Belladonna 2 Ogre
+_L 0x10889AB6 0x000000B0
+
+_C0 #177 3 Caveman 2 Ogre (Ambush)
+_L 0x10889AB6 0x000000B1
+
+_C0 #178 2 Belladonna 2 Winged Devil (Behind)
+_L 0x10889AB6 0x000000B2
+
+_C0 #179 3 Caveman 2 Winged Devil
+_L 0x10889AB6 0x000000B3
+
+_C0 #180 2 Ogre 2 Winged Devil (Ambush)
+_L 0x10889AB6 0x000000B4
+
+_C0 #181 2 Caveman 1 Ogre 2 Winged Devil (Ambush)
+_L 0x10889AB6 0x000000B5
+
+_C0 #182 2 Gazehound
+_L 0x10889AB6 0x000000B6
+
+_C0 #183 2 Gazehound (Ambush)
+_L 0x10889AB6 0x000000B7
+
+_C0 #184 2 Caveman 2 Gazehound (Behind)
+_L 0x10889AB6 0x000000B8
+
+_C0 #185 2 Ogre 1 Gazehound
+_L 0x10889AB6 0x000000B9
+
+_C0 #186 2 Winged Devil 2 Gazehound
+_L 0x10889AB6 0x000000BA
+
+_C0 #187 1 Ogre 2 Winged Devil 1 Gazehound (Ambush)
+_L 0x10889AB6 0x000000BB
+
+_C0 #188 2 Cave Spider
+_L 0x10889AB6 0x000000BC
+
+_C0 #189 2 Cave Spider (Ambush)
+_L 0x10889AB6 0x000000BD
+
+_C0 #190 2 Winged Devil 1 Cave Spider
+_L 0x10889AB6 0x000000BE
+
+_C0 #191 2 Gazehound 1 Cave Spider (Behind)
+_L 0x10889AB6 0x000000BF
+
+_C0 #192 Hellmaster 2 Winged Devil
+_L 0x10889AB6 0x000000C0
+
+_C0 #193 Hellmaster 3 Winged Devil (Ambush)
+_L 0x10889AB6 0x000000C1
+
+_C0 #194 Maxwell (Boss)
+_L 0x10889AB6 0x000000C2
+
+_C0 #195 Basilisk
+_L 0x10889AB6 0x000000C3
+
+_C0 #196 Basilisk (Behind)
+_L 0x10889AB6 0x000000C4
+
+_C0 #197 6 Giant Wasp
+_L 0x10889AB6 0x000000C5
+
+_C0 #198 7 Giant Wasp (Ambush)
+_L 0x10889AB6 0x000000C6
+
+_C0 #199 Vulture 4 Giant Wasp
+_L 0x10889AB6 0x000000C7
+
+_C0 #200 2 Vulture 4 Giant Wasp (Ambush)
+_L 0x10889AB6 0x000000C8
+
+_C0 #201 2 Vulture 2 Peepit
+_L 0x10889AB6 0x000000C9
+
+_C0 #202 1 Vulture 3 Giant Wasp 1 Peepit
+_L 0x10889AB6 0x000000CA
+
+_C0 #203 5 Giant Wasp 1 Peepit
+_L 0x10889AB6 0x000000CB
+
+_C0 #204 2 Mighty Oak
+_L 0x10889AB6 0x000000CC
+
+_C0 #205 2 Mighty Oak (Ambush)
+_L 0x10889AB6 0x000000CD
+
+_C0 #206 4 Dragonfly
+_L 0x10889AB6 0x000000CE
+
+_C0 #207 4 Dragonfly (Behind)
+_L 0x10889AB6 0x000000CF
+
+_C0 #208 6 Dragonfly (Ambush)
+_L 0x10889AB6 0x000000D0
+
+_C0 #209 3 Dragonfly 2 Mighty Oak
+_L 0x10889AB6 0x000000D1
+
+_C0 #210 3 Dragonfly 1 Mighty Oak (Behind)
+_L 0x10889AB6 0x000000D2
+
+_C0 #211 3 Giant Wasp 3 Dragonfly
+_L 0x10889AB6 0x000000D3
+
+_C0 #212 3 Giant Wasp 2 Dragonfly 1 Mighty Oak (Ambush)
+_L 0x10889AB6 0x000000D4
+
+_C0 #213 2 Wolfsbane
+_L 0x10889AB6 0x000000D5
+
+_C0 #214 2 Wolfsbane (Behind)
+_L 0x10889AB6 0x000000D6
+
+_C0 #215 2 Brown Bear
+_L 0x10889AB6 0x000000D7
+
+_C0 #216 2 Brown Bear (Ambush)
+_L 0x10889AB6 0x000000D8
+
+_C0 #217 3 Bushwhacker
+_L 0x10889AB6 0x000000D9
+
+_C0 #218 4 Bushwhacker
+_L 0x10889AB6 0x000000DA
+
+_C0 #219 2 Wolfsbane 1 Mighty Oak (Behind)
+_L 0x10889AB6 0x000000DB
+
+_C0 #220 2 Brown Bear 1 Mighty Oak
+_L 0x10889AB6 0x000000DC
+
+_C0 #221 3 Dragonfly 1 Wolfsbane 1 Brown Bear
+_L 0x10889AB6 0x000000DD
+
+_C0 #222 3 Dragonfly 1 Mighty Oak 1 Brown Bear (Behind)
+_L 0x10889AB6 0x000000DE
+
+_C0 #223 2 Wolfsbane 1 Brown Bear 1 Mighty Oak
+_L 0x10889AB6 0x000000DF
+
+_C0 #224 5 Jackal
+_L 0x10889AB6 0x000000E0
+
+_C0 #225 5 Jackal (Behind)
+_L 0x10889AB6 0x000000E1
+
+_C0 #226 4 Vulture
+_L 0x10889AB6 0x000000E2
+
+_C0 #227 4 Vulture (Behind)
+_L 0x10889AB6 0x000000E3
+
+_C0 #228 3 Red Roper
+_L 0x10889AB6 0x000000E4
+
+_C0 #229 3 Red Roper (Behind)
+_L 0x10889AB6 0x000000E5
+
+_C0 #230 3 Jackal 1 Red Roper
+_L 0x10889AB6 0x000000E6
+
+_C0 #231 3 Vulture 1 Red Roper
+_L 0x10889AB6 0x000000E7
+
+_C0 #232 2 Jackal 2 Vulture 1 Red Roper
+_L 0x10889AB6 0x000000E8
+
+_C0 #233 1 Jackal 2 Vulture 1 Red Roper (Ambush)
+_L 0x10889AB6 0x000000E9
+
+_C0 #234 4 Red Roper
+_L 0x10889AB6 0x000000EA
+
+_C0 #235 2 Lizard
+_L 0x10889AB6 0x000000EB
+
+_C0 #236 2 Lizard (Behind)
+_L 0x10889AB6 0x000000EC
+
+_C0 #237 2 Lizard (Ambush)
+_L 0x10889AB6 0x000000ED
+
+_C0 #238 2 Iron Golem
+_L 0x10889AB6 0x000000EE
+
+_C0 #239 2 Iron Golem (Behind)
+_L 0x10889AB6 0x000000EF
+
+_C0 #240 3 Shade
+_L 0x10889AB6 0x000000F0
+
+_C0 #241 3 Shade (Ambush)
+_L 0x10889AB6 0x000000F1
+
+_C0 #242 2 Iron Golem 1 Shade (Ambush)
+_L 0x10889AB6 0x000000F2
+
+_C0 #243 2 Depraved Monk
+_L 0x10889AB6 0x000000F3
+
+_C0 #244 2 Depraved Monk (Behind)
+_L 0x10889AB6 0x000000F4
+
+_C0 #245 2 Medium
+_L 0x10889AB6 0x000000F5
+
+_C0 #246 2 Medium (Behind)
+_L 0x10889AB6 0x000000F6
+
+_C0 #247 Iron Golem 2 Depraved Monk
+_L 0x10889AB6 0x000000F7
+
+_C0 #248 Iron Golem 2 Depraved Monk
+_L 0x10889AB6 0x000000F8
+
+_C0 #249 Iron Golem 2 Medium
+_L 0x10889AB6 0x000000F9
+
+_C0 #250 Iron Golem 2 Medium
+_L 0x10889AB6 0x000000FA
+
+_C0 #251 Iron Golem Depraved Monk Medium
+_L 0x10889AB6 0x000000FB
+
+_C0 #252 Iron Golem Depraved Monk Medium (Behind)
+_L 0x10889AB6 0x000000FC
+
+_C0 #253 Hellmaster (Behind)
+_L 0x10889AB6 0x000000FD
+
+_C0 #254 Hellmaster 2 Cave Spider
+_L 0x10889AB6 0x000000FE
+
+_C0 #255 Hellmaster 2 Cave Spider (Ambush)
+_L 0x10889AB6 0x000000FF
+
+_C0 #256 3 4440R
+_L 0x10889AB6 0x00000100
+
+_C0 #257 Origin 3 Alraune (Boss)
+_L 0x10889AB6 0x00000101
+
+_C0 #258 Shaman 2 Jackal
+_L 0x10889AB6 0x00000102
+
+_C0 #259 Shaman 2 Jackal (Behind)
+_L 0x10889AB6 0x00000103
+
+_C0 #260 5 Red Pudding
+_L 0x10889AB6 0x00000104
+
+_C0 #261 6 Red Pudding (Ambush)
+_L 0x10889AB6 0x00000105
+
+_C0 #262 4 Red Pudding (Behind)
+_L 0x10889AB6 0x00000106
+
+_C0 #263 2 White Bear
+_L 0x10889AB6 0x00000107
+
+_C0 #264 2 White Bear (Behind)
+_L 0x10889AB6 0x00000108
+
+_C0 #265 3 Archer
+_L 0x10889AB6 0x00000109
+
+_C0 #266 3 Archer (Behind)
+_L 0x10889AB6 0x0000010A
+
+_C0 #267 3 Snow Bunny
+_L 0x10889AB6 0x0000010B
+
+_C0 #268 3 Snow Bunny (Behind)
+_L 0x10889AB6 0x0000010C
+
+_C0 #269 White Bear 3 Snow Bunny
+_L 0x10889AB6 0x0000010D
+
+_C0 #270 2 White Bear 3 Snow Bunny (Ambush)
+_L 0x10889AB6 0x0000010E
+
+_C0 #271 2 White Bear 2 Snow Bunny (Behind)
+_L 0x10889AB6 0x0000010F
+
+_C0 #272 Ishrantu 1 Dragon's Tooth 2 Dragonewt (Boss)
+_L 0x10889AB6 0x00000110
+
+_C0 #273 3 Werevulture
+_L 0x10889AB6 0x00000111
+
+_C0 #274 3 Phantom
+_L 0x10889AB6 0x00000112
+
+_C0 #275 2 Winged Devil 1 Phantom 1 Werevulture
+_L 0x10889AB6 0x00000113
+
+_C0 #276 3 Winged Devil
+_L 0x10889AB6 0x00000114
+
+_C0 #277 Ishrantu 2 Winged Devil Phantom (Boss)
+_L 0x10889AB6 0x00000115
+
+_C0 #278 2 Doom Guard
+_L 0x10889AB6 0x00000116
+
+_C0 #279 2 Doom Guard (Behind)
+_L 0x10889AB6 0x00000117
+
+_C0 #280 2 Doom Guard 2 Monk Soldier
+_L 0x10889AB6 0x00000118
+
+_C0 #281 2 Doom Guard 2 Monk Soldier (Ambush)
+_L 0x10889AB6 0x00000119
+
+_C0 #282 2 Doom Guard 2 Sorcerer's
+_L 0x10889AB6 0x0000011A
+
+_C0 #283 2 Doom Guard 2 Sorcerer's (Behind)
+_L 0x10889AB6 0x0000011B
+
+_C0 #284 2 Samurai
+_L 0x10889AB6 0x0000011C
+
+_C0 #285 2 Samurai (Ambush)
+_L 0x10889AB6 0x0000011D
+
+_C0 #286 3 Kage
+_L 0x10889AB6 0x0000011E
+
+_C0 #287 3 Kage (Behind)
+_L 0x10889AB6 0x0000011F
+
+_C0 #288 2 Kage 2 Samurai
+_L 0x10889AB6 0x00000120
+
+_C0 #289 2 Kage 2 Samurai (Behind)
+_L 0x10889AB6 0x00000121
+
+_C0 #290 Lich
+_L 0x10889AB6 0x00000122
+
+_C0 #291 Lich (Behind)
+_L 0x10889AB6 0x00000123
+
+_C0 #292 Jinn
+_L 0x10889AB6 0x00000124
+
+_C0 #293 Jinn (Behind)
+_L 0x10889AB6 0x00000125
+
+_C0 #294 Dhaos (Past) 2 Evil Lord (Boss)
+_L 0x10889AB6 0x00000126
+
+_C0 #295 3 Evil Lord (Boss)
+_L 0x10889AB6 0x00000127
+
+_C0 #296 2 Merman
+_L 0x10889AB6 0x00000128
+
+_C0 #297 2 Merman (Ambush)
+_L 0x10889AB6 0x00000129
+
+_C0 #298 Living Sword
+_L 0x10889AB6 0x0000012A
+
+_C0 #299 2 Merman 1 Living Sword
+_L 0x10889AB6 0x0000012B
+
+_C0 #300 2 Merman 2 Living Sword (Ambush)
+_L 0x10889AB6 0x0000012C
+
+_C0 #301 Jann
+_L 0x10889AB6 0x0000012D
+
+_C0 #302 3000R
+_L 0x10889AB6 0x0000012E
+
+_C0 #303 4400R
+_L 0x10889AB6 0x0000012F
+
+_C0 #304 3000R 2 4400R
+_L 0x10889AB6 0x00000130
+
+_C0 #305 2 3000R 2 4400R (Ambush)
+_L 0x10889AB6 0x00000131
+
+_C0 #306 2 2SH
+_L 0x10889AB6 0x00000132
+
+_C0 #307 3 4400R 2SH (Boss)
+_L 0x10889AB6 0x00000133
+
+_C0 #308 Dhaos (Present) (Boss)
+_L 0x10889AB6 0x00000134
+
+_C0 #309 7 Killer Bee
+_L 0x10889AB6 0x00000135
+
+_C0 #310 6 Bodach
+_L 0x10889AB6 0x00000136
+
+_C0 #311 4 Predator
+_L 0x10889AB6 0x00000137
+
+_C0 #312 3 Bodach 4 Killer Bee
+_L 0x10889AB6 0x00000138
+
+_C0 #313 3 Bodach 2 Predator (Behind)
+_L 0x10889AB6 0x00000139
+
+_C0 #314 3 King Cobra
+_L 0x10889AB6 0x0000013A
+
+_C0 #315 3 Predator 2 King Cobra
+_L 0x10889AB6 0x0000013B
+
+_C0 #316 4 Killer Bee 2 King Cobra
+_L 0x10889AB6 0x0000013C
+
+_C0 #317 5 Timber Wolf
+_L 0x10889AB6 0x0000013D
+
+_C0 #318 5 Timber Wolf (Ambush)
+_L 0x10889AB6 0x0000013E
+
+_C0 #319 3 Bodach 2 Timber Wolf
+_L 0x10889AB6 0x0000013F
+
+_C0 #320 3 Predator 3 Timber Wolf
+_L 0x10889AB6 0x00000140
+
+_C0 #321 3 Bodach 2 King Cobra
+_L 0x10889AB6 0x00000141
+
+_C0 #322 4 Poison Toad
+_L 0x10889AB6 0x00000142
+
+_C0 #323 5 Poison Toad (Ambush)
+_L 0x10889AB6 0x00000143
+
+_C0 #324 3 Nebiros
+_L 0x10889AB6 0x00000144
+
+_C0 #325 3 Nebiros (Behind)
+_L 0x10889AB6 0x00000145
+
+_C0 #326 3 Carcass
+_L 0x10889AB6 0x00000146
+
+_C0 #327 4 Carcass (Ambush)
+_L 0x10889AB6 0x00000147
+
+_C0 #328 2 Nebiros 2 Carcass
+_L 0x10889AB6 0x00000148
+
+_C0 #329 2 Hatamoto
+_L 0x10889AB6 0x00000149
+
+_C0 #330 3 Hatamoto
+_L 0x10889AB6 0x0000014A
+
+_C0 #331 2 Carcass 2 Hatamoto (Behind)
+_L 0x10889AB6 0x0000014B
+
+_C0 #332 3 Carcass 2 Hatamoto (Ambush)
+_L 0x10889AB6 0x0000014C
+
+_C0 #333 Thunder Dragon
+_L 0x10889AB6 0x0000014D
+
+_C0 #334 Thunder Dragon (Behind)
+_L 0x10889AB6 0x0000014E
+
+_C0 #335 2 Nebiros 3 Hatamoto
+_L 0x10889AB6 0x0000014F
+
+_C0 #336 Volt 2 Hatamoto 1 Carcass (Boss)
+_L 0x10889AB6 0x00000150
+
+_C0 #337 4 Scavenger
+_L 0x10889AB6 0x00000151
+
+_C0 #338 4 Bodach 2 Scavenger
+_L 0x10889AB6 0x00000152
+
+_C0 #339 3 Predator 3 Scavenger (Ambush)
+_L 0x10889AB6 0x00000153
+
+_C0 #340 3 Siren
+_L 0x10889AB6 0x00000154
+
+_C0 #341 4 Siren (Ambush)
+_L 0x10889AB6 0x00000155
+
+_C0 #342 3 Chirpee
+_L 0x10889AB6 0x00000156
+
+_C0 #343 3 Chirpee (Behind)
+_L 0x10889AB6 0x00000157
+
+_C0 #344 2 Siren 3 Chirpee
+_L 0x10889AB6 0x00000158
+
+_C0 #345 2 Siren 3 Chirpee (Ambush)
+_L 0x10889AB6 0x00000159
+
+_C0 #346 7 Blood Sucker
+_L 0x10889AB6 0x0000015A
+
+_C0 #347 7 Blood Sucker (Ambush)
+_L 0x10889AB6 0x0000015B
+
+_C0 #348 3 Wight
+_L 0x10889AB6 0x0000015C
+
+_C0 #349 3 Wight (Behind)
+_L 0x10889AB6 0x0000015D
+
+_C0 #350 4 Dragonewt
+_L 0x10889AB6 0x0000015E
+
+_C0 #351 3 Dragonewt (Ambush)
+_L 0x10889AB6 0x0000015F
+
+_C0 #352 2 Wight 3 Dragonewt
+_L 0x10889AB6 0x00000160
+
+_C0 #353 Troll 3 Dragonewt
+_L 0x10889AB6 0x00000161
+
+_C0 #354 Troll 2 Dragonewt 2 Wight
+_L 0x10889AB6 0x00000162
+
+_C0 #355 4 Timber Wolf 2 Scavenger
+_L 0x10889AB6 0x00000163
+
+_C0 #356 4 Timber Wolf 2 Scavenger (Ambush)
+_L 0x10889AB6 0x00000164
+
+_C0 #357 4 Dragon's Tooth
+_L 0x10889AB6 0x00000165
+
+_C0 #358 4 Dragon's Tooth (Ambush)
+_L 0x10889AB6 0x00000166
+
+_C0 #359 3 Specter
+_L 0x10889AB6 0x00000167
+
+_C0 #360 4 Specter (Ambush)
+_L 0x10889AB6 0x00000168
+
+_C0 #361 3 Dragon's Tooth 2 Specter (Ambush)
+_L 0x10889AB6 0x00000169
+
+_C0 #362 Shaitan 3 Dragon's Tooth
+_L 0x10889AB6 0x0000016A
+
+_C0 #363 Shaitan 2 Specter 2 Dragon's Tooth (Ambush)
+_L 0x10889AB6 0x0000016B
+
+_C0 #364 6 Killer Bee 2 Scavenger
+_L 0x10889AB6 0x0000016C
+
+_C0 #365 4 Killer Bee 2 Scavenger (Ambush)
+_L 0x10889AB6 0x0000016D
+
+_C0 #366 3 Deathstalker
+_L 0x10889AB6 0x0000016E
+
+_C0 #367 3 Deathstalker (Behind)
+_L 0x10889AB6 0x0000016F
+
+_C0 #368 3 Desert Fly 1 Desert King 2 Deathstalker
+_L 0x10889AB6 0x00000170
+
+_C0 #369 3 Sidewinder 1 Desert King 2 Deathstalker (Ambush)
+_L 0x10889AB6 0x00000171
+
+_C0 #370 Cocadrille 2 Deathstalker 2 Desert Fly
+_L 0x10889AB6 0x00000172
+
+_C0 #371 Cocadrille 2 Deathstalker 2 Desert Fly (Behind)
+_L 0x10889AB6 0x00000173
+
+_C0 #372 2 Flame
+_L 0x10889AB6 0x00000174
+
+_C0 #373 2 Flame (Ambush)
+_L 0x10889AB6 0x00000175
+
+_C0 #374 2 Ignis Fatuus
+_L 0x10889AB6 0x00000176
+
+_C0 #375 2 Ignis Fatuus (Behind)
+_L 0x10889AB6 0x00000177
+
+_C0 #376 3 Dragonewt 1 Ignis Fatuus
+_L 0x10889AB6 0x00000178
+
+_C0 #377 1 Flame 2 Ignis Fatuus (Ambush)
+_L 0x10889AB6 0x00000179
+
+_C0 #378 1 Vulcan 2 Flame
+_L 0x10889AB6 0x0000017A
+
+_C0 #379 1 Vulcan 2 Flame 1 Ignis Fatuus (Ambush)
+_L 0x10889AB6 0x0000017B
+
+_C0 #380 8 Night Wing
+_L 0x10889AB6 0x0000017C
+
+_C0 #381 8 Night Wing (Ambush)
+_L 0x10889AB6 0x0000017D
+
+_C0 #382 3 Bleeb
+_L 0x10889AB6 0x0000017E
+
+_C0 #383 3 Bleeb (Behind)
+_L 0x10889AB6 0x0000017F
+
+_C0 #384 3 A.C. Roper
+_L 0x10889AB6 0x00000180
+
+_C0 #385 4 A.C. Roper (Ambush)
+_L 0x10889AB6 0x00000181
+
+_C0 #386 5 Night Wing 2 Bleeb
+_L 0x10889AB6 0x00000182
+
+_C0 #387 4 Night Wing 3 Bleeb 1 A.C. Roper (Ambush)
+_L 0x10889AB6 0x00000183
+
+_C0 #388 Arch Demon 2 A.C. Roper 4 Night Wing
+_L 0x10889AB6 0x00000184
+
+_C0 #389 Arch Demon 3 A.C. Roper 4 Night Wing (Ambush)
+_L 0x10889AB6 0x00000185
+
+_C0 #390 8 Blood Sucker
+_L 0x10889AB6 0x00000186
+
+_C0 #391 2 Giant Squid
+_L 0x10889AB6 0x00000187
+
+_C0 #392 2 Giant Squid (Ambush)
+_L 0x10889AB6 0x00000188
+
+_C0 #393 3 Evil Star
+_L 0x10889AB6 0x00000189
+
+_C0 #394 3 Evil Star (Ambush)
+_L 0x10889AB6 0x0000018A
+
+_C0 #395 2 Giant Squid 2 Evil Star
+_L 0x10889AB6 0x0000018B
+
+_C0 #396 3 Giant Squid 1 Evil Star (Ambush)
+_L 0x10889AB6 0x0000018C
+
+_C0 #397 1 Aqua Dragon 2 Evil Star 1 Giant Squid
+_L 0x10889AB6 0x0000018D
+
+_C0 #398 1 Aqua Dragon 2 Evil Star 2 Giant Squid (Ambush)
+_L 0x10889AB6 0x0000018E
+
+_C0 #399 4 Killer Bee 3 Timber Wolf
+_L 0x10889AB6 0x0000018F
+
+_C0 #400 5 Killer Bee 3 Timber Wolf (Ambush)
+_L 0x10889AB6 0x00000190
+
+_C0 #401 3 Frost Bunny
+_L 0x10889AB6 0x00000191
+
+_C0 #402 2 Frost Bunny (Behind)
+_L 0x10889AB6 0x00000192
+
+_C0 #403 2 Polar Bear
+_L 0x10889AB6 0x00000193
+
+_C0 #404 2 Polar Bear (Ambush)
+_L 0x10889AB6 0x00000194
+
+_C0 #405 2 Frost King
+_L 0x10889AB6 0x00000195
+
+_C0 #406 2 Frost King (Ambush)
+_L 0x10889AB6 0x00000196
+
+_C0 #407 2 Polar Bear 1 Frost Bunny
+_L 0x10889AB6 0x00000197
+
+_C0 #408 2 Polar Bear 2 Frost Bunny (Ambush)
+_L 0x10889AB6 0x00000198
+
+_C0 #409 2 Polar Bear 2 Frost King
+_L 0x10889AB6 0x00000199
+
+_C0 #410 2 Ice Golem
+_L 0x10889AB6 0x0000019A
+
+_C0 #411 2 Ice Golem (Ambush)
+_L 0x10889AB6 0x0000019B
+
+_C0 #412 3 Priestess
+_L 0x10889AB6 0x0000019C
+
+_C0 #413 3 Priestess (Behind)
+_L 0x10889AB6 0x0000019D
+
+_C0 #414 3 Kunoichi
+_L 0x10889AB6 0x0000019E
+
+_C0 #415 3 Kunoichi (Ambush)
+_L 0x10889AB6 0x0000019F
+
+_C0 #416 2 Priestess 2 Kunoichi
+_L 0x10889AB6 0x000001A0
+
+_C0 #417 2 Priestess 2 Kunoichi (Ambush)
+_L 0x10889AB6 0x000001A1
+
+_C0 #418 2 Lesser Demon
+_L 0x10889AB6 0x000001A2
+
+_C0 #419 2 Lesser Demon (Ambush)
+_L 0x10889AB6 0x000001A3
+
+_C0 #420 1 Fenrir Beast (Boss)
+_L 0x10889AB6 0x000001A4
+
+_C0 #421 2 Inferno
+_L 0x10889AB6 0x000001A5
+
+_C0 #422 2 Inferno (Ambush)
+_L 0x10889AB6 0x000001A6
+
+_C0 #423 2 Firebug
+_L 0x10889AB6 0x000001A7
+
+_C0 #424 2 Firebug (Behind)
+_L 0x10889AB6 0x000001A8
+
+_C0 #425 3 Hellcat
+_L 0x10889AB6 0x000001A9
+
+_C0 #426 4 Hellcat (Ambush)
+_L 0x10889AB6 0x000001AA
+
+_C0 #427 2 Inferno 2 Firebug
+_L 0x10889AB6 0x000001AB
+
+_C0 #428 2 Inferno 2 Firebug (Ambush)
+_L 0x10889AB6 0x000001AC
+
+_C0 #429 3 Burning Dead 2 Hellcat
+_L 0x10889AB6 0x000001AD
+
+_C0 #430 3 Burning Dead 2 Hellcat (Behind)
+_L 0x10889AB6 0x000001AE
+
+_C0 #431 5 Burning Dead
+_L 0x10889AB6 0x000001AF
+
+_C0 #432 2 Balrog
+_L 0x10889AB6 0x000001B0
+
+_C0 #433 2 Balrog (Ambush)
+_L 0x10889AB6 0x000001B1
+
+_C0 #434 2 Inferno 1 Balrog
+_L 0x10889AB6 0x000001B2
+
+_C0 #435 Flame Sword (Miniboss)
+_L 0x10889AB6 0x000001B3
+
+_C0 #436 Flamberg 3 Inferno (Boss)
+_L 0x10889AB6 0x000001B4
+
+_C0 #437 8 Killer Bee
+_L 0x10889AB6 0x000001B5
+
+_C0 #438 5 Killer Bee 2 Chirpee
+_L 0x10889AB6 0x000001B6
+
+_C0 #439 3 Scavenger 2 Chirpee
+_L 0x10889AB6 0x000001B7
+
+_C0 #440 4 Killer Bee 1 Scavenger 1 Chirpee
+_L 0x10889AB6 0x000001B8
+
+_C0 #441 2 Treant
+_L 0x10889AB6 0x000001B9
+
+_C0 #442 2 Treant (Behind)
+_L 0x10889AB6 0x000001BA
+
+_C0 #443 4 Giant Mayfly
+_L 0x10889AB6 0x000001BB
+
+_C0 #444 6 Giant Mayfly (Ambush)
+_L 0x10889AB6 0x000001BC
+
+_C0 #445 4 Killer Bee 2 Giant Mayfly
+_L 0x10889AB6 0x000001BD
+
+_C0 #446 2 Treant 5 Killer Bee
+_L 0x10889AB6 0x000001BE
+
+_C0 #447 3 Alraune
+_L 0x10889AB6 0x000001BF
+
+_C0 #448 3 Alraune (Behind)
+_L 0x10889AB6 0x000001C0
+
+_C0 #449 2 Grizzly
+_L 0x10889AB6 0x000001C1
+
+_C0 #450 2 Grizzly (Ambush)
+_L 0x10889AB6 0x000001C2
+
+_C0 #451 3 Ranger
+_L 0x10889AB6 0x000001C3
+
+_C0 #452 4 Ranger (Ambush)
+_L 0x10889AB6 0x000001C4
+
+_C0 #453 2 Alraune 1 Treant
+_L 0x10889AB6 0x000001C5
+
+_C0 #454 2 Grizzly 1 Treant (Behind)
+_L 0x10889AB6 0x000001C6
+
+_C0 #455 1 Alraune 2 Grizzly 1 Treant (Ambush)
+_L 0x10889AB6 0x000001C7
+
+_C0 #456 4 Giant Mayfly 1 Alraune 1 Grizzly
+_L 0x10889AB6 0x000001C8
+
+_C0 #457 4 Giant Mayfly 1 Treant 1 Grizzly (Behind)
+_L 0x10889AB6 0x000001C9
+
+_C0 #458 4 Giant Mayfly 2 Treant
+_L 0x10889AB6 0x000001CA
+
+_C0 #459 3 Killer Bee 1 Giant Mayfly 2 Treant (Ambush)
+_L 0x10889AB6 0x000001CB
+
+_C0 #460 3 Giant Lizard
+_L 0x10889AB6 0x000001CC
+
+_C0 #461 3 Giant Lizard (Behind)
+_L 0x10889AB6 0x000001CD
+
+_C0 #462 3 Giant Lizard (Ambush)
+_L 0x10889AB6 0x000001CE
+
+_C0 #463 3 Blue Roper
+_L 0x10889AB6 0x000001CF
+
+_C0 #464 3 Blue Roper (Behind)
+_L 0x10889AB6 0x000001D0
+
+_C0 #465 3 Timber Wolf 1 Blue Roper
+_L 0x10889AB6 0x000001D1
+
+_C0 #466 3 Scavenger 2 Blue Roper (Behind)
+_L 0x10889AB6 0x000001D2
+
+_C0 #467 2 Timber Wolf 2 Scavenger 1 Blue Roper
+_L 0x10889AB6 0x000001D3
+
+_C0 #468 2 Mythril Golem
+_L 0x10889AB6 0x000001D4
+
+_C0 #469 2 Mythril Golem (Ambush)
+_L 0x10889AB6 0x000001D5
+
+_C0 #470 3 Nightmare
+_L 0x10889AB6 0x000001D6
+
+_C0 #471 4 Nightmare (Ambush)
+_L 0x10889AB6 0x000001D7
+
+_C0 #472 2 Mythril Golem 2 Nightmare
+_L 0x10889AB6 0x000001D8
+
+_C0 #473 2 Bishop
+_L 0x10889AB6 0x000001D9
+
+_C0 #474 3 Bishop (Ambush)
+_L 0x10889AB6 0x000001DA
+
+_C0 #475 2 Psychic
+_L 0x10889AB6 0x000001DB
+
+_C0 #476 2 Psychic (Behind)
+_L 0x10889AB6 0x000001DC
+
+_C0 #477 1 Mythril Golem 2 Bishop
+_L 0x10889AB6 0x000001DD
+
+_C0 #478 2 Mythril Golem 2 Bishop (Ambush)
+_L 0x10889AB6 0x000001DE
+
+_C0 #479 1 Mythril Golem 2 Psychic
+_L 0x10889AB6 0x000001DF
+
+_C0 #480 2 Mythril Golem 2 Psychic (Ambush)
+_L 0x10889AB6 0x000001E0
+
+_C0 #481 1 Mythril Golem 1 Bishop 1 Psychic
+_L 0x10889AB6 0x000001E1
+
+_C0 #482 2 Mythril Golem 1 Bishop 1 Psychic (Ambush)
+_L 0x10889AB6 0x000001E2
+
+_C0 #483 1 Gold Dragon 2 Black Knight 2 Psychic
+_L 0x10889AB6 0x000001E3
+
+_C0 #484 1 Gold Dragon 2 Black Knight 2 Psychic (Ambush)
+_L 0x10889AB6 0x000001E4
+
+_C0 #485 Apache Doctor 2 Timber Wolf
+_L 0x10889AB6 0x000001E5
+
+_C0 #486 Apache Doctor 2 Timber Wolf (Behind)
+_L 0x10889AB6 0x000001E6
+
+_C0 #487 Apache Doctor 3 Timber Wolf (Ambush)
+_L 0x10889AB6 0x000001E7
+
+_C0 #488 5 Black Slime
+_L 0x10889AB6 0x000001E8
+
+_C0 #489 3 Black Slime
+_L 0x10889AB6 0x000001E9
+
+_C0 #490 6 Black Slime (Ambush)
+_L 0x10889AB6 0x000001EA
+
+_C0 #491 2 Polar Bear
+_L 0x10889AB6 0x000001EB
+
+_C0 #492 2 Polar Bear (Ambush)
+_L 0x10889AB6 0x000001EC
+
+_C0 #493 3 Scout
+_L 0x10889AB6 0x000001ED
+
+_C0 #494 3 Scout (Behind)
+_L 0x10889AB6 0x000001EE
+
+_C0 #495 3 Frost Bunny
+_L 0x10889AB6 0x000001EF
+
+_C0 #496 3 Frost Bunny (Ambush)
+_L 0x10889AB6 0x000001F0
+
+_C0 #497 3 Frost Bunny 1 Polar Bear
+_L 0x10889AB6 0x000001F1
+
+_C0 #498 2 Frost Bunny 1 Polar Bear (Behind)
+_L 0x10889AB6 0x000001F2
+
+_C0 #499 2 Frost Bunny 2 Polar Bear (Ambush)
+_L 0x10889AB6 0x000001F3
+
+_C0 #500 2 4400R
+_L 0x10889AB6 0x000001F4
+
+_C0 #501 10000R
+_L 0x10889AB6 0x000001F5
+
+_C0 #502 2 4400R 1 10000R
+_L 0x10889AB6 0x000001F6
+
+_C0 #503 2 4400R 1 10000R (Behind)
+_L 0x10889AB6 0x000001F7
+
+_C0 #504 2 4400R 2 10000R (Ambush)
+_L 0x10889AB6 0x000001F8
+
+_C0 #505 2 3SH
+_L 0x10889AB6 0x000001F9
+
+_C0 #506 2 4400R 1 10000R 2 3SH
+_L 0x10889AB6 0x000001FA
+
+_C0 #507 3 10000R 2 3SH (Ambush)
+_L 0x10889AB6 0x000001FB
+
+_C0 #508 Lilith (Special Arena Boss)
+_L 0x10889AB6 0x000001FC
+
+_C0 #509 Crab (Boss Music)
+_L 0x10889AB6 0x000001FD
+
+_C0 #510 Skeleton
+_L 0x10889AB6 0x000001FE
+
+_C0 #511 Skeleton King
+_L 0x10889AB6 0x000001FF
+
+_C0 #512 Kraken
+_L 0x10889AB6 0x00000200
+
+_C0 #513 Mandrake
+_L 0x10889AB6 0x00000201
+
+_C0 #514 Dhole
+_L 0x10889AB6 0x00000202
+
+_C0 #515 Boarboar
+_L 0x10889AB6 0x00000203
+
+_C0 #516 Great Tusk
+_L 0x10889AB6 0x00000204
+
+_C0 #517 Chevalier
+_L 0x10889AB6 0x00000205
+
+_C0 #518 Tyrant
+_L 0x10889AB6 0x00000206
+
+_C0 #519 Mighty Oak
+_L 0x10889AB6 0x00000207
+
+_C0 #520 Woodkarla
+_L 0x10889AB6 0x00000208
+
+_C0 #521 Clay Golem
+_L 0x10889AB6 0x00000209
+
+_C0 #522 Basilisk King
+_L 0x10889AB6 0x0000020A
+
+_C0 #523 Galf Beast (Arena Boss)
+_L 0x10889AB6 0x0000020B
+
+_C0 #524 Superstar
+_L 0x10889AB6 0x0000020C
+
+_C0 #525 Queen Bee
+_L 0x10889AB6 0x0000020D
+
+_C0 #526 Air Giant
+_L 0x10889AB6 0x0000020E
+
+_C0 #527 Pumpkin King
+_L 0x10889AB6 0x0000020F
+
+_C0 #528 Galleon Sword
+_L 0x10889AB6 0x00000210
+
+_C0 #529 Dozo Okiyo (Special Event Boss)
+_L 0x10889AB6 0x00000211
+
+_C0 #530 Pharaoh
+_L 0x10889AB6 0x00000212
+
+_C0 #531 Kosuke
+_L 0x10889AB6 0x00000213
+
+_C0 #532 Jinpachi
+_L 0x10889AB6 0x00000214
+
+_C0 #533 Juzo
+_L 0x10889AB6 0x00000215
+
+_C0 #534 Saizo
+_L 0x10889AB6 0x00000216
+
+_C0 #535 Sasuke
+_L 0x10889AB6 0x00000217
+
+_C0 #536 3 Giant Mayfly 2 Treant
+_L 0x10889AB6 0x00000218
+
+_C0 #537 3 Killer Bee 1 Giant Mayfly 2 Treant (Ambush)
+_L 0x10889AB6 0x00000219
+
+_C0 #538 Queen Bee
+_L 0x10889AB6 0x0000021A
+
+_C0 #539 Queen Bee (Behind)
+_L 0x10889AB6 0x0000021B
+
+_C0 #540 2 Boarboar
+_L 0x10889AB6 0x0000021C
+
+_C0 #541 2 Boarboar (Ambush)
+_L 0x10889AB6 0x0000021D
+
+_C0 #542 2 Boarboar 1 Treant
+_L 0x10889AB6 0x0000021E
+
+_C0 #543 2 Boarboar 2 Treant (Ambush)
+_L 0x10889AB6 0x0000021F
+
+_C0 #544 7 Killer Bee 1 Queen Bee
+_L 0x10889AB6 0x00000220
+
+_C0 #545 7 Killer Bee 1 Queen Bee (Behind)
+_L 0x10889AB6 0x00000221
+
+_C0 #546 4 Boggart
+_L 0x10889AB6 0x00000222
+
+_C0 #547 6 Boggart (Ambush)
+_L 0x10889AB6 0x00000223
+
+_C0 #548 5 Hellhound
+_L 0x10889AB6 0x00000224
+
+_C0 #549 5 Hellhound (Ambush)
+_L 0x10889AB6 0x00000225
+
+_C0 #550 3 Doom Toad
+_L 0x10889AB6 0x00000226
+
+_C0 #551 3 Doom Toad (Behind)
+_L 0x10889AB6 0x00000227
+
+_C0 #552 3 Cawker
+_L 0x10889AB6 0x00000228
+
+_C0 #553 3 Cawker (Behind)
+_L 0x10889AB6 0x00000229
+
+_C0 #554 3 Boggart 2 Hellhound
+_L 0x10889AB6 0x0000022A
+
+_C0 #555 3 Hellhound 2 Cawker
+_L 0x10889AB6 0x0000022B
+
+_C0 #556 3 Cawker 2 Doom Toad (Behind)
+_L 0x10889AB6 0x0000022C
+
+_C0 #557 2 Boggart 2 Doom Toad (Behind)
+_L 0x10889AB6 0x0000022D
+
+_C0 #558 2 Boggart 4 Cawker 1 Hellhound (Ambush)
+_L 0x10889AB6 0x0000022E
+
+_C0 #559 Hanzo 3 Ninja Master (Boss Event)
+_L 0x10889AB6 0x0000022F
+
+_C0 #560 Hanzo 3 Ninja Master (Behind)
+_L 0x10889AB6 0x00000230
+
+_C0 #561 Hanzo 3 Ninja Master (Ambush)
+_L 0x10889AB6 0x00000231
+
+_C0 #562 3 Gargoyle
+_L 0x10889AB6 0x00000232
+
+_C0 #563 3 Gargoyle (Behind)
+_L 0x10889AB6 0x00000233
+
+_C0 #564 Evil Sword
+_L 0x10889AB6 0x00000234
+
+_C0 #565 Evil Sword (Behind)
+_L 0x10889AB6 0x00000235
+
+_C0 #566 2 Black Knight 2 Gargoyle
+_L 0x10889AB6 0x00000236
+
+_C0 #567 2 Black Knight 2 Gargoyle (Behind)
+_L 0x10889AB6 0x00000237
+
+_C0 #568 3 Lycurgus
+_L 0x10889AB6 0x00000238
+
+_C0 #569 3 Lycurgus (Behind)
+_L 0x10889AB6 0x00000239
+
+_C0 #570 3 Lycurgus (Ambush)
+_L 0x10889AB6 0x0000023A
+
+_C0 #571 2 Black Knight 2 Lycurgus
+_L 0x10889AB6 0x0000023B
+
+_C0 #572 2 Black Knight 2 Lycurgus (Ambush)
+_L 0x10889AB6 0x0000023C
+
+_C0 #573 2 Gargoyle 2 Lycurgus
+_L 0x10889AB6 0x0000023D
+
+_C0 #574 2 Gargoyle 2 Lycurgus (Ambush)
+_L 0x10889AB6 0x0000023E
+
+_C0 #575 2 Stormrider
+_L 0x10889AB6 0x0000023F
+
+_C0 #576 2 Stormrider (Behind)
+_L 0x10889AB6 0x00000240
+
+_C0 #577 2 Stormrider (Ambush)
+_L 0x10889AB6 0x00000241
+
+_C0 #578 2 Lycurgus 2 Stormrider
+_L 0x10889AB6 0x00000242
+
+_C0 #579 2 Lycurgus 2 Stormrider (Ambush)
+_L 0x10889AB6 0x00000243
+
+_C0 #580 1 Beastmaster 3 Boarboar
+_L 0x10889AB6 0x00000244
+
+_C0 #581 1 Beastmaster 2 Boarboar (Ambush)
+_L 0x10889AB6 0x00000245
+
+_C0 #582 1 Beastmaster 1 Manticore
+_L 0x10889AB6 0x00000246
+
+_C0 #583 1 Kiyomasa 3 Hatamoto
+_L 0x10889AB6 0x00000247
+
+_C0 #584 1 Kiyomasa 3 Hatamoto (Ambush)
+_L 0x10889AB6 0x00000248
+
+_C0 #585 Black Dragon
+_L 0x10889AB6 0x00000249
+
+_C0 #586 Black Dragon (Behind)
+_L 0x10889AB6 0x0000024A
+
+_C0 #587 Lobo 4 Dhole
+_L 0x10889AB6 0x0000024B
+
+_C0 #588 Lobo 5 Dhole (Ambush)
+_L 0x10889AB6 0x0000024C
+
+_C0 #589 Bigfoot
+_L 0x10889AB6 0x0000024D
+
+_C0 #590 2 Bigfoot
+_L 0x10889AB6 0x0000024E
+
+_C0 #591 Phoenix
+_L 0x10889AB6 0x0000024F
+
+_C0 #592 Phoenix (Behind)
+_L 0x10889AB6 0x00000250
+
+_C0 #593 Manta
+_L 0x10889AB6 0x00000251
+
+_C0 #594 Manta (Behind)
+_L 0x10889AB6 0x00000252
+
+_C0 #595 Kiyomasa 3 Ninja Master
+_L 0x10889AB6 0x00000253
+
+_C0 #596 Kiyomasa 3 Ninja Master (Ambush)
+_L 0x10889AB6 0x00000254
+
+_C0 #597 Jack O' Lantern
+_L 0x10889AB6 0x00000255
+
+_C0 #598 Jack O' Lantern (Behind)
+_L 0x10889AB6 0x00000256
+
+_C0 #599 Cerberus 3 Dhole
+_L 0x10889AB6 0x00000257
+
+_C0 #600 2 Bigfoot (Ambush)
+_L 0x10889AB6 0x00000258
+
+_C0 #601 Banshee
+_L 0x10889AB6 0x00000259
+
+_C0 #602 Banshee (Behind)
+_L 0x10889AB6 0x0000025A
+
+_C0 #603 Beastmaster 3 Dhole
+_L 0x10889AB6 0x0000025B
+
+_C0 #604 Beastmaster 2 Dhole (Ambush)
+_L 0x10889AB6 0x0000025C
+
+_C0 #605 1 Kiyomasa 2 Ninja Master 1 Hatamoto
+_L 0x10889AB6 0x0000025D
+
+_C0 #606 1 Kiyomasa 2 Ninja Master 1 Hatamoto (Ambush)
+_L 0x10889AB6 0x0000025E
+
+_C0 #607 Wyvern (Boss)
+_L 0x10889AB6 0x0000025F
+
+_C0 #608 Pluto 1 Cerberus (Secret Boss)
+_L 0x10889AB6 0x00000260
+
+_C0 #609 Odin (Secret Boss)
+_L 0x10889AB6 0x00000261
+
+_C0 #610 1 Nocturnal Fly 2 Boarboar 4 Killer Bee
+_L 0x10889AB6 0x00000262
+
+_C0 #611 1 Nocturnal Fly 2 Treant 1 Queen Bee
+_L 0x10889AB6 0x00000263
+
+_C0 #612 1 Sakon 3 Hatamoto
+_L 0x10889AB6 0x00000264
+
+_C0 #613 1 Sakon 3 Hatamoto (Ambush)
+_L 0x10889AB6 0x00000265
+
+_C0 #614 1 Sakon 3 Ninja Master
+_L 0x10889AB6 0x00000266
+
+_C0 #615 1 Sakon 3 Ninja Master (Ambush)
+_L 0x10889AB6 0x00000267
+
+_C0 #616 1 Sakon 2 Ninja Master 1 Hatamoto
+_L 0x10889AB6 0x00000268
+
+_C0 #617 1 Sakon 2 Ninja Master 1 Hatamoto (Ambush)
+_L 0x10889AB6 0x00000269
+
+_C0 #618 Hanzo (Miniboss)
+_L 0x10889AB6 0x0000026A
+
+_C0 #619 1 Voodoo Priest 3 Zombie
+_L 0x10889AB6 0x0000026B
+
+_C0 #620 1 Voodoo Priest 3 Zombie (Behind)
+_L 0x10889AB6 0x0000026C
+
+_C0 #621 1 Voodoo Priest 2 Zombie Giant
+_L 0x10889AB6 0x0000026D
+
+_C0 #622 1 Voodoo Priest 2 Zombie Giant (Ambush)
+_L 0x10889AB6 0x0000026E
+
+_C0 #623 2 Black Knight 2 Prophet
+_L 0x10889AB6 0x0000026F
+
+_C0 #624 2 Black Knight 2 Prophet (Behind)
+_L 0x10889AB6 0x00000270
+
+_C0 #625 2 Black Knight 2 Witch
+_L 0x10889AB6 0x00000271
+
+_C0 #626 2 Black Knight 2 Witch (Behind)
+_L 0x10889AB6 0x00000272
+
+_C0 #627 3 Black Knight 1 Witch Doctor
+_L 0x10889AB6 0x00000273
+
+_C0 #628 3 Black Knight 1 Witch Doctor (Ambush)
+_L 0x10889AB6 0x00000274
+
+_C0 #629 2 Black Knight 2 Arch Bishop
+_L 0x10889AB6 0x00000275
+
+_C0 #630 2 Black Knight 2 Arch Bishop (Ambush)
+_L 0x10889AB6 0x00000276
+
+_C0 #631 2 Black Knight 1 Prophet 1 Witch
+_L 0x10889AB6 0x00000277
+
+_C0 #632 2 Black Knight 1 Arch Bishop 1 Witch (Ambush)
+_L 0x10889AB6 0x00000278
+
+_C0 #633 2 Black Knight 1 Arch Bishop 1 Prophet (Ambush)
+_L 0x10889AB6 0x00000279
+
+_C0 #634 Darkeye? (Boss)
+_L 0x10889AB6 0x0000027A
+
+_C0 #635 Roameye?
+_L 0x10889AB6 0x0000027B
+
+_C0 #636 Roameye? (Behind)
+_L 0x10889AB6 0x0000027C
+
+_C0 #637 2 Sealeye? (Miniboss)
+_L 0x10889AB6 0x0000027D
+
+_C0 #638 1 Samael 2 Nebiros
+_L 0x10889AB6 0x0000027E
+
+_C0 #639 1 Samael 2 Nebiros (Behind)
+_L 0x10889AB6 0x0000027F
+
+_C0 #640 1 Samael 3 Nebiros (Ambush)
+_L 0x10889AB6 0x00000280
+
+_C0 #641 Dhaos (Future)
+_L 0x10889AB6 0x00000281
+
+_C0 #642 Dhaos (Transformed)
+_L 0x10889AB6 0x00000282
+
+_C0 #643 Dhaos (Angel)
+_L 0x10889AB6 0x00000283
+
+_C0 #644 Cocadrille
+_L 0x10889AB6 0x00000284
+
+_C0 #645 Cocadrille (Behind)
+_L 0x10889AB6 0x00000285
+
+_C0 #646 2 Sidewinder 3 Deathstalker
+_L 0x10889AB6 0x00000286
+
+_C0 #647 2 Sidewinder 3 Deathstalker (Behind)
+_L 0x10889AB6 0x00000287
+
+_C0 #648 2 Desert King 2 Deathstalker
+_L 0x10889AB6 0x00000288
+
+_C0 #649 2 Desert King 2 Deathstalker (Behind)
+_L 0x10889AB6 0x00000289
+
+_C0 #650 4 Desert Fly 3 Deathstalker
+_L 0x10889AB6 0x0000028A
+
+_C0 #651 4 Desert Fly 4 Deathstalker (Ambush)
+_L 0x10889AB6 0x0000028B
+
+_C0 #652 1 Beastmaster 2 Great Tusk
+_L 0x10889AB6 0x0000028C
+
+_C0 #653 1 Beastmaster 2 Great Tusk (Ambush)
+_L 0x10889AB6 0x0000028D
+
+_C0 #654 1 Lich
+_L 0x10889AB6 0x0000028E
+
+_C0 #655 1 Lich (Behind)
+_L 0x10889AB6 0x0000028F
+
+_C0 #656 2 Lich (Ambush)
+_L 0x10889AB6 0x00000290
+
+_C0 #657 1 Silver Dragon
+_L 0x10889AB6 0x00000291
+
+_C0 #658 1 Silver Dragon (Behind)
+_L 0x10889AB6 0x00000292
+
+_C0 #659 2 Dragon's Tooth 1 Dragonewt
+_L 0x10889AB6 0x00000293
+
+_C0 #660 2 Dragonewt 1 Dragon's Tooth
+_L 0x10889AB6 0x00000294
+
+_C0 #661 1 Dragonewt 2 Dragon's Tooth (Behind)
+_L 0x10889AB6 0x00000295
+
+_C0 #662 1 Dragonewt 2 Dragon's Tooth (Ambush)
+_L 0x10889AB6 0x00000296
+
+_C0 #663 2 Dragonewt 1 Winged Devil (Behind)
+_L 0x10889AB6 0x00000297
+
+_C0 #664 2 Dragon's Tooth 1 Winged Devil
+_L 0x10889AB6 0x00000298
+
+_C0 #665 2 Dragonewt 1 Winged Devil (Ambush)
+_L 0x10889AB6 0x00000299
+
+_C0 #666 2 Dragon's Tooth 1 Winged Devil (Ambush)
+_L 0x10889AB6 0x0000029A
+
+_C0 #667 1 Dragon's Tooth 2 Dragonewt 1 Winged Devil (Ambush)
+_L 0x10889AB6 0x0000029B
+
+_C0 #668 1 Draco-Centaur
+_L 0x10889AB6 0x0000029C
+
+_C0 #669 2 Draco-Centaur
+_L 0x10889AB6 0x0000029D
+
+_C0 #670 2 Draco-Centaur (Ambush)
+_L 0x10889AB6 0x0000029E
+
+_C0 #671 2 Prophet
+_L 0x10889AB6 0x0000029F
+
+_C0 #672 2 Prophet (Behind)
+_L 0x10889AB6 0x000002A0
+
+_C0 #673 2 Witch
+_L 0x10889AB6 0x000002A1
+
+_C0 #674 2 Witch (Ambush)
+_L 0x10889AB6 0x000002A2
+
+_C0 #675 2 Witch Doctor
+_L 0x10889AB6 0x000002A3
+
+_C0 #676 2 Witch Doctor (Ambush)
+_L 0x10889AB6 0x000002A4
+
+_C0 #677 1 Lobo 1 Banshee
+_L 0x10889AB6 0x000002A5
+
+_C0 #678 2 Anaconda
+_L 0x10889AB6 0x000002A6
+
+_C0 #679 God Bear Mark 2 (Dummy)
+_L 0x10889AB6 0x000002A7
+
+_C0 #680 No Enemy
+_L 0x10889AB6 0x000002A8

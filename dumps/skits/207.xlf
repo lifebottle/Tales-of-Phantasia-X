@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1042">
+        <source>Mom...</source>
+        <target state="translated">Mom...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1043">
+        <source>Don't be sad. I'm sure the
+elves will relent one day.</source>
+        <target state="translated">Don't be sad. I'm sure the
+elves will relent one day.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1044">
+        <source>Yes, please cheer up. Your
+mother would want you to be happy.</source>
+        <target state="translated">Yes, please cheer up. Your
+mother would want you to be happy.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1045">
+        <source>I...I can't! I wanna see her
+again! Just one more time!</source>
+        <target state="translated">I...I can't! I wanna see her
+again! Just one more time!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1046">
+        <source>Pipe down already! As if you're the only
+one who has it bad! Think how they must feel...</source>
+        <target state="translated">Pipe down already! As if you're the only
+one who has it bad! Think how they must feel...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1047">
+        <source>Ah, sorry...I...</source>
+        <target state="translated">Ah, sorry...I...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1048">
+        <source>It's okay. At least you found
+out your mother's still alive.</source>
+        <target state="translated">It's okay. At least you found
+out your mother's still alive.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1049">
+        <source>That's reason enough to be happy, right?</source>
+        <target state="translated">That's reason enough to be happy, right?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1050">
+        <source>Yeah... You're right!</source>
+        <target state="translated">Yeah... You're right!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

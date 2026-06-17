@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_620">
+        <source>Drinking underage, enough
+to get hung over, even...</source>
+        <target state="translated">Drinking underage, enough
+to get hung over, even...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_621">
+        <source>Are you proud of yourself?</source>
+        <target state="translated">Are you proud of yourself?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_622">
+        <source>Whuh? I'm a half-elf, so it doesn't matter.</source>
+        <target state="translated">Whuh? I'm a half-elf, so it doesn't matter.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_623">
+        <source>That's got nothing to do with it!</source>
+        <target state="translated">That's got nothing to do with it!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_624">
+        <source>Come on, say something, would you!?</source>
+        <target state="translated">Come on, say something, would you!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_625">
+        <source>Y-y-you talkin' to me? Ahem...</source>
+        <target state="translated">Y-Y-You talkin' to me? Ahem...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_626">
+        <source>Needless to say, hangovers are no fun.</source>
+        <target state="translated">Needless to say, hangovers are no fun.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_627">
+        <source>However, sake has long been
+said to be a remedy for many ills.</source>
+        <target state="translated">However, alcohol has long been
+said to be a remedy for many ills.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_628">
+        <source>However, sake has long been
+said to be a remedy for many ills.</source>
+        <target state="translated">However, alcohol has long been
+said to be a remedy for many ills.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_629">
+        <source>...Wh-what's with that icy look?</source>
+        <target state="translated">...Wh-What's with that icy look?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_630">
+        <source>...Just forget it.</source>
+        <target state="translated">...Just forget it.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

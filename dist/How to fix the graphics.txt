@@ -1,0 +1,4 @@
+Update to the newest mainline build!
+The older builds have graphical bugs with the water and heat haze effects.
+
+https://www.ppsspp.org/download/

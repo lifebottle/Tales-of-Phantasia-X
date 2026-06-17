@@ -1,0 +1,896 @@
+Captain
+ Well, take care.
+<pause>
+Captain
+ If you ever feel tired, go ahead
+ and sleep in the cabin.
+<pause>
+Captain
+ When you want to leave, just me
+ give me a holler.{END}
+
+<Cless>
+ Hey...
+<pause>
+<Cless>
+ I think we've found Demeter's
+ study.
+<pause>
+<Klarth>
+ Yeah.
+ Let's give it a good once-over.
+<pause>
+<Klarth>
+ Bet he's hiding something useful...{END}
+
+Sailor
+ This place is kinda creepy...{END}
+
+Sailor
+ The fog's so thick here I can hardly
+ see my hand in front of me.{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C800>.<color_0000>{END}
+
+<Cless>
+ But I don't have any use for it.
+<pause>
+<Cless>
+ I'll put it back.{END}
+
+Captain
+ Going back?{END}
+
+Captain
+ Men!
+ Hoist the sails!{END}
+
+Captain
+ Well, just let me know when you
+ want to.{END}
+
+<unk1>Captain
+ What?
+ You guys just got here and
+ want to go back already?
+<pause>
+Captain
+ Then what'd you ride for?
+<pause>
+Captain
+ Well, whatever.
+ The fee's the same.
+<pause>
+Captain
+ All expenses included, <num5_00005114> gald for
+ one, so <num5_00005116> gald for everyone.
+<pause>
+Captain
+ Wanna head out?{END}
+
+Captain
+ I see.{END}
+
+Captain
+ If ya ain't got the cash, we ain't
+ going anywhere.{END}
+
+Captain
+ Are you sure?{END}
+
+Captain
+ I see.{END}
+
+Captain
+ Men!
+ Raise the sails!{END}
+
+Sailor
+ We're unloading the cargo.{END}
+
+Sailor
+ I can't wait 'til we say goodbye to
+ this backwater dump!{END}
+
+Sailor
+ Men of the sea...
+ Ya gotta love 'em...{END}
+
+Sailor
+ Hard to starboard!
+<pause>
+Sailor
+ Raise the mizzenmast!
+<pause>
+Sailor
+ Actually, I'm just apprenticing.
+<pause>
+Apprentice Sailor
+ I wanna be able to say stuff like
+ that all decisive and quick like the
+ professionals do.{END}
+
+Sailor
+ You know, I've started to notice
+ something odd:
+<pause>
+Sailor
+ Us sailors all look alike.
+<pause>
+Sailor
+ I wonder how that happened...{END}
+
+Chef
+ Have you made Meat Stew?{END}
+
+Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Meat Stew.<color_0000>{END}
+
+Chef
+ What!?
+ How can you reject this taste!?{END}
+
+<Cless>
+ What are these huge prisms for?
+<pause>
+<Cless>
+ They look too heavy to push
+ around, but...
+<pause>
+<Cless>
+ It might be possible to rotate them.{END}
+
+<color_0002>Found a key.<color_0000>
+<pause>
+<Cless>
+ I wonder what this goes to...{END}
+
+<color_0002>Acquired <item_3700>.<color_0000>{END}
+
+<Cless>
+ Let's try the key from the study...{END}
+
+<Cless>
+ It's locked...{END}
+
+<Cless>
+ What a nice tree...{END}
+
+<Mint>
+ It doesn't seem to be out of place
+ in here...{END}
+
+<Klarth>
+ Hm?
+<pause>
+<Klarth>
+ I think the branches just swayed
+ on their own...
+<pause>
+<Cless>
+ Don't sprout such nonsense!{END}
+
+<Klarth>
+ Well, would you look at that!{END}
+
+<Cless>
+ Okay, we'll make origami out of
+ you this time!!{END}
+
+<Klarth>
+ So this is it, huh?
+<pause>
+<Klarth>
+ Quite a place Demeter's got here.
+<pause>
+<Cless>
+ ......
+<pause>
+<Cless>
+ ...Now, why did he attack Harmel?
+<pause>
+Rhea
+ To demonstrate his power, I think.
+<pause>
+Rhea
+ That's the same reason he killed his
+ master...
+<pause>
+<Mint>
+ Even his own master?
+ How awful...<wait>{END}
+
+Rhea
+ Yes...
+<pause>
+Rhea
+ ...my papa.
+ And then...<wait>{END}
+
+Rhea
+ ...he got mama...<wait>{END}
+
+<Klarth>
+ That sick son of a...!
+<pause>
+<Klarth>
+ I'm not nice enough to
+ let a heartless bastard
+ like that run free.
+ We have to find him, fast!{END}
+
+“There are two types of people in
+this world: the rulers, and the
+ruled.”
+<pause>
+“The public is comprised of the
+simple and, more importantly,
+foolish people.
+<pause>
+They create arbitrary terms such
+“the underprivileged” with fallacious
+logic in the name of equality.”{END}
+
+“It is within the black, the flame,
+the shadow of darkness, that there
+is glimmering light.”{END}
+
+<Cless>
+ I feel a cold wind blowing from
+ this way...{END}
+
+???
+ Well, what a motley-looking crew.{END}
+
+<Cless>
+ You must be Demeter!<wait>{END}
+
+???
+ That I am.
+<pause>
+Demeter
+ But what of it?<wait>{END}
+
+<Cless>
+ You're responsible for the
+ murders of Rhea's parents!
+ We're here for vengeance!
+<pause>
+<Cless>
+ En garde!
+<pause>
+Demeter
+ Oh, you're familiar with the
+ Scarlets?
+<pause>
+Demeter
+ But what is this “vengeance”
+ nonsense? I loved my master.
+ I would not wish him harm.
+<pause>
+Demeter
+ The Scarlets died in an accident.
+<pause>
+<Cless>
+ Cut the crap!{END}
+
+Demeter
+ Where did you hear such lies, I
+ wonder?
+<pause>
+<Cless>
+ The Scarlets' daughter herself,
+ Rhea! Who else could it be!?<wait>{END}
+
+Demeter
+ Certainly, the Scarlets had a
+ daughter...
+<pause>
+Demeter
+ But you're saying this girl in front
+ of me is her?{END}
+
+Demeter
+ Ignorance is not bliss, I'm afraid.
+<pause>
+Demeter
+ Allow me to enlighten you.
+<pause>
+Demeter
+ The daughter of my beloved
+ master, Rhea, died in the very
+ same accident that claimed both of
+ her parents.{END}
+
+Demeter
+ I do not know who that girl truly
+ is, or what she is thinking, but...
+<pause>
+Demeter
+ You have come here chasing a lie!
+<pause>
+Demeter
+ A blatant fabrication!
+ Why, this girl bears no
+ resemblance to Rhea Scarlet!{END}
+
+<Klarth>
+ Lovely...
+ How the hell can we know
+ who's telling the truth?
+<pause>
+<Cless>
+ Rhea!
+ Please tell me that
+ he's deceiving us!!{END}
+
+Demeter
+ Allow me to make a proposition.
+ If you leave that girl here, I will
+ forgive your trespassing into my
+ manor.
+<pause>
+<color_0002>Who do you believe?
+<speed_0000>1. The girl calling herself Rhea
+2. Demeter<speed_FFFF><color_0000>{END}
+
+<Cless>
+ (I want to believe her...
+ I'm sure she has her reasons.){END}
+
+<Cless>
+ (This girl's not Rhea...
+ What should I do...?){END}
+
+<Cless>
+ Look at his reflection!
+<pause>
+<Cless>
+ You've finally shown your horns,
+ monster!
+<pause>
+<Cless>
+ You must be one of Dhaos' minions!!<wait>{END}
+
+Demeter
+ What!?
+<pause>
+Demeter
+ Tsk!
+ You really see them, do you?{END}
+
+<Cless>
+ You've been concealing yourself
+ since the beginning!{END}
+
+Demeter
+ Mwahahahahah!
+<pause>
+Demeter
+ Don't think you can escape alive!
+<pause>
+Demeter
+ Prepare yourselves!!{END}
+
+<Klarth>
+ ......
+<pause>
+<Klarth>
+ Did we really do the right thing?{END}
+
+<Mint>
+ Miss Scarlet!?{END}
+
+<Klarth>
+ Are you all right!?
+<pause>
+Rhea
+ Everyone...th-thank you...very
+ much...
+<pause>
+<Mint>
+ Hang in there!
+<pause>
+Rhea
+ N-now I can...pass on to where my
+ parents are...as well.
+<pause>
+<Mint>
+ Huh!?
+<pause>
+Rhea
+ This is my final wish...
+<pause>
+Rhea
+ Take good care of my...
+ kind-hearted friend...
+<pause>
+<Cless>
+ Rhea, hold on!
+<pause>
+<Cless>
+ Your “friend”...?{END}
+
+<Mint>
+ Miss Scarlet!!{END}
+
+<Mint>
+ D-did you see that?
+<pause>
+<Cless>
+ Yeah, I saw!
+<pause>
+<Klarth>
+ What just happened?{END}
+
+<Mint>
+ There's something in her hand...
+<pause>
+<Mint>
+ It's<speed_0010>...<speed_FFFF>a ribbon?
+<pause>
+<Cless>
+ Was she holding onto that the
+ whole time?{END}
+
+???
+ Where am I?
+<pause>
+???
+ Where's Rhea?
+<pause>
+???
+ What happened to Rhea?{END}
+
+<Mint>
+ Miss...Scarlet...?
+<pause>
+???
+ Rhea?
+<pause>
+???
+ No...
+ I'm...
+<pause>
+???
+ I'm <Arche>.
+<pause>
+<Klarth>
+ “<Arche>”?
+<pause>
+<Arche>
+ But Rhea's my best friend...{END}
+
+Wine bottles are lined up in a row.{END}
+
+<color_0002>Acquired a <item_8A00>.{END}
+
+<Cless>
+ There's nothing else in this cabinet.
+<pause>
+<Cless>
+ Maybe we should search
+ somewhere else...{END}
+
+<color_0002>A scrap of paper came out.
+<pause>
+<color_0000><Cless>
+ What's this...
+<pause>
+<Cless>
+ “Sorry, you failed. Too bad!”
+<pause>
+<Cless>
+ ......{END}
+
+<center>“An Elf's View of Life”<endalign>
+<pause>
+<speed_0000><color_0002>Read it?<color_0000><speed_FFFF>{END}
+
+In the beginning, only elves were
+able to weave mana.
+<pause>
+It was a skill that should have
+belonged only to elves.
+<pause>
+When those with diluted elven blood
+appeared--half-elves, as they came
+to be known--the world began its
+descent into chaos.
+<pause>
+Magic is intended to be a tool used
+to sustain daily life.
+<pause>
+However, the half-elves began using
+it not only for that, but to commit
+murder.
+<pause>
+Certainly, magic has the power to
+even make a star fall upon the
+world.
+<pause>
+However, long ago, our elven
+ancestors sealed away many of the
+most powerful spells.
+<pause>
+I pray such spells will never be
+necessary in this world.{END}
+
+<center>“Memoirs of the Elven Village”<endalign>
+<pause>
+<speed_0000><color_0002>Read it?<color_0000><speed_FFFF>{END}
+
+The Elves rise with the sun every
+morning.
+<pause>
+The men head into the woods to
+hunt, while the women tend to
+vegetable gardens after finishing
+domestic chores.
+<pause>
+By mid-day, all work is complete,
+and after lunch, people pass their
+afternoons in quiet ways such as
+reading.
+<pause>
+The village suddenly becomes lively
+as evening arrives and supper is
+prepared.
+<pause>
+As the sun sets, the elves thank God
+for another peaceful day, and turn
+in for sleep.{END}
+
+<center>“How Elves Use Magic”<endalign>
+<pause>
+<speed_0000><color_0002>Read it?<color_0000><speed_FFFF>{END}
+
+The Elven Village has no kindling.
+<pause>
+It is unnecessary; the elves use
+magic to make fire.
+<pause>
+The Elven Village has no ice house.
+<pause>
+It is unnecessary; the elves use
+magic to make ice.
+<pause>
+The Elven Village has no shovels.
+<pause>
+It is unnecessary; the elves use
+magic to dig up the ground.
+<pause>
+The Elven Village has no fans.
+<pause>
+It is unnecessary; the elves use
+magic to make the wind.{END}
+
+<center>“Mana Generation”<endalign>
+<pause>
+<speed_0000><color_0002>Read it?<color_0000><speed_FFFF>{END}
+
+Everyone who uses magic knows
+that mana is born from Yggdrasill,
+the World Tree.
+<pause>
+However, in human society,
+knowledge of this fact is the
+exception, not the rule.{END}
+
+<Cless>
+ Ow ow...{END}
+
+<Chester>
+ Hey, uh...
+ What'd we come here for?
+<pause>
+<Cless>
+ Well, I thought we might find
+ something here.
+<pause>
+<Klarth>
+ Yeah. Back in my era, I made a
+ pact with <var_D000> here. There could
+ still be some things of use laying
+ around.
+<pause>
+<Chester>
+ <var_D000>'s hangout, huh?
+<pause>
+<Chester>
+ What kind of place is it?
+<pause>
+{END}
+
+<Arche>
+ Are you stupid, or something!?
+<pause>
+{END}
+
+<Arche>
+ It's a garotto!
+ G-A-R-O-T-T-O!
+<pause>
+{END}
+
+<Klarth>
+ Hmm?
+<pause>
+{END}
+
+<Klarth>
+ Did you just say GA-rotto?
+ I think you're confused.
+<pause>
+{END}
+
+<Arche>
+ UGH!
+ Okay, grotto, whatever.
+<pause>
+{END}
+
+<Arche>
+ Whenever I talk about grottos, for
+ some reason I start getting these
+ violent thoughts, like I just want
+ to, I dunno, strangle someone.
+<pause>
+{END}
+
+<Mint>
+ ???
+<pause>
+<Cless>
+ (Okay...
+ I think we need to keep
+ an eye on <Arche>.)
+<pause>
+{END}
+
+<Arche>
+ Aww, c'mon guys!
+ Don't look at me like that!
+<pause>
+{END}
+
+<Arche>
+ I know! How about I make
+ something SPECIAL for you all to
+ make up for freaking you out?
+ Let's stop here for some lunch!{END}
+
+<Cless>
+ Uh, sure.
+ I guess that would be a
+ nice change of pace.
+<pause>
+{END}
+
+<Arche>
+ Yaaay<heart>{END}
+
+<Cless>
+ Hmm...
+ On second thought, I'm not sure
+ I trust you around the food.
+<pause>
+{END}
+
+<Arche>
+ Awww, boo!{END}
+
+<Arche>
+ <item_5F00>s, melons...
+ Won't someone please
+ pass the melons?
+ Or did you guys eat them all?
+<pause>
+{END}
+
+<Arche>
+ You know, I just looooove melons!
+<pause>
+{END}
+
+<Arche>
+ Oh, and melon bread too<heart>
+<pause>
+{END}
+
+<Chester>
+ I've heard of banana bread and
+ raisin bread, but...melon bread?
+ How the heck does that even
+ work...?
+<pause>
+{END}
+
+<Arche>
+ Ta-daa!
+<pause>
+<Arche>
+ Today, I present to you...
+ <Arche>'s Masterpiece!
+<pause>
+{END}
+
+<color_0002>Learned the recipe for <Arche>'s
+Masterpiece!<color_0000>
+<pause>
+{END}
+
+<Cless>
+ Mmm, mmm, mmm!
+ Smells great!
+<pause>
+{END}
+
+<Chester>
+ Hey, uh...
+<pause>
+{END}
+
+<Chester>
+ You didn't mix anything that
+ might kill us into this, did you?
+ Y'know, violent thoughts, and all.
+<pause>
+{END}
+
+<Arche>
+ I never said you HAD to eat it!
+<pause>
+<Klarth>
+ Now, now, children...
+<pause>
+{END}
+
+<Klarth>
+ Let's not be disrespectful
+ to our chef, shall we?
+ Let's give it a try.{END}
+
+*munch* *munch*
+
+<pause>
+<Cless>
+ Oogh!
+<pause>
+{END}
+
+<Klarth>
+ Hooo!
+<pause>
+{END}
+
+<Chester>
+ BLEEEEEECHHH!!{END}
+
+<Arche>
+ Huhhh?
+<pause>
+{END}
+
+<unk1><Arche>
+ Uhhh, <Mint>...?
+ What's wrong with the guys!?
+<pause>
+{END}
+
+<Mint>
+ ......
+<pause>
+{END}
+
+<unk1><Cless>
+ <Mint>!
+ Stop eating that!
+<pause>
+{END}
+
+<Cless>
+ You look like you're going to faint!
+<pause>
+{END}
+
+<color_0002>You burned the recipe for
+<Arche>'s Masterpiece.<color_0000>
+<pause>
+{END}
+
+<Cless>
+ <Arche>!
+<pause>
+{END}
+
+<Cless>
+ Did you taste test that stuff at all
+ while you were making it?
+<pause>
+{END}
+
+<Arche>
+ Y-you mean people actually do that
+ kinda thing?<panic>{END}
+
+<Arche>
+ *munch* *munch*
+<pause>
+<Arche>
+ AGHHHHHHH!!!
+<pause>
+{END}
+
+<Arche>
+ What...*what* *have* *I* *done*!?
+<pause>
+{END}
+
+<Cless>
+ You tell *us*...
+<pause>
+{END}
+
+<Chester>
+ Muuuugh...!
+<pause>
+{END}
+
+<Chester>
+ Hey, <Arche>!
+<pause>
+{END}
+
+<Chester>
+ This rubbish ain't fit for humans!
+ Even pigs wouldn't eat this crap!
+<pause>
+<Chester>
+ You're the Worst. Chef. Ever.,
+ you hear me!?
+<pause>
+{END}
+
+<color_0002><Arche> has earned the
+disgraceful title “Worst. Chef. Ever.”<color_0000>{END}
+
+<Arche>
+ H-hmph!
+ I'll turn over this disgraceful title in
+ no time flat!
+<pause>
+{END}
+
+<Klarth>
+ Oh, and after all the effort we
+ took to “serve it up” for you?
+<pause>
+{END}
+
+<Klarth>
+ ...What, you didn't like that?
+<pause>
+{END}
+
+<Arche>
+ You're not allowed to make any
+ more jokes, mister.{END}
+

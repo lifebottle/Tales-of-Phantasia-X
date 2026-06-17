@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_940">
+        <source>So we can really get back to my
+time from the ancient city of Thor?</source>
+        <target state="translated">So we can really get back to my
+time from the ancient city of Thor?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_941">
+        <source>That's right. However, we're
+not quite done with things here.</source>
+        <target state="translated">That's right. However, we're
+not quite done with things here.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_942">
+        <source>We still have to save Yggdrasill.</source>
+        <target state="translated">We still have to save Yggdrasill.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_943">
+        <source>Like, totally. We'll be flattened without magic.</source>
+        <target state="translated">Like, totally. We'll be flattened without magic.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_944">
+        <source>Then it's settled! We save
+Yggdrasill, then defeat Dhaos for real!</source>
+        <target state="translated">Then it's settled! We save
+Yggdrasill, then defeat Dhaos for real!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

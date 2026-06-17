@@ -1,0 +1,133 @@
+Cave of Searing Sand{END}
+
+<Cless>
+ Maybe this where the lava key
+ goes...{END}
+
+<Cless>
+ It's locked...{END}
+
+<Cless>
+ Is this...
+<pause>
+<Cless>
+ ...<var_D200>?
+<pause>
+<var_D200>
+ What business do you have with
+ me!?
+<pause>
+<Klarth>
+ Why else would a summoner come
+ to this sweltering hellhole?
+ I wish to form a pact with you.
+<pause>
+<var_D200>
+ Hmhm...
+<pause>
+<var_D200>
+ Such a determined look in your
+ eyes. I like it.
+<pause>
+<var_D200>
+ Very well...
+<pause>
+<Klarth>
+ Are you saying--
+<pause>
+<var_D200>
+ IF you can withstand the intensity
+ of my flame, that is!{END}
+
+<var_D200>
+ Mugh...
+<pause>
+<var_D200>
+ My flame is hot enough to liquefy
+ stone, but you were able resist it...
+<pause>
+<Klarth>
+ Yes, now let's seal the pact.
+<pause>
+<var_D200>
+ So be it...
+<pause>
+<var_D200>
+ Show me the Garnet ring.{END}
+
+<Klarth>
+ Here and now, I offer my request
+ to the Spirit of Fire.
+<pause>
+<Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon <var_D200>.<color_0000>{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_B800>.<color_0000>{END}
+
+<Cless>
+? But I don't have any use for it...
+<pause>
+<Cless>
+ I'll put it back...{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_B900>.<color_0000>{END}
+
+<Cless>
+ But I don't have any use for it...
+<pause>
+<Cless>
+ I'll put it back...{END}
+
+<color_0002>Acquired <item_6201>.<color_0000>{END}
+
+<Cless>
+ A ring, huh...?
+<pause>
+<Cless>
+ I wonder what it's good for.
+<pause>
+<Klarth>
+ Doesn't appear to be a pact ring, at
+ least. I'm not so sure it's anything
+ special.
+<pause>
+<Cless>
+ It seems suspicious to me...{END}
+
+<Cless>
+ Wh-whoa!!
+<pause>
+<Cless>
+ A spark flew right out of it!
+<pause>
+<Klarth>
+ Well, isn't that interesting.
+<pause>
+<Klarth>
+ We might be able to use that to
+ manipulate objects out of our
+ reach.{END}
+
+<Cless>
+ Gah!{END}
+
+<Cless>
+ It won't open...{END}
+
+<Cless>
+ This is a ninja arte scroll.<wait>{END}
+
+<color_0002><Suzu> learned <var_B300>.<color_0000>{END}
+

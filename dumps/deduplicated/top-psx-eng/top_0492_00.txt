@@ -1,0 +1,404 @@
+<Arche>
+ Here we go, <Cless>!<heart>{END}
+
+<Arche>
+ Yay! We did it<star>!
+<pause>
+<Arche>
+ Took only <num5_0000512A> tries<heart>{END}
+
+<color_0002>Failure #<num5_0000512A>.<color_0000>
+<pause>
+<Arche>
+ Aww, boo!
+ We gotta be more careful!<panic><wait>{END}
+
+<Arche>
+ Wanna give it another go?{END}
+
+<Klarth>
+ Another switch-operated door.
+ Except there aren't any convenient
+ statues lying around this time.
+<pause>
+<Klarth>
+ So, someone needs stay behind
+ for now and lend their weight.
+ I don't mind doing it, but it's
+ your decision, <Cless>.<wait>{END}
+
+<speed_0000><color_0002>Who will stay behind?
+1. <Klarth>
+2. <Mint>
+3. <Arche><color_0000><speed_FFFF>{END}
+
+<Cless>
+ Whoa!<sweat>{END}
+
+Dhaos' Castle{END}
+
+“Reverse”{END}
+
+“UP DOWN RIGHT LEFT DOWN UP”{END}
+
+<Cless>
+ When two mirrors face each other,
+ they will reflect each other
+ infinitely...{END}
+
+<Cless>
+ When two mirrors face each other,
+ they will reflect each other
+ infinitely...{END}
+
+<Cless>
+ When two mirrors face each other,
+ they will reflect each other
+ infinitely...{END}
+
+<Cless>
+ The hand mirror we found is
+ starting to glow...
+<pause>
+<Cless>
+ ...!?
+ The monster in the mirror is--!!{END}
+
+<Cless>
+ Let's try it again, <Arche>.{END}
+
+<Cless>
+ Isn't this the same language
+ written on the stone tablet at the
+ bottom of the Moria Mine?
+<pause>
+<Cless>
+ <Arche>, would you
+ translate it?{END}
+
+<Arche>
+ Umm, I think it says:
+ “Press the corresponding switches
+ simultaneously.”
+<pause>
+<Cless>
+ Hmm...<wait>{END}
+
+<unk1><Arche>
+ Come on, <Cless>!
+ We can do this!<heart>{END}
+
+<Cless>
+ Stick the <item_3F00> in the keyhole,
+ and...{END}
+
+<Cless>
+ It's locked...{END}
+
+<Mint>
+ There's a magic crest here...
+<pause>
+<Mint>
+ ...for a quadrilateral gate-sealing
+ spell.
+<pause>
+<Cless>
+ Come again?
+<pause>
+<Mint>
+ In other words, this is a sealed
+ door that can be only be opened by
+ the prayers of four people
+ arranged at four opposing points.{END}
+
+<Klarth>
+ A crest for a quadrilateral
+ gate-sealing spell!?
+<pause>
+<Cless>
+ ...A what!?
+<pause>
+<Klarth>
+ Basically, this is a sealed door that
+ can only be opened by the prayers
+ of four people arranged in four
+ opposing directions.{END}
+
+“The way will be revealed only
+before facing mirrors.”{END}
+
+<color_0002>Acquired an <item_7701>.<color_0000>{END}
+
+<color_0002>Acquired a <item_CB00>.<color_0000>{END}
+
+<color_0002>Acquired a Mechanical <item_CB00>.<color_0000>{END}
+
+<color_0002>Acquired <item_0300>.<color_0000>{END}
+
+<Cless>
+ Some medicinal herbs are growing
+ in this thing.
+<pause>
+<color_0002>Acquired some <item_8000> and some
+<item_7F00>.<color_0000>{END}
+
+<color_0002>Acquired a Mechanical <item_CB00>.<color_0000>{END}
+
+<color_0002>Acquired a <item_CB00>.<color_0000>{END}
+
+<Cless>
+ There's a hidden switch here.
+<pause>
+<color_0002>Push it?<color_0000>{END}
+
+<Cless>
+ There's a hidden switch here.
+<pause>
+<color_0002>Push it?<color_0000>{END}
+
+<Cless>
+ Umm...
+<pause>
+<Cless>
+ We shouldn't leave anyone behind...{END}
+
+<Cless>
+ What's the deal with this mirror!?{END}
+
+<Cless>
+ She should be right below us...
+<pause>
+<Mint>
+ Oh, so that's it!
+<pause>
+<Mint>
+ Since <Arche>'s the only
+ one who can fly...
+<pause>
+<Cless>
+ Heyyy, <Arche>!
+ Up here!
+<pause>
+<Cless>
+ ...You can hear me, can't you!?
+<pause>
+<Arche>
+ What!?
+ Speak up, would ya!?
+<pause>
+<Cless>
+ Hop on your broom and fly up
+ through the hole in the ceiling!!{END}
+
+<Cless>
+ That's one big hole...<sweat>
+<pause>
+<Cless>
+ I can feel a draft coming up
+ through it from the floor below.{END}
+
+Treasure Keeper
+ I ain't givin' you this treasure for
+ free, y'know.
+<pause>
+Treasure Keeper
+ The price?
+ Your souls!!{END}
+
+<Cless>
+ We've finally found you, Dhaos!
+<pause>
+<Cless>
+ Prepare yourself!!
+<pause>
+<Cless>
+ We've come here to settle things!!
+<pause>
+Dhaos
+ ......
+<pause>
+<Cless>
+ What's wrong?
+ Lost your nerve!?
+<pause>
+Dhaos
+ For what reason do you point your
+ sword at me?
+<pause>
+Dhaos
+ You are not my enemy.
+ I have no grounds upon which
+ to fight with you.
+<pause>
+<Cless>
+ You may not, but we have plenty!!{END}
+
+Dhaos
+ Hmph!
+ How absurd!
+<pause>
+Dhaos
+ So you're actually just pawns of
+ Midgard sent here to die, I take it?
+<pause>
+Dhaos
+ Well, then. Even when insignificant
+ specks of dust gather, one must
+ still brush them off. Have at you!
+<pause>
+<Cless>
+ En garde!!{END}
+
+<Cless>
+ He fled...
+<pause>
+<Cless>
+ Dammit all to hell!!
+<pause>
+<Mint>
+ <Cless>...
+<pause>
+<Mint>
+ What do we do now?{END}
+
+<Klarth>
+ ......
+<pause>
+<Klarth>
+ Well, idling around here sure isn't
+ it. Let's move out and report to
+ Lundgrom.{END}
+
+Dhaos' Guard
+ HEEheeheeheehee!!
+ The only way you'll get
+ to Lord Dhaos is over our
+ dead bodies!!{END}
+
+<Arche>
+ No no no!
+ What're ya doin'!?
+<pause>
+<Arche>
+ Pay more attention to me!
+ We have to activate these switch
+ things at the same time!{END}
+
+<Arche>
+ Oh, I just knew you couldn't leave
+ without little 'ol me<heart><wait>{END}
+
+<Mint>
+ Do you need someone to tend to
+ your wounds?<wait>{END}
+
+<Klarth>
+ Giving someone else switch duty?<wait>{END}
+
+<speed_0000><color_0002>Who will stay behind?
+1. <Klarth>
+2. <Mint>
+3. <Arche>
+4. Nobody<speed_FFFF><color_0000>{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_B900>.<color_0000>{END}
+
+<Cless>
+ But I don't have any use for it.
+ I'll put it back...{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C400>.<color_0000>{END}
+
+<Cless>
+ But I don't have any use for it.
+ I'll put it back...{END}
+
+<center>The great battle known<endalign>
+<center>through the ages...<endalign>
+
+<speed_0002> <center>--The Valhalla War--<endalign>{END}
+
+<center>Edward D. Morrison was the one<endalign>
+<center>who originally held the decisive<endalign>
+<center>position in this conflict...<endalign>{END}
+
+<Klarth>
+ A crest for a quadrilateral
+ gate-sealing spell has been
+ engraved in this door.
+<pause>
+<Klarth>
+ It can only be defeated by the
+ prayers of four people arranged in
+ four opposing directions.{END}
+
+<Klarth>
+ Now let's split up and try to break
+ this seal...{END}
+
+<Klarth>
+ It worked!{END}
+
+<color_0002>You must activate the switches
+simultaneously with <Arche>.
+Make one mistake and you'll have to
+start all over again.<wait>{END}
+
+<color_0002><Arche> will walk normally to her
+first switch. Concentrate on the
+timing of activating yours at the
+same time.<wait>{END}
+
+<color_0002>Activation of the second switch can
+be properly timed by simply walking
+forth after activating the first.<wait>{END}
+
+<color_0002>On each of the third and fourth
+switches, be wary of a bluff by
+<Arche>.<wait>{END}
+
+<color_0002>Keep a close eye on <Arche>'s
+movements and act accordingly.<wait>{END}
+
+<color_0002>Your timing does not have to be
+exact--you have a split second of
+time to activate your switch after
+<Arche> activates hers.<wait>{END}
+
+<Klarth>
+ Oh, for the love of...
+ I'd rather stab myself in the eyes
+ than see any more of this!
+<pause>
+<Klarth>
+ Just watching you
+ two is humiliating!
+ Step aside!
+<pause>
+<Klarth>
+ <Mint>! Give me a hand!
+ We'll do this instead!
+<pause>
+<Mint>
+ Okay!{END}
+
+<Klarth>
+ Okay. Urge to kill: subsiding.
+ Let's go.
+<pause>
+<Cless>
+ ......<sweat>
+<pause>
+<Arche>
+ I guess that goes to show how
+ compatible we are...
+<pause>
+<Cless>
+ (<Arche><panic>){END}
+

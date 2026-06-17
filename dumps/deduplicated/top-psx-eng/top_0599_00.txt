@@ -1,0 +1,202 @@
+ Training Map{END}
+
+<Cless>
+ <Chester>...
+ Can we talk for a few minutes?<wait>{END}
+
+<Chester>
+ <Cless>...?<wait>{END}
+
+<unk1><Cless>
+ Is it what <Arche> said
+ that's bothering you?{END}
+
+<Chester>
+ That's only part of it...{END}
+
+<Chester>
+ Truth is, it's more about you.{END}
+
+<Cless>
+ ...?<wait>{END}
+
+<Chester>
+ It used to be that you and I stayed
+ neck-and-neck in our training. Our
+ only difference was our weapon of
+ choice. Good times, those.<wait>{END}
+
+<Chester>
+ But in all of what seemed like only
+ a few minutes to me, you got
+ insanely strong.<wait>{END}
+
+<Chester>
+ You're suddenly so far ahead that I
+ just feel sorta...left out, y'know?{END}
+
+<Chester>
+ Say... Do you have dreams about
+ everyone in Totus?
+<pause>
+<Cless>
+ Yeah...<wait>{END}
+
+<Chester>
+ Not a single night goes by without
+ me having one.<wait>{END}
+
+<Chester>
+ I'm suddenly awoken by intense
+ thoughts of everyone being
+ massacred! I'll be so furious I can't
+ go back to sleep!<wait>{END}
+
+<Chester>
+ I have to go out and shoot some
+ arrows to help me cool off a little.{END}
+
+<unk1><Chester>
+ One last thing, <Cless>...
+ Did you know?
+<pause>
+<Chester>
+ My little sister, Ami...she really liked
+ you...{END}
+
+<Chester> has gained additional
+experience from his training.<wait>{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New Arte!{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New Arte!{END}
+
+<color_0002><Chester> has earned the title
+“<var_CA01>.”<color_0000>{END}
+
+<Arche>
+ Sooo...
+ What're YOU doin' out here?
+<pause>
+<Chester>
+ Nothing.
+<pause>
+<Arche>
+ Oh? In the middle of the night?{END}
+
+<Chester>
+ What, you got a problem with that?
+ I can do whatever I want.
+<pause>
+<Arche>
+ ...I bet you're still annoyed over
+ what I said when we met.{END}
+
+<Chester>
+ You'd be losing that bet, then.
+<pause>
+<Arche>
+ So tell me, then.<wait>{END}
+
+<Chester>
+ What part of “nothing” didn't you
+ understand!? If you don't have
+ anything else to do, then buzz off!{END}
+
+<Arche>
+ ......
+<pause>
+<Arche>
+ ...I get it...I'll leave.{END}
+
+<Chester>
+ Hold up...
+<pause>
+<Chester>
+ I...didn't mean to say all that...{END}
+
+<Arche>
+ ...I...
+<pause>
+<Arche>
+ ...think I should apologize to y--{END}
+
+<Chester>
+ What was that?<wait>{END}
+
+<Arche>
+ Oh, just forget it!<wait>{END}
+
+<Arche>
+ I'll say this, though: don't go getting
+ yourself a cold or anything out
+ here! You'll just hold us all back
+ even more.
+<pause>
+<Chester>
+ Yeah, well, why don't you try not
+ stuffing your face so much every
+ night!? Nobody likes listening to you
+ whine about your stomach aches!<wait>{END}
+
+<Arche>
+ La-la-la!
+ I'm-not-listening!
+<pause>
+<Arche>
+ G'night!{END}
+
+<Chester> has gained additional
+experience from his training.{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New Arte!{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New Arte!{END}
+
+<Chester>
+ What a bunch of garbage...{END}
+
+<Chester>
+ I'm “wussy,” huh?{END}
+
+<Chester>
+ She's so full of it!{END}
+
+<Chester>
+ That stupid, dumbass, immature
+ little...ugh!{END}
+
+<Chester>
+ No way in hell I'm going to hold
+ everyone back!{END}
+
+<Chester>
+ That's a promise!{END}
+
+<Chester>
+ Just you watch, girl...{END}
+
+<Chester>
+ I'll make you eat your words!{END}
+
+<Chester> has gained additional
+experience from his training.
+<pause>
+{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New Arte!{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New Arte!{END}
+

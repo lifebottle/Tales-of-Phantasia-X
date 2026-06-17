@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1230">
+        <source>The desert's as toasty as ever...</source>
+        <target state="translated">The desert's as toasty as ever...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1231">
+        <source>It's just like summer: the time of ice cream!</source>
+        <target state="translated">It's just like summer: the time of ice cream!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1232">
+        <source>No, watermelon! That's non-negotiable.</source>
+        <target state="translated">No, watermelon! That's non-negotiable.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1233">
+        <source>I've always liked
+fireworks that time of the year.</source>
+        <target state="translated">I've always liked
+fireworks that time of the year.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1234">
+        <source>Fireworks? Really?
+Doesn't sound very appetizing!</source>
+        <target state="translated">Fireworks? Really?
+Doesn't sound very appetizing!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1235">
+        <source>Yeah, really! Unless you're
+some kind of mutant GOAT.</source>
+        <target state="translated">Yeah, really! Unless you're
+some kind of mutant GOAT.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1236">
+        <source>Umm...pardon me, but I believe
+you two are missing the point...</source>
+        <target state="translated">Umm...pardon me, but I believe
+you two are missing the point...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

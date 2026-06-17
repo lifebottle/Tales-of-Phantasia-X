@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_481">
+        <source>So it seems Demeter moved
+to that island west of Venezia...</source>
+        <target state="translated">So it seems Demeter moved
+to that island west of Venezia...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_482">
+        <source>Question is, how do we get there...?</source>
+        <target state="translated">Question is, how do we get there...?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_483">
+        <source>Maybe if we asked around
+the port, we could find a way.</source>
+        <target state="translated">Maybe if we asked around
+the port, we could find a way.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_484">
+        <source>Agreed. Someone there
+should be willing to give us a lift.</source>
+        <target state="translated">Agreed. Someone there
+should be willing to give us a lift.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

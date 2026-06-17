@@ -1,0 +1,130 @@
+"<Cless>
+（あそこには、戻らないほうがい
+　い・・・）{END}","<Cless>:<nl>
+ (We'll be spotted for sure if we go
+ back...){END}"
+"<audio_0747><Cless>
+「ここまで来れば、もう大丈夫だ
+　ろう・・・」{END}","<audio_0747><Cless>:<nl>
+ We should be far enough to avoid
+ being caught...{END}"
+"<audio_0748><Cless>
+「<Mint>、危ない！！」{END}","<audio_0748><Cless>:<nl>
+ Behind you, <Mint>!{END}"
+"<audio_0749><Cless>
+「くっ！！」
+<pause>
+<audio_074A><Mint>
+「<Cless>さん！！」<wait>{END}","<audio_0749><Cless>:<nl>
+ Aghhh!!!
+<pause>
+<audio_074A><Mint>:<nl>
+ Mr. Alvein!!<wait>{END}"
+"<audio_074B><Cless>
+「くそっ、油断した・・・」{END}","<audio_074B><Cless>:<nl>
+ I shouldn't have lowered my
+ guard...{END}"
+"<unk1><audio_074C><Mint>
+<Cless>さん、しっかりして！」<wait>{END}","<unk1><audio_074C><Mint>:<nl>
+ Mr. Alvein, please hang in there!<wait>{END}"
+"<audio_074D><Mint>
+「<Cless>さん！！」{END}","<audio_074D><Mint>:<nl>
+ Mr. Alvein!!{END}"
+"<audio_074E><Mint>
+「追っ手？」
+<pause>
+<audio_074F><Mint>
+「逃げないと・・・」{END}","<audio_074E><Mint>:<nl>
+ Oh no...<nl>
+ Are they after us?
+<pause>
+<audio_074F><Mint>:<nl>
+ We have to get away...{END}"
+"<Cless>
+<audio_1736>「あれは、なんだろう？」
+<pause>
+<Mint>
+<audio_1737>「あれは、記憶陣です」
+<pause>
+<Cless>
+<audio_1738>「記憶陣？」
+<pause>
+<Mint>
+<audio_1739>「あの上では、自分が経験してき
+　たことが、残留思念となって残
+　ります」<wait>{END}","<Cless>:<nl>
+ <audio_1736>What's this glowing symbol thing?
+<pause>
+<Mint>:<nl>
+ <audio_1737>It is a memory glyph.
+<pause>
+<Cless>:<nl>
+ <audio_1738>So what's it do?
+<pause>
+<Mint>:<nl>
+ <audio_1739>If you stand upon it, the things
+ you've experienced will remain as
+ residual memories.<wait>{END}"
+"<color_0002>記憶陣の上に乗ればダンジョンの中
+でもセーブを行うことができます。
+<pause>
+重要な戦闘やイベントの近くには、
+記憶陣が配置されていることが多い
+ので、目安にして下さい。{END}","<color_0002>You can <color_0003>save your progress<color_0002> in
+dungeons while standing on a
+<color_0003>memory glyph<color_0002>.
+<pause>
+Memory glyphs are often found
+near boss battles or important
+events, so be sure to watch for
+them.{END}"
+"クレイデーモン
+<audio_173A>「逃げようなんて甘いんだよ！」
+<pause>
+クレイデーモン
+<audio_173B>「ここから先は通さねぇ！！」{END}","Clay Dem<audio_173A>on:<nl>
+ You naive fools thought you could
+ escape!?
+<pause>
+Clay Dem<audio_173B>on:<nl>
+ You won't take another step!!{END}"
+<color_0002>奪われていた武器を取り戻しました。{END},"<color_0002>You retrieved your stolen
+weapon(s).{END}"
+"<color_0002><Mint>が仲間になりました。
+<pause>
+{END}","<color_0002><Mint> has joined the party.
+<pause>
+{END}"
+"<color_0002><Mint>は戦闘中、法術で<Cless>をサポートします。
+<pause>
+法術は自動的に使ってくれますが、『今、この法術を使って欲しい』と
+いう場合には、メニューの特技で、
+使いたい法術を選択して下さい。
+<pause>
+『この法術は使って欲しくない』と
+いう場合は、メニューの「特技」で
+特技使用の禁止・許可を指定するこ
+とができます。
+<pause>
+<var_0302>で使用禁止・使用許可を切り替え
+ます。使用禁止になっている法術は
+暗い色で表示されます。{END}","<color_0002><Mint> can support <Cless>
+in battle with her
+<color_0003>clerical artes<color_0002>.
+<pause>
+She will use them automatically, but
+if you need her to use a specific
+one right away, select it manually
+from the Artes menu.
+<pause>
+If there are any artes you don't
+want her to use, you can <color_0002>restrict<color_0002>
+her from using them.
+<pause>
+While in the Artes menu, move the
+cursor to the arte and press <var_0302> to
+<color_0003>restrict or allow<color_0002> their usage.
+<pause>
+<color_0003>Allowed<color_0002> artes will be displayed with
+a <color_0000>light<color_0002> color, while <color_0003>restricted<color_0002> ones
+will be displayed with a <color_0004>dark<color_0002> color.{END}"

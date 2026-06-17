@@ -1,0 +1,515 @@
+ドワーフの神殿{END},Dwarven Sanctuary{END}
+モーリア坑道地下<num5_C00040A0>階{END},Moria Mine (B<num5_C00040A0>F){END}
+"<Cless>
+「これは、呪文書だ！」<wait>{END}","<Cless>:<nl>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_CE00>を覚えました。<color_0000>{END},<color_0002><Arche> learned <var_CE00>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな、戻しておこう」{END}","<Cless>:<nl>
+ But I don't have any use for it.
+ I'll put it back.{END}"
+"<Cless>
+「これは、呪文書だ！」<wait>{END}","<Cless>:<nl>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_CB00>を覚えました。<color_0000>{END},<color_0002><Arche> learned <var_CB00>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな、戻しておこう」{END}","<Cless>:<nl>
+ But I don't have any use for it.
+ I'll put it back.{END}"
+"<Cless>
+「これは、奥義書だ！」<wait>{END}","<Cless>:<nl>
+ This is an arcane arte book!<wait>{END}"
+<color_0002><Cless>は<var_9900>を覚えました。<color_0000>{END},"<color_0002><Cless> learned
+<var_9900>.<color_0000>{END}"
+"冒険者
+「引き返そうかなぁ・・・」
+<pause>
+冒険者
+「ニ度と戻って来れないような
+　気がする・・・」{END}","Adventurer:<nl>
+ I dunno about this, man.
+ I'd better turn around while I'm
+ able.
+<pause>
+Adventurer:<nl>
+ My gut's tellin' me this is a road
+ straight to hell.{END}"
+"兵士
+「切り立った崖の上に家が見える
+　だろ？」
+<pause>
+兵士
+「あれがドワーフ族の住居跡なん
+　だってさ」{END}","Soldier:<nl>
+ Hey, check out the houses in the
+ distance!
+<pause>
+Soldier:<nl>
+ They must be the remnants of the
+ dwarves' settlement. Those guys
+ had serious guts living atop such
+ steep cliffs.{END}"
+"『全ての要を押さえる者に、道は
+　開かれん』{END}","“The way will open to one who has
+activated all the points.”{END}"
+『緊急脱出用魔法陣』{END},“EMERGENCY EXIT: Magic Glyph”{END}
+"？？？
+『おい、お前！』{END}","???:<nl>
+ “Shaaaaa...<nl>
+ Hey, you there!”{END}"
+"？？？
+「お前の後ろだ」{END}","???:<nl>
+ “Behind ya!
+ Ssssss...”{END}"
+"<unk1><Cless>
+な、何だお前は！？」
+<pause>
+？？？
+オレは<var_D900>って言うんだよ」
+<pause>
+<var_D900>
+お前達こそなんだよ」
+<pause>
+<var_D900>
+ここは人間の来るような所じゃないよ」
+<pause>
+<Klarth>
+お前、何者なんだ？」
+<pause>
+<var_D900>
+オレは魔界の住人だ」
+<pause>
+<var_D900>
+ここに満ちる瘴気を見ればわかるだろう？」
+<pause>
+<Cless>
+<Klarth>さん、こいつもしかして・・・」
+<pause>
+<Klarth>
+契約を結べば召喚獣として役に立つかもしれないな」<wait>{END}","<unk1><Cless>:<nl>
+ Wh-What the heck are you!?
+<pause>
+???:<nl>
+ Gremlin Lair, they sssssssay.
+<pause>
+Gremlin Lair:<nl>
+ What...hissssss...are YOU?
+<pause>
+Gremlin Lair:<nl>
+ Sssssurely no humans exisssst here.
+<pause>
+<Klarth>:<nl>
+ These ones do.
+ And what variety of adorable
+ abomination might you be?
+<pause>
+Gremlin Lair:<nl>
+ A ressssssident of Daemonium.
+<pause>
+Gremlin Lair:<nl>
+ Shahhhh...<nl>
+ All the miasma in here didn't...<nl>
+ sssss...clue you in, sssssmart guy?
+<pause>
+<Cless>:<nl>
+ (Psst, <Klarth>...<nl>
+ What do you think about
+ this...thing?)
+<pause>
+<Klarth>:<nl>
+ (If I play my cards right, I bet I
+ can draw him into a pact. At least
+ that might make him useful...and I
+ don't intend to become his lunch.)<wait>{END}"
+"<var_D900>
+「何を内緒話してるんだ？」
+<pause>
+<Klarth>
+「いやいや、何でもない」
+<pause>
+<Klarth>
+「それよりも、お前腹が減ってい
+　ないか？」
+<pause>
+<var_D900>
+「何かうまいものでも食わしてく
+　れるのか？」
+<pause>
+<Klarth>
+「ああ、""魔力""というお前達に
+　とっては格別にうまいものだ」
+<pause>
+<Klarth>
+「私達に力を貸してくれるのなら
+　いくらでもやろう」
+<pause>
+<var_D900>
+「いいよいいよ、何でもやってや
+　るよ！」
+<pause>
+<var_D900>
+「早く食わしてくれ！」
+<pause>
+<Klarth>
+「まあ慌てるな」
+<pause>
+<Klarth>
+「まずは契約を結んでからだ」
+<pause>
+<Klarth>
+「お前の好きな指輪を言ってくれ」
+<pause>
+<var_D900>
+「契約？」
+<pause>
+<var_D900>
+「何か怪しいな・・・」
+<pause>
+<var_D900>
+「ま、いっか、えっと・・・」
+<pause>
+<var_D900>
+「その青いのがいい」
+<pause>
+<Klarth>
+「サファイアだな」{END}","Gremlin Lair:<nl>
+ You guys whisssssspering about
+ ssssssomething there?
+<pause>
+<Klarth>:<nl>
+ Oh, nothing for you to be
+ concerned about, I assure you.
+ Say...
+<pause>
+<Klarth>:<nl>
+ ...I bet that stomach of yours is
+ growling up a storm right now.
+<pause>
+Gremlin Lair:<nl>
+ Yessssss...<nl>
+ Got anything tasty?
+<pause>
+<Klarth>:<nl>
+ There's nothing more delectable
+ than “magic power” to your kind,
+ am I right? Well...
+<pause>
+<Klarth>:<nl>
+ I've got a whole smorgasbord of
+ the stuff ready for you to savor.
+ If you want it, just be my demon.
+<pause>
+Gremlin Lair:<nl>
+ Sssssure, sure!
+ Whatever you want!
+<pause>
+Gremlin Lair:<nl>
+ Jusssssst get on with it!
+ Food! Food! Gimme! Hissssss!
+<pause>
+<Klarth>:<nl>
+ Patience, my friend.
+ First things first!
+<pause>
+<Klarth>:<nl>
+ We just need to get this minor
+ annoyance called a pact out of the
+ way.
+<pause>
+<Klarth>:<nl>
+ Here--pick a ring, any ring!
+<pause>
+Gremlin Lair:<nl>
+ Wait a ssssssec, a pact?
+<pause>
+Gremlin Lair:<nl>
+ That sounds kinda fishy...
+<pause>
+Gremlin Lair:<nl>
+ Shahhhh... Whatever.
+ Lesssssssee...
+<pause>
+Gremlin Lair:<nl>
+ That blue one's kinda nice.
+<pause>
+<Klarth>:<nl>
+ Sapphire, is it?
+ That's a good color for you.{END}"
+"<Klarth>
+「我、今、魔界の精に願い奉る」
+<pause>
+<Klarth>
+「指輪の盟約のもと、我に精霊を
+　従わせたまえ・・・」
+<pause>
+<Klarth>
+「我が名は<Klarth>・・・」{END}","<Klarth>:<nl>
+ Here and now, I offer my request
+ to the Spirit of Daemonium.
+<pause>
+<Klarth>:<nl>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>:<nl>
+ My name is <Klarth>...{END}"
+<color_0002><Klarth>は<var_D900>を召喚できるようになりました。<color_0000><wait>{END},"<color_0002><Klarth> can now summon Gremlin
+Lair.<color_0000><wait>{END}"
+"<Cless>
+「うまくいきましたね」
+<pause>
+<Klarth>
+「嘘は、ついてないさ」{END}","<Cless>:<nl>
+ Whew...<nl>
+ You got out of that one smoothly.
+<pause>
+<Klarth>:<nl>
+ Hmhm. Don't underestimate me!
+ He still got the truth...technically.{END}"
+"<Cless>
+「ホ、ホーリィボトルが壊れてし
+　まった・・・」
+<pause>
+<Cless>
+「どうなってるんだ？」{END}","<Cless>:<nl>
+ Ah! What the!?
+<pause>
+<Cless>:<nl>
+ ...Our Holy Bottles!
+ They all shattered to pieces...{END}"
+"？？？
+「我が名はワイヴァーン、ここを
+　守護する者なり」
+<pause>
+ワイヴァーン
+「この先はドワーフの聖域、なん
+　ぴとたりとも通すわけにはいか
+　ぬ！！」{END}","???:<nl>
+ I am Wyvern, sentinel of this
+ hallowed ground.
+<pause>
+Wyvern:<nl>
+ Beyond me lies the Dwarven
+ Sanctuary. I shall not allow the
+ hosts of man to trespass!!{END}"
+"ワイヴァーン
+「お、おのれ・・・」
+<pause>
+ワイヴァーン
+「愚かなりし人族ごときに倒され
+　るとは・・・」{END}","Wyvern:<nl>
+ Damn...you...
+<pause>
+Wyvern:<nl>
+ To fall at the hands of imbecilic
+ humans...{END}"
+"<Cless>
+「いま、この穴から変な声がした
+　ような・・・」{END}","<Cless>:<nl>
+ Umm...<nl>
+ I think I hear a voice
+ coming from this hole...{END}"
+"<unk1><Cless>
+な、何だ！？」
+<pause>
+<Cless>
+この凍てつくオーラは！？」
+<pause>
+？？？
+ここは魔界に通じる場所、お前達のような人間の来る場所ではない」
+<pause>
+？？？
+そうそうに立ち去るがよい」
+<pause>
+<Klarth>
+こいつは・・・」
+<pause>
+<Klarth>
+お前は、もしかして魔界の住人なのか？」
+<pause>
+？？？
+いかにも、私は魔界を統べる存在、<var_DA00>なり・・・」
+<pause>
+<Klarth>
+我々の世界は今ダオスという者の脅威にさらされている」
+<pause>
+<Klarth>
+私達に力を貸して頂けないだろうか？」
+<pause>
+<var_DA00>
+冥界の主たるこの<var_DA00>に、人間ごときの命に従えと言うか」
+<pause>
+<Klarth>
+力を貸して欲しいと言ったのだが」
+<pause>
+<var_DA00>
+同じことだ！」
+<pause>
+<var_DA00>
+貴様らが我の力を得るに値する人間か、この<var_DA00>自身が見極めてやるわ」{END}","<unk1><Cless>:<nl>
+ Wh-What the!?
+<pause>
+<Cless>:<nl>
+ Brrr...<nl>
+ This thing's aura is cold as ice!
+<pause>
+???:<nl>
+ Mortals, you have reached the
+ boundary of Daemonium.
+<pause>
+???:<nl>
+ Return from whence you came
+ with haste!
+<pause>
+<Klarth>:<nl>
+ (I think I know this guy...)
+<pause>
+<Klarth>:<nl>
+ One second.
+ I just wanted to confirm: You're a
+ resident of Daemonium, yes?
+<pause>
+???:<nl>
+ More than that.
+ I am Pluto, the overseer.
+<pause>
+<Klarth>:<nl>
+ Thought so.
+ Anyway, our world is under a
+ great threat from a being
+ calling himself Dhaos.
+<pause>
+<Klarth>:<nl>
+ Is there any convincing you to lend
+ us your might in humanity's
+ struggle against him?
+<pause>
+Pluto:<nl>
+ Laughable!
+ Requesting the overlord of Hades
+ do the bidding of wretched dogs
+ such as yourselves?
+<pause>
+<Klarth>:<nl>
+ I meant that in the sense you'd
+ only be called upon when deemed
+ necessary, *if* ever.
+<pause>
+Pluto:<nl>
+ There is no distinction!
+<pause>
+Pluto:<nl>
+ If you are so determined, then I,
+ Pluto, shall ascertain if you are
+ worthy of my power.{END}"
+"<var_DA00>
+「逃げられはせん・・・」
+<pause>
+<var_DA00>
+「冥界への道を歩むがよい・・・」{END}","Pluto:<nl>
+ There is no escape...
+<pause>
+Pluto:<nl>
+ All roads lead inevitably to Hades...{END}"
+"<unk1><var_DA00>
+うむ、よかろう、汝の命に従おう・・・」
+<pause>
+<var_DA00>
+しかし我ら魔界の住人を召喚する呪文は遥か昔に封印されているはず・・・」
+<pause>
+<var_DA00>
+このままでは・・・」
+<pause>
+<Klarth>
+契約の指輪がある」
+<pause>
+<Klarth>
+これを使って新たな契約を結べば、いにしえの封印は解けるはずだ」
+<pause>
+<var_DA00>
+承知した、それではエメラルドの指輪を・・・」{END}","<unk1>Pluto:<nl>
+ Hmph, so be it.
+ I will obey your command...
+<pause>
+Pluto:<nl>
+ However, the arte of calling forth
+ the inhabitants of Daemonium was
+ sealed away in a bygone era...
+<pause>
+Pluto:<nl>
+ How will you--
+<pause>
+<Klarth>:<nl>
+ With a pact ring.
+<pause>
+<Klarth>:<nl>
+ The ancient seal will be broken if
+ it's used to establish a new pact.
+<pause>
+Pluto:<nl>
+ Acknowledged.
+ Of old, there was an
+ Emerald rune ring...{END}"
+"<Klarth>
+「我、今、魔界の精に願い奉る」
+<pause>
+<Klarth>
+「指輪の盟約のもと、我に精霊を
+　従わせたまえ・・・」
+<pause>
+<Klarth>
+「我が名は<Klarth>・・・」{END}","<Klarth>:<nl>
+ Here and now, I offer my request
+ to the Spirit of Daemonium.
+<pause>
+<Klarth>:<nl>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>:<nl>
+ My name is <Klarth>...{END}"
+<color_0002><Klarth>は<var_DA00>を召喚できるようになりました。<color_0000>{END},<color_0002><Klarth> can now summon Pluto.<color_0000>{END}
+"忍者
+「気に入ってもらえたかしら？」{END}","Ninja:<nl>
+ May I interest you in something?{END}"
+"忍者
+「わたしは修業中の忍者です」
+<pause>
+忍者
+「ここでの修行で会得した忍術を
+　あなたにも教えてあげましょう
+　か？」{END}","Ninja:<nl>
+ I am a ninja in the midst of my
+ training.
+<pause>
+Ninja:<nl>
+ Would you like me to teach you the
+ ninja arte I have learned while in
+ this place?{END}"
+"忍者
+「ただし<num1_0000002F>００００ガルドよ」
+<pause>
+<speed_0000><color_0002><num1_00072BF0>ガルド払いますか？<color_0000><speed_FFFF>{END}","Ninja:<nl>
+ It's <num1_0000002F>0000 gald, though.
+<pause>
+<speed_0000><color_0002>Pay <num1_00072BF0> gald?<color_0000><speed_FFFF>{END}"
+"<color_0002><Suzu>は<var_AF00>を覚えました。
+<pause>
+<color_0000>忍者
+「ありがとう」{END}","<color_0002><Suzu> learned <var_AF00>.
+<pause>
+<color_0000>Ninja:<nl>
+ Thank you.{END}"
+"忍者
+「お金が足りないみたいね」{END}","Ninja:<nl>
+ You do not have enough money.{END}"
+"忍者
+「買ってよ」{END}","Ninja:<nl>
+ Buy it.{END}"
+"忍者
+「お役に立てなくて残念だわ」{END}","Ninja:<nl>
+ A shame I could not serve you.{END}"
+<color_0002><item_9100>を手に入れました。{END},<color_0002>Acquired the <item_9100>.{END}
+<color_0002><item_0E00>を手に入れました。{END},<color_0002>Acquired <item_0E00>.{END}

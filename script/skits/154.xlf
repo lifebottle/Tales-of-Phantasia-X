@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_772">
+        <source>Some good news for once: Prince Laird is free.</source>
+        <target state="translated">Some good news for once: Prince Laird is free.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_773">
+        <source>Thanks to our efforts in saving him, we have
+earned permission to explore the Moria Mine.</source>
+        <target state="translated">Thanks to our efforts in saving him, we have
+earned permission to explore the Moria Mine.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_774">
+        <source>Not to mention, we got the
+incredible spear, Gungnir.</source>
+        <target state="translated">Not to mention, we got the
+incredible spear, Gungnir.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_775">
+        <source>Hey, is it really so great?</source>
+        <target state="translated">Hey, is it really so great?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_776">
+        <source>Sure, it's called “The Divine Spear,” after all.</source>
+        <target state="translated">Sure, it's called “The Divine Spear,” after all.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

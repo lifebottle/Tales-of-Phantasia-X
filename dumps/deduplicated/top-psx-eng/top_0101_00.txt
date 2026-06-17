@@ -1,0 +1,1197 @@
+<Cless>
+ If I remember correctly, my
+ uncle's house is in the
+ northwestern part of town.{END}
+
+Capital of Euclid{END}
+
+<center>“History of the Kingdom of Euclid”<endalign>
+<pause>
+The Kingdom of Euclid has a history
+of about one hundred twenty years.
+<pause>
+Before the kingdom was established,
+there was the Euclidean Republic--a
+union of three clans.
+<pause>
+One clan was called Deroino, which
+governed the Venezian continent.
+<pause>
+Another clan was known as Mailgan,
+which governed the southern
+portion of the Euclid continent.
+<pause>
+(It is theorized that this is the
+group which constructed the
+mausoleum which was destroyed
+fifty years ago.)
+<pause>
+The final of the three clans was
+called Euclid, which governed the
+northern portion of the Euclid
+continent.
+<pause>
+The present king, Ralph D. Euclidonia,
+is of the twenty-first generation of
+the Euclid family.{END}
+
+<center>“Minority Groups of the World”<endalign>
+<pause>
+There is an estimated two hundred
+fifty small clans of people in the
+world, each with a population of a
+hundred or less.
+<pause>
+One of these groups, known as
+Japon, possesses a notable,
+distinctly unusual culture.
+<pause>
+Japon is most famous for its ninja,
+whom are very secretive.
+<pause>
+It is thought this group has means
+to completely conceal itself from
+the outside world, as all attempts to
+contact their culture directly have
+ended in failure.{END}
+
+<center>“About Elves”<endalign>
+<pause>
+The elves have long lifespans.
+This, along with their magical
+potential and physical beauty,
+differentiates them from humans.
+<pause>
+The elves' place of origin is still a
+matter of speculation.
+<pause>
+The most widely accepted theory as
+of now is that they came from
+somewhere within Treant Forest.
+<pause>
+Much folklore, on the other hand,
+speaks of Elves as life forms
+created by God in ancient times that
+lived in an aerial city.
+<pause>
+There is little scientific evidence to
+validate this theory, however, and it
+is most likely just a legend.{END}
+
+<center>“The Culture of the<endalign>
+<center>Ancient Civilizations - Vol. 9”<endalign>
+<pause>
+The lost civilizations apparently
+produced energy from electricity
+and oil.
+<pause>
+It is said that these civilizations
+possessed electrical mechanisms and
+other such devices beyond our
+imaginations.
+<pause>
+One theory even suggests they had
+the technology to produce
+mechanical humans.{END}
+
+“Lodging available!
+For superior service and great
+food, stay at the Euclid Inn!”{END}
+
+<Cless>
+ (Why would there be anything
+ written on the back of a sign?){END}
+
+“Convenient travel supplies!
+Put a gel in YOUR traveling bag!
+Come here for the widest variety
+of gels in all the kingdom!”{END}
+
+<Cless>
+ Hello!!
+ Is anyone home!?
+<pause>
+<Cless>
+ Guess not...{END}
+
+<Cless>
+ Nobody's home, huh...?
+<pause>
+<Cless>
+ I wonder where they went...{END}
+
+<unk1>King Euclid
+ And you are?
+<pause>
+<Klarth>
+ We're the ones journeying to
+ annihilate Dhaos.
+<pause>
+<Klarth>
+ I believe this is the first we've
+ met.
+<pause>
+King Euclid
+ Ah, yes...
+ The great heroes of whom
+ King Alvanista told me.
+<pause>
+<Arche>
+ Uh, the “great” heroes?
+ Yup, that's TOTALLY us.
+<pause>
+<Klarth>
+ <Arche>, please!
+ Behave yourself before
+ His Majesty.
+<pause>
+King Euclid
+ I take no offense.
+<pause>
+King Euclid
+ We do not have much, but it would
+ be our pleasure to provide you
+ with some traveling funds.
+<pause>
+<Klarth>
+ Your Majesty!
+ Surely this is too generous...
+<pause>
+King Euclid
+ Euclid has no military.
+<pause>
+King Euclid
+ We depend upon young warriors
+ such as yourselves.
+<pause>
+King Euclid
+ We wish to offer you our full
+ support.<wait>{END}
+
+<color_0002>Accept the money?<color_0000>{END}
+
+<Mint>
+ Thank you very much for your kind
+ generosity, Your Majesty, but
+ please do not concern yourself.
+ We can manage fine without it.
+<pause>
+King Euclid
+ I see...
+<pause>
+King Euclid
+ Your honesty is greatly
+ appreciated.
+<pause>
+King Euclid
+ May you be victorious.{END}
+
+<color_0002>Obtained 80000 gald.<color_0000>
+<pause>
+<Klarth>
+ Thank you, Your Majesty.
+ We'll put it to good use.
+<pause>
+King Euclid
+ Yes.
+ May you be victorious.{END}
+
+Vroom Vroom Shop Owner
+ Yo, we got the good stuff.{END}
+
+Zoom Zoom Shop Owner.
+ Welcome to Zoom Zoom.{END}
+
+Shop Owner
+ Thanks.{END}
+
+<unk1>Boy
+ Bro, are you
+ <a/an><0Dvar0080100101008E800CC000C0>?{END}
+
+Boy
+ I haven't seen you before, bro.
+<pause>
+Boy
+ Where'd you come from?{END}
+
+Boy
+ Are you a hillbilly?{END}
+
+Boy
+ COOL!
+<pause>
+Boy
+ Is he a circus person?{END}
+
+Boy
+ I just wanna go knock out some
+ monsters on the northern cliff of
+ the mountain pass.
+<pause>
+Boy
+ But Mom won't let me...{END}
+
+Boy
+ Sooo...
+ What game are we
+ gonna play today?{END}
+
+Girl
+ Hmm...
+ I'm kinda bored now...
+<pause>
+Girl
+ Let's go play somewhere else.{END}
+
+Girl
+ Bahahahahaha!!
+<pause>
+Girl
+ He's sooo funny!!{END}
+
+Girl
+ Hey, mister, play with me.{END}
+
+Girl
+ Ohhh, there's nothing to do...{END}
+
+Citizen
+ It seems that someone attacked
+ the village of Totus.
+<pause>
+Citizen
+ Are we safe here?{END}
+
+Citizen
+ Long periods of peace make you
+ wish something would happen once
+ in a while, don't they?
+<pause>
+Citizen
+ Tell me, do you know of anything
+ going on soon?{END}
+
+Citizen
+ Man, it's so peaceful!
+<pause>
+Citizen
+ Lots of things are great, but if you
+ ask me, peace is totally number
+ one!{END}
+
+Woman
+ Wow!
+ This guy is awesome!
+<pause>
+Woman
+ Where'd he learn his tricks?{END}
+
+Woman
+ I wonder what kind of tricks the
+ performer has up his sleeve...{END}
+
+Woman
+ So, a performer is on his way to
+ entertain this city...
+<pause>
+Woman
+ I hope he's good!
+ For all the peace we have here,
+ there sure isn't much to do.{END}
+
+Old Man
+ Hoh hoh hoh!
+ I love me some jubblies!
+<pause>
+<Cless>
+ (I hope he means jugglers...)<wait>{END}
+
+Old Man
+ Nice weather today.<wait>{END}
+
+Old Man
+ Oh, that's right.
+ I saw something interesting a few
+ days ago: a knight kept going in
+ and out of the Olsons' place.
+<pause>
+Old Man
+ I wonder what that was all about.{END}
+
+<Cless>
+ Um, excuse me.
+ Do you know where the people
+ who live in this house went?
+<pause>
+Old Man
+ Oh, you mean the Olson couple?
+<pause>
+Old Man
+ They just suddenly disappeared.
+ Vanished out of thin air.
+ No one's heard a peep of
+ their whereabouts.{END}
+
+Old Man
+ This big house belongs to the
+ Olsons.{END}
+
+Old Man
+ There sure are a lot of gloomy
+ clouds to the south.
+<pause>
+Old Man
+ Must be pouring...{END}
+
+Boyfriend
+ Ahh, I wish this time would last
+ forever...{END}
+
+Boyfriend
+ Oh, when I'm alone with you like
+ this...
+<pause>
+Boyfriend
+ I feel like I could just float away
+ without a care in the world...{END}
+
+Girlfriend
+ BOOOOR-ING...
+<pause>
+Girlfriend
+ This guy never takes me anywhere
+ fun.{END}
+
+Girlfriend
+ ......{END}
+
+<var_8201>
+ Hey, uh, 'scuse me.
+<pause>
+<var_8201>
+ Can you tell me how to get to
+ Totus?
+<pause>
+<var_8201>
+ I want to meet Sir Miguel.{END}
+
+<var_8201>
+ I heard Sir Miguel used to be the
+ head of Euclid's knights.
+<pause>
+<var_8201>
+ His valor is renowned throughout
+ the whole Euclid continent.
+<pause>
+<var_8201>
+ I'd like to have a bout with him
+ once.{END}
+
+Juggler
+ I'm the best juggler in the world!
+ Twelve beanbags are nothing!{END}
+
+Juggler
+ Yessss!
+ Welcome, welcome!
+ Watch and be amazed!
+<pause>
+Juggler
+ There's no reason not to!
+ What else are you gonna
+ do in a place like this?{END}
+
+Juggler
+ And 'round and 'round they go...{END}
+
+Child
+ Where'd he learn how to do that?{END}
+
+Child
+ I wanna try too!{END}
+
+Child
+ YAAAY!! YAAAY!!{END}
+
+Child
+ The juggler is so cool!{END}
+
+Man
+ I'm sorry!
+ I won't do it again!{END}
+
+Man
+ I'm hiding from my shrew of a
+ wife.
+<pause>
+Man
+ Man, she never stops her yapping...{END}
+
+Wife
+ YOU!!
+<pause>
+Wife
+ What the hell are you doing out
+ here!!? Do you think I have eyes in
+ the back of my head and three
+ arms!!?
+<pause>
+Wife
+ I can't cook and watch the kids at
+ the same time, you know!! Get your
+ ass back in the house, NOW!!{END}
+
+Assistant
+ Welcome to Flavor King.
+ Feel free to look around.
+<pause>
+Assistant
+ The checkout counter is inside.{END}
+
+Boy
+ M-move it!!
+<pause>
+Boy
+ My sister's gonna catch me!!{END}
+
+Girl
+ Ugh!!
+ My stupid brother doesn't help
+ around the store at all!!{END}
+
+Citizen
+ That huge building in the northwest
+ part of town is the federal
+ research center.
+<pause>
+Citizen
+ Sounds great, huh?
+<pause>
+Citizen
+ Too bad only authorized personnel
+ are allowed in the lab.{END}
+
+Woman
+ Huh!?
+<pause>
+Woman
+ You have a vehicle that
+ flies in the sky?
+<pause>
+Woman
+ Can I get one too?
+<pause>
+Woman
+ On second thought, it would
+ probably be too expensive...{END}
+
+Woman
+ Seems they're studying human
+ flight at this city's research center.
+<pause>
+Woman
+ But is that even possible?
+ And more importantly, can it be
+ applied to pigs?{END}
+
+Woman
+ Wow, so many cool people here!
+<pause>
+Woman
+ Not just the buff dudes...
+<pause>
+Woman
+ There are even some tough-
+ as-nails swordswomen!{END}
+
+Soldier
+ The coliseum's audience seating is
+ this way.{END}
+
+Soldier
+ People come through here in
+ droves to watch every single day.
+<pause>
+Soldier
+ After a while, you really start to
+ wonder where they all hail from.{END}
+
+Guard
+ This is the throne room.{END}
+
+Guard
+ We request that you show His
+ Majesty all due courtesy.{END}
+
+Soldier
+ I'll explain the “combat
+ tournament” being held in the
+ coliseum, if you like.
+<pause>
+<color_0002>Hear the explanation?<color_0000>{END}
+
+Soldier
+ First, allow me to explain the
+ purpose and basics of this combat
+ tournament.
+<pause>
+Soldier
+ The main intention is to find the
+ most formidable warriors and band
+ them together to eradicate Dhaos.
+<pause>
+Soldier
+ It is a single-elimination
+ competition against the various
+ monsters we dispatch.
+<pause>
+Soldier
+ In order to win, the competitor
+ must be the victor of eight
+ consecutive battles.
+<pause>
+Soldier
+ Should he or she win, the entrant
+ will have the opportunity to join
+ the Dhaos Attack Force.
+<pause>
+Soldier
+ The winner is under no obligation
+ to do that, however, and will be
+ awarded prizes regardless of his
+ or her decision.
+<pause>
+Soldier
+ Now, for the rules of the actual
+ combat...
+<pause>
+Soldier
+ Only one person may participate.
+ No groups allowed!
+<pause>
+Soldier
+ This is a test of physical
+ strength and endurance.
+ Magic is expressly forbidden!
+<pause>
+Soldier
+ In addition, competitors may only
+ use the recovery items that have
+ been prepared by tournament
+ staff.
+<pause>
+Soldier
+ After winning all eight battles, the
+ competitor may choose to fight a
+ battle against an even stronger
+ monster.
+<pause>
+Soldier
+ If he or she manages to defeat it,
+ something interesting may happen...
+<pause>
+Soldier
+ If you're interested in participating,
+ just go through the door on the
+ left and speak with the soldier at
+ the reception to sign up.{END}
+
+<var_8201>
+ Fighting monsters, huh...
+<pause>
+<var_8201>
+ I'm not too keen on that.{END}
+
+<var_8201>
+ I'm goin' to go out there and give
+ it my best shot!!{END}
+
+Citizen
+ This guy's been standing here and
+ saying the same thing for hours.
+ Is he gonna put his money where
+ his mouth is or what?{END}
+
+Citizen
+ Owwww!
+ My side! My side!{END}
+
+Citizen
+ I heard there's an item that puts
+ all base and arcane artes at your
+ fingertips...{END}
+
+Citizen
+ This guy got a stomach ache right
+ before the fight started.
+<pause>
+Citizen
+ What a loser...{END}
+
+Citizen
+ Some collectors out there are
+ pretty stingy when it comes to
+ trading.
+<pause>
+Citizen
+ Those guys'll want more than one
+ thing in return.
+<pause>
+Citizen
+ It's a really intense decision if
+ they've got something you're dying
+ for.
+<pause>
+Citizen
+ Collecting: serious business!{END}
+
+Swordswoman
+ Eight consecutive battles...
+<pause>
+Swordswoman
+ Harsh!{END}
+
+<var_A301>
+ Tsk! Magic is forbidden?
+ Straight-up idiotic nonsense!{END}
+
+Woman
+ Oh my, a visitor.
+<pause>
+Woman
+ Would you like some tea?{END}
+
+Maid
+ Have you heard?
+ Venezia's port was attacked
+ a few months ago.
+<pause>
+Maid
+ I think it was an act of Dhaos, but
+ he hasn't attacked here yet...{END}
+
+Maid
+ A maid's work is harder than it
+ looks!{END}
+
+Maid
+ Clean, clean, clean!
+ La la la<heart>{END}
+
+Guard
+ This is His Majesty's room!{END}
+
+Guard
+ Our king believes in mingling with
+ the populace, so he leaves the
+ castle fully open to the general
+ public.
+<pause>
+Guard
+ That includes his own room.
+<pause>
+Guard
+ But don't you even dream of any
+ roguish plots if you go in there!{END}
+
+Maid
+ I can't stand that minister!
+<pause>
+Maid
+ He never knows when to shut his
+ mouth!{END}
+
+Minister
+ This is His Majesty's room.
+<pause>
+Minister
+ Do not befoul it with your
+ commoner grime, peasants.{END}
+
+Child
+ Whoooa, we're up so high!{END}
+
+Child
+ High, hiiigh!{END}
+
+Child
+ Ooh...
+ I-I'm gonna pee my pants...{END}
+
+Child
+ Hahah.
+ He's afraid of heights.{END}
+
+Girl
+ Um...
+<pause>
+Girl
+ I'm a card collector.
+<pause>
+Girl
+ I was thinking about trying to find
+ a <item_8901>...<wait>{END}
+
+Girl
+ Huh!?
+ You have one!?
+<pause>
+Girl
+ Please tell me you'll trade me for
+ my <item_8801>!{END}
+
+Girl
+ Yaaay<heart><wait>{END}
+
+<color_0002>Acquired a <item_8801>.<color_0000>{END}
+
+Girl
+ Oh, you don't need one?
+<pause>
+Girl
+ Aww, that's too bad.
+<pause>
+Girl
+ See ya later then<heart>{END}
+
+Girl
+ That's so boo...{END}
+
+Girl
+ Oooh, <item_8901>...{END}
+
+Child
+ I can see the beach from here!{END}
+
+Teacher
+ I'm this group's teacher.
+<pause>
+Teacher
+ We're out on a field trip to the
+ castle today.{END}
+
+Man
+ Whoa, everyone below looks like
+ ants from up here!{END}
+
+Woman
+ Most of this floor is used as a
+ parlor.
+<pause>
+Woman
+ You'll also find the library here.{END}
+
+Soldier
+ The king's book collection is stored
+ here.
+<pause>
+Soldier
+ You may look at it freely.{END}
+
+Soldier
+ You stand before His Majesty.
+<pause>
+Soldier
+ Be on your best behavior!{END}
+
+Soldier
+ Sleepy...{END}
+
+Soldier
+ Dhaos' army hasn't made any
+ advances on our country, but still,
+ we must be prepared.{END}
+
+Soldier
+ Welcome to Euclid castle.{END}
+
+Soldier
+ I wanna watch the tournament too!{END}
+
+Knight
+ Are you familiar with the Ishtar
+ Legend?
+<pause>
+Knight
+ The legend says that, to protect
+ the goddess Ishtar from the demon
+ Druaga...
+<pause>
+Knight
+ ...the hero <var_8F01> and the shrine
+ maiden Ki set out and defeated the
+ demon.
+<pause>
+Knight
+ But is it really just a legend?
+ I have my doubts...
+<pause>
+Knight
+ Would you like to hear more?{END}
+
+Knight
+ Right, so...
+ Interestingly, nine items from the
+ legend actually exist in this world.
+<pause>
+Knight
+ A sword, a helmet, a suit of armor,
+ a pair of gauntlets, a pair of boots,
+ a staff, and two shields.
+<pause>
+Knight
+ Wait, that's only eight...
+<pause>
+Knight
+ Oh, right, now I remember the last
+ one.
+<pause>
+Knight
+ It “lights the darkness,” or
+ something...<wait>{END}
+
+<color_0002>Specifically, these items are:
+1. <item_BA00>
+2. <item_0701>
+3. <item_2401>
+4. <item_3801>
+<pause>
+5. <item_4C01>
+6. <item_E300>
+7. <item_1A01>
+8. <item_1C01>
+9. <item_9A00><color_0000>{END}
+
+Knight
+ With all those out there just
+ waiting to be discovered, is it really
+ just a legend?{END}
+
+Knight
+ Hmm...
+ I see.{END}
+
+Soldier
+ You've been watching your
+ surroundings during battle,
+ haven't you?{END}
+
+Soldier
+ Good, that's the first step.
+ However, if you're watching only
+ your immediate surroundings,
+ victory is uncertain.<wait>{END}
+
+<color_0002>It is possible to <color_0003>zoom out<color_0002> during
+battle to obtain a greater view of
+the battlefield.
+<pause>
+Press the <color_0003>START button<color_0002> or <var_0402> during
+battle to pause. Then <color_0003>hold <var_0002>
+downward<color_0002> while holding <var_0302> to zoom
+out.<wait><color_0000>{END}
+
+Soldier
+ It's very important to know what
+ you're up against at all times.{END}
+
+Soldier
+ You must be pretty confident in
+ yourself.{END}
+
+Queen
+ Allow us to honor your courage by
+ calling you heroes.
+<pause>
+Queen
+ Heroes, we beseech you; please
+ save this world.{END}
+
+Soldier
+ Are you entering the tournament
+ too?{END}
+
+Reception Soldier
+ Would you like to challenge the
+ tournament?{END}
+
+Soldier
+ I await your challenge.{END}
+
+<color_0002>Are you sure?<color_0000>{END}
+
+Soldier
+ I await your challenge.{END}
+
+Soldier
+ Then we'll hold onto your recovery
+ items until it's over.
+<pause>
+Soldier
+ To level the playing field, we have
+ prepared a set of items for you to
+ use.
+<pause>
+Soldier
+ May fortune smile upon you.{END}
+
+<Chester>
+ Show 'em the meaning of pain,
+ dude!
+<pause>
+<Mint>
+ Please don't get hurt.
+<pause>
+<Klarth>
+ This is a good opportunity to test
+ your limits.
+<pause>
+<Arche>
+ Kick their butts!<heart>
+<pause>
+<Cless>
+ Just watch!<wait>{END}
+
+Soldier
+ The meeting hall is through these
+ doors.{END}
+
+Soldier
+ Give your opponents no quarter!{END}
+
+Knight
+ The monster extermination
+ expedition is almost underway.{END}
+
+Knight
+ We're members of Euclid's
+ Obsidian Knights.{END}
+
+Knight
+ We have the most difficult
+ enrollment test of the world's
+ knights.
+<pause>
+Knight
+ We are the elite of the elite.{END}
+
+Knight
+ No man in the country is worthy
+ enough to become our captain.
+<pause>
+Knight
+ In the past, we had fierce
+ swordsmen like Sir Mars and Sir
+ Miguel at the helm, but...
+<pause>
+Knight
+ I guess they don't make them like
+ they used to...{END}
+
+Chef
+ Have you made Steak?{END}
+
+Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Steak.<color_0000>{END}
+
+Chef
+ What!?
+ How can you reject this taste!?{END}
+
+King
+ Stay as long as you like to collect
+ yourselves.{END}
+
+Harrison
+ Follow me...{END}
+
+Harrison
+ This is the Euclidean Federal
+ Academy of Science.{END}
+
+<unk1><Mint>
+ <Cless>?
+ Have you awoken?
+<pause>
+{END}
+
+<Cless>
+ Where am I...?
+<pause>
+<Klarth>
+ Euclid castle's infirmary.
+<pause>
+<Klarth>
+ You got pounded out there.
+ Too bad.
+<pause>
+<Chester>
+ Well, there's always next time.
+<pause>
+<Arche>
+ Yeah.
+ You can do it as much as you want,
+ so just do better next time<heart>
+<pause>
+<Mint>
+ Can you stand?
+<pause>
+<Cless>
+ Yeah.
+ My legs seem to be fine.{END}
+
+King Euclid
+ Your performance in the
+ tournament was absolutely
+ splendid.
+<pause>
+<Cless>
+ Thank you.<wait>{END}
+
+King Euclid
+ But that's to be expected.
+<pause>
+King Euclid
+ If heroes like yourselves wish to
+ enlist in our country's Dhaos Attack
+ Force...
+<pause>
+<Cless>
+ I'm sorry.
+ We really must decline.
+<pause>
+King Euclid
+ Very well.<wait>{END}
+
+King Euclid
+ Now, I would like to make a
+ request.
+<pause>
+King Euclid
+ The combat tournament is not just
+ to demonstrate one's strength.
+<pause>
+King Euclid
+ Its true purpose is to find warriors
+ worthy enough for our Dhaos
+ Attack Force.
+<pause>
+King Euclid
+ You have demonstrated
+ unprecedented ability.
+ I request that you enlist.
+<pause>
+King Euclid
+ What do you say?
+<pause>
+<Cless>
+ Uh, well, I--
+<pause>
+<Klarth>
+ Your Majesty, we must
+ respectfully decline.
+<pause>
+<Klarth>
+ We're acting on our own against
+ Dhaos.
+<pause>
+<Klarth>
+ We...oh, how should I put it?
+ It feels like our fate with
+ Dhaos transcends time.
+<pause>
+King Euclid
+ ......
+<pause>
+King Euclid
+ Hmm...
+ Very well.
+<pause>
+King Euclid
+ The decision is yours.<wait>{END}
+
+King Euclid
+ Well, now for your reward.
+<pause>
+King Euclid
+ Take this.{END}
+
+Queen
+ May it help you on your future
+ travels.
+<pause>
+<Cless>
+ Thank you very much.<wait>{END}
+
+<Cless>
+ Oh!
+ It's an arcane arte book!<wait>{END}
+
+<color_0002><Cless> learned
+<var_9800>.<color_0000>{END}
+
+<color_0002>Acquired a set of specialty goods.<color_0000>{END}
+
+<color_0002>Acquired a set of charms.<color_0000>{END}
+
+<color_0002>Acquired a set of meats.<color_0000>{END}
+
+<color_0002>Acquired a set of herbs.<color_0000>{END}
+
+<color_0002>Acquired a set of potions.<color_0000>{END}
+
+<color_0002>Acquired a set of magical items.<color_0000>{END}
+
+<color_0002>Acquired a set of Star equipment
+for mage use.<color_0000>{END}
+
+<color_0002>Acquired a set of Star equipment
+for fighter use.<color_0000>{END}
+
+<color_0002>Acquired a set of gels.<color_0000>{END}
+
+<color_0002>Obtained 30000 gald.<color_0000>{END}
+
+King Euclid
+ I pray for your safety on your
+ journey to defeat Dhaos.{END}
+
+<Cless>
+ Come on!
+ Get out of here already!<wait>{END}
+
+<Cless>
+ Ugh...
+ This is mean.{END}
+
+Clerk
+ Thank you so much.
+<pause>
+<Cless>
+ But I didn't really do anything.
+<pause>
+Clerk
+ Now, now, here is an expression of
+ my gratitude.<wait>{END}
+
+<color_0002>Acquired <a/an><num3_0000610C>.
+<pause>
+<color_0000><Cless>
+ Oh...
+ Thanks...{END}
+

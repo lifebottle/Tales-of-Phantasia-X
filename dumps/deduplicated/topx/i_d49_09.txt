@@ -1,0 +1,351 @@
+１２星座の塔　<num5_C00040A0>階{END}
+
+『人にあらざる者が歌う、
+　　　　　　　　　暗き歌を望む』{END}
+
+『人にあらざる者が歌う、
+　　　　　　　楽しげな歌を望む』{END}
+
+『人にあらざる者が歌う、
+　　　　　　　　静かな歌を望む』{END}
+
+『人にあらざる者が歌う、
+　　　　　　　勇ましい歌を望む』{END}
+
+<Arche>
+「この扉のレリーフって、星座に
+　なってるみたいね」<wait>{END}
+
+<Arche>
+「エルフ語で『月の欠片を持たざ
+　る者、入ることあたわず』って
+　書いてあるよ」<wait>{END}
+
+<Cless>
+「月のかけら？」
+<pause>
+<Cless>
+「月のかけらってなんだよ？」<wait>{END}
+
+<Arche>
+「・・・・・・」<wait>{END}
+
+<Arche>
+「まぁ、要するに今は入れないっ
+　てことじゃん」<wait>{END}
+
+<Cless>
+「はぁ・・・」{END}
+
+<Cless>
+「何かの力で封印されているみた
+　いだ」{END}
+
+<color_0002>スイッチがあります。
+押しますか？<color_0000>{END}
+
+<Cless>
+「何も起きないみたいだ」{END}
+
+<audio_0D5C><Cless>
+「あれは・・・」
+<pause>
+<audio_0D5D><Cless>
+「もしかして、精霊なのか？」<wait>{END}
+
+<audio_1B32>？？？
+「私は、月の精霊の<var_D400>です」
+<pause>
+<audio_1B33><var_D400>
+「アルテミスが御迷惑をおかけし
+　たようですね」
+<pause>
+<audio_1B34><Cless>
+「アルヴァニスタ王国のエンブレ
+　ムを返していただけますか？」
+<pause>
+<audio_1B35><var_D400>
+「そうですね」{END}
+
+<color_0002>アルヴァニスタ王国の<item_3900>
+を返してもらいました。<color_0000>{END}
+
+<audio_1B36><Cless>
+「ありがとう」
+<pause>
+<audio_1B37><var_D400>
+「ごめんなさいね、アルテミスの
+　ことは許してあげて下さい」
+<pause>
+<audio_1B38><var_D400>
+「あの子はいたずら好きですが、
+　本当はいい子なんです」
+<pause>
+<audio_1B39><Cless>
+「<item_3900>を返していただけれ
+　ば別に・・・」
+<pause>
+<audio_1B3A><Cless>
+「あの子を責めたりしません」
+<pause>
+<audio_1B3B><var_D400>
+「ありがとうございます」<wait>{END}
+
+<audio_0D5E>？？？
+「私は月の精霊の<var_D400>です」
+<pause>
+<audio_0D5F><var_D400>
+「私に何か御用でしょうか？」<wait>{END}
+
+<audio_0D60><Klarth>
+「ダオスを倒すために、あなたの
+　力が必要なんだ」
+<pause>
+<audio_0D61><Klarth>
+「召喚の契約を結んで欲しい」
+<pause>
+<audio_0D62><var_D400>
+「・・・・・・」
+<pause>
+<audio_0D63><Klarth>
+「力を示せと仰せなら、あなたの
+　望むままに・・・」
+<pause>
+<audio_0D64><var_D400>
+「相手が誰であろうとも、私は戦
+　いを望みません」
+<pause>
+<audio_0D65><var_D400>
+「しかし、この世界を救うために
+　私の力を必要とするということ
+　であれば・・・」
+<pause>
+<audio_0D66><var_D400>
+「あなた方の力となりましょう」
+<pause>
+<audio_0D67><Klarth>
+「本当か！？」
+<pause>
+<audio_0D68><Cless>
+「ありがとう、<var_D400>」
+<pause>
+<audio_0D69><Klarth>
+「では、契約を・・・」
+<pause>
+<audio_0D6A><Klarth>
+「<Cless>達はさがって」
+<pause>
+<audio_0D6B><var_D400>
+「アルテミス、聞いていますね」
+<pause>
+<audio_0D6C><var_D400>
+「私は行かねばなりません」
+<pause>
+<audio_0D6D><var_D400>
+「一人でつらいでしょうが、くじ
+　けてはいけませんよ・・・」
+<pause>
+<audio_0D6E><var_D400>
+「それではムーンストーンの指輪
+　を前に・・・」{END}
+
+<audio_0D6F><Klarth>
+「我、今、月の精に願い奉る」
+<pause>
+<audio_0D70><Klarth>
+「指輪の盟約のもと、我に精霊を
+　従わせたまえ・・・」
+<pause>
+<audio_0D71><Klarth>
+「我が名は<Klarth>・・・」{END}
+
+<color_0002><Klarth>は<var_D400>を召喚できるようになりました。<color_0000>{END}
+
+？？？
+「何だー、おまいらはー！！」<wait>{END}
+
+<audio_0D34>？？？
+「こっから先は<var_D400>お姉ちゃんの
+　部屋なんだぞ！！」
+<pause>
+<audio_0D35>？？？
+「勝手に入るなー！！」{END}
+
+アルテミス
+<audio_1747>「何だ、またおまいらかぁ」<wait>{END}
+
+<audio_1748><Klarth>
+「そこを通してくれないか？」
+<pause>
+<audio_1749><Klarth>
+「私達は、<var_D400>に大事な用がある
+　んだ」<wait>{END}
+
+<audio_153E><Cless>
+「な、何だ？」
+<pause>
+<audio_174A>？？？
+「あっ、おまいらか」
+<pause>
+<audio_174B><Arche>
+「あー、こいつミッドガルズにい
+　た虫だよぉ」
+<pause>
+<audio_174C>？？？
+「虫じゃないもん！！」<wait>{END}
+
+<audio_0D36><Cless>
+「な、何だ？」<wait>{END}
+
+<audio_0D37>？？？
+「僕は<var_D400>お姉ちゃんのおつきの
+　妖精、アルテミスだい！」
+<pause>
+<audio_0D38><Klarth>
+「よ、妖精だって！？」
+<pause>
+<audio_0D39><Mint>
+「あの、伝説に出てくる・・・」
+<pause>
+<audio_0D3A><Klarth>
+「超古代文明末期の戦争で死滅し
+　たと言われてる超生命体の妖精
+　なのか？」
+<pause>
+<audio_0D3B><Klarth>
+「まさか、まだ生き残っていたと
+　は・・・」
+<pause>
+<audio_0D3C>アルテミス
+「へーんだ！」
+<pause>
+<audio_0D3D>アルテミス
+「そんなに簡単には死なないもん
+　ねー！」
+<pause>
+<audio_0D3E>アルテミス
+「とにかく、こっから先は通せん
+　ぼだい」
+<pause>
+<audio_0D3F><Klarth>
+「ど、どうすればそこを通してく
+　れるんだ？」<wait>{END}
+
+<audio_174D>アルテミス
+「僕は元気な女の子がタイプなん
+　だ」
+<pause>
+<audio_174E>アルテミス
+「連れてきたら、通してあげても
+　いいよ」
+<pause>
+<audio_174F>アルテミス
+「それじゃぁね、ばいばい」{END}
+
+<audio_1750><Klarth>
+「な、何だあのガキは！」{END}
+
+<audio_0D72>アルテミス
+「<var_D400>お姉ちゃん・・・」{END}
+
+<audio_0D40>アルテミス
+「そうだなぁ・・・」<wait>{END}
+
+<audio_0D41>アルテミス
+「それじゃあ、そのピンクの髪の
+　女の子が誰かとキスをしたら、
+　通してやるよ」<wait>{END}
+
+<audio_0D42>アルテミス
+「僕でもいいけどね」<wait>{END}
+
+<audio_0D43><Arche>
+「え、あたし？」{END}
+
+<audio_0D44><Cless>
+「<Arche>？」
+<pause>
+<audio_0D45><Cless>
+「ちょ、ちょっと待てよ<panic>」<wait>{END}
+
+<audio_0D46><Arche>
+「<var_D400>に会うためだから、ね<heart>」
+<pause>
+<audio_0D47><Cless>
+「で、でも<panic>」<wait>{END}
+
+<audio_0D48><Arche>
+「そんなに嫌がらなくたっていい
+　じゃない」<wait>{END}
+
+<audio_0D49><Cless>
+「そういう問題じゃ<panic>」<wait>{END}
+
+<audio_0D4A><Arche>
+「さ、いくよ<heart>」{END}
+
+<Mint>
+「だめっ、いけません」<wait>{END}
+
+<audio_0D4C><Arche>
+「なんでさ？」<wait>{END}
+
+<audio_0D4D><Mint>
+「キ、キスなんて・・・」
+<pause>
+<audio_0D4E><Mint>
+「軽々しくするものじゃありませ
+　んっ」<wait>{END}
+
+<audio_0D4F><Arche>
+「じゃあ、<var_D400>に会えないじゃん」<wait>{END}
+
+<audio_0D50><Mint>
+「ど、どんな理由があっても、い
+　けませんっ！」{END}
+
+？？？
+「アルテミス、いたずらはおよし
+　なさい」<wait>{END}
+
+<audio_0D52>アルテミス
+「は、は〜い」
+<pause>
+<audio_0D53><Klarth>
+「だ、誰なんだ？」
+<pause>
+<audio_0D54>？？？
+「アルテミス、あの本をその方々
+　に差し上げなさい」<wait>{END}
+
+<audio_0D55>アルテミス
+「お姉ちゃんって魔術師だよね？」
+<pause>
+<audio_0D56>アルテミス
+「これ、あげるよ」
+<pause>
+<audio_0D57><Arche>
+「これって、呪文書じゃん」<wait>{END}
+
+<color_0002><Arche>は<var_CA00>を覚えました。<color_0000>
+<pause>
+<audio_0D58>アルテミス
+「この上の部屋に、<var_D400>お姉ちゃ
+　んがいるよ」
+<pause>
+<audio_0D59>アルテミス
+「ごめんね、ばいばい」{END}
+
+<audio_0D5A><Arche>
+「あの子、なんだかさみしそうな
+　目をしてたね・・・」
+<pause>
+<audio_0D5B><Klarth>
+「もしかして、あの妖精が最後の
+　生き残りなのか？」{END}
+
+<Cless>
+「この巻物は忍術書だ」<wait>{END}
+
+<color_0002><Suzu>は<var_B400>を覚えました。<color_0000>{END}
+

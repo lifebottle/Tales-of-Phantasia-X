@@ -1,0 +1,2903 @@
+[
+  {
+    "type": "spacing",
+    "size": 96
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tales of Phantasia Staff"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "VOICE ACTORS"
+  },
+  {
+    "type": "spacing",
+    "size": 36
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Cless Alvein"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Takeshi Kusao"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Mint Adnade"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Junko Iwao"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Klarth F. Lester"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kazuhiko Inoue"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Arche Klaine"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Mika Kanai"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Chester Barklight"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kentaro Ito"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Suzu Fujibayashi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Taeko Kawata"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Edward D. Morrison"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Unshou Ishizuka"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Miguel Alvein"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yasunori Masutani"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Maria Alvein"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kumiko Nishihara"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Meryl Adnade"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kei Hayami"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Ranzo Fujibayashi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Takkou Ishimori"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Tristan"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Ryuji Nakagi"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Ami Barklight"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Michiko Neya"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Mirald Rune"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yuko Sumitomo"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Luche Klaine"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Mami Horikoshi"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "King Alvanista"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yosuke Akimoto"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Lundgrom"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Bin Shimada"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Lenios"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Takashi Taguchi"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Prince Laird"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Motoki Takagi"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Martel the Tree Spirit"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Rie Tanaka"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Brambard Milene"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tetsu Inada"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Origin"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Keiichirou Yamamoto"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Maxwell"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Fumihiko Goto"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Jestona"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hiroki Shimowada"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Flamberge"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Chie Nakamura"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Mars Uldor"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tessyo Genda"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Demeter"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hiro Yuuki"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Jahmir"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Ayumi Sena"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "Dhaos"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Toshiyuki Morikawa"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "Sound Production"
+  },
+  {
+    "type": "spacing",
+    "size": 2
+  },
+  {
+    "type": "image",
+    "image_id": 2,
+    "align": "left"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "Recording Director"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Akira Ohkuma"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "Production Coodinator"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Ai Sasaki"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "Recording Studio"
+  },
+  {
+    "type": "spacing",
+    "size": 2
+  },
+  {
+    "type": "image",
+    "image_id": 4,
+    "align": "left"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "Recording Mixer"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hisanori Ohshiro"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "Assistant Mixer"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shou Ohtani"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "spacing",
+    "size": 100
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "CHARACTER DESIGN"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kosuke Fujishima"
+  },
+  {
+    "type": "spacing",
+    "size": 160
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "NAMCO TALES STUDIO STAFF"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "TOTAL DIRECTION"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kiyoshi Nagai"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Eiji Kikuchi"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "SYSTEM PROGRAM"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Ryuichi Ishizawa"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "SOUND MANAGEMENT"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shuji Ikegami"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "SOUND EFFECTS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Atushi Horiguchi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hiroshi Tamura"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "BATTLE CHARACTER GRAPHICS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Keiichi Gotou"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "BATTLE SYSTEM GRAPHICS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kazushige Tomita"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "MUSIC COMPOSERS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Motoi Sakuraba"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PROCESS MANAGER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Takeshi Yokoyama"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "SPECIAL THANKS TO"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yoshifumi Osaki"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yuri Handa"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Isao Kadowaki"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Chiaki Sasakura"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Keita Matui"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hirokazu Kagawa"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tatsuro Udo"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yasuyuki Sawadaishi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yuri Suzuki"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "MINLIUSOFT STAFF"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "DIRECTOR"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Guo Zan hua"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "MAIN PROGRAMMER "
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kang Tian hao"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PROGRAMMER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Li Jia"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Zhao Kai"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Sun Xiao chen"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "SOUND DESIGNER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Zhang Yi"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "ARTIST DESIGNER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "He Li ping"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "spacing",
+    "size": 2
+  },
+  {
+    "type": "image",
+    "image_id": 5,
+    "align": "left"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "ORIGINAL GAME STAFF"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "SYSTEM PROGRAM"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Ryuichi Ishizawa"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "BATTLE PROGRAM"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shinji Hirachi"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "3D FIELD PROGRAM"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shuhei Rokumoto"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "2D MAP PROGRAM"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tatsuro Udo"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "VOICE DATA MAKING"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Atushi Horiguchi"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "MAP GRAPHICS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yasuyuki Sawadaishi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Takeharu Isogai"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Takeshi Yabe"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Nobuchika Miyazaki"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tomoko Ogawa"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "FIELD CHARACTER GRAPHICS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hiromi Matsueda"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "BATTLE CHARACTER GRAPHICS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Keiichi Gotou"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "MONSTER GRAPHICS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hirofumi Matsuo"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "BACKGROUND GRAPHICS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Nobuo Kanuma"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kouji Okada"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Takeo Kawata"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "BATTLE EFFECT GRAPHICS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Reiji Kashiwagi"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "3D FIELD GRAPHICS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Masaomi Nishidate"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "\"PlayStation\" VERSION"
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "DATA MAKING"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hiroyuki Suzuki"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kazufumi Kurosawa"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kazuya Ishizuka"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Ken-ichi Suzuki"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "MUSIC COMPOSER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Motoi Sakuraba"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shinji Tamura"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "GAME PART DIRECTOR"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Eiji Kikuchi"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "ANIMATION PART STAFF"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "ANIMATION PRODUCER"
+  },
+  {
+    "type": "spacing",
+    "size": 2
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hidekazu Terakawa"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "TOTAL ANIMATION DIRECTOR"
+  },
+  {
+    "type": "spacing",
+    "size": 2
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tensai Okamura"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "EVENT MOVIE DIRECTOR"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kou Yoshinari"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "\"ANIMATION CHARACTER DESIGNER"
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "OPENING & ENDING MOVIE:"
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "KEY ANIMATION SUPERVISOR\""
+  },
+  {
+    "type": "spacing",
+    "size": 2
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tokuyuki Matsutake"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "\"EVENT MOVIES:"
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "KEY ANIMATION SUPERVISOR\""
+  },
+  {
+    "type": "spacing",
+    "size": 2
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "You Yoshinari"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kou Yoshinari"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "ART DESIGN"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tomonori Kato"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hiroshi Kato"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "COLOR SETTING"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Nobuko Mizuta"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "KEY ANIMATION"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Takuya Saito"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yoshihito Hishinuma"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hirofumi Suzuki"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tensai Okamura"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yasunori Miyazawa"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hiroshi Okubo"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Masahiro Koyama"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Toshihiro Kikuchi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kazuchika Kise"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Takashi Shikishima"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hiroya Takeda"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "You Yoshinari"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kanta Kamei"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "ANIMATION CHECKING"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Chieko Ichimanda"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "INBETWEENS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Mika Fujita"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tohru Okubo"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yasutaka Kubota"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yuki Nakajima"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tomomi Ishikawa"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Takashi Sato"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Ryouichi Murata"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Reiko Sakai"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kazuhiro Ota"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Daizen Komatsuda"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tomoyuki Shitaya"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Miki Shimada"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Satsuki Wada"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hiroyo Izumi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Mika Nakabayashi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Sanae Hirota"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hiroki Ito"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Chieko Ichimanda"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "IG NIIGATA"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yukiko Mita"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tetsuya Takeuchi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Humi Morita"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Nori Morita"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hirotaka Naito"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Daisuke Nakayama"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Mieko Hayakawa"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "JC STAFF"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Masahiro Fujii"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yuichi Takahashi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Masumi Morisita"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "WOMBAT"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tomohisa Ishiyama"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yoshiaki Iwata"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Mitsunao Onogi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "STUDIO LIVE"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Studio TAKURANKE"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "ST. SHEETA"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "GROUP DONGRI"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "JUNGLEGYM"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "STUDIO JUNIO"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "DAUME"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "A.P.P.P"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "OH! PRODUCTION"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "BACKGROUND DRAWING"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "STUDIO BIHOU"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "DIGITAL SUPERVISOR"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shinji Takagi"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "DIRECTOR OF PHOTOGRAPHY"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Miki Sakuma"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PHOTOGRAPHY"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Makoto Kogawa"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kou Sakakibara"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "TRACE&PAINT"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tamaka Sato"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kouko Ito"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Sayo Motegi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Rie Asano"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Chiyomi Koyama"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hiromi Uchibayashi"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Studio D-VOLT"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Asahi Production Co. D/MaxStudio"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "3D DIRECTOR"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tokumitsu Kifune"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "3D WORKS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "IKIF+"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Akira Inagaki"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kazunori Suga"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Naruhiro Baba"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kouji Sato"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "VISUAL EFFECTS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shigenobu Kaihoko"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kanta Kamei"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "2D WORKS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Makiko Asano"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tsukasa Kakizakai"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "EDITOR"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Makiko Asano"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PRODUCTION SCHEDULING"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tomohiro Amagai"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Wataru Kurosawa"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Tsukasa Kakizakai"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PRODUCTION STUDIO"
+  },
+  {
+    "type": "image",
+    "image_id": 1,
+    "align": "left"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "EVENT MOVIE SOUND EFFECTS"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "DIRECTOR"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Toshiki Kameyama"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "SOUND EFFECTS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Michiro Ito(SOUND RING)"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "MIXER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Toru Kumakura"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "STUDIO"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "OP REQUIEM STUDIO"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "SOUND PRODUCTION"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "OMNIBUS PROMOTION Inc."
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "THEME SONG"
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "\"THE DREAM WILL NEVER DIE\""
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": " -THE SPILLING DROPS OF TIME-"
+  },
+  {
+    "type": "spacing",
+    "size": 3
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "LYRICS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shoko Fujibayashi"
+  },
+  {
+    "type": "spacing",
+    "size": 3
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "COMPOSER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Toshiyuki Sekiguchi"
+  },
+  {
+    "type": "spacing",
+    "size": 3
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "ARRANGER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Masayuki Sakamoto"
+  },
+  {
+    "type": "spacing",
+    "size": 3
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PERFORMER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "YOMI"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "Licensed by"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "image",
+    "image_id": 3,
+    "align": "left"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "NAMCO BANDAI Games Inc."
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PRODUCTION STAFF"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PACKAGE DESIGNER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Katsushi Obi"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "ASSISTANT PROCESS MANAGER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Masaki Morishita"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PROCESS MANAGER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Hideki Hattori"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "SPECIAL THANKS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kai Tanaka"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yuko Sekine"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Ryuta Sano"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yohta Fukuda"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Yuichiro Sadahiro"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Asana Inoki"
+  },
+  {
+    "type": "spacing",
+    "size": 6
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "Co-PRODUCER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shinichiro Okamoto"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PRODUCER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shinji Noguchi"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "EXECUTIVE PRODUCERS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Makoto Yoshidumi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shin Unozawa"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Shukuo Ishikawa"
+  },
+  {
+    "type": "spacing",
+    "size": 42
+  },
+  {
+    "type": "text",
+    "color": "blue",
+    "align": "left",
+    "text": "ENGLISH LOCALIZATION"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Life Bottle Productions"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PROJECT MANAGERS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "mziab"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Pegi"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PROJECT COORDINATOR"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Dragonbleapiece"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "LEAD PROGRAMMER"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "mziab"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PROGRAMMERS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Ethanol"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Julian"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "MAIN TRANSLATOR"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Goodguy3"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "TRANSLATORS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Mine"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "SymphoniaLauren"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Pegi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "mziab"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "LEAD EDITORS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Dragonbleapiece"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "mziab"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "EDITORS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kevan"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "gatordski"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "yoh"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Khayyaam"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "FlamePurge"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "GRAPHIC ARTISTS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Amarant"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "FlamePurge"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "WilliamTBOG"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "PRE-PRODUCTION INFORMATION GATHERING"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kevan"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "LEAD LOCALIZATION QA"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Dragonbleapiece"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "LEAD FUNCTIONAL QA"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "DobleC"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "QA TESTERS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Kevan"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "flynnforthewin"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Nanika"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "getterdrill"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Torasouls"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "FlamePurge"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "dotaxis"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "ryuza"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Trixarian"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Negi"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "bobwhite"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "edgarfigaro"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "gatordski"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Explorer"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "TRANSLATION FEATURE CONSULTATION"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "FlamePurge"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "ORIGINAL PSX SCRIPT AND"
+  },
+  {
+    "type": "text",
+    "color": "green",
+    "align": "left",
+    "text": "TRANSLATED ASSETS"
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Phantasian Productions"
+  },
+  {
+    "type": "spacing",
+    "size": 115
+  },
+  {
+    "type": "text",
+    "color": "white",
+    "align": "left",
+    "text": "Produced By"
+  },
+  {
+    "type": "image",
+    "image_id": 0,
+    "align": "left"
+  },
+  {
+    "type": "spacing",
+    "size": 12
+  },
+  {
+    "type": "end"
+  }
+]

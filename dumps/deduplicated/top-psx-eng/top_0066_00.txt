@@ -1,0 +1,411 @@
+<speed_0004>Maria
+ They came for...for your pendant...{END}
+
+<Cless>
+ (All this over the pendant Dad gave
+ me...)
+<pause>
+<Cless>
+ ......{END}
+
+<Cless>
+ (I've got to get out of here, fast!)
+<pause>
+{END}
+
+<unk1><Cless>
+ (That way, they should leave
+ <Chester> alone<speed_0010>...){END}
+
+<Cless>
+ (I have to get home fast, too...)
+<pause>
+<Cless>
+ (I'm really worried about Mom and
+ Dad.){END}
+
+<Cless>
+ D-Dad...
+<pause>
+Miguel
+ <Cless>...
+<pause>
+Miguel
+ Is your mother<speed_0010>...<speed_FFFF>safe...?
+<pause>
+<Cless>
+ Dad, what happened!?
+<pause>
+Miguel
+ ...Ugh!<wait>{END}
+
+<Cless>
+ DAD!!{END}
+
+<Cless>
+ MOM!!{END}
+
+<Cless>
+ Mom, hang on!
+<pause>
+Maria
+ You must...run away...
+<pause>
+Maria
+ Go see your uncle in...in Euclid...to
+ the north...
+<pause>
+Maria
+ They came for...for your pendant...
+<pause>
+<Cless>
+ Who did!?
+<pause>
+<Cless>
+ Who the hell...
+<pause>
+<Cless>
+ ...could do this...?
+<pause>
+Maria
+ If they hadn't<speed_0010>...<speed_FFFF>taken me<speed_0010>...<speed_FFFF>hostage,
+ your f<speed_0010>...<speed_FFFF>father<speed_0010>...<speed_FFFF>
+<pause>
+Maria
+ ...wou--agh...{END}
+
+<Cless>
+ Mom, Mom!
+<pause>
+Maria
+ ......
+<pause>
+<Cless>
+ Open your eyes...!<wait>{END}
+
+<Cless>
+ MOM!!{END}
+
+<Cless>
+ WAHHHHH!!!{END}
+
+Not breathing...{END}
+
+<unk1><Chester>
+ Don't worry.
+ I'll follow you soon, <Cless>...<wait>{END}
+
+<Cless>
+ I'm counting on you.
+<pause>
+<Cless>
+ I'll be waiting up north, in Euclid!{END}
+
+<Cless>
+ Poor little Ami...{END}
+
+Not breathing...{END}
+
+<Cless>
+ You were like a big sister to me...
+<pause>
+<Cless>
+ Please find peace in Heaven...{END}
+
+<Cless>
+ And they were going to get
+ married next month...
+<pause>
+<Cless>
+ How could this happen...?{END}
+
+<Cless>
+ I'm so sorry I didn't teach you
+ about swordplay...{END}
+
+<Cless>
+ Even a defenseless little girl...
+<pause>
+<Cless>
+ What kind of monster would...{END}
+
+<Cless>
+ A sword...
+<pause>
+<Cless>
+ It doesn't belong to me or Dad...
+<pause>
+<Cless>
+ Did the attackers leave it behind!?<wait>{END}
+
+<color_0002>Acquired a <item_A400>.<color_0000>{END}
+
+<Cless>
+ Dad...{END}
+
+<Cless>
+ Mom...{END}
+
+“Here rests Miguel Alvein.”
+<pause>
+<Cless>
+ Dad...{END}
+
+“Here rests Maria Alvein.”
+<pause>
+<Cless>
+ Mom...
+<pause>
+<Cless>
+ If only I were stronger...{END}
+
+“Here rests Ami Barklight.”
+<pause>
+<Cless>
+ <Chester>...{END}
+
+<Cless>
+ Please rest in peace...{END}
+
+The door is damaged and won't
+open.{END}
+
+The bell has been destroyed.{END}
+
+<Chester>
+ Ami...{END}
+
+<Chester>
+ ......
+<pause>
+<Chester>
+ Someone's coming!{END}
+
+<Chester>
+ Could it be the attackers?
+<pause>
+<Chester>
+ ......
+<pause>
+<Chester>
+ Ami<speed_0010>...
+<pause>
+<speed_FFFF><Chester>
+ I'm gonna get my revenge for you!{END}
+
+<speed_0004><Cless>
+ I'll leave the Blade of Time with
+ you.<wait>{END}
+
+<speed_0004><Klarth>
+ Right.
+ I'll make it my duty to seal it
+ away.<wait>{END}
+
+<speed_0004><Cless>
+ Well, take care...<wait>{END}
+
+<speed_0004><Arche>
+ Y'know, guys...<wait>{END}
+
+<speed_0004><Arche>
+ I'm not gonna say bye-bye.<wait>{END}
+
+<speed_0004><Arche>
+ 'Cause this ain't really gonna be the
+ last time we meet, right?<wait>{END}
+
+<speed_0004><Arche>
+ But...<wait>{END}
+
+<speed_0004><Arche>
+ Still, I'm gonna have to wait...<wait>{END}
+
+<speed_0004><Arche>
+ ...a lonely hundred years...<wait>{END}
+
+<speed_0004><Cless>
+ <Arche>...<wait>{END}
+
+<speed_0004><Klarth>
+ I...won't be seeing you again...<wait>{END}
+
+<speed_0004><Cless>
+ <Klarth>...<wait>{END}
+
+<speed_0004><Klarth>
+ Hey, don't get down over me.<wait>{END}
+
+<speed_0004><Klarth>
+ As I said before, I'm happy enough
+ just to have been able to meet you
+ guys.<wait>{END}
+
+<unk1><speed_0004><Klarth>
+ Farewell, <Mint> and <Chester>...<wait>{END}
+
+<speed_0004><Klarth>
+ Take care of yourselves.<wait>{END}
+
+<speed_0004><Klarth>
+ Well, time to hit the road,
+ <Arche>.<wait>{END}
+
+<speed_0004><Cless>
+ <Chester>...<wait>{END}
+
+<speed_0004><Cless>
+ Are you gonna be okay?<wait>{END}
+
+<speed_0004><Chester>
+ ......<wait>{END}
+
+<speed_0004><Chester>
+ Yeah...<wait>{END}
+
+<speed_0004><Chester>
+ Oh, come on...
+ Wipe that sad look off your face!<wait>{END}
+
+<speed_0004><Arche>
+ ......<wait>{END}
+
+<speed_0004><Arche>
+ ...'kay.<wait>{END}
+
+<speed_0004><Chester>
+ See ya later...<wait>{END}
+
+<speed_0004><Arche>
+ ......<wait>{END}
+
+<speed_0004><Arche>
+ ...Alligator<heart><wait>{END}
+
+<speed_0004><Klarth>
+ Blade of Time!
+ Take us home!<wait>{END}
+
+<speed_0004><Chester>
+ So, what next?<wait>{END}
+
+<speed_0004><Cless>
+ First, we rebuild our village.<wait>{END}
+
+<speed_0004><Cless>
+ But perhaps when we're finished
+ with that...<wait>{END}
+
+<speed_0004><Chester>
+ Yeah, man?<wait>{END}
+
+<unk1><speed_0004><Cless>
+ Well, I imagine a very lonely
+ <Arche> will be around, dying to
+ see us.<wait>{END}
+
+<speed_0004><Cless>
+ We'll go have a nice reunion with
+ her!<wait>{END}
+
+<speed_0004><Chester>
+ Heck yeah!<wait>{END}
+
+<speed_0004><Mint>
+ May I...accompany you?<wait>{END}
+
+<speed_0004><Cless>
+ Of course!<wait>{END}
+
+<Cless>
+ H-holy...
+<pause>
+<Chester>
+ I...
+<pause>
+<Chester>
+ ...need to get home!<wait>{END}
+
+<Chester>
+ AMI!!
+ Hang on!{END}
+
+<Cless>
+ ......
+<pause>
+<Cless>
+ <Chester><speed_0010>...{END}
+
+<Cless>
+ <Chester>, it isn't safe here.
+ We've got to run away!
+<pause>
+<Cless>
+ My uncle in Euclid can help us...
+<pause>
+<Chester>
+ <speed_0010>......<speed_FFFF>
+<pause>
+<Chester>
+ You're saying we should just leave
+ Ami and the others to rot like this?<wait>{END}
+
+<Chester>
+ To hell with that!
+<pause>
+<Chester>
+ Go by yourself if you're that
+ heartless!
+<pause>
+<Chester>
+ <speed_0010>......<speed_FFFF>
+<pause>
+<Chester>
+ Every single person here deserves
+ a proper burial...
+<pause>
+<Chester>
+ I'm more than willing to do it alone
+ if I have to...
+<pause>
+<Cless>
+ But if the guys who attacked come
+ back, you could be killed!
+<pause>
+<Chester>
+ ......{END}
+
+<Chester>
+ Sorry, <Cless>...
+<pause>
+<Chester>
+ I just...
+<pause>
+<Cless>
+ <Chester>...
+<pause>
+<Chester>
+ Don't worry about me, man.
+ Go on ahead...
+<pause>
+<Chester>
+ It's too risky for both of us to
+ stick around here, anyway.
+<pause>
+<Chester>
+ I'll follow you soon.
+ Count on it.
+<pause>
+<Cless>
+ That's a promise...<wait>{END}
+
+<Chester>
+ Yeah, a promise...
+<pause>
+<Chester>
+ A promise to get the bastards who
+ did this!
+<pause>
+<Cless>
+ Yeah!!{END}
+

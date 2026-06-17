@@ -1,0 +1,1414 @@
+<Cless>:<nl>
+Excuse us.
+<pause>
+<Cless>:<nl>
+Hello~? Is anyone home?{END}
+
+<Mint>:<nl>
+I guess<speed_0010>...<speed_00FF>there isn't.{END}
+
+???:<nl>
+Yes?{END}
+
+<Cless>:<nl>
+Huh?
+<pause>
+<Cless>:<nl>
+Did you just hear a woman's
+voice?{END}
+
+<Cless>:<nl>
+Hello?
+<pause>
+<Cless>:<nl>
+Arsia...are you here?
+<pause>
+???:<nl>
+Yes, hang on and I'll open the
+door.{END}
+
+<Klarth>:<nl>
+Are you Arsia?
+<pause>
+Arsia:<nl>
+Yes, did you need something from
+me?
+<pause>
+<Cless>:<nl>
+Actually...{END}
+
+<Cless>:<nl>
+It's locked.{END}
+
+<Cless>:<nl>
+It's locked.{END}
+
+Arsia:<nl>
+<speed_0010>...<speed_00FF>
+<pause>
+Arsia:<nl>
+I'm sorry<speed_0010>...<speed_00FF> Please<speed_0010>,<speed_00FF>
+leave me alone<speed_0010>...<speed_00FF>{END}
+
+Arsia:<nl>
+Bring him to me...{END}
+
+Arsia:<nl>
+Please let me know if I can do
+anything to help you out.
+<pause>
+Arsia:<nl>
+I wouldn't even be here if it
+wasn't for you.{END}
+
+Brambard:<nl>
+I'll continue living here.
+<pause>
+Brambard:<nl>
+Until the day when the
+wounds in her heart are
+fully healed...{END}
+
+Brambard:<nl>
+I cannot begin to express my gratitude
+for what you've done.
+<pause>
+Brambard:<nl>
+I am going to live here from
+now on.
+<pause>
+Brambard:<nl>
+With her...{END}
+
+<Cless>:<nl>
+What an amazingly detailed
+statue...{END}
+
+<Klarth>:<nl>
+This is the house where
+Arsia the Carver lives.{END}
+
+<Arche>:<nl>
+Hey, <Cless>!
+<pause>
+<Arche>:<nl>
+Look at this!
+<pause>
+<Arche>:<nl>
+This statue looks so real!{END}
+
+<Arche>:<nl>
+It's kinda creepy...{END}
+
+<Cless>:<nl>
+Someone might be here.
+Let's go have a look.{END}
+
+<Arche>:<nl>
+Heyyy, wait up~!{END}
+
+Arsia:<nl>
+Oh, that bow...{END}
+
+Arsia:<nl>
+I see.
+I'll give it a try, if you want.
+<pause>
+<Cless>:<nl>
+Really!?{END}
+
+Arsia:<nl>
+Yes<speed_0010>...<speed_00FF>
+<pause>
+Arsia:<nl>
+However...there's one condition.{END}
+
+<Cless>:<nl>
+Condition?
+<pause>
+Arsia:<nl>
+Yes...
+<pause>
+Arsia:<nl>
+Don't worry,
+it's a simple request.{END}
+
+<Klarth>:<nl>
+Well, let's hear her out, I guess.
+<pause>
+<Klarth>:<nl>
+Depending on what she says,
+we may have to reconsider
+what we do next.{END}
+
+Arsia:<nl>
+<speed_0010>...<speed_00FF>I want you to bring a
+certain person here.
+<pause>
+<Klarth>:<nl>
+You want us to look for
+someone<speed_0010>...<speed_00FF>?{END}
+
+<Arche>:<nl>
+Heh, sounds simple enough. <heart>
+<pause>
+<Arche>:<nl>
+So who do you want us to bring?
+<pause>
+<Arche>:<nl>
+Someone we know?{END}
+
+Arsia:<nl>
+There's an elven man I want you to bring
+back here. His name is Brambard.
+<pause>
+Arsia:<nl>
+You should be able to find him
+deep in Ymir Forest...{END}
+
+<Mint>:<nl>
+Brambard...<nl>
+Do you mean the chief of the elves?
+<pause>
+<Klarth>:<nl>
+<speed_0010>...<speed_00FF>Okay, wasn't expecting that.
+<pause>
+<Cless>:<nl>
+Well, I bet Lord Brambard would be
+willing to help out!
+<pause>
+<Klarth>:<nl>
+Yeah, it's not too big of an ask.{END}
+
+Arsia:<nl>
+Wow, that's a surprise, tee hee.
+<pause>
+Arsia:<nl>
+I can't believe you actually
+know him...
+<pause>
+Arsia:<nl>
+Well...that speeds things up.
+<pause>
+Arsia:<nl>
+Please bring him to me.{END}
+
+<Cless>:<nl>
+...All right!{END}
+
+<Cless>:<nl>
+Let's go pay Lord Brambard
+a visit!{END}
+
+<Mint>:<nl>
+Yes, let's go!{END}
+
+Arsia:<nl>
+Wait, please.{END}
+
+Arsia:<nl>
+I have one more<speed_0010>...<speed_00FF>condition.
+<pause>
+<Klarth>:<nl>
+Yeah?
+<pause>
+Arsia:<nl>
+<speed_0010>...<speed_00FF>One of you must
+remain here.
+<pause>
+Arsia:<nl>
+As collateral...
+<pause>
+Arsia:<nl>
+Just to make SURE you
+bring him to me.
+<pause>
+<Klarth>:<nl>
+You mean<speed_0010>...<speed_00FF>as a
+hostage?{END}
+
+Arsia:<nl>
+That's right...{END}
+
+Arsia:<nl>
+I'm going to turn one of you
+into a statue.{END}
+
+<Cless>:<nl>
+What!?
+<pause>
+{END}
+
+<Klarth>:<nl>
+You're kidding!
+<pause>
+<Klarth>:<nl>
+You want us to let you turn
+one of us into a statue?
+<pause>
+<Klarth>:<nl>
+You've lost your damn mind!
+<pause>
+Arsia:<nl>
+It's all right. I promise you that they
+will not die.
+<pause>
+Arsia:<nl>
+You want me to fix your bow
+regardless of the cost, right?
+<pause>
+Arsia:<nl>
+Well...{END}
+
+Arsia:<nl>
+Bring him back to me...{END}
+
+<Mint>:<nl>
+What should we do?{END}
+
+<Klarth>:<nl>
+Hey, <Cless>.
+<pause>
+<Cless>:<nl>
+Yeah?
+<pause>
+<Klarth>:<nl>
+What do you think?
+<pause>
+<Cless>:<nl>
+Huh?
+<pause>
+<Klarth>:<nl>
+That woman is dangerous.
+<pause>
+<Klarth>:<nl>
+I can't explain it, but
+I've got a bad feeling
+about this...
+<pause>
+<Klarth>:<nl>
+Is the bow really all that important?
+<pause>
+<Klarth>:<nl>
+We don't have much time anyway.
+Let's give up on the bow.{END}
+
+<Cless>:<nl>
+You can't be serious...
+<pause>
+<Mint>:<nl>
+No!
+<pause>
+<Mint>:<nl>
+That bow...
+<pause>
+<Mint>:<nl>
+It belongs to <Chester><speed_0010>...<speed_00FF>
+<pause>
+<Mint>:<nl>
+Please, we just have to fix it...!{END}
+
+Arsia:<nl>
+Who will stay behind?
+<pause>
+Arsia:<nl>
+If you can't decide among
+yourselves, I'll pick someone
+for you.{END}
+
+Arsia:<nl>
+Let's see... maybe you?
+<pause>
+{END}
+
+Arsia:<nl>
+Yes, you will do...{END}
+
+<Mint>:<nl>
+<speed_0010>......<speed_00FF>{END}
+
+<Cless>:<nl>
+Wait!!!
+<pause>
+<Cless>:<nl>
+I'll take her place!{END}
+
+Arsia:<nl>
+No.
+<pause>
+Arsia:<nl>
+I've already made up my mind.
+<pause>
+Arsia:<nl>
+Come hither, into this light...{END}
+
+<Arche>:<nl>
+What do you care who stays!?
+You damn witch!!{END}
+
+<Klarth>:<nl>
+Hey!
+<pause>
+<Mint>:<nl>
+<Arche>!
+<pause>
+<Cless>:<nl>
+<Arche>!!{END}
+
+Arsia:<nl>
+Now bring him to me,
+just as you promised.
+<pause>
+<Klarth>:<nl>
+Grr!
+<pause>
+<Klarth>:<nl>
+We'd better go get Brambard!
+<pause>
+<Klarth>:<nl>
+Let's hurry back to the Elven Settlement!
+<pause>
+<Mint>:<nl>
+<Arche>...{END}
+
+Brambard:<nl>
+...
+<pause>
+Brambard:<nl>
+Hasn't changed a bit...{END}
+
+Brambard:<nl>
+Let us go.{END}
+
+Brambard:<nl>
+Arsia...
+<pause>
+Arsia:<nl>
+<speed_0010>...<speed_00FF>It's cold outside, isn't it?
+<pause>
+Arsia:<nl>
+Why don't you come in?{END}
+
+Brambard:<nl>
+I'd like to speak with her alone.
+<pause>
+Brambard:<nl>
+Can you give us some time?{END}
+
+<Klarth>:<nl>
+Even though we're inside...
+<pause>
+<Klarth>:<nl>
+I can feel the temperature dropping.
+<pause>
+<Cless>:<nl>
+Yeah.
+<pause>
+<Mint>:<nl>
+...{END}
+
+<Mint>:<nl>
+Poor <Arche>, she's so cold...{END}
+
+<Cless>:<nl>
+<Mint>...{END}
+
+<Klarth>:<nl>
+They sure are taking their sweet
+time...
+<pause>
+<Klarth>:<nl>
+I just hope she turns <Arche>
+back to normal<speed_0010>,<speed_00FF> anyway.{END}
+
+<Cless>:<nl>
+I'm sorry, <Klarth>.
+<pause>
+<Cless>:<nl>
+It's my fault for saying I wanted
+to fix that bow...
+<pause>
+<Klarth>:<nl>
+Don't sweat it.
+<pause>
+<Klarth>:<nl>
+That bow is really important to you,
+isn't it?
+<pause>
+<Klarth>:<nl>
+Don't worry, I'm sure she'll
+fix it good as new.{END}
+
+Brambard:<nl>
+You must understand.
+<pause>
+Brambard:<nl>
+I cannot do something so irresponsible.
+I cannot abandon my people.
+<pause>
+Arsia:<nl>
+You're certain of this?
+<pause>
+Arsia:<nl>
+But...
+<pause>
+Arsia:<nl>
+I love you so much<speed_0010>...<speed_00FF>
+<pause>
+Brambard:<nl>
+Arsia...{END}
+
+Arsia:<nl>
+<speed_0010>...<speed_00FF>No.
+<pause>
+Arsia:<nl>
+This can't be happening<speed_0010>...<speed_00FF>
+<pause>
+Arsia:<nl>
+I won't allow it!{END}
+
+Arsia:<nl>
+If you won't stay here with me...
+<pause>
+Arsia:<nl>
+Then I won't return her back to
+normal!{END}
+
+<Cless>:<nl>
+What!?
+<pause>
+<Cless>:<nl>
+But you promised!
+<pause>
+<Mint>:<nl>
+Please, you have to turn her back!{END}
+
+Brambard:<nl>
+I know how you feel...{END}
+
+Brambard:<nl>
+I am the one who drove you
+to this...
+<pause>
+Brambard:<nl>
+And...
+<pause>
+Brambard:<nl>
+I will not allow any more innocent
+lives to be endangered.
+<pause>
+Arsia:<nl>
+<speed_0010>......<speed_00FF>
+<pause>
+Brambard:<nl>
+Turn me into a statue instead.{END}
+
+Brambard:<nl>
+Once I'm a statue, they will not
+force me to go back to the forest.
+<pause>
+Brambard:<nl>
+...You've<speed_0010>...<speed_00FF>changed.
+<pause>
+Brambard:<nl>
+You didn't used to be this way...
+<pause>
+Brambard:<nl>
+The way you are now...<nl>
+You would be satisfied having
+me as a statue, yes?
+<pause>
+Brambard:<nl>
+So...I'm ready! If it's what you desire,
+turn me to stone!!{END}
+
+<Cless>:<nl>
+Lord Brambard!
+<pause>
+<Cless>:<nl>
+There's no reason for you to go
+that far!{END}
+
+Brambard:<nl>
+No...
+<pause>
+Brambard:<nl>
+If I could only live for her sake...
+<pause>
+Brambard:<nl>
+<Cless>...
+<pause>
+Brambard:<nl>
+She is a half-elf...
+<pause>
+Brambard:<nl>
+And the love of my life...
+<pause>
+<Cless>:<nl>
+But why!?{END}
+
+<Klarth>:<nl>
+<Cless>...
+<pause>
+<Klarth>:<nl>
+<speed_0010>...<speed_00FF>half-elves are forbidden
+from entering Ymir Forest...
+<pause>
+<Klarth>:<nl>
+The elves have chosen a path of
+cohesion as a people.{END}
+
+Brambard:<nl>
+As the chief of the elves,
+there is no way I could be
+with her...
+<pause>
+Brambard:<nl>
+I am the one who roped you people
+into this...
+<pause>
+Brambard:<nl>
+And her as well...
+<pause>
+Brambard:<nl>
+It is all my fault!{END}
+
+Arsia:<nl>
+To keep you by my side<speed_0010>...<speed_00FF>
+<pause>
+Arsia:<nl>
+I have no other choice, do I?{END}
+
+<Arche>:<nl>
+H-Huh?
+<pause>
+<Arche>:<nl>
+What happened?{END}
+
+<Mint>:<nl>
+<Arche>!{END}
+
+Arsia:<nl>
+Stay away!{END}
+
+Arsia:<nl>
+<speed_0010>......<speed_00FF>Please, just leave me be.
+<pause>
+<Cless>:<nl>
+<speed_0010>...<speed_00FF>{END}
+
+Arsia:<nl>
+Please<speed_0010>, <speed_00FF>let me be alone<speed_0010>...<speed_00FF>{END}
+
+<Mint>:<nl>
+<Cless>.
+<pause>
+<Mint>:<nl>
+We should return after she
+settles down.{END}
+
+<Klarth>:<nl>
+It's frustrating, but there's
+nothing we can do right now...
+<pause>
+<Klarth>:<nl>
+You'd better have a change
+of heart!{END}
+
+<Klarth>:<nl>
+Let's hurry up and go, people!
+<pause>
+<Klarth>:<nl>
+I can't stand looking at her face
+anymore!{END}
+
+<Mint>:<nl>
+After all that, we ended up
+leaving the bow behind,
+didn't we...?
+<pause>
+<Cless>:<nl>
+Oh well...
+<pause>
+<Cless>:<nl>
+At least <Arche>'s okay!
+<pause>
+<Klarth>:<nl>
+<speed_0010>...<speed_00FF>Let's get outta here.{END}
+
+<Cless>:<nl>
+Hello?{END}
+
+???:<nl>
+Yes?{END}
+
+<Cless>:<nl>
+L-Lord Brambard!
+<pause>
+Brambard:<nl>
+Oh, it's you!
+<pause>
+Brambard:<nl>
+It has been a long time.
+<pause>
+Brambard:<nl>
+How long, I wonder...?
+<pause>
+Brambard:<nl>
+<speed_0010>......?<speed_00FF>
+<pause>
+Brambard:<nl>
+How is it that you still live?{END}
+
+<Klarth>:<nl>
+Still here...
+<pause>
+<Klarth>:<nl>
+Honestly, I didn't want to
+come back here.{END}
+
+<Mint>:<nl>
+I wonder what's become of her since then...?
+<pause>
+<Cless>:<nl>
+...At any rate, there might be
+someone here.
+<pause>
+<Cless>:<nl>
+Let's pay her a visit.{END}
+
+<Chester>:<nl>
+Hey, <Arche>.
+<pause>
+{END}
+
+<Chester>:<nl>
+Everyone looks so gloomy. Did
+something happen in the past?
+<pause>
+<Arche>:<nl>
+Um, well, yeah... <panic>
+<pause>
+<Arche>:<nl>
+But I was a statue at the time,
+so I don't really know
+what happened. <panic>{END}
+
+<Chester>:<nl>
+Huh!?{END}
+
+<Cless>:<nl>
+What do the two of you think
+you're doing?
+<pause>
+<Cless>:<nl>
+I'm going on ahead.{END}
+
+<Arche>:<nl>
+Hey, wait!
+<pause>
+<Arche>:<nl>
+Um, so that's about the size
+of it. <heart>{END}
+
+<Chester>:<nl>
+Hey, wait!{END}
+
+Brambard:<nl>
+I see. So you chased Dhaos
+through space-time, into
+the future...
+<pause>
+Brambard:<nl>
+What a fantastical story.{END}
+
+Brambard:<nl>
+Yet I cannot deny the fact that you
+stand before me right now.
+<pause>
+<Cless>:<nl>
+Yep...
+<pause>
+<Cless>:<nl>
+We're going to finish things
+with Dhaos in this age,
+once and for all!
+<pause>
+Brambard:<nl>
+This must be the workings
+of fate...
+<pause>
+<Klarth>:<nl>
+Without doubt.
+<pause>
+<Klarth>:<nl>
+And...{END}
+
+Brambard:<nl>
+I know what you wish to say.
+<pause>
+Brambard:<nl>
+Do you mind following me upstairs?{END}
+
+<Mint>:<nl>
+Arsia... Is that her?{END}
+
+Brambard:<nl>
+I think this is her final answer.{END}
+
+Brambard:<nl>
+By the time I awoke, this is
+what had become of her.
+<pause>
+Brambard:<nl>
+I believe she became a statue in
+my place...
+<pause>
+<Mint>:<nl>
+How horrible...
+<pause>
+Brambard:<nl>
+When I look at this statue,
+I can almost...
+<pause>
+Brambard:<nl>
+I can almost tell what she
+wanted to say.
+<pause>
+<Klarth>:<nl>
+...{END}
+
+Brambard:<nl>
+Also, I found this bow
+at my feet.{END}
+
+<Cless>:<nl>
+This is...!
+<pause>
+<Mint>:<nl>
+A bow?
+<pause>
+<Mint>:<nl>
+It's <Chester>'s!
+<pause>
+<Klarth>:<nl>
+It is!{END}
+
+<Chester>:<nl>
+Hey, <Cless>!
+<pause>
+<Chester>:<nl>
+What about my bow?{END}
+
+<Chester>:<nl>
+Wow...
+<pause>
+<Chester>:<nl>
+I can't believe it!
+<pause>
+<Chester>:<nl>
+I can feel the power just holding
+it in my hands!
+<pause>
+Brambard:<nl>
+I<speed_0010>...<speed_00FF>
+<pause>
+Brambard:<nl>
+This bow taught me the depth of
+the pain she has been suffering.
+<pause>
+Brambard:<nl>
+Here it is, at long last.
+<pause>
+Brambard:<nl>
+I return the bow to you
+in her place.{END}
+
+<color_0002>Acquired <item_DC00>.<color_0000>{END}
+
+Brambard:<nl>
+I will live here from now on.
+<pause>
+Brambard:<nl>
+Until the day the wounds
+of her heart are healed...
+<pause>
+Brambard:<nl>
+Until the day we can be together
+once again<speed_0010>...<speed_00FF>
+<pause>
+<Klarth>:<nl>
+<speed_0010>...<speed_00FF>{END}
+
+<Cless>:<nl>
+Lord Brambard.
+<pause>
+Brambard:<nl>
+Oh, it's you folks...{END}
+
+<Cless>:<nl>
+Lord Brambard?
+<pause>
+Brambard:<nl>
+I'm sorry...
+<pause>
+Brambard:<nl>
+Please, leave me alone
+for a while...{END}
+
+<Klarth>:<nl>
+What in the hell happened?{END}
+
+Brambard:<nl>
+You are on a crucial mission
+to defeat Dhaos.
+<pause>
+Brambard:<nl>
+I will not entangle you anymore
+in the problems of us elves.
+<pause>
+<Cless>:<nl>
+Lord Brambard...{END}
+
+Brambard:<nl>
+So you've come...{END}
+
+Young Elf:<nl>
+Chief!
+<pause>
+Young Elf:<nl>
+Today we'd like to finally
+hear your answer!{END}
+
+Brambard:<nl>
+I have guests I must attend to.
+<pause>
+Brambard:<nl>
+Can you wait a moment?
+<pause>
+Young Elf:<nl>
+But, sir!
+<pause>
+Brambard:<nl>
+I said wait!{END}
+
+Brambard:<nl>
+My apologies...{END}
+
+Brambard:<nl>
+Everyone...{END}
+
+Brambard:<nl>
+I am sorry you had to see that.
+<pause>
+<Klarth>:<nl>
+What the hell was that about?
+<pause>
+Brambard:<nl>
+<speed_0010>......<speed_00FF>
+<pause>
+<Klarth>:<nl>
+Won't you tell us?{END}
+
+Brambard:<nl>
+Perhaps I should explain myself...
+<pause>
+Brambard:<nl>
+This is the wrong place for that, however.
+Shall we discuss it upstairs?{END}
+
+Brambard:<nl>
+All right... Where to begin?{END}
+
+<Cless>:<nl>
+Um, Lord Brambard!
+<pause>
+Brambard:<nl>
+Forgive me for always
+dragging you into our problems.
+<pause>
+<Klarth>:<nl>
+So tell us already.
+What was that all about?
+<pause>
+Brambard:<nl>
+I shall tell you everything...{END}
+
+Brambard:<nl>
+While you were chasing Dhaos
+through time, all the way to this age...
+<pause>
+Brambard:<nl>
+I've lived here for many
+long years.{END}
+
+Brambard:<nl>
+With her...
+<pause>
+<Klarth>:<nl>
+...{END}
+
+Brambard:<nl>
+I vowed that I would live
+together with her.
+<pause>
+Brambard:<nl>
+I thought of it as my way of
+seeking atonement for my
+many sins.
+<pause>
+<Cless>:<nl>
+Sins?
+<pause>
+Brambard:<nl>
+I do not think this is what
+she would have wanted...
+<pause>
+Brambard:<nl>
+But that's what I believed at the time...
+<pause>
+Brambard:<nl>
+No, that's what I still believe.
+<pause>
+Brambard:<nl>
+When I think of her,
+I feel the weight of my
+responsibility as chief...
+<pause>
+Brambard:<nl>
+An elf and a half-elf...
+<pause>
+Brambard:<nl>
+The idea that our love could
+never be...it filled my heart
+with anguish.{END}
+
+<Klarth>:<nl>
+Who was that just now?
+<pause>
+<Klarth>:<nl>
+They looked like young elves to
+me.
+<pause>
+Brambard:<nl>
+That is correct.
+<pause>
+Brambard:<nl>
+I left my people for
+one hundred and fifty years...
+<pause>
+Brambard:<nl>
+My selfish actions have left my
+people without direction.
+<pause>
+<Klarth>:<nl>
+So they came to bring you back?
+<pause>
+Brambard:<nl>
+Correct.
+<pause>
+Brambard:<nl>
+We elves stand before a major
+crossroads.
+<pause>
+Brambard:<nl>
+Humans are now allowed
+to freely come and go
+into our village.
+<pause>
+Brambard:<nl>
+Our attitudes have changed.
+<pause>
+Brambard:<nl>
+Some humans have even learned
+to speak the elven tongue...
+<pause>
+Brambard:<nl>
+The King of Alvanista being one of them.
+<pause>
+Brambard:<nl>
+The King has been aggressively
+absorbing our culture.
+<pause>
+Brambard:<nl>
+This has significantly improved
+the standing of us elves.
+<pause>
+Brambard:<nl>
+Still...
+<pause>
+<Klarth>:<nl>
+Half-elves still face rejection?
+<pause>
+Brambard:<nl>
+Indeed...
+<pause>
+Brambard:<nl>
+When it comes to half-elves...
+<pause>
+Brambard:<nl>
+Some people are afraid of
+repeating the sins of
+the past.
+<pause>
+<Klarth>:<nl>
+Sins of the past?{END}
+
+Brambard:<nl>
+Half-elves enjoy capabilities
+that we pure-blooded elves lack.
+<pause>
+Brambard:<nl>
+Powerful magic, stronger
+intellects than humans,
+magitech weaponry...
+<pause>
+Brambard:<nl>
+Most of the great scientists
+of Midgard were half-elves.
+<pause>
+<Klarth>:<nl>
+They were!?
+<pause>
+<Klarth>:<nl>
+But Midgard strictly prohibited
+elves from entering the country...
+<pause>
+Brambard:<nl>
+That was nothing more than
+a facade.
+<pause>
+Brambard:<nl>
+Furthermore...
+<pause>
+Brambard:<nl>
+No pure elf would contribute to
+a power like magitech...
+<pause>
+Brambard:<nl>
+They would not help humans
+trifle with magic.
+<pause>
+Brambard:<nl>
+But the half-elves assisted in
+the development of magitech...
+<pause>
+Brambard:<nl>
+They were the ones who caused
+the critical decline in mana.{END}
+
+Brambard:<nl>
+For me, the chief of the elves,
+to cohabitate with a half-elf...
+<pause>
+Brambard:<nl>
+You understand the deep significance
+behind this act now?
+<pause>
+<Klarth>:<nl>
+...
+<pause>
+Brambard:<nl>
+But...even so...
+<pause>
+Brambard:<nl>
+I vowed to dedicate my life
+to her all the same.
+<pause>
+Brambard:<nl>
+Until the day I die...{END}
+
+<Arche>:<nl>
+Um, you know...{END}
+
+<Arche>:<nl>
+I don't think that's what Arsia
+would want.{END}
+
+<Arche>:<nl>
+Maybe it's not my place to say
+this, but...
+<pause>
+<Arche>:<nl>
+How do you really feel about Arsia?{END}
+
+<Arche>:<nl>
+You realize I'm one of the elves'
+sworn enemies, don't you?
+I'm a half-elf!
+<pause>
+<Arche>:<nl>
+They won't even let me see
+my own mother...
+<pause>
+<Arche>:<nl>
+I think how a person feels
+is more important...
+<pause>
+<Arche>:<nl>
+Even more than whether
+they're an elf or a half-elf!
+<pause>
+<Arche>:<nl>
+Staying with Arsia as a form
+of punishment is only gonna
+hurt her more!
+<pause>
+<Cless>:<nl>
+Hey, <Arche>...
+<pause>
+<Arche>:<nl>
+Well, she did turn me
+to stone, and...
+<pause>
+<Arche>:<nl>
+Honestly, that kinda did
+royally piss me off, but...{END}
+
+<Arche>:<nl>
+You being so wishy-washy pisses
+me off WAY more!{END}
+
+Brambard:<nl>
+She is right...
+<pause>
+Brambard:<nl>
+As chief of the elves, I've been
+repressing my own feelings.{END}
+
+Brambard:<nl>
+I...
+<pause>
+Brambard:<nl>
+I love Arsia...
+<pause>
+Brambard:<nl>
+That's more important than
+anything else.{END}
+
+Brambard:<nl>
+Arsia...{END}
+
+<Cless>:<nl>
+Huh!? What's...!?
+<pause>
+<Klarth>:<nl>
+The statue!!!{END}
+
+Arsia:<nl>
+Ooohhh...{END}
+
+Brambard:<nl>
+Arsia!!!{END}
+
+<Cless>:<nl>
+Are you okay!?
+<pause>
+Arsia:<nl>
+Aaahhh...
+<pause>
+Brambard:<nl>
+Arsia, are you all right!?
+<pause>
+Arsia:<nl>
+B-Bram...{END}
+
+Arsia:<nl>
+I<speed_0010>...<speed_00FF>turned back<speed_0010>...<speed_00FF>
+to normal, didn't I<speed_0010>...?<speed_00FF>
+<pause>
+Brambard:<nl>
+Arsia...{END}
+
+Arsia:<nl>
+B-Bram...{END}
+
+Arsia:<nl>
+Bram, you brought me
+back, didn't you?
+<pause>
+Brambard:<nl>
+Arsia...{END}
+
+Arsia:<nl>
+Oh Bram, thank you...
+<pause>
+Brambard:<nl>
+Arsia...{END}
+
+<Klarth>:<nl>
+Brambard's feelings were the key
+to lifting her curse...
+<pause>
+<Klarth>:<nl>
+She placed a curse upon herself, and awaited
+the day that Brambard would cure her...
+<pause>
+<Klarth>:<nl>
+She had more faith in Brambard
+than anyone.
+<pause>
+<Mint>:<nl>
+They're finally together again...
+<pause>
+<Klarth>:<nl>
+Although they'll still face ostracism,
+I'm sure those two'll pull through.
+<pause>
+<Cless>:<nl>
+I wish them all the happiness in the world.
+<pause>
+<Arche>:<nl>
+They'll make it...
+<pause>
+<Klarth>:<nl>
+Yeah...
+<pause>
+<Klarth>:<nl>
+All right, the elves must have
+finished talking by now.
+<pause>
+<Klarth>:<nl>
+Let's head on down, too.{END}
+
+Young Elf:<nl>
+You can't be serious!
+<pause>
+Young Elf:<nl>
+Sir!
+<pause>
+Young Elf:<nl>
+You've got to reconsider!{END}
+
+Brambard:<nl>
+Apologies, but this is
+my final answer.
+<pause>
+Brambard:<nl>
+She is a half-elf, and I will
+live with her from now on.
+<pause>
+Brambard:<nl>
+Return to the village
+and select a new chief.{END}
+
+Young Elf:<nl>
+Chief Brambard...
+<pause>
+Brambard:<nl>
+Are you having trouble
+comprehending what I said!?
+<pause>
+Brambard:<nl>
+I cannot lie to myself anymore.{END}
+
+Arsia:<nl>
+Bram...
+<pause>
+Brambard:<nl>
+Time for you to leave.{END}
+
+Brambard:<nl>
+I really want to thank
+all of you.
+<pause>
+Arsia:<nl>
+Especially you...{END}
+
+<Arche>:<nl>
+Huh?
+<pause>
+Arsia:<nl>
+I'm truly sorry for my actions.
+<pause>
+<Arche>:<nl>
+It's okay. I'm totally back to
+normal, and I don't hold grudges.
+<pause>
+Arsia:<nl>
+You're a half-elf too, aren't you?
+<pause>
+Arsia:<nl>
+Please use your powerful
+half-elf magic for the benefit
+of the world.
+<pause>
+<Arche>:<nl>
+I will.
+<pause>
+Arsia:<nl>
+Please don't hesitate to ask
+if you need anything at all.
+<pause>
+Arsia:<nl>
+I wouldn't even be here if not for
+you.{END}
+
+Arsia:<nl>
+And I wanted to ask you...
+<pause>
+<Klarth>:<nl>
+Hmm?
+<pause>
+Arsia:<nl>
+Does my face still bother you?
+<pause>
+<Klarth>:<nl>
+Heh, I can't believe you remember
+that silly comment.{END}
+
+Arsia:<nl>
+I don't know if this makes up
+for all I did to you, but...
+<pause>
+Arsia:<nl>
+If it helps you out, even just
+a little bit...{END}
+
+Arsia:<nl>
+Hand me the bow I fixed for you and the Sacred Wood.
+<pause>
+<Chester>:<nl>
+S-Sure...{END}
+
+<Chester>:<nl>
+This bow...it's...{END}
+
+Arsia:<nl>
+This is all I can do for you.
+<pause>
+Arsia:<nl>
+Take this...{END}
+
+<Chester>:<nl>
+Wow...
+<pause>
+<Chester>:<nl>
+My bow is pulsating with
+incredible power!{END}
+
+<color_0002>Your Elven Bow was upgraded.<color_0000>{END}
+
+<Klarth>:<nl>
+We've done as much as we
+possibly can for the two of you.
+<pause>
+<Klarth>:<nl>
+It's all up to you now.
+<pause>
+Brambard:<nl>
+Thank you.
+<pause>
+<Klarth>:<nl>
+All right, <Cless>...
+<pause>
+<Klarth>:<nl>
+We've got something to take care
+of ourselves.
+<pause>
+<Cless>:<nl>
+Good point!
+<pause>
+<Cless>:<nl>
+All right, onward to Dhaos' Castle!{END}
+

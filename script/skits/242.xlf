@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1256">
+        <source>Dude, you've become an ass-kicking machine.</source>
+        <target state="translated">Dude, you've become an ass-kicking machine.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1257">
+        <source>Hard to believe the boars
+always chased YOU around!</source>
+        <target state="translated">Hard to believe the boars
+always chased YOU around!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1258">
+        <source>Goodness, is that true?</source>
+        <target state="translated">Goodness, is that true?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1259">
+        <source>H-hey! That's when we were kids!</source>
+        <target state="translated">H-Hey! That's when we were kids!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1260">
+        <source>Remember how you woke the dead
+when a caterpillar climbed in your shirt?</source>
+        <target state="translated">Remember how you woke the dead
+when a caterpillar climbed in your shirt?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1261">
+        <source>Oho! Good to know he hasn't changed at all!</source>
+        <target state="translated">Oho! Good to know he hasn't changed at all!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1262">
+        <source>Say that to my face!</source>
+        <target state="translated">Say that to my face!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1263">
+        <source>How I weep for the future of Euclid...</source>
+        <target state="translated">How I weep for the future of Euclid...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1264">
+        <source>...if these two are its mightiest men...</source>
+        <target state="translated">...if these two are its mightiest men...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

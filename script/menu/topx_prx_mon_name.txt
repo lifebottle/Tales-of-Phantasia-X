@@ -1,0 +1,512 @@
+Iron Golem{END}
+
+Ice Golem{END}
+
+Owl{END}
+
+Aqua Dragon{END}
+
+Azar{END}
+
+Anaconda{END}
+
+Apache Doctor{END}
+
+Alraune{END}
+
+Arch Demon{END}
+
+Arch Knight{END}
+
+Arch Bishop{END}
+
+Archer{END}
+
+Ignis Fatuus{END}
+
+Ishrantu{END}
+
+Efreet{END}
+
+Inferno{END}
+
+Evil Star{END}
+
+Evil Sword{END}
+
+Evil Lord{END}
+
+Viper{END}
+
+Vulcan{END}
+
+Vulture{END}
+
+Vampire Bat{END}
+
+Witch{END}
+
+Witch Doctor{END}
+
+Will O' Wisp{END}
+
+Winged Devil{END}
+
+Volt{END}
+
+Woodkarla{END}
+
+Wolfsbane{END}
+
+Undine{END}
+
+Air Giant{END}
+
+Okiyo{END}
+
+Origin{END}
+
+Ogre{END}
+
+Ochre Jelly{END}
+
+Oakrot{END}
+
+Odin{END}
+
+Kage{END}
+
+Crab{END}
+
+Galleon Sword{END}
+
+Galf Beast{END}
+
+Carcass{END}
+
+Cawker{END}
+
+Gargoyle{END}
+
+Kiyomasa{END}
+
+Killer Owl{END}
+
+Killer Bee{END}
+
+King Cobra{END}
+
+Queen Bee{END}
+
+Kunoichi{END}
+
+Kraken{END}
+
+Grizzly{END}
+
+Green Roper{END}
+
+Gnomelette{END}
+
+Clay Golem{END}
+
+Clay Demon{END}
+
+Great Tusk{END}
+
+Ghoul{END}
+
+Cave Spider{END}
+
+Caveman{END}
+
+Gazehound{END}
+
+Cerberus{END}
+
+Cocadrille{END}
+
+Kosuke{END}
+
+Gold Dragon{END}
+
+Golem{END}
+
+Psychic{END}
+
+Saizo{END}
+
+Sidewinder{END}
+
+Sakon{END}
+
+Sasuke{END}
+
+Samael{END}
+
+Samurai{END}
+
+Thunder Dragon{END}
+
+Shade{END}
+
+Jackal{END}
+
+Jack O' Lantern{END}
+
+Shaitan{END}
+
+Jahmir{END}
+
+Shaman{END}
+
+Jann{END}
+
+Chevalier{END}
+
+Juzo{END}
+
+Silver Dragon{END}
+
+Jinn{END}
+
+Jinpachi{END}
+
+Sea Slug{END}
+
+Scavenger{END}
+
+Scout{END}
+
+Squid{END}
+
+Skeleton{END}
+
+Skeleton King{END}
+
+Starfish{END}
+
+Stormrider{END}
+
+Snow Bunny{END}
+
+Specter{END}
+
+Slime{END}
+
+Superstar{END}
+
+Siren{END}
+
+Zombie{END}
+
+Zombie Giant{END}
+
+Sorceress{END}
+
+Tyrant{END}
+
+Chirpee{END}
+
+Depraved Monk{END}
+
+Dingo{END}
+
+Timber Wolf{END}
+
+Desert King{END}
+
+Desert Fly{END}
+
+Deathstalker{END}
+
+Demeter{END}
+
+Dozo{END}
+
+Doom Guard{END}
+
+Doom Toad{END}
+
+Draco-Centaur{END}
+
+Dragonewt{END}
+
+Dragon's Tooth{END}
+
+Dragon Knight{END}
+
+Dragonfly{END}
+
+Treant{END}
+
+Troll{END}
+
+Dhole{END}
+
+Night Wing{END}
+
+Nightmare{END}
+
+Ninja Master{END}
+
+Nebiros{END}
+
+Nocturnal Fly{END}
+
+Gnome{END}
+
+Python{END}
+
+Bugbear{END}
+
+Basilisk{END}
+
+Basilisk King{END}
+
+Bodach{END}
+
+Hatamoto{END}
+
+Balrog{END}
+
+Banshee{END}
+
+Hanzo{END}
+
+Pumpkin King{END}
+
+Burning Dead{END}
+
+Harpy{END}
+
+Bishop{END}
+
+Bigfoot{END}
+
+Peepit{END}
+
+Beastmaster{END}
+
+Firebug{END}
+
+Pharaoh{END}
+
+Phantom{END}
+
+Phoenix{END}
+
+Fenrir Beast{END}
+
+Bushwhacker{END}
+
+Brown Bear{END}
+
+Black Slime{END}
+
+Black Dragon{END}
+
+Black Knight{END}
+
+Black Bat{END}
+
+Blood Sucker{END}
+
+Flamberg{END}
+
+Priestess{END}
+
+Bleeb{END}
+
+Blue Sylph{END}
+
+Pluto{END}
+
+Blue Roper{END}
+
+Flame{END}
+
+Flame Sword{END}
+
+Predator{END}
+
+Frost King{END}
+
+Frost Bunny{END}
+
+Prophet{END}
+
+Voodoo Priest{END}
+
+Belladonna{END}
+
+Hellcat{END}
+
+Hellhound{END}
+
+Hellmaster{END}
+
+Boar{END}
+
+Piglet{END}
+
+Boarboar{END}
+
+Poison Toad{END}
+
+Boggart{END}
+
+White Bear{END}
+
+Bogle{END}
+
+Hornet{END}
+
+Polar Bear{END}
+
+Bone Knight{END}
+
+Mighty Oak{END}
+
+Maxwell{END}
+
+Mummy{END}
+
+Manta{END}
+
+Manticore{END}
+
+Mandrake{END}
+
+Merman{END}
+
+Mythril Golem{END}
+
+Mayer{END}
+
+Medium{END}
+
+Monk Soldier{END}
+
+Lycurgus{END}
+
+Lizard{END}
+
+Lizard Fly{END}
+
+Lizard Man{END}
+
+Lich{END}
+
+Living Sword{END}
+
+Living Dead{END}
+
+Lilith{END}
+
+Wraith{END}
+
+Lesser Demon{END}
+
+Red Sylph{END}
+
+Red Pudding{END}
+
+Red Roper{END}
+
+Ranger{END}
+
+Lobo{END}
+
+Wyvern{END}
+
+Wight{END}
+
+Werevulture{END}
+
+A.C. Roper{END}
+
+Giant Squid{END}
+
+Giant Scorpion{END}
+
+Giant Slug{END}
+
+Giant Toad{END}
+
+Giant Bat{END}
+
+Giant Bee{END}
+
+Giant Frog{END}
+
+Giant Mayfly{END}
+
+Giant Lizard{END}
+
+Giant Leech{END}
+
+Giant Wasp{END}
+
+Darkeye?{END}
+
+Roameye?{END}
+
+Sealeye?{END}
+
+10000R{END}
+
+2SH{END}
+
+3000R{END}
+
+3SH{END}
+
+4400R{END}
+
+Dhaos (Angel){END}
+
+Dhaos (Future){END}
+
+Dhaos (Past){END}
+
+Dhaos (Present){END}
+
+Dhaos (Transformed){END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+
+--Null------{END}
+

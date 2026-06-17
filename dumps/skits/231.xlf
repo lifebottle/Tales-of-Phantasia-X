@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1190">
+        <source>We managed to have the
+Sword of Time created...</source>
+        <target state="translated">We managed to have the
+Sword of Time created...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1191">
+        <source>Yeah, and now we can
+use it to pin Dhaos to this era.</source>
+        <target state="translated">Yeah, and now we can
+use it to pin Dhaos to this era.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1192">
+        <source>Y'know, we never did figure
+out why he came to our world.</source>
+        <target state="translated">Y'know, we never did figure
+out why he came to our world.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1193">
+        <source>He obviously has his reasons, but we're
+in no position to speculate what they are.</source>
+        <target state="translated">He obviously has his reasons, but we're
+in no position to speculate what they are.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1194">
+        <source>Doesn't matter anyway.
+We've still gotta find the bastard.</source>
+        <target state="translated">Doesn't matter anyway.
+We've still gotta find the bastard.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1195">
+        <source>Yeah. That's true.</source>
+        <target state="translated">Yeah. That's true.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

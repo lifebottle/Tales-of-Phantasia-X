@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_816">
+        <source>I'm speechless... I made a pact with Maxwell!</source>
+        <target state="translated">I'm speechless... I made a pact with Maxwell!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_817">
+        <source>He governs the Four Great
+Spirits, if I recall correctly.</source>
+        <target state="translated">He governs the Four Great
+Spirits, if I recall correctly.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_818">
+        <source>That's pretty awesome,
+huh? We're like, evolving!</source>
+        <target state="translated">That's pretty awesome,
+huh? We're like, evolving!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_819">
+        <source>I believe the word you're
+looking for is “progressing.”</source>
+        <target state="translated">I believe the word you're
+looking for is “progressing.”</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_820">
+        <source>That being said...</source>
+        <target state="translated">That being said...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_821">
+        <source>It's time to find a way to restore those rings.</source>
+        <target state="translated">It's time to find a way to restore those rings.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

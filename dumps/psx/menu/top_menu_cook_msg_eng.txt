@@ -1,0 +1,87 @@
+Everyone's HP has been restored by (10+<var_0003>)%.{END}
+
+Everyone's HP has been restored by (10+<var_0003>)%.
+Plus: Poison cured.{END}
+
+Everyone's HP has been restored by (12+<var_0003>)%.{END}
+
+Everyone's HP has been restored by (12+<var_0003>)%.
+Plus: Poison cured.{END}
+
+Everyone's HP has been restored by (15+<var_0003>)%.
+Plus: Paralysis and Petrification cured.{END}
+
+Everyone's HP has been restored by (20+<var_0003>)%.{END}
+
+Everyone's HP has been restored by (20+<var_0003>)%.
+Plus: Poison cured.{END}
+
+Everyone's HP has been restored by (20+<var_0003>)%.
+Plus: Paralysis cured.{END}
+
+Everyone's HP has been restored by (20+<var_0003>)%.
+Plus: Petrification cured.{END}
+
+Everyone's HP has been restored by (25+<var_0003>)%.{END}
+
+Everyone's TP has been restored by (7+<var_0003>)%.{END}
+
+Everyone's HP has been restored by (25+<var_0003>)%.
+Plus: Poison cured.{END}
+
+Everyone's HP has been restored by (30+<var_0003>)%.{END}
+
+Everyone's HP has been restored by (35+<var_0003>)%.{END}
+
+Everyone's HP has been restored by (15+<var_0003>)%.
+Plus: Poison and Paralysis cured.{END}
+
+Everyone's HP has been restored by (15+<var_0003>)%.
+Everyone's TP has been restored by 1%.{END}
+
+Everyone's HP has been restored by (20+<var_0003>)%.
+Plus: Fallen allies revived.{END}
+
+Everyone's HP has been restored by (20+<var_0003>)%.
+Everyone's TP has been restored by 5%.{END}
+
+Everyone's HP has been restored by (40+<var_0003>)%.{END}
+
+Everyone's TP has been restored by (15+<var_0003>)%.{END}
+
+Everyone's HP has been restored by (35+<var_0003>)%.
+Plus: Poison and Paralysis cured.{END}
+
+Everyone's TP has been restored by (25+<var_0003>)%.{END}
+
+Everyone's HP has been restored by (20+<var_0003>)%.
+Everyone's TP has been restored by 10%.{END}
+
+Everyone's HP has been restored by (50+<var_0003>)%.{END}
+
+Everyone's HP and TP has been fully restored.
+Plus: Fallen allies revived.{END}
+
+Everyone's HP has been restored by 1%.{END}
+
+Everyone's HP has been restored by 1%.
+Everyone's TP has been restored by 1%.{END}
+
+Everyone's HP has been restored by 5%.{END}
+
+But the results were still edible, and by
+some mystical power, everyone's status
+ailments were cured!{END}
+
+Everyone's TP has been restored by 5%.{END}
+
+But the results weren't too shabby and
+everyone's HP and TP were restored by
+20% and 5%, respectively.{END}
+
+Everyone's HP has been restored by 1%.
+Everyone's TP has been restored by 10%.{END}
+
+But the results were surprisingly tasty and
+everyone's HP was completely restored!{END}
+

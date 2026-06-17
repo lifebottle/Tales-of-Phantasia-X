@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_717">
+        <source>Here I go! Igaguri Style ninja replication arte!</source>
+        <target state="translated">Here I go! Igaguri Style ninja replication arte!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_718">
+        <source>Whoa, that's so, SO
+awesome! Now I wanna be a ninja!</source>
+        <target state="translated">Whoa, that's so, SO
+awesome! Now I wanna be a ninja!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_719">
+        <source>Hah, you're such a loudmouth even the
+neighbor's noisy dog would make a better ninja.</source>
+        <target state="translated">Hah, you're such a loudmouth even the
+neighbor's noisy dog would make a better ninja.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_720">
+        <source>Heeey! Who called the fun police!?</source>
+        <target state="translated">Heeey! Who called the fun police!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_721">
+        <source>Me? I'm just in the mood to give
+sagely advice. You should be thankful.</source>
+        <target state="translated">Me? I'm just in the mood to give
+sagely advice. You should be thankful.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_722">
+        <source>Mind your own business! Now I'm
+gonna become a ninja just to spite you!</source>
+        <target state="translated">Mind your own business! Now I'm
+gonna become a ninja just to spite you!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_723">
+        <source>Um... Animated people generally
+are not suited for the ninja profession.</source>
+        <target state="translated">Um... Animated people generally
+are not suited for the ninja profession.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_724">
+        <source>Gah...</source>
+        <target state="translated">Gah...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_725">
+        <source>Tolllld ya!</source>
+        <target state="translated">Tolllld ya!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

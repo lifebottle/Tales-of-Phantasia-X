@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1273">
+        <source>The Tree...wha?</source>
+        <target state="translated">The Tree...wha?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1274">
+        <source>The Tria. It is said to be a
+triad of ancient artifacts.</source>
+        <target state="translated">The Tria. It is said to be a
+triad of ancient artifacts.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1275">
+        <source>And, if fused together, they'll become a
+magic sword that can manipulate time.</source>
+        <target state="translated">And, if fused together, they'll become a
+magic sword that can manipulate time.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1276">
+        <source>If we can get our hands on that,
+Dhaos can be chained to this era.</source>
+        <target state="translated">If we can get our hands on that,
+Dhaos can be chained to this era.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1277">
+        <source>Let us search for these
+artifacts with all due haste!</source>
+        <target state="translated">Let us search for these
+artifacts with all due haste!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

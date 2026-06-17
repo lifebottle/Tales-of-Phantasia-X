@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_802">
+        <source>To recap, we visited the
+slab, and summoned the spirits...</source>
+        <target state="translated">To recap, we visited the
+slab, and summoned the spirits...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_803">
+        <source>Are they arranged correctly?</source>
+        <target state="translated">Are they arranged correctly?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_804">
+        <source>Perhaps...</source>
+        <target state="translated">Perhaps...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_805">
+        <source>Shouldn't something have happened?</source>
+        <target state="translated">Shouldn't something have happened?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_806">
+        <source>Should be fun to find out, right?</source>
+        <target state="translated">Should be fun to find out, right?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

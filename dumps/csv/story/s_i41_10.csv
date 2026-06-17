@@ -1,0 +1,728 @@
+道具屋『カレンダー』{END},Item Shop “Calendar”{END}
+薬屋『どくだみ』{END},Pharmacy “Houttuynia”{END}
+武具屋『ライム』{END},Equipment Shop “Lime”{END}
+"薬屋
+「らっしゃ〜い、何にします？」{END}","Pharmacist:<nl>
+ Welcome to Houttuynia.
+ What can I do for you?{END}"
+"薬屋
+「ありがとうよ」
+<pause>
+薬屋
+「そうだ、買ってくれたお礼に、
+　この<item_A000>をあげよう」
+<pause>
+薬屋
+「冒険者ギルドでコンサートがあ
+　る時は、そのチケットで中に入
+　れるよ」{END}","Pharmacist:<nl>
+ Thanks!
+<pause>
+Pharmacist:<nl>
+ For being one of our best customers, I
+ want to show you my appreciation
+ with this ticket.
+<pause>
+Pharmacist:<nl>
+ It'll let you into popstar Yomi's next
+ concert, which will be held downstairs in the Adventurer's Guild!{END}"
+<color_0002><item_A000>を手に入れました。<color_0000>{END},<color_0002>Acquired a <item_A000>.<color_0000>{END}
+"薬屋
+「ありがとうよ」{END}","Pharmacist:<nl>
+ Thanks!{END}"
+"薬屋
+「ありがとうよ」{END}","Pharmacist:<nl>
+ Thanks!{END}"
+"町の人
+「交易品って知っているか？」
+<pause>
+町の人
+「あれは地域によって価格が変動
+　する品物なんだ」
+<pause>
+町の人
+「ある町ではたいした値段でなく
+　ても・・・」
+<pause>
+町の人
+「別な町だとべらぼうに高く売れ
+　るっていうことがあるんだぜ」{END}","Citizen:<nl>
+ Let me tell you about <color_0002>Trade<color_0000> goods.
+<pause>
+Citizen:<nl>
+ They're special items that have
+ varying amounts of consumer
+ demand across the globe.
+<pause>
+Citizen:<nl>
+ So, if one good doesn't fetch a
+ good price in one place...
+<pause>
+Citizen:<nl>
+ You might be able to make a mint
+ off of it in another.{END}"
+"道具屋
+「らっしゃい！」{END}","Clerk:<nl>
+ Come on in!{END}"
+"道具屋
+「どうも！」{END}","Clerk:<nl>
+ Thanks!{END}"
+"町の人
+「どうやら、やっと私の夢がかな
+　いそうです」
+<pause>
+町の人
+「戦争が終わって、やっと平和が
+　訪れましたから」{END}","Citizen:<nl>
+ At last, my dream is being realized.
+<pause>
+Citizen:<nl>
+ The war has ended, and
+ peace has been restored.
+ I couldn't feel more relieved
+ for my family's future.{END}"
+"町の人
+「家族四人、いつまでも幸せに暮
+　らすのが私の夢です」
+<pause>
+町の人
+「しかし、この町もいつ戦争に巻
+　き込まれるか・・・」{END}","Citizen:<nl>
+ It's my dream that my family of
+ four live happily ever after.
+<pause>
+Citizen:<nl>
+ But what would we do if this town
+ gets caught up in the war, as
+ well...?{END}"
+"主婦
+「う〜ん、いい味・・・」
+<pause>
+主婦
+「やっぱり料理している時が一番
+　幸せよ<heart>」{END}","Housewife:<nl>
+ Mmmm!
+ Tastes divine...
+<pause>
+Housewife:<nl>
+ Cooking always sends me to
+ seventh heaven <heart>{END}"
+"男の子
+「えーい、勇者ごっこだーい！」{END}","Boy:<nl>
+ Hiii-yah!
+ I'm the hero!{END}"
+"女の子
+「私は、勇者様の手助けをする魔
+　術師よ♪」
+<pause>
+女の子
+「勇者様ぁ〜<heart>」{END}","Girl:<nl>
+ And I'm the hero's trusty mage
+ sidekick! <note>
+<pause>
+Girl:<nl>
+ Let us go, my hero!
+ We'll show those monsters! <heart>{END}"
+"おじさん
+「ダオスがいなくなって、やっと
+　安心したわい」{END}","Old Man:<nl>
+ The news that Dhaos finally
+ disappeared calms my heart.{END}"
+"おじさん
+「そろそろこの町から出て行かな
+　ければならないかのぅ・・・」{END}","Old Man:<nl>
+ Just to be on the safe side, we
+ might need to leave this town...{END}"
+"町の人
+「ミッドガルズに行った息子が心
+　配じゃ・・・」{END}","Citizen:<nl>
+ I'm worried about my son.
+ He's gone to Midgard, and is now
+ tangled up in the war...{END}"
+"町の人
+「戦争は終わったけど、私の父が
+　ミッドガルズから帰ってこない
+　んです」
+<pause>
+町の人
+「心配です・・・」{END}","Citizen:<nl>
+ Though the war's over in Midgard,
+ my father still hasn't so much as
+ written a letter...
+<pause>
+Citizen:<nl>
+ I fear the worst...{END}"
+"町の人
+「おじいちゃんもおばあちゃんも
+　不安になってるわ」
+<pause>
+町の人
+「戦争が、ここにも飛び火するん
+　じゃないかって」{END}","Citizen:<nl>
+ The war has caused my grandma
+ and grandpa a lot of grief and
+ anxiety.
+<pause>
+Citizen:<nl>
+ I wonder what they'd do if it
+ spreads to Alvanista?{END}"
+"防具屋
+「いらっしゃい」
+<pause>
+防具屋
+「いい防具そろってるよ」{END}","Clerk:<nl>
+ Welcome to Lime, armor
+ department.
+<pause>
+Clerk:<nl>
+ We've got what you're looking for!{END}"
+"防具屋
+「どうも、ありがとう」{END}","Clerk:<nl>
+ Thank you.{END}"
+"武器屋
+「いらっしゃい」
+<pause>
+武器屋
+「いい武器そろってるよ」{END}","Clerk:<nl>
+ Welcome to Lime, weapon
+ department.
+<pause>
+Clerk:<nl>
+ We have a great selection!{END}"
+"武器屋
+「どうも、ありがとう」{END}","Clerk:<nl>
+ Thank you.{END}"
+"<Cless>
+「あ、ブッシュベイビー」{END}","<Cless>:<nl>
+ Hey, a bush baby...{END}"
+"エルウィン
+「父さんがここに来るとなると、
+　もう、ひと波乱あるな・・・」
+<pause>
+<Cless>
+「そんなことないよ、きっと理解
+　してくれるさ」
+<pause>
+エルウィン
+「そうだといいんだけど・・・」{END}","Elwyn:<nl>
+ I really can't shake this feeling that
+ things'll be messy when Dad gets
+ here...
+<pause>
+<Cless>:<nl>
+ No, I'm sure he'll understand.
+<pause>
+Elwyn:<nl>
+ That would be great, but knowing
+ him, I'm not that hopeful...{END}"
+"エルウィン
+「父さんには内緒にしておいてく
+　れよ」{END}","Elwyn:<nl>
+ Keep this a secret from my dad.{END}"
+"<unk1><Mint>
+がんばって下さいね、ナンシーさん」
+<pause>
+ナンシー
+<Mint>さん、ありがとうございます」{END}","<unk1><Mint>:<nl>
+ Good luck, Nancy.
+<pause>
+Nancy:<nl>
+ Thank you, <Mint>.{END}"
+"<Cless>
+「あの、もしかしてエルウィンと
+　ナンシー？」<wait>{END}","<Cless>:<nl>
+ Whoa... Elwyn and Nancy?
+ Is that you?<wait>{END}"
+"エルウィン
+「やあ！<Cless>！」
+<pause>
+ナンシー
+「お久しぶりです」
+<pause>
+<Cless>
+「本当に駆け落ちしたんですね」
+<pause>
+エルウィン
+「ああ・・・」
+<pause>
+エルウィン
+「でも後悔はしてないよ」
+<pause>
+エルウィン
+「彼女と一緒ならどこへでも行く
+　つもりだよ」
+<pause>
+ナンシー
+「でも、しばらくはここにいるつ
+　もりです」
+<pause>
+ナンシー
+「ミッドガルズが不安定な状況で
+　すからね」
+<pause>
+エルウィン
+「僕達がここに居ることは父さん
+　には内緒にしておいてくれよ」{END}","Elwyn:<nl>
+ Hey! <Cless>!
+<pause>
+Nancy:<nl>
+ It's so nice to see you again.
+<pause>
+<Cless>:<nl>
+ So you really did choose to elope.
+<pause>
+Elwyn:<nl>
+ Yeah...
+<pause>
+Elwyn:<nl>
+ But I don't regret it in the slightest!
+<pause>
+Elwyn:<nl>
+ I say, as long as I get to be with
+ her, where I go doesn't matter.
+<pause>
+Nancy:<nl>
+ It seems we'll be stuck in this city
+ for a while, though...
+<pause>
+Nancy:<nl>
+ We were planning to go to Midgard,
+ but that place is far too unstable
+ right now.
+<pause>
+Elwyn:<nl>
+ Please don't tell my old man where
+ we are.{END}"
+"エルウィン
+「ありがとう・・・」
+<pause>
+エルウィン
+「本当にありがとう」{END}","Elwyn:<nl>
+ Thanks...
+<pause>
+Elwyn:<nl>
+ Thank you so much.{END}"
+"ナンシー
+「何てお礼を言っていいのか」
+<pause>
+ナンシー
+「このご恩は一生忘れません」{END}","Nancy:<nl>
+ How can we ever express our
+ gratitude?
+<pause>
+Nancy:<nl>
+ You've helped us get so far.
+ We'll never forget your kindness.{END}"
+"犬の飼い主
+「犬は好きなんだけど、さすがに
+　増えすぎたみたいだ・・・」{END}","Dog Owner:<nl>
+ Dogs are truly man's best friend,
+ but maybe I went a little
+ overboard here.{END}"
+"女の人
+「こんなにたくさんいると散歩も
+　楽じゃないわ」{END}","Woman:<nl>
+ As soon as you finish walking the
+ last one, it's already time to start
+ walking the first again.
+<pause>
+Woman:<nl>
+ It's as exhausting as it sounds.
+ And don't get me started
+ on the cleanup! Yuck!{END}"
+"町の人
+「『おでん』はやっぱり味の染み
+　ついた『どなべ』で作らなきゃ
+　ね！」{END}","Citizen:<nl>
+ The best-tasting miso stew is
+ always made in an earthenware
+ pot!{END}"
+"町の人
+「おばあちゃんから聞いたことあ
+　るんだけど・・・」
+<pause>
+町の人
+「ミッドガルズの北西、ヴァルハ
+　ラ平原の西にある森に角の生え
+　た白馬がいるんだって」
+<pause>
+町の人
+「その白馬は清らかな乙女にしか
+　会わないそうよ」{END}","Citizen:<nl>
+ I heard this from my grandma, so
+ take it with a grain of salt, but...
+<pause>
+Citizen:<nl>
+ Northwest of Midgard, and west of
+ the Valhalla Plains, exists a forest
+ where a horned white horse lives.
+<pause>
+Citizen:<nl>
+ Apparently, it will only reveal itself
+ to pure maidens.{END}"
+"兵士
+「お城につとめています」
+<pause>
+兵士
+「しばらく後にお城にきたエミリ
+　ちゃんが気になる今日この頃で
+　す」
+<pause>
+兵士
+「すみません、独り言です」{END}","Soldier:<nl>
+ I work at the castle.
+<pause>
+Soldier:<nl>
+ I can't stop thinking of Emily, the
+ castle's newest maid.
+<pause>
+Soldier:<nl>
+ Umm...<nl>
+ Don't mind me; just
+ talking to myself...{END}"
+"<Cless>
+「かまどの中をのぞいてみよう」{END}","<Cless>:<nl>
+ Let's take a look in the stove.{END}"
+"<Cless>
+「何で・・・」{END}","<Cless>:<nl>
+ Okay, that was stupid...{END}"
+"エルウィン
+「僕達は二人で結婚するって決め
+　たんだ！！」
+<pause>
+エルウィン
+「帰ってくれ！！」
+<pause>
+エルウィンの父・ドグ
+「わがままを言うな！」
+<pause>
+ドグ
+「ベネツィアに帰るぞ！！」
+<pause>
+<color_0002>エルウィン達を助けますか？<color_0000>{END}","Elwyn:<nl>
+ We've decided to get married!!!
+<pause>
+Elwyn:<nl>
+ So leave us alone and go back
+ home!!!
+<pause>
+Doug:<nl>
+ Stop being such a stubborn brat!
+<pause>
+Doug:<nl>
+ You will be coming back home to
+ Venezia RIGHT NOW!!!
+<pause>
+<color_0002>Help Elwyn and Nancy?<color_0000>{END}"
+"<Klarth>
+「これ以上関わるのはどうかと思
+　うがな」{END}","<Klarth>:<nl>
+ I don't think this is any of our
+ business anymore.{END}"
+"<Cless>
+「ちょ、ちょっと二人共落ち着い
+　て・・・」
+<pause>
+ドグ
+「お前らには関係ない話だ！」
+<pause>
+ドグ
+「ほっといてもらおうか！」
+<pause>
+<Mint>
+「なぜそんなにナンシーさんを毛
+　嫌いするのか教えて下さい！」{END}","<Cless>:<nl>
+ N-Now, settle down, you two...
+<pause>
+Doug:<nl>
+ This has nothing to do with you!
+<pause>
+Doug:<nl>
+ Mind your own damn business!
+<pause>
+<Mint>:<nl>
+ Please tell us why you're so
+ prejudiced against Nancy!{END}"
+"ドグ
+「・・・・・・」<wait>{END}","Doug:<nl>
+ ......<wait>{END}"
+"ドグ
+「毛嫌いなんかしとらんわい！」
+<pause>
+<Mint>
+「それでは、なぜですか？」
+<pause>
+ドグ
+「エルウィンには、不幸な人生を
+　送ってもらいたくないからだ」
+<pause>
+ドグ
+「今の会社が軌道に乗るまでどれ
+　だけ苦労したか」
+<pause>
+ドグ
+「それに・・・」
+<pause>
+<Cless>
+「それに？」
+<pause>
+ドグ
+「私の妻はそのためにエルウィン
+　が小さい頃に死んでしまったの
+　だ」
+<pause>
+ドグ
+「きっとあいつはわしを恨んでい
+　るじゃろうなぁ・・・」<wait>{END}","Doug:<nl>
+ I am not!
+<pause>
+<Mint>:<nl>
+ Then why are you doing this?
+<pause>
+Doug:<nl>
+ Because I don't want to send Elwyn
+ off to live a life of misery.
+<pause>
+Doug:<nl>
+ I went through so much hardship
+ to get the company where it is
+ now...
+<pause>
+Doug:<nl>
+ And...
+<pause>
+<Cless>:<nl>
+ And?
+<pause>
+Doug:<nl>
+ It was because of my neglect that
+ my wife died when Elwyn was a
+ boy.
+<pause>
+Doug:<nl>
+ Surely she resents me for what
+ I've done...<wait>{END}"
+"エルウィン
+「父さん・・・」
+<pause>
+ドグ
+「エルウィンには同じ過ちを繰り
+　返して欲しくないんだ・・・」
+<pause>
+エルウィン
+「父さん、母さんは決して恨んだ
+　りしてないと思うよ」
+<pause>
+エルウィン
+「僕が小さい頃、母さんは言って
+　たよ」
+<pause>
+エルウィン
+「父さんはすばらしい人だって」{END}","Elwyn:<nl>
+ Dad...
+<pause>
+Doug:<nl>
+ I just want to make that sacrifice
+ worth something.
+<pause>
+Elwyn:<nl>
+ Dad, I don't think Mom ever held a
+ grudge against you.
+<pause>
+Elwyn:<nl>
+ When I was little...
+<pause>
+Elwyn:<nl>
+ She said that you were a
+ wonderful person.{END}"
+"エルウィン
+「父さん！」
+<pause>
+ドグ
+「だいぶ会社を空けているから仕
+　事がたまってるはずだ」
+<pause>
+ドグ
+「お前にも手伝ってもらうぞ」
+<pause>
+ドグ
+「それにナンシーにもな・・・」
+<pause>
+エルウィン
+「父さん！？」
+<pause>
+ナンシー
+「お義父さん・・・」{END}","Elwyn:<nl>
+ Dad!
+<pause>
+Doug:<nl>
+ As we speak, I'm sure there's
+ plenty of work piling up back at
+ the company.
+<pause>
+Doug:<nl>
+ Why don't you help with it?
+<pause>
+Doug:<nl>
+ ...Along with Nancy.
+<pause>
+Elwyn:<nl>
+ Dad!?
+<pause>
+Nancy:<nl>
+ Doug...{END}"
+"<Mint>
+「よかった・・・」
+<pause>
+<Klarth>
+「なあ、私の言ったとおりになっ
+　たろう？」
+<pause>
+<Cless>
+「深いんですね、男と女って」
+<pause>
+<Mint>
+「勉強になりました・・・」{END}","<Mint>:<nl>
+ Thank goodness, it's all over...
+<pause>
+<Klarth>:<nl>
+ Well, well. Remember what I said
+ about true love and all that? That
+ couple's your example. This'll teach
+ you to doubt your elders!
+<pause>
+<Cless>:<nl>
+ Wow, I had no idea this relationship
+ stuff would be that intense.
+<pause>
+<Mint>:<nl>
+ Oh my!
+ What a powerful learning
+ experience...{END}"
+"<Cless>
+「エルウィン、その事で少し話が
+　あるんだけど・・・」
+<pause>
+エルウィン
+「なんの話？」
+<pause>
+<Cless>
+「お父さん、エルウィンのことを
+　すごく心配してたよ」
+<pause>
+エルウィン
+「・・・・・・」
+<pause>
+<Cless>
+「一度ベネツィアに帰ってみても
+　いいんじゃないかな」
+<pause>
+エルウィン
+「・・・・・・」
+<pause>
+<Cless>
+「帰る気はない？」
+<pause>
+エルウィン
+「僕達は何も悪くない、父さんに
+　謝る気があるなら父さんがここ
+　まで来ればいいのさ」
+<pause>
+<Cless>
+「それじゃ、お父さんと仲直りす
+　る気はあるんだね？」
+<pause>
+エルウィン
+「たった一度のケンカで親子の縁
+　が切れてしまうのは悲しいから
+　ね」
+<pause>
+エルウィン
+「父さんが話合いを望むなら拒否
+　したりはしないさ」
+<pause>
+<Cless>
+「わかったよ、そう伝えていいん
+　だね？」
+<pause>
+エルウィン
+「うん、僕らのことを許してくれ
+　るといいんだけど」{END}","<Cless>:<nl>
+ Elwyn, if you don't mind, I wanted
+ to talk to you about something...
+<pause>
+Elwyn:<nl>
+ What about?
+<pause>
+<Cless>:<nl>
+ We recently visited your father.
+ He sounded very distraught about
+ your disappearance.
+<pause>
+Elwyn:<nl>
+ ......
+<pause>
+<Cless>:<nl>
+ Would you be willing to make one
+ last trip back to Venezia to calm
+ him down?
+<pause>
+Elwyn:<nl>
+ ......
+<pause>
+<Cless>:<nl>
+ I guess that's a no...
+<pause>
+Elwyn:<nl>
+ We didn't do anything wrong, so
+ the apology's not ours to make.
+ If he's serious about settling
+ this, he should come to US.
+<pause>
+<Cless>:<nl>
+ So, you're at least willing to make
+ up with him?
+<pause>
+Elwyn:<nl>
+ It's just that I think it's sad that a
+ parent and child can break off
+ their relationship with just one
+ fight.
+<pause>
+Elwyn:<nl>
+ So, if he wants to discuss it, I
+ won't refuse.
+<pause>
+<Cless>:<nl>
+ Okay, so you're absolutely okay
+ with us telling him where you are?
+<pause>
+Elwyn:<nl>
+ Yeah, on the condition he's willing
+ to forgive us.{END}"
+"<Cless>
+「マントがある！」
+<pause>
+『旅のお供にレザーマント！
+<speed_0000>　　　　　　　　<speed_00FF>１００ガルド』{END}","<Cless>:<nl>
+ What a nice-looking cape!
+<pause>
+The traveler's companion:
+“Leather Cape!”
+PRICE: 100 gald{END}"
+"<Cless>
+「マントがある！」
+<pause>
+『夜のお供にシーブズマント！
+<speed_0000>　　　　　　　<speed_00FF>２０００ガルド』
+<pause>
+<Cless>
+「夜のお供・・・？」{END}","<Cless>:<nl>
+ What a nice-looking cape!
+<pause>
+The night's companion:
+“Thief's Cape!”
+PRICE: 2000 gald
+<pause>
+<Cless>:<nl>
+ The “night's companion,” huh...?{END}"

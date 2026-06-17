@@ -1,0 +1,124 @@
+トレントの森・深部{END},Depths of Treant Forest{END}
+"<Cless>
+「これがエルフの武器屋さんの言っ
+　ていた神聖な丸太なのか」
+<pause>
+<Chester>
+「たぶんな・・・」
+<pause>
+<Chester>
+「こんなにすごい弓の材料は見た
+　ことないぜ」
+<pause>
+<Cless>
+「これで、弓が強化できるな」
+<pause>
+<Chester>
+「ああ、そうだな」<wait>{END}","<Cless>:<nl>
+ Is this it? That “Sacred Wood” the
+ elven bowsmith mentioned?
+<pause>
+<Chester>:<nl>
+ Dude, just look at it...
+<pause>
+<Chester>:<nl>
+ It's unreal.
+ A bow made from this would
+ be the stuff of legends.
+<pause>
+<Cless>:<nl>
+ And that bow could be yours!
+ Let's take it to the smith!
+<pause>
+<Chester>:<nl>
+ Hell yeah!
+ Now we're talkin'!<wait>{END}"
+<color_0002><item_4400>を手に入れました。<color_0000>{END},<color_0002>Acquired the <item_4400>.<color_0000>{END}
+"<Cless>
+「それじゃあ帰るか」
+<pause>
+<speed_0000><color_0002>すぐ帰りますか？<color_0000><speed_FFFF>{END}","<Cless>:<nl>
+ Should we go back?
+<pause>
+<speed_0000><color_0002>Return to the stone tablet?<color_0000><speed_FFFF>{END}"
+"<color_0002><Klarth>のＴＰがなくなりました。
+<pause>
+このままでは<var_D800>の力を保持できません。<wait>{END}","<color_0002><Klarth> has run out of TP.
+<pause>
+Origin's power cannot be maintained
+for much longer.<wait>{END}"
+"<color_0002><speed_0000>どうしますか？
+１。メニューを開く
+２。石盤まで戻る{END}","<color_0002><speed_0000>What will you do?<nl>
+1. Open the menu<nl>
+2. Return to the stone tablet{END}"
+"ブッシュベイビー
+「帰りたくなっただか？」{END}","Bush Baby:<nl>
+ You wanna go back?{END}"
+"ブッシュベイビー
+「一つの宝箱を取ると他の宝箱は
+　消えてしまうだよ」{END}","Bush Baby:<nl>
+ When you take one treasure,
+ another will vanish.{END}"
+"ブッシュベイビー
+「見えない所に宝箱が置かれてい
+　るかもしれないだよ」{END}","Bush Baby:<nl>
+ There might be treasure chests
+ hidden in unseen places.{END}"
+"ブッシュベイビー
+「僕みたいに人語を話せる仲間が
+　他にもいるだよ」{END}","Bush Baby:<nl>
+ There are others of my kind here
+ who can speak the human tongue.{END}"
+"ブッシュベイビー
+「宝箱はむやみに取らない方がい
+　いかもしれないだよ」{END}","Bush Baby:<nl>
+ I wouldn't go opening treasure
+ chests recklessly.{END}"
+"ブッシュベイビー
+「この森には不思議な魔法がかけ
+　られているだよ」{END}","Bush Baby:<nl>
+ This forest has a mysterious magic
+ cast upon it.{END}"
+"ブッシュベイビー
+「この森の宝は必ず世界のどこか
+　にあるから取り逃しても心配な
+　いだよ」{END}","Bush Baby:<nl>
+ The treasure in this forest is not
+ unique, so don't worry if one
+ escapes you.{END}"
+"ブッシュベイビー
+「森の不思議な力で人の言葉を話
+　せるようになっただよ」{END}","Bush Baby:<nl>
+ It's thanks to the strange power of
+ this forest that we can speak with
+ humans.{END}"
+"ブッシュベイビー
+「この森の宝箱は不思議な力によっ
+　て縛られているだよ」{END}","Bush Baby:<nl>
+ The treasure chests in this forest
+ are bound by the forest's
+ mysterious power.{END}"
+"ブッシュベイビー
+「移動する時は宝箱の取り忘れが
+　ないか注意するだよ」{END}","Bush Baby:<nl>
+ Be careful that you haven't
+ forgotten any treasure chests
+ before you move on.{END}"
+"地蔵
+『ここはトレント奥地入口』{END}","Guardian Deity:<nl>
+ “The heart of Treant this way lies.”{END}"
+"地蔵
+『我は樹海の道しるべ』{END}","Guardian Deity:<nl>
+ “The guide through this sea of
+ trees, are we.”{END}"
+"地蔵
+『東の方角が吉』{END}","Guardian Deity:<nl>
+ “Fortuitous, east is.”{END}"
+"地蔵
+『きっとある、きっとある、お宝
+　さん』{END}","Guardian Deity:<nl>
+ “Near, near! Treasure, treasure!”{END}"
+"地蔵
+『宝は近くにあり』{END}","Guardian Deity:<nl>
+ Getting warmer you are!{END}"

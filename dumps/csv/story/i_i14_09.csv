@@ -1,0 +1,1117 @@
+<color_0002>休みますか？<color_0000>{END},<color_0002>Rest?<color_0000>{END}
+"<unk1><Cless>
+<Mint>、<Mint>！
+敵だ、起きてくれ！！」
+<pause>
+<Mint>
+・・・・・・」
+<pause>
+<Mint>
+何だか気分がすぐれません」
+<pause>
+<Mint>
+船酔いしたようです・・・」
+<pause>
+<Cless>
+<Mint>は戦える状態じゃ
+ないぞ・・・」{END}","<unk1><Cless>:<nl>
+ <Mint>! <Mint>! Get up!
+ We're under attack!
+<pause>
+<Mint>:<nl>
+ ......
+<pause>
+<Mint>:<nl>
+ I'm not feeling well...
+<pause>
+<Mint>:<nl>
+ I think I've become seasick...
+<pause>
+<Cless>:<nl>
+ (Poor <Mint> can't help,
+ being like this...){END}"
+"<Cless>
+「<Arche>、<Arche>！
+　敵だ！起きろ！」
+<pause>
+<Arche>
+「だめぇ〜〜〜・・・」
+<pause>
+<Arche>
+「おなかがいたいぃ〜・・・」
+<pause>
+<Cless>
+「だ、だめだこりゃ<sweat>」{END}","<Cless>:<nl>
+ <Arche>! <Arche>! Get up!
+ There's an attacker on the loose!
+<pause>
+<Arche>:<nl>
+ Noooooo...
+<pause>
+<Arche>:<nl>
+ I feel like I've been kicked upside
+ the head by a thousand horsies...
+<pause>
+<Cless>:<nl>
+ (Guess I'll be getting no help from
+ her<sweat>){END}"
+"<Klarth>
+「ふ、二日酔いだ・・・」
+<pause>
+<Klarth>
+「頭がガンガン痛む・・・」{END}","<Klarth>:<nl>
+ Urgh, hangover...
+<pause>
+<Klarth>:<nl>
+ Head's throbbing...ugh...{END}"
+"船乗り
+「ううぅ、気持ち悪い・・・」
+<pause>
+船乗り
+「船酔いしました・・・」{END}","Sailor:<nl>
+ Ooh, I feel like crap...
+<pause>
+Sailor:<nl>
+ Seasick...{END}"
+"船乗り
+「船長いなかった？」
+<pause>
+船乗り
+「町にでも出かけたかな？」
+<pause>
+船乗り
+「たぶん、すぐに戻ってくるとは
+　思うけど・・・」{END}","Sailor:<nl>
+ Captain wasn't there, huh?
+<pause>
+Sailor:<nl>
+ Perhaps he's gone into town to run
+ some errands?
+<pause>
+Sailor:<nl>
+ He should be back soon if that's the
+ case. I think...{END}"
+"船乗り
+「船長なら、たぶん船長室じゃな
+　いかな？」
+<pause>
+船乗り
+「用があるなら行ってみればいい
+　んじゃないか」{END}","Sailor:<nl>
+ If you can't find the captain on
+ deck, he might be in his quarters.
+<pause>
+Sailor:<nl>
+ Take a look there if you have
+ business with him.{END}"
+"バーテン
+「いらっしゃい」{END}","Bartender:<nl>
+ Welcome, have a seat.{END}"
+"船乗り
+「こう待ってるだけっていうのも
+　退屈だよな」{END}","Sailor:<nl>
+ Something to do would be nice.
+ All this waiting is getting to me.{END}"
+"船乗り
+「のんびり行こうよ、のんびり」{END}","Sailor:<nl>
+ Easy, let's just take it easy...{END}"
+"船乗り
+「よ、何か買わねえか？」{END}","Sailor:<nl>
+ Yo! Wanna buy somethin'?{END}"
+"船乗り
+「どうも！」
+<pause>
+船乗り
+「へっへっへ、いいこづかい稼ぎ
+　だぜ！」{END}","Sailor:<nl>
+ Thanks!
+<pause>
+Sailor:<nl>
+ Heh heh heh, I'm makin' a killin'!{END}"
+"船乗り
+「何か買ってよ」{END}","Sailor:<nl>
+ C'mon, buy somethin'!{END}"
+"船乗り
+「さて、次は何を運ぼうか？」{END}","Sailor:<nl>
+ I wonder what we're gonna be
+ transporting next.
+<pause>
+Sailor:<nl>
+ Sure as hell hope it's not a load as
+ ridiculous as this one... Where are
+ we supposed to eat with all this
+ junk in the way!?{END}"
+"船乗り
+「積荷のチェックをしています」{END}","Sailor:<nl>
+ I'm inspecting the cargo.{END}"
+"船乗り
+「海の男にゃ〜、惚れるなよ〜」{END}","Sailor:<nl>
+ I love...<nl>
+ Being a man...<nl>
+ Of the sea!{END}"
+"船乗り
+「あーもー、仕事がきつすぎるん
+　だよ！！」{END}","Sailor:<nl>
+ Crates, crates, and...guess what?
+ More freaking crates!
+ This job sucks!{END}"
+"船乗り
+「いったい何者なんだよ、あの男
+　は・・・」{END}","Sailor:<nl>
+ What the hell's up with that guy...{END}"
+"船長
+「あ、あんた！<panic>」
+<pause>
+船長
+「は、早くあの男を何とかしてく
+　れ！！<panic>」
+<pause>
+船長
+「人間とは思えない力で暴れ回っ
+　ているんだ！！！<panic>」{END}","Captain:<nl>
+ Y-You! <panic>
+<pause>
+Captain:<nl>
+ F-For the love of all that's holy, do
+ something about that berserker! <panic>
+<pause>
+Captain:<nl>
+ He's your friend, right!?
+ If you don't calm him down, we'll
+ all be swimming with the fishes in
+ no time! <panic>{END}"
+"船乗り
+「ひ〜〜〜、怖いよ〜〜〜」{END}","Sailor:<nl>
+ Heee...I'm scared!
+ Mommyyyyyyyy!{END}"
+"<audio_0B05><Cless>
+「メイアーさん！」
+<pause>
+<audio_0B06><Cless>
+「しっかりするんだ！！」
+<pause>
+<audio_0B07>メイアー
+「た、助けて・・・」{END}","<audio_0B05><Cless>:<nl>
+ Mayer!
+<pause>
+<audio_0B06><Cless>:<nl>
+ Get ahold of yourself!!!
+<pause>
+<audio_0B07>Mayer:<nl>
+ H-Help me...{END}"
+"<audio_0B08><Klarth>
+「<Cless>、大丈夫か！！」
+<pause>
+<audio_0B09><Cless>
+「メイアーさんに魔物がとりつい
+　ていました・・・」
+<pause>
+<audio_0B0A><Klarth>
+「たぶんダオスの側近だな」
+<pause>
+<audio_0B0B><Klarth>
+「アルヴァニスタの内情を知る私
+　達を殺そうとしたんだ」
+<pause>
+<audio_0B0C><Klarth>
+「ところでメイアーは？」{END}","<audio_0B08><Klarth>:<nl>
+ <Cless>, are you all right!?
+<pause>
+<audio_0B09><Cless>:<nl>
+ Like you said, Mayer was being
+ controlled...and by a monster...
+<pause>
+<audio_0B0A><Klarth>:<nl>
+ I suspect it was one of Dhaos'
+ henchmen.
+<pause>
+<audio_0B0B><Klarth>:<nl>
+ It probably wanted to kill us off
+ after Mayer spilled the beans to
+ me about Alvanista last night.
+<pause>
+<audio_0B0C><Klarth>:<nl>
+ How's Mayer doing, anyway?{END}"
+"<audio_0B0D><Klarth>
+「だめか・・・」
+<pause>
+<audio_0B0E><Klarth>
+「これからは私達も、うかうかし
+　ていられないぞ」
+<pause>
+<audio_0B0F><Klarth>
+「存在をダオスに知られてしまっ
+　たからな・・・」{END}","<audio_0B0D><Klarth>:<nl>
+ Didn't make it?
+ Poor guy...
+<pause>
+<audio_0B0E><Klarth>:<nl>
+ Chances are, Dhaos knows about us
+ now...
+<pause>
+<audio_0B0F><Klarth>:<nl>
+ We'll have to be more cautious
+ from here on out.{END}"
+"<audio_0AC3><Klarth>
+「さて・・・」
+<pause>
+<audio_0AC4><Klarth>
+「私達はどこに座るかな・・・」
+<pause>
+<audio_0AC5>？？？
+「よぉ！！」{END}","<audio_0AC3><Klarth>:<nl>
+ Hmm...
+<pause>
+<audio_0AC4><Klarth>:<nl>
+ Looks like all the tables are taken...
+<pause>
+<audio_0AC5>???:<nl>
+ Yo! Over here!!{END}"
+"<audio_0AC6>メイアー
+「どうだ？」
+<pause>
+<audio_0AC7>メイアー
+「一緒に食べないか？」{END}","<audio_0AC6>Mayer:<nl>
+ How 'bout it?
+<pause>
+<audio_0AC7>Mayer:<nl>
+ Why don'tcha join me?
+ Got just enough seats for
+ the lot of ya, too!{END}"
+"<audio_0AC8><Klarth>
+「そうだな、ほかの席も空いてな
+　いみたいだし」{END}","<audio_0AC8><Klarth>:<nl>
+ Don't think we have any other
+ choice.{END}"
+"<audio_0AC9>メイアー
+「酒はどうだい？」
+<pause>
+<audio_0ACA>メイアー
+「いけるくちだろう？」{END}","<audio_0AC9>Mayer:<nl>
+ How 'bout a drink?
+<pause>
+<audio_0ACA>Mayer:<nl>
+ You're good for a pint, yeah?{END}"
+"<audio_0ACB><Klarth>
+「いいねぇ〜！」<wait>{END}","<audio_0ACB><Klarth>:<nl>
+ Hahah! Only if you're paying!<wait>{END}"
+"<audio_0ACC>メイアー
+「偶然の出会いにカンパイ！」
+<pause>
+<audio_0ACD><Klarth>
+「カンパーイ！」{END}","<audio_0ACC>Mayer:<nl>
+ Cheers to our chance encounter!
+<pause>
+<audio_0ACD><Klarth>:<nl>
+ CHEEEERS!{END}"
+"<audio_0ACE>メイアー
+「おーい、どんどん持って来てく
+　れぇ〜」{END}","<audio_0ACE>Mayer:<nl>
+ Heeey, waiter!
+ Keep 'em coming!{END}"
+<speed_0002>　　　　一時間後・・・{END}, <speed_0002>One hour later...{END}
+"<audio_0ACF><Cless>
+「この二人、いつまで飲んでるん
+　だろう？<sweat>」{END}","<audio_0ACF><Cless>:<nl>
+ They just keep chugging and
+ chugging...<sweat>{END}"
+<speed_0002>　　　　ニ時間後・・・{END}, <speed_0002>Two hours later...{END}
+"<audio_0AD0><Cless>
+「<Arche>、大丈夫かな？<sweat>」{END}","<audio_0AD0><Cless>:<nl>
+ Hey, <Arche>!
+ Are you still with us?<sweat>{END}"
+<speed_0002>　　　　三時間後・・・{END}, <speed_0002>Three hours later...{END}
+"<audio_0AD1>メイアー
+「でな、苦労して探し出した宝箱
+　を開けてみたら、底が抜けてい
+　たっていうわけよ！」
+<pause>
+<audio_0AD2><Klarth>
+「はっはっはっは」
+<pause>
+<audio_0AD3><Klarth>
+「そりゃあケッサクだ！！」{END}","<audio_0AD1>Mayer:<nl>
+ ...and then we fffinally found that
+ elusive chest. It turned out that the
+ damn thing wasn't jusht empty--it
+ had no b-bottom to begin with!
+<pause>
+<audio_0AD2><Klarth>:<nl>
+ HAH HAH HAH HAH!
+<pause>
+<audio_0AD3><Klarth>:<nl>
+ Ahhh! Man, th-that's p-priceless!{END}"
+"<audio_0AD4>メイアー
+「ところで・・・」
+<pause>
+<audio_0AD5><Klarth>
+「ところで？」
+<pause>
+<audio_0AD6>メイアー
+「ここだけの話なんだが・・・」
+<pause>
+<audio_0AD7><Klarth>
+「なんだぁ？」<wait>{END}","<audio_0AD4>Mayer:<nl>
+ Hah! Gotta say, I lllike ya brother,
+ so I'll t-tell ya...
+<pause>
+<audio_0AD5><Klarth>:<nl>
+ Yyyeah?
+<pause>
+<audio_0AD6>Mayer:<nl>
+ Jusht between ush y'know...
+<pause>
+<audio_0AD7><Klarth>:<nl>
+ Huh? Wwwhudizzit?<wait>{END}"
+"<audio_0AD8><Klarth>
+「もったいぶらずに、言ってみろ
+　よ・・・」
+<pause>
+<audio_0AD9>メイアー
+「俺は実はモーリア坑道に行くの
+　が目的じゃないんだ」
+<pause>
+<audio_0ADA><Klarth>
+「何だって？」<wait>{END}","<audio_0AD8><Klarth>:<nl>
+ C'mon, youuu can tell your p-pal,
+ <Klarth>...
+<pause>
+<audio_0AD9>Mayer:<nl>
+ M'not g-goin' to Mmmoria.
+<pause>
+<audio_0ADA><Klarth>:<nl>
+ Sssay what?<wait>{END}"
+"<Arche>
+「はう〜〜〜！」<wait>{END}","<Arche>:<nl>
+ Ooooohh!<wait>{END}"
+"<Arche>
+「だめよぉ<Cless>・・・」<wait>{END}","<Arche>:<nl>
+ Don't do that, <Cless>...<wait>{END}"
+"<Arche>
+「そんなトコ触っちゃ・・・」{END}","<Arche>:<nl>
+ No touching allowed...{END}"
+"<audio_0ADE>メイアー
+「俺の本当の目的は・・・」
+<pause>
+<audio_0ADF>メイアー
+「冒険者ギルドの知り合いを通じ
+　て・・・」
+<pause>
+<audio_0AE0>メイアー
+「アルヴァニスタに関する秘密の
+　情報を売りに行くことなんだ」
+<pause>
+<audio_0AE1><Klarth>
+「情報？」
+<pause>
+<audio_0AE2>メイアー
+「そうさ」
+<pause>
+<audio_0AE3>メイアー
+「一見、平和に見えるアルヴァニ
+　スタだが・・・」
+<pause>
+<audio_0AE4>メイアー
+「実は、もうほとんどダオスに支
+　配されているようなもんだって
+　いう話なんだ」
+<pause>
+<audio_0AE5><Klarth>
+「何だって！？」
+<pause>
+<audio_0AE6><Klarth>
+「どうして？」
+<pause>
+<audio_0AE7>メイアー
+「ここが重要なんだが・・・」
+<pause>
+<audio_0AE8>メイアー
+「アルヴァニスタ王国で唯一の跡
+　取りである・・・」
+<pause>
+<audio_0AE9>メイアー
+「レアード王子がダオスの側近の
+　操り人形になっているらしいん
+　だ・・・」
+<pause>
+<audio_0AEA>メイアー
+「東方の大国ミッドガルズに匹敵
+　するアルヴァニスタが表立って
+　ダオスと争わない・・・」
+<pause>
+<audio_0AEB>メイアー
+「いや、争えないのは、裏にそう
+　いう理由があるからなのさ」<wait>{END}","<audio_0ADE>Mayer:<nl>
+ Ummm, yyyeah, uhhhh...ssso...
+<pause>
+<audio_0ADF>Mayer:<nl>
+ I got thish...y'know, c-contact in
+ the Adventurer's Guild...
+<pause>
+<audio_0AE0>Mayer:<nl>
+ ...an' I got some info I can sell
+ fer a FAT sssack of g-gald.
+ Like top secret shtuff y'know?
+<pause>
+<audio_0AE1><Klarth>:<nl>
+ Hey, don't t-tease me, bro!
+<pause>
+<audio_0AE2>Mayer:<nl>
+ Thish ish g-g-gonna blow yer mind!
+<pause>
+<audio_0AE3>Mayer:<nl>
+ Alvanista seems all rrright...on the
+ surface, y'know?
+<pause>
+<audio_0AE4>Mayer:<nl>
+ But thing is...the thing is...Dhaos has
+ been, y'know, influencin' shtuff
+ behind the scenes, an' the place is
+ jusht 'bout under hish thumb.
+<pause>
+<audio_0AE5><Klarth>:<nl>
+ What!?
+<pause>
+<audio_0AE6><Klarth>:<nl>
+ Hhhowzzat?
+<pause>
+<audio_0AE7>Mayer:<nl>
+ Lishen, my mmman...
+<pause>
+<audio_0AE8>Mayer:<nl>
+ The prince...wasshisname?...Laird,
+ yeah, is the only heir, rrright...?
+<pause>
+<audio_0AE9>Mayer:<nl>
+ I jusht g-got some pr-proof that
+ he's bein' con-controlled by one of
+ them monshters that worksh for
+ Dhaosh.
+<pause>
+<audio_0AEA>Mayer:<nl>
+ I mean, why d'ya think Alvanishta
+ won't lift a finger 'gainsht him?
+ They jusht as powerful as Midgard,
+ ain't they?
+<pause>
+<audio_0AEB>Mayer:<nl>
+ 'M tellin' ya, makesh perfect sensh,
+ don'tcha think?<wait>{END}"
+"<audio_0AEC><Klarth>
+「おどろいたな・・・」<wait>{END}","<audio_0AEC><Klarth>:<nl>
+ That'sh...unbelievable...<wait>{END}"
+"<Arche>
+「あい〜〜〜」<wait>{END}","<Arche>:<nl>
+ Come oooon...<wait>{END}"
+"<unk1><Arche>
+<Cless>、ダメ、
+ダメだってばぁ〜」{END}","<unk1><Arche>:<nl>
+ Hands off, hands off already...{END}"
+"<audio_0AEF>メイアー
+「と、とにかく、このことは絶対
+　秘密にしておいてくれよ」
+<pause>
+<audio_0AF0>メイアー
+「さてとそんじゃ、そろそろお開
+　きにするか・・・」
+<pause>
+<audio_0AF1><Klarth>
+「そうだな・・・」{END}","<audio_0AEF>Mayer:<nl>
+ A-Anyway, yer gonna k-keep that
+ to yyyerself, eh brother?
+<pause>
+<audio_0AF0>Mayer:<nl>
+ Whew...'m smashed.
+ Gotta fffind a place to crash
+ that ain't the fffloor...
+<pause>
+<audio_0AF1><Klarth>:<nl>
+ You do th-that...{END}"
+"<unk1><audio_0AF2><Klarth>
+<Arche>、そんな所で寝ると風邪をひくぞ」<wait>{END}","<unk1><audio_0AF2><Klarth>:<nl>
+ T-Time to go, <Arche>...<nl>
+ You'll be sneezing fffor a week if
+ you sleep with your face planted in
+ a p-p-puddle of b-booze...<wait>{END}"
+"<Arche>
+「<Cless>のばかぁ・・・」<wait>{END}","<Arche>:<nl>
+ You can be such a naughty boy,
+ <Cless>...<wait>{END}"
+"<audio_0AF4><Klarth>
+「いったい、どういう夢を見てる
+　んだか<sweat>」{END}","<audio_0AF4><Klarth>:<nl>
+ Do I rrreally want to kn-know
+ jusht what the h-h-hell you're
+ dreaming about?<sweat>{END}"
+"<audio_0AF5><Klarth>
+「よっこいしょ・・・」{END}","<audio_0AF5><Klarth>:<nl>
+ C-C'mon k-kid, up you gooo...{END}"
+<color_0002><speed_0001><Arche>は『<var_A901>』の称号を得ました。<color_0000>{END},"<color_0002><speed_0001><Arche> has earned the title
+“<var_A901>.”<color_0000>{END}"
+"<audio_0AF6><Klarth>
+「ほら<Arche>、着いたぞ」<wait>{END}","<audio_0AF6><Klarth>:<nl>
+ Look, <Arche>: a...a rrreal bed.<wait>{END}"
+"<Arche>
+「ふわぁ〜い・・・」{END}","<Arche>:<nl>
+ Yawwwwn... M'kay, g'night...{END}"
+"<audio_0AF8><Cless>
+「あっ、メイアーさん、おはよう
+　ございます」
+<pause>
+<audio_0AF9><Cless>
+「どうしたんですか？」
+<pause>
+<audio_0AFA>メイアー
+「・・・・・・」<wait>{END}","<audio_0AF8><Cless>:<nl>
+ Oh, good morning, Mayer.
+<pause>
+<audio_0AF9><Cless>:<nl>
+ Can I help you?
+<pause>
+<audio_0AFA>Mayer:<nl>
+ ......<wait>{END}"
+"<audio_0AFB><Klarth>
+「<Cless>、危ない！！」{END}","<audio_0AFB><Klarth>:<nl>
+ <Cless>, lllook o-out!!{END}"
+"<audio_0AFC><Cless>
+「<Klarth>さん、何を！？」{END}","<audio_0AFC><Cless>:<nl>
+ <Klarth>, what did y--{END}"
+"<audio_0AFD><Klarth>
+「<Cless>、外だ！」
+<pause>
+<audio_0AFE><Klarth>
+「メイアーは操られているんだ」{END}","<audio_0AFD><Klarth>:<nl>
+ C'mon <Cless>, o-outside!
+<pause>
+<audio_0AFE><Klarth>:<nl>
+ I think...ugh...h-he's being
+ controlled...{END}"
+"<unk1><audio_0AFF><Cless>
+<Klarth>さん、
+大丈夫ですか！？」
+<pause>
+<audio_0B00><Klarth>
+うう・・・」
+<pause>
+<audio_0B01><Klarth>
+頭がいたい・・・」
+<pause>
+<audio_0B02><Klarth>
+完全に、二日酔いだ・・・」
+<pause>
+<audio_0B03><Cless>
+<Klarth>さんは休んでいて下さい」<wait>{END}","<unk1><audio_0AFF><Cless>:<nl>
+ <Klarth>, are you okay!?
+<pause>
+<audio_0B00><Klarth>:<nl>
+ Ugh...
+<pause>
+<audio_0B01><Klarth>:<nl>
+ H-Head's p-pounding...
+<pause>
+<audio_0B02><Klarth>:<nl>
+ Hangover of my lllife...
+<pause>
+<audio_0B03><Cless>:<nl>
+ Get better, <Klarth>.<wait>{END}"
+"<audio_0B04><Cless>
+「僕が行きます！！」{END}","<audio_0B04><Cless>:<nl>
+ I'll handle this!!{END}"
+"<audio_0AA0><Arche>
+「潮風が気持ちいいね〜」
+<pause>
+<audio_0AA1><Mint>
+「そうですね」{END}","<audio_0AA0><Arche>:<nl>
+ Ooohh, the sea breeze feels so
+ lovely!
+<pause>
+<audio_0AA1><Mint>:<nl>
+ Doesn't it?{END}"
+"<unk1><audio_0AA2><Klarth>
+<Cless>、お前どっちをねらってるんだ？」<wait>{END}","<unk1><audio_0AA2><Klarth>:<nl>
+ Sooo... Which one's your type,
+ <Cless>?<wait>{END}"
+"<unk1><audio_0AA3><Cless>
+えっ、何のことですか？」
+<pause>
+<audio_0AA4><Klarth>
+<Mint>と<Arche>のことさ」
+<pause>
+<audio_0AA5><Klarth>
+<Mint>は清楚で落ち着きがあっていいが・・・」
+<pause>
+<audio_0AA6><Klarth>
+<Arche>は<Arche>で捨てがたい魅力がある」<wait>{END}","<unk1><audio_0AA3><Cless>:<nl>
+ W-What are you talking about?
+<pause>
+<audio_0AA4><Klarth>:<nl>
+ <Mint> and <Arche>.
+ What else?
+<pause>
+<audio_0AA5><Klarth>:<nl>
+ <Mint>'s lovely. So very
+ elegant, wouldn't you
+ say? But...
+<pause>
+<audio_0AA6><Klarth>:<nl>
+ There's just something so... vivacious...about <Arche>.<nl>
+ If you know what I mean.<wait>{END}"
+"<audio_0AA7><Cless>
+「ちょ、ちょっと！」
+<pause>
+<audio_0AA8><Cless>
+「僕はまだそんなこと・・・」
+<pause>
+<audio_0AA9><Klarth>
+「またまた・・・」
+<pause>
+<audio_0AAA><Klarth>
+「私の好みで言わせてもらえばだ
+　なぁ・・・」
+<pause>
+<audio_0AAB><Cless>
+「<Klarth>さん！<panic>」
+<pause>
+{END}","<audio_0AA7><Cless>:<nl>
+ W-Wait a minute!
+<pause>
+<audio_0AA8><Cless>:<nl>
+ I'm not thinking about them like
+ that!
+<pause>
+<audio_0AA9><Klarth>:<nl>
+ Oh, really? Well...
+<pause>
+<audio_0AAA><Klarth>:<nl>
+ If it was my choice, I'd be all
+ over--
+<pause>
+<audio_0AAB><Cless>:<nl>
+ <Klarth>! <panic>
+ I can't believe you! <panic>
+<pause>
+{END}"
+"<unk1><audio_0AAC><Cless>
+だいたい<Klarth>さんには
+ミラルドさんがいるじゃない
+ですか！」<wait>{END}","<unk1><audio_0AAC><Cless>:<nl>
+ You already have Mirald, don't
+ you!?<wait>{END}"
+"<audio_0AAD><Klarth>
+「ば、ばかなことを！<panic>」
+<pause>
+<audio_0AAE><Klarth>
+「あいつはただの助手だ！」
+<pause>
+<audio_0AAF><Cless>
+「え〜、本当ですか？」<wait>{END}","<audio_0AAD><Klarth>:<nl>
+ Wh-Wha-what!?
+ That's the stupidest...! <panic>
+<pause>
+<audio_0AAE><Klarth>:<nl>
+ Listen! She's nothing more than my
+ assistant!
+<pause>
+<audio_0AAF><Cless>:<nl>
+ Oh, really? What does she assist
+ you with again?<wait>{END}"
+"<audio_0AB0><Arche>
+「ねぇねぇ、さっきから何の話を
+　してるのさ？」
+<pause>
+<audio_0AB1><Klarth>
+「なっ、何でもない」
+<pause>
+<audio_0AB2><Klarth>
+「うん、君達には関係ない、何で
+　もない話さ」
+<pause>
+<audio_0AB3><Arche>
+「あ〜、聞きた〜い！」{END}","<audio_0AB0><Arche>:<nl>
+ Hey, hey, what'cha guys talkin'
+ about?
+<pause>
+<audio_0AB1><Klarth>:<nl>
+ Th-This and that!
+<pause>
+<audio_0AB2><Klarth>:<nl>
+ Basically...ahem...nothing that
+ concerns you!
+<pause>
+<audio_0AB3><Arche>:<nl>
+ Awww! Tell me! Tell me!{END}"
+"<audio_0AB4>？？？
+「あんたら、冒険者か？」
+<pause>
+<audio_0AB5><Klarth>
+「まあそんな所だが、あんたもか
+　い？」
+<pause>
+<audio_0AB6>？？？
+「俺はメイアー、流れの剣士さ」
+<pause>
+<audio_0AB7><Klarth>
+「傭兵志願か？」
+<pause>
+<audio_0AB8>メイアー
+「違うよ、モーリア坑道を探索し
+　に行くんだ」
+<pause>
+<audio_0AB9><Cless>
+「モーリア坑道に？」
+<pause>
+<audio_0ABA>メイアー
+「ドワーフ族の鉱山跡さ」
+<pause>
+<audio_0ABB>メイアー
+「名前くらいは聞いたことがある
+　だろう？」
+<pause>
+<audio_0ABC>メイアー
+「今はアルヴァニスタの許可がな
+　いと入れないけどな」
+<pause>
+<audio_0ABD><Klarth>
+「許可は取れそうなのか？」
+<pause>
+<audio_0ABE>メイアー
+「一応な、冒険者ギルドに知り合
+　いがいるんでね」
+<pause>
+<audio_0ABF>メイアー
+「そろそろ腹が減ってきたな、ぼ
+　ちぼちメシの時間だろう」
+<pause>
+<audio_0AC0>メイアー
+「それじゃあ、俺はこれで」{END}","<audio_0AB4>???:<nl>
+ Hey, are you guys by chance
+ adventurers?
+<pause>
+<audio_0AB5><Klarth>:<nl>
+ Something like that.
+ How about you?
+<pause>
+<audio_0AB6>???:<nl>
+ Just a poor, wandering swordsman.
+ Mayer's the name.
+<pause>
+<audio_0AB7><Klarth>:<nl>
+ So you're a mercenary out on a
+ job hunt?
+<pause>
+<audio_0AB8>Mayer:<nl>
+ Nahhh, I've got my sights set on
+ exploring the Moria Mine over in
+ Alvanista.
+<pause>
+<audio_0AB9><Cless>:<nl>
+ The...Moria Mine?
+<pause>
+<audio_0ABA>Mayer:<nl>
+ It's the remains of an ancient
+ dwarven ore mine.
+<pause>
+<audio_0ABB>Mayer:<nl>
+ This the first time you've heard of
+ it?
+<pause>
+<audio_0ABC>Mayer:<nl>
+ Well, anyway, the guards there
+ won't let you so much as look
+ inside the place without a permit
+ from Alvanista.
+<pause>
+<audio_0ABD><Klarth>:<nl>
+ Will you be able to get one?
+<pause>
+<audio_0ABE>Mayer:<nl>
+ Shouldn't be a problem.
+ My pals in the Adventurer's Guild
+ should make getting that painless.
+<pause>
+<audio_0ABF>Mayer:<nl>
+ Hey, I'm gettin' kind of hungry.
+ Think I'm gonna go inside and get
+ me some grub.
+<pause>
+<audio_0AC0>Mayer:<nl>
+ We should trade stories later, all
+ right? See ya!{END}"
+"<audio_0AC1><Arche>
+「・・・なんか、あたしもおなか
+　すいちゃったよ」
+<pause>
+<audio_0AC2><Klarth>
+「私達も食事に行くか」{END}","<audio_0AC1><Arche>:<nl>
+ ...Come to think of it, my tummy's
+ growling like a lion.
+<pause>
+<audio_0AC2><Klarth>:<nl>
+ Mmm... Well, it's about dinnertime
+ anyway. Let's grab a bite for
+ ourselves.{END}"
+"<audio_0FC8><Cless>
+「船長、この辺りでいいです」
+<pause>
+<audio_0FC9>船長
+「本当にここでいいのか？」
+<pause>
+<audio_0FCA><Klarth>
+「ああ、後は海中に潜るだけだか
+　らな・・・」
+<pause>
+<audio_0FCB><Klarth>
+「世話になったな」
+<pause>
+<audio_0FCC>船長
+「いや、いいってことよ」
+<pause>
+<audio_0FCD><Klarth>
+「よし、それじゃあ<var_D000>
+　を召喚するぞ」{END}","<audio_0FC8><Cless>:<nl>
+ This is the place, Captain.
+<pause>
+<audio_0FC9>Captain:<nl>
+ Here? You've got to be kidding...<nl>
+ Are you guys committing suicide?
+<pause>
+<audio_0FCA><Klarth>:<nl>
+ Nope. We're just going for a little
+ trip under the sea...
+<pause>
+<audio_0FCB><Klarth>:<nl>
+ Anyway, we're indebted to you for
+ all you've done for us, Captain.
+<pause>
+<audio_0FCC>Captain:<nl>
+ Nah, don't mention it...
+<pause>
+<audio_0FCD><Klarth>:<nl>
+ Well, this is it.
+ Come forth, Maiden of Mist!{END}"
+"<audio_0FCE><var_D000>
+「我が主よ、用件は何か？」
+<pause>
+<audio_0FCF><Klarth>
+「水の精霊<var_D000>よ」
+<pause>
+<audio_0FD0><Klarth>
+「私達を海底深くに沈んでいる、
+　超古代都市トールまで導いてほ
+　しい」
+<pause>
+<audio_0FD1><var_D000>
+「承知した」{END}","<audio_0FCE>Undine:<nl>
+ What do you require of me, my
+ master?
+<pause>
+<audio_0FCF><Klarth>:<nl>
+ Spirit of Water, Undine!
+<pause>
+<audio_0FD0><Klarth>:<nl>
+ Please guide us to the ancient city
+ of Thor, which sleeps in the depths
+ of the waters beneath us.
+<pause>
+<audio_0FD1>Undine:<nl>
+ As you command.{END}"
+"<audio_0FD2><var_D000>
+「この泡の中に入るがよい」{END}","<audio_0FD2>Undine:<nl>
+ This bubble shall provide you with
+ safe passage to the sunken
+ metropolis. Step inside.{END}"
+"<audio_0FD3>船長
+「何か不思議な連中だったな」<wait>{END}","<audio_0FD3>Captain:<nl>
+ They sure were a strange bunch.<wait>{END}"
+"<audio_0FD4>船長
+「よし、お前ら、引き上げだ！」{END}","<audio_0FD4>Captain:<nl>
+ All right, men!
+ Raise the anchor!{END}"
+"<audio_15F4><Arche>
+「船の旅っていいよねぇ〜」
+<pause>
+<audio_15F5><Arche>
+「潮風が気持ちいい〜」{END}","<audio_15F4><Arche>:<nl>
+ Wow, I love traveling by ship!
+<pause>
+<audio_15F5><Arche>:<nl>
+ Nothing beats the sea breeze!{END}"
+"<audio_15F6><Mint>
+「みなさん、聞いて下さい」
+<pause>
+<audio_15F7><Cless>
+「どうしたの？」
+<pause>
+<audio_15F8><Mint>
+「ユグドラシルを復活させる方法
+　を考えていました」
+<pause>
+<audio_15F9><Mint>
+「私の法術でなんとかならないか
+　と・・・」
+<pause>
+<audio_15FA><Mint>
+「でも、今の私の力ではどうする
+　こともできません」
+<pause>
+<audio_15FB><Klarth>
+「それで？」
+<pause>
+<audio_15FC><Mint>
+「ユニコーンの力を借りようと思
+　います」
+<pause>
+<audio_15FD><Cless>
+「ユニコーン？」
+<pause>
+<audio_15FE><Mint>
+「ユニコーンは法術師の証し」
+<pause>
+<audio_15FF><Mint>
+「この世界のどこかにいるはずで
+　す」
+<pause>
+<audio_1600><Klarth>
+「しかし・・・」
+<pause>
+<audio_1601><Klarth>
+「ユニコーンに会えたとしても、
+　そう都合よく力を貸してくれる
+　だろうか？」<wait>{END}","<audio_15F6><Mint>:<nl>
+ Everyone, please listen.
+ I have something important to say.
+<pause>
+<audio_15F7><Cless>:<nl>
+ Go on...
+<pause>
+<audio_15F8><Mint>:<nl>
+ I have been thinking about a means
+ of revitalizing Yggdrasill.
+<pause>
+<audio_15F9><Mint>:<nl>
+ Perhaps my clerical artes might be
+ one way...
+<pause>
+<audio_15FA><Mint>:<nl>
+ ...but I'm simply not powerful
+ enough to handle it alone.
+<pause>
+<audio_15FB><Klarth>:<nl>
+ Oh?
+<pause>
+<audio_15FC><Mint>:<nl>
+ Maybe if we borrowed the power
+ of the unicorn...
+<pause>
+<audio_15FD><Cless>:<nl>
+ The what?
+<pause>
+<audio_15FE><Mint>:<nl>
+ The unicorn.
+ It is the embodiment of
+ my Order's power.
+<pause>
+<audio_15FF><Mint>:<nl>
+ I believe it exists somewhere in
+ this world.
+<pause>
+<audio_1600><Klarth>:<nl>
+ Hmm...
+<pause>
+<audio_1601><Klarth>:<nl>
+ So if we meet this unicorn of
+ yours, it'll just gleefully hand over
+ whatever it is we need and let us
+ go on our merry way?<wait>{END}"
+"<audio_1602><Mint>
+「それは・・・わかりません」
+<pause>
+<audio_1603><Mint>
+「わかりませんが・・・」
+<pause>
+<audio_1604><Cless>
+「今はそれしか頼れないってこと
+　なんだね」
+<pause>
+<audio_1605><Cless>
+「<Mint>行こうよ」
+<pause>
+<audio_1606><Cless>
+「ユニコーンを捜しに、きっと見
+　つかるよ」<wait>{END}","<audio_1602><Mint>:<nl>
+ That...I don't know.
+<pause>
+<audio_1603><Mint>:<nl>
+ I really don't know...
+<pause>
+<audio_1604><Cless>:<nl>
+ Well, don't worry about it.
+ Clerical artes are probably our only
+ hope of pulling this off.
+<pause>
+<audio_1605><Cless>:<nl>
+ Come on, <Mint>!
+<pause>
+<audio_1606><Cless>:<nl>
+ Let's go out and look for the
+ unicorn! Even if we have to search
+ the four corners of the world, I
+ know we'll find it together!<wait>{END}"
+"<audio_1607><Mint>
+「<Cless>さん、・・・」
+<pause>
+<audio_1608><Mint>
+「ありがとうございます」
+<pause>
+<audio_1609><Klarth>
+「そうと決まれば早速行動だな」{END}","<audio_1607><Mint>:<nl>
+ <Cless>...
+<pause>
+<audio_1608><Mint>:<nl>
+ Thank you so much.
+<pause>
+<audio_1609><Klarth>:<nl>
+ Well, if that's the plan, then there's
+ no point in sticking around here
+ any longer.{END}"
+"<unk1><audio_1776><Cless>
+<Klarth>さん、
+僕はいったい・・・」<wait>{END}","<unk1><audio_1776><Cless>:<nl>
+ <Klarth>, what happened...?<wait>{END}"
+"<audio_1777><Klarth>
+「メイアーにとりついていた魔物
+　にやられたんだ」
+<pause>
+<audio_1778><Klarth>
+「でも、もう大丈夫だ」
+<pause>
+<audio_1779><Cless>
+「メイアーさんは？」{END}","<audio_1777><Klarth>:<nl>
+ Mayer was being controlled by a
+ monster.
+<pause>
+<audio_1778><Klarth>:<nl>
+ It knocked you out, but we took
+ care of it.
+<pause>
+<audio_1779><Cless>:<nl>
+ Mayer...how is he doing?{END}"
+"<audio_177A><Cless>
+「そうですか・・・」
+<pause>
+<audio_177B><Klarth>
+「これからは私達も、うかうかし
+　ていられないぞ」
+<pause>
+<audio_177C><Klarth>
+「存在をダオスに知られてしまっ
+　たからな・・・」{END}","<audio_177A><Cless>:<nl>
+ Oh...oh no...how awful...
+<pause>
+<audio_177B><Klarth>:<nl>
+ It may be that Dhaos knows about
+ us...
+<pause>
+<audio_177C><Klarth>:<nl>
+ We can't be so careless from here
+ on out.{END}"

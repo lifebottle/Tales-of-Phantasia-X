@@ -1,0 +1,379 @@
+Zodiac Tower (<num5_000040A0>F){END}
+
+“I desire a song of melancholy,
+sung by one not human.”{END}
+
+“I desire a song of happiness,
+sung by one not human.”{END}
+
+“I desire a song of serenity,
+sung by one not human.”{END}
+
+“I desire a song of valor,
+sung by one not human.”{END}
+
+<Arche>
+ Doesn't this design kinda reminds
+ you guys of the constellations?<wait>{END}
+
+<Arche>
+ Oh, hey!
+ It says here in Elven that “Those
+ not in possession of the moon
+ fragment shall be deprived of
+<pause>
+ entry.”<wait>{END}
+
+<Cless>
+ Huh!?
+<pause>
+<Cless>
+ You mean we need to fly to one of
+ the moons now!?<wait>{END}
+
+<Arche>
+ ......<wait>{END}
+
+<Arche>
+ No, you silly billy.
+ It just means we'll have
+ to come back later.<wait>{END}
+
+<Cless>
+ Oh...{END}
+
+<Cless>
+ It seems to be sealed by some kind
+ of power.{END}
+
+<color_0002>Flip the switch?<color_0000>{END}
+
+<Cless>
+ Nothing's happening.{END}
+
+<Cless>
+ Is she...
+<pause>
+<Cless>
+ ...a spirit?<wait>{END}
+
+???
+ I am the Spirit of the Moon.
+ My name is <var_D400>.
+<pause>
+<var_D400>
+ Artemis has caused you all some
+ undue trouble, has he not?
+<pause>
+<Cless>
+ The crest he took is very important
+ to us.
+<pause>
+<var_D400>
+ You may have it back.{END}
+
+<color_0002>The Royal Crest of Alvanista was
+returned.<color_0000>{END}
+
+<Cless>
+ Thank you.
+<pause>
+<var_D400>
+ I sincerely apologize that this
+ happened, but I hope you can
+ forgive Artemis.
+<pause>
+<var_D400>
+ He enjoys putting on mischievous
+ acts, but he actually has a heart of
+ gold.
+<pause>
+<Cless>
+ You returned our crest.
+<pause>
+<Cless>
+ I have no reason to hold a grudge
+ against him anymore.
+<pause>
+<var_D400>
+ Thank you very much.<wait>{END}
+
+???
+ I am <var_D400>, Spirit of the Moon.
+<pause>
+<var_D400>
+ Do you have some business with
+ me?<wait>{END}
+
+<Klarth>
+ I seek a summoning pact with you.
+<pause>
+<Klarth>
+ Your power is of chief importance
+ in our journey to overthrow Dhaos
+ and reestablish peace unto the
+ world.
+<pause>
+<var_D400>
+ ......
+<pause>
+<Klarth>
+ We can prove our worth if you
+ wish.
+<pause>
+<var_D400>
+ No. I have no desire to fight,
+ regardless of opponent.
+<pause>
+<var_D400>
+ However, for the sake of the
+ world...
+<pause>
+<var_D400>
+ I shall aid you without hesitation.
+<pause>
+<Klarth>
+ Really!?
+ You honor us.
+<pause>
+<Cless>
+ Thank you for your understanding,
+ <var_D400>.
+<pause>
+<Klarth>
+ Now, let's ready ourselves for the
+ pact.
+<pause>
+<Klarth>
+ <Cless>, and everyone
+ else, stand back.
+<pause>
+<var_D400>
+ Artemis, you can hear me, yes?
+<pause>
+<var_D400>
+ I must go with them.
+<pause>
+<var_D400>
+ I know being alone must be
+ difficult, but do not falter...
+<pause>
+<var_D400>
+ Now, bring the Moonstone ring
+ forward...{END}
+
+<Klarth>
+ Here and now, I offer my request
+ to the Spirit of the Moon.
+<pause>
+<Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon <var_D400>.<color_0000>{END}
+
+???
+ HEEEY!!
+ Who're YOU!?<wait>{END}
+
+???
+ The room just up these stairs
+ belongs to my big sister, <var_D400>!!
+<pause>
+???
+ You can't just waltz in there
+ anytime you like!!{END}
+
+Artemis
+ What, you people again?<wait>{END}
+
+<Klarth>
+ Would you please let us pass?
+<pause>
+<Klarth>
+ We have important business with
+ <var_D400>.<wait>{END}
+
+<Cless>
+ Wh-what the?
+<pause>
+???
+ Oh, it's you guys, huh?
+<pause>
+<Arche>
+ Hey, it's that bug freak we met in
+ Midgard!
+<pause>
+???
+ I am not a bug, dammit!!<wait>{END}
+
+<Cless>
+ Wh-what the?<wait>{END}
+
+???
+ I'm <var_D400>'s attendant, the faerie
+ Artemis!
+<pause>
+<Klarth>
+ Y-you're a faerie!?
+<pause>
+<Mint>
+ I thought they existed only in
+ legends.
+<pause>
+<Klarth>
+ Faeries are ancient beings with
+ incredible life spans.
+<pause>
+<Klarth>
+ They were said to have gone
+ extinct during the war that
+ ended the Age of Antiquity.
+ To think some have survived!
+<pause>
+Artemis
+ Hmph!
+<pause>
+Artemis
+ Whaddya take me for!?
+ Only a blockhead would croak
+ from something as puny as that!
+<pause>
+Artemis
+ But that doesn't matter!
+ There's no way I'm letting
+ you through.
+<pause>
+<Klarth>
+ Th-this is important!
+ Surely there's something we can do
+ to make you change your mind...<wait>{END}
+
+Artemis
+ Hmmm, well then...
+ You know, I've really got a
+ thing for the...heh, “energetic”
+ type of girl.
+<pause>
+Artemis
+ Bring one here, and I'll let you
+ pass.
+<pause>
+Artemis
+ So long!{END}
+
+<Klarth>
+ Damn little brat!{END}
+
+Artemis
+ Sis...{END}
+
+Artemis
+ Hmm, maybe...<wait>{END}
+
+Artemis
+ Well, if someone smooches that
+ pink-haired cutie, then I'll...think
+ about it.<wait>{END}
+
+Artemis
+ And if I get to do it, all the better!<wait>{END}
+
+<Arche>
+ You talkin' about me?{END}
+
+<Cless>
+ Uh, <Arche>?
+<pause>
+<Cless>
+ Y-you're not seriously
+ thinking of...!<panic><wait>{END}
+
+<Arche>
+ Aw, don't be bashful now<heart>
+ It's to meet <var_D400>, right?
+ So, man up<heart>
+<pause>
+<Cless>
+ B-but...!<panic><wait>{END}
+
+<Arche>
+ Argh, c'mon! You don't have to act
+ like it's such a big deal. You're not
+ twelve anymore, you know!<wait>{END}
+
+<Cless>
+ Th-that's not the problem!<panic><wait>{END}
+
+<Arche>
+ Oh, just shut up and do it!
+ Here I come!<heart>{END}
+
+<Mint>
+ No! Stop!<wait>{END}
+
+<Arche>
+ But why?<wait>{END}
+
+<Mint>
+ A kiss...
+<pause>
+<Mint>
+ ...is not something to treat so
+ lightly!<wait>{END}
+
+<Arche>
+ Well, being a prude right now isn't
+ gonna get us any closer to <var_D400>.<wait>{END}
+
+<Mint>
+ Y-you mustn't, no matter the
+ reason!{END}
+
+???
+ Artemis, cease your childish pranks.<wait>{END}
+
+Artemis
+ Feh...
+ Okayyyyy...
+<pause>
+<Klarth>
+ Wh-who's that?
+<pause>
+???
+ Artemis, will you please give them
+ that old spell book?<wait>{END}
+
+Artemis
+ You're a mage, aren't you, Sis?
+<pause>
+Artemis
+ Here, have this.
+<pause>
+<Arche>
+ Aww, a present for me?<wait>{END}
+
+<color_0002><Arche> learned <var_CA00>.<color_0000>
+<pause>
+Artemis
+ Sis is waiting in the room above us.
+<pause>
+Artemis
+ Sorry, I've gotta go.
+ Bye-bye...{END}
+
+<Arche>
+ He sounded kinda lonely...
+<pause>
+<Klarth>
+ Not an unreasonable suspicion if
+ he's the lone survivor of his race.{END}
+
+<Cless>
+ This is a ninja arte scroll.<wait>{END}
+
+<color_0002><Suzu> learned <var_B400>.<color_0000>{END}
+

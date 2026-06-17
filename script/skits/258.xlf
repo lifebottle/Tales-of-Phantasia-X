@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1338">
+        <source>Let's give Yggdrasill new life!</source>
+        <target state="translated">Let's give Yggdrasill new life!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1339">
+        <source>Yes. With the Unicorn Horn at our side...</source>
+        <target state="translated">Yes. With the Unicorn Horn at our side...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1340">
+        <source>You're gonna stab Yggy
+with it? Isn't that kinda crude?</source>
+        <target state="translated">You're gonna stab Yggy
+with it? Isn't that kinda crude?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1341">
+        <source>Yes, &lt;Arche&gt;, that's
+exactly what we're going to do.</source>
+        <target state="translated">Yes, &lt;Arche&gt;, that's
+exactly what we're going to do.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

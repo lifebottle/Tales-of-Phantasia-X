@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_068">
+        <source>So, what are *your* plans once we go home?</source>
+        <target state="translated">So, what are *your* plans once we go home?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_069">
+        <source>I haven't decided on much. I want
+to visit my mother for sure, though.</source>
+        <target state="translated">I haven't decided on much. I want
+to visit my mother for sure, though.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_070">
+        <source>Oh?</source>
+        <target state="translated">Oh?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_071">
+        <source>At her resting place. I've
+never had a chance to say goodbye...</source>
+        <target state="translated">At her resting place. I've
+never had a chance to say goodbye...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_072">
+        <source>Yes... You should do that.</source>
+        <target state="translated">Yes... You should do that.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_073">
+        <source>But, umm... Would you come
+along? I think Mother would want that.</source>
+        <target state="translated">But, umm... Would you come
+along? I think Mother would want that.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_074">
+        <source>You didn't have to ask.</source>
+        <target state="translated">You didn't have to ask.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

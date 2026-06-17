@@ -1,0 +1,1347 @@
+"<speed_0004>
+　　　　　　魔科学は、
+　　マナが枯渇してしまうほど
+　　　　消費する技術だった。{END}","Magitechnology was a science
+capable of depleting mana to the
+point of exhaustion.{END}"
+"<speed_0004>
+　　　　　放っておけば、
+　　世界樹『ユグドラシル』は
+　　　　　枯れてしまう。{END}","Had excessive usage of it
+been allowed to persist,
+the World Tree, Yggdrasill,
+would have withered away.{END}"
+"<speed_0004>
+　　　魔科学を使う人間と、
+　　　ダオスとの戦いは
+　　こうして始まったのだ。{END}","Thus, Dhaos engaged in a
+war with the humans who
+exploited magitechnology.{END}"
+"エドワードの妻・シフ
+「主人は、いつでも私達のそばに
+　いますわ」{END}","Edward's Wife, Sif:<nl>
+ My husband lives on in our hearts.{END}"
+"エドワードの妻・シフ
+「みなさん、お腹はすいていませ
+　んか？」{END}","Edward's Wife, Sif:<nl>
+ Are any of you hungry?{END}"
+"シフ
+「主人が好きだった料理です」
+<pause>
+シフ
+「どうぞ」<wait>{END}","Sif:<nl>
+ Here, take this recipe.
+<pause>
+Sif:<nl>
+ It was one of my husband's
+ favorites.<wait>{END}"
+"<color_0002>おさしみを料理できるようになりま
+した。<color_0000>{END}",<color_0002>Learned the recipe for Sashimi.<color_0000>{END}
+"シフ
+「遠慮なさらずに・・・」{END}","Sif:<nl>
+ Don't be shy...{END}"
+"エドワードの娘・フレイヤ
+「パパいなくなっちゃったけど、
+　私泣かない」
+<pause>
+フレイヤ
+「パパ、立派だったんだよね」{END}","Edward's daughter, Freya:<nl>
+ Papa's not here anymore, but I
+ won't cry.
+<pause>
+Freya:<nl>
+ He was great, don't you think?{END}"
+"エドワードの息子・フレイ
+「ボクがママとフレイヤを守るん
+　だ！！」{END}","Edward's son, Frey:<nl>
+ I'll protect Mama and Freya!{END}"
+"研究員
+「ここは、モリスン魔術研究所だ」
+<pause>
+研究員
+「先代のモリスン殿の遺言により
+　ここを魔術研究所に使ってくれ
+　ということだ」{END}","Researcher:<nl>
+ This is the Morrison Magic Research
+ Center.
+<pause>
+Researcher:<nl>
+ It was founded in accordance with
+ the late Sir Morrison's will.{END}"
+"女の人
+「生徒達の食事を用意しないと」
+<pause>
+女の人
+「ここは、全寮制の魔術学校でも
+　あるのよ」
+<pause>
+女の人
+「ニ階が教室なの」
+<pause>
+女の人
+「学校って言っても教えるんじゃ
+　なくて、自ら魔術の勉強をする
+　のよ」{END}","Woman:<nl>
+ This is a boarding school for magic
+ studies. Things work a little
+ differently here than usual.
+<pause>
+Woman:<nl>
+ The number of teachers on staff is
+ small, so the students mainly
+ engage in self study with the
+ resources provided.
+<pause>
+Woman:<nl>
+ You can find the classrooms on the
+ second floor.
+<pause>
+Woman:<nl>
+ Me? I'm in charge of fixing the
+ students' meals.{END}"
+"子供
+「日々の努力が実を結ぶんだ」
+<pause>
+子供
+「急に、すごい力や知識の持ち主
+　になれるわけないもんね」{END}","Child:<nl>
+ “The sweetest fruits are born
+ from daily labors.”
+<pause>
+Child:<nl>
+ That means you can't get great
+ power and knowledge overnight.{END}"
+"女の子
+「私も魔術の勉強に来ているの」
+<pause>
+女の子
+「ぜ〜ったいに世界一の魔術師に
+　なるの」
+<pause>
+女の子
+「がんばるもん」{END}","Girl:<nl>
+ I came here to study magic too.
+<pause>
+Girl:<nl>
+ I am totally gonna be the best
+ mage in the world!
+<pause>
+Girl:<nl>
+ I just aced my last test, so count
+ on it!{END}"
+"研究員
+「禁断の召喚術について研究して
+　います」
+<pause>
+研究員
+「禁断の召喚術は主に魔界に関連
+　したものらしいですね」
+<pause>
+研究員
+「やはり、異世界のエネルギーを
+　使うのは危険なんでしょうね」{END}","Researcher:<nl>
+ I'm studying forbidden
+ summoning artes.
+<pause>
+Researcher:<nl>
+ It seems that forbidden summoning
+ mostly draws upon denizens of
+ Daemonium.
+<pause>
+Researcher:<nl>
+ I suppose using the energy of such
+ creatures would be quite
+ dangerous, wouldn't it?{END}"
+"研究員
+「禁断の魔術について研究をして
+　います」
+<pause>
+研究員
+「禁断の魔術は空間を操るものら
+　しいですね」
+<pause>
+研究員
+「具体的にどういうものかはまだ
+　わかりませんが」{END}","Researcher:<nl>
+ I'm doing research on
+ forbidden magic.
+<pause>
+Researcher:<nl>
+ Our initial studies suggest that
+ forbidden magic somehow
+ manipulates space.
+<pause>
+Researcher:<nl>
+ Though we don't know how, why,
+ or even IF it happens, just yet.{END}"
+"剣士
+「これからは、剣士も魔術が使え
+　ないとね」
+<pause>
+剣士
+「でも全くわかんないよ・・・」{END}","Swordsman:<nl>
+ Great swordsmen are expected to
+ know magic these days, aren't
+ they?
+<pause>
+Swordsman:<nl>
+ I came here to learn it, but no
+ matter what, I can't grasp even
+ the basic concepts...{END}"
+"研究員
+「不思議なアイテムについて、研
+　究しています」
+<pause>
+研究員
+「魔力を帯びたアイテムの発祥の
+　地についてね」{END}","Researcher:<nl>
+ My research centers around
+ unusual items.
+<pause>
+Researcher:<nl>
+ Currently, I'm trying to figure out
+ where those imbued with magical
+ power originate.{END}"
+"研究員
+「法術について研究しています」
+<pause>
+研究員
+「法術とはいったいどういうもの
+　なのでしょう？」
+<pause>
+研究員
+「人の内なる力か、それとも神の
+　力か・・・」{END}","Researcher:<nl>
+ I've taken an interest in clerical
+ artes.
+<pause>
+Researcher:<nl>
+ Even now, I'm not exactly sure
+ what they are.
+<pause>
+Researcher:<nl>
+ Could they be a person's inner
+ power? Or perhaps the power of
+ God Himself?{END}"
+"おじいさん
+「モリスン殿は魔術の研究だけで
+　はなく、科学の研究にも優れて
+　おった」
+<pause>
+おじいさん
+「超古代文明の科学力に、焦点を
+　おいて研究をしておったらしい
+　のぅ・・・」{END}","Old Man:<nl>
+ Not only was Sir Morrison a top
+ magic researcher, his prowess
+ extended to science as well.
+<pause>
+Old Man:<nl>
+ He had a great fascination with the
+ technology used during the Age of
+ Antiquity.{END}"
+"<unk1>料理人
+私は、君達の料理の潜在能力を鑑定する者だ」
+<pause>
+料理人
+・・・君達の中で、料理が得意なのは、<Klarth>と<Mint>だな」<wait>{END}","<unk1>Chef:<nl>
+ I have the ability to accurately
+ determine other people's cooking
+ aptitude just by looking at them!
+<pause>
+Chef:<nl>
+ <Klarth> and <Mint> are the
+ most accomplished chefs amongst
+ you.<wait>{END}"
+"<color_0002>料理熟練度の上昇度合いは、キャラクター毎に異なります。
+<pause>
+上昇度合いは、全体的に、<Klarth>と<Mint>が高くなっています。
+<pause>
+逆に、<Arche>は最も低く、<star>を上げるためには他の人より多くの回数の料理を行う必要があります。
+<pause>
+しかし、<Arche>にも得意料理があります。
+<pause>
+彼女は、ＴＰ回復系の料理（名前に""フルーツ""と付くもの）の熟練度上昇度合いが高くなっています。<wait><color_0000>{END}","<color_0002>Each character master recipes at
+different rates.
+<pause>
+In general, <Klarth> and <Mint>
+are the quickest.
+<pause>
+On the flip side of the coin is
+<Arche>. She does, however, have
+her own specialties.
+<pause>
+For example, she has a particular
+affinity toward dishes that restore
+TP--those typically abundant in
+fruit.<wait><color_0000>{END}"
+"料理人
+「やはり、忍者の子は和食が上手
+　なんじゃないか？」<wait>{END}","Chef:<nl>
+ I'll also wager that the ninja girl
+ has a knack for dishes native to
+ her homeland.<wait>{END}"
+"<color_0002>実は、<Suzu>の料理熟練度の上がり方は相当なものです。
+<pause>
+料理によっては、彼女が最も高い上昇度合いを持ちます。
+<pause>
+特に「おにぎり・すし・おさしみ・にくじゃが」などは、すぐに<star>が増えるでしょう。
+<pause>
+ただし「カレーライス」だけは上昇度合いが低くなっています。
+<pause>
+これは、あるイベントを見た人なら理由がわかるはずです。<color_0000>{END}","<color_0002><Suzu> tends to be rather
+unexceptional in the kitchen, but
+that doesn't mean she is culinarily
+useless.
+<pause>
+She's second to none when it comes
+to her cultural specialties (these
+recipes are tagged with “(J)” at the end of their description).
+<pause>
+But she doesn't do too well with
+dishes foreign to her. Curry is
+especially ill-understood by her.
+<pause>
+If you've seen a particular special
+event and its accompanying skit, it
+should be pretty apparent why...<color_0000>{END}"
+"行商人
+「旅には万全の準備が必要ですよ」
+<pause>
+行商人
+「何か買っていきませんか？」{END}","Peddler:<nl>
+ Thorough preparation is essential
+ for travel.
+<pause>
+Peddler:<nl>
+ Would you like to buy something?{END}"
+"行商人
+「お気をつけて！」{END}","Peddler:<nl>
+ Be careful out there!{END}"
+"<Cless>
+「すりへってて、なんて書いてあ
+　るのかわからないな・・・」{END}","<Cless>:<nl>
+ It's too worn.
+ I can't make heads or tails
+ of what it's saying.{END}"
+『北寄りの道、危険！』{END},"<color_0003>Take heed!<color_0000>
+The northward path is dangerous!
+Traverse at your own peril!{END}"
+"<audio_158F><Cless>
+「ごめん下さ〜い！」{END}","<audio_158F><Cless>:<nl>
+ Pardon me, but is anyone home!?{END}"
+"<audio_1590>女の人
+「どなたでしょうか？」<wait>{END}","<audio_1590>Woman:<nl>
+ May I ask who you are?<wait>{END}"
+"<audio_1591><Klarth>
+「私は<Klarth>といいます」
+<pause>
+<audio_1592><Klarth>
+「まずはこの手紙を・・・」
+<pause>
+<audio_1593><Klarth>
+「エドワード殿に会いたいのだが
+　ご在宅でしょうか？」
+<pause>
+<audio_1594>女の人
+「まあ、ルーングロム様のご紹介
+　ですか」
+<pause>
+<audio_1595>女の人
+「私は妻のシフといいます」
+<pause>
+<audio_1596>エドワードの妻・シフ
+「申し訳ありませんが、夫はただ
+　いま留守でして・・・」
+<pause>
+<audio_1597><Klarth>
+「う〜ん、急ぎの用事なんだが」
+<pause>
+<audio_1598>シフ
+「ルーングロム様のご紹介でした
+　ら安心ですからお話しします」
+<pause>
+<audio_1599>シフ
+「夫は、来る戦争にアルヴァニス
+　タが参戦できないことを知って」
+<pause>
+<audio_159A>シフ
+「ダオスを倒せる者達を求めて、
+　つい先日旅に出ました・・・」
+<pause>
+<audio_159B><Klarth>
+「行き先をご存じですか？」
+<pause>
+<audio_159C>シフ
+「たしか、まずはフレイランドに
+　行くと言ってましたわ」<wait>{END}","<audio_1591><Klarth>:<nl>
+ My name is <Klarth>.
+<pause>
+<audio_1592><Klarth>:<nl>
+ Sorry about the unannounced
+ visit, ma'am.
+<pause>
+<audio_1593><Klarth>:<nl>
+ We were hoping to meet with Sir
+ Edward, and bring this letter of
+ introduction.
+<pause>
+<audio_1594>Woman:<nl>
+ My, it was penned by Master
+ Lundgrom himself.
+<pause>
+<audio_1595>Woman:<nl>
+ I'm Ed's wife, Sif.
+ I am pleased to make
+ your acquaintance.
+<pause>
+<audio_1596>Sif:<nl>
+ I'm sorry to say, but he is out at
+ the moment.
+<pause>
+<audio_1597><Klarth>:<nl>
+ Ah, that's unfortunate.
+ Our business with him is
+ rather urgent.
+<pause>
+<audio_1598>Sif:<nl>
+ Since it was Master Lundgrom
+ who introduced you, I'll tell you
+ what I know.
+<pause>
+<audio_1599>Sif:<nl>
+ Ed is aware that Alvanista is unable
+ to lend a hand in the upcoming
+ war.
+<pause>
+<audio_159A>Sif:<nl>
+ He set off on a journey the other
+ day to seek out people capable of
+ defeating Dhaos in the country's
+ stead.
+<pause>
+<audio_159B><Klarth>:<nl>
+ Do you know where he went?
+<pause>
+<audio_159C>Sif:<nl>
+ I believe he mentioned that
+ Freyland is his first stop.<wait>{END}"
+"<audio_159D><Cless>
+「フレイランド？」<wait>{END}","<audio_159D><Cless>:<nl>
+ Freyland?<wait>{END}"
+"<audio_159E><Klarth>
+「アルヴァニスタの東にある大陸
+　のことだ」<wait>{END}","<audio_159E><Klarth>:<nl>
+ That's the continent east of
+ Alvanista.<wait>{END}"
+"<audio_159F><Klarth>
+「どうも、シフさん」
+<pause>
+<audio_15A0>シフ
+「あの・・・」
+<pause>
+<audio_15A1>シフ
+「ついでと言ってはなんですが、
+　夫に会ったら伝えて下さい」
+<pause>
+<audio_15A2>シフ
+「みんな元気だと・・・」
+<pause>
+<audio_15A3><Klarth>
+「わかりました、会ったら伝えて
+　おきましょう」{END}","<audio_159F><Klarth>:<nl>
+ Thanks, ma'am.
+<pause>
+<audio_15A0>Sif:<nl>
+ Um...
+<pause>
+<audio_15A1>Sif:<nl>
+ If you encounter my husband, could
+ you please tell him something?
+<pause>
+<audio_15A2>Sif:<nl>
+ We want him to know that
+ everything's fine at home...
+<pause>
+<audio_15A3><Klarth>:<nl>
+ I understand.
+ We'll be sure to pass
+ the message along.{END}"
+"<audio_15A4><Klarth>
+「急げば追いつけるかもしれん」
+<pause>
+<audio_15A5><Klarth>
+「フレイランドに行くとするか」{END}","<audio_15A4><Klarth>:<nl>
+ If we hightail it to Freyland, we
+ might be able to catch up.
+<pause>
+<audio_15A5><Klarth>:<nl>
+ Let's get moving, shall we?{END}"
+"<audio_15A6><Cless>
+「あ、いや、その・・・」
+<pause>
+<audio_15A7>女の人
+「ご用がないのでしたら、お帰り
+　下さい・・・」{END}","<audio_15A6><Cless>:<nl>
+ Um, I was just--
+<pause>
+<audio_15A7>Woman:<nl>
+ If you do not have any business
+ here, please be on your way.{END}"
+"<audio_15A8><Mint>
+「<Cless>さん、用事がない
+　のにノックするのはどうか
+　と思います・・・」{END}","<audio_15A8><Mint>:<nl>
+ <Cless>, knocking on people's
+ doors without a reason is rude.{END}"
+"<Cless>
+「これは、石像か？」
+<pause>
+<Cless>
+「こんな所に石像なんてあったか
+　な？」
+<pause>
+<Cless>
+「持ち上げるのは無理か・・・」
+<pause>
+<Cless>
+「押したり引いたりするくらいな
+　らできそうだな」<wait>{END}","<Cless>:<nl>
+ Huh?
+ A statue?
+<pause>
+<Cless>:<nl>
+ How'd it get to the middle of a
+ mountain pass like this?
+<pause>
+<Cless>:<nl>
+ It's too heavy to lift, but...
+<pause>
+<Cless>:<nl>
+ I should be able to push and pull it
+ around.<wait>{END}"
+"<color_0002>石像などの中には押したり
+引いたりすることのできる
+ものがあります。
+<pause>
+自分の正面に石像が来る
+位置で、<var_0102>を押しながら
+移動してみましょう。<color_0000>{END}","<color_0002>Objects like this statue can be
+pushed and pulled around.
+<pause>
+To move them, get close and face
+them, press and hold down <var_0102>, then
+move around with <var_0002>.<color_0000>{END}"
+"<Cless>
+「早く村へ戻らないと・・・」{END}","<Cless>:<nl>
+ We need to hurry back to the village...{END}"
+"<Chester>
+「こっちじゃないだろう」{END}","<Chester>:<nl>
+ Dude, where are you going?{END}"
+"<audio_0838><Cless>
+「<Chester>！！」{END}","<audio_0838><Cless>:<nl>
+ Hey, <Chester>!!{END}"
+"<audio_0839><Cless>
+「・・・・・・」
+<pause>
+<audio_083A><Cless>
+「ここは<speed_0010>・・・」{END}","<audio_0839><Cless>:<nl>
+ ......
+<pause>
+<audio_083A><Cless>:<nl>
+ Where<speed_0010>...{END}"
+"<audio_083B><Cless>
+「しっかりするんだ<Mint>」{END}","<audio_083B><Cless>:<nl>
+ Pull yourself together, <Mint>.{END}"
+"<audio_083C><Mint>
+「<Cless>さん・・・」
+<pause>
+<audio_083D><Mint>
+「・・・・・・」<wait>{END}","<audio_083C><Mint>:<nl>
+ Um...
+<pause>
+<audio_083D><Mint>:<nl>
+ ......<wait>{END}"
+"<audio_083E><Mint>
+「ここは？」
+<pause>
+<audio_083F><Cless>
+「僕にもわからない・・・」
+<pause>
+<audio_0840><Cless>
+「ここはいったいどこなんだ？」{END}","<audio_083E><Mint>:<nl>
+ Where in the world are we?
+<pause>
+<audio_083F><Cless>:<nl>
+ I don't know, either...
+<pause>
+<audio_0840><Cless>:<nl>
+ What IS this place?{END}"
+"<audio_0841><Mint>
+「きれい<speed_0010>・・・」{END}","<audio_0841><Mint>:<nl>
+ It's so pretty<speed_0010>...{END}"
+"<audio_0842><Cless>
+「・・・・・・」
+<pause>
+<audio_0843><Cless>
+「<Chester>は？」
+<pause>
+<audio_0844><Cless>
+「・・・・・・」
+<pause>
+<audio_0845><Cless>
+「モリスンさんは？」
+<pause>
+<audio_0846><Mint>
+「モリスンさん達なら、たぶん<speed_0020>、
+<speed_FFFF>　いえ<speed_0010>・・・<speed_FFFF>きっと無事ですよ」{END}","<audio_0842><Cless>:<nl>
+ ......
+<pause>
+<audio_0843><Cless>:<nl>
+ What happened to <Chester>?
+<pause>
+<audio_0844><Cless>:<nl>
+ ......
+<pause>
+<audio_0845><Cless>:<nl>
+ And Mr. Morrison?
+<pause>
+<audio_0846><Mint>:<nl>
+ It's possible they<speed_0020>...<nl>
+ <speed_FFFF>No<speed_0010>...<speed_FFFF> I believe they are safe.{END}"
+"<audio_0847><Cless>
+「・・・・・・」<wait>{END}","<audio_0847><Cless>:<nl>
+ ......<wait>{END}"
+"<audio_0848><Mint>
+「私達は、今できることをやりま
+　しょう」
+<pause>
+<audio_0849><Mint>
+「ね、<Cless>さん・・・」
+<pause>
+<audio_084A><Mint>
+「元気を出して・・・」{END}","<audio_0848><Mint>:<nl>
+ We should only worry about one
+ problem at a time...
+<pause>
+<audio_0849><Mint>:<nl>
+ ...okay?
+<pause>
+<audio_084A><Mint>:<nl>
+ Please try to cheer up...{END}"
+"<audio_084B><Cless>
+「<speed_0010>・・・・・・」
+<pause>
+<speed_FFFF><audio_084C><Cless>
+「ごめん、僕ばかり落ち込んでい
+　て・・・」
+<pause>
+<audio_084D><Mint>
+「そんなこと・・・」{END}","<audio_084B><Cless>:<nl>
+ <speed_0010>......
+<pause>
+<speed_FFFF><audio_084C><Cless>:<nl>
+ Sorry, I'm just...overwhelmed...<nl>
+ Everything has just...
+<pause>
+<audio_084D><Mint>:<nl>
+ It happened so fast...{END}"
+"<audio_084E><Cless>
+「そうだ・・・」
+<pause>
+<audio_084F><Cless>
+「モリスンさんからあずかった本
+　を読んでみよう」
+<pause>
+<audio_0850><Mint>
+「モリスンさんの本？」{END}","<audio_084E><Cless>:<nl>
+ Hey, wait...
+<pause>
+<audio_084F><Cless>:<nl>
+ Maybe we can learn something
+ from the book Mr. Morrison gave
+ me.
+<pause>
+<audio_0850><Mint>:<nl>
+ Oh, that's right!{END}"
+"<Cless>はモリスンの本を、取り出して読み始めた。
+<pause>
+<audio_0852>『私はここに、異界よりの侵略者と
+　の戦いの歴史を記す』
+<pause>
+<audio_0853>『遠い昔、いずこから現れた侵略者
+　との間に戦いが起きた』
+<pause>
+<audio_0854>『その侵略者は自らを「ダオス」と
+　名乗り・・・』{END}","(<Cless> took out Morrison's book
+and began to read it.)
+<pause>
+<audio_0852>“Here I shall chronicle the history of
+the war against an invader from
+another world.”
+<pause>
+<audio_0853>“Long ago, the invader appeared on
+our world, and a war against him
+erupted shortly thereafter.”
+<pause>
+<audio_0854>“That invader called himself
+<color_0003>Dhaos<color_0000>...”{END}"
+"<audio_0855><Cless>
+「ダオス・・・」
+<pause>
+<audio_0856><Mint>
+「もう少し先を読んでみましょう」{END}","<audio_0855><Cless>:<nl>
+ Dhaos...
+<pause>
+<audio_0856><Mint>:<nl>
+ Let's read a little further.{END}"
+"<audio_0857>『ダオスは普通の方法では傷つける
+　ことすらできなかった』
+<pause>
+<audio_0858>『さらに驚くべきことに、彼は時の
+　流れの制約を受けない術を持って
+　いたのだ』
+<pause>
+<audio_0859>『我々の先祖との最後の決戦の時、
+　傷ついたダオスは自らを未来へ　
+　時間転移させ、逃亡した』
+<pause>
+<audio_085A>『それ以来我がモリスン家は、代々
+　ダオスが現れた際は戦うべしとい
+　う役割を持ってきた』
+<pause>
+<audio_085B>『その時は私の代にやってきた』{END}","<audio_0857>“Dhaos cannot be harmed by normal
+means.”
+<pause>
+<audio_0858>“In addition, he possessed an
+astonishing spell allowing him to
+oppose the flow of time.”
+<pause>
+<audio_0859>“During the final moments of our
+ancestors' decisive battle, the
+wounded Dhaos used that spell to
+transport himself to the future.”
+<pause>
+<audio_085A>“Since then, we, the Morrison
+bloodline, accepted the duty of
+fighting him should he reappear.”
+<pause>
+<audio_085B>“My generation is where this phase
+had concluded.”{END}"
+"<audio_085C>『ダオス到来のきざしを感じた私は
+　同じ法術師のメリル、マリア、そ
+　して剣士ミゲールと共に地下墓地
+　へと向かった』
+<pause>
+<audio_085D>『現在の我々では、ダオスを倒すこ
+　とはかなわぬことだ』
+<pause>
+<audio_085E>『ならば、ダオスを封印する他はあ
+　るまいと考えた』{END}","<audio_085C>“Sensing the first signs of Dhaos'
+arrival, I gathered my fellow clerics,
+Meryl and Maria, as well as the
+swordsman, Miguel, and made way
+to the mausoleum.”
+<pause>
+<audio_085D>“Due to forces beyond our control,
+it is not possible to vanquish him in
+this age.”
+<pause>
+<audio_085E>“We instead devised a plan to seal
+him for eternity.”{END}"
+"<audio_085F>モリスン
+「来るぞ！」
+<pause>
+<audio_0860>ミゲール
+「油断するな！」
+<pause>
+<audio_0861>メリル
+「神よ・・・」
+<pause>
+<audio_0862>マリア
+「力を・・・」{END}","<audio_085F>Morrison:<nl>
+ He approaches!
+<pause>
+<audio_0860>Miguel:<nl>
+ Stay on guard!
+<pause>
+<audio_0861>Meryl:<nl>
+ O Divine One...
+<pause>
+<audio_0862>Maria:<nl>
+ Grant us strength...{END}"
+"<speed_0002>ダオス
+「き、貴様！！」{END}","<speed_0002>Dhaos:<nl>
+ Wh-Who are you!?{END}"
+"<speed_0002>ダオス
+「なぜ、ここに！？」{END}","<speed_0002>Dhaos:<nl>
+ How could you know I'd be here!?{END}"
+"<audio_0658><speed_0002>ダオス
+「やめろおおおおぉぉぉ！！！」{END}","<audio_0658><speed_0002>Dhaos:<nl>
+ NOOOOOOOOOO!!!{END}"
+"<audio_0865><Cless>
+「父さん、母さん！」
+<pause>
+<audio_0866><Mint>
+「メリル・・・母の名です」{END}","<audio_0865><Cless>:<nl>
+ Mom, and Dad!
+<pause>
+<audio_0866><Mint>:<nl>
+ Meryl...<nl>
+ That's my mother's name.{END}"
+"<audio_0867>『まばゆい光と共に現れたダオスを
+　我々四人は何とか封印することが
+　できた』
+<pause>
+<audio_0868>『ダオスの力を二分したペンダント
+　はミゲール夫妻とメリルで分け持
+　ち、私は封印されたダオスを監視
+　する役目を務めることにした』{END}","<audio_0867>“Dhaos appeared in a dazzling burst
+of light, and though it was difficult,
+our plan had succeeded.”
+<pause>
+<audio_0868>“Two pendants were used to divide
+Dhaos' power. One was entrusted to
+the Alvein couple and the other
+Meryl Adnade. I myself took upon the role of
+watching over the seal itself.”{END}"
+<Cless>はダオスと自分達の両親の関りを知った。{END},"(<Cless> learned about his
+parents' relation with Dhaos.){END}"
+"<audio_0869><Mint>
+「これは・・・」
+<pause>
+<audio_086A><Cless>
+「僕達がこれからしなきゃならな
+　いことは・・・」
+<pause>
+<audio_086B><Mint>
+「ダオスを倒す方法を、見つける
+　ことですね」
+<pause>
+<audio_086C><Mint>
+「でも、とりあえずは、人のいる
+　場所を探しましょう」
+<pause>
+<audio_086D><Cless>
+「ああ、そうしよう」{END}","<audio_0869><Mint>:<nl>
+ Then...
+<pause>
+<audio_086A><Cless>:<nl>
+ What we must do now is...
+<pause>
+<audio_086B><Mint>:<nl>
+ Look for a way to defeat Dhaos,
+ right?
+<pause>
+<audio_086C><Mint>:<nl>
+ But the first thing we should do is
+ find some people to speak with.
+<pause>
+<audio_086D><Cless>:<nl>
+ Yeah, I agree.{END}"
+"<audio_086E><Cless>
+「こ、これは！！」
+<pause>
+<audio_086F><Mint>
+「・・・・・・」<wait>{END}","<audio_086E><Cless>:<nl>
+ H-Hey, this is...!!!
+<pause>
+<audio_086F><Mint>:<nl>
+ ......<wait>{END}"
+"<audio_0870><Mint>
+「それは<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0871><Mint>
+「<Chester>さんの弓・・・」
+<pause>
+<audio_0872><Cless>
+「<Chester><speed_0010>・・・」<wait>{END}","<audio_0870><Mint>:<nl>
+ It's<speed_0010>...
+<pause>
+<speed_FFFF><audio_0871><Mint>:<nl>
+ <Chester><'s/'> bow...
+<pause>
+<audio_0872><Cless>:<nl>
+ <Chester><speed_0010>...<wait>{END}"
+"<audio_0873><Mint>
+「<Cless>さん・・・」
+<pause>
+<audio_0874><Mint>
+「きっと、きっと大丈夫だから」<wait>{END}","<audio_0873><Mint>:<nl>
+ Don't worry...
+<pause>
+<audio_0874><Mint>:<nl>
+ I'm...I'm sure he's okay...<wait>{END}"
+"<audio_0875><Cless>
+「くっくぅ・・・」{END}","<audio_0875><Cless>:<nl>
+ *sob*{END}"
+"<audio_0EEF>エドワードの妻・シフ
+「まぁ、ルーングロムさん」
+<pause>
+<audio_0EF0>ルーングロム
+「ごぶさたしています」
+<pause>
+<audio_0EF1>ルーングロム
+「エドワードについてはたいへん
+　気の毒なことに・・・」
+<pause>
+<audio_0EF2>シフ
+「いえ、あの人のことです」
+<pause>
+<audio_0EF3>シフ
+「きっと後悔などしていないはず
+　ですわ」
+<pause>
+<audio_0EF4>シフ
+「だから、お気になさらないで下
+　さい・・・」
+<pause>
+<audio_0EF5>シフ
+「ところで、今日はどんなご用で
+　すの？」
+<pause>
+<audio_0EF6>ルーングロム
+「はい実は、エドワードの書斎に
+　通していただきたいのですが」
+<pause>
+<audio_0EF7>シフ
+「構いませんわ、でも・・・」
+<pause>
+<audio_0EF8>シフ
+「鍵がかかっていて、入れないの
+　です」
+<pause>
+<audio_0EF9>ルーングロム
+「この鍵ではありませんか？」
+<pause>
+<audio_0EFA>シフ
+「まあ、なぜ？」
+<pause>
+<audio_0EFB>ルーングロム
+「以前、エドワードから頼まれた
+　のです」
+<pause>
+<audio_0EFC>シフ
+「そういうことでしたら、どうぞ
+　こちらへ」{END}","<audio_0EEF>Edward's Wife, Sif:<nl>
+ Oh, Master Lundgrom.
+ Good afternoon.
+<pause>
+<audio_0EF0>Lundgrom:<nl>
+ I apologize for the lapse in
+ communication.
+<pause>
+<audio_0EF1>Lundgrom:<nl>
+ More importantly, I would like to
+ offer my sincerest condolences
+ about Ed...
+<pause>
+<audio_0EF2>Sif:<nl>
+ No, it's okay.
+<pause>
+<audio_0EF3>Sif:<nl>
+ He did what he loved.
+ I don't believe he had any regrets.
+<pause>
+<audio_0EF4>Sif:<nl>
+ So please don't worry about it, for
+ his sake.
+<pause>
+<audio_0EF5>Sif:<nl>
+ With that behind us, what brings
+ you here today?
+<pause>
+<audio_0EF6>Lundgrom:<nl>
+ Ed's study... We were hoping you'd
+ grant us access.
+<pause>
+<audio_0EF7>Sif:<nl>
+ I'd be happy to, but...
+<pause>
+<audio_0EF8>Sif:<nl>
+ It's locked, and I don't know where
+ the key is.
+<pause>
+<audio_0EF9>Lundgrom:<nl>
+ Could this be the one?
+<pause>
+<audio_0EFA>Sif:<nl>
+ Oh? Why do you have it?
+<pause>
+<audio_0EFB>Lundgrom:<nl>
+ Ed had left it in my care.
+<pause>
+<audio_0EFC>Sif:<nl>
+ In that case, please follow me.{END}"
+"<audio_0EFD>シフ
+「主人の書斎は、この扉の奥にな
+　りますわ」{END}","<audio_0EFD>Sif:<nl>
+ It's just past this door.{END}"
+"<audio_0EFE>ルーングロム
+「あいつは、昔から一人で、ある
+　研究を続けていたんだ」
+<pause>
+<audio_0EFF>ルーングロム
+「それは、時間転移についてだ」
+<pause>
+<audio_0F00><Klarth>
+「その集大成が、この本というわ
+　けか・・・」{END}","<audio_0EFE>Lundgrom:<nl>
+ Ed would lock himself in here alone
+ and conduct tireless research about
+ a single subject...
+<pause>
+<audio_0EFF>Lundgrom:<nl>
+ Time travel, that is.
+<pause>
+<audio_0F00><Klarth>:<nl>
+ Then I can make an educated guess
+ as to what he compiled in this
+ book.{END}"
+"<audio_0F01><Arche>
+「どうなの？」{END}","<audio_0F01><Arche>:<nl>
+ So, what's it say?{END}"
+"<audio_0F02><Klarth>
+「・・・簡単に言うぞ」
+<pause>
+<audio_0F03><Klarth>
+「超古代に栄えた王国が、海底に
+　沈んでいるらしい」
+<pause>
+<audio_0F04><Klarth>
+「名をトールというが、その王国
+　は信じられない技術で時間転移
+　を実現していたというんだ」
+<pause>
+<audio_0F05><Mint>
+「超古代都市トール？」
+<pause>
+<audio_0F06><Arche>
+「でも沈んだんじゃ、しょうがな
+　いじゃん」
+<pause>
+<audio_0F07><Klarth>
+「信じられない技術だと言っただ
+　ろう？」
+<pause>
+<audio_0F08><Klarth>
+「文面から察するに、まだその都
+　市は滅んではいないらしい」
+<pause>
+<audio_0F09><Klarth>
+「だが、その海底まで行く手段が
+　無いと書いてある」
+<pause>
+<audio_0F0A>ルーングロム
+「確かにそんな技術も魔術もない
+　からね」
+<pause>
+<audio_0F0B><Klarth>
+「だが<var_D000>の力を借りれ
+　ば必ずしも不可能ではないとも
+　書かれている」{END}","<audio_0F02><Klarth>:<nl>
+ To put it simply...
+<pause>
+<audio_0F03><Klarth>:<nl>
+ It seems that a prospering kingdom
+ during the Age of Antiquity sank to
+ the bottom of the ocean.
+<pause>
+<audio_0F04><Klarth>:<nl>
+ This kingdom, named “Thor,”
+ supposedly made time travel a
+ reality with unbelievably advanced
+ technology.
+<pause>
+<audio_0F05><Mint>:<nl>
+ The ancient city of Thor?
+<pause>
+<audio_0F06><Arche>:<nl>
+ But you said it sank to the
+ bottom of the ocean, right?
+ That can't do us any good.
+<pause>
+<audio_0F07><Klarth>:<nl>
+ When I said “unbelievably advanced
+ technology,” where were you?
+ La La Land?
+<pause>
+<audio_0F08><Klarth>:<nl>
+ From the information given, I
+ surmise the city is still intact.
+<pause>
+<audio_0F09><Klarth>:<nl>
+ Hmm...<nl>
+ But the problem is getting to the
+ bottom of the sea in the first
+ place.
+<pause>
+<audio_0F0A>Lundgrom:<nl>
+ Yes. I know of no magic or
+ technology capable of such a feat.
+<pause>
+<audio_0F0B><Klarth>:<nl>
+ Oh...uhm...<nl>
+ It says here that it might be
+ possible with Undine's power.{END}"
+"<audio_0F0C><Arche>
+「それでトールって、どこにある
+　のさ？」
+<pause>
+<audio_0F0D><Klarth>
+「位置的にはベネツィアの北東、
+　およそ１００キロの沖合いだ」
+<pause>
+<audio_0F0E>ルーングロム
+「で、どうするつもりだい？」
+<pause>
+<audio_0F0F><Klarth>
+「ベネツィアから船を出してもら
+　うつもりです」
+<pause>
+<audio_0F10>ルーングロム
+「そうか、できれば私も行きたい
+　んだが、そうもいかないしな」
+<pause>
+<audio_0F11>ルーングロム
+「それでは、がんばってくれよ」{END}","<audio_0F0C><Arche>:<nl>
+ Then where is this Thor place,
+ anyway?
+<pause>
+<audio_0F0D><Klarth>:<nl>
+ Apparently, it's about sixty miles
+ off the northeast of Venezia's
+ coast.
+<pause>
+<audio_0F0E>Lundgrom:<nl>
+ What are your plans?
+<pause>
+<audio_0F0F><Klarth>:<nl>
+ First, we'll go to Venezia and find
+ someone at the port willing to take
+ us. I'll give Undine a call when we
+ reach those coordinates.
+<pause>
+<audio_0F10>Lundgrom:<nl>
+ I see.
+ I'd love to come along and see how
+ you manage this, but I'm needed
+ elsewhere.
+<pause>
+<audio_0F11>Lundgrom:<nl>
+ So I bid you good luck, and
+ farewell.{END}"
+"<audio_0F12><Klarth>
+「それじゃあベネツィアに向かう
+　とするか」<wait>{END}","<audio_0F12><Klarth>:<nl>
+ Well, let's hop to it!<wait>{END}"
+"<audio_0F13><Mint>
+「待って下さい」
+<pause>
+<audio_0F14><Mint>
+「トールに行ってしまったらもう
+　戻って来られないかもしれませ
+　ん」
+<pause>
+<audio_0F15><Mint>
+「でしたら、先にユグドラシルを
+　救う方法を考えないと・・・」
+<pause>
+<audio_0F16><Mint>
+「私達の時代ではユグドラシルが
+　朽ち果てています」
+<pause>
+<audio_0F17><Cless>
+「だとしたら・・・」
+<pause>
+<audio_0F18><Klarth>
+「マナが失われていて、魔術も使
+　えない、というわけだな」
+<pause>
+<audio_0F19><Klarth>
+「とすると・・・」
+<pause>
+<audio_0F1A><Arche>
+「魔術でしか傷つかないダオスに
+　は勝てない・・・」
+<pause>
+<audio_0F1B><Arche>
+「ってことになるじゃん？」
+<pause>
+<audio_0F1C><Klarth>
+「その通りだな」{END}","<audio_0F13><Mint>:<nl>
+ Please wait!
+<pause>
+<audio_0F14><Mint>:<nl>
+ If we travel to Thor, we may not
+ be able to return.
+<pause>
+<audio_0F15><Mint>:<nl>
+ I think that if we don't find a way
+ to save Yggdrasill while we're still
+ here...
+<pause>
+<audio_0F16><Mint>:<nl>
+ It will have completely withered by
+ our time period.
+<pause>
+<audio_0F17><Cless>:<nl>
+ If that happened...
+<pause>
+<audio_0F18><Klarth>:<nl>
+ Then mana will be lost, rendering
+ <Arche> and I as useful as a
+ bundle of sticks.
+<pause>
+<audio_0F19><Klarth>:<nl>
+ Which in turn means...
+<pause>
+<audio_0F1A><Arche>:<nl>
+ We won't even be able to scratch
+ Dhaos...
+<pause>
+<audio_0F1B><Arche>:<nl>
+ Right?
+<pause>
+<audio_0F1C><Klarth>:<nl>
+ Glad we're all on the same page.{END}"
+"<audio_0F1D><Cless>
+「なんか、頭がこんがらがったん
+　だけど・・・」<wait>{END}","<audio_0F1D><Cless>:<nl>
+ Um...<nl>
+ This is giving me a bit of a
+ headache...<wait>{END}"
+"<audio_0F1E><Klarth>
+「つまりだ」
+<pause>
+<audio_0F1F><Klarth>
+「君達の時代でも魔術が使えるよ
+　うに、ユグドラシルが枯れない
+　方法を見つける」
+<pause>
+<audio_0F20><Klarth>
+「その次に、ベネツィアから船で
+　沖合いに出てトールが沈んでい
+　る位置を調べるんだ」
+<pause>
+<audio_0F21><Klarth>
+「わかったか？」{END}","<audio_0F1E><Klarth>:<nl>
+ Mmph.
+ To simplify this for you...
+<pause>
+<audio_0F1F><Klarth>:<nl>
+ First, we need to change history
+ by preventing Yggdrasill's death.
+ This way, we'll be able to use
+ magic in your time period.
+<pause>
+<audio_0F20><Klarth>:<nl>
+ After that, we go to Venezia to
+ find a ship to Thor.
+<pause>
+<audio_0F21><Klarth>:<nl>
+ You with us now?{END}"
+"<Chester>
+「おい！！」<wait>{END}","<Chester>:<nl>
+ Hey!!<wait>{END}"
+"<Cless>
+「な、なんだよ<Chester>」
+<pause>
+<Chester>
+「こんな所に来てどうするってん
+　だよ！」
+<pause>
+<Chester>
+「村の鐘が聞こえなかったのか？」
+<pause>
+<Cless>
+「そうだな、村に戻らないと」
+<pause>
+<Chester>
+「早く戻るぞ！！」{END}","<Cless>:<nl>
+ W-What is it?
+<pause>
+<Chester>:<nl>
+ Where the hell are we going!?
+<pause>
+<Chester>:<nl>
+ Didn't you hear the village bell!?
+<pause>
+<Cless>:<nl>
+ Y-Yeah.
+ L-Let's turn back...
+<pause>
+<Chester>:<nl>
+ Hurry, dammit!!{END}"
+"<Arche>
+「うわぁ〜！」{END}","<Arche>:<nl>
+Whoaaa~!{END}"
+"<Arche>
+「ねえ、見て見てっ！」
+<pause>
+<Arche>
+「すっごく景色良いよ！」{END}","<Arche>:<nl>
+Hey, look at this!
+<pause>
+<Arche>:<nl>
+What a beautiful view!{END}"
+"<Arche>
+「ねっ、キレイでしょ！」
+<pause>
+<Mint>
+「そうですね」
+<pause>
+<Mint>
+「なんだか、清々しい気持ちに
+　なりますね」
+<pause>
+<Klarth>
+「そうだな」
+<pause>
+<Cless>
+「一瞬、戦いの事を忘れちゃうね」{END}","<Arche>:<nl>
+Isn't it pretty?
+<pause>
+<Mint>:<nl>
+It really is.
+<pause>
+<Mint>:<nl>
+What a cool, refreshing feeling.
+<pause>
+<Klarth>:<nl>
+Yeah...
+<pause>
+<Cless>:<nl>
+Almost makes you forget the
+battle, just for a moment.{END}"
+"<Cless>
+「おっ、おい・・・」
+<pause>
+<Cless>
+「どっ、どこ行くんだ・・・？
+　<Chester>・・・？」{END}","<Cless>:<nl>
+Hey!
+<pause>
+<Cless>:<nl>
+Where are you going!?
+<Chester>...?{END}"
+"<Chester>
+「うおぉぉぉぉっ！！！」
+<pause>
+<Chester>
+「ダオスは絶対に俺が倒す！！」{END}","<Chester>:<nl>
+Arrrrgh!!!
+<pause>
+<Chester>:<nl>
+I'm coming for you, Dhaos!!!{END}"
+"<Cless>
+「そ・・・、そろそろ行こうか」
+<pause>
+<Klarth>
+「そうだな・・・」{END}","<Cless>:<nl>
+...Sh-Should we go now?
+<pause>
+<Klarth>:<nl>
+Yeah...{END}"
+<color_0002><Chester>は『<var_CF01>』の称号を得ました。<color_0000>{END},"<color_0002><Chester> has earned the title
+“<var_CF01>.”<color_0000>{END}"

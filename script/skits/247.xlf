@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1290">
+        <source>&lt;wait_B0&gt;We've finally caught up with Dhaos.</source>
+        <target state="translated">&lt;wait_B0&gt;We've finally caught up with Dhaos.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1291">
+        <source>It has been a long road, hasn't it?</source>
+        <target state="translated">It has been a long road, hasn't it?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1292">
+        <source>Don't get all sentimental on me, now.</source>
+        <target state="translated">Don't get all sentimental on me, now.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1293">
+        <source>If we all work together on this,
+we'll beat him down no problem!</source>
+        <target state="translated">If we all work together on this,
+we'll beat him down no problem!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1294">
+        <source>We just gotta be sure we have what it takes.</source>
+        <target state="translated">We just gotta be sure we have what it takes.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1295">
+        <source>Let us go! To Dhaos' castle!</source>
+        <target state="translated">Let us go! To Dhaos' castle!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_907">
+        <source>That should put a wrench
+in Dhaos' plans for now.</source>
+        <target state="translated">That should put a wrench
+in Dhaos' plans for now.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_908">
+        <source>We did well.</source>
+        <target state="translated">We did well.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_909">
+        <source>Aye. Let's report our victory to King Midgard.</source>
+        <target state="translated">Aye. Let's report our victory to the King of Midgard.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_910">
+        <source>I can't wait to find out what our reward is!</source>
+        <target state="translated">I can't wait to find out what our reward is!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

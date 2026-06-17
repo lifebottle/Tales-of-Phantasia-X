@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_652">
+        <source>Crazy to think Dhaos has
+been hiding his castle in a time rift...</source>
+        <target state="translated">Crazy to think Dhaos has
+been hiding his castle in a time rift...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_653">
+        <source>If anyone's capable of such a thing, it's him.</source>
+        <target state="translated">If anyone's capable of such a thing, it's him.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_654">
+        <source>Everyone, please lend me your
+strength to save this world...and your future.</source>
+        <target state="translated">Everyone, please lend me your
+strength to save this world...and your future.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_655">
+        <source>No need to ask. All of us
+want to put an end to Dhaos.</source>
+        <target state="translated">No need to ask. All of us
+want to put an end to Dhaos.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_656">
+        <source>I thank you deeply.</source>
+        <target state="translated">I thank you deeply.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_657">
+        <source>Now, let's get on with it.</source>
+        <target state="translated">Now, let's get on with it.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_658">
+        <source>Even I'm starting to feel a bit homesick.</source>
+        <target state="translated">Even I'm starting to feel a bit homesick.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,688 @@
+Inn “Alvanista Inn”{END}
+
+Supermarket “Pig-Out”{END}
+
+Adventurer's Guild “Panic”{END}
+
+<Arche>:<nl>
+ Don't keep little ol' me waiting <heart>
+ So hurry back, 'kay?{END}
+
+Clerk:<nl>
+ Welcome to Pig-Out.{END}
+
+Clerk:<nl>
+ Thank you very much.{END}
+
+Innkeeper:<nl>
+ Welcome to the Alvanista Inn.
+ One night is <num1_0000003C> gald.
+<pause>
+Innkeeper:<nl>
+ Will you be staying?{END}
+
+Innkeeper:<nl>
+ Sir, you don't have enough money.{END}
+
+Innkeeper:<nl>
+ Good night.{END}
+
+Innkeeper:<nl>
+ Please come again.{END}
+
+Citizen:<nl>
+ There's a theory that mana, the
+ source of magic, is created by a
+ process called magical
+ photosynthesis.
+<pause>
+Citizen:<nl>
+ Sounds pretty fancy, but what the
+ heck differentiates it from normal
+ photosynthesis?{END}
+
+Chef:<nl>
+ Have you made Spaghetti?{END}
+
+Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef:<nl>
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Spaghetti.<color_0000>{END}
+
+Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}
+
+Chef:<nl>
+ Have you made Seafood Stew?{END}
+
+Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef:<nl>
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Seafood
+Stew.<color_0000>{END}
+
+Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}
+
+Citizen:<nl>
+ If you look at the King of Alvanista's
+ family tree, you'll find some elves
+ a ways back.{END}
+
+Citizen:<nl>
+ Elves are so beautiful, so majestic,
+ and...damn are they hot!
+<pause>
+Citizen:<nl>
+ I need to date one, NOW!!!
+<pause>
+Citizen:<nl>
+ With my luck, though, I bet they'd
+ just shoot me down...<nl>
+<pause>
+Citizen:<nl>
+ I bet they're so foxy because of all
+ those organic foods they eat! Oh
+ man, hubba-hubba!{END}
+
+Bartender:<nl>
+ At least you're honest.{END}
+
+Bartender:<nl>
+ You upper-rank adventurers
+ fight too much.
+ It's not good for your nerves.
+<pause>
+Bartender:<nl>
+ How about a soothing piano
+ performance to help you loosen
+ up?<wait>{END}
+
+Bartender:<nl>
+ The great pianist Sakuraba V is
+ performing today.<wait>{END}
+
+Bartender:<nl>
+ The great pianist Sakuraba is
+ performing today.<wait>{END}
+
+Bartender:<nl>
+ Wouldn't you like
+ to hear him play?
+ It's on the house!
+<pause>
+<color_0002>Listen to the piano?<color_0000>{END}
+
+Bartender:<nl>
+ Well, I won't force you.{END}
+
+Bartender:<nl>
+ Hey, Sakuraba!
+ Play us a song.{END}
+
+Sakuraba V:<nl>
+ I just wrote a new song.
+ Do you want to hear it?{END}
+
+Sakuraba V:<nl>
+ Oh well.{END}
+
+Sakuraba V:<nl>
+ Well, here it is.{END}
+
+Bartender:<nl>
+ You don't understand this whole art
+ thing?{END}
+
+Bartender:<nl>
+ What do you think?
+ Great, huh?
+<pause>
+Bartender:<nl>
+ No, it's more than that.
+ It...it penetrates the heart.{END}
+
+<Cless>:<nl>
+ Excuse me, but I was wondering if
+ any Moria Mine permits came in
+ recently.
+<pause>
+Bartender:<nl>
+ Yeah, they dropped one off not too
+ long ago. Let's see...<wait>{END}
+
+<unk1>Bartender:<nl>
+ Yeah, this one says it's
+ for a Mr. <Cless> Alvein.
+ Would that happen to be you?
+<pause>
+<Cless>:<nl>
+ Yes, that's correct.<wait>{END}
+
+Bartender:<nl>
+ Well, then.
+ Just sign here and it's yours.<wait>{END}
+
+<color_0002>Acquired a permit of entry to the
+Moria Mine.<color_0000><wait>{END}
+
+<Cless>:<nl>
+ Thank you.{END}
+
+<unk1>Bartender:<nl>
+ Sounds like there isn't much reason
+ to go right now, though.
+<pause>
+Bartender:<nl>
+ The guys who come back keep
+ talking about a snag somewhere
+ along the way.
+<pause>
+<Cless>:<nl>
+ I don't know if I like the sound of
+ that...<nl>
+<pause>
+<Klarth>:<nl>
+ Personally, I think we should go
+ check the place out for ourselves,
+ just to be sure.
+<pause>
+<Mint>:<nl>
+ I don't know...<nl>
+ Maybe it would be better if we
+ explored some other places before
+ we go there.
+<pause>
+<Klarth>:<nl>
+ I suppose that's an option...<nl>
+<pause>
+<Klarth>:<nl>
+ Well, <Cless>, you're the leader.
+ We'll leave this up to your
+ judgment.{END}
+
+Bartender:<nl>
+ This isn't a place for kids like you.
+<pause>
+Bartender:<nl>
+ Beat it!{END}
+
+Woman:<nl>
+ Hey, big boy.
+<pause>
+Woman:<nl>
+ You looking for a good time?<wait>{END}
+
+Man:<nl>
+ Hey, babe.
+<pause>
+Man:<nl>
+ How about we blow this popsicle
+ stand and go someplace nice?<wait>{END}
+
+<Cless>:<nl>
+ (Flirting...){END}
+
+Man:<nl>
+ Uh--um...<nl>
+ I-I'm f-fine, th-thanks...{END}
+
+Woman:<nl>
+ I hate this stubborn jerk!
+<pause>
+Woman:<nl>
+ I wish he'd leave me alone already!{END}
+
+Citizen:<nl>
+ I bet they haven't uncovered all
+ the mysteries of the Moria Mine.{END}
+
+Citizen:<nl>
+ You know the Moria Mine?
+<pause>
+Citizen:<nl>
+ It once belonged to the now extinct
+ dwarven race.{END}
+
+Soldier:<nl>
+ The dwarves had incredibly
+ dexterous hands that enabled them
+ to create fascinating and exotic
+ items.{END}
+
+Soldier:<nl>
+ Some people believe that there's
+ great treasure yet to be unearthed
+ from the Moria Mine.{END}
+
+Sakuraba V:<nl>
+ My family consists of generations
+ and generations of marvelous
+ pianists.
+<pause>
+Sakuraba V:<nl>
+ I play the piano too, but I still have
+ a ways to go before I can match
+ my ancestors.{END}
+
+Sakuraba:<nl>
+ My rhythm's even better when I'm
+ tipsy.<wait>{END}
+
+Sakuraba:<nl>
+ Open the door with the secret
+ word.{END}
+
+Sakuraba:<nl>
+ By the way, do you want to buy
+ the secret word?
+<pause>
+Sakuraba:<nl>
+ It'll be 1000 gald.
+<pause>
+<color_0002>Buy the secret word?<color_0000>{END}
+
+Sakuraba:<nl>
+ Ah, I see.{END}
+
+Sakuraba:<nl>
+ You don't have the money.{END}
+
+Sakuraba:<nl>
+ It's “Y-O-M-I.”
+<pause>
+Sakuraba:<nl>
+ I heard it from an explorer.
+<pause>
+Sakuraba:<nl>
+ He said there's some cave entrance
+ you can open by saying those
+ letters in that order.{END}
+
+Citizen:<nl>
+ Apparently, summoning artes can
+ also draw power from the beings
+ of Daemonium.
+<pause>
+Citizen:<nl>
+ I wonder how you can set that up.
+ Sounds pretty badass.{END}
+
+Adventurer:<nl>
+ You can't enter the Moria Mine
+ without a permit issued by the
+ kingdom.
+<pause>
+Adventurer:<nl>
+ You can apply for one right here at
+ the guild, but...<nl>
+<pause>
+Adventurer:<nl>
+ They don't hand the
+ things out like candy.
+ The background check is
+ very strict and thorough.
+<pause>
+Adventurer:<nl>
+ I'm still waiting for them to finish
+ mine.{END}
+
+Adventurer:<nl>
+ I've heard people saying there's
+ some ancient tower in the lava
+ zone of Freyland.{END}
+
+Adventurer:<nl>
+ I guess a permit for entering the
+ Moria Mine costs a pretty penny.
+<pause>
+Adventurer:<nl>
+ Unless you have connections, that
+ is.{END}
+
+Soldier:<nl>
+ Bleeech...!
+<pause>
+Soldier:<nl>
+ Feel like crap...<nl>
+<pause>
+Soldier:<nl>
+ Drank too much...<wait>{END}
+
+Soldier:<nl>
+ A-Arcane arte book...<nl>
+<pause>
+Soldier:<nl>
+ Hu-hurrrr...{END}
+
+Soldier:<nl>
+ Y-You, a swordsman?
+<pause>
+Soldier:<nl>
+ Wanna...<nl>
+<pause>
+Soldier:<nl>
+ ...buy this...arcane arte book?
+<pause>
+<Cless>:<nl>
+ Did you say arcane arte book!?
+<pause>
+Soldier:<nl>
+ Ooh, ugh...<nl>
+<pause>
+Soldier:<nl>
+ 6000 gald...is good.
+<pause>
+<color_0002>Buy it?<color_0000>{END}
+
+Soldier:<nl>
+ Ugh...{END}
+
+Soldier:<nl>
+ Money...<nl>
+<pause>
+Soldier:<nl>
+ No money...{END}
+
+<color_0002><Cless> learned
+<var_9500>.<color_0000>
+<pause>
+Soldier:<nl>
+ Th-Thanks...<nl>
+<pause>
+<Cless>:<nl>
+ (Wow.
+ Not a bad deal at all.){END}
+
+Housewife:<nl>
+ Inflation is spiraling out of control...<nl>
+ It's seriously making life difficult.
+<pause>
+Housewife:<nl>
+ We've had to let go of many
+ modern conveniences just to
+ afford basic necessities.{END}
+
+Citizen:<nl>
+ Frying eggs isn't that simple.
+ They need to be made just right!
+<pause>
+Citizen:<nl>
+ Undercooked, they become runny.
+ Overcooked, they become rubbery.
+<pause>
+<Cless>:<nl>
+ Do you where we could buy some?
+<pause>
+Citizen:<nl>
+ They're farmed in Olive Village.
+<pause>
+Citizen:<nl>
+ Try scrambling them in bacon
+ grease sometime!{END}
+
+Citizen:<nl>
+ If only Dhaos wasn't around...{END}
+
+Child:<nl>
+ I wanna eat cake!{END}
+
+Adventurer:<nl>
+ I've been traveling around in
+ search of something called the
+ “Tria.”
+<pause>
+Adventurer:<nl>
+ Apparently, it's a triad of
+ armaments consisting of a ring and
+ two swords. Each item can still be
+ found somewhere in the world.
+<pause>
+Adventurer:<nl>
+ There was a rumor that one might
+ be hidden somewhere on the
+ Freezekiel continent, but...<nl>
+<pause>
+Adventurer:<nl>
+ I couldn't find anything like that at
+ all when I went there...{END}
+
+<Klarth>:<nl>
+ Excuse me, but can you give us
+ directions to the Moria Mine?
+<pause>
+Soldier:<nl>
+ Yeah, just take the eastern bridge,
+ go south along the mountains, and
+ go east when you get to the
+ southern end of the range.
+<pause>
+Soldier:<nl>
+ When you reach the port to
+ Freyland, turn north and you'll go
+ straight there.{END}
+
+<audio_0B1D><Klarth>:<nl>
+ I've been thinking...<nl>
+<pause>
+<audio_0B1E><Klarth>:<nl>
+ If we are to believe that Dhaos is
+ indeed influencing the ruling
+ family...<nl>
+<pause>
+<audio_0B1F><Klarth>:<nl>
+ We'll need to be extremely careful
+ about our next move.
+<pause>
+<audio_0B20><Klarth>:<nl>
+ Even if we're just gathering
+ information on magic, we'll
+ draw attention to ourselves.
+ If Dhaos learned of our purpose...<nl>
+<pause>
+<audio_0B21><Mint>:<nl>
+ What do you suggest we do, then?
+<pause>
+<audio_0B22><Klarth>:<nl>
+ Clearly, we first need to release
+ the prince from Dhaos' influence
+ by finding and defeating the
+ responsible henchman.
+<pause>
+<audio_0B23><Cless>:<nl>
+ So we're going to infiltrate the
+ castle?
+<pause>
+<audio_0B24><Klarth>:<nl>
+ Precisely.
+<pause>
+<audio_0B25><Klarth>:<nl>
+ Of course, we still need to find a
+ way in, first...{END}
+
+<audio_0B26><Arche>:<nl>
+ A-And?
+<pause>
+<audio_0B27><Arche>:<nl>
+ Hey, why are you guys staring at
+ me with such creepy faces all of a
+ sudden...?
+<pause>
+<audio_0B28><Arche>:<nl>
+ W-Wait...<nl>
+<pause>
+<audio_0B29><Arche>:<nl>
+ You don't mean...<nl>
+ On my broom!?{END}
+
+<audio_0B2A><Arche>:<nl>
+ H-Hold on guys, are you for real!?
+<pause>
+<audio_0B2B><Klarth>:<nl>
+ The rest of us can't fly, and
+ somehow I doubt that the castle
+ guards will fall for any of your
+ flirtatious shenanigans.
+<pause>
+<audio_0B2C><Arche>:<nl>
+ ...'Kay.
+<pause>
+<audio_0B2D><Arche>:<nl>
+ Well then!
+ Since that's settled, should we get
+ this show on right now?
+<pause>
+<audio_0B2E><Arche>:<nl>
+ Faster is better, ain't it?
+<pause>
+<audio_0B2F><Mint>:<nl>
+ We only have one chance to do this
+ safely, and correctly...<nl>
+<pause>
+<audio_0B30><Mint>:<nl>
+ It would be best to make sure
+ we're prepared, even if it costs us
+ a day.<wait>{END}
+
+<color_0002>Sneak into the castle?<color_0000>{END}
+
+<color_0002>Absolutely sure?<color_0000>{END}
+
+<audio_0B31><Cless>:<nl>
+ I'm prepared.
+ Let's go!!{END}
+
+<Cless>:<nl>
+ <audio_1785>I don't feel up for this right now.
+ Let's do it tomorrow instead.{END}
+
+Yomi:<nl>
+ Yomi here!
+ I'm so glad to see you all today!
+ I'll sing “The Dream Will Never Die.”
+ Please enjoy!{END}
+
+Yomi:<nl>
+ Thank you, everyone.{END}
+
+Ticket Collector:<nl>
+ Please wait, sir!{END}
+
+Ticket Collector:<nl>
+ Are you leaving?
+<pause>
+<Cless>:<nl>
+ Yes.
+ I don't think we have the time for
+ this right now.
+<pause>
+Ticket Collector:<nl>
+ Oh, that's a shame.
+ Here, I'll return your ticket.
+<pause>
+Ticket Collector:<nl>
+ You can use it at her next show.
+ We hope to see you then.{END}
+
+Ticket Collector:<nl>
+ This pub is hosting a concert for
+ Yomi today.
+<pause>
+Ticket Collector:<nl>
+ Have you come to watch her sing?{END}
+
+Ticket Collector:<nl>
+ Then show me your ticket!
+<pause>
+{END}
+
+Ticket Collector:<nl>
+ Looks good.
+ Feel free to watch from wherever
+ you like.{END}
+
+<Cless>:<nl>
+ Uh...<nl>
+ I...don't seem to have one...<nl>
+<pause>
+Ticket Collector:<nl>
+ ...I apologize, but I can only admit
+ concert-goers with a ticket into
+ the pub at this time.
+<pause>
+Ticket Collector:<nl>
+ I must request that you leave until
+ Yomi's concert is over.{END}
+
+Ticket Collector:<nl>
+ Oh.
+ Then perhaps we'll see
+ you next time.{END}
+
+Ticket Collector:<nl>
+ Please find your places.
+ The show will begin shortly.{END}
+
+Ticket Collector:<nl>
+ I must request that you leave until
+ Yomi's concert is over.{END}
+
+Ticket Collector:<nl>
+ Thank you for your attendance
+ today.{END}
+
+Groupies:<nl>
+ Yomi! Yomi!!{END}
+
+Bartender:<nl>
+ What did you think?
+ That Yomi girl sure is something,
+ isn't she?{END}
+
+<speed_0000>Groupies:<nl>
+ YOMI! YOMI! YOMI!{END}
+
+<speed_0000>Groupies:<nl>
+ Kiss! Kiss! Kiss!{END}
+
+<speed_0000>Groupies:<nl>
+ Realize!{END}
+
+<speed_0000>Groupies:<nl>
+ Sunliiiight!{END}
+
+<speed_0000>Groupies:<nl>
+ Memoryyyy!{END}
+
+<speed_0000>Groupies:<nl>
+ L. O. V. E.!{END}
+
+<speed_0000>Groupies:<nl>
+ WE LOVE YOU, YOMI!{END}
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1315">
+        <source>Apparently Edward's gone back to Olive Village.</source>
+        <target state="translated">Apparently Edward's gone back to Olive Village.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1316">
+        <source>Then shouldn't we hauling butt back to Ollie?</source>
+        <target state="translated">Then shouldn't we hauling butt back to Ollie?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1317">
+        <source>Aye. Wouldn't want him walking out on us again.</source>
+        <target state="translated">Aye. Wouldn't want him walking out on us again.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

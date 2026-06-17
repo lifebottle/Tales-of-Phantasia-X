@@ -1,0 +1,26 @@
+Play Time{END}
+
+Gald{END}
+
+Cooking Ability{END}
+
+Character Info{END}
+
+Minigames Data{END}
+
+Artes{END}
+
+Increase Max HP{END}
+
+Combo Experience{END}
+
+EXP x2{END}
+
+Grade x2{END}
+
+Consumable Items{END}
+
+Total{END}
+
+Grade{END}
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_206">
+        <source>Aselian Calendar, Year 4354.</source>
+        <target state="translated">Aselian Calendar, Year 4354.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_207">
+        <source>At last, Dhaos' castle has revealed itself.</source>
+        <target state="translated">At last, Dhaos' castle has revealed itself.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_208">
+        <source>The moment of truth is at hand.</source>
+        <target state="translated">The moment of truth is at hand.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_209">
+        <source>The hero's grand adventure
+flashbacks through his mind.</source>
+        <target state="translated">The hero's grand adventure
+flashbacks through his mind.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_210">
+        <source>With his friend, a master marksman
+wielding a great bow by his side, he proceeds</source>
+        <target state="translated">With his friend, a master marksman
+wielding a great bow by his side, he proceeds</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_211">
+        <source>toward the grand finale to sever the
+chains of fate that bind his own hand.</source>
+        <target state="translated">toward the grand finale to sever the
+chains of fate that bind his own hand.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_212">
+        <source>You know, this narcissistic
+narrating thing is getting old.</source>
+        <target state="translated">You know, this narcissistic
+narrating thing is getting old.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_213">
+        <source>...Don't mind me, man. I'm just having fun.</source>
+        <target state="translated">...Don't mind me, man. I'm just having fun.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

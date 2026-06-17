@@ -1,0 +1,281 @@
+Village of Totus{END}
+
+<Cless>
+ (This is Maple Bridge.
+ It's been here for ages...)
+<pause>
+<Cless>
+ (According to village folklore, vows
+ of love exchanged here will never
+ die.)
+<pause>
+<Cless>
+ (Where people got that idea, I'll
+ never know...){END}
+
+<Cless>
+ They're supposed to ring this bell
+ whenever a fire or other danger
+ threatens the village.{END}
+
+<color_0002>If you press the <color_0003>SELECT button<color_0002> on
+the <item_9000>, the group will
+engage in a <color_0003>skit<color_0002>.
+<pause>
+The skits are mainly conversations
+about your progress in the story,
+but you can encounter special ones
+if specific conditions have been met.{END}
+
+Tristan
+ Heyyyy, <Cless>!{END}
+
+<Cless>
+ Going home already, Master?
+<pause>
+Tristan
+ Actually, a stranger just came by
+ with an urgent summons.
+<pause>
+Tristan
+ He didn't tell me what it was for,
+ though.
+<pause>
+Tristan
+ Really, it was rather rude.
+<pause>
+Tristan
+ Now, where are you off to?
+<pause>
+<Cless>
+ Our favorite hunting spot:
+ the forest to the south.
+ We'll bring back something even
+ you'll be impressed with!
+<pause>
+Tristan
+ I see.
+ You're very diligent.{END}
+
+Woman
+ Oh! Hello, <Cless>...
+<pause>
+Woman
+ You frightened me there.
+<pause>
+Woman
+ I don't know if I've told you this
+ yet, but our marriage ceremony is
+ next month! Oh, I can't wait!
+<pause>
+Woman
+ There's still so much planning to do
+ and arrangements to make, though.
+ We were talking about it just
+ moments ago.{END}
+
+<unk1>Man
+ Heya, <Cless>!
+<pause>
+Man
+ You'd better find a lady of your
+ own soon!{END}
+
+Child
+ Teach me about swordplay, bro!
+<pause>
+Child
+ I wanna get all strong and buff!{END}
+
+Girl
+ Awww, I can't wait for my turn to
+ be a bride, too!{END}
+
+Traveler
+ Want some tips on traveling?{END}
+
+Traveler
+ Well, any way you slice it, you've
+ gotta survey the landscape.
+<pause>
+Traveler
+ After that, you confirm your
+ location and direction.
+<pause>
+Traveler
+ Looking at a map's the best way to
+ confirm your location.
+<pause>
+Traveler
+ You can check your direction with a
+ compass.<wait>{END}
+
+<color_0002>Pressing either <var_0502> or <var_0602> on the
+<item_9000> will rotate the field.
+<pause>
+The mini-map in the lower right
+corner of the screen shows your
+current position with a white point
+and your field of vision in yellow.
+<pause>
+You can check your direction with
+the compass in the upper left
+corner.
+<pause>
+You can press the START button to
+hide or display the map and
+compass.{END}
+
+Traveler
+ Well, I guess you can always ask
+ later...{END}
+
+Traveler
+ Not a very friendly one, are you?{END}
+
+Traveler
+ I travel all around the world.
+<pause>
+Traveler
+ I have to say, this village is nice
+ with its abundance of nature.
+<pause>
+Traveler
+ I haven't been here for long, but I
+ already feel at home in this place.{END}
+
+<unk1>Young Man
+ Heya, <Cless>.
+ Looks like you're off to hunt again.
+<pause>
+Young Man
+ Wish I could tag along. I'm so
+ bored just standing here all day,
+ every day... When's the last time I
+ even rang this thing, anyway?
+<pause>
+Young Man
+ I suppose peace is a good thing,
+ but if something doesn't happen
+ soon, I'm probably gonna get laid
+ off...{END}
+
+<Chester>
+ All right, I'm going off to hunt us
+ some dinner.<wait>{END}
+
+Ami
+ Don't get hurt out there.
+ Watch for angry boars!<wait>{END}
+
+<Chester>
+ Yeah, and you watch the pad until I
+ come back.<wait>{END}
+
+<unk1>Ami
+ Oh, hold on, Big Brother.
+ Would you tell <Cless> that I
+ have a little surprise for him?<wait>{END}
+
+<Chester>
+ Anything for Little Sis.
+<pause>
+Ami
+ Well, see you later!{END}
+
+<unk1><Chester>
+ Heeeey! <Cless>!
+ Let's go, dude!<wait>{END}
+
+<Cless>
+ Sorry about the wait.
+<pause>
+<Chester>
+ Nah, it's all good.
+<pause>
+<Chester>
+ Anyway, did you guys invite the
+ circus over?
+<pause>
+<Chester>
+ It's so loud from out here, you'd
+ think everyone in there's after
+ each others' necks or something...
+<pause>
+<Cless>
+ Actually, Master came by.
+<pause>
+<Chester>
+ The master?
+ Oh, you mean that
+ old guy, Tristan?
+<pause>
+<Chester>
+ He hardly looks like he can
+ hold a sword, doesn't he?
+<pause>
+<Cless>
+ I heard he gave my dad some
+ tough lessons way back in his
+ instructor days, and--
+<pause>
+???
+ <Cless>...{END}
+
+<Cless>
+ Huh, Mom?
+ You shouldn't come out here until
+ you're better.
+<pause>
+(<Cless><'s/'> Mother, Maria)
+ I know, but I'm more concerned
+ about you two.
+<pause>
+Maria
+ I don't want to see you boys come
+ home wounded, so be careful.
+<pause>
+<Cless>
+ We know.<wait>{END}
+
+<unk1><Cless>
+ <Chester>'ll have his bow
+ and I'll have my sword.
+ We can handle this.<wait>{END}
+
+<Chester>
+ Yeah, no need to be worried about
+ us, ma'am.
+<pause>
+<Chester>
+ We're just gonna go hunt
+ in the woods like usual.
+ We'll bring back enough game
+ to feed everyone for a month!
+<pause>
+Maria
+ Sounds good, but...<wait>{END}
+
+Maria
+ Don't go overboard, you hear?<wait>{END}
+
+Maria
+ And take these with you just in
+ case you run into unexpected
+ trouble.<wait>{END}
+
+<color_0002>Acquired two <item_7700>s.<color_0000>
+<pause>
+<Chester>
+ Well, looks like we're done here.<wait>{END}
+
+<Cless>
+ Yeah, let's do it!
+<pause>
+<Chester>
+ Oh, hold on a sec--I almost forgot.
+<pause>
+<Chester>
+ Ami said she has a “little surprise”
+ waiting for you.{END}
+

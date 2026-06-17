@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_410">
+        <source>Heya, &lt;Suzu&gt;. Why
+do birds all stick together?</source>
+        <target state="translated">Heya, &lt;Suzu&gt;. Why
+do birds all stick together?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_411">
+        <source>It enables them to defend
+themselves from external threats.</source>
+        <target state="translated">It enables them to defend
+themselves from external threats.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_412">
+        <source>So basically, they're weak on their
+own, but show strength in numbers?</source>
+        <target state="translated">So basically, they're weak on their
+own, but show strength in numbers?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_413">
+        <source>You are correct.</source>
+        <target state="translated">You are correct.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_414">
+        <source>That's kinda like us, yeah?</source>
+        <target state="translated">That's kinda like us, yeah?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_415">
+        <source>Yes. Our teamwork enables us to defeat
+those who would harm us, such as Dhaos.</source>
+        <target state="translated">Yes. Our teamwork enables us to defeat
+those who would harm us, such as Dhaos.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_416">
+        <source>Then let's *all* punch his lights out!</source>
+        <target state="translated">Then let's *all* punch his lights out!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html translate="no">
+
+<head>
+	<title>Tales of Phantasia: Cross Edition Patcher</title>
+	<meta http-equiv="content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+
+
+
+	<!-- Rom Patcher JS needed CSS/JS files -->
+	<link type="text/css" rel="stylesheet" href="./rom-patcher-js/style.css" media="all" />
+	<script type="text/javascript" src="./rom-patcher-js/RomPatcher.webapp.js"></script>
+
+	<!-- Rom Patcher JS initialization -->
+	<script type="text/javascript">
+        const TOPX_MD5 = 'aa49c716783766aa5913e6a5ca8bb822';
+        const TOPX_PSN_MD5 = 'be2753be74f753050d4f5ce4b5c11e72';
+        const TOP_FVE_MD5 = '986193786969438311a41262aead541a';
+
+        const TOPX_VERSION = '1.1';
+        const TOPX_VERSION_NODOTS = TOPX_VERSION.replace('.', '');
+
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+
+        const TOPX_PATCH_NAME = `topx-v${TOPX_VERSION}`;
+        const TOPX_PATCH_NAME_VANILLA = TOPX_PATCH_NAME + '-vanilla';
+
+        const TOPX_PATCH_TITLE = `Tales of Phantasia: Cross Edition v${TOPX_VERSION}`;
+        const TOPX_PATCH_TITLE_VANILLA = `Tales of Phantasia: Cross Edition v${TOPX_VERSION} (No QoL)`;
+
+        const topx_psn_warning = "This translation patch is not intended for the PSN version of Tales of Phantasia X.";
+        const top_fve_warning = "This translation patch is not intended for Tales of Phantasia: Full Voice Edition.";
+        const wrong_extension_warning = "Wrong format, this translation patch requires an ISO file.";
+
+        const origin = window.location.origin;
+        const pathname = window.location.pathname;
+        const baseUrl = origin + pathname;
+
+        function ready(fn) {
+          if (document.readyState !== 'loading') {
+            fn();
+          } else {
+            document.addEventListener('DOMContentLoaded', fn);
+          }
+        }
+
+const help_text = `
+The main patch features the following quality-of-life improvements over the base game:
+
+<ul>
+<li>Added a skit prompt on the world map</li>
+<li>Added a new Red Lantern location in the Airfread quest</li>
+<li>Restored Suzu's controls to what they were in ToP PSX</li>
+<li>Restored the original ending credits song</li>
+<li>Removed the Dark element from Suzu's Chizakura weapon</li>
+<li>Made the stealth section of Alvanista Castle less punishing</li>
+<li>Added a toggle for turning Battle Subs on/off</li>
+<li>Added a toggle for turning enhanced Holy Bottles on/off (enhanced bottles stop encounters fully for their duration, as in modern games)</li>
+<li>Monster Book is now alphabetically sorted and starts at the first entry</li>
+<li>The Sorcerer's Ring doesn't need to be equipped to be able to shoot fire</li>
+<li>Curio's Mirror, Scout Orb and Combo Counter now carry over in New Game+ if you select the option to carry over items</li>
+<li>Restored Rhea Super Deformed sprite from ToP GBA</li>
+<li>Ishrantu's Monster Book entry now correctly lists the elemental weakness as Earth</li>
+<li>Chester doesn't block you from visiting Euclid at the start of the game</li>
+<li>One censored skit about drinking is now restored</li>
+<li>Fixed coords for two hotspots which were misplaced in the original game (bookshelves in the back of the item shop in the Elven Settlement and Arche's crying animation during a cutscene)</li>
+<li>Fixed HP/TP restore on level-up not taking accessories into account</li>
+</ul>
+
+Since some of these affect the gameplay, we have provided a "No QoL" patch for those preferring to
+forgo gameplay-related improvements and have the original experience.
+`;
+
+		window.addEventListener('load', function (evt) {
+			try {
+				RomPatcherWeb.initialize({
+					language: 'en', //default: en
+					requireValidation: false,
+                    allowDropFiles: true,
+                    onloadrom: function (romFile) {
+                        const hash = romFile.hashMD5();
+                        let warning = document.getElementById('rom-patcher-warning');
+                        let extension = romFile.fileName.split('.').at(-1) || '';
+                        if (extension.toLowerCase() !== 'iso') {
+                            warning.innerHTML = wrong_extension_warning;
+                        } else if (hash === TOPX_MD5) {
+                            RomPatcherWeb.pickEmbededFile(`${TOPX_PATCH_NAME}.xdelta`);
+                            warning.innerHTML = '';
+                        } else if (hash === TOPX_PSN_MD5) {
+                            warning.innerHTML = topx_psn_warning;
+                        } else if (hash == TOP_FVE_MD5) {
+                            warning.innerHTML = top_fve_warning;
+                        }
+                    },
+				}, {
+                    file: `./topx_v${TOPX_VERSION_NODOTS}.zip`, //zip containing patches
+                    patches: [ //information about patches inside the zip
+                        {
+                            file: `${TOPX_PATCH_NAME}-main.xdelta`, //required, must match the patch file name in the zip
+                            name: TOPX_PATCH_TITLE,
+                            inputMd5: TOPX_MD5,
+                        },
+                        {
+                            file: `${TOPX_PATCH_NAME_VANILLA}.xdelta`, //required, must match the patch file name in the zip
+                            name: TOPX_PATCH_TITLE_VANILLA,
+                            //inputMd5: TOPX_MD5,
+                        }
+                    ],
+				});
+			} catch (err) {
+				var message = err.message;
+				if (/incompatible browser/i.test(message) || /variable RomPatcherWeb/i.test(message))
+					message = 'Your browser is outdated and it is not compatible with this app.';
+
+				document.getElementById('rom-patcher-container').innerHTML = message;
+				document.getElementById('rom-patcher-container').style.color = 'red';
+			}
+		});
+
+        ready(function() {
+            document.querySelector('.rom-patcher-help').innerHTML = help_text;
+        });
+	</script>
+</head>
+
+<body>
+	<header>
+		<h1>Tales of Phantasia: Cross Edition English Translation</h1>
+
+        <a href="https://www.lifebottle.org/" rel="nofollow noopener"><img class="logo" src="lbp_logo.svg" alt="Life Bottle Productions" /></a>
+
+        <div id="rom-patcher-warning"></div>
+
+        <details>
+            <summary>HOW TO GET 60fps battles</summary>
+            <div class="accordion-content">
+<pre class="accordion-text">
+<strong>For emulator users:</strong>
+
+1. ULJS00293.ini goes in the memstick/cheats folder or, if on Android, the psp/cheats folder.
+
+2. To enable cheats, bring up the PPSSPP menu.
+
+3. Click Settings, then the System tab, scroll down until you get to the Cheats section (the second one from the bottom). Click "Enable Cheats".
+
+4. Now go back to the PPSSPP menu and you will now have an option called "Cheats". Click it, and enable the 60fps cheat.
+
+<strong>For PSP/PSVita users:</strong>
+
+1. You need the TempAR plugin: <a href="https://github.com/raing3/tempar/releases/latest">https://github.com/raing3/tempar/releases/latest</a> To be able to see the full cheat list you need the latest version of TempAR (>=1.6.4).
+
+2. Put ULJS-00293.db inside /SEPLUGINS/TempAR/cheats
+
+3. When inside the game you'll need to press R+HOME to open TempAR, the tab should be [Cheater].
+   Select the cheats you want to turn on with X.
+   If you want a cheat to always be ON, modify its name in ULJS-00293.db and change "_C0" to "_C2".
+
+4. Press NOTE (♪) to turn the Cheat Engine on.
+   Navigate to the [PRX] tab by pressing R and set "Max Cheats?" to 2000 and "Max Blocks?" to 2496
+   then select "Save Settings". 
+
+5. Press O to exit the TempAR menu and go back to the game.
+        </div>
+        </details>
+        
+        <details>
+            <summary>How to fix the graphics (PPPSSPP)</summary>
+            <div class="accordion-content">
+<pre class="accordion-text">
+Update to the newest mainline build!
+The older builds have graphical bugs with the water and heat haze effects.
+
+Link:
+<a href="https://www.ppsspp.org/download/">https://www.ppsspp.org/download/</a>
+
+Scroll down and grab the latest dev build</pre>
+        </div>
+        </details>
+
+	</header>
+
+
+	<!-- Rom Patcher JS container -->
+	<div id="rom-patcher-container">
+		<div class="rom-patcher-row margin-bottom" id="rom-patcher-row-file-rom">
+			<div class="text-right"><label for="rom-patcher-input-file-rom" data-localize="yes">NDX Japanese ISO:</label></div>
+			<div class="rom-patcher-container-input">
+				<input type="file" id="rom-patcher-input-file-rom" class="empty" disabled />
+			</div>
+		</div>
+        <div class="margin-bottom text-selectable text-mono text-muted" id="rom-patcher-rom-info" style="display: none;">
+			<div class="rom-patcher-row">
+				<div class="text-right">CRC32:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-crc32"></span></div>
+			</div>
+			<div class="rom-patcher-row">
+				<div class="text-right">MD5:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-md5"></span></div>
+			</div>
+			<div class="rom-patcher-row">
+				<div class="text-right">SHA-1:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-sha1"></span></div>
+			</div>
+			<div class="rom-patcher-row" id="rom-patcher-row-info-rom">
+				<div class="text-right">ROM:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-rom-info"></span></div>
+			</div>
+		</div>
+
+		<div class="rom-patcher-row margin-bottom" id="rom-patcher-row-file-patch">
+			<div class="text-right"><label for="rom-patcher-input-file-patch" data-localize="yes">Patch file:</label>
+			</div>
+			<div class="rom-patcher-container-input">
+				<select id="rom-patcher-select-patch"></select>
+			</div>
+		</div>
+		<div class="rom-patcher-row margin-bottom" id="rom-patcher-row-patch-description">
+			<div class="text-right text-mono text-muted" data-localize="yes">Description:</div>
+			<div class="text-truncate" id="rom-patcher-patch-description"></div>
+		</div>
+		<div class="rom-patcher-row margin-bottom text-selectable text-mono text-muted"
+			id="rom-patcher-row-patch-requirements">
+			<div class="text-right text-mono" id="rom-patcher-patch-requirements-type">ROM requirements:</div>
+			<div class="text-truncate" id="rom-patcher-patch-requirements-value"></div>
+		</div>
+
+		<div class="text-center" id="rom-patcher-row-apply">
+			<div id="rom-patcher-row-error-message" class="margin-bottom"><span id="rom-patcher-error-message"></span>
+			</div>
+			<button id="rom-patcher-button-apply" data-localize="yes" disabled>Apply patch</button>
+		</div>
+	</div>
+
+    <div class="rom-patcher-help"></div>
+
+	<div id="rom-patcher-powered" class="text-center">
+		<a href="https://github.com/marcrobledo/RomPatcher.js" target="_blank"><img
+				src="rom-patcher-js/assets/powered_by_rom_patcher_js.png" loading="lazy" />Powered by Rom Patcher JS</a>
+	</div>
+</body>
+
+</html>

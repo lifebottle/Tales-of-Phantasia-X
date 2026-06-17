@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_698">
+        <source>Argh, stupid men. They're all the same.</source>
+        <target state="translated">Argh, stupid men. They're all the same.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_699">
+        <source>In what way?</source>
+        <target state="translated">In what way?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_700">
+        <source>They're all sleazy perverts, you
+know? Even if they seem harmless.</source>
+        <target state="translated">They're all sleazy perverts, you
+know? Even if they seem harmless.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_701">
+        <source>You never know *what* is
+actually going on in their filthy minds!</source>
+        <target state="translated">You never know *what* is
+actually going on in their filthy minds!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_702">
+        <source>Owwwwww... HEY! What did you slap me for!?</source>
+        <target state="translated">Owwwwww... HEY! What did you slap me for!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_703">
+        <source>Hmph! What goes around comes
+around, Demon Prince of Perverts!</source>
+        <target state="translated">Hmph! What goes around comes
+around, Demon Prince of Perverts!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_704">
+        <source>The hell did you just call me!?</source>
+        <target state="translated">The hell did you just call me!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_705">
+        <source>Demon Prince of Perverts!
+Remember it! It's your new name!</source>
+        <target state="translated">Demon Prince of Perverts!
+Remember it! It's your new name!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_706">
+        <source>EEEEEEK! Someone save
+me from the Pervert Prince!</source>
+        <target state="translated">EEEEEEK! Someone save
+me from the Pervert Prince!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_707">
+        <source>Cut the crap! GET BACK HERE DAMN YOU!!</source>
+        <target state="translated">Cut the crap! GET BACK HERE DAMN YOU!!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

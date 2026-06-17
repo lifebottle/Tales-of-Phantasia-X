@@ -1,0 +1,43 @@
+USRDIR/talk - audio files for skits (260 vs. 258 in ToP PSX)
+USRDIR/nmap/map_d - dialogue files, seem to be the same format as ToP PSX
+skits seem to be in the same order
+the 2 new ones are the end and are re-recordings of 257 and 258
+
+type1 - offset and size for each sub-block
+type2 - offset and block type for each sub-block
+all dialogue blocks are type2
+
+in type2 the offsets are counted from AFTER the header
+while type1 they're just absolute offsets in the file
+
+ToPX: 623 map files (63 unique)
+ToP PSX: counting duplicates, there are 622 blocks (62 unique)
+
+each text block starts with two ints: number of strings and base address for pointers
+text pointers are 16-bit relative
+C0 usually precedes the pointers and they are usually followed by 01
+
+a_01_09 -> new block
+
+the name tag for Rhea changed from char_0007 to char_0008
+audio tags are added
+
+game/sys.d (02) - main font, 1bpp, 16x14, left and right halves swapped
+game/monster.d - monster book
+nmap/wo_tim, nmap/wo_tim2 - some graphical text
+nmap/montim{0-7}.acf - monster graphics
+
+NOTE: needs editing for different languages
+FUN_08880c08 - battle menu labels
+0x098251A2 - width and size for Item (RAM)
+e_01.decomp       --0x12A
+src posx, src posy, width, height
+each entry is 8 bytes
+
+0x112 - Artes
+0x11A - Strategy
+0x122 - Formation
+0x12A - Items
+0x132 - Debug
+0x13A - Order
+

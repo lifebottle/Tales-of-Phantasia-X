@@ -1,0 +1,194 @@
+Apprentice Swordsman{END}
+
+Swordsman{END}
+
+Battlemaster{END}
+
+Swordmaster{END}
+
+Fencer{END}
+
+Brave Fencer{END}
+
+Last Fencer{END}
+
+Alvein Successor{END}
+
+Combo Commander{END}
+
+Berserker{END}
+
+Champion{END}
+
+Gourmet King{END}
+
+Subtraction Guru{END}
+
+Eternal Swordsman{END}
+
+Gilgamesh{END}
+
+Mach Boy{END}
+
+Healer{END}
+
+Cleric{END}
+
+Priestess{END}
+
+Bishop{END}
+
+Cardinal{END}
+
+Pope{END}
+
+{END}
+
+{END}
+
+Cupid{END}
+
+Ms. Puffy Muffins{END}
+
+Pure Maiden{END}
+
+Gourmet Queen{END}
+
+Songstress{END}
+
+Professor Adnade{END}
+
+{END}
+
+{END}
+
+Magic User{END}
+
+Witch{END}
+
+Mage{END}
+
+Sorceress{END}
+
+Wizardess{END}
+
+Magic Maestro{END}
+
+{END}
+
+{END}
+
+Three Sheets to the Wind{END}
+
+Pancake Chick{END}
+
+Femme Fatale Failure{END}
+
+Gourmet Queen?{END}
+
+Worst. Chef. Ever.{END}
+
+GROOVY{END}
+
+{END}
+
+{END}
+
+Magic Scholar{END}
+
+Tamer{END}
+
+Summoner{END}
+
+Elementalist{END}
+
+Warlock{END}
+
+Master Summoner{END}
+
+{END}
+
+{END}
+
+Monster Hunter{END}
+
+Item Collector{END}
+
+Treasure Hunter{END}
+
+Gourmet King{END}
+
+Henpecked Man{END}
+
+Distant Lover{END}
+
+{END}
+
+{END}
+
+Hunter{END}
+
+Ranger{END}
+
+Archer{END}
+
+Sniper{END}
+
+Shooter{END}
+
+Striker{END}
+
+{END}
+
+{END}
+
+Kind Brother{END}
+
+Workhorse{END}
+
+Demon Prince of Perverts{END}
+
+Gourmet King{END}
+
+Super Mach Bastard{END}
+
+Ripped Dude{END}
+
+{END}
+
+{END}
+
+Sparrow Ninja{END}
+
+Raven Ninja{END}
+
+Swallow Ninja{END}
+
+Falcon Ninja{END}
+
+Hawk Ninja{END}
+
+Crane Ninja{END}
+
+{END}
+
+{END}
+
+Heart of Steel{END}
+
+Successor{END}
+
+Sweet Tooth{END}
+
+Gourmet Queen{END}
+
+Shinobi{END}
+
+Smitten Girl{END}
+
+{END}
+
+{END}
+
+{END}
+

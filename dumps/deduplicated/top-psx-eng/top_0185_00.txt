@@ -1,0 +1,1495 @@
+Ninja Village{END}
+
+Chief's House{END}
+
+General Store “Kurikinton”{END}
+
+<unk1>Ranzo
+ I leave <Suzu> in your care.
+<pause>
+Ranzo
+ Her fate is that of all children born
+ to our clan.
+<pause>
+Ranzo
+ It is her duty to adhere to the
+ strict laws which govern the ninja
+ profession.<wait>{END}
+
+<unk1>Ranzo
+ Ah, yes.
+ <Suzu>, I give you this.
+<pause>
+Ranzo
+ It should serve your needs well.<wait>{END}
+
+<color_0002>Acquired a <item_6A01>.
+<pause>
+<color_0000><Suzu>
+ I am grateful that you think me
+ worthy to use this, Grandfather.<wait>{END}
+
+<unk1>Ranzo
+ There is something you should
+ know.
+<pause>
+Ranzo
+ It is destined that someday, you
+ too will inherit the leadership of
+ our village.
+<pause>
+<Suzu>
+ Yes, sir!
+<pause>
+Ranzo
+ I am certain you already know of
+ the cave of trials.
+<pause>
+<Suzu>
+ Yes.
+<pause>
+Ranzo
+ When you feel you have attained
+ adequate strength, enter the <color_0002>village
+ well<color_0000>.{END}
+
+<unk1>Ranzo
+ Welcome back, Young Master
+ <Cless>.
+<pause>
+Ranzo
+ You have helped us greatly in the
+ matter of <Suzu><'s/'> parents...
+<pause>
+<Cless>
+ That's not true...
+<pause>
+<Cless>
+ They died because of me...
+<pause>
+Ranzo
+ Say no more.
+<pause>
+Ranzo
+ Our clan bears no animosity toward
+ you.
+<pause>
+Ranzo
+ It is our belief that you brought
+ redemption to their souls.
+<pause>
+<Cless>
+ I'm relieved to hear you say so, sir.
+<pause>
+Ranzo
+ Here, allow us to express our clan's
+ gratitude with this.
+<pause>
+<Cless>
+ Oh, that looks like an--
+<pause>
+Ranzo
+ Yes indeed, this is an arcane arte
+ book.
+<pause>
+Ranzo
+ An outsider who visited our village
+ gave it to us.
+<pause>
+Ranzo
+ And along with the book he left us
+ a request.
+<pause>
+<Cless>
+ Oh?
+ What was it?
+<pause>
+{END}
+
+<unk1>Ranzo
+ “When crisis falls upon the world, a
+ swordsman shall visit this place.”
+<pause>
+Ranzo
+ “If that swordsman is the true
+ savior of the world, then bestow
+ this upon him.”
+<pause>
+{END}
+
+<unk1>Ranzo
+ Those were the wayfarer's very
+ words.
+<pause>
+Ranzo
+ I believe you to be the one of
+ whom he foretold, and the
+ intended recipient of this book.
+<pause>
+Ranzo
+ Here, take it with you.<wait>{END}
+
+<color_0002><Cless> learned
+<var_9C00>.<color_0000>
+<pause>
+Ranzo
+ I have one final request.
+<pause>
+Ranzo
+ Would you have <Suzu> travel
+ with you?<wait>{END}
+
+<unk1><Suzu>
+ I request the same.
+<pause>
+<Suzu>
+ You all have helped us in many
+ ways.
+<pause>
+<Suzu>
+ I would like to repay your
+ assistance.
+<pause>
+<Suzu>
+ My objective of seeking out my
+ parents has been fulfilled.
+ I have no other duties.
+<pause>
+<Suzu>
+ Perhaps I will prove to be a
+ burden, but I would like to offer
+ whatever aid I can.
+<pause>
+<Suzu>
+ It may be an exaggeration to say
+ that I would be doing this for the
+ sake of the world, but...
+<pause>
+<Cless>
+ Well...
+<pause>
+<Arche>
+ Yeah! Come with us!
+ We can kick butt together!
+<pause>
+<Mint>
+ I think we should take her along,
+ as well.
+<pause>
+Ranzo
+ Yes, she shall be of great
+ assistance to all of you.
+<pause>
+Ranzo
+ Young Master <Cless>...
+<pause>
+Ranzo
+ Our clan...no--the world--is
+ cheering for you.
+<pause>
+<Cless>
+ Yes, sir!
+ I'll give everything I've got to
+ secure everyone's future!
+<pause>
+Ranzo
+ Well said.
+ Keep at it.{END}
+
+Ranzo
+ Oh, and before you pursue your
+ final battle...
+<pause>
+Ranzo
+ Why not perk up in our hot spring
+ once more?{END}
+
+<unk1>Ranzo
+ I leave this mission in your capable
+ hands.
+<pause>
+Ranzo
+ According to our network of
+ investigators...
+<pause>
+Ranzo
+ ...people closely matching the
+ descriptions of <Suzu><'s/'> parents
+ were last sighted in the vicinity of
+ <color_0002>Euclid<color_0000>.
+<pause>
+Ranzo
+ <Suzu> shall depart shortly to
+ sleuth the region herself.{END}
+
+<Suzu>
+ Please speak with my grandfather.
+<pause>
+<Suzu>
+ He would like to show you his
+ gratitude in the matter of my
+ parents.{END}
+
+<Suzu>
+ I am certain that Mother and
+ Father are alive.
+<pause>
+<Suzu>
+ I shall probe every land in this
+ world for them.{END}
+
+Monkey
+ Keekee!{END}
+
+Omiyo
+ I'm harvesting tea leaves.
+<pause>
+Omiyo
+ Green tea is number one, I say.{END}
+
+Osono
+ Greetings.
+ Have you traveled here
+ from a foreign land?
+<pause>
+Osono
+ I welcome you to our village.
+<pause>
+Osono
+ Have you seen our tools?
+ I imagine they appear quite unique
+ to your eyes.
+<pause>
+Osono
+ We used to barter for them, but
+ we now accept your gald currency.{END}
+
+Shinzo
+ For ninja, speed is of the essence!{END}
+
+<unk1>Oshin
+ Oh <Suzu>, I don't know what to
+ say...
+<pause>
+<Suzu>
+ Thank you, but your concern is not
+ necessary. I am coping well...{END}
+
+<unk1>Oshin
+ I hope <Suzu> doesn't lose heart
+ from the loss of her parents...{END}
+
+<unk1>Oshin
+ Poor <Suzu>...
+<pause>
+Oshin
+ I hope she finds her parents soon.{END}
+
+Kanzo
+ Our local specialties are tea, miso,
+ and konjac.
+<pause>
+Kanzo
+ You've seen the price for miso,
+ yes? It's so high because it's one
+ our greatest treasures!{END}
+
+<unk1>Oshizu
+ <Suzu> is very mature for an
+ eleven-year-old.
+<pause>
+Oshizu
+ She is destined to become our chief
+ some day.<wait>{END}
+
+<Suzu>
+ I...am...?<wait>{END}
+
+<color_0002><Suzu> has has earned the title
+“<var_DA01>.”<color_0000>{END}
+
+<unk1>Okayo
+ Good day to you, Mr. <var_8B01>!{END}
+
+Okayo
+ I'm searching for a strong man.
+<pause>
+Okayo
+ I heard that in another land, such a
+ person is called the “champion.”<wait>{END}
+
+<Cless>
+ I think I've heard people call me
+ that before...
+<pause>
+Okayo
+ Oh!? Really?<wait>{END}
+
+<unk1>Okayo
+ Oh my, yes!
+ You look big and buff!
+ Just like that “champion” I heard
+ about!
+<pause>
+Okayo
+ I'm...awestruck!
+<pause>
+Okayo
+ Please accept my gift!<wait>{END}
+
+<color_0002>Acquired a <item_8301><color_0000>{END}
+
+<unk1>Okayo
+ Is that true?
+<pause>
+Okayo
+ Hmm...
+ I want to believe...{END}
+
+Okayo
+ What does a champion look like?
+ I want to meet one...{END}
+
+Osayo
+ I shall tell you a fairy tale that has
+ been handed down by our folk for
+ generations. Listen.
+<pause>
+Osayo
+ Once upon a time, an old man and
+ an old woman lived in this village.
+<pause>
+Osayo
+ The old man went to the river to
+ do laundry and the old woman
+ went to the mountain to cut the
+ grass.
+<pause>
+Osayo
+ Oh, hold on...
+ Did I mix that up?
+<pause>
+Osayo
+ Sigh...
+ Old age is taking its toll...{END}
+
+Kinzo
+ Ninja equipment may look strange
+ to outsiders, but that's because it
+ has many specialized uses.{END}
+
+Jinzo
+ In addition to being adept
+ intelligence gatherers, ninja are
+ versed warriors that have
+ mastered many fighting styles.
+<pause>
+Jinzo
+ Among their arsenal of skills, they
+ can even call forth giant frogs to
+ do battle.
+<pause>
+Jinzo
+ Then come ninja artes, which
+ include techniques of fire and
+ water.
+<pause>
+Jinzo
+ And finally, they greatly outclass
+ non-ninja in agility, and take pride
+ in their speed and accuracy in
+ handling projectiles.{END}
+
+Ochiyo
+ A female ninja is called a
+ “kunoichi.”
+<pause>
+Ochiyo
+ That is because when you separate
+ the strokes for the kanji meaning
+ “female” in our writing system,
+ you get “kunoichi.”
+<pause>
+Ochiyo
+ Allow me to show you:
+ Kanji for “female”: <jyo>
+ “Kunoichi”: <ku><no><ichi>{END}
+
+Keizo
+ A ninja's training is long and
+ intensive.{END}
+
+Otomi
+ A woman's training is also long and
+ intensive.
+<pause>
+Otomi
+ There is much discipline involved
+ even when it comes to seemingly
+ simple things like learning how to
+ cook rice.{END}
+
+Oyone
+ Welcome.
+ What can I get for you?{END}
+
+Oyone
+ Thank you very much.{END}
+
+Haizo
+ ...Many of our clan have succumbed
+ to Dhaos' control and have become
+ his minions.
+<pause>
+Haizo
+ It's difficult to talk about...
+<pause>
+Haizo
+ But could it really be Dhaos'
+ handiwork alone?
+<pause>
+Haizo
+ A companion reported sighting a
+ monster resembling a giant
+ eyeball...{END}
+
+Okyo
+ Dhaos is almost...undefeatable...
+<pause>
+Okyo
+ You guys...have it hard...
+<pause>
+Okyo
+ Mmm...cheering for you...{END}
+
+Ofuyu
+ Producing miso requires much
+ diligence and patience, so I only
+ trade it in small amounts.
+<pause>
+Ofuyu
+ Use up what you have first, then
+ return here if you want more.{END}
+
+Ofuyu
+ <item_7100> is the key ingredient of the
+ dish <item_7100> Stew, and is produced
+ only in this village.
+<pause>
+Ofuyu
+ Its production demands great
+ diligence and much time, so the
+ price is rather steep.
+<pause>
+Ofuyu
+ By steep, I mean the sum of 80000
+ in your gald currency.
+<pause>
+<color_0002>Buy <item_7100>?<color_0000>{END}
+
+Ofuyu
+ Very well.
+ <item_7100> is a high-class commodity,
+ after all...{END}
+
+Ofuyu
+ This isn't fair compensation...{END}
+
+<color_0002>Acquired some <item_7100>.<color_0000>
+<pause>
+Ofuyu
+ You're now set to enjoy
+ delicious <item_7100> Stew!
+ Don't let it all go
+ to waste, now.{END}
+
+Ofuyu
+ I'm not ashamed of the <item_7100> Stew
+ recipe I use.
+<pause>
+Ofuyu
+ Why, I'll even show it to you.<wait>{END}
+
+<color_0002>Learned the recipe for <item_7100> Stew.
+<pause>
+Skill level has no bonus effects upon
+cooking <item_7100> Stew. Therefore,
+whichever character cooks it will
+master the recipe with five <star>s
+immediately.<color_0000>{END}
+
+???
+ I'm an artist.
+<pause>
+Artist
+ But...
+<pause>
+Artist
+ I can't seem to draw a picture that
+ simply shouts “This is ART!”.
+<pause>
+Artist
+ Do you have any good ideas?
+<pause>
+Artist
+ I have to make a living somehow...<wait>{END}
+
+Artist
+ By the way...
+ How is my painting? Any good?{END}
+
+Artist
+ Say, are you interested in this
+ painting?
+<pause>
+Artist
+ I'm selling it for 30000 gald.
+<pause>
+<color_0002>Buy his painting?<color_0000>{END}
+
+Artist
+ I see...{END}
+
+Artist
+ This isn't enough money...
+<pause>
+Artist
+ I'm sorry, but I can't let it go for
+ any less...{END}
+
+<color_0002>Acquired an <item_4700>.<color_0000>
+<pause>
+Artist
+ Thanks, I appreciate it.{END}
+
+<Suzu>
+ I will escort you back.
+<pause>
+{END}
+
+Where do you want to go?
+<color_0002><speed_0000>1. Treant Forest (Village Entrance)
+2. Elven Settlement
+3. Entrance of Ymir Forest<color_0000><speed_FFFF>{END}
+
+<Suzu>
+ Please relax.{END}
+
+<Arche>
+ Then I guess I'll zoom on back to
+ the entrance of Ymir Forest and
+ wait for you guys.
+<pause>
+<Arche>
+ Laters.{END}
+
+<Suzu>
+ Let us depart.{END}
+
+<color_0002>Fully recovered.<color_0000>{END}
+
+<unk1><Suzu>
+ Welcome to the Ninja Village.
+<pause>
+<Suzu>
+ We have invited you all to our
+ home to make a request.
+<pause>
+<Suzu>
+ Please follow me to meet with our
+ chief. My grandfather, that is.{END}
+
+<Suzu>
+ My grandfather is past this hall.
+<pause>
+<Cless>
+ Quite a place he has here...
+<pause>
+<Klarth>
+ Is it just me, or is there something
+ peculiar about this house's
+ atmosphere...?{END}
+
+<Cless>
+ Wh-what the!?
+<pause>
+<Chester>
+ Whoa, that was a close one, dude...
+<pause>
+<Klarth>
+ ...Take a spill down there, become
+ king-sized shish kabob on bamboo
+ skewers. Inviting indeed...<wait>{END}
+
+<Suzu>
+ M-my apologies.
+<pause>
+<Suzu>
+ Traps have been set as a
+ precaution against intruders.
+<pause>
+<Arche>
+ You coulda warned us, or turned
+ them off or something!<panic>{END}
+
+<Chester>
+ More traps?
+ Give us a break already...
+<pause>
+<Cless>
+ I-I'm sure there aren't any
+ more...<sweat><wait>{END}
+
+<unk1><Klarth>
+ Isn't it a little early to be making
+ assumptions like that?{END}
+
+<unk1><Mint>
+ Oh no!
+<pause>
+<Klarth>
+ Can't say I didn't warn him...{END}
+
+<unk1><Mint>
+ Are you hurt, <Cless>?
+<pause>
+<Cless>
+ N-nah...
+ Just a bit damp...<wait>{END}
+
+???
+ I sincerely apologize.
+<pause>
+???
+ Under no circumstance should you
+ have been treated in this way.
+<pause>
+???
+ I am the chief of this village, Ranzo
+ Fujibayashi.<wait>{END}
+
+Ranzo
+ <Suzu>!
+<pause>
+Ranzo
+ Did I not instruct you to deactivate
+ the traps when we have guests!?
+<pause>
+<Suzu>
+ My apologies...<wait>{END}
+
+<Cless>
+ I-I'm fine, sir.
+ Please don't worry about it...
+<pause>
+Ranzo
+ You will catch a cold as you are.
+<pause>
+Ranzo
+ Please use our hot spring to
+ recuperate.
+<pause>
+Ranzo
+ We shall discuss matters
+ afterward.<wait>{END}
+
+<Arche>
+ Yaaay!
+ Hot spring, hot spriiiing<heart>{END}
+
+Ranzo
+ How was it?
+<pause>
+Ranzo
+ Feeling much better, I hope.
+<pause>
+<Cless>
+ Yes.
+ Thank you very much.
+<pause>
+Ranzo
+ It is modest hospitality for you, the
+ great world-saving heroes.
+<pause>
+Ranzo
+ Anyway, we have heard the
+ rumors about you...
+<pause>
+Ranzo
+ You are journeying to exterminate
+ Dhaos, the leader of the mysterious
+ monsters rampaging about the
+ world, are you not...?
+<pause>
+<Klarth>
+ How did you learn of our
+ objective?
+<pause>
+<Klarth>
+ It's my understanding that this
+ place isolates itself and has
+ virtually no contact with the
+ outside world.
+<pause>
+Ranzo
+ It suits us to give that impression.
+<pause>
+Ranzo
+ Our clan dwells in the shadows of
+ the world's superpowers.
+<pause>
+Ranzo
+ Officially, we are closed to the
+ outside, but those superpowers
+ entrust us with covert missions
+ that require our special skills.
+<pause>
+<Cless>
+ What sort of covert missions?
+<pause>
+Ranzo
+ Spying, to put it bluntly.
+<pause>
+Ranzo
+ Gathering intelligence behind the
+ scenes is our specialty.<wait>{END}
+
+<Chester>
+ Wait, are you saying you've been
+ keeping an eye on us, too?
+<pause>
+<Chester>
+ You people creep me out...
+<pause>
+<Mint>
+ Mr. Barklight...!
+<pause>
+{END}
+
+<unk1><Cless>
+ <Chester>, that was uncalled for.<wait>{END}
+
+<Klarth>
+ He has a point.
+ I'm not particularly comfortable
+ with it myself.
+<pause>
+<Klarth>
+ Indeed, we have good reason to be
+ concerned.
+<pause>
+<Klarth>
+ Think about it: We've seen
+ numerous ninja doing Dhaos'
+ bidding recently, haven't we?{END}
+
+<Suzu>
+ You are mistaken!
+<pause>
+<Suzu>
+ Those people are--
+<pause>
+Ranzo
+ At ease, <Suzu>.
+<pause>
+Ranzo
+ I shall explain.<wait>{END}
+
+<Suzu>
+ Okay...{END}
+
+Ranzo
+ To tell the truth, this is directly
+ related to a favor we wanted to
+ ask of you.
+<pause>
+<Cless>
+ Oh?
+<pause>
+Ranzo
+ The ninja you speak of are former
+ companions. Dhaos abducted them,
+ apparently to brainwash them into
+ fighting for him.
+<pause>
+<Klarth>
+ I see...
+<pause>
+<Klarth>
+ So he's been controlling their minds.
+<pause>
+<Klarth>
+ There's no length that guy won't go
+ to.
+<pause>
+Ranzo
+ The ninja you have encountered
+ were surely some of our missing
+ companions.
+<pause>
+Ranzo
+ And...
+<pause>
+{END}
+
+<unk1>Ranzo
+ ...for the past two years,
+ <Suzu><'s/'> parents have been
+ among the unaccounted for.
+<pause>
+<Suzu>
+ ......
+<pause>
+Ranzo
+ I know your mission is to rectify
+ Dhaos' numerous injustices, but in
+ addition to that...
+<pause>
+Ranzo
+ ...we request that you search for
+ them during your travels.{END}
+
+<unk1>Ranzo
+ I had planned for <Suzu>'s
+ father to succeed me as chief.
+<pause>
+Ranzo
+ That should speak well of his
+ strength.
+<pause>
+Ranzo
+ If such a man has indeed become
+ one of Dhaos' subordinates...
+<pause>
+Ranzo
+ It would be too much for us.
+<pause>
+Ranzo
+ You are the only ones we can
+ depend on...{END}
+
+<unk1><Cless>
+ I can't promise anything, but we'll
+ try.
+<pause>
+<Klarth>
+ My my, <Cless>.
+ You're too damn soft for your own
+ good.<wait>{END}
+
+<unk1><Arche>
+ What's wrong with that, huh!?
+ That's what I like about him the
+ most<heart><wait>{END}
+
+Ranzo
+ Her father is named Dozo, and her
+ mother is named Okiyo.
+<pause>
+Ranzo
+ According to our intelligence, people
+ closely matching their descriptions
+ were last sighted in the vicinity of
+ Euclid.
+<pause>
+Ranzo
+ We are counting on you.
+<pause>
+Ranzo
+ To aid in your search, I wish you to
+ have this.{END}
+
+Ranzo
+ This is <item_B600>, our clan's secret
+ sword.
+<pause>
+<Cless>
+ Are you sure you want to part
+ with an heirloom as splendid as
+ this...?
+<pause>
+Ranzo
+ There is no distinction between an
+ unused treasure and litter to us.
+ Do with it as you will.<wait>{END}
+
+<color_0002>Acquired the <item_B600>.<color_0000>{END}
+
+<Cless>
+ I've never been into one of these
+ before.
+<pause>
+<Chester>
+ Ugh, it reeks like dirty, rotten ass
+ in here!{END}
+
+<Klarth>
+ Ahhh...
+ Now this is more like it!{END}
+
+<Arche>
+ C'mon, <Mint>!
+ Hurry and get in!{END}
+
+<Mint>
+ I'm coming, I'm coming.{END}
+
+<Mint>
+ Oh my, how revitalizing.
+<pause>
+<Arche>
+ It's the best<heart>{END}
+
+<unk1><Arche>
+ WOOOOOOOOOOOWWW!!!!<wait>{END}
+
+<unk1><Mint>
+ Wh-what happened!?
+<pause>
+<Arche>
+ <Mint>...
+<pause>
+<Arche>
+ You've got some of the puffiest
+ muffins I've ever seen<heart><wait>{END}
+
+<Mint>
+ I<speed_0020>,<speed_FFFF> um<speed_0020>,<speed_FFFF> um<speed_0020>,<speed_FFFF> well<speed_0020>...<speed_FFFF>
+ Please don't make fun of me.
+<pause>
+<Arche>
+ But all I've got are these itty-bitty
+ pancakes!
+<pause>
+<Arche>
+ Man, it's so unfair...<wait>{END}
+
+<unk1><Mint>
+ Oh, just give it some time, and
+ then...{END}
+
+<unk1><Chester>
+ Holy crap, dude.
+ Did you just hear that?
+<pause>
+<Cless>
+ Hear what?
+<pause>
+<Chester>
+ Seriously, man! <Arche>!
+ She could've woken the dead ten
+ times over.
+<pause>
+<Chester>
+ No way I can stay still after all
+ that.<wait>{END}
+
+<Cless>
+ H-hey, sit down!
+<pause>
+<Chester>
+ Chill out.
+ All I gotta do is play ninja for a
+ sec.{END}
+
+<Klarth>
+ Ahh, to be young again...
+ Go get 'em, tiger.
+<pause>
+<Cless>
+ Don't encourage him!<panic>{END}
+
+<Cless>
+ You should have listened to me...<wait>{END}
+
+<color_0002><Mint> and <Arche> have
+earned new titles.<color_0000>{END}
+
+<Cless>
+ Ahhh, if only we could come in here
+ more often...
+<pause>
+<Chester>
+ Truth. There's nothing else like it
+ after busting your tail all day.
+<pause>
+<Klarth>
+ It makes me feel like a brand new
+ man.<wait>{END}
+
+<unk1><Chester>
+ ...Hm?
+ What are you staring at, man?
+<pause>
+<Cless>
+ Well, it's just, you know...
+ It looks like you've beefed up quite
+ a bit since you rejoined us.<wait>{END}
+
+<Chester>
+ Oh yeah?
+ All that training I've been doing has
+ gotta be paying off, then.
+<pause>
+<Cless>
+ It looks like you've been working
+ your arms and chest the most.
+ It's really noticeable.{END}
+
+<unk1><Arche>
+ Hey, didja hear that?<wait>{END}
+
+<unk1><Mint>
+ H-hear what, now...?
+<pause>
+<Arche>
+ What <Cless> was just babbling
+ about, of course!
+<pause>
+<Arche>
+ Omigosh, I totally gotta see this
+ hotness RIGHT NOW!<wait>{END}
+
+<Mint>
+ B-but that would be...
+<pause>
+<Arche>
+ Don't worry<note>
+ I've got this<note>
+<pause>
+<Arche>
+ And also, this is our chance to
+ get payback for last time!
+ An eye for an eye, y'know!
+<pause>
+<Mint>
+ Please don't--
+<pause>
+<Arche>
+ Ahem!
+ Now! Let's! See!{END}
+
+<unk1><Suzu>
+ Mr. <Klarth>, I have brought your
+ sake.
+<pause>
+<Klarth>
+ Oooh, excellent!
+<pause>
+<Klarth>
+ Just set it right over here, thanks!
+<pause>
+<Cless>
+ Having a good time, eh <Klarth>?{END}
+
+<Cless>
+ ...So, the--AHHHHHH!!{END}
+
+<Arche>
+ H-howdy guys<panic>
+ How ya likin' the spring?!
+ Ehehehe...<panic>{END}
+
+<color_0002><Chester> has earned the title
+“<var_CE01>.”<color_0000>{END}
+
+<Cless>
+ <Arche>!?
+<pause>
+<Arche>
+ Ehehe, beat ya!{END}
+
+“You who would master the trial
+must answer five questions.”
+<pause>
+“To hear in confusion, and reply in
+disorder, is the greatest of ills.”
+<pause>
+“Whether you live as a person or
+live as a shinobi, you must advance
+with care.”{END}
+
+<center>“Anger”<endalign>
+Know that this makes one lose calm
+judgment.{END}
+
+<center>“Sorrow”<endalign>
+Know that this is the origin of
+enfeeblement. {END}
+
+<center>“Joy”<endalign>
+Know that this is the origin of being
+envied by others.{END}
+
+<center>“Compassion”<endalign>
+Know that this is tied to one's own
+death.{END}
+
+<center>“Laughter”<endalign>
+Know that this exposes the
+weakness in one's heart.{END}
+
+“There is no one correct answer.
+Respond as your heart dictates.”{END}
+
+<Cless>
+ All right, I'm lowering the rope.{END}
+
+<Cless>
+ We'll probably snap our legs if we
+ just jumped down there...
+ Let's get a rope first.{END}
+
+Five trials await you ahead!
+<pause>
+Advance only if you are a ninja!{END}
+
+<Suzu>
+ I am going.
+<pause>
+{END}
+
+<Cless>
+ ...But you're too badly wounded to
+ fight. You should wait until you're
+ feeling better.
+<pause>
+<Suzu>
+ ...Understood.{END}
+
+<Cless>
+ Be careful...
+<pause>
+{END}
+
+<color_0002><Suzu> will fight alone here.
+<pause>
+The Ninja of the Trial wait ahead.
+Their tests will grow more difficult
+as you progress. You must be
+prepared to exert your skills to the
+utmost.
+<pause>
+If you're defeated, the game will
+not end. However, the Ninja of the
+Trial will be restored, so don't be
+reckless.
+<pause>
+The Ninja of the Trial will also be
+restored if you regroup or go
+outside. You must defeat all five in
+succession in order to pass the trial.<color_0000>{END}
+
+ You are still unworthy of the trial!
+ Do not return until you have
+ improved your abilities!<wait>{END}
+
+<color_0002>To take the trial, <Suzu> must
+learn at least one ninja arte in
+addition to the ones she begins with.
+<pause>
+<Suzu> learns ninja artes from
+ninja arte scrolls just as <Cless>
+does from arcane arte books.
+<pause>
+Search for ninja arte scrolls
+throughout the world.<color_0000>{END}
+
+Ninja
+ I inquire of you.
+<pause>
+Ninja
+ The target you must kill has a child.
+ Are you justified in killing the child
+ as well?{END}
+
+<Suzu>
+ Yes. One must dispatch any who
+ may do you harm later.
+<pause>
+Ninja
+ Very well.
+<pause>
+Ninja
+ Then present to me proof of your
+ conviction.{END}
+
+<Suzu>
+ That child is innocent...
+<pause>
+Ninja
+ Wrong!
+ You must kill ANY who may do you
+ harm later!
+<pause>
+Ninja
+ Be ashamed of your compassion,
+ fool!{END}
+
+Ninja
+ I inquire of you.
+<pause>
+Ninja
+ You have received a direct order
+ from your master commanding you
+ to betray your comrades.
+<pause>
+Ninja
+ Are you justified in executing that
+ command?{END}
+
+<Suzu>
+ If it is an order from my lord, I
+ will betray my comrades, as that is
+ the Way of the <var_DD01>...
+<pause>
+Ninja
+ Very well.
+<pause>
+Ninja
+ Then present to me proof of your
+ conviction.{END}
+
+<Suzu>
+ I cannot do such a thing as betray
+ my comrades...
+<pause>
+Ninja
+ Wrong! The orders of your lord are
+ absolute!
+<pause>
+Ninja
+ Be ashamed of your compassion,
+ fool!{END}
+
+Ninja
+ I inquire of you.
+<pause>
+Ninja
+ A person accidentally comes upon
+ you in the midst of your duties.
+<pause>
+Ninja
+ Are you justified in killing this
+ person?{END}
+
+<Suzu>
+ A shinobi is secretive. If he saw
+ me, his death is inevitable.
+<pause>
+Ninja
+ Very well.
+<pause>
+Ninja
+ Then present to me proof of your
+ conviction.{END}
+
+<Suzu>
+ I do not condone needless killing.
+<pause>
+Ninja
+ Wrong!
+ None must know of shinobi!
+<pause>
+Ninja
+ Be ashamed of your compassion,
+ fool!{END}
+
+Ninja
+ I inquire of you.
+<pause>
+Ninja
+ You know your lord has committed
+ a crime. Are you justified in
+ exposing it?{END}
+
+<Suzu>
+ Wickedness may not be excused,
+ even if done by my lord...
+<pause>
+Ninja
+ Wrong!
+ A shinobi does not pass judgment.
+ You are to obey your lord's orders
+ unconditionally.
+<pause>
+Ninja
+ Be ashamed of your compassion,
+ fool!{END}
+
+<Suzu>
+ Though I may wish to, I cannot
+ betray my lord...
+<pause>
+Ninja
+ Very well.
+<pause>
+Ninja
+ Then present to me proof of your
+ conviction.{END}
+
+Ninja
+ I inquire of you.
+<pause>
+Ninja
+ You find yourself crossing blades
+ with your parents. Are you
+ justified in cutting them down?
+<pause>
+<Suzu>
+ I-I...
+<pause>
+Ninja
+ Answer! Or have you not prepared
+ yourself?{END}
+
+<Suzu>
+ If...if that is in accordance with the
+ code of shinobi...
+<pause>
+Ninja
+ Very well.
+<pause>
+Ninja
+ Then present to me proof of your
+ conviction.{END}
+
+<Suzu>
+ It would be my duty to cut them
+ down...but...
+<pause>
+Ninja
+ This is pitiful!
+ You are not fit to be chief.
+<pause>
+Ninja
+ Be ashamed of your compassion,
+ fool!{END}
+
+Ninja
+ Splendid...{END}
+
+Ninja
+ Novice!
+ Turn back and try again!{END}
+
+<Suzu>
+ I have done it...{END}
+
+<Suzu>
+ A letter...composed with Father's
+ handwriting!
+<pause>
+“It seems you have managed to
+overcome the trial.”
+<pause>
+{END}
+
+“Unfortunately, it seems there is
+much you do not understand about
+the Way of the <var_DD01>.”
+<pause>
+“However, you possess that which is
+most precious of all, not as a ninja,
+but as a human being.”
+<pause>
+“As long as you do not forget your
+heart, you have the qualifications to
+become worthy of governing the
+clan as chief.”
+<pause>
+{END}
+
+“You seem to have learned well the
+Way of the <var_DD01>.”
+<pause>
+“However, there is one thing you
+still lack.”
+<pause>
+“When you realize what that is, you
+will have the qualifications to
+become worthy of governing the
+clan as chief.”
+<pause>
+{END}
+
+“The Way of the <var_DD01> is to live
+for one's lord; to slay oneself in his
+service.”
+<pause>
+“It seems you have come to your
+own understanding of this concept.”
+<pause>
+“However, it also seems more time
+is necessary before you become
+worthy of governing the clan as
+chief.”
+<pause>
+{END}
+
+“Take the weapon in this treasure
+chest and continue the pursuit of
+knowledge.”
+<pause>
+“The Way of the <var_DD01> is harsh.”{END}
+
+<color_0002>Acquired the <item_F900>.<color_0000>{END}
+
+<Suzu>
+ Mother, Father...{END}
+
+<Suzu>
+ I have completed the trial!<wait>{END}
+
+<color_0002><Suzu> has gained experience
+from this trial.<wait><color_0000>{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New arte!{END}
+
+<speed_0000><color_0002>Level up!{END}
+
+<speed_0000><color_0002>Level up! New arte!{END}
+
+<color_0002><Suzu> has earned the title
+“<var_DD01>.”<color_0000>{END}
+
+<Cless>
+ Welcome back!{END}
+
+<Cless>
+ Did it go well?
+<pause>
+<Suzu>
+ Yes.
+ I was successful.
+<pause>
+<Cless>
+ That's great. Let's get going, then.{END}
+
+<Cless>
+ Not feeling up to this, huh?{END}
+
+<Cless>
+ All right, then let's get out of here.{END}
+
+<Cless>
+ Well, good luck.{END}
+
+<Mint>
+ Don't forget to do your best!{END}
+
+<Cless>
+ <Suzu>!
+ What happened!?{END}
+
+<Suzu>
+ I...
+<pause>
+<Cless>
+ Let's take you back for now.
+<pause>
+<Suzu>
+ ...Okay.{END}
+

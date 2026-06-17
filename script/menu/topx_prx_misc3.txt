@@ -1,0 +1,84 @@
+CPU{END}
+
+GPU{END}
+
+PRM{END}
+
+MGC{END}
+
+Status{END}
+
+Move Enemy{END}
+
+Stop Enemy{END}
+
+Hide Hitbox{END}
+
+Show Hitbox{END}
+
+EXP Normal{END}
+
+EXP x20{END}
+
+Camera Normal{END}
+
+Camera Dynamic{END}
+
+Hide Time{END}
+
+Show Time{END}
+
+Show Pause{END}
+
+No Pause{END}
+
+EXIT{END}
+
+Attack{END}
+
+Slash{END}
+
+Thrust{END}
+
+Defense{END}
+
+Agility{END}
+
+Accuracy{END}
+
+Evasion{END}
+
+Luck{END}
+
+Level{END}
+
+Weight{END}
+
+Strength{END}
+
+Critical{END}
+
+Faint{END}
+
+Element{END}
+
+HP{END}
+
+TP{END}
+
+TP{END}
+
+Mastered{END}
+
+Undo{END}
+
+PAUSE{END}
+
+Auto{END}
+
+Semi-Auto{END}
+
+Manual{END}
+
+{END}
+

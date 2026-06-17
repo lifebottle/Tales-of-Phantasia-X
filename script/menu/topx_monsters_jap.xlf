@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="t001_08:0">
+        <source>ゴッドベア・マーク２</source>
+        <target state="translated">God Bear Mark 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t001_08:8c">
+        <source>サモンデーモン</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t002_08:0">
+        <source>Ｇ・ビー</source>
+        <target state="translated">Giant Bee</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t003_08:0">
+        <source>バグベア</source>
+        <target state="translated">Bugbear</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t004_08:0">
+        <source>アウル</source>
+        <target state="translated">Owl</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t005_08:0">
+        <source>ボア</source>
+        <target state="translated">Boar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t006_08:0">
+        <source>ボアチャイルド</source>
+        <target state="translated">Piglet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t007_08:0">
+        <source>スライム</source>
+        <target state="translated">Slime</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t008_08:0">
+        <source>Ｇ・スラッグ</source>
+        <target state="translated">Giant Slug</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t009_08:0">
+        <source>Ｇ・リーチ</source>
+        <target state="translated">Giant Leech</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t010_08:0">
+        <source>クレイデーモン</source>
+        <target state="translated">Clay Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t011_08:0">
+        <source>ディンゴ</source>
+        <target state="translated">Dingo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t012_08:0">
+        <source>スケルトン</source>
+        <target state="translated">Skeleton</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t012_08:1cc">
+        <source>三連斬</source>
+        <target state="translated">Triple Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t012_08:228">
+        <source>二連斬</source>
+        <target state="translated">Double Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t013_08:0">
+        <source>グール</source>
+        <target state="translated">Ghoul</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t014_08:0">
+        <source>ゴーレム</source>
+        <target state="translated">Golem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t014_08:1cc">
+        <source>マシンガンナックル</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t014_08:228">
+        <source>マシンガンナックル</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t015_08:0">
+        <source>リビングデッド</source>
+        <target state="translated">Living Dead</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t016_08:0">
+        <source>アナコンダ</source>
+        <target state="translated">Anaconda</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t017_08:0">
+        <source>ボーグル</source>
+        <target state="translated">Bogle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t018_08:0">
+        <source>ホーネット</source>
+        <target state="translated">Hornet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t019_08:0">
+        <source>ジャッカル</source>
+        <target state="translated">Jackal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t020_08:0">
+        <source>ハーピィ</source>
+        <target state="translated">Harpy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t021_08:0">
+        <source>ブルーシルフ</source>
+        <target state="translated">Blue Sylph</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t022_08:0">
+        <source>ワイト</source>
+        <target state="translated">Wight</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t023_08:0">
+        <source>ヘルマスター</source>
+        <target state="translated">Hellmaster</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t023_08:8c">
+        <source>サモンデーモン</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t024_08:0">
+        <source>ボーンナイト</source>
+        <target state="translated">Bone Knight</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t024_08:1cc">
+        <source>三連斬</source>
+        <target state="translated">Triple Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t024_08:228">
+        <source>二連斬</source>
+        <target state="translated">Double Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t025_08:0">
+        <source>Ｇ・フロッグ</source>
+        <target state="translated">Giant Frog</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t026_08:0">
+        <source>デミテル</source>
+        <target state="translated">Demeter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t026_08:8c">
+        <source>サモンデーモン</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t026_08:1cc">
+        <source>ヘルジェム</source>
+        <target state="translated">Hell Gem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t026_08:228">
+        <source>ヘルジェム</source>
+        <target state="translated">Hell Gem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t027_08:0">
+        <source>アークナイト</source>
+        <target state="translated">Arch Knight</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t028_08:0">
+        <source>メイアー</source>
+        <target state="translated">Mayer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t028_08:228">
+        <source>一刀両断</source>
+        <target state="translated">Cleave</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t028_08:284">
+        <source>一刀両断</source>
+        <target state="translated">Cleave</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t029_08:0">
+        <source>ジャミル</source>
+        <target state="translated">Jahmir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t029_08:8c">
+        <source>サモンデーモン</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t030_08:0">
+        <source>キラーアウル</source>
+        <target state="translated">Killer Owl</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t031_08:0">
+        <source>オーガ</source>
+        <target state="translated">Ogre</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t032_08:0">
+        <source>Ｇ・トード</source>
+        <target state="translated">Giant Toad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t033_08:0">
+        <source>Ｇ・バット</source>
+        <target state="translated">Giant Bat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t034_08:0">
+        <source>ケイヴマン</source>
+        <target state="translated">Caveman</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t035_08:0">
+        <source>ウィングデビル</source>
+        <target state="translated">Winged Devil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t036_08:0">
+        <source>ブリーブ</source>
+        <target state="translated">Bleeb</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t037_08:0">
+        <source>ブラックバット</source>
+        <target state="translated">Black Bat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t038_08:0">
+        <source>バダッハ</source>
+        <target state="translated">Bodach</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t039_08:0">
+        <source>リザードフライ</source>
+        <target state="translated">Lizard Fly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t040_08:0">
+        <source>デザートキング</source>
+        <target state="translated">Desert King</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t041_08:0">
+        <source>アザー</source>
+        <target state="translated">Azar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t042_08:0">
+        <source>イフリート</source>
+        <target state="translated">Efreet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t042_08:284">
+        <source>フレイムウェイブ</source>
+        <target state="translated">Flame Wave</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t043_08:0">
+        <source>デザートフライ</source>
+        <target state="translated">Desert Fly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t044_08:0">
+        <source>クレイアイドル</source>
+        <target state="translated">Gnomelette</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t045_08:0">
+        <source>ノーム</source>
+        <target state="translated">Gnome</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t046_08:0">
+        <source>スクイッド</source>
+        <target state="translated">Squid</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t047_08:0">
+        <source>ピヨピヨ</source>
+        <target state="translated">Peepit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t048_08:0">
+        <source>シースラッグ</source>
+        <target state="translated">Sea Slug</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t049_08:0">
+        <source>ウンディーネ</source>
+        <target state="translated">Undine</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t050_08:0">
+        <source>マクスウェル</source>
+        <target state="translated">Maxwell</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t050_08:1cc">
+        <source>モレキュラーアタック</source>
+        <target state="translated">Molecular Attack</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t051_08:0">
+        <source>バジリスク</source>
+        <target state="translated">Basilisk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t051_08:1cc">
+        <source>石化光線</source>
+        <target state="translated">Stone Ray</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t052_08:0">
+        <source>セイレーン</source>
+        <target state="translated">Siren</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t053_08:0">
+        <source>ベラドンナ</source>
+        <target state="translated">Belladonna</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t053_08:1cc">
+        <source>パワードレイン</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t053_08:284">
+        <source>パニックボイス</source>
+        <target state="translated">Shrill Cry</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t054_08:0">
+        <source>リザードマン</source>
+        <target state="translated">Lizard Man</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t055_08:0">
+        <source>ドラゴンナイト</source>
+        <target state="translated">Dragon Knight</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t056_08:0">
+        <source>アイアンゴーレム</source>
+        <target state="translated">Iron Golem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t056_08:1cc">
+        <source>マシンガンナックル</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t056_08:228">
+        <source>マシンガンナックル</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t056_08:2e0">
+        <source>ギガトンアッパー</source>
+        <target state="translated">Gigaton Uppercut</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t057_08:0">
+        <source>ディプレイヴドモンク</source>
+        <target state="translated">Depraved Monk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t058_08:0">
+        <source>シェイド</source>
+        <target state="translated">Shade</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t059_08:0">
+        <source>ドゥームガード</source>
+        <target state="translated">Doom Guard</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t060_08:0">
+        <source>ゲイズハウンド</source>
+        <target state="translated">Gazehound</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t060_08:1cc">
+        <source>石化光線</source>
+        <target state="translated">Stone Ray</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t061_08:0">
+        <source>イシュラント</source>
+        <target state="translated">Ishrantu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t062_08:0">
+        <source>ヴァルチャー</source>
+        <target state="translated">Vulture</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t063_08:0">
+        <source>パイソン</source>
+        <target state="translated">Python</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t064_08:0">
+        <source>オークロット</source>
+        <target state="translated">Oakrot</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t064_08:228">
+        <source>リンゴ乱舞</source>
+        <target state="translated">Apple Dance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t065_08:0">
+        <source>サイドワインダー</source>
+        <target state="translated">Sidewinder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t066_08:0">
+        <source>Ｇ・スコーピオン</source>
+        <target state="translated">Giant Scorpion</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t067_08:0">
+        <source>ウィルオーウィスプ</source>
+        <target state="translated">Will O' Wisp</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t068_08:0">
+        <source>バーニングデッド</source>
+        <target state="translated">Burning Dead</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t068_08:1cc">
+        <source>三連斬</source>
+        <target state="translated">Triple Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t068_08:228">
+        <source>二連斬</source>
+        <target state="translated">Double Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t069_08:0">
+        <source>グリーンローパー</source>
+        <target state="translated">Green Roper</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t070_08:0">
+        <source>スターフィッシュ</source>
+        <target state="translated">Starfish</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t071_08:0">
+        <source>オークジェリィ</source>
+        <target state="translated">Ochre Jelly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t072_08:0">
+        <source>ヴァンパイアバット</source>
+        <target state="translated">Vampire Bat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t073_08:0">
+        <source>ケイヴスパイダー</source>
+        <target state="translated">Cave Spider</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t074_08:0">
+        <source>Ｇ・ワスプ</source>
+        <target state="translated">Giant Wasp</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t075_08:0">
+        <source>マイティオーク</source>
+        <target state="translated">Mighty Oak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t075_08:1cc">
+        <source>リンゴ乱舞</source>
+        <target state="translated">Apple Dance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t076_08:0">
+        <source>ドラゴンフライ</source>
+        <target state="translated">Dragonfly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t077_08:0">
+        <source>ウルフズベイン</source>
+        <target state="translated">Wolfsbane</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t077_08:1cc">
+        <source>パワードレイン</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t077_08:284">
+        <source>パニックボイス</source>
+        <target state="translated">Shrill Cry</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t078_08:0">
+        <source>ブラウンベア</source>
+        <target state="translated">Brown Bear</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t079_08:0">
+        <source>リザード</source>
+        <target state="translated">Lizard</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t080_08:0">
+        <source>ファントム</source>
+        <target state="translated">Phantom</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t081_08:0">
+        <source>アーチャー</source>
+        <target state="translated">Archer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t082_08:0">
+        <source>ジャックオーランタン</source>
+        <target state="translated">Jack O' Lantern</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t082_08:228">
+        <source>パワードレイン</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t083_08:0">
+        <source>バンシー</source>
+        <target state="translated">Banshee</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t084_08:0">
+        <source>シャーマン</source>
+        <target state="translated">Shaman</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t085_08:0">
+        <source>メディウム</source>
+        <target state="translated">Medium</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t086_08:0">
+        <source>スノーバニー</source>
+        <target state="translated">Snow Bunny</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t087_08:0">
+        <source>チュンチュン</source>
+        <target state="translated">Chirpee</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t088_08:0">
+        <source>シュヴァリエ</source>
+        <target state="translated">Chevalier</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t089_08:0">
+        <source>ソーサリス</source>
+        <target state="translated">Sorceress</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t090_08:0">
+        <source>サムライ</source>
+        <target state="translated">Samurai</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t091_08:0">
+        <source>カゲ</source>
+        <target state="translated">Kage</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t092_08:0">
+        <source>リッチ</source>
+        <target state="translated">Lich</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t092_08:b4">
+        <source>サモンデーモン</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t093_08:0">
+        <source>ジャーン</source>
+        <target state="translated">Jann</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t094_08:0">
+        <source>ウッドカーラ</source>
+        <target state="translated">Woodkarla</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t094_08:1cc">
+        <source>リンゴ乱舞</source>
+        <target state="translated">Apple Dance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t095_08:0">
+        <source>リビングソード</source>
+        <target state="translated">Living Sword</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t096_08:0">
+        <source>３０００Ｒ</source>
+        <target state="translated">3000R</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t096_08:1cc">
+        <source>フォトンビーム</source>
+        <target state="translated">Photon Beam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t097_08:0">
+        <source>４４００Ｒ</source>
+        <target state="translated">4400R</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t097_08:1cc">
+        <source>フォトンビーム</source>
+        <target state="translated">Photon Beam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t098_08:0">
+        <source>２ＳＨ</source>
+        <target state="translated">2SH</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t099_08:0">
+        <source>ドール</source>
+        <target state="translated">Dhole</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t100_08:0">
+        <source>プレデター</source>
+        <target state="translated">Predator</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t101_08:0">
+        <source>キラービー</source>
+        <target state="translated">Killer Bee</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t102_08:0">
+        <source>ナイトメア</source>
+        <target state="translated">Nightmare</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t103_08:0">
+        <source>ヴァイパー</source>
+        <target state="translated">Viper</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t104_08:0">
+        <source>ボアボア</source>
+        <target state="translated">Boarboar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t105_08:0">
+        <source>ティンバーウルフ</source>
+        <target state="translated">Timber Wolf</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t106_08:0">
+        <source>キングコブラ</source>
+        <target state="translated">King Cobra</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t107_08:0">
+        <source>ネビロス</source>
+        <target state="translated">Nebiros</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t108_08:0">
+        <source>ポイズントード</source>
+        <target state="translated">Poison Toad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t109_08:0">
+        <source>レッドローパー</source>
+        <target state="translated">Red Roper</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t109_08:1cc">
+        <source>パワードレイン</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t110_08:0">
+        <source>シャイターン</source>
+        <target state="translated">Shaitan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t111_08:0">
+        <source>サンダードラゴン</source>
+        <target state="translated">Thunder Dragon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t112_08:0">
+        <source>ヴォルト</source>
+        <target state="translated">Volt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t113_08:0">
+        <source>ワーヴァルチャー</source>
+        <target state="translated">Werevulture</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t114_08:0">
+        <source>スカウト</source>
+        <target state="translated">Scout</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t115_08:0">
+        <source>スカヴェンジャー</source>
+        <target state="translated">Scavenger</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t116_08:0">
+        <source>デスストーカー</source>
+        <target state="translated">Deathstalker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t117_08:0">
+        <source>コカドリーユ</source>
+        <target state="translated">Cocadrille</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t117_08:1cc">
+        <source>石化光線</source>
+        <target state="translated">Stone Ray</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t118_08:0">
+        <source>ブラッドサッカー</source>
+        <target state="translated">Blood Sucker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t119_08:0">
+        <source>トロル</source>
+        <target state="translated">Troll</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t120_08:0">
+        <source>ドラゴントゥース</source>
+        <target state="translated">Dragon's Tooth</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t120_08:1cc">
+        <source>三連斬</source>
+        <target state="translated">Triple Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t120_08:228">
+        <source>二連斬</source>
+        <target state="translated">Double Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t121_08:0">
+        <source>カーカス</source>
+        <target state="translated">Carcass</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t122_08:0">
+        <source>レイス</source>
+        <target state="translated">Wraith</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t123_08:0">
+        <source>スペクター</source>
+        <target state="translated">Specter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t124_08:0">
+        <source>ジン</source>
+        <target state="translated">Jinn</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t125_08:0">
+        <source>ドラゴニュート</source>
+        <target state="translated">Dragonewt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t126_08:0">
+        <source>フレイムジィ</source>
+        <target state="translated">Flame</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t127_08:0">
+        <source>イグニスファッツァス</source>
+        <target state="translated">Ignis Fatuus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t128_08:0">
+        <source>ヴァルカン</source>
+        <target state="translated">Vulcan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t129_08:0">
+        <source>ナイトウィング</source>
+        <target state="translated">Night Wing</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t130_08:0">
+        <source>ＡＣローパー</source>
+        <target state="translated">A.C. Roper</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t130_08:1cc">
+        <source>パワードレイン</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t131_08:0">
+        <source>アークデーモン</source>
+        <target state="translated">Arch Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t132_08:0">
+        <source>Ｇ・スクイッド</source>
+        <target state="translated">Giant Squid</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t133_08:0">
+        <source>イーヴルスター</source>
+        <target state="translated">Evil Star</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t134_08:0">
+        <source>アクアドラゴン</source>
+        <target state="translated">Aqua Dragon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t135_08:0">
+        <source>ブルーローパー</source>
+        <target state="translated">Blue Roper</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t135_08:1cc">
+        <source>パワードレイン</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t136_08:0">
+        <source>フロストバニー</source>
+        <target state="translated">Frost Bunny</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t137_08:0">
+        <source>レッサーデーモン</source>
+        <target state="translated">Lesser Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t138_08:0">
+        <source>ポーラーベア</source>
+        <target state="translated">Polar Bear</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t139_08:0">
+        <source>アイスゴーレム</source>
+        <target state="translated">Ice Golem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t139_08:1cc">
+        <source>マシンガンナックル</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t139_08:228">
+        <source>マシンガンナックル</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t139_08:2e0">
+        <source>ギガトンアッパー</source>
+        <target state="translated">Gigaton Uppercut</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t140_08:0">
+        <source>フロストキング</source>
+        <target state="translated">Frost King</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t141_08:0">
+        <source>プリーステス</source>
+        <target state="translated">Priestess</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t142_08:0">
+        <source>クノイチ</source>
+        <target state="translated">Kunoichi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t143_08:0">
+        <source>フェンビースト</source>
+        <target state="translated">Fenrir Beast</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t144_08:0">
+        <source>トレント</source>
+        <target state="translated">Treant</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t144_08:1cc">
+        <source>リンゴ乱舞</source>
+        <target state="translated">Apple Dance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t145_08:0">
+        <source>Ｇ・メイフライ</source>
+        <target state="translated">Giant Mayfly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t146_08:0">
+        <source>アルラウネ</source>
+        <target state="translated">Alraune</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t146_08:1cc">
+        <source>パワードレイン</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t146_08:284">
+        <source>パニックボイス</source>
+        <target state="translated">Shrill Cry</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t147_08:0">
+        <source>グリズリー</source>
+        <target state="translated">Grizzly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t148_08:0">
+        <source>モンクソルジャー</source>
+        <target state="translated">Monk Soldier</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t149_08:0">
+        <source>Ｇ・リザード</source>
+        <target state="translated">Giant Lizard</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t150_08:0">
+        <source>アパッチドクター</source>
+        <target state="translated">Apache Doctor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t151_08:0">
+        <source>ミスリルゴーレム</source>
+        <target state="translated">Mythril Golem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t151_08:1cc">
+        <source>マシンガンナックル</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t151_08:228">
+        <source>マシンガンナックル</source>
+        <target state="translated">Machinegun Knuckle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t152_08:0">
+        <source>ブラックナイト</source>
+        <target state="translated">Black Knight</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t153_08:0">
+        <source>ブッシュワーカー</source>
+        <target state="translated">Bushwhacker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t154_08:0">
+        <source>ビショップ</source>
+        <target state="translated">Bishop</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t155_08:0">
+        <source>ゴールドドラゴン</source>
+        <target state="translated">Gold Dragon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t156_08:0">
+        <source>レッドプディング</source>
+        <target state="translated">Red Pudding</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t157_08:0">
+        <source>ブラックスライム</source>
+        <target state="translated">Black Slime</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t158_08:0">
+        <source>ホワイトベア</source>
+        <target state="translated">White Bear</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t159_08:0">
+        <source>サイキック</source>
+        <target state="translated">Psychic</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t160_08:0">
+        <source>ボガート</source>
+        <target state="translated">Boggart</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t161_08:0">
+        <source>ヘルハウンド</source>
+        <target state="translated">Hellhound</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t162_08:0">
+        <source>ドゥームトード</source>
+        <target state="translated">Doom Toad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t163_08:0">
+        <source>カーカー</source>
+        <target state="translated">Cawker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t164_08:0">
+        <source>ガーゴイル</source>
+        <target state="translated">Gargoyle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t165_08:0">
+        <source>クィーンビー</source>
+        <target state="translated">Queen Bee</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t166_08:0">
+        <source>マーマン</source>
+        <target state="translated">Merman</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t167_08:0">
+        <source>サマエル</source>
+        <target state="translated">Samael</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t167_08:b4">
+        <source>サモンデーモン</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t168_08:0">
+        <source>ニンジャマスター</source>
+        <target state="translated">Ninja Master</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t169_08:0">
+        <source>イーヴルソード</source>
+        <target state="translated">Evil Sword</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t170_08:0">
+        <source>スーパースター</source>
+        <target state="translated">Superstar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t170_08:228">
+        <source>うずしおアッパー</source>
+        <target state="translated">Tidal Uppercut</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t170_08:284">
+        <source>なみきりキック</source>
+        <target state="translated">Wave Kick</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t171_08:0">
+        <source>１００００Ｒ</source>
+        <target state="translated">10000R</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t171_08:1cc">
+        <source>フォトンビーム</source>
+        <target state="translated">Photon Beam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t172_08:0">
+        <source>３ＳＨ</source>
+        <target state="translated">3SH</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t173_08:0">
+        <source>インフェルノ</source>
+        <target state="translated">Inferno</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t174_08:0">
+        <source>ファイアバグ</source>
+        <target state="translated">Firebug</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t175_08:0">
+        <source>ヘルキャット</source>
+        <target state="translated">Hellcat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t176_08:0">
+        <source>ハタモト</source>
+        <target state="translated">Hatamoto</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t177_08:0">
+        <source>フレイムソード</source>
+        <target state="translated">Flame Sword</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t178_08:0">
+        <source>バルログ</source>
+        <target state="translated">Balrog</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t179_08:0">
+        <source>フラムベルク</source>
+        <target state="translated">Flamberg</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t180_08:0">
+        <source>イーヴルロード</source>
+        <target state="translated">Evil Lord</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t180_08:8c">
+        <source>サモンデーモン</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t181_08:0">
+        <source>レンジャー</source>
+        <target state="translated">Ranger</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t182_08:0">
+        <source>アークビショップ</source>
+        <target state="translated">Arch Bishop</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t183_08:0">
+        <source>ウィッチドクター</source>
+        <target state="translated">Witch Doctor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t184_08:0">
+        <source>プロフェット</source>
+        <target state="translated">Prophet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t185_08:0">
+        <source>ブードゥープリースト</source>
+        <target state="translated">Voodoo Priest</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t185_08:8c">
+        <source>サモンデーモン</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t186_08:0">
+        <source>ウィッチ</source>
+        <target state="translated">Witch</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t187_08:0">
+        <source>サコン</source>
+        <target state="translated">Sakon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t188_08:0">
+        <source>ハンゾウ</source>
+        <target state="translated">Hanzo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t189_08:0">
+        <source>ガリアンソード</source>
+        <target state="translated">Galleon Sword</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t190_08:0">
+        <source>ＤＡＲＫＥＹＥ？</source>
+        <target state="translated">Darkeye?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t191_08:0">
+        <source>ＲＯＡＭＥＹＥ？</source>
+        <target state="translated">Roameye?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t192_08:0">
+        <source>ＳＥＡＬＥＹＥ？</source>
+        <target state="translated">Sealeye?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t193_08:0">
+        <source>ダオス</source>
+        <target state="translated">Dhaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t193_08:284">
+        <source>ダオスコレダー</source>
+        <target state="translated">Dhaos Collider</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t193_08:2e0">
+        <source>ダオスレーザー</source>
+        <target state="translated">Dhaos Laser</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t193_08:33c">
+        <source>テトラスペル</source>
+        <target state="translated">Tetra Spell</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t193_08:398">
+        <source>テトラアサルト</source>
+        <target state="translated">Tetra Assault</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t194_08:0">
+        <source>シルバードラゴン</source>
+        <target state="translated">Silver Dragon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t195_08:0">
+        <source>フェザーダオス</source>
+        <target state="translated">Dhaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t195_08:1cc">
+        <source>ヒドゥン</source>
+        <target state="translated">Conceal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t195_08:284">
+        <source>ケイオス</source>
+        <target state="translated">Chaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t195_08:2e0">
+        <source>サーキュラー</source>
+        <target state="translated">Circulate</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t196_08:0">
+        <source>ダオス</source>
+        <target state="translated">Dhaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t197_08:0">
+        <source>ダオス</source>
+        <target state="translated">Dhaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t197_08:284">
+        <source>ダオスコレダー</source>
+        <target state="translated">Dhaos Collider</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t197_08:2e0">
+        <source>ダオスレーザー</source>
+        <target state="translated">Dhaos Laser</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t197_08:33c">
+        <source>テトラスペル</source>
+        <target state="translated">Tetra Spell</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t197_08:398">
+        <source>テトラアサルト</source>
+        <target state="translated">Tetra Assault</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t198_08:0">
+        <source>ダオス</source>
+        <target state="translated">Dhaos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t198_08:284">
+        <source>ダオスコレダー</source>
+        <target state="translated">Dhaos Collider</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t198_08:2e0">
+        <source>ダオスレーザー</source>
+        <target state="translated">Dhaos Laser</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t198_08:33c">
+        <source>テトラスペル</source>
+        <target state="translated">Tetra Spell</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t198_08:398">
+        <source>テトラアサルト</source>
+        <target state="translated">Tetra Assault</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t199_08:0">
+        <source>バジリスクキング</source>
+        <target state="translated">Basilisk King</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t199_08:1cc">
+        <source>石化光線</source>
+        <target state="translated">Stone Ray</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t200_08:0">
+        <source>ゾンビ</source>
+        <target state="translated">Zombie</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t201_08:0">
+        <source>ビーストマスター</source>
+        <target state="translated">Beastmaster</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t201_08:8c">
+        <source>サモンデーモン</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t202_08:0">
+        <source>キヨマサ</source>
+        <target state="translated">Kiyomasa</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t203_08:0">
+        <source>ブラックドラゴン</source>
+        <target state="translated">Black Dragon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t204_08:0">
+        <source>ストームライダー</source>
+        <target state="translated">Stormrider</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t205_08:0">
+        <source>マンティコア</source>
+        <target state="translated">Manticore</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t206_08:0">
+        <source>ケルベロス</source>
+        <target state="translated">Cerberus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t207_08:0">
+        <source>ビッグフット</source>
+        <target state="translated">Bigfoot</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t208_08:0">
+        <source>ワイヴァーン</source>
+        <target state="translated">Wyvern</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t209_08:0">
+        <source>ガルフビースト</source>
+        <target state="translated">Galf Beast</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t210_08:0">
+        <source>パンプキンキング</source>
+        <target state="translated">Pumpkin King</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t210_08:228">
+        <source>パワードレイン</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t211_08:0">
+        <source>スケルトンキング</source>
+        <target state="translated">Skeleton King</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t211_08:1cc">
+        <source>三連斬</source>
+        <target state="translated">Triple Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t211_08:228">
+        <source>二連斬</source>
+        <target state="translated">Double Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t212_08:0">
+        <source>クレイゴーレム</source>
+        <target state="translated">Clay Golem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t213_08:0">
+        <source>レッドシルフ</source>
+        <target state="translated">Red Sylph</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t214_08:0">
+        <source>マンドレイク</source>
+        <target state="translated">Mandrake</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t214_08:1cc">
+        <source>パワードレイン</source>
+        <target state="translated">Power Drain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t214_08:284">
+        <source>パニックボイス</source>
+        <target state="translated">Shrill Cry</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t215_08:0">
+        <source>どうぞう</source>
+        <target state="translated">Dozo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t216_08:0">
+        <source>おきよ</source>
+        <target state="translated">Okiyo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t217_08:0">
+        <source>ライカーガス</source>
+        <target state="translated">Lycurgus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t217_08:b4">
+        <source>サモンデーモン</source>
+        <target state="translated">Summon Demon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t218_08:0">
+        <source>エアジャイアント</source>
+        <target state="translated">Air Giant</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t219_08:0">
+        <source>フェニックス</source>
+        <target state="translated">Phoenix</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t220_08:0">
+        <source>ノクターナルフライ</source>
+        <target state="translated">Nocturnal Fly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t221_08:0">
+        <source>マンタ</source>
+        <target state="translated">Manta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t222_08:0">
+        <source>ファラオ</source>
+        <target state="translated">Pharaoh</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t222_08:1cc">
+        <source>Ｍ・コンビネーション</source>
+        <target state="translated">Mummy Combo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t222_08:228">
+        <source>毒手拳</source>
+        <target state="translated">Poison Fist</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t223_08:0">
+        <source>オリジン</source>
+        <target state="translated">Origin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t223_08:1cc">
+        <source>カラップス</source>
+        <target state="translated">Collapse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t224_08:0">
+        <source>タイラント</source>
+        <target state="translated">Tyrant</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t225_08:0">
+        <source>ロボ</source>
+        <target state="translated">Lobo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t226_08:0">
+        <source>グレートタスク</source>
+        <target state="translated">Great Tusk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t227_08:0">
+        <source>クラーケン</source>
+        <target state="translated">Kraken</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t228_08:0">
+        <source>マミー</source>
+        <target state="translated">Mummy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t228_08:1cc">
+        <source>Ｍ・コンビネーション</source>
+        <target state="translated">Mummy Combo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t229_08:0">
+        <source>ゾンビジャイアント</source>
+        <target state="translated">Zombie Giant</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t230_08:0">
+        <source>プルート</source>
+        <target state="translated">Pluto</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t231_08:0">
+        <source>ドラコケンタウロス</source>
+        <target state="translated">Draco-Centaur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t232_08:0">
+        <source>オーディーン</source>
+        <target state="translated">Odin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t233_08:0">
+        <source>こすけ</source>
+        <target state="translated">Kosuke</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t234_08:0">
+        <source>じんぱち</source>
+        <target state="translated">Jinpachi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t235_08:0">
+        <source>じゅうぞう</source>
+        <target state="translated">Juzo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t236_08:0">
+        <source>さいぞう</source>
+        <target state="translated">Saizo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t237_08:0">
+        <source>さすけ</source>
+        <target state="translated">Sasuke</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t238_08:0">
+        <source>かに</source>
+        <target state="translated">Crab</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t239_08:0">
+        <source>リリス</source>
+        <target state="translated">Lilith</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t239_08:1cc">
+        <source>雷牙</source>
+        <target state="translated">Lightning Fang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t239_08:228">
+        <source>サンダーソード</source>
+        <target state="translated">Thunder Sword</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t239_08:284">
+        <source>獅吼爆雷陣</source>
+        <target state="translated">Thunder Beast</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t239_08:2e0">
+        <source>雷神十連撃</source>
+        <target state="translated">Thor's Hammer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t239_08:398">
+        <source>雷神拳</source>
+        <target state="translated">Lightning Fist</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t239_08:3f4">
+        <source>飛燕連脚</source>
+        <target state="translated">Swallow Dance</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t239_08:450">
+        <source>リリスラッシュ</source>
+        <target state="translated">Lilith Slash</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="t240_08:0">
+        <source>？？？</source>
+        <target state="translated">???</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

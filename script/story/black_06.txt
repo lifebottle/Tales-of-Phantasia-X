@@ -1,0 +1,39 @@
+ Black Map{END}
+
+<speed_0008>Mom...<speed_0040><speed_0008>Dad...<speed_FFFF>{END}
+
+<speed_0000>A decade or so has since passed...<speed_FFFF>{END}
+
+<speed_0000>Aselian Calendar
+Year 4202<speed_FFFF>{END}
+
+<speed_0000>In the end, just whom would the
+goddess of victory smile upon?<speed_FFFF>{END}
+
+Martel:<nl>
+ O holy God...{END}
+
+Martel:<nl>
+ ...of this holy land...{END}
+
+Martel:<nl>
+ ...of this holy universe!{END}
+
+Martel:<nl>
+ I beg thee to find it within thy
+ benevolent heart...{END}
+
+Martel:<nl>
+ ...to grant this lowly sinner thy
+ grace!{END}
+
+Martel:<nl>
+ Arise, Great Seed!<wait>{END}
+
+<speed_0000>Two hours later...<wait>{END}
+
+<audio_0FD2>Undine:<nl>
+ This bubble shall provide you with
+ safe passage to the sunken
+ metropolis. Step inside.{END}
+

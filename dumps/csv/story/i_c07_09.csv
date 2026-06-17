@@ -1,0 +1,1293 @@
+"<Cless>
+「これは・・・」
+<pause>
+<Cless>
+「ヴァルキリーの言っていたオー
+　ディーンの像？」{END}","<Cless>:<nl>
+ Is this the statue of Odin that
+ Valkyrie was talking about?{END}"
+"？？？
+「大なる者、強き者、我が聖域に
+　来るがよい」{END}","???:<nl>
+ May the magnanimous and
+ triumphant grace mine sacred
+ precinct.{END}"
+"？？？
+「小さき者、弱き者、我が聖域に
+　近づくな！」{END}","???:<nl>
+ May the diminutive and the feeble
+ be gone!{END}"
+"
+　　　　　そこの剣士！
+<pause>
+{END}","
+　　　　　You, mortal!
+<pause>
+{END}"
+"
+　　　　分不相応なものを
+　　　持つものではないぞ！{END}","
+　　　　That which you possess is beyond
+ your ken!{END}"
+"<audio_0E86><Klarth>
+「おい、<Cless>！」
+<pause>
+<audio_0E87><Klarth>
+「どこに行くんだ！？」
+<pause>
+<audio_0E88><Cless>
+「女の人の声が・・・」
+<pause>
+<audio_0E89><Klarth>
+「はぁ？」
+<pause>
+<audio_0E8A><Klarth>
+「何を言ってるんだ？」{END}","<audio_0E86><Klarth>:<nl>
+ Hey, <Cless>!
+<pause>
+<audio_0E87><Klarth>:<nl>
+ Where are you going!?
+<pause>
+<audio_0E88><Cless>:<nl>
+ I heard a woman's voice...
+<pause>
+<audio_0E89><Klarth>:<nl>
+ Huh?
+<pause>
+<audio_0E8A><Klarth>:<nl>
+ The hell are you talking about?{END}"
+"<audio_0E8B><Arche>
+「ききき消えちゃった！？<panic>」
+<pause>
+<audio_0E8C><Mint>
+「<Cless>さん・・・」
+<pause>
+<audio_0E8D><Mint>
+「そんな・・・」{END}","<audio_0E8B><Arche>:<nl>
+ H-H-He disappeared!? <panic>
+<pause>
+<audio_0E8C><Mint>:<nl>
+ <Cless>...
+<pause>
+<audio_0E8D><Mint>:<nl>
+ No...{END}"
+"<unk1><audio_0E8E><Arche>
+きゃー！<Mint>、
+<Mint>ってば！！」<wait>{END}","<unk1><audio_0E8E><Arche>:<nl>
+ Eeek! <Mint>, <Mint>!!!
+ Get up, get up!!<wait>{END}"
+"<audio_0E8F><Arche>
+「しっかりしてよぉ！！」{END}","<audio_0E8F><Arche>:<nl>
+ We can't lose you too!!{END}"
+"<unk1><audio_0E90>兵士
+<Klarth>殿、何をしているんですか？」
+<pause>
+<audio_0E91>兵士
+早く参戦して下さい！」<wait>{END}","<unk1><audio_0E90>Soldier:<nl>
+ Commander <Klarth>, what are
+ you doing?
+<pause>
+<audio_0E91>Soldier:<nl>
+ Please hurry and join the battle!<wait>{END}"
+"<audio_0E92><Klarth>
+「だ、だが仲間が・・・」
+<pause>
+<audio_0E93>兵士
+「まだ戦争は終わってないんです
+　よ！」
+<pause>
+<audio_0E94>兵士
+「ぐずぐずしているヒマはありま
+　せん！」
+<pause>
+<audio_0E95><Klarth>
+「いや、そうではなくて・・・」{END}","<audio_0E92><Klarth>:<nl>
+ B-But our comrade...
+<pause>
+<audio_0E93>Soldier:<nl>
+ The battle isn't over yet!
+<pause>
+<audio_0E94>Soldier:<nl>
+ This is no time to grieve!
+<pause>
+<audio_0E95><Klarth>:<nl>
+ Er, I was...{END}"
+"<audio_0E96><Cless>
+「何者だ！？」
+<pause>
+<audio_0E97>？？？
+「私は、現在長い眠りについてお
+　られる『オーディーン』に忠誠
+　を誓う者」
+<pause>
+<audio_0E98>？？？
+「人々はヴァルキリーと呼んでい
+　る」
+<pause>
+<audio_0E99><Cless>
+「オーディーン？」
+<pause>
+<audio_0E9A><Cless>
+「ヴァルキリー？」{END}","<audio_0E96><Cless>:<nl>
+ Who are you!?
+<pause>
+<audio_0E97>???:<nl>
+ I am one beholden to Odin, who
+ presently slumbers.
+<pause>
+<audio_0E98>???:<nl>
+ Your kind has christened me
+ Valkyrie.
+<pause>
+<audio_0E99><Cless>:<nl>
+ Odin?
+<pause>
+<audio_0E9A><Cless>:<nl>
+ Valkyrie?{END}"
+"<audio_0E9B><Cless>
+「僕に何の用です・・・？」
+<pause>
+<audio_0E9C>ヴァルキリー
+「神具を返しなさい」<wait>{END}","<audio_0E9B><Cless>:<nl>
+ What do you want with me?
+<pause>
+<audio_0E9C>Valkyrie:<nl>
+ Return to us the holy artifact.<wait>{END}"
+"<audio_0E9D>ヴァルキリー
+「<item_C300>のことだ」
+<pause>
+<audio_0E9E>ヴァルキリー
+「それは、我が主君オーディーン
+　の持ち物」
+<pause>
+<audio_0E9F>ヴァルキリー
+「そもそも、下賎な者が持ってよ
+　いものではない」<wait>{END}","<audio_0E9D>Valkyrie:<nl>
+ That which you possess, Gungnir.
+<pause>
+<audio_0E9E>Valkyrie:<nl>
+ It is an instrument of my Lord,
+ Odin.
+<pause>
+<audio_0E9F>Valkyrie:<nl>
+ An inferior being such as yourself
+ defiles the Lord's treasure with
+ your flesh.<wait>{END}"
+"<audio_0EA0><Cless>
+「げ、下賎・・・」
+<pause>
+<audio_0EA1>ヴァルキリー
+「その槍は、我が主のもとから盗
+　まれた神具・・・」
+<pause>
+<audio_0EA2><Cless>
+「神具・・・」
+<pause>
+<audio_0EA3>ヴァルキリー
+「素直に返却するならば、それな
+　りの礼をしよう」
+<pause>
+<audio_0EA4>ヴァルキリー
+「だが、返さぬと言うのであれば
+　神の怒りに触れるものと・・・」{END}","<audio_0EA0><Cless>:<nl>
+ I-Inferior being...
+<pause>
+<audio_0EA1>Valkyrie:<nl>
+ That holy spear was unlawfully
+ removed from My Lord's custody...
+<pause>
+<audio_0EA2><Cless>:<nl>
+ Th-This belongs to a god... <panic>
+<pause>
+<audio_0EA3>Valkyrie:<nl>
+ Should you surrender it without
+ incident, you shall be compensated.
+<pause>
+<audio_0EA4>Valkyrie:<nl>
+ Should you refuse our proposition,
+ however, you shall incur divine
+ punishment, and...{END}"
+"<audio_0EA5><Cless>
+「あなたの乗っている馬、飛べる
+　んですか？」{END}","<audio_0EA5><Cless>:<nl>
+ Hey, that's a nice horse.
+ Does it fly?{END}"
+"見張り
+「異常無し！」{END}","Sentry:<nl>
+ All is well!{END}"
+"ライゼン
+「あなた達はこの国の伝説となる
+　であろう」
+<pause>
+ライゼン
+「我々は残りの魔物共を根絶やし
+　にしていくつもりだ」
+<pause>
+ライゼン
+「これでこの世界にも平和が訪れ
+　る」{END}","Leisen:<nl>
+ Henceforth, you shall be known as
+ the Heroes of Legend to this nation.
+<pause>
+Leisen:<nl>
+ Leave the remaining monsters to
+ us. We shall eradicate every last
+ one still standing.
+<pause>
+Leisen:<nl>
+ With this, everlasting peace shall be
+ brought unto this world.{END}"
+"ライゼン
+「我々の軍隊は今回の戦闘でかな
+　りの被害を受けた」
+<pause>
+ライゼン
+「後はあなた達だけが頼りですぞ」
+<pause>
+ライゼン
+「我々はできる限りあなた達の手
+　助けする所存だ」{END}","Leisen:<nl>
+ Our military has taken substantial
+ losses in this battle.
+<pause>
+Leisen:<nl>
+ What happens now is up to you,
+ and you alone.
+<pause>
+Leisen:<nl>
+ But fear not, we still intend to help
+ you in whatever way we can.{END}"
+"ライゼン
+「戦争は近い、警戒しなくては」{END}","Leisen:<nl>
+ War is approaching, and we must
+ be vigilant.{END}"
+"研究員
+「魔科学兵器が壊れてしまった」
+<pause>
+研究員
+「また最初からやり直しだよ」{END}","Researcher:<nl>
+ The Mana Cannon has been reduced
+ to slag.
+<pause>
+Researcher:<nl>
+ We'll have to go back to the
+ drawing board now...{END}"
+"研究員
+「この研究が実れば、ダオスに決
+　定的なダメージを与える武器が
+　開発できるんだ」{END}","Researcher:<nl>
+ If this research proves fruitful,
+ we'll be able to develop a weapon
+ capable of dealing a decisive blow
+ to Dhaos.{END}"
+"研究員
+「ダオスは魔術でしか傷を負わせ
+　ることができない」
+<pause>
+研究員
+「なのに、エルフ達はダオスと戦
+　おうとしなかった」
+<pause>
+研究員
+「森の連中は腰抜けばかりだ」{END}","Researcher:<nl>
+ Dhaos' only weak point was magic.
+<pause>
+Researcher:<nl>
+ Even so, the elves didn't have the
+ stomach to fight against him.
+<pause>
+Researcher:<nl>
+ They just cowered in their forest.{END}"
+"研究員
+「ダオスは魔術でしか傷を負わせ
+　ることができない」
+<pause>
+研究員
+「なのに、エルフ達はダオスと戦
+　おうとしない」
+<pause>
+研究員
+「森の連中は腰抜けばかりだ」{END}","Researcher:<nl>
+ Dhaos' only weak point is magic.
+<pause>
+Researcher:<nl>
+ Despite this, the elves won't lift a
+ finger to strike against him.
+<pause>
+Researcher:<nl>
+ They just huddle together in their
+ forest, like cowards.{END}"
+"研究員
+「魔女とホウキについての研究を
+　しています」{END}","Researcher:<nl>
+ My current project is to study
+ witches and their mysterious
+ brooms.{END}"
+"研究員・ウドゥー
+「精霊と魔科学の融合というのも
+　研究テーマの一つです」{END}","Researcher Udu:<nl>
+ We've also begun researching the
+ fusion of magitechnology and
+ spirits.{END}"
+"研究員
+「研究に明け暮れる毎日です」
+<pause>
+研究員
+「嫁さん、逃げちまうかなぁ？」{END}","Researcher:<nl>
+ Every day I do nothing but
+ research.
+<pause>
+Researcher:<nl>
+ My wife must be having second
+ thoughts about our marriage...{END}"
+"研究員
+「私達は人類の夢を実現するため
+　にがんばっています」{END}","Researcher:<nl>
+ We work day and night to realize
+ humanity's dream.{END}"
+"研究員
+「エルフの魔力があればダオスを
+　もっと早く倒せたはず・・・」
+<pause>
+研究員
+「しかし、エドワード殿は、どう
+　やって魔術を使っていたのだろ
+　う？」
+<pause>
+研究員
+「やはり、ウワサ通り、エドワー
+　ド殿は・・・」{END}","Researcher:<nl>
+ We could've swiftly removed Dhaos
+ from power if we had the magic
+ power of the elves...
+<pause>
+Researcher:<nl>
+ I can't shake my curiosity though:
+ How did Sir Edward use magic?
+<pause>
+Researcher:<nl>
+ Were the rumors about him
+ actually true?{END}"
+"研究員
+「エルフの魔力があればダオスな
+　ど・・・」
+<pause>
+研究員
+「しかし、エドワード殿は、どう
+　やって魔術を使っているのだろ
+　う？」
+<pause>
+研究員
+「やはり、ウワサ通り、エドワー
+　ド殿は・・・」{END}","Researcher:<nl>
+ We could obliterate Dhaos if we
+ had the magic power of the elves...
+<pause>
+Researcher:<nl>
+ I've been wondering, though: How
+ is Sir Edward able to use magic?
+<pause>
+Researcher:<nl>
+ Could the rumors about him
+ actually be true?{END}"
+"研究員
+「魔術の源であるマナの研究をし
+　ています」{END}","Researcher:<nl>
+ I'm studying mana, the source of
+ magic.{END}"
+"研究員
+「こうして私達の研究が役に立つ
+　ならば・・・」
+<pause>
+研究員
+「うーん、実にやりがいを感じる
+　なぁ・・・」{END}","Researcher:<nl>
+ If our research proves helpful--
+<pause>
+Researcher:<nl>
+ Eh, you know what?
+ This is worth it; I'm positive our
+ research will make a difference.{END}"
+"見張り
+「異常無し！」{END}","Sentry:<nl>
+ All is well!{END}"
+"見張り
+「早く交代しないかな〜」{END}","Sentry:<nl>
+ My shift ended ages ago!
+ What's taking my replacement so
+ long to get here!?{END}"
+"見張り
+「ここから先は関係者以外は立入
+　禁止だ」{END}","Sentry:<nl>
+ Only authorized personnel are
+ allowed beyond this point.{END}"
+"見張り
+「ここだけの話だけど、この中で
+　はすっげぇ武器が開発されてる
+　らしいぜ」{END}","Sentry:<nl>
+ Don't let this out, but there's
+ one hell of a weapon in the room
+ behind us. A real monster!{END}"
+"<audio_0DB7>ライゼン
+「ここが魔科学研究所です」
+<pause>
+<audio_0DB8>ライゼン
+「この研究が実れば、人間でも魔
+　術が使えるようになるのです」
+<pause>
+<audio_0DB9>ライゼン
+「すばらしいとは思わぬか？」<wait>{END}","<audio_0DB7>Leisen:<nl>
+ This is our magitechnology research
+ center.
+<pause>
+<audio_0DB8>Leisen:<nl>
+ If our research is fruitful, humans
+ will be able to use magic.
+<pause>
+<audio_0DB9>Leisen:<nl>
+ Just think of it--isn't it
+ marvelous?<wait>{END}"
+"<audio_0DBA><Klarth>
+「何だって？」
+<pause>
+<audio_0DBB><Klarth>
+「人間でも魔術が使える？」
+<pause>
+<audio_0DBC><Klarth>
+「本当なのか？」
+<pause>
+<audio_0DBD><Klarth>
+「夢のようだ」
+<pause>
+<audio_0DBE>ライゼン
+「戦争に勝利できれば、功労者と
+　なるあなた達には優先的にこの
+　技術をお教えしましょう」<wait>{END}","<audio_0DBA><Klarth>:<nl>
+ Wait, WHAT!?
+<pause>
+<audio_0DBB><Klarth>:<nl>
+ Magic...usable by humans!?
+<pause>
+<audio_0DBC><Klarth>:<nl>
+ Are you sure?
+<pause>
+<audio_0DBD><Klarth>:<nl>
+ That would be a dream come true...
+<pause>
+<audio_0DBE>Leisen:<nl>
+ Should we be victorious in this war,
+ it would be our pleasure to teach
+ you all about it in repayment of
+ your service.<wait>{END}"
+"<audio_0DBF><Klarth>
+「ほっ本当か！？」<wait>{END}","<audio_0DBF><Klarth>:<nl>
+ R-Really!?<wait>{END}"
+"<audio_0DC0><Klarth>
+「これは、がんばるしかないな」<wait>{END}","<audio_0DC0><Klarth>:<nl>
+ Listen up, kids. If we fail because
+ of you, I promise you'll never live
+ it down. Hmhmhm...<wait>{END}"
+"<audio_0DC1>ライゼン
+「詳しい話はここの者達から聞い
+　て下され」
+<pause>
+<audio_0DC2>ライゼン
+「私は先に戻らねばなりませぬの
+　で、これにて失礼いたします」{END}","<audio_0DC1>Leisen:<nl>
+ Feel free to speak with the
+ researchers for more details.
+<pause>
+<audio_0DC2>Leisen:<nl>
+ Now, if you'll excuse me.
+ I must return to my duties.{END}"
+"<audio_15BA><Arche>
+「あたしは納得してないよ」<wait>{END}","<audio_15BA><Arche>:<nl>
+ I still don't get it.<wait>{END}"
+"<audio_15BB><Klarth>
+「は？」<wait>{END}","<audio_15BB><Klarth>:<nl>
+ Huh?<wait>{END}"
+"<audio_15BC><Arche>
+「ダオスの目的のことだよ」<wait>{END}","<audio_15BC><Arche>:<nl>
+ I mean, what we were talking
+ about before. You know, Dhaos'
+ so-called ambition.<wait>{END}"
+"<audio_15BD><Arche>
+「確かにダオスは町を襲った」
+<pause>
+<audio_15BE><Arche>
+「人を殺めた」
+<pause>
+<audio_15BF><Arche>
+「魔物を操っている」
+<pause>
+<audio_15C0><Arche>
+「だけど・・・」{END}","<audio_15BD><Arche>:<nl>
+ Sure, he attacked a town...
+<pause>
+<audio_15BE><Arche>:<nl>
+ Killed people...
+<pause>
+<audio_15BF><Arche>:<nl>
+ And is controlling monsters...
+<pause>
+<audio_15C0><Arche>:<nl>
+ But...{END}"
+"<audio_15C1><Klarth>
+「だけど？」<wait>{END}","<audio_15C1><Klarth>:<nl>
+ But what?<wait>{END}"
+"<audio_15C2><Arche>
+「だけどベネツィアやユークリッ
+　ドを襲ったことってある？」
+<pause>
+<audio_15C3><Arche>
+「アルヴァニスタではレアード王
+　子を操って動けなくしただけで
+　しょ？」
+<pause>
+<audio_15C4><Arche>
+「内部から崩すことだってできた
+　はずなのに・・・」
+<pause>
+<audio_15C5><Arche>
+「ダオスって直接にはミッドガル
+　ズにしかちょっかい出してない
+　じゃん」
+<pause>
+<audio_15C6><Arche>
+「これってどういうこと？」{END}","<audio_15C2><Arche>:<nl>
+ What about Venezia or Euclid?
+ I don't remember him pulling
+ anything on them.
+<pause>
+<audio_15C3><Arche>:<nl>
+ And he hasn't made a move
+ against Alvanista either, right?
+ Aside from playing puppeteer
+ with Prince Laird, I mean.
+<pause>
+<audio_15C4><Arche>:<nl>
+ I guess he was trying to destroy
+ Alvanista from the inside, but...
+<pause>
+<audio_15C5><Arche>:<nl>
+ Haven't you noticed that Midgard
+ seems to be the only place Dhaos is
+ messing with directly?
+<pause>
+<audio_15C6><Arche>:<nl>
+ Why do you suppose that is?{END}"
+"<audio_15C7><Klarth>
+「そう言われてもなぁ」
+<pause>
+<audio_15C8><Cless>
+「いったいどうしたんだ？」
+<pause>
+<audio_15C9><Cless>
+「奴はハーメルを襲ったじゃない
+　か！」{END}","<audio_15C7><Klarth>:<nl>
+ Now that you mention it...
+<pause>
+<audio_15C8><Cless>:<nl>
+ Just what is the problem?
+<pause>
+<audio_15C9><Cless>:<nl>
+ Think about what you just said!
+ “Sure, he attacked a town...”, which
+ would be Harmel, wouldn't it!?{END}"
+"<audio_15CA><Arche>
+「・・・・・・」
+<pause>
+<audio_15CB><Cless>
+「<Rhea>や<Rhea>の両親を殺したのも
+　ダオスが裏で手を引いていたん
+　じゃないか！」
+<pause>
+<audio_15CC><Cless>
+「何とも思わないのか！？」<wait>{END}","<audio_15CA><Arche>:<nl>
+ ......
+<pause>
+<audio_15CB><Cless>:<nl>
+ Not only that, but you said that he
+ killed people too! Wasn't it Dhaos'
+ fault that <Rhea> and her parents
+ died!?
+<pause>
+<audio_15CC><Cless>:<nl>
+ Is that really meaningless to you!?<wait>{END}"
+"<unk1><audio_15CD><Mint>
+<Cless>さん、言いすぎです！」{END}","<unk1><audio_15CD><Mint>:<nl>
+ Please calm down, <Cless>!
+ You're going too far!{END}"
+"<audio_15CE><Arche>
+「そこなの」<wait>{END}","<audio_15CE><Arche>:<nl>
+ Aha. That's it...<wait>{END}"
+"<audio_15CF><Cless>
+「へ？」<wait>{END}","<audio_15CF><Cless>:<nl>
+ Huh?<wait>{END}"
+"<audio_15D0><Arche>
+「そこだけ変なのよね」<wait>{END}","<audio_15D0><Arche>:<nl>
+ Harmel's the weird one, isn't it?<wait>{END}"
+"<audio_15D1><Arche>
+「どうしてハーメルだけ襲ったの
+　かなぁ？」<wait>{END}","<audio_15D1><Arche>:<nl>
+ Why did Dhaos have to smash it?
+ It just seemed like a small,
+ harmless town. Nothing shady
+ about that, right?<wait>{END}"
+"<audio_15D2><Klarth>
+「う〜ん・・・」
+<pause>
+<audio_15D3><Arche>
+「考えすぎかなぁ」
+<pause>
+<audio_15D4><Arche>
+「ミッドガルズとハーメルに、ま
+　たは<Rhea>の両親に何か共通点っ
+　てあるんじゃない？」
+<pause>
+<audio_15D5><Arche>
+「やっぱ変じゃん、他の町が無事
+　なのは・・・」{END}","<audio_15D2><Klarth>:<nl>
+ Yes, indeed...
+<pause>
+<audio_15D3><Arche>:<nl>
+ Maybe I'm overthinking this, but...
+<pause>
+<audio_15D4><Arche>:<nl>
+ ...could Midgard, Harmel, and
+ possibly <Rhea>'s parents have
+ something in common?
+<pause>
+<audio_15D5><Arche>:<nl>
+ I just find it kinda funny how
+ nothing's happened anywhere else...{END}"
+"<audio_15D6><Klarth>
+「ダオスの目的か・・・そう言わ
+　れると、少し妙かもしれんな」
+<pause>
+<audio_15D7><Arche>
+「一度、あたしの家に行ってみよ
+　うよ」
+<pause>
+<audio_15D8><Arche>
+「お父さんに聞けば何かわかるか
+　もしれないし・・・」
+<pause>
+<audio_15D9><Arche>
+「それに、少し文句も言いたいし
+　ね」
+<pause>
+<audio_15DA><Klarth>
+「い、今からお前の家に！？<panic>」
+<pause>
+<audio_15DB><Klarth>
+「少し遠すぎやしないか？」
+<pause>
+<audio_15DC><Arche>
+「だいじょーぶ、ダイジョーブ」
+<pause>
+<audio_15DD><Arche>
+「パっと行ってパっと帰ってくれ
+　ばいいじゃん？」<wait>{END}","<audio_15D6><Klarth>:<nl>
+ Dhaos' objective...<nl>
+ As you said, we know little about it.
+<pause>
+<audio_15D7><Arche>:<nl>
+ I got an idea.
+ Why don't we go drop
+ in on my dad?
+<pause>
+<audio_15D8><Arche>:<nl>
+ He might know something.
+<pause>
+<audio_15D9><Arche>:<nl>
+ And besides, I got a little bone to
+ pick with him.
+<pause>
+<audio_15DA><Klarth>:<nl>
+ Y-Your house, at a time like
+ this!? <panic>
+<pause>
+<audio_15DB><Klarth>:<nl>
+ Isn't that just a LITTLE far?
+ They did ask us to wait around in
+ the city for orders, you know.
+<pause>
+<audio_15DC><Arche>:<nl>
+ Don't worry!
+ I got just the thing!
+<pause>
+<audio_15DD><Arche>:<nl>
+ Quick-jump! It'll get us there and
+ back, like, super fast, 'kay?<wait>{END}"
+"<audio_15DE><Arche>
+「さ、行こ<heart>」
+<pause>
+<color_0002>どうしますか？
+<speed_0000>１。パッと行く
+２。歩いて行く<speed_FFFF>{END}","<audio_15DE><Arche>:<nl>
+ Now, let's go <heart>
+<pause>
+<color_0002>What will you do?<nl>
+<speed_0000>1. Quick-jump there<nl>
+2. Walk there<speed_FFFF>{END}"
+"<audio_0E0B><Cless>
+「モリスンさん、これは！？」
+<pause>
+<audio_0E0C>モリスン
+「・・・・・・」
+<pause>
+<audio_0E0D>？？？
+「ふふ、ようやく役者がそろった
+　か」
+<pause>
+<audio_0E0E>モリスン
+「ジェストーナ、何が望みだ？」
+<pause>
+<audio_0E0F>ジェストーナ
+「これから戦争をしましょうと言
+　うだけで、そのまま帰るのは、
+　俺の性に合わんのよ」
+<pause>
+<audio_0E10>ジェストーナ
+「ここで、ついでに貴様らの命を
+　絶っておけばダオス様もお喜び
+　になろうというもの！」
+<pause>
+<audio_0E11><Cless>
+「何だと！？」{END}","<audio_0E0B><Cless>:<nl>
+ Mr. Morrison, what's going on!?
+<pause>
+<audio_0E0C>Morrison:<nl>
+ ......
+<pause>
+<audio_0E0D>???:<nl>
+ Hmhm, so the whole troupe has
+ finally assembled.
+<pause>
+<audio_0E0E>Morrison:<nl>
+ Why have you come here, Jestona?
+<pause>
+<audio_0E0F>Jestona:<nl>
+ Y'see, it's not my style to just
+ deliver a formal war declaration
+ and hightail it home.
+<pause>
+<audio_0E10>Jestona:<nl>
+ So, I thought I'd add a personal
+ touch while I can: I'm going to
+ wipe you out! Lord Dhaos will
+ surely be very pleased with me!
+<pause>
+<audio_0E11><Cless>:<nl>
+ What!?{END}"
+"<audio_0E12>ジェストーナ
+「動くなよ！」<wait>{END}","<audio_0E12>Jestona:<nl>
+ Don't move!<wait>{END}"
+"<audio_0E13>ジェストーナ
+「少しでも動けば、このガキの命
+　はないぜぇ・・・」
+<pause>
+<audio_0E14><Cless>
+「汚いぞ！」
+<pause>
+<audio_0E15>ジェストーナ
+「自害しろぉ！」
+<pause>
+<audio_0E16>ジェストーナ
+「小僧とモリスン、それにそこの
+　三人全員だ！」{END}","<audio_0E13>Jestona:<nl>
+ If you so much as twitch, I'll make
+ mincemeat out of this little brat.
+<pause>
+<audio_0E14><Cless>:<nl>
+ You dirty...!
+<pause>
+<audio_0E15>Jestona:<nl>
+ Now, slaughter yourselves!
+<pause>
+<audio_0E16>Jestona:<nl>
+ Yeah, that's right! The caped punk,
+ Morrison, and you other three!
+ Hurry up and slit your throats, or
+ the kid gets it!{END}"
+"<audio_0E17>モリスン
+「みんな、よく見るんだ<speed_0010>・・・」{END}","<audio_0E17>Morrison:<nl>
+ Everyone, pay close attention<speed_0010>...{END}"
+"<audio_0E18>ジェストーナ
+「うお！！」<wait>{END}","<audio_0E18>Jestona:<nl>
+ Ugh!!<wait>{END}"
+"<audio_0E19>ジェストーナ
+「き、貴様ぁぁぁ〜！！」{END}","<audio_0E19>Jestona:<nl>
+ W-Why youuuu!!{END}"
+"<audio_0E1A><Cless>
+「モリスンさん！！」
+<pause>
+<audio_0E1B>モリスン
+「近づくな！！」
+<pause>
+<audio_0E1C>モリスン
+「これをもっと拡大すれば、時間
+　転移を引き起こすことも可能に
+　なるはずだ・・・」
+<pause>
+<audio_0E1D>ジェストーナ
+「ははは、とどめだ！！」
+<pause>
+<audio_0E1E>モリスン
+「うぐぅ・・・」
+<pause>
+<audio_0E1F>モリスン
+「この力の研究を完成できなかっ
+　たことが・・・残念だ・・・」
+<pause>
+<audio_0E20>モリスン
+「はぁ、はぁ、これは<speed_0020>、<speed_FFFF>まねする
+　なよ・・・」
+<pause>
+<audio_0E21>ジェストーナ
+「な、何を！？」{END}","<audio_0E1A><Cless>:<nl>
+ Mr. Morrison!!!
+<pause>
+<audio_0E1B>Morrison:<nl>
+ Stay back!!!
+<pause>
+<audio_0E1C>Morrison:<nl>
+ By expanding on this spell, it should
+ be possible to open a time travel
+ portal...
+<pause>
+<audio_0E1D>Jestona:<nl>
+ Hahahahah, this is the end for you!!!
+<pause>
+<audio_0E1E>Morrison:<nl>
+ Ugh...
+<pause>
+<audio_0E1F>Morrison:<nl>
+ It's a shame...I couldn't finish...<nl>
+ researching...this power...
+<pause>
+<audio_0E20>Morrison:<nl>
+ Huff...huff...<speed_FFFF>just be...<speed_FFFF>a bit more...<speed_FFFF>
+ careful...<speed_FFFF>when you...<speed_FFFF>do it...
+<pause>
+<audio_0E21>Jestona:<nl>
+ Wh-What are y--!?{END}"
+"<audio_0E22><Mint>
+「こんな、こんなことって」
+<pause>
+<audio_0E23><Cless>
+「モリスンさん・・・」{END}","<audio_0E22><Mint>:<nl>
+ What...what did he do?
+<pause>
+<audio_0E23><Cless>:<nl>
+ Mr. Morrison...{END}"
+"<unk1><audio_0E24><Cless>
+<Arche>、まだダオスの目的に疑問を持っているのか？」{END}","<unk1><audio_0E24><Cless>:<nl>
+ So <Arche>, are you still feeling a
+ bit squeamish about facing Dhaos?{END}"
+"<audio_0E25><Cless>
+「見ただろう！？」
+<pause>
+<audio_0E26><Cless>
+「奴は僕達を殺すためならどんな
+　ことだってするんだ！」
+<pause>
+<audio_0E27><Arche>
+「わかった・・・」
+<pause>
+<audio_0E28><Arche>
+「もう言わない<speed_0010>・・・」{END}","<audio_0E25><Cless>:<nl>
+ You saw what just happened, didn't
+ you!?
+<pause>
+<audio_0E26><Cless>:<nl>
+ He'll stop at nothing to kill us!
+<pause>
+<audio_0E27><Arche>:<nl>
+ I get it...
+<pause>
+<audio_0E28><Arche>:<nl>
+ I won't say any more<speed_0010>...{END}"
+"<audio_0E29><Mint>
+「<Cless>さん・・・」
+<pause>
+<audio_0E2A><Mint>
+「歴史が・・・」
+<pause>
+<audio_0E2B><Mint>
+「本に書かれていたことと違って
+　しまいました・・・」
+<pause>
+<audio_0E2C><Cless>
+「モリスンさんには・・・」
+<pause>
+<audio_0E2D><Cless>
+「ニ度も助けられたよ」<wait>{END}","<audio_0E29><Mint>:<nl>
+ <Cless>...
+<pause>
+<audio_0E2A><Mint>:<nl>
+ With this, history is...
+<pause>
+<audio_0E2B><Mint>:<nl>
+ ...no longer as it is written in the
+ book...
+<pause>
+<audio_0E2C><Cless>:<nl>
+ That's the second time...
+<pause>
+<audio_0E2D><Cless>:<nl>
+ ...a Morrison has paid with his life
+ to save us!<wait>{END}"
+"<audio_0E2E><Cless>
+「もうたくさんだ！」
+<pause>
+<audio_0E2F><Cless>
+「僕達で奴を倒すんだ！！」
+<pause>
+<audio_0E30><Cless>
+「そして・・・」
+<pause>
+<audio_0E31><Cless>
+「そして、全てに決着を
+　つけよう！！」{END}","<audio_0E2E><Cless>:<nl>
+ I've had enough! I won't allow this
+ to happen again!
+<pause>
+<audio_0E2F><Cless>:<nl>
+ We will destroy him!!!
+<pause>
+<audio_0E30><Cless>:<nl>
+ And...
+<pause>
+<audio_0E31><Cless>:<nl>
+ And then this nightmare will finally
+ be over!!{END}"
+"<audio_0EA6>オペレーター
+「ターゲットチェックオーバー」
+<pause>
+<audio_0EA7>オペレーター
+「ソーサリーエナジーデンシティ
+　イレブンナイン・・・」
+<pause>
+<audio_0EA8>オペレーター
+「レーザーオペレーションシステ
+　ムオールクリア」
+<pause>
+<audio_0EA9>オペレーター
+「アットザレディ・・・」
+<pause>
+<audio_0EAA>ライゼン
+「よし、奴らをなぎ払え！！」{END}","<audio_0EA6>Operator:<nl>
+ Target check: Complete.
+<pause>
+<audio_0EA7>Operator:<nl>
+ Magic power density: Eleven-nine.
+<pause>
+<audio_0EA8>Operator:<nl>
+ Laser operation system: All clear.
+<pause>
+<audio_0EA9>Operator:<nl>
+ All systems at the ready...
+<pause>
+<audio_0EAA>Leisen:<nl>
+ Terrific.
+ Aim, and...{END}"
+"<audio_0EAB>ライゼン
+「発射！！！」{END}","<audio_0EAB>Leisen:<nl>
+ ...FIRE!!!{END}"
+"<audio_1436>ライゼン
+「装置の調子はどうだ？」
+<pause>
+<audio_1437>技師
+「良好です」
+<pause>
+<audio_1438>ライゼン
+「よし、こいつがあればダオスな
+　ど恐るに足りん・・・」
+<pause>
+<audio_1439>ライゼン
+「フフフ・・・」{END}","<audio_1436>Leisen:<nl>
+ What's the status of the
+ equipment?
+<pause>
+<audio_1437>Engineer:<nl>
+ Favorable, sir.
+<pause>
+<audio_1438>Leisen:<nl>
+ Good.
+ Now even Dhaos shall tremble...
+<pause>
+<audio_1439>Leisen:<nl>
+ Hmhmhm...{END}"
+"<audio_1700>ライゼン
+「はっはっは！」
+<pause>
+<audio_1701>ライゼン
+「魔科学兵器の威力を見たか！」
+<pause>
+<audio_1702>オペレーター
+「ライゼン殿、まだ敵が残ってい
+　ます！」
+<pause>
+<audio_1703>ライゼン
+「よし、もう一発撃ち込め！！」{END}","<audio_1700>Leisen:<nl>
+ Hah hah hah!
+<pause>
+<audio_1701>Leisen:<nl>
+ Did you see that!?
+ The might of the Mana Cannon is
+ without peer!
+<pause>
+<audio_1702>Operator:<nl>
+ Sir Leisen!
+ We didn't get all of them!
+<pause>
+<audio_1703>Leisen:<nl>
+ Well, don't just
+ stand there gawking.
+ Give them another volley!{END}"
+"<audio_0E61>衛兵
+「<Klarth>殿！」{END}","<audio_0E61>Guard:<nl>
+ Commander <Klarth>!{END}"
+"<audio_0E62>衛兵
+「お疲れ様です」
+<pause>
+<audio_0E63>衛兵
+「他の隊の方々がもう集まってい
+　ます」
+<pause>
+<audio_0E64>衛兵
+「さあ、謁見の間へどうぞ」{END}","<audio_0E62>Guard:<nl>
+ I commend you on a job well done.
+<pause>
+<audio_0E63>Guard:<nl>
+ Please be on your way to the
+ throne room, where an assembly is
+ soon to be held.
+<pause>
+<audio_0E64>Guard:<nl>
+ Many men from the other units
+ have already gathered there and
+ anticipate your participation.{END}"
+"？？？
+「力ある者よ、よく来た」
+<pause>
+？？？
+「我が名はオーディーン」
+<pause>
+<Cless>
+「オーディーンだって？」<wait>{END}","???:<nl>
+ Welcome, mighty one.
+<pause>
+???:<nl>
+ Mine name is Odin.
+<pause>
+<Cless>:<nl>
+ THE Odin...?<wait>{END}"
+"オーディーン
+「少しはできるようになったか？」
+<pause>
+オーディーン
+「では、あらためて問おう」<wait>{END}","Odin:<nl>
+ Hast thou overcome the limitations
+ of thine flesh?
+<pause>
+Odin:<nl>
+ Then I shalt ask thee once more.<wait>{END}"
+"オーディーン
+「我に力を示す勇気があるか？」{END}","Odin:<nl>
+ Hast thou the courage to show me
+ thy strength?{END}"
+"オーディーン
+「ただ一人で我と戦う勇気がある
+　と言うのだな？」{END}","Odin:<nl>
+ That is to say, dost thou have the
+ courage to fight me alone?{END}"
+"オーディーン
+「見せてもらおうぞ」
+<pause>
+<Cless>
+「望む所だ！！」{END}","Odin:<nl>
+ Then show me the strength of man.
+<pause>
+<Cless>:<nl>
+ With pleasure!!{END}"
+"オーディーン
+「むぅ・・・」
+<pause>
+オーディーン
+「よかろう、汝に神の槍を使うこ
+　とを許そう・・・」{END}","Odin:<nl>
+ Mmm...
+<pause>
+Odin:<nl>
+ Very well.
+ I permit thee to employ
+ the arms of a god.{END}"
+"<Arche>
+「負けちゃったじゃん、どうすん
+　のさ」
+<pause>
+<Mint>
+「大丈夫ですか<Cless>さん」
+<pause>
+<Klarth>
+「強すぎる・・・」
+<pause>
+オーディーン
+「弱すぎて話にならんぞ！！」
+<pause>
+オーディーン
+「自らを鍛え、出直してくるがよ
+　い」
+<pause>
+<Cless>
+「くそぉ・・・」{END}","<Arche>:<nl>
+ How'd you lose to an old guy?
+<pause>
+<Mint>:<nl>
+ Are you hurt?
+<pause>
+<Klarth>:<nl>
+ You were out of your league...
+<pause>
+Odin:<nl>
+ Let the weak be gone from my
+ sight!!!
+<pause>
+Odin:<nl>
+ Return when thou hast honed
+ thyself.
+<pause>
+<Cless>:<nl>
+ Agh...{END}"
+"オーディーン
+「勇気無き者であったか」
+<pause>
+オーディーン
+「貴様ごときに用は無い、去るが
+　よい」{END}","Odin:<nl>
+ So thou art one without courage.
+<pause>
+Odin:<nl>
+ Do not sully mine sanctuary
+ with thy presence!
+ Leave at once!{END}"
+"オーディーン
+「汝の良心に従い、その槍を振る
+　うがよい」
+<pause>
+オーディーン
+「さらばだ、もはや汝が死するま
+　で会うこともあるまい・・・」{END}","Odin:<nl>
+ Wield this spear as thou seest fit.
+<pause>
+Odin:<nl>
+ Farewell.
+ We shalt not meet again until thou
+ art relieved of thy cage of flesh.{END}"
+"<audio_0E33>ライゼン
+「皆、知っての通り・・・」
+<pause>
+<audio_0E34>ライゼン
+「ダオスの居城は我が国の北東に
+　位置する島にある」{END}","<audio_0E33>Leisen:<nl>
+ As you all know...
+<pause>
+<audio_0E34>Leisen:<nl>
+ Dhaos' castle is situated on an
+ island in the northeastern region of
+ our country.{END}"
+"<audio_0E35>ライゼン
+「島と大陸をつなぐものはわずか
+　に橋が一つ・・・」
+<pause>
+<audio_0E36>ライゼン
+「ここが戦略上での重要拠点とな
+　るのは明白である」
+<pause>
+<audio_0E37>ライゼン
+「したがって戦いの第一段階は、
+　この橋を確保することが目的と
+　なる」
+<pause>
+<audio_0E38>ライゼン
+「我が軍はミッドガルズを出陣し、
+　ヴァルハラ平原を抜けて、橋を
+　目指して進軍する」{END}","<audio_0E35>Leisen:<nl>
+ All that connects the island to the
+ mainland is this single bridge.
+<pause>
+<audio_0E36>Leisen:<nl>
+ It is evident this will be,
+ strategically speaking, the critical
+ point.
+<pause>
+<audio_0E37>Leisen:<nl>
+ Accordingly, the objective of the
+ first stage of this battle is to
+ secure the bridge.
+<pause>
+<audio_0E38>Leisen:<nl>
+ Our army will march forth from
+ Midgard, cross the Valhalla Plains,
+ and advance toward the bridge.
+ Like this:{END}"
+"<audio_0E39>ライゼン
+「主力部隊が最短ルートで、ここ
+　まで来るには五日はかかるであ
+　ろう」
+<pause>
+<audio_0E3A>ライゼン
+「だが、五日かかってしまっては
+　敵軍に橋を越えられてしまう」{END}","<audio_0E39>Leisen:<nl>
+ It should take five days for the
+ main force to reach this point by
+ the shortest route.
+<pause>
+<audio_0E3A>Leisen:<nl>
+ However, the enemy army will
+ have finished crossing the bridge
+ within that time.{END}"
+"ヴァルキリー
+「こんにちは、お久しぶりですね」
+<pause>
+ヴァルキリー
+「あなたの戦いぶり、しかと見せ
+　ていただきました」
+<pause>
+ヴァルキリー
+「あなたなら神の槍<item_C300>
+　を使いこなせるでしょう」
+<pause>
+ヴァルキリー
+「<item_C300>は青い宝箱に入っ
+　ていますが・・・」
+<pause>
+ヴァルキリー
+「赤い宝箱から先にお取りなさい」
+<pause>
+ヴァルキリー
+「では、失礼します」{END}","Valkyrie:<nl>
+ Greetings.
+ It has been some time.
+<pause>
+Valkyrie:<nl>
+ I have observed your aspect in
+ battle.
+<pause>
+Valkyrie:<nl>
+ Surely you shall masterfully employ
+ Gungnir, the divine spear.
+<pause>
+Valkyrie:<nl>
+ Gungnir is contained within the
+ azure chest. However...
+<pause>
+Valkyrie:<nl>
+ Please partake of the crimson
+ chest, first.
+<pause>
+Valkyrie:<nl>
+ Now, I must take my leave of you.{END}"

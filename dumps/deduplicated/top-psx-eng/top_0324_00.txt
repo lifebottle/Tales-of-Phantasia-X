@@ -1,0 +1,612 @@
+<var_D700>'s Cave{END}
+
+Tower of Flames{END}
+
+Guardian of the Flame
+ We are the guardians of
+ the Tower of Flames.
+<pause>
+Guardian of the Flame
+ Show us...
+<pause>
+Guardian of the Flame
+ ...your strength...{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_BA00>.<color_0000>{END}
+
+<Cless>
+ But I don't have a use for it...
+<pause>
+<Cless>
+ I'll put it back...{END}
+
+<Cless>
+ I can't move it at all.
+ It's like it's been glued to
+ the ground or something...{END}
+
+“On the right side of a room with a
+staircase leading upwards is a
+hidden passage.”{END}
+
+<color_0002>Turn the dial?<color_0000>{END}
+
+<Cless>
+ This dial's broken...{END}
+
+<color_0002>Pull the lever?<color_0000>{END}
+
+“With magic, ice will become fire,
+and fire, ice...”
+<pause>
+“This is the key to protecting one's
+life.”{END}
+
+<Cless>
+ It's closed tight...{END}
+
+“Guards on Patrol”{END}
+
+“The secret of this room...”
+<pause>
+<Cless>
+ The rest is too worn to read.{END}
+
+“Wind is Nothingness,
+Earth is Creation,
+Water is Destruction,
+Fire is Power.”{END}
+
+“Emergency Exit”{END}
+
+<Cless>
+ What the?
+<pause>
+<Cless>
+ An invisible wall...?{END}
+
+<Cless>
+ Is this thing <var_D700>?
+<pause>
+<var_D700>
+ <volt1><volt2><volt3><volt4><volt3><volt2><volt4><volt1><volt3><volt3><volt1><volt4><volt2><volt.><wait>{END}
+
+<Klarth>
+ I...I have no idea what it just said!
+<pause>
+{END}
+
+<var_D700>
+ <volt1><volt3><volt3><volt4><volt3><volt1><volt4><volt2><volt4><volt3><volt1><volt4><volt3><volt2><volt2>
+ <volt4><volt2><volt3><volt1><volt3><volt!><volt!><volt!>{END}
+
+<Klarth>
+ Whew...
+ Looks like that cooled it off...
+<pause>
+<Klarth>
+ Now, <var_D700>!
+ Let's seal the pact.
+ If we can, that is...
+<pause>
+<Klarth>
+ You ARE at least able to understand
+ ME, right?
+<pause>
+<var_D700>
+ <volt4><volt2><volt1><volt3><volt1><volt3><volt4><volt3><volt3><volt2><volt2><volt1><volt4><volt3><volt2>
+ <volt1><volt4><volt4><volt3><volt.><volt.><volt.>
+<pause>
+<Klarth>
+ I'll...just assume that's spirit
+ gibberish for “yes.”
+<pause>
+<Cless>
+ What about the pact ring?
+ Do you know which one it likes?
+<pause>
+<Klarth>
+ Indeed, that's a problem...
+<pause>
+<Klarth>
+ I guess I'll just line up all the
+ rings, do the ritual, and check
+ for a reaction. <speed_0010>..................<speed_FFFF>
+ And done. Here goes nothing...{END}
+
+<Klarth>
+ Here and now, I offer my request
+ to the Spirit of <var_BB00>.
+<pause>
+<Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>
+ My name is <Klarth>...
+<pause>
+<Cless>
+ Ah!
+ The Sardonyx ring is glowing...{END}
+
+<color_0002><Klarth> can now summon <var_D700>.<color_0000>{END}
+
+???
+ My name is Flamberg...<wait>{END}
+
+Flamberg
+ You think you can just plunder the
+ Blade of Flame and be off?<wait>{END}
+
+Flamberg
+ The soul of Lord Odin sleeps within
+ it...<wait>{END}
+
+Flamberg
+ I shall not surrender it to thieves
+ such as yourselves!<wait>{END}
+
+Flamberg
+ Nugh...
+<pause>
+Flamberg
+ V-very well...
+ I deem you worthy to take
+ ownership of my life...
+<pause>
+Flamberg
+ Now, wield it...
+<pause>
+Flamberg
+ ...the Blade of Flame!!{END}
+
+<color_0002>Acquired the <item_BC00>.<color_0000>
+<pause>
+<Cless>
+ Wh-what?
+<pause>
+<Cless>
+ Something's speaking to me in my
+ head...{END}
+
+Flamberg
+ “Hahahah, I sense a strong, strong
+ will!!”
+<pause>
+Flamberg
+ “A mighty power lies hidden within
+ you! I suppose you'd like me to
+ draw it out!{END}
+
+<Cless>
+ It feels as if something is rushing
+ into my head...<wait>{END}
+
+<color_0002><Cless> learned
+<var_8900>.<color_0000>{END}
+
+<unk1><Cless>
+ Hey, <Arche>?
+ Would you hop on your broom
+ and get those, please?<wait>{END}
+
+<Arche>
+ Ehehe, I just knew you'd ask that...
+<pause>
+<Arche>
+ So just hang on for a sec<heart>{END}
+
+<unk1><Chester>
+ I bet you're just gonna fly off
+ with them!<wait>{END}
+
+<Arche>
+ Piss off, jerk!
+<pause>
+<Arche>
+ I don't do that kinda stuff!!{END}
+
+<Arche>
+ HERE!!
+<pause>
+<Cless>
+ You shouldn't be like that...
+<pause>
+<Arche>
+ Hmmmph!
+ But I hate <Chester>!
+ HATE HIM!
+<pause>
+<Chester>
+ Feh!
+<pause>
+<Chester>
+ Who said you have to like me!?
+ I sure as hell didn't!
+<pause>
+<Klarth>
+ Now, children, this is no place for
+ bickering.
+<pause>
+<Chester>
+ Yeah, yeah...{END}
+
+<Cless>
+ Is something bothering you,
+ <Arche>?
+<pause>
+<Arche>
+ Nope, not at all.
+ I'm just peachy!!{END}
+
+<color_0002>Acquired an <item_6301> and a Star
+<item_0801>.<color_0000>{END}
+
+<Cless>
+ The door only opened halfway.
+<pause>
+<Cless>
+ It's probably not receiving enough
+ power.{END}
+
+???
+ Have you forgotten the Way of the
+ <var_DD01>?
+<pause>
+???
+ Return with me to the Ninja
+ Village.
+<pause>
+???
+ If you come at once, I shall see to
+ it that the chief forgives you.
+<pause>
+Ninja
+ <var_E700>!
+<pause>
+Ninja
+ Do you not comprehend the
+ supremacy of Lord Dhaos!?
+<pause>
+???
+ You are being deceived!
+<pause>
+Ninja
+ If you stand in our way, we shall
+ grant you a most ignoble death...{END}
+
+???
+ ...You leave me no choice.{END}
+
+???
+ I shall perform my duty in
+ accordance with the Way of the
+ <var_DD01>.
+<pause>
+???
+ Prepare yourselves...{END}
+
+Ninja
+ Too fast...{END}
+
+Ninja
+ Curses...{END}
+
+<Cless>
+ Who are--<wait>{END}
+
+<Cless>
+ Hey, w-wait up!
+<pause>
+<Cless>
+ ......
+<pause>
+<Cless>
+ She took off...{END}
+
+???
+ Eee-yaaaah!<panic>
+<pause>
+<Cless>
+ What was that?{END}
+
+<Cless>
+ What happened?
+<pause>
+<Mint>
+ The poor thing!
+ She's being hurt!
+<pause>
+<Arche>
+ Hey, guys.
+ You smell something burning?
+<pause>
+<Klarth>
+ That involuntary fidgeting looks
+ even worse than a seizure.
+ She'll feel that in the morning.
+<pause>
+<Chester>
+ Man, that's gotta hurt.
+<pause>
+???
+ I...can...not...move...<wait>{END}
+
+<unk1><Cless>
+ She needs our help...
+<pause>
+<Mint>
+ <Cless>, please save her!
+<pause>
+<Arche>
+ Yeah, do your whole “knight in
+ shining armor” bit.
+<pause>
+<Klarth>
+ Be a man and save the poor girl.
+<pause>
+<Chester>
+ Dude, help her out!
+<pause>
+<Cless>
+ W-wait, why are you all making
+ me do it!?<panic>
+<pause>
+???
+ Eeeeee-YAHHHHH!
+<pause>
+<Cless>
+ ...Guess it's now or never.{END}
+
+<Cless>
+ A-aaaaaagh-g-g-g-g-g!!
+<pause>
+<Cless>
+ I-I-I...g-g-g-g-g-g-g-g...{END}
+
+<unk1><Arche>
+ Man, that didn't look fun.
+ You okay?
+<pause>
+???
+ ......
+<pause>
+???
+ Yes, somehow...
+<pause>
+<Mint>
+ <Cless>, are you hurt?
+<pause>
+<Cless>
+ Not really...
+<pause>
+<Cless>
+ Just can't feel my fingers right
+ now is all...
+<pause>
+<Klarth>
+ High voltage tends to do that to a
+ person.
+<pause>
+???
+ I am very sorry, everyone.
+<pause>
+<Chester>
+ So what are you doin' way out
+ here, anyway?
+<pause>
+<Klarth>
+ With a powerful spirit around, this
+ isn't exactly an ideal place for a
+ young child to get herself lost in.<wait>{END}
+
+???
+ U-umm--<panic>
+<pause>
+<Arche>
+ Hey, check out her clothes!
+ Don't see that style every day,
+ huh?
+<pause>
+???
+ P-pardon me...
+ I must go.{END}
+
+<Arche>
+ What's up with her?
+<pause>
+<Chester>
+ Who knows?
+ She bolted right the
+ hell out of here.
+<pause>
+<Cless>
+ I say we should follow her
+ example and be on our way too.{END}
+
+???
+ To get caught into such a simple
+ trap as this...
+<pause>
+Ninja
+ Now what will you do?
+ Obey us, or perhaps...choose death?{END}
+
+<unk1><Cless>
+ We have to save her...
+<pause>
+<Mint>
+ Please, <Cless>!
+ Save her!
+<pause>
+<Arche>
+ Helping girls out is like, your job,
+ isn't it?
+<pause>
+<Klarth>
+ At the very least, etiquette
+ demands you help her, <Cless>.
+<pause>
+<Chester>
+ C'mon man, you're the best at that
+ hero stuff.<wait>{END}
+
+<Cless>
+ Hey, hey!
+ Why are you making me
+ do this alone again!?<panic>
+<pause>
+???
+ No...
+ Not in a place like this...
+<pause>
+<Cless>
+ Sigh...
+ Time for round two...{END}
+
+<unk1><Mint>
+ Please do your best, <Cless>!
+<pause>
+<Arche>
+ Don't run away!
+ Knock 'em on their butts!
+<pause>
+<Klarth>
+ What's this about!?
+ You went against Dhaos twice!
+<pause>
+<Chester>
+ Come on, man!
+ You can handle those turkeys!{END}
+
+<Cless>
+ *huff* *huff*
+ Those guys were tough...{END}
+
+???
+ I shall not forgive those who snuff
+ out the lives of innocents time and
+ time again!{END}
+
+???
+ Are you all right?
+<pause>
+<Cless>
+ Th-they were pretty rough, but...<wait>{END}
+
+<Cless>
+ ...I'm still alive, somehow.
+<pause>
+???
+ I see.
+ That is good to hear.{END}
+
+<Cless>
+ Anyway, what are you doing here?
+<pause>
+???
+ ......
+<pause>
+<Cless>
+ ......
+<pause>
+???
+ ......
+<pause>
+<Cless>
+ If it's a secret, that's fine...<panic>
+<pause>
+<Cless>
+ ...but could you at least tell us your
+ name?
+<pause>
+???
+ ......<wait>{END}
+
+<unk1>???
+ <Suzu>...
+<pause>
+<Cless>
+ Nice to meet you, <Suzu>.
+ Would you like to come with us?
+<pause>
+<Suzu>
+ I-I must decline...
+<pause>
+<Suzu>
+ I thank you for saving me, but...
+<pause>
+<Suzu>
+ I-I must be on my way.{END}
+
+<Cless>
+ I wonder what the hurry is.
+<pause>
+<Arche>
+ She kept her mouth zipped like last
+ time, so I guess we'll never know.
+<pause>
+<Chester>
+ I know someone who should follow
+ her example.
+<pause>
+<Arche>
+ And just who might that
+ “someone” be!?
+<pause>
+<Chester>
+ Gee, I wonder...
+<pause>
+<Mint>
+ Perhaps <Suzu>'s reasons are
+ none of our business.<wait>{END}
+
+<Klarth>
+ We can speculate about
+ her, or we can find <var_D700>.
+ I think the latter's more important.
+<pause>
+<Cless>
+ I agree.{END}
+
+<Klarth>
+ They don't matter, in any case.
+ We don't have time to babysit her.
+<pause>
+<Cless>
+ ......{END}
+
+Ninja
+ May I interest you in something?{END}
+
+Ninja
+ I am a ninja in the midst of my
+ training.
+<pause>
+Ninja
+ Would you like me to teach you the
+ ninja arte I have learned while in
+ this place?{END}
+
+Ninja
+ It's <num5_0000511A>0000 gald, though.
+<pause>
+<speed_0000><color_0002>Pay <0Evar001A5110102709C000C0> gald?<color_0000><speed_FFFF>{END}
+
+<color_0002><Suzu> learned <0Dvar008010001A510CC000C0>.
+<pause>
+<color_0000>Ninja
+ Thank you.{END}
+
+Ninja
+ You do not have enough money.{END}
+
+Ninja
+ Buy it.{END}
+
+Ninja
+ A shame I could not serve you.{END}
+

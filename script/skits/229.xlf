@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1177">
+        <source>So, how do we mix the parts of the Tria, anyway?</source>
+        <target state="translated">So, how do we mix the parts of the Tria, anyway?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1178">
+        <source>The spirit governing all of
+creation, Origin, holds the key.</source>
+        <target state="translated">The spirit governing all of
+creation, Origin, holds the key.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1179">
+        <source>Uhh...“Origin”?</source>
+        <target state="translated">Uhh...“Origin”?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1180">
+        <source>I remember hearing that name when we
+were getting the pact rings repaired in Heimdall.</source>
+        <target state="translated">I remember hearing that name when we
+were getting the pact rings repaired in Heimdall.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1181">
+        <source>Didn't the tablet there
+say it could restore matter?</source>
+        <target state="translated">Didn't the tablet there
+say it could restore matter?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1182">
+        <source>Precisely. That's probably
+our only hope of getting this done.</source>
+        <target state="translated">Precisely. That's probably
+our only hope of getting this done.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

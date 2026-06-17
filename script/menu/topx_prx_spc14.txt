@@ -1,0 +1,124 @@
+Demon Fang{END}
+
+Swallow Dance{END}
+
+Lightning Tiger Blade{END}
+
+Sword Rain: Alpha{END}
+
+Tiger Blade{END}
+
+Rising Phoenix{END}
+
+Beast{END}
+
+Light Spear{END}
+
+Chaos Blade{END}
+
+Void Shift{END}
+
+Distortion Blade{END}
+
+Void Tempest{END}
+
+Hell Pyre{END}
+
+Guardian Field{END}
+
+Coil{END}
+
+Focus{END}
+
+Center{END}
+
+Final Fury{END}
+
+Demonic Swallow Kick{END}
+
+Demonic Tiger Blade{END}
+
+Demonic Sword Rain{END}
+
+Demon Spear{END}
+
+Beast Swallow Kick{END}
+
+Beast Blade{END}
+
+Beast Sword Rain{END}
+
+Beast Spear{END}
+
+Lightning Swallow Kick{END}
+
+Lightning Tiger Blast{END}
+
+Lightning Tiger Thrust{END}
+
+Lightning Tiger Spear{END}
+
+Phoenix Dance{END}
+
+Phoenix Blade{END}
+
+Phoenix Sword Rain{END}
+
+Phoenix Spear{END}
+
+Chaos Distortion Blade{END}
+
+Chaotic Void{END}
+
+Hell Flare{END}
+
+Ice Fang{END}
+
+Thunder Blitz{END}
+
+Eagle Shot{END}
+
+Gale Shot{END}
+
+Sonic Bash{END}
+
+Wild Rain{END}
+
+Giga Fang{END}
+
+Dragon Slayer{END}
+
+Mirror Image{END}
+
+Hell Rush{END}
+
+Crow Blade{END}
+
+Shadow Storm{END}
+
+Secret Thief{END}
+
+Flare Blitz{END}
+
+Merciless Thunder{END}
+
+Omega Storm{END}
+
+Jiraiya{END}
+
+Swallow Turn{END}
+
+Swallow Fang{END}
+
+Swallow Crescent{END}
+
+Shallow Crescent{END}
+
+Trick Glide{END}
+
+Rainbow Road{END}
+
+Serpent Edge{END}
+
+Sensitive Eyes{END}
+

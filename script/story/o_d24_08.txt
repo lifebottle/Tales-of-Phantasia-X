@@ -1,0 +1,383 @@
+<color_0002>It is now midnight.
+Set up camp here and rest for the
+remainder of the night?{END}
+
+Day <day>{END}
+
+Day 1{END}
+
+Valhalla Plains{END}
+
+<Cless>:<nl>
+ The operation hasn't ended yet!
+<pause>
+<Cless>:<nl>
+ They're depending on us!
+ If we leave now, we'll lose!{END}
+
+Leisen:<nl>
+ We have little time to spare.
+<pause>
+Leisen:<nl>
+ Execute the operation with all
+ haste!{END}
+
+Soldier:<nl>
+ If you're tired, you can sleep in
+ this tent.
+<pause>
+<color_0002>Resting will cost you eight hours of
+time.
+<pause>
+<color_0002>Rest?<color_0000>{END}
+
+Soldier:<nl>
+ I'm with the supply squad.
+<pause>
+Supply Unit:<nl>
+ Need anything replenished?
+<pause>
+<color_0002>1. <item_7700>s<nl>
+2. <item_7800>s<nl>
+3. <item_8700>s<nl>
+4. <item_8800>s{END}
+
+<color_0002>Acquired a full supply of <item_7700>s.<color_0000>{END}
+
+<color_0002>Acquired a full supply of Orange
+Gels.<color_0000>{END}
+
+<color_0002>Acquired a full supply of Panacea
+Bottles.<color_0000>{END}
+
+<color_0002>Acquired a full supply of Life
+Bottles.<color_0000>{END}
+
+<color_0000>Supply Unit:<nl>
+ Come back anytime.{END}
+
+Swordsman:<nl>
+ Focus your mind and you shall feel
+ warmth amidst the most brutal of
+ blizzards.{END}
+
+Swordsman:<nl>
+ Fancy meeting another swordsman
+ in these plains...
+<pause>
+Swordsman:<nl>
+ Could I interest you in this arcane
+ arte book?
+<pause>
+<Cless>:<nl>
+ Oh!? Tell me more...
+<pause>
+Swordsman:<nl>
+ It was a gift.
+ But an arte of a foreign
+ school, I need not.
+<pause>
+Swordsman:<nl>
+ I only walk along my own path!!!
+<pause>
+Swordsman:<nl>
+ Now, does 50000 gald sound fair to
+ you?
+<pause>
+<color_0002>Buy it?<color_0000>{END}
+
+Swordsman:<nl>
+ The Way of the Sword is difficult.
+<pause>
+Swordsman:<nl>
+ The Way of the Merchant is also
+ difficult...{END}
+
+<var_8201>:<nl>
+ You are short of coin!{END}
+
+<color_0002><Cless> learned
+<var_9E00>.<color_0000>
+<pause>
+Swordsman:<nl>
+ You have my gratitude.{END}
+
+<audio_0E51>Leisen:<nl>
+ Before commencing the operation, I
+ have His Majesty's words of
+ encouragement to convey.
+<pause>
+<audio_0E52>Leisen:<nl>
+ “Thou art the vanguard in the
+ battle against Dhaos; the heroes
+ bearing the fate of this great war
+ on your shoulders.”
+<pause>
+<audio_0E53>Leisen:<nl>
+ He asks that each and every one of
+ you contribute to Midgard's victory
+ by accomplishing your missions
+ diligently.
+<pause>
+<audio_0E54>Leisen:<nl>
+ Furthermore, the one who puts
+ forth the greatest effort in this
+ mission shall be properly rewarded.
+<pause>
+{END}
+
+<audio_0E55>Commander Threeson:<nl>
+ What kind of reward?
+<pause>
+{END}
+
+<audio_0E56>Commander Ones:<nl>
+ Sounds like it depends on how well
+ we fight whatever Dhaos throws
+ at us.
+<pause>
+{END}
+
+<audio_0E57>Leisen:<nl>
+ Good luck and godspeed in this
+ battle for our kingdom's destiny.
+<pause>
+<audio_0E58>Leisen:<nl>
+ Now, commence the operation!{END}
+
+<color_0002>Your mission is to search the
+Valhalla Plains and dispatch the
+enemy forces.
+<pause>
+Unlike previous encounters, battles
+here are not random. You will enter
+battle only when you make contact
+with a visible enemy unit.
+<pause>
+Your final objective is to locate and
+defeat the commander.
+<pause>
+Execute your mission with all haste.<color_0000>{END}
+
+<audio_0E59>???:<nl>
+ Mwahahahah!
+<pause>
+<audio_0E5A>???:<nl>
+ You have done well to make it this
+ far.
+<pause>
+<audio_0E5B>???:<nl>
+ I praise you.
+<pause>
+<audio_0E5C>???:<nl>
+ I am Ishrantu, commander of
+ Dhaos' army.
+<pause>
+<audio_0E5D>Ishrantu:<nl>
+ I sincerely hope that your
+ extensive sojourn through these
+ plains has been pleasant...
+<pause>
+<audio_0E5E>Ishrantu:<nl>
+ ...as they shall become your
+ graveyard!{END}
+
+<audio_0E5F><Cless>:<nl>
+ We won!
+ The enemy should be stalled
+ for the time being.
+<pause>
+<audio_0E60><Klarth>:<nl>
+ Yeah.
+ The King of Midgard awaits our report.{END}
+
+<Klarth>:<nl>
+ Are you all right!?
+<pause>
+Commander Ones:<nl>
+ He's a tough one!
+ Don't put your guard down!
+<pause>
+???:<nl>
+ Mwahahahahah, I'm impressed such
+ small fry could make it this far!
+<pause>
+???:<nl>
+ I am Ishrantu, commander of
+ Dhaos' army.
+<pause>
+Ishrantu:<nl>
+ Now that I'm finished with those
+ weaklings, I shall end your
+ meaningless resistance!!{END}
+
+<Cless>:<nl>
+ Are you all okay?
+<pause>
+Commander Ones:<nl>
+ Thanks to your efforts, we're fine.
+<pause>
+Commander Ones:<nl>
+ Your performance was splendid.
+ You have my utmost gratitude.
+<pause>
+<Cless>:<nl>
+ This should disrupt the enemy's
+ advance for now...
+<pause>
+<Klarth>:<nl>
+ Yeah.
+ Let's return to Midgard
+ and report to the King.{END}
+
+Commander Ones:<nl>
+ You're too late.
+ We have already slain
+ the enemy commander!
+<pause>
+Commander Ones:<nl>
+ Sorry, but we've pretty much
+ cleaned house here already.
+<pause>
+<Klarth>:<nl>
+ Hmm...<nl>
+ So much for the reward.{END}
+
+Watcher:<nl>
+ The area ahead is under the
+ influence of Dhaos and is too
+ dangerous for civilians.
+<pause>
+Watcher:<nl>
+ You may not pass.{END}
+
+<unk1>Soldier:<nl>
+ I am sorry, Sir <Cless>, but I
+ must insist you return to Midgard.
+<pause>
+Soldier:<nl>
+ His Majesty awaits you.{END}
+
+<audio_18DB>Midgard Soldier:<nl>
+H-Help!{END}
+
+<Cless>:<nl>
+<audio_18DC>Those are Midgard soldiers...!{END}
+
+<audio_18DD><Mint>:<nl>
+Those must be remnants of the monsters from the Valhalla War!{END}
+
+<audio_18DE><Cless>:<nl>
+Let's help them...!{END}
+
+<audio_18DF><Cless>:<nl>
+Are you all right!?
+<pause>
+<audio_18E0>Midgard Soldier:<nl>
+Phew... We're saved... Thank you!{END}
+
+<audio_18E1>Midgard Soldier:<nl>
+Tch! Why should an elite noble warrior such as I fight on the frontlines of this pitiable battlefield!?{END}
+
+<audio_18E2>Midgard Soldier:<nl>
+I know not of your family's status, but  regardless they are ruined.{END}
+
+<audio_18E3>Midgard Soldier:<nl>
+It's all the fault of that senile old fool Victor!{END}
+
+<audio_18E4>Rondoline:<nl>
+Victor...?{END}
+
+<audio_18E5>Midgard Soldier:<nl>
+To this day, grandfather still holds a grudge over how he made us clean up after his mess.{END}
+
+<audio_18E6>Rondoline:<nl>
+What did this Victor guy do anyway?{END}
+
+<audio_18E7>Midgard Soldier:<nl>
+That bastard left his kingdom during a time of turmoil following the king's death.
+<pause>
+<audio_18E8>Midgard Soldier:<nl>
+My grandfather took the fall and was stripped of his position.
+<pause>
+<audio_18E9>Midgard Soldier:<nl>
+As a result, many families have fallen into disrepute, and now even I'm in this shoddy battlefield fighting for my life!{END}
+
+<audio_18EA>Midgard Soldier:<nl>
+Oh, pay no attention to this guy. He's talking about something from nearly a century ago.{END}
+
+<audio_18EB>Midgard Soldier:<nl>
+Come on, man. Let's go.{END}
+
+Rondoline:<nl>
+<audio_18EC>No way...{END}
+
+<Cless>:<nl>
+<audio_18ED>What's wrong, Rody?{END}
+
+<audio_18EE>Rondoline:<nl>
+The Victor that man mentioned...might have been my father.{END}
+
+<audio_18EF><Mint>:<nl>
+Your father...{END}
+
+<audio_18F0>Rondoline:<nl>
+The name and the time both line up.
+<pause>
+<audio_18F1>Rondoline:<nl>
+I remember living with my father in the depths of a forest. He was always being targeted by Midgard's assassins.
+<pause>
+<audio_18F2><Cless>:<nl>
+But...that Victor lived a hundred years ago, you know?{END}
+
+<audio_18F3>Rondoline:<nl>
+I have no idea if you'll believe me or not, but...
+<pause>
+<audio_18F4>Rondoline:<nl>
+I actually traveled a hundred years into the future. All so I could go after Dhaos.{END}
+
+<audio_18F5><Cless>:<nl>
+You're saying we're in the same situation...?{END}
+
+<audio_18F6>Rondoline:<nl>
+You guys too?{END}
+
+<audio_18F7><Cless>:<nl>
+In our case, we're from a hundred years in the future...{END}
+
+<audio_18F8>Rondoline:<nl>
+Well...strange things do happen.
+<pause>
+<audio_18F9>Rondoline:<nl>
+Still... I think the reason why my father didn't like me asking about his past was...
+<pause>
+<audio_18FA>Rondoline:<nl>
+...Because he'd rather forget what happened back then.
+<pause>
+<audio_18FB><Cless>:<nl>
+But the hero they spoke of...
+<pause>
+<audio_18FC>Rondoline:<nl>
+Sorry, all dad told me about saving Midgard was that it was an important job.
+<pause>
+<audio_18FD>Rondoline:<nl>
+In my mind, he was a really amazing person. I guess I just put him on a pedestal.
+<pause>
+<audio_18FE>Rondoline:<nl>
+Still, I can't imagine him lying to me. He was an honest and strict man, to others and --most importantly--to himself.{END}
+
+<audio_18FF><Mint>:<nl>
+U-Uhm... I suppose we should hurry to where Dhaos is?{END}
+
+<audio_1900><Cless>:<nl>
+O-Oh, right. Of course. You fine with that, Rody?
+<pause>
+<audio_1901>Rondoline:<nl>
+Oh... yes. Let's go.{END}
+
+<audio_1902>Rondoline:<nl>
+Could this “senile old fool Victor” be my father...?
+<pause>
+<audio_1903>Rondoline:<nl>
+Were all those stories he told me before... a lie?{END}
+

@@ -1,0 +1,1080 @@
+Elven Settlement{END}
+
+Inn “Elven Inn”{END}
+
+Grocery “A-E-I-O-U”{END}
+
+Equipment Shop “Twilight”{END}
+
+General Store “Sunset”{END}
+
+Inn{END}
+
+Grocery{END}
+
+Equipment Shop{END}
+
+Tool Shop{END}
+
+<Cless>
+ It's locked.
+<pause>
+<Cless>
+ It's probably just some
+ storeroom...{END}
+
+<center>“Special Properties of Herbs”<endalign>
+<pause>
+There are many kinds of herbs...
+<pause>
+<item_8000>, sage, lavender, and verbena
+being among the most popular.
+<pause>
+Scientists have discovered that,
+when combined with a special agent,
+they turn red and their potency
+doubles.{END}
+
+<center>“Theories on Elven Longevity<endalign>
+<center>and Evolution”<endalign>
+<pause>
+The average lifespan of an elf is
+much longer than a human's.
+<pause>
+This characteristic is thought to
+have originated from the elves'
+lifestyle in general, particularly as a
+result of their diet.
+<pause>
+ Like all other species, their
+ lifespan is strongly correlated
+ with a process known as
+“biological evolution.”
+<pause>
+Biological evolution is a theory about
+the mutations that occur in each
+successive generation.
+<pause>
+These mutations are far too subtle
+to be apparent, but after many
+generations they can accumulate
+into distinctive differences.
+<pause>
+With natural selection at work,
+higher evolution is attained.
+<pause>
+This cycle continuing in a species
+indicates that it is still evolving.
+<pause>
+Considering the elves' long lifespan,
+it can be surmised that their
+evolution is relatively slow.
+<pause>
+It may be that they are reaching
+the heights of evolution, making
+them biologically superior to all
+other creatures.{END}
+
+Brambald
+ You are leaving?
+<pause>
+Brambald
+ Then I bid you farewell.{END}
+
+Elven Guard
+ Chief Brambald, we have captured
+ an intruder.
+<pause>
+Brambald
+ A human trespasser, I presume?
+<pause>
+Elven Guard
+ No, sir.
+ It's a half-elf...<wait>{END}
+
+Brambald
+ What did you say!?{END}
+
+???
+ Waaaiit, lemme gooo!
+<pause>
+???
+ Hey, mister!
+ You're a nice guy, ain'tcha!?<heart>
+<pause>
+???
+ So, c'mon, pleeeaaase!{END}
+
+<Cless>
+ That's a familiar voice...<sweat>{END}
+
+<Klarth>
+ Dammit, <Arche>!
+<pause>
+<Klarth>
+ I thought you were going
+ to wait at the inn!
+ What the hell possessed
+ you to follow us here?<wait>{END}
+
+<Arche>
+ Who cares about that!?
+<pause>
+<Arche>
+ Just hurry up and untie me!
+<pause>
+<Arche>
+ I'm not into this kinky stuff!
+<pause>
+Brambald
+ This person is your companion?<wait>{END}
+
+<Mint>
+ Please let her go!<wait>{END}
+
+Elven Guard
+ Chief, think of the precedent it'll
+ set if we waive her punishment...{END}
+
+Brambald
+ Half-elven trespassers are put to
+ death without exception.{END}
+
+???
+ Please wait!!{END}
+
+???
+ Please find some way to forgive
+ her! Please!
+<pause>
+???
+ If someone must die for this
+ transgression, then I will take
+ her place!
+<pause>
+???
+ I...
+<pause>
+???
+ I implore you!{END}
+
+Brambald
+ ......
+<pause>
+Brambald
+ Very well.
+<pause>
+Brambald
+ Release her!
+<pause>
+Elven Guard
+ But--<wait>{END}
+
+Brambald
+ This is an order.
+<pause>
+Elven Guard
+ ...As you wish, sir.<wait>{END}
+
+???
+ I'm sorry, <Arche>.
+<pause>
+???
+ Forgive me...
+<pause>
+???
+ I'm sorry<speed_0010>...
+<pause>
+<speed_FFFF>???
+ I'm so sorry<speed_0010>...
+<pause>
+<speed_FFFF><Arche>
+ Huh?
+<pause>
+<Arche>
+ Say what?{END}
+
+<Klarth>
+ <Arche>, what's wrong?{END}
+
+Elven Guard
+ What do you want?
+<pause>
+<Arche>
+ That lady--please let me see her
+ again! Please...!
+<pause>
+Elven Guard
+ Absolutely not!
+<pause>
+Elven Guard
+ Get out!
+ You should be grateful that you'll
+ live to see another day!{END}
+
+<Arche>
+ MOM!!
+<pause>
+<Arche>
+ Hey, can you hear me!?
+<pause>
+<Arche>
+ Mom...it's really you, isn't it?
+<pause>
+<Arche>
+ Please come back out here...
+ I wanna see your face again,
+ just once more<speed_0010>...
+<pause>
+<speed_FFFF><Arche>
+ Please<speed_0010>...{END}
+
+<Cless>
+ <Arche><speed_0010>...{END}
+
+Elven Guard
+ I'm sorry, but that girl is to never
+ enter this village again.
+<pause>
+Elven Guard
+ You should leave before she gets
+ caught once more.{END}
+
+<Cless>
+ What should we do next, sir?
+<pause>
+Brambald
+ If your rings are to be mended,
+ you must visit the black stone
+ tablet in Heimdall.
+<pause>
+Brambald
+ Heimdall is, to our kind, a sacred
+ site secluded deep within the
+ forest.
+<pause>
+<Cless>
+ What do we do there?
+<pause>
+Brambald
+ I will advise you further at
+ Heimdall.
+<pause>
+Brambald
+ Feel free to prepare yourselves at
+ the village's shops. I will go ahead
+ and await your arrival.
+<pause>
+Brambald
+ The animals of the forest
+ shall be your guides.
+ Take heed of them.{END}
+
+Elven Bowsmith
+ I've finished it.
+ Here you go.<wait>{END}
+
+<color_0002>Acquired an Elven Bow.<color_0000>
+<pause>
+Elven Bowsmith
+ I've upgraded it to match our
+ bows. This style is a sacred
+ tradition we elves have passed
+ down since ancient times.
+<pause>
+Elven Bowsmith
+ It's tradition to say that a shaft
+ fired from it will always fly true,
+ but that really depends on the skill
+ of the marksman.{END}
+
+Elven Bowsmith
+ The repairs to your bow aren't
+ complete yet.
+<pause>
+Elven Bowsmith
+ Please be patient.{END}
+
+Elven Bowsmith
+ Oh, glad to see you back.
+<pause>
+Elven Bowsmith
+ Do you still need the bow repaired?<wait>{END}
+
+Elven Bowsmith
+ You people are adventurers,
+ I take it.
+<pause>
+Elven Bowsmith
+ Sorry, I don't stock swords
+ or staves...
+<pause>
+Elven Bowsmith
+ All I carry are bows made
+ for hunting.<wait>{END}
+
+<unk1><Cless>
+ Bows, huh...?
+<pause>
+<Cless>
+ Think you could repair this one?
+<pause>
+<Chester>
+ Is that what I think it is!?
+<pause>
+<Cless>
+ Yeah, this is the same bow you
+ were using when we first
+ confronted Dhaos.
+<pause>
+<Cless>
+ When <Mint> and I were flung
+ back to 4202, it came in
+ your place.
+<pause>
+<Cless>
+ I decided to hang onto it, figuring it
+ might come in handy sometime, you
+ know?
+<pause>
+<Chester>
+ You did all that...for me?
+<pause>
+Elven Bowsmith
+ ...Sir, this won't be a problem.
+<pause>
+Elven Weapons Vendor
+ Parts and labor will be 20000 gald.
+ Is that satisfactory?<wait>{END}
+
+<speed_0000><color_0002>Have <Chester><'s/'> bow repaired?<color_0000><speed_FFFF>{END}
+
+Elven Bowsmith
+ You're welcome to return if you
+ change your mind.{END}
+
+<Cless>
+ ...On second thought, it looks like
+ we're a bit short on funds...
+<pause>
+Elven Bowsmith
+ Oh? Well, that's too bad.
+ Come back when you have them.{END}
+
+Elven Bowsmith
+ Thanks.
+ This should take me about a day.
+<pause>
+Elven Bowsmith
+ Why don't you stay a night in the
+ village and return to my shop
+ tomorrow?{END}
+
+Elven Shopkeeper
+ Welcome.{END}
+
+Elven Shopkeeper
+ Thank you.{END}
+
+Elven Pharmacist
+ Welcome.
+ We stock many excellent herbal
+ medicines cultivated from the
+ forest.{END}
+
+Elven Pharmacist
+ Thanks.{END}
+
+Elven Innkeeper
+ Are you the ones?
+<pause>
+<Cless>
+ Come again?
+<pause>
+Elven Innkeeper
+ I mean...
+<pause>
+Elven Innkeeper
+ Are you the group of heroes I've
+ heard rumors about?
+<pause>
+<Cless>
+ I wouldn't go that far, but...
+<pause>
+<Cless>
+ I think of us as adventurers, at
+ least.
+<pause>
+Elven Innkeeper
+ Would you take this to the girl with
+ the pink hair...
+<pause>
+Elven Innkeeper
+ Please...
+<pause>
+Elven Innkeeper
+ I'm sure she'll find it more useful
+ than I...
+<pause>
+<Cless>
+ A broom, huh?
+ She'll be delighted.<wait>{END}
+
+<color_0002>Acquired a <item_F400>.<color_0000><wait>{END}
+
+Elven Innkeeper
+ Not only that, but these too...<wait>{END}
+
+<color_0002>Acquired <item_3C01>.<color_0000><wait>{END}
+
+<unk1><Cless>
+ Pardon me, but is <Arche> really
+ your--
+<pause>
+Elven Innkeeper
+ ......
+<pause>
+Elven Innkeeper
+ Please don't say it...
+<pause>
+Elven Innkeeper
+ Now, back to business...<wait>{END}
+
+Elven Innkeeper
+ Welcome to the Elven Inn.
+ Will you be staying?
+<pause>
+Elven Innkeeper
+ One night is <num1_00000048> gald.{END}
+
+Elven Innkeeper
+ I beg your pardon, but this isn't
+ enough money.{END}
+
+Elven Innkeeper
+ Good night.{END}
+
+Elven Innkeeper
+ Please come again.{END}
+
+Elven Grocer
+ Welcome.
+ We are stocked full of organic food
+ from the forest.{END}
+
+Elven Grocer
+ Thanks.{END}
+
+Elven Boy
+ We're playing hide-and-seek.{END}
+
+Elven Girl
+ Found you!
+<pause>
+Elven Boy
+ No way!
+<pause>
+Elven Boy
+ And I thought I found a good spot,
+ too!
+<pause>
+Elven Girl
+ Hehe!
+ Now I get to hide!{END}
+
+Elven Boy
+ Grrr!
+ Don't butt in!{END}
+
+Elven Boy
+ We're playing hide-and-seek.
+<pause>
+Elven Boy
+ Don't bother me.<wait>{END}
+
+Elven Boy
+ Ooone, twooo, threeee...{END}
+
+Elven Girl
+ I'm playing Hide and Seek.
+<pause>
+Elven Girl
+ So don't bother me!<wait>{END}
+
+Elven Girl
+ Ooone, twooo, threeee...{END}
+
+Elven Girl
+ I'm playing Hide and Seek.{END}
+
+Elven Boy
+ Gotcha!
+<pause>
+Elven Girl
+ Aww, poo!
+<pause>
+Elven Girl
+ I was so sure you'd never find me!
+<pause>
+Elven Boy
+ Woohoo!
+ Now it's my turn to hide!{END}
+
+Elven Girl
+ Ooooh!
+ It's all your fault!{END}
+
+Elven Man
+ I wonder how the children I was
+ forced to leave behind in Venezia
+ are faring...
+<pause>
+Elven Man
+ Are they making ends meet?
+ Are they in good health?
+ I can't stop worrying about them...{END}
+
+Elven Woman
+ The weather's gorgeous this
+ afternoon, don't you think?{END}
+
+Elven Guard
+ You may pass!{END}
+
+Elven Guard
+ Most villagefolk are out busy
+ preparing for the autumn harvest.
+<pause>
+Elven Guard
+ The shops are still open for
+ business, though.{END}
+
+Elven Guard
+ Most village folk are currently out
+ hunting in the forest.
+<pause>
+Elven Guard
+ They may not be back for a while.
+ It comes with the territory.{END}
+
+Elven Man
+ I don't have a good feeling about
+ the harvest this year.
+<pause>
+Elven Man
+ The Ymir and Treant Forests
+ recently became infested with
+ savage beasts.{END}
+
+Elven Girl
+ There's supposed to be a piece of
+ sacred wood somewhere deep in
+ the Treant Forest.
+<pause>
+Elven Girl
+ You can make a very special bow
+ with it.
+<pause>
+Elven Girl
+ Did you know that?{END}
+
+Elven Man
+ Lord Brambald and the council have
+ changed their minds about humans.
+<pause>
+Elven Man
+ I never thought we would deepen
+ our contact with human society
+ again...{END}
+
+Man
+ I work for the “Pig-Out”
+ supermarket in Alvanista.
+<pause>
+Man
+ The elves grow piles of organic
+ food and medicinal herbs, so I
+ came to stock up.
+<pause>
+Man
+ But it's quite a schlep back, so
+ making sure it all keeps on the
+ way is tough.{END}
+
+Elven Child
+ I wanna go see the capital
+ someday.{END}
+
+Old Woman
+ I came here to improve my health.
+<pause>
+Old Woman
+ The purity of the nature in this
+ place is very refreshing for these
+ old bones...{END}
+
+Woman
+ I'm a missionary.
+<pause>
+Woman
+ I came here to spread the
+ teachings of Martel, the Mother
+ Goddess, to the elves.
+<pause>
+Woman
+ The concepts are similar to their
+ own nature worship. I have faith
+ that they will accept them.{END}
+
+Elven Man
+ I recently went to Alvanista as an
+ ambassador.
+<pause>
+Elven Man
+ I have to say, I was enamored by
+ the princess' ethereal beauty.{END}
+
+Elven Man
+ Perhaps these swarms of foreign-
+ ers will be better for the village's
+ development in the long run, but...
+<pause>
+Elven Man
+ Still, I think I preferred it when it
+ was quiet around here.{END}
+
+Elven Man
+ We're putting our heads together
+ about the future of our people.
+<pause>
+Elven Man
+ My question is, why have we
+ accepted humans, but not
+ half-elves?{END}
+
+Elf
+ We're having a debate about the
+ future of our people.
+<pause>
+Elf
+ I've always been opposed to
+ allowing humans into our society.
+<pause>
+Elf
+ Their wasteful habits would
+ endanger the wildlife in the
+ Ymir and Treant forests!
+<pause>
+Elf
+ But the half-elves are the worst.
+ Those damned mixed-blood
+ abominations have no place
+ with us purebreeds!{END}
+
+Young Elf
+ We're having a meeting about the
+ future of our people.
+<pause>
+Young Elf
+ I believe that the power of
+ half-elves would be a boon
+ to our development.
+<pause>
+Young Elf
+ The hard lives they've faced
+ for so long have given them
+ a strong will.
+ That is a valuable quality.{END}
+
+Brambald
+ I'd like to discuss the half-elf issue
+ more carefully once peace comes
+ to the world.{END}
+
+Brambald
+ It's you!
+<pause>
+Brambald
+ A long time has passed!
+ That was about...
+<pause>
+Brambald
+ A century and a half ago, wasn't
+ it?
+<pause>
+<Cless>
+ Th-that's probably not too far off
+ the mark...<sweat>
+<pause>
+<Cless>
+ Let's just say time's been a
+ bit...distorted for us.<wait>{END}
+
+Brambald
+ Since you're here, I would like to
+ talk to you about something...
+<pause>
+Brambald
+ May I have a moment of your
+ time?{END}
+
+Brambald
+ Haven't you noticed all the change
+ in this village?
+<pause>
+Brambald
+ After you brought peace back to
+ the world so long ago, I had a
+ change of heart.
+<pause>
+Brambald
+ You see, we have sympathizers
+ among humans...
+<pause>
+Brambald
+ King Alvanista is one such example.
+<pause>
+Brambald
+ He's proactively integrated our
+ culture and contributed toward
+ improving the social status of
+ elves.
+<pause>
+<Klarth>
+ I'm glad to hear that.
+<pause>
+<Klarth>
+ Though half-elves seem to be
+ about as “accepted” as they were
+ the last time we were here.
+<pause>
+Brambald
+ That is true.
+ Many of those among us still fear
+ that half-elves will repeat their
+ past errors.
+<pause>
+<Klarth>
+ What sort of “past errors” are we
+ talking about, here?
+<pause>
+Brambald
+ Magitechnology-based weaponry.
+<pause>
+Brambald
+ Did you know that the majority of
+ Midgard's scientists were
+ half-elves?
+<pause>
+<Klarth>
+ They were!?
+<pause>
+<Klarth>
+ Well, I guess that's not so hard to
+ believe. Midgard had practically
+ zero interaction with elves, after
+ all...
+<pause>
+Brambald
+ Yes, that's correct.
+<pause>
+Brambald
+ We elves only require the power
+ necessary to sustain our way of
+ life. I do not boast when I say
+ that's not very much.
+<pause>
+Brambald
+ It is our belief that the use of
+ magic for military purposes and
+ the like is an unforgivable
+ perversion.
+<pause>
+Brambald
+ But because the ideology of
+ half-elves is inherently more
+ human than it is elven...
+<pause>
+Brambald
+ ...magic was allowed to develop
+ into a very potent weapon.
+<pause>
+Brambald
+ I believe you witnessed the result
+ of that with your own eyes.
+<pause>
+Brambald
+ The fruits of their labor...
+ The destruction wrought by
+ human use of that weapon...
+<pause>
+Brambald
+ ...and Yggdrasill's brush with death.
+ Yes, magitechnology was the cause
+ of that too.
+<pause>
+Brambald
+ Such peril is nigh once more.
+<pause>
+<Mint>
+ Please pardon me, but...!
+<pause>
+<Mint>
+ I don't believe that applies to all
+ half-elves.
+<pause>
+<Mint>
+ Like our friend, <Arche>...
+<pause>
+Brambald
+ ...That may be so.
+<pause>
+Brambald
+ It's not as though Midgard had
+ every half-elf in the world helping
+ them.
+<pause>
+Brambald
+ Since we share the same magic
+ power, perhaps we should serve as
+ leaders and role models for them.
+<pause>
+Brambald
+ I'm certain some kind of
+ compromise is within the realm of
+ possibility. I will consider our
+ position on them again.
+<pause>
+<Mint>
+ And not all magitechnology
+ consumes such unnatural amounts
+ of mana.
+<pause>
+<Mint>
+ The Rheairds, for example, or small
+ lamps...
+<pause>
+<Mint>
+ Can't it be used for those as well?
+<pause>
+Brambald
+ Yes, you're right.
+<pause>
+Brambald
+ Hmm... Thank you.
+ You've given me much to
+ contemplate.{END}
+
+Elven Man
+ We really should leave.
+ It would be best for the baby
+ you're carrying, too.{END}
+
+Woman
+ Is there truly no way we can stay?
+ It's beautiful here... I love it so
+ much...{END}
+
+<Klarth>
+ This stone tablet is giving off a
+ mysterious air...{END}
+
+Ninja
+ I can use my power to warp
+ you to the Ninja Village.
+ Want to go?{END}
+
+Ninja
+ Let us go, then.{END}
+
+Ninja
+ I await your return, should you
+ wish to utilize my service.{END}
+
+Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Fruit Parfait.<color_0000>{END}
+
+Chef
+ What!?
+ How can you reject this taste!?{END}
+
+Chef
+ ...Actually, I have another World of
+ Fabulous Flavors!
+<pause>
+Chef
+ Don't you wish to taste the flavors
+ of my Other World, too?{END}
+
+Chef
+ Great! I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Salad.<color_0000>{END}
+
+Chef
+ My Other World is waiting!{END}
+
+Chef
+ Have you made Fruit Parfait and
+ Salad yet?{END}
+
+Elven Guard
+ Humans!
+ What are you doing here!?
+<pause>
+Elven Guard
+ Only full-blooded elves are
+ permitted into our settlement!{END}
+
+<Klarth>
+ So much for the famous
+ eagle eyes of the elves.
+ Don't you see this crest?
+<pause>
+<Klarth>
+ We're here to meet your chief.
+<pause>
+Elven Guard
+ That's the royal crest of Alvanista...
+<pause>
+Elven Guard
+ Forgive my insolence.
+ Please follow me.{END}
+
+Chief
+ I apologize for the hold up.
+<pause>
+Chief
+ I am this village's chief, Brambald.<wait>{END}
+
+<unk1><Klarth>
+ I'm <Klarth>.
+ This is <Cless> and <Mint>.
+{END}
+
+<Klarth>
+ Well, let's get to it, then.
+ Can you have a look at these?<wait>{END}
+
+Brambald
+ These are pact rings.
+<pause>
+Brambald
+ But they appear to be damaged...
+<pause>
+<Cless>
+ Yes.
+ We were told your kind might have
+ the knowledge to repair them, so...
+<pause>
+Brambald
+ I see.
+<pause>
+Brambald
+ The stone tablet's power is
+ necessary.
+<pause>
+Brambald
+ Meet me at the north side of the
+ village. I'll tell you more there.{END}
+
+<Cless>
+ Guess they can't actually fix them
+ by themselves.
+<pause>
+<Klarth>
+ Sounds that way to me too.
+<pause>
+<Klarth>
+ He did say something about a stone
+ tablet, though...
+<pause>
+<Cless>
+ Better go catch up with him.{END}
+
+<unk1>Elven Bowsmith
+ I don't believe it...
+ You managed to find a piece of
+ sacred wood?
+<pause>
+Elven Bowsmith
+ If you don't mind giving it up, I
+ can use it to greatly strengthen
+ the bow I repaired for you earlier.
+ What do you say?{END}
+
+Elven Bowsmith
+ Very well.
+ I'll have it ready in a short while.{END}
+
+Elven Bowsmith
+ Thank you for your patience.
+<pause>
+Elven Bowsmith
+ By any standard, what I have here
+ is an incredible bow.<wait>{END}
+
+<color_0002>Acquired the legendary Elven Bow.<color_0000>{END}
+
+Elven Bowsmith
+ Oh...
+ What a shame...{END}
+
+Elven Bowsmith
+ Have you heard of sacred wood?
+<pause>
+Elven Bowsmith
+ It's said to be a component of the
+ greatest bows, but it can only be
+ found in the depths of Treant
+ Forest.
+<pause>
+Elven Bowsmith
+ There are stories that you could
+ reach the depths of the wood from
+ where the tablet is, but...
+<pause>
+Elven Bowsmith
+ Whoever is to set foot there is
+ fated never to return, so the
+ entrance was sealed.{END}
+
+<Cless>
+ Oooh!
+ An iron treasure chest!
+<pause>
+{END}
+
+Elven Bowsmith
+ Don't touch that!
+<pause>
+{END}
+
+<Cless>
+ S-sorry...
+<pause>
+Elven Bowsmith
+ It's okay, as long as you
+ understand...
+<pause>
+Elven Bowsmith
+ Forgive me for the outburst.{END}
+
+<Cless>
+ Don't want to make him mad
+ again...{END}
+

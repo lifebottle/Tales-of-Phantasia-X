@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_187">
+        <source>So, what the heck did you do to get yourself
+arrested and then thrown in a dungeon?</source>
+        <target state="translated">So, what the heck did you do to get yourself
+arrested and then thrown in a dungeon?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_188">
+        <source>I went to bed at Uncle
+Olson's house. Then, at midnight...</source>
+        <target state="translated">I went to bed at Uncle
+Olson's house. Then, at midnight...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_189">
+        <source>...soldiers surrounded my bed.</source>
+        <target state="translated">...soldiers surrounded my bed.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_190">
+        <source>Dude... That sucks. Your
+uncle totally sold you out.</source>
+        <target state="translated">Dude... That sucks. Your
+uncle totally sold you out.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_191">
+        <source>I trusted him so much...</source>
+        <target state="translated">I trusted him so much...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_192">
+        <source>Well, life's full of surprises, for better
+or worse. Don't lose too much sleep over it.</source>
+        <target state="translated">Well, life's full of surprises, for better
+or worse. Don't lose too much sleep over it.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

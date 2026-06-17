@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_075">
+        <source>I will “douse” Dhaos!</source>
+        <target state="translated">I will “douse” Dhaos!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_076">
+        <source>Was that...an attempt at humor?</source>
+        <target state="translated">Was that...an attempt at humor?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_077">
+        <source>...N...N-no, aha...ahahahah...</source>
+        <target state="translated">...N...N-no, aha...ahahahah...</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

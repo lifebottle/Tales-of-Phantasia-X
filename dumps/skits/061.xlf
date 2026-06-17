@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_200">
+        <source>Aselian Calendar, Year 4304.</source>
+        <target state="translated">Aselian Calendar, Year 4304.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_201">
+        <source>The hero crosses time once more in pursuit of 
+Dhaos, setting off on another perilous journey.</source>
+        <target state="translated">The hero crosses time once more in pursuit of 
+Dhaos, setting off on another perilous journey.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_202">
+        <source>But this time is different. Now, his
+friend of peerless spirit is by his side.</source>
+        <target state="translated">But this time is different. Now, his
+friend of peerless spirit is by his side.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_203">
+        <source>Their might combined, no enemy can stand
+before them. Yes, not even Dhao--</source>
+        <target state="translated">Their might combined, no enemy can stand
+before them. Yes, not even Dhao--</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_204">
+        <source>Uhh... Would you quit the
+self-indulgent narrative?</source>
+        <target state="translated">Uhh... Would you quit the
+self-indulgent narrative?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_205">
+        <source>...Hey, don't mind me.</source>
+        <target state="translated">...Hey, don't mind me.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

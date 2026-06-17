@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_571">
+        <source>&lt;wait_D4&gt;Ugh...ugh... S-save me... H-hurry...!</source>
+        <target state="translated">&lt;wait_D4&gt;Ugh...ugh... S-Save me... H-Hurry...!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="skit_572">
+        <source></source>
+        <target/>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_573">
+        <source>&lt;wait_A0&gt;Wh-what happened!?</source>
+        <target state="translated">&lt;wait_A0&gt;Wh-What happened!?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_574">
+        <source>You're drenched in sweat.</source>
+        <target state="translated">You're drenched in sweat.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_575">
+        <source>*hah*...*hah*...</source>
+        <target state="translated">*hah*...*hah*...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_576">
+        <source>I-I was...dreaming, I think...</source>
+        <target state="translated">I-I was...dreaming, I think...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_577">
+        <source>I saw &lt;Chester&gt; calling out for help,</source>
+        <target state="translated">I saw &lt;Chester&gt; calling out for help,</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_578">
+        <source>but I couldn't lift a finger...</source>
+        <target state="translated">but I couldn't lift a finger...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_579">
+        <source>I think it's because you're worn out.</source>
+        <target state="translated">I think it's because you're worn out.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_580">
+        <source>Why don't you get some more rest?</source>
+        <target state="translated">Why don't you get some more rest?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_581">
+        <source>Yeah... Good idea.</source>
+        <target state="translated">Yeah... Good idea.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_582">
+        <source>Don't worry so much.
+We'll surely save them both.</source>
+        <target state="translated">Don't worry so much.
+We'll surely save them both.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

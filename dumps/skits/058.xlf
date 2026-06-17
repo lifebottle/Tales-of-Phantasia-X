@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_180">
+        <source>Hey, a question's been on my mind lately...</source>
+        <target state="translated">Hey, a question's been on my mind lately...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_181">
+        <source>Hmm?</source>
+        <target state="translated">Hmm?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_182">
+        <source>Is every follower of the Alvein
+Style required to wear a bandana?</source>
+        <target state="translated">Is every follower of the Alvein
+Style required to wear a bandana?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_183">
+        <source>No... It's optional.</source>
+        <target state="translated">No... It's optional.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_184">
+        <source>Really? There's you,
+your dad, the students, and...?</source>
+        <target state="translated">Really? There's you,
+your dad, the students, and...?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_185">
+        <source>Master Tristan, remember?</source>
+        <target state="translated">Master Tristan, remember?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_186">
+        <source>Hah hah hah... How could I forget!?
+That old, bald fart doesn't even wear a hat.</source>
+        <target state="translated">Hah hah hah... How could I forget!?
+That old, bald fart doesn't even wear a hat.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

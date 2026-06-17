@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1329">
+        <source>We finally have the Sword of Time!</source>
+        <target state="translated">We finally have the Sword of Time!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1330">
+        <source>Yeah! We're the best!</source>
+        <target state="translated">Yeah! We're the best!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1331">
+        <source>So now, we need to find Dhaos' castle, but...</source>
+        <target state="translated">So now, we need to find Dhaos' castle, but...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1332">
+        <source>We're kinda screwed without any leads.</source>
+        <target state="translated">We're kinda screwed without any leads.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_1333">
+        <source>How about we drop in on Lundgrom?</source>
+        <target state="translated">How about we drop in on Lundgrom?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

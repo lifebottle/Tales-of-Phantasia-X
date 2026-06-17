@@ -1,0 +1,345 @@
+Dwarven Sanctuary{END}
+
+Moria Mine (B<num5_000040A0>F){END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_CE00>.<color_0000>{END}
+
+<Cless>
+ But I don't have any use for it.
+ I'll put it back.{END}
+
+<Cless>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_CB00>.<color_0000>{END}
+
+<Cless>
+ But I don't have any use for it.
+ I'll put it back.{END}
+
+<Cless>
+ This is an arcane arte book!<wait>{END}
+
+<color_0002><Cless> learned
+<var_9900>.<color_0000>{END}
+
+Adventurer
+ I dunno about this, man.
+ I'd better turn around while I'm
+ able.
+<pause>
+Adventurer
+ My gut's tellin' me this is a road
+ straight to hell.{END}
+
+Soldier
+ Hey, check out the houses in the
+ distance!
+<pause>
+Soldier
+ They must be the remnants of the
+ dwarves' settlement. Those guys
+ had serious guts living atop such
+ steep cliffs.{END}
+
+“The way will open to one who has
+activated all the points.”{END}
+
+<center>“EMERGENCY EXIT: Magic Glyph”<endalign>{END}
+
+???
+ “Shaaaaa...
+ Hey, you there!”{END}
+
+???
+ “Behind ya!
+ Ssssss...”{END}
+
+<unk1><Cless>
+ Wh-what the heck are you!?
+<pause>
+???
+ <var_D900>, they sssssssay.
+<pause>
+<var_D900>
+ What...hissssss...are YOU?
+<pause>
+<var_D900>
+ Sssssurely no humans exisssst here.
+<pause>
+<Klarth>
+ These ones do.
+ And what variety of adorable
+ abomination might you be?
+<pause>
+<var_D900>
+ A ressssssident of Daemonium.
+<pause>
+<var_D900>
+ Shahhhh...
+ All the miasma in here didn't...
+ sssss...clue you in, sssssmart guy?
+<pause>
+<Cless>
+ (Psst, <Klarth>...
+ What do you think about
+ this...thing?)
+<pause>
+<Klarth>
+ (If I play my cards right, I bet I
+ can draw him into a pact. At least
+ that might make him useful...and I
+ don't intend to become his lunch.)<wait>{END}
+
+<var_D900>
+ You guys whisssssspering about
+ ssssssomething there?
+<pause>
+<Klarth>
+ Oh, nothing for you to be
+ concerned about, I assure you.
+ Say...
+<pause>
+<Klarth>
+ ...I bet that stomach of yours is
+ growling up a storm right now.
+<pause>
+<var_D900>
+ Yessssss...
+ Got anything tasty?
+<pause>
+<Klarth>
+ There's nothing more delectable
+ than “magic power” to your kind,
+ am I right? Well...
+<pause>
+<Klarth>
+ I've got a whole smorgasbord of
+ the stuff ready for you to savor.
+ If you want it, just be my demon.
+<pause>
+<var_D900>
+ Sssssure, sure!
+ Whatever you want!
+<pause>
+<var_D900>
+ Jusssssst get on with it!
+ Food! Food! Gimme! Hissssss!
+<pause>
+<Klarth>
+ Patience, my friend.
+ First things first!
+<pause>
+<Klarth>
+ We just need to get this minor
+ annoyance called a pact out of the
+ way.
+<pause>
+<Klarth>
+ Here--pick a ring, any ring!
+<pause>
+<var_D900>
+ Wait a ssssssec, a pact?
+<pause>
+<var_D900>
+ That sounds kinda fishy...
+<pause>
+<var_D900>
+ Shahhhh... Whatever.
+ Lesssssssee...
+<pause>
+<var_D900>
+ That blue one's kinda nice.
+<pause>
+<Klarth>
+ Sapphire, is it?
+ That's a good color for you.{END}
+
+<Klarth>
+ Here and now, I offer my request
+ to the Spirit of Daemonium.
+<pause>
+<Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon Gremlin
+Lair.<color_0000><wait>{END}
+
+<Cless>
+ Whew...
+ You got out of that one smoothly.
+<pause>
+<Klarth>
+ Hmhm. Don't underestimate me!
+ He still got the truth...technically.{END}
+
+<Cless>
+ Ah! What the!?
+<pause>
+<Cless>
+ ...Our <item_8B00>s!
+ They all shattered to pieces...{END}
+
+???
+ I am Wyvern, sentinel of this
+ hallowed ground.
+<pause>
+Wyvern
+ Beyond me lies the Dwarven
+ Sanctuary. I shall not allow the
+ hosts of man to trespass!!{END}
+
+Wyvern
+ Damn...you...
+<pause>
+Wyvern
+ To fall at the hands of imbecilic
+ humans...{END}
+
+<Cless>
+ Umm...
+ I think I hear a voice
+ coming from this hole...{END}
+
+<unk1><Cless>
+ Wh-what the!?
+<pause>
+<Cless>
+ Brrr...
+ This thing's aura is cold as ice!
+<pause>
+???
+ Mortals, you have reached the
+ boundary of Daemonium.
+<pause>
+???
+ Return from whence you came
+ with haste!
+<pause>
+<Klarth>
+ (I think I know this guy...)
+<pause>
+<Klarth>
+ One second.
+ I just wanted to confirm: You're a
+ resident of Daemonium, yes?
+<pause>
+???
+ More than that.
+ I am <var_DA00>, the overseer.
+<pause>
+<Klarth>
+ Thought so.
+ Anyway, our world is under a
+ great threat from a being
+ calling himself Dhaos.
+<pause>
+<Klarth>
+ Is there any convincing you to lend
+ us your might in humanity's
+ struggle against him?
+<pause>
+<var_DA00>
+ Laughable!
+ Requesting the overlord of Hades
+ do the bidding of wretched dogs
+ such as yourselves?
+<pause>
+<Klarth>
+ I meant that in the sense you'd
+ only be called upon when deemed
+ necessary, *if* ever.
+<pause>
+<var_DA00>
+ There is no distinction!
+<pause>
+<var_DA00>
+ If you are so determined, then I,
+ <var_DA00>, shall ascertain if you are
+ worthy of my power.{END}
+
+<var_DA00>
+ There is no escape...
+<pause>
+<var_DA00>
+ All roads lead inevitably to Hades...{END}
+
+<unk1><var_DA00>
+ Hmph, so be it.
+ I will obey your command...
+<pause>
+<var_DA00>
+ However, the arte of calling forth
+ the inhabitants of Daemonium was
+ sealed away in a bygone era...
+<pause>
+<var_DA00>
+ How will you--
+<pause>
+<Klarth>
+ With a pact ring.
+<pause>
+<Klarth>
+ The ancient seal will be broken if
+ it's used to establish a new pact.
+<pause>
+<var_DA00>
+ Acknowledged.
+ Of old, there was an
+ Emerald rune ring...{END}
+
+<Klarth>
+ Here and now, I offer my request
+ to the Spirit of Daemonium.
+<pause>
+<Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<Klarth>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon <var_DA00>.<color_0000>{END}
+
+Ninja
+ May I interest you in something?{END}
+
+Ninja
+ I am a ninja in the midst of my
+ training.
+<pause>
+Ninja
+ Would you like me to teach you the
+ ninja arte I have learned while in
+ this place?{END}
+
+Ninja
+ It's <num1_0000002F>0000 gald, though.
+<pause>
+<speed_0000><color_0002>Pay <num1_00072BF0> gald?<color_0000><speed_FFFF>{END}
+
+<color_0002><Suzu> learned <var_AF00>.
+<pause>
+<color_0000>Ninja
+ Thank you.{END}
+
+Ninja
+ You do not have enough money.{END}
+
+Ninja
+ Buy it.{END}
+
+Ninja
+ A shame I could not serve you.{END}
+
+<color_0002>Acquired the <item_9100>.{END}
+
+<color_0002>Acquired <item_0E00>.{END}
+

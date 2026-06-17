@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="ja" datatype="plaintext" target-language="en-US">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_477">
+        <source>Goodness, you two are such softies.</source>
+        <target state="translated">Goodness, you two are such softies.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_478">
+        <source>Sorry, but we just can't overlook this.</source>
+        <target state="translated">Sorry, but we just can't overlook this.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_479">
+        <source>Please excuse us.</source>
+        <target state="translated">Please excuse us.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skit_480">
+        <source>Nah, it's fine. This could be beneficial to our
+journey in the end, since Demeter's a mage.</source>
+        <target state="translated">Nah, it's fine. This could be beneficial to our
+journey in the end, since Demeter's a mage.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
