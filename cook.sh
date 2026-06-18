@@ -33,7 +33,7 @@ source .venv/bin/activate
 ./topx-convert-faces.py
 ./topx-convert-gfx.py
 
-./build-cpp.sh
+# ./build-cpp.sh
 armips asm/topx.asm -sym topx.sym $BUILD_OPTS -strequ OUT_DIR "${OUT_DIR}"
 ./topx-insert-menus.py
 ./topx-insert-skits.py
