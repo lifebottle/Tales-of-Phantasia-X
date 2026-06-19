@@ -123,7 +123,7 @@ v1.2 (June 20th, 2026)
   at the same time
 - Fixed coords for two hotspots which were misplaced in the original game (bookshelves in the back
   of the item shop in the Elven Settlement and Arche's crying animation during a cutscene)
-- Fixed HP/TP restore on level-up not taking accessories into account
+- Fixed HP/TP restore on level-up not taking accessories into account (original game bug)
 - Fixed cursor position in naming screen after pressing L/R
 - Assorted translation, typo and text formatting fixes
 
