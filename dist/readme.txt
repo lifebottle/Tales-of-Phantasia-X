@@ -1,6 +1,6 @@
                                   Tales of Phantasia: Cross Edition
                                         English Translation
-                                       v1.2 (June XXth, 2026)
+                                       v1.2 (June 20th, 2026)
 
 ====================================================================================================
 
@@ -118,8 +118,9 @@ Phantasian Productions.
 
    [RM03] Changelog
 
-v1.2 (June XXth, 2026)
-- Fixed missing monster book on NG+ if you selected both the monster book and consumables carry-over at the same time
+v1.2 (June 20th, 2026)
+- Fixed missing monster book on NG+ if you selected both the monster book and consumables carry-over
+  at the same time
 - Fixed coords for two hotspots which were misplaced in the original game (bookshelves in the back
   of the item shop in the Elven Settlement and Arche's crying animation during a cutscene)
 - Fixed HP/TP restore on level-up not taking accessories into account
