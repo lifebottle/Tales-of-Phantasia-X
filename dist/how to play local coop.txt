@@ -1,0 +1,8 @@
+The cheat code needed to run local coop is included with the cheat ini file.
+You'll need a specialized version of ppsspp to actually make use of it, though.
+You can find instructions on how to set it up along with a link to the special ppsspp build here:
+https://github.com/ucuckic/tales_patches/tree/main/ppsspp
+
+Again, the cheat code needed to run this is in the cheat file included with the patch.
+You don't need to mess with creating a new ini file or pasting code or anything like that.
+If you want to use the other cheat codes on the site, you can paste them into the ini, however.
