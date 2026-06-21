@@ -18,6 +18,9 @@ cp "${OUT_DIR}"/{mc_face0.d,logos.acf,sys.d,ttl_dat.d,rndname.d,smdat.d,grade.ac
 # scenario voices
 # cp "${OUT_DIR}"/sv.pak "${TEMP_DIR}/PSP_GAME/USRDIR/game/"
 
+# skits
+# cp "${OUT_DIR}"/talk/*.at3 "${TEMP_DIR}/PSP_GAME/USRDIR/talk/"
+
 # btl
 cp "${OUT_DIR}"/btl/t???.d "${OUT_DIR}"/e.d "${TEMP_DIR}/PSP_GAME/USRDIR/btl/"
 

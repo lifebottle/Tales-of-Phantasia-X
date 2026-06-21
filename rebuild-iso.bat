@@ -26,6 +26,9 @@ robocopy "%OUT_DIR%" "%TEMP_DIR%\PSP_GAME\USRDIR\game" mc_face0.d logos.acf sys.
 REM scenario voices
 REM robocopy "%OUT_DIR%" "%TEMP_DIR%\PSP_GAME\USRDIR\game" sv.pak /COPY:DAT /R:2 /W:5 /NFL /NDL /NP
 
+REM skits
+REM robocopy "%OUT_DIR%" "%TEMP_DIR%\PSP_GAME\USRDIR\talk" *.at3 /COPY:DAT /R:2 /W:5 /NFL /NDL /NP
+
 REM btl
 robocopy "%OUT_DIR%\btl" "%TEMP_DIR%\PSP_GAME\USRDIR\btl" t???.d /COPY:DAT /R:2 /W:5 /NFL /NDL /NP
 robocopy "%OUT_DIR%" "%TEMP_DIR%\PSP_GAME\USRDIR\btl" e.d /COPY:DAT /R:2 /W:5 /NFL /NDL /NP
