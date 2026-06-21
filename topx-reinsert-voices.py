@@ -59,7 +59,11 @@ def convert_btl_voice():
     dest_dir = out_dir / 'btl_voice'
     _convert = partial(convert_wav, dest_dir, 64)
     files = raw_dir.glob('*.wav')
-    Parallel(n_jobs=-1)(delayed(_convert)(fname) for fname in files)
+
+    if not disable_parallel:
+        Parallel(n_jobs=-1)(delayed(_convert)(fname) for fname in files)
+    else:
+        [_convert(fname) for fname in files]
 
 def reinsert_sv():
     fname = 'sv'
