@@ -19,9 +19,10 @@ ext_dir = paths['extracted']
 disable_parallel = envs.get('NO_PARALLEL')
 
 @logger.catch
-def convert_wav(out_dir, bitrate, fname):
+def convert_wav(out_dir, bitrate, fname, suffix='.wav'):
     logger.info(f'converting {fname}')
     out_name = out_dir / fname.name
+    out_name = out_name.with_suffix(suffix)
 
     try:
         if out_name.stat().st_mtime > fname.stat().st_mtime:
@@ -228,6 +229,17 @@ def reinsert_btl_voice_eboot():
         out.seek(size_tbl - eboot_base)
         out.write(b''.join(struct.pack('<I', x) for x in sizes))
 
+def convert_talk():
+    raw_dir = out_dir / 'talk/raw'
+    dest_dir = out_dir / 'talk'
+    _convert = partial(convert_wav, dest_dir, 48, 'at3')
+    files = raw_dir.glob('*.wav')
+
+    if not disable_parallel:
+        Parallel(n_jobs=-1)(delayed(_convert)(fname) for fname in files)
+    else:
+        [_convert(fname) for fname in files]
+
 if __name__ == '__main__':
     convert_sv()
     reinsert_sv()
@@ -235,3 +247,4 @@ if __name__ == '__main__':
     # btl_voice.pak seems to be unused in ToPX, it uses the embedded one instead
     # reinsert_btl_voice()
     reinsert_btl_voice_eboot()
+    convert_talk()
