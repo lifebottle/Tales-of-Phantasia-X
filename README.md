@@ -250,7 +250,7 @@ Depending on the circumstances, some debugging and additional code tweaks might 
 
 - If you add any new accents that have descenders and need to be shifted by one pixel (similarly to y, j, g, q), you will need to edit two routines in ``asm/topx-new-code.asm``: ``menu_get_char_yoffs`` and ``battle_item_yoffs_stub``.
 
-- Some system messages ("Replace with whom", "Can't hold any more", "Changed into", "has been lit/extinguished") have hardcoded offsets that need to be patched if the item/character name is in a different positioni than English.
+- Some system messages ("Replace with whom", "Can't hold any more", "Changed into", "has been lit/extinguished") have hardcoded offsets that need to be patched if the item/character name is in a different position than English.
 
 Look for ``NOTE: needs to be edited if message changes`` in ``asm/topx-menus.asm``.
 
