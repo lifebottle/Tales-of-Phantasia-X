@@ -1,6 +1,8 @@
 # Tales-of-Phantasia-X
 Tales of Phantasia X English Translation
 
+**Should I play this or Full Voice Edition?** Play this version if you want faster-paced combat and extra content with the new character Rondoline, who ties into Narikiri Dungeon X. If you want the old battle system with none of the extra content, play [Full Voice Edition](https://github.com/lifebottle/Tales-of-Phantasia-Full-Voice-Edition/).
+
 <img width="480" height="272" alt="image" src="https://github.com/user-attachments/assets/ab140158-20b1-45fc-8f32-b877cb3aafec" />
 
 - **Project Managers**
