@@ -170,3 +170,12 @@ org 0x088e1898
     .db 0x82, 0x98
     .db 0x82, 0x99
     .db 0x82, 0x9a
+
+   ; make_msg_buf - remove special handling for quote character
+   ; 088e1e9c 12 00      li      v1,0x12
+   ;          03 24
+   ; 088e1ea0 70 00      beq     a0,v1,LAB_088e2064
+   ;          83 10
+   .org 0x088e1e9c
+        nop
+        nop
