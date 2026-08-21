@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding=utf-8 -*-
 
-import sys
 import struct
 import re
 
@@ -15,10 +14,6 @@ import click
 
 from libs.TextDecoder import TextDecoder
 from libs.util import logger
-
-stem = Path(sys.argv[1]).stem
-
-logger.add(f'/tmp/{stem}-log.txt')
 
 @dataclass
 class Pointer:
@@ -143,110 +138,26 @@ def parse_01(buf, offs, want_stop=True):
                 elif mode == 0x2000:
                     offs += 3
             case 0x8000:
-
                 if want_stop:
                     break
             case 0xc000:
                 if data == 0:
                     break
-            case _:
-                logger.debug(f'unknown opcode: {opcode:X}')
 
     return offs
 
-def dump_string(buf, pos):
-    out = []
-
-    while True:
-        c = buf[pos]
-
-        if tmp := decoder.tbl.has(buf, pos):
-            decoded, raw = tmp
-            out += [decoded]
-            pos += len(raw)
-
-            if out[-1].rstrip() == '{END}':
-                logger.debug(''.join(out))
-                break
-
-            continue
-
-        logger.debug(f'{pos:X}')
-
-        match c:
-            case 0x05:
-                num = struct.unpack_from('<H', buf, pos + 2)[0]
-                pos += 4
-                out += [f'<speed_{num:04X}>']
-                logger.debug(out[-1])
-            case 0x06:
-                num = struct.unpack_from('<H', buf, pos + 2)[0]
-                pos += 4
-                out += [f'<color_{num:04X}>']
-            case 0x07:
-                num = struct.unpack_from('<H', buf, pos + 2)[0]
-                try:
-                    name = names[num - 1]
-                except IndexError:
-                    logger.debug(f'{pos:X}')
-                    if num >= 0x10:
-                        name = f'audio_{num:04X}'
-                    else:
-                        name = f'char_{num:04X}'
-                    logger.debug(name)
-                pos += 4
-                out += [f'<{name}>']
-            case 0x08:
-                # purposely reversed endianess
-                num = struct.unpack_from('>H', buf, pos + 2)[0]
-                pos += 4
-                out += [f'<item_{num:04X}>']
-            case 0x09:
-                # purposely reversed endianess
-                num = struct.unpack_from('>H', buf, pos + 2)[0]
-                pos += 4
-                out += [f'<var_{num:04X}>']
-            case 0x0A:
-                num = struct.unpack_from('<I', buf, pos + 2)[0]
-                pos += 6
-                out += [f'<num1_{num:08X}>']
-            case 0x0B:
-                num = struct.unpack_from('<I', buf, pos + 2)[0]
-                pos += 6
-                out += [f'<num2_{num:08X}>']
-            case 0x0C:
-                num = struct.unpack_from('<I', buf, pos + 2)[0]
-                pos += 6
-                out += [f'<num3_{num:08X}>']
-            case 0x0d:
-                num = struct.unpack_from('<I', buf, pos + 2)[0]
-                pos += 6
-                out += [f'<num4_{num:08X}>']
-            case 0x0E:
-                num = struct.unpack_from('<I', buf, pos + 2)[0]
-                pos += 6
-                out += [f'<num5_{num:08X}>']
-            case _:
-                out += ['{' + f'{buf[pos]:02X}' + '}']
-                pos += 1
-
-        logger.debug(out[-1])
-
-def parse_event(buf, offs, code_offs, start_addr):
+def parse_event(buf, offs, code_offs):
     ptrs = []
     seen = set()
     rets = []
 
     while True:
-        logger.debug('---')
-        logger.debug(f'{offs=:X}')
         c = buf[offs]
         offs += 1
         logger.debug(f'{c=:X}')
 
         match c:
             case 0:
-                logger.debug('end')
                 break
             case 1 | 7:
                 want_stop = 0 # c == 1
@@ -256,24 +167,23 @@ def parse_event(buf, offs, code_offs, start_addr):
                 tgt += code_offs
 
                 if tgt in seen:
-                    # logger.debug(f'call to 0x{tgt:04X} (skipped)')
+                    logger.debug(f'call to 0x{tgt:04X} (skipped)')
                     offs += 2
                 else:
                     rets.append(offs + 2)
                     seen.add(tgt)
                     offs = tgt
-                    # logger.debug(f'call to 0x{tgt:04X}')
+                    logger.debug(f'call to 0x{tgt:04X}')
             case 3:
                 offs = rets.pop()
-                # logger.debug(f'ret to {offs:04X}')
+                logger.debug(f'ret to {offs:04X}')
             case 4 | 5 | 6:
                 offs += 2
             case c if 0x10 <= c <= 0x22:
                 logger.debug('text box')
                 ptr = struct.unpack_from('<H', buf, offs)[0]
                 logger.debug(f'{ptr=:X}')
-                # ptrs += [Pointer(offs, ptr)]
-                dump_string(buf, ptr + start_addr)
+                ptrs += [Pointer(offs, ptr)]
                 offs += 2
             case _:
                 logger.warning(f'Unknown opcode: {c:02X}')
@@ -286,25 +196,20 @@ def parse_events(buf):
     logger.debug(f'{events_num=:x}')
     events = buf[12:12 + (events_num * 8)]
     ptrs = []
-    ptrs += parse_event(buf, code_start, code_start, start_addr)
+    ptrs += parse_event(buf, code_start, code_start)
 
     for i in range(events_num):
         event_type, event_id, event_offs = struct.unpack_from('<2HI', events, i * 8)
-        logger.debug(f'EVENT {i}')
+        ptrs += parse_event(buf, event_offs, code_start)
         logger.debug(f'{event_type=:X}')
         logger.debug(f'{event_id=:X}')
         logger.debug(f'{event_offs=:X}')
-        ptrs += parse_event(buf, event_offs, code_start, start_addr)
 
-    event0_end = struct.unpack_from('<I', events, 4)[0]
-    event0 = buf[code_start:event0_end]
-    events = buf[:start_addr]
+    ptrs = sorted(ptrs, key=lambda x: x.target)
+    logger.debug('ptrs:')
+    logger.debug([f'{x.target:X}' for x in ptrs[1:]])
 
-    # ptrs = sorted(ptrs, key=lambda x: x.target)
-    # logger.debug('ptrs:')
-    # logger.debug([f'{x.target:X}' for x in ptrs[1:]])
-
-    return ptrs, event0, events
+    return ptrs
 
 @click.command
 @click.argument('fname')
@@ -314,10 +219,7 @@ def dump_file(fname):
     buf = fname.read_bytes()
 
     _, start_addr = struct.unpack_from('<2I', buf)
-    ptrs, event0, events = parse_events(buf)
-
-    Path(f'/tmp/{fname.stem}_event0.bin').write_bytes(event0)
-    Path(f'/tmp/{fname.stem}_events.bin').write_bytes(events)
+    ptrs = parse_events(buf)
 
     end = len(buf)
     pos = start_addr
@@ -400,21 +302,21 @@ def dump_file(fname):
         logger.debug(out[-1])
 
     # remove extra offset after last string
-    # string_offs = sorted(string_offs[:-1])
+    string_offs = sorted(string_offs[:-1])
 
     # we don't need to patch the first pointer
-    # ptrs = ptrs[1:]
-    #
-    # missing_pointers = audit_pointers(buf, string_offs, ptrs)
-    # ptrs += missing_pointers
-    # ptrs = [x for x in ptrs if x.target > 0]
-    # ptrs = sorted(ptrs, key=lambda x: x.target)
-    #
-    # log_pointers(string_offs, ptrs)
-    #
-    # out = ''.join(out)
-    # fname.with_suffix('.txt').write_text(out)
-    # save_pointers(fname.stem, ptrs)
+    ptrs = ptrs[1:]
+
+    missing_pointers = audit_pointers(buf, string_offs, ptrs)
+    ptrs += missing_pointers
+    ptrs = [x for x in ptrs if x.target > 0]
+    ptrs = sorted(ptrs, key=lambda x: x.target)
+
+    log_pointers(string_offs, ptrs)
+
+    out = ''.join(out)
+    fname.with_suffix('.txt').write_text(out)
+    save_pointers(fname.stem, ptrs)
 
 if __name__ == '__main__':
     dump_file()
