@@ -8,10 +8,11 @@ from dotenv import dotenv_values
 from pathlib import Path
 from loguru import logger
 
-logger.add('topx.log', level='DEBUG', format='<level>{level: <8}</level> | {file}:{name}:{function}:{line} - <level>{message}</level>', mode='a+')
-logger.add('topx-errors.log', level='ERROR', format='<level>{level: <8}</level> | {file}:{name}:{function}:{line} - <level>{message}</level>', mode='a+')
-
 envs = dotenv_values()
+
+if envs.get('DEBUG_LOG'):
+    logger.add('topx.log', level='DEBUG', format='<level>{level: <8}</level> | {file}:{name}:{function}:{line} - <level>{message}</level>', mode='a+')
+    logger.add('topx-errors.log', level='ERROR', format='<level>{level: <8}</level> | {file}:{name}:{function}:{line} - <level>{message}</level>', mode='a+')
 
 paths = {
     'orig': Path(envs.get('ORIG_DIR', 'orig')),
