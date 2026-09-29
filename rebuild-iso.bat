@@ -45,5 +45,7 @@ if NOT "%~1" == "--disable-qol" (
 REM Create ISO using mkisofs.exe
 "mkisofs.exe" -quiet -sort filelist.txt -iso-level 4 -xa -A "PSP GAME" -V "" -sysid "PSP GAME" -volset "" -p "NAMCO TALES STUDIO" -publisher "NBGI" -o "%OUT_DIR%\topx.iso" "%TEMP_DIR%"
 
+REM Clean up
+rmdir /s /q "%TEMP_DIR%"
 
 ENDLOCAL
