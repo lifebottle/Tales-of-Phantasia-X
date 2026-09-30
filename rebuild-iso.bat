@@ -4,7 +4,7 @@ call loadenv.bat
 SETLOCAL ENABLEEXTENSIONS
 
 REM Directories
-SET TEMP_DIR=%TEMP%\topx
+SET "TEMP_DIR=%TEMP%\topx"
 
 REM Clean TEMP_DIR if it exists
 if exist "%TEMP_DIR%" rmdir /s /q "%TEMP_DIR%"
