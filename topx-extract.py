@@ -87,9 +87,8 @@ def extract_file3(fname, out_dir=None):
             out_name.write_bytes(buf[start_addr:end])
 
 def extract_monsters():
-    monsters_path = orig_dir / 'PSP_GAME/USRDIR/btl'
-    dest_path = ext_dir / 'monsters'
-    dest_path.mkdir(exist_ok=True)
+    monsters_path = ext_dir / 'monsters'
+    monsters_path.mkdir(exist_ok=True)
 
     for fname in sorted(monsters_path.glob('t???.d')):
         logger.debug(f'extracting {fname}')
@@ -100,7 +99,8 @@ def extract_monsters():
         for i, (offs, size) in enumerate(blocks):
             temp = buf[offs:offs + size]
 
-            new_name = dest_path / fname.with_stem(f'{fname.stem}_{i:02d}').name
+            new_name = f'{fname.stem}_{i:02d}'
+            new_name = fname.with_stem(new_name)
             new_name.write_bytes(temp)
             logger.debug(f' {offs=:08X}')
             mode = buf[offs]
